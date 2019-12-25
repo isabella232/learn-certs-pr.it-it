@@ -7,14 +7,14 @@ uid: exam.ms-200
 displayName: MS-200
 summary: |-
    <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 4 dicembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/></div>
+ 
+   I candidati a questo esame sono amministratori di messaggistica che installano, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta elettronica, il flusso della posta elettronica e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
 
-  I candidati a questo esame sono amministratori di messaggistica che installano, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta elettronica, il flusso della posta elettronica e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
+   Gli amministratori della messaggistica sono responsabili della gestione della pulizia, dell'infrastruttura di messaggistica, della configurazione ibrida, della migrazione, del ripristino di emergenza, dell'alta disponibilità e dell'accesso client.
 
-  Gli amministratori della messaggistica sono responsabili della gestione della pulizia, dell'infrastruttura di messaggistica, della configurazione ibrida, della migrazione, del ripristino di emergenza, dell'alta disponibilità e dell'accesso client.
+   Gli amministratori della messaggistica collaborano con l'amministratore della sicurezza e l'amministratore di Microsoft 365 Enterprise per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'azienda moderna.
 
-  Gli amministratori della messaggistica collaborano con l'amministratore della sicurezza e l'amministratore di Microsoft 365 Enterprise per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'azienda moderna.
-
-  L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
+   L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: gestire le moderne infrastrutture di messaggistica; gestire la topologia del flusso di posta; e gestire i destinatari e i dispositivi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7

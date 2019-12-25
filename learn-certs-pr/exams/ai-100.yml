@@ -54,7 +54,7 @@ relatedCertifications:
     uid: certification.azure-ai-engineer
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure AI Engineer Associate’.
+  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure AI Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
