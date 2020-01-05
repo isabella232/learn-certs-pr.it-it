@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-201
 displayName: MS-201
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 25 novembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 25 novembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
 
   I candidati a questo esame sono amministratori di messaggistica che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta elettronica, il flusso della posta elettronicae le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
 
@@ -18,7 +18,7 @@ summary: |-
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: pianificare e implementare una configurazione ibrida e una migrazione; mettere in sicurezza l’ambiente di messaggistica; e gestire le impostazioni dell’azienda.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-201&examname=Exam%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-201&examname=Esame%20MS-201:%20Implementare%20una%20piattaforma%20di%20messaggistica%20ibrida%20e%20sicura&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-201
 locales:
 - en
 levels:
