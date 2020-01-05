@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 4 dicembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 4 dicembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
 
   I candidati a questo esame sono tecnici della sicurezza di Microsoft Azure che implementano controlli di sicurezza, aggiornano il comportamento di sicurezza, gestiscono le identità e gli accessi, e proteggono dati, applicazioni e reti. I candidati sono in grado di identificare e risolvere le vulnerabilità tramite numerosi strumenti di sicurezza, implementare la protezione contro le minacce e rispondere alle riassegnazioni degli incidenti di sicurezza. Nella loro posizione di tecnici responsabili della sicurezza di Microsoft Azure, i candidati fanno spesso parte di team più ampi che si occupano della gestione e della sicurezza basata su cloud, oltre che della protezione degli ambienti ibridi nell’ambito di un’infrastruttura end-to-end.
 
@@ -15,7 +15,7 @@ subTitle: 'Questo esame misura la tua capacità di effettuare le seguenti attivi
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-500&examname=Esame%20AZ-500:%20Tecnologie%20di%20sicurezza%20di%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja

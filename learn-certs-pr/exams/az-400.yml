@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-   <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 3 dicembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/></div>
+   <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 3 dicembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
 
    I candidati a questo esame sono professionisti DevOps che gestiscono persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino le necessità degli utenti e gli obiettivi dell'azienda. I professionisti DevOps velocizzano la consegna ottimizzando le prassi, migliorando la comunicazione e collaborazione e creando automatismi. Progettano e implementano strategie per i codici delle applicazioni e le infrastrutture in modo da permettere un'integrazione continua, un test continuo, una consegna continua e un continuo monitoraggio e feedback.
 
@@ -15,7 +15,7 @@ subTitle: "Questo esame misura la tua capacità di progettare una strategia DevO
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-400&examname=Esame%20AZ-400:%20Soluzioni%20Microsoft%20Azure%20DevOps&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja

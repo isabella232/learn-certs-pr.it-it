@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 23 ottobre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 23 ottobre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
 
   Questo esame è pensato per i candidati che desiderano dimostrare una conoscenza di base dei servizi cloud e di come tali servizi vengano forniti con Microsoft Azure. L'esame è rivolto ai candidati senza un background tecnico, come quelli che sono coinvolti nella vendita o nell'acquisto di soluzioni e servizi basati sul cloud o che sono coinvolti in qualche modo con soluzioni e servizi basati sul cloud, così come a coloro con un background tecnico che hanno la necessità di convalidare le loro conoscenze di base dei servizi cloud. Benché non sia richiesta alcuna esperienza IT tecnica, è utile avere conoscenze IT generali.
 
@@ -15,7 +15,7 @@ subTitle: 'Questo esame misura la tua capacità di comprendere i seguenti concet
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-900
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-900&examname=Esame%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja

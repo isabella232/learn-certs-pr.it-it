@@ -119,7 +119,7 @@ I corsi di formazione e certificazione di Microsoft disponibili tramite il contr
 
 **D: se acquisto una licenza per le soluzioni di formazione e certificazione di Microsoft, come accedo ai contenuti?**
 
-Puoi accedere alle soluzioni per la formazione e certificazione di Microsoft [Raccolte Microsoft E-Reference Library e voucher per gli esami Microsoft Certification Program [MCP] utilizzando i codici di accesso. I codici di accesso permettono ai dipendenti di scegliere l’opzione di formazione che preferiscono. In qualità di amministratore, riceverai i codici di accesso in formato elettronico dopo aver stipulato il contratto Multilicenza. Puoi attivare i codici in qualsiasi momento durante il periodo di validità del contratto.
+Puoi accedere alle soluzioni per la formazione e certificazione di Microsoft (Raccolte Microsoft E-Reference Library e voucher per gli esami Microsoft Certification Program [MCP]) utilizzando i codici di accesso. I codici di accesso permettono ai dipendenti di scegliere l’opzione di formazione che preferiscono. In qualità di amministratore, riceverai i codici di accesso in formato elettronico dopo aver stipulato il contratto Multilicenza. Puoi attivare i codici in qualsiasi momento durante il periodo di validità del contratto.
 
 **Nota** Se ottieni i tuoi codici di accesso mentre è in corso il contratto, i costi e i benefici saranno rateizzati, in base alla durata restante del contratto.
 
