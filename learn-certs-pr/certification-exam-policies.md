@@ -1076,7 +1076,7 @@ Per domande generali relative alla registrazione all'esame, contattare il [Centr
 
 **Cosa occorre fare per richiedere una sistemazione speciale?**
 
-Se si necessita di attrezzature particolari o di una sistemazione speciale per sostenere l’esame, è possibile inviare la tua richiesta tramite [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizzando il sistema “Reasonable Adjustments Request System” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Per ulteriori dettagli, consulta la sezione [Sistemazione speciale per gli esami](#special-accommodations-when-taking-exams) riportata in precedenza.
+Se si necessita di attrezzature particolari o di una sistemazione speciale per sostenere l’esame, è possibile inviare la tua richiesta tramite [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizzando il sistema “Reasonable Adjustments Request System” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Per ulteriori dettagli, consulta la sezione Sistemazione speciale per gli esami riportata in precedenza.
 
 **Perché devo presentare della documentazione?**
 
