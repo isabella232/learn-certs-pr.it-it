@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 In tutto il mondo, partner e clienti si aspettano che Microsoft faccia esami e rilasci certificazioni della massima qualità. I criteri degli esami di certificazione Microsoft sono stati sviluppati per sostenere gli obiettivi del programma di certificazione, tra cui:
 
-## Criteri di sicurezza e per la ripetizione degli esami
+## <a name="security-policies"></a> Criteri di sicurezza e per la ripetizione degli esami
 
 Microsoft applica criteri specifici in merito agli aspetti di sicurezza relativamente agli esami di certificazione Microsoft Certified Professional (MCP).
 
@@ -517,7 +517,7 @@ Per ulteriori informazioni, visita: [Credito NCCRS per le certificazioni Microso
 
 Scarica: [Applicazione del servizio di trascrizione](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Impugnazione di un elemento presente in un esame di certificazione Microsoft
+## <a name="policies-5"></a> Impugnazione di un elemento presente in un esame di certificazione Microsoft
 
 [Ciascuna domanda degli esami viene attentamente rivista](https://www.microsoft.com/it-it/learning/certification-exams.aspx) da un comitato di esperti in tecnologie e funzioni lavorative che revisionano le domande per verificarne la precisione, la chiarezza e la rilevanza. Se si ritiene che una specifica domanda di un esame di certificazione Microsoft non sia valida, è possibile richiederne una valutazione seguendo la procedura descritta di seguito. Il modulo per l’impugnazione di un elemento presente in un esame deve essere inviato entro 30 giorni dalla data in cui si è sostenuto l'esame.
 
@@ -553,7 +553,7 @@ Se necessiti di attrezzature particolari o di una sistemazione speciale per sost
 
 Se hai bisogno di ulteriore tempo perché l’esame non è disponibile nella tua lingua natale, necessiti di attrezzature speciali o vorresti richiedere un’altra sistemazione per sostenere l’esame, puoi farlo tramite Certiport seguendo la procedura descritta [qui](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
 
-### Criteri per l’annullamento e la ripianificazione
+### <a name="cancellation-and-reschedule-policy"></a> Criteri per l’annullamento e la ripianificazione
 
 - Non verrà addebitata alcuna tassa di esame se l'appuntamento dell'esame viene annullato o modificato almeno 6 giorni feriali prima dell'appuntamento.
 - Sarà applicata una penalità se si annulla o modifica l'esame entro 5 giorni feriali dall'ora registrata per l'esame.

@@ -28,18 +28,18 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2
 exams:
 - uid: exam.az-120
 resources:
-- title: 訓練和認證指南
-  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 認證海報
-  description: 查看關於基礎知識、角色型和專業認證的概述。
+- title: Poster sulle certificazioni
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
-  description: 查看兩份可幫助您提高成功幾率的好提議。
+- title: Ripetizione dell’esame
+  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
-- title: 支持認證
-  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
-- title: 認證儀錶板
-  description: 檢閱並管理您的預定測驗、證書和成績單。
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/it-it/learning/dashboard.aspx

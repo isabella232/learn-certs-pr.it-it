@@ -29,7 +29,7 @@ Inoltre, potrai accedere a [MCT Central](https://www.microsoft.com/en-us/learnin
 
 [Scopri tutti i vantaggi accessibili agli MCT.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## Requisiti
+## <a name="mctinfoheading-3"></a> Requisiti
 
 Il programma MCT è pensato per i docenti di tutto il mondo che svolgono attivamente attività di formazione sulle tecnologie Microsoft. L'iscrizione a questo programma è consigliata a tutti i professionisti già in possesso di una certificazione o qualifica, con la passione per la formazione sulle tecnologie Microsoft.
 
