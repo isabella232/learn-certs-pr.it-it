@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Dynamics 365 per Customer Engagement per Customer Service
+metadata:
+  title: 'Course MB-230T01-A: Dynamics 365 per Customer Engagement per Customer Service'
+  description: 'Course MB-230T01-A: Dynamics 365 per Customer Engagement per Customer Service'
+uid: course.mb-230t01
+courseNumber: 'MB-230T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Installare e configurare l'app del servizio clienti
+- skill: Identificare gli scenari comuni del servizio clienti
+- skill: Completare un processo di risoluzione del caso
+- skill: Analizzare i dati del servizio clienti
+- skill: Automatizzare l'elaborazione dei record di gestione dei casi
+- skill: Creare e utilizzare articoli di conoscenza
+- skill: Creare e utilizzare i diritti e i contratti sul livello di servizio
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-customer-service
+exams:
+- uid: exam.mb-230
+summary: |-
+  Microsoft Dynamics 365 for Customer Service offre a qualsiasi organizzazione un'opportunità di successo per i clienti. L'utilizzo di strumenti come la creazione automatica dei casi e la gestione delle code libera tempo da dedicare dove è possibile per ottenere un maggiore impatto, direttamente con i clienti.
+
+  Il nostro team di esperti riconosciuti a livello mondiale accompagna gli studenti passo dopo passo, dalla creazione dei casi, all'interazione con i clienti, alla risoluzione dei casi. Una volta risolti questi casi, gli studenti impareranno dall'analisi dei dati i dettagli chiave per aiutare a risolvere più velocemente casi simili o evitare del tutto nuovi problemi.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 Customer Engagement Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Questo corso è destinato a persone che aspirano al ruolo di Microsoft 365 Enterprise Admin e che hanno completato uno dei percorsi di certificazione di amministratore del carico di lavoro di Microsoft 365.
+outlineSection: |-
+  ### Modulo 1&#58; Panoramica sul Servizio Clienti
+  In questo modulo gli studenti impareranno le basi sul servizio clienti in Dynamics 365.  Gli studenti installeranno e configureranno l'applicazione, oltre a conoscere i ruoli di sicurezza, le applicazioni correlate e l'analitica.
+  #### Lezioni
+  - Lezione 1&#58; Creare record di casi
+  - Lezione 2&#58; Applicazioni di servizio correlate
+  - Lezione 3&#58; Analitica per il servizio
+  - Lezione 4&#58; IA per il servizio
+  - Lezione 5&#58; Configurazione del servizio clienti
+  - Lezione 6&#58; Riassunto del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Installare e configurare la richiesta per il servizio clienti
+  - Identificare gli scenari comuni del servizio clienti
+
+
+  ### Modulo 2&#58; Gestione caso
+  In questo modulo gli studenti impareranno ad aprire e risolvere i casi di assistenza clienti, sia manualmente sia con l'automazione.
+  #### Lezioni
+  - Lezione 1&#58; Panoramica sulla gestione dei casi
+  - Lezione 2&#58; Creazione di record di casi
+  - Lezione 3&#58; Gestione code
+  - Lezione 4&#58; Instradamento dei casi
+  - Lezione 5&#58; Risoluzione dei casi
+  - Lezione 6&#58; Riassunto del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Aprire e risolvere i casi del servizio clienti
+  - Automatizzare la creazione di casi e l'instradamento
+
+
+  ### Modulo 3&#58; Contratti sui livelli di servizio e diritti
+  In questo modulo gli studenti impareranno come definire e utilizzare i diritti e i modelli di diritti, così come i contratti sui livelli di servizio e come questi strumenti permettono di risolvere i casi.
+  #### Lezioni
+  - Lezione 1&#58; Contratti sui livelli dei servizio e panoramica dei diritti
+  - Lezione 2&#58; Creare e gestire i diritti
+  - Lezione 3&#58; Creare e gestire i contratti sui livelli di servizio
+  - Lezione 4&#58; Riassunto del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e utilizzare contratti sul livello di servizio
+  - Creare e utilizzare gli obiettivi
+
+
+  ### Modulo 4&#58; Gestione delle conoscenze
+  In questo modulo gli studenti impareranno a creare e utilizzare la gestione delle conoscenze.  Inoltre, gli studenti impareranno il ciclo di vita degli articoli di conoscenze.
+  #### Lezioni
+  - Lezione 1&#58; Panoramica sulla gestione delle conoscenze
+  - Lezione 2&#58; Creazione e organizzazione
+  - Lezione 3&#58; Utilizzare il contenuto delle conoscenze
+  - Lezione 4&#58; Gestire il contenuto delle conoscenze
+  - Lezione 5&#58; Riassunto del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e gestire i contenuti delle conoscenze

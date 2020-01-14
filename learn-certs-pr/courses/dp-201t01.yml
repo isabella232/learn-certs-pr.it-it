@@ -1,0 +1,175 @@
+### YamlMime:Course
+title: Progettare una soluzione dati Azure
+metadata:
+  title: 'Corso DP-201T01-A: Progettare una soluzione dati Azure'
+  description: 'Corso DP-201T01-A: Progettare una soluzione dati Azure'
+uid: course.dp-201t01
+courseNumber: 'DP-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-201
+summary: |-
+  In questo corso gli studenti utilizzeranno varie tecnologie Data Platform per sviluppare soluzioni che soddisfino requisiti aziendali e tecnici specifici. Tali tecnologie possono includere scenari con dati locali, basati su cloud e ibridi che comprendono dati relazionali, NoSQL o Data Warehouse. Agli studenti verrà spiegato anche come progettare architetture di elaborazione utilizzando varie tecnologie per i dati in streaming e batch. Scopriranno inoltre come progettare la sicurezza dei dati, approfondendo argomenti come l’accesso ai dati, i criteri e gli standard applicabili ai dati. Durante il corso progetteranno infine soluzioni dati Azure, occupandosi tra l’altro dell’ottimizzazione, della disponibilità e del ripristino di emergenza di big data, dell’elaborazione in batch e di soluzioni con dati in streaming.
+  
+  #### Profilo dei destinatari
+  Questo corso è principalmente destinato a professionisti che si occupano di dati, agli architetti di dati e agli esperti di business intelligence che desiderano conoscere meglio le tecnologie Data Platform disponibili in Microsoft Azure. Il corso è consigliato anche a chiunque sviluppi applicazioni che forniscono contenuti utilizzando le tecnologie Data Platform disponibili in Microsoft Azure
+prerequisitesSection: |-
+  Oltre ad avere un’esperienza a livello professionale, gli studenti che decidono di seguire questo corso devono possedere le conoscenze tecniche che si acquisiscono tramite i seguenti corsi&#58;
+  - [Azure Fundamentals](https://docs.microsoft.com/it-it/learn/modules/welcome-to-azure/)
+  - DP-200&#58; Implementare una soluzione dati Azure
+outlineSection: |-
+  ### Modulo 1&#58; Considerazioni sull’architettura Data Platform
+  In questo modulo gli studenti impareranno a progettare e creare in Azure soluzioni sicure, scalabili e ad alte prestazioni facendo riferimento ai principi di base tipici di qualsiasi architettura efficiente. Impareranno anche come utilizzare i principi chiave di un’architettura, indipendentemente dalla tecnologia scelta, per progettare, creare e migliorare costantemente l’architettura al fine di soddisfare le esigenze aziendali.
+  #### Lezioni
+  - Principi di base per la creazione di architetture
+  - Progettare all’insegna della sicurezza
+  - Prestazioni e scalabilità
+  - Progettare la disponibilità e recuperabilità
+  - Progettare l’efficienza e operatività
+  - Case study
+  #### Laboratorio&#58; Case study
+  - Progettare all’insegna della sicurezza
+  - Valutare le prestazioni e la scalabilità
+  - Progettare la disponibilità e recuperabilità
+  - Progettare l’efficienza e operatività
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare all’insegna della sicurezza
+  - Valutare le prestazioni e la scalabilità
+  - Progettare la disponibilità e recuperabilità
+  - Progettare l’efficienza e operatività
+
+
+  ### Modulo 2&#58; Architetture di riferimento per l’elaborazione in batch in Azure
+  In questo modulo, gli studenti apprenderanno i modelli di progettazione e pianificazione di riferimento che possono essere utilizzati per gestire l’elaborazione in batch dei dati. Agli studenti verrà chiesto di gestire il trasferimento dei dati da sistemi locali a data warehouse nel cloud e di stabilire come automatizzarli. Verrà loro presentata anche un’architettura IA e chiesto loro come integrare la piattaforma dati con una soluzione IA.
+  #### Lezioni
+  - Architetture Lambda dalla prospettiva della modalità batch
+  - Progettare una soluzione BI Enterprise in Azure
+  - Automatizzare soluzioni BI Enterprise in Azure
+  - Progettare un bot per l’interfaccia di conversazione di livello aziendale in Azure
+
+
+  #### Laboratorio&#58; Progettare interfacce di conversazione di livello aziendale in Azure
+  - Progettare una soluzione BI Enterprise in Azure
+  - Automatizzare una soluzione BI Enterprise in Azure
+  - Automatizzare una soluzione BI Enterprise in Azure
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare i principi di base per la creazione di architetture
+  - Descrivere le architetture Lambda dalla prospettiva di una modalità batch
+  - Progettare una soluzione BI Enterprise in Azure
+  - Automatizzare soluzioni BI Enterprise in Azure
+  - Progettare un bot per l’interfaccia di conversazione di livello aziendale in Azure
+
+
+
+  ### Modulo 3&#58; Architetture di riferimento per l’elaborazione in tempo reale in Azure
+  In questo modulo, gli studenti apprenderanno i modelli di progettazione e pianificazione di riferimento che possono essere utilizzati per gestire i dati in streaming. In particolare impareranno in che modo utilizzare Hub event e Analisi di flusso per inserire i dati in streaming in modo da poter analizzare dati in tempo reale. Verrà presentata loro anche un’architettura di data science che esegue lo streaming dei dati in Azure Databricks per consentire l’analisi di tendenze. Infine, scopriranno che per un’architettura IoT (Internet of Things) sono necessarie tecnologie Data Platform per archiviare i dati.
+  #### Lezioni
+  - Illustrare le architetture Lambda per una prospettiva in tempo reale
+  - Progettare una pipeline di elaborazione del flusso con Azure Stream Analytics
+  - Progettare una pipeline di elaborazione del flusso con Azure Databricks
+  - Creare un’architettura IoT di riferimento in Azure
+
+
+  #### Laboratorio&#58; Architetture di riferimento per l’elaborazione in tempo reale di Azure
+  - Progettare una pipeline di elaborazione del flusso con Azure Stream Analytics
+  - Progettare una pipeline di elaborazione del flusso con Azure Databricks
+  - Creare un’architettura IoT di riferimento in Azure
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le architetture Lambda per una modalità in tempo reale
+  - Progettare una pipeline di elaborazione del flusso con Azure Stream Analytics
+  - Progettare una pipeline di elaborazione del flusso con Azure Databricks
+  - Creare un’architettura IoT di riferimento in Azure
+
+
+  ### Modulo 4&#58; Considerazioni progettuali sulla sicurezza Data Platform
+  In questo modulo gli studenti apprenderanno come integrare la sicurezza in un progetto di un’architettura e individuare i punti decisionali principali di Azure che favoriscono la creazione di un ambiente sicuro a tutti i livelli dell’architettura.
+  #### Lezioni
+  - Approccio alla sicurezza basato su misure di difesa avanzate
+  - Gestione delle identità
+  - Protezione dell’infrastruttura
+  - Utilizzo della crittografia
+  - Protezione a livello di rete
+  - Difesa delle applicazioni
+
+
+  #### Laboratorio&#58; Considerazioni progettuali sulla sicurezza Data Platform
+  - Approccio alla sicurezza basato su misure di difesa avanzate
+  - Protezione delle identità
+
+  Al termine di questo modulo, gli studenti sapranno illustrare i seguenti argomenti&#58;
+  - Approccio alla sicurezza basato su misure di difesa avanzate
+  - Gestione delle identità
+  - Protezione dell’infrastruttura
+  - Utilizzo della crittografia
+  - Protezione a livello di rete
+  - Difesa delle applicazioni
+
+
+  ### Modulo 5&#58; Progettare la resilienza e il ridimensionamento
+  In questo modulo gli studenti impareranno a utilizzare i servizi di ridimensionamento per gestire il carico di lavoro. Comprenderanno anche perché l’identificazione dei colli di bottiglia della rete e l’ottimizzazione delle prestazioni dell’archiviazione sono importanti per garantire agli utenti la migliore esperienza possibile. Apprenderanno inoltre come gestire i guasti a livello di infrastruttura e di servizi, eseguire un ripristino dei dati in caso di emergenza ed avviare un ripristino di emergenza integrando la disponibilità e la recuperabilità nell’architettura.
+  #### Lezioni
+  - Regolare la capacità del carico di lavoro mediante il ridimensionamento
+  - Ottimizzare le prestazioni della rete
+  - Progettare l’ottimizzazione delle prestazioni a livello di archiviazione e database
+  - Identificare i colli di bottiglia a livello di prestazioni
+  - Progettare una soluzione ad alta disponibilità
+  - Integrare il ripristino di emergenza nelle architetture
+  - Progettare strategie per il backup e il ripristino
+
+
+  #### Laboratorio&#58; Progettare la resilienza e il ridimensionamento
+  - Regolare la capacità del carico di lavoro mediante il ridimensionamento
+  - Progettare l’ottimizzazione delle prestazioni a livello di archiviazione e database
+  - Progettare una soluzione ad alta disponibilità
+  - Integrare il ripristino di emergenza nelle architetture
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Regolare la capacità del carico di lavoro mediante il ridimensionamento
+  - Ottimizzare le prestazioni della rete
+  - Progettare l’ottimizzazione delle prestazioni a livello di archiviazione e database
+  - Identificare i colli di bottiglia a livello di prestazioni
+  - Progettare una soluzione ad alta disponibilità
+  - Integrare il ripristino di emergenza nelle architetture
+  - Progettare strategie per il backup e il ripristino
+
+
+  ### Modulo 6&#58; Progettare il miglioramento dell’efficienza e dell’operatività
+  In questo modulo gli studenti apprenderanno come progettare un’architettura di Azure efficiente dal punto di vista operativo e capace di ridurre i costi grazie alla riduzione delle spese. Comprenderanno come progettare architetture che eliminino gli sprechi e garantiscano la completa visibilità di ciò che viene utilizzato nell’ambiente Azure di un’azienda.
+  #### Lezioni
+  - Massimizzare l’efficienza di un ambiente cloud
+  - Utilizzare le funzioni di monitoraggio e analisi per ottenere informazioni di carattere operativo
+  - Utilizzare l’automazione per ridurre gli sforzi e gli errori
+
+
+  #### Laboratorio&#58; Progettare l’efficienza e operatività
+  - Massimizzare l’efficienza di un ambiente cloud
+  - Utilizzare le funzioni di monitoraggio e analisi per ottenere informazioni di carattere operativo
+  - Utilizzare l’automazione per ridurre gli sforzi e gli errori
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Massimizzare l’efficienza di un ambiente cloud
+  - Utilizzare le funzioni di monitoraggio e analisi per ottenere informazioni di carattere operativo
+  - Utilizzare l’automazione per ridurre gli sforzi e gli errori

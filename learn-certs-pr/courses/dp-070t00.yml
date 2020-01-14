@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Eseguire la migrazione di carichi di dati open source ad Azure
+metadata:
+  title: 'Corso DP-070T00-A: Eseguire la migrazione di carichi di dati open source ad Azure'
+  description: 'Corso DP-070T00-A: Eseguire la migrazione di carichi di dati open source ad Azure'
+uid: course.dp-070t00
+courseNumber: 'DP-070T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Eseguire la migrazione di un database MySQL locale a un database SQL di Azure per MySQL
+- skill: Eseguire la migrazione di un database PostgreSQL locale a un database SQL di Azure per PostgreSQL
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  Questo corso permetterà agli studenti di comprendere cos’è un database SQL di Azure e di capire ciò che è necessario per eseguire la migrazione di carichi di lavoro MySQL e PostgreSQL a un database SQL di Azure.
+  
+  #### Profilo dei destinatari
+  Questo corso è destinato principalmente agli sviluppatori di database che prevedono di eseguire la migrazione dei loro carichi di lavoro MySQL o Postgre SQL a un database SQL di Azure.
+  Il corso è consigliato anche agli amministratori di carichi di lavoro MySQL/Postgres che desiderano mettere in evidenza le funzionalità e i vantaggi di un database SQL di Azure.
+prerequisitesSection: |-
+  Oltre alla propria esperienza professionale, i candidati che decidono di seguire questo corso di formazione devono già possedere le seguenti conoscenze tecniche&#58;
+  - Qualche nozione dei sistemi di gestione dei database relazionali open source, come Postgres e/o MySQL, di amministrazione di database SQL, delle tecniche di backup e ripristino, ossia dei dati delle tabelle di “dump”.
+outlineSection: |-
+  ### Modulo 1&#58; Eseguire la migrazione a un database SQL di Azure SQL DB per MySQL e PostgreSQL
+  Questo modulo descrive i vantaggi e l’architettura di un database SQL di Azure.
+  #### Lezioni
+  - Panoramica dei database OSS
+  - Carichi di lavoro comuni dei database OSS
+  - Sfide che devono affrontare i clienti durante la migrazione
+  #### Laboratorio&#58; Creare database OSS di origine
+  - Installare il server del database di migrazione Postgres
+  - Installare il server del database di migrazione MySQL
+  - Backup/dump dati da Postgres/MySQL
+  - Ripristino dai dump dei dati
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Panoramica dei database OSS
+  - Carichi di lavoro comuni dei database OSS
+  - Sfide che devono affrontare i clienti durante la migrazione
+
+
+  ### Modulo 2&#58; Eseguire un carico di lavoro MySQL locale in un database SQL di Azure per MySQL
+  Questo modulo descrive i vantaggi e la procedura da seguire per eseguire la migrazione dei carichi di lavoro MySQL a un database SQL di Azure.
+  #### Lezioni
+  - Configurare e gestire un database SQL di Azure per MySQL
+  - Eseguire la migrazione di un carico di lavoro MySQL locale a un database SQL per MySQL
+  - Eseguire la migrazione delle applicazioni
+  - Considerazioni post-migrazione
+
+
+  #### Laboratorio&#58; Eseguire la migrazione dei carichi di lavoro di un database MySQL a un database SQL di Azure
+  - Eseguire la migrazione dei carichi di lavoro di un database MySQL a un database SQL di Azure
+  - Definire i database di origine e destinazione
+  - Eseguire la migrazione
+  - Verificare la migrazione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare e gestire un database SQL di Azure per MySQL
+  - Eseguire la migrazione di un carico di lavoro MySQL locale a un database SQL per MySQL
+  - Eseguire la migrazione delle applicazioni
+  - Considerazioni post-migrazione
+
+
+  ###  Modulo 3&#58; Eseguire la migrazione di un database PostgreSQL locale a un database SQL di Azure per PostgreSQL
+  Questo modulo descrive i vantaggi e la procedura da seguire per eseguire la migrazione dei carichi di lavoro di un database PostgreSQL a un database SQL di Azure
+  #### Lezioni
+  - Configurare e gestire un database SQL di Azure per PostgreSQL
+  - Eseguire la migrazione di un database MySQL locale a un database SQL per PostgreSQL
+  - Eseguire la migrazione delle applicazioni
+  - Considerazioni post-migrazione
+
+
+  #### Laboratorio&#58; Eseguire la migrazione dei carichi di lavoro di un database PostgreSQL a un database SQL di Azure
+  - Configurare un database SQL di Azure per PostgreSQL
+  - Definire i database di origine e destinazione
+  - Eseguire la migrazione
+  - Verificare la migrazione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare e gestire un database SQL di Azure per PostgreSQL
+  - Eseguire la migrazione di un database MySQL locale a un database SQL per PostgreSQL
+  - Eseguire la migrazione delle applicazioni
+  - Considerazioni post-migrazione
+
+  #### Approfondimenti Non sono necessarie ulteriori letture di approfondimento prima di prendere parte a questo corso.

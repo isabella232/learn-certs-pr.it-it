@@ -1,0 +1,68 @@
+### YamlMime:Course
+title: Pianificazione delle risorse universali per Dynamics 365 for Field Service
+metadata:
+  title: 'Course MB-240T03-A: Pianificazione delle risorse universali per Dynamics 365 for Field Service'
+  description: 'Course MB-240T03-A: Pianificazione delle risorse universali per Dynamics 365 for Field Service'
+uid: course.mb-240t03
+courseNumber: 'MB-240T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificare i componenti principali utilizzati per programmare le voci.
+- skill: Configurare l'applicazione per sfruttare al meglio le funzionalità di programmazione.
+- skill: Sfruttare le funzionalità di pianificazione per individuare e programmare le risorse per il lavoro.
+- skill: Personalizzare l'applicazione per rappresentare al meglio le esigenze organizzative.
+- skill: Sviluppare soluzioni che possano essere utilizzate per programmare risorse singole o multiple.
+- skill: Identificare le opzioni di estensione disponibili come parte di Universal Resource Scheduling.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Qualsiasi organizzazione che richiede risorse per l'esecuzione dei servizi deve essere in grado di identificare e programmare in modo efficiente sulla base dei requisiti definiti dalle esigenze organizzative. La soluzione Universal Resource Scheduling di Dynamics 365 consente alle organizzazioni di gestire e programmare queste risorse in modo più efficace, fornendo un set di strumenti configurabili.
+
+  Questo corso fornirà agli studenti le competenze necessarie per configurare e utilizzare gli strumenti disponibili per gestire in modo più efficiente le risorse organizzative. Gli argomenti chiave includono l'identificazione di dove iniziare, così come le considerazioni organizzative che guideranno le decisioni di pianificazione delle risorse. L'attenzione principale sarà focalizzata su come sfruttare al meglio gli strumenti disponibili per individuare e programmare le risorse, come l'utilizzo del tabellone e dell'assistente di programmazione. Inoltre, saranno esaminati gli scenari di personalizzazione come l'abilitazione di elementi per la pianificazione, la definizione di opzioni di pianificazione, il lavoro con più schede di pianificazione e l'estensione della funzionalità di base della pianificazione.     
+
+  Questo corso aiuta gli studenti a capire meglio ciò che è importante per le organizzazioni quando si programmano le risorse e si concentra su considerazioni di implementazione che aiutano a progettare soluzioni più efficienti che si allineano con gli obiettivi del cliente e dell'organizzazione. 
+
+prerequisitesSection: |-
+  Comprensione di base di caratteristiche, funzionalità e navigazione di Dynamics 365.
+outlineSection: |-
+  ### Modulo 1&#58; Programmazione di Universal Resource
+  #### Lezioni
+  - Panoramica e configurazione di Universal Resource Scheduling (URS)
+  - Entità abilitanti per URS
+  - Considerazioni sulla personalizzazione delle entità e sull'automazione
+
+
+  ### Modulo 2&#58; Gestione delle opzioni di programmazione
+  #### Lezioni
+  - Utilizzo di Schedule Board
+  - Voci di programmazione
+  - Riprogrammazione e sostituzione delle risorse
+  - Pianificazione dell'equipaggio e del pool di risorse
+
+
+  ### Modulo 3&#58; Personalizzazione del Schedule Board
+  #### Lezioni
+  - Configurazione della Schedule Board
+  - Creare Schedule Board aggiuntive
+  - Visualizzazioni di Leverage Dynamics 365 con la Schedule Board
+  - Configurare le query e i filtri della Schedule Board
+  - Lavorare con gruppi di requisiti
+
+
+  ### Modulo 4&#58; Ottimizzazione della programmazione delle risorse
+  #### Lezioni
+  - Panoramica sull'ottimizzazione della programmazione delle risorse
+  - Definizione degli obiettivi di ottimizzazione
+  - Definizione degli ambiti di ottimizzazione
+  - Definizione di profili di ottimizzazione

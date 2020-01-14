@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: Utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-330T02-A: Utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T02-A: Utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations'
+uid: course.mb-330t02
+courseNumber: 'MB-330T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+ Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per automatizzare e ottimizzare la loro catena di fornitura modernizzando la logistica aziendale, fornendo risposte tempestive ai clienti, andando avanti con intuizioni predittive, ottimizzando l'approvvigionamento e unificando i processi dalle vendite alla realizzazione. Questo corso discute come utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Comprensione di base dei concetti di ERP e CRM.
+outlineSection: |-
+  ### Modulo 1&58; Configurare e utilizzare il controllo di qualità e i processi di gestione
+  In questo modulo, si precisa come configurare e utilizzare il controllo di qualità in Finance and Operations, come utilizzare le funzionalità di controllo di qualità, come definire e mantenere le non conformità e come gestire le correzioni. Ma prima di tutto sarà necessario famigliarizzare con i processi generali di gestione della qualità.
+  #### Lezioni
+  - Introduzione
+  - Eseguire il controllo di qualità e i processi di gestione
+  - Applicare il blocco all’inventario
+  - Eseguire la gestione delle quarantene
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Eseguire il controllo di qualità e i processi di gestione della qualità
+  - Applicare il blocco all’inventario
+  - Eseguire la gestione delle quarantene
+
+
+  ### Modulo 2&#58; Configurare e utilizzare i rapporti commerciali interaziendali
+  La funzionalità Intercompany in Dynamics 365 for Finance and Operations fornisce un meccanismo per il consolidamento dei dati statici e dinamici di più aziende come entità legali separate in un unico database. Intercompany Trade consente a siti di produzione, centri di distribuzione e filiali di vendita dispersi a livello globale di agire come un'unica organizzazione unificata. Questo modulo spiega come configurare e utilizzare le relazioni commerciali interaziendali ed elaborare gli ordini interaziendali in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Comprendere il trading interaziendale
+  - Impostazione delle relazioni commerciali interaziendali
+  - Elaborare ordini interaziendali a catena
+  - Impostare contratti interaziendali e consegne dirette
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato a&#58;
+  - Configurare i prodotti per le relazioni commerciali interaziendali
+  - Configurare relazioni commerciali interaziendali
+  - Configurare contratti interaziendali
+  - Elaborare ordini interaziendali
+  - Elaborare consegne dirette interaziendali
+  - Elaborare gli oneri interaziendali
+  - Capire la catena di ordini di reso interaziendale
+
+
+  ### Modulo 3&#58; Configurazione e utilizzo della pianificazione master
+  Questo modulo spiega come configurare e utilizzare il master planning in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Considerazioni sulla pianificazione e sulla configurazione
+  - Creazione di master plan
+  - Essere informati sulle previsioni della domanda e dell'offerta
+  - Configurare la copertura degli articoli
+  - Breve introduzione alla pianificazione interaziendale
+  - Eseguire i piani e gli ordini pianificati
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato a&#58;
+  - Definire le politiche di pianificazione generale
+  - Essere informati sulle previsioni della domanda e dell'offerta
+  - Configurare i ritardi calcolati
+  - Configurare la copertura degli articoli
+  - Comprendere una breve introduzione alla pianificazione aziendale
+  - Eseguire i piani e gli ordini pianificati
+
+
+  ### Modulo 4&#58; Fine del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+
+
+  Gli studenti avranno completato il corso.

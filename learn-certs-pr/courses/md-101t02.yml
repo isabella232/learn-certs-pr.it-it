@@ -1,0 +1,127 @@
+### YamlMime:Course
+title: Gestire desktop e dispositivi moderni
+metadata:
+  title: 'Course MD-101T02-A: Gestire desktop e dispositivi moderni'
+  description: 'Course MD-101T02-A: Gestire desktop e dispositivi moderni'
+uid: course.md-101t02
+courseNumber: 'MD-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere i vantaggi delle strategie di co-gestione e i relativi metodi
+- skill: Configurare Intune
+- skill: Registrare dispositivi in Intune e configurare criteri per i dispositivi
+- skill: Gestire i profili degli utenti e il reindirizzamento delle cartelle
+- skill: Pianificare una strategia per la gestione delle applicazioni mobili
+- skill: Gestire e distribuire app, tra cui le impostazioni di Office 365 ProPlus e Internet Explorer
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  Oggi i dipendenti richiedono ai datori di lavoro maggiore mobilità.
+  Di conseguenza, gli amministratori di desktop non si limitano più solo a gestire “desktop”.
+  La sempre più diffusa tendenza dei lavoratori a utilizzare i propri dispositivi e il loro desiderio di accedere
+  alle app aziendali sui loro dispositivi personali ha trasformato il ruolo degli amministratori,
+  che devono ora occuparsi di gestire sia i desktop che i dispositivi portatili, indipendentemente da chi appartengano. In questo corso
+  verranno illustrati i componenti principali delle moderne strategie di gestione
+  e co-gestione. Agli studenti verrà spiegato cosa fare per integrare Microsoft
+  Intune in un’organizzazione e come utilizzarlo per gestire
+  i desktop e dispositivi moderni. Verranno descritti anche i metodi per distribuire e
+  gestire le app e le applicazioni basate su browser.
+
+  #### Profilo dei destinatari
+  Gli amministratori MDA (Modern Desktop Administrator) si occupano di distribuire, configurare, proteggere, gestire e monitorare i dispositivi e le applicazioni client in un ambiente aziendale. Le loro responsabilità includono gestire le identità, l’accesso, i criteri, gli aggiornamenti e le app. Gli MDA collaborano con l’Amministratore di M365 Enterprise per progettare e implementare una strategia per i dispositivi che soddisfi le esigenze aziendali di un’organizzazione moderna. Gli MDA devono conoscere i carichi di lavoro di M365 e devono essere competenti ed esperti nella distribuzione, configurazione e manutenzione di dispositivi Windows 10 e non Windows. Gli MDA si occupano soprattutto di servizi cloud anziché di tecnologie di gestione locali.
+prerequisitesSection: |-
+  Gli MDA (Modern Desktop Administrator) devono conoscere i carichi di lavoro di M365 e devono
+  essere competenti ed esperti nella distribuzione, configuraione e manutenzione di dispositivi di Windows
+  10 e non Windows. Gli MDA si occupano soprattutto di servizi cloud anziché
+  di tecnologie di gestione locali.
+outlineSection: |-
+  ### Modulo 1&#58; Registrare i dispositivi
+  In questo modulo verranno esaminati i vantaggi e i pre-requisiti per la co-gestione e verrà spiegato agli studenti come pianificarla. Gli argomenti trattati in questo modulo includono&#58; Aggiunta ad Azure AD, un’introduzione a Microsoft Intune e le procedure da seguire per configurare i criteri per la registrazione dei dispositivi. Nella parte finale del modulo verrà fornita una panoramica della funzione Inventario dispositivi di Intune e dei report che possono essere creati utilizzando la consolle di Intune, Power BI e Microsoft Graph.
+  #### Lezioni
+  - Opzioni per la gestione dei dispositivi
+  - Gestire la registrazione e l’inventario dei dispositivi in Intune
+
+
+  #### Laboratorio&#58; Esercitazione pratica - Registrare e gestire i dispositivi
+  - Installare MDM Migration Analysis Tool (MMAT)
+  - Ottenere le licenze Premium di Intune e Azure AD e abilitare la gestione dei dispositivi
+  - Registrare i dispositivi in Intune
+  - Gestire i dispositivi in Intune
+  - Creare report sull’inventario dei dispositivi
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i vantaggi di passare alla co-gestione e i relativi metodi
+  - Distribuire un MDM con Microsoft Intune
+  - Configurare la registrazione dei dispositivi
+  - Registrare i dispositivi desktop e mobili in Windows Intune
+  - Configurare e scaricare i report dell’inventario
+
+
+  ### Modulo 2&#58; Configurare i profili
+  In questo modulo verranno esaminato in modo approfondito i profili dispositivo di Intune, tra cui i tipi di profili dispositivo e le differenze tra i profili incorporati e personalizzati. Gli studenti impareranno ad assegnare profili ai gruppi di Azure AD ed a monitorare i dispositivi e i profili in Intune. Nella parte finale del modulo verrà spiegato agli studenti come utilizzare Windows Analytics per creare report sull’integrità e la conformità.
+  #### Lezioni
+  - Configurare profili dei dispositivi
+  - Gestire i profili degli utenti
+  - Monitorare i dispositivi
+
+
+  #### Laboratorio&#58; Esercitazione pratica - Gestire i profili
+  - Configurare il roaming dei profili utente e il reindirizzamento delle cartelle
+  - Creare e distribuire un profilo dispositivo in base allo scenario
+  - Modificare i criteri distribuiti e monitorare l’attività degli utenti e dei dispositivi
+  - Configurare Enterprise State Roaming
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i tipi di profili dispositivo
+  - Creare e assegnare profili dispositivo
+  - Configurare un profilo utente e il reindirizzamento delle cartelle
+  - Monitorare e creare report sui dispositivi con Intune e Windows Analytics
+
+
+  ### Modulo 3&#58; Gestire le applicazioni
+  In questo modulo verranno descritte agli studenti le soluzioni locali e basate sul cloud per la gestione delle applicazioni. Verrà spiegato agli studenti come gestire le distribuzioni di Office 365 ProPlus in Intune e come gestire le app sui dispositivi non registrati. Nella parte finale del modulo gli studenti scopriranno come utilizzare la modalità Enterprise in Internet Explorer e Microsoft Edge e come tenere traccia delle applicazioni installate, delle licenze e delle app assegnate in Intune.
+  #### Lezioni
+  - Implementare Mobile Application Management (MAM)
+  - Distribuire e aggiornare le applicazioni
+  - Amministrare le applicazioni
+
+
+  #### Laboratorio&#58; Esercitazione pratica - Gestire le applicazioni
+  - Distribuire le app con Intune
+  - Configurare e distribuire Office 365 ProPlus da Intune
+  - Configurare i criteri MAM in Intune
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i metodi che possono essere utilizzati per gestire le applicazioni
+  - Distribuire le applicazioni con Intune e i criteri di gruppo
+  - Configurare Microsoft Store per Business
+  - Distribuire Office 365 ProPlus con Intune
+  - Gestire l’inventario delle applicazioni e le licenze e i relativi report
+  - Configurare la modalità Enterprise in Internet Explorer
+
+
+  ### Modulo 4&#58; Fine del corso
+  #### Lezioni
+  - Esame Finale
+
+
+  #### Laboratorio&#58; Laboratorio con valutazione dei risultati
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i tipi di profili dispositivo
+  - Creare e assegnare profili dispositivo
+  - Configurare un profilo utente e il reindirizzamento delle cartelle
+  - Monitorare e creare report sui dispositivi con Intune e Windows Analytics

@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: Implementare i carichi di lavoro e la sicurezza
+metadata:
+  title: 'Corso AZ-300T02-A: Implementare i carichi di lavoro e la sicurezza'
+  description: 'Corso AZ-300T02-A: Implementare i carichi di lavoro e la sicurezza'
+uid: course.az-300t02
+courseNumber: 'AZ-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Valutare ed eseguire la migrazione dei server ad Azure
+- skill: Implementare e gestire i servizi per le applicazioni
+- skill: Implementare reti virtuali avanzate
+- skill: Proteggere le identità con Azure AD
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Questo corso fornisce ai professionisti IT nozioni su come rilevare, valutare, pianificare e implementare la migrazione delle risorse e dell’infrastruttura locali in Azure. Gli studenti impareranno come utilizzare Azure Migrate per eseguire la fase di rilevamento e valutazione che è essenziale per una migrazione di successo. Inoltre, impareranno come utilizzare Azure Site Recovery per eseguire l’effettiva migrazione dei carichi di lavoro in Azure. Il corso è principalmente incentrato su come utilizzare ASR in un’infrastruttura Hyper-V per preparare e portare a termine il processo di migrazione. 
+  Gli studenti impareranno anche come distribuire funzionalità di elaborazione senza server come Funzioni di Azure, Griglia di eventi e Bus di servizio, nonché come Azure Multi-Factor Authentication aiuti a salvaguare l’accesso a dati e applicazioni, e a soddisfare la richiesta dei clienti di disporre di un processo di accesso semplice. Inoltre, verrà spiegato loro come utilizzare Azure Active Directory Privileged Identity Management per gestire, controllare e monitorare l’accesso alle risorse di Azure all’interno dell’organizzazione.
+  Gli studenti comprenderanno come gestire ed eseguire la manutenzione dell’infrastruttura per le app e i servizi Web di base creati e distribuiti dagli sviluppatori. Agli studenti verrà anche spiegato come proporre Servizio app di Azure come soluzione PaaS per la distribuzione di app cloud in ambienti Web e mobili.
+  Infine, si faranno un’idea generale di come implemetare le funzionalità di rete avanzate come Gateway applicazione; come configurare il bilanciamento del carico e integrare le reti locali con le reti virtuali di Azure, nonché come utilizzare Network Watcher per monitorare e risolvere i problemi.
+
+  #### Profilo dei destinatari
+  Gli architetti di soluzioni di Azure che iniziano a lavorare in questo ruolo sono esperti nell’uso dei sistemi operativi, della virtualizzazione, nell’infrastruttura cloud, nelle strutture di archiviazione, nella fatturazione e nelle reti.
+outlineSection: |-
+  ### Modulo 1&#58; Valutare ed eseguire la migrazione dei server ad Azure
+  Questo modulo è incentrato sulla migrazione di carichi di lavoro in nuovo ambiente, come un altro datacenter, un cloud pubblico, nonché sull’impostazione di obiettivi chari per la migrazione. Gli obiettivi includono sia obiettivi incentrati sulla tecnologia e orientati all’azienda per le migrazioni e i vantaggi per le attività aziendali dell’organizzazione. Tali attività includono i componenti del processo di migrazione di Azure&#58; creare un progetto, creare un agente di raccolta, valutare la prontezza e stimare i costi. Inoltre, agli studenti verrà fornita una panoramica di Azure Site Recovery (ASR) con scenari end-to-end.
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Valutare ed eseguire la migrazione dei server ad Azure
+
+
+  ### Modulo 2&#58; Implementare e gestire i servizi per le applicazioni
+  Questo modulo include i seguenti argomenti&#58; sviluppare app Web; gestire applicazioni Web; sicurezza dei servizi per le app; concetti dell’elaborazione senza server; gestire Griglia di eventi; gestire il Bus di servizio e gestire le app logiche.
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Implementare e gestire i servizi per le applicazioni
+
+
+  ### Modulo 3&#58; Implementare reti virtuali avanzate
+  Questo modulo include i seguenti argomenti&#58; Azure Load Balancer; Azure Application Gateway; Connessioni VPN da sito a sito; nonché una panoramica di ExpressRoute, che consente alle aziende di estendere le reti locali nel cloud Microsoft utilizzando una connessione privata dedicata facilitata da un provider di servizi di connettività.
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Implementare reti virtuali avanzate
+
+
+  ### Modulo 4&#58; Proteggere le identità
+  Questo modulo è incentrato in particolare sulle identità e i ruoli&#58; e include i seguenti argomenti; Azure AD Identity Protection; domini e tenant di Azure; utenti e gruppi di Azure; ruoli di Azure; nonché una panoramica delle opzioni di integrazione di Azure AD incentrate sull’uso di Connessione ad Azure AD per proteggere le directory locali con Azure Active Directory.
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Proteggere le identità con Azure AD

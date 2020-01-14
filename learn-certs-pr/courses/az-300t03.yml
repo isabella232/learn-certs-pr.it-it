@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: Comprendere le soluzioni basate sulle tecnologie di pianificazione cloud
+metadata:
+  title: 'Corso AZ-300T03-A: Comprendere le soluzioni basate sulle tecnologie di pianificazione cloud'
+  description: 'Corso AZ-300T03-A: Comprendere le soluzioni basate sulle tecnologie di pianificazione cloud'
+uid: course.az-300t03
+courseNumber: 'AZ-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Modelli per la progettazione e la connettività
+- skill: Reti ibride
+- skill: Affrontare la durabilità dei dati e la memorizzazione nella cache
+- skill: Misurare la velocità effettiva e la struttura dell’accesso ai dati
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Questo corso spiega ai professionisti IT come le operazioni vengono effettuate in parallelo e in modo asincrono, nonché perché tutto il sistema aziendale deve essere resiliente in caso di errori e come è possibile automatizzare e pianificare in modo prevedibile le distribuzioni. Utilizzando la Guida alle architetture delle applicazioni di Azure e le architetture di riferimento di Azure come base, gli studenti comprenderanno perché il monitoraggio e la telemetria sono fondamentali per ottenere informazioni sul sistema. 
+  Gli studenti approfondiranno anche i principali modelli di progettazione cloud, come la divisione in partizioni dei carichi di lavori nei casi in cui un’applicazione modulare venga divisa in unità funzionali che possano essere integrate in un’applicazione di maggiori dimensioni. In questi casi, ciascun modulo gestisce una parte di tutte le funzionalità dell’applicazione e visualizza un set di problemi correlati. 
+  
+  Il servizio di bilanciamento del carico viene utilizzato quando il traffico di un’applicazione, o carico, viene distribuito tra più endpoint tramite algoritmi. I servizi di bilanciamento del carico permettono la creazione di più istanze di un sito Web in modo che il loro comportamento risulti prevedibile. In Azure è possibile utilizzare servizi di bilanciamento del carico virtuali, ospitati su macchine virtuali, nel caso in cui un’azienda richieda una configurazione molto specifica del bilanciamento del carico.
+  Inoltre, la gestione degli errori transitori auta a identificare le principali differenze tra lo sviluppare applicazioni locali e nel cloud allo scopo di gestire gli errori transitori. Gli errori transitori sono errori che si verificano a causa di interruzioni temporanee del servizio o di una latenza eccessiva. 
+  Infine, nel corso verranno fornite informazioni sulle reti ibride oltre a una panoramica della connettività tra i siti, da punto a sito e della combinazione di entrambi i tipi di connessioni.
+
+  #### Profilo dei destinatari
+  Gli architetti di soluzioni di Azure che iniziano a lavorare in questo ruolo sono esperti nell’uso dei sistemi operativi, della virtualizzazione, nell’infrastruttura cloud, nelle strutture di archiviazione, nella fatturazione e nelle reti.
+outlineSection: |-
+  ### Modulo 1&#58; Selezionare le soluzioni di calcolo e archiviazione
+  In questo modulo vengono affrontati i seguenti argomenti&#58; Centro di architetture di Azure; modelli di progettazione cloud; modelli consumer concorrenti; modelli senza memorizzazione nella cache; modelli di partizionamento per dividere l'archivio dati in partizioni orizzontali. Ciascuna partizione ha lo stesso schema, ma contiene un sottoinsieme di dati specifico.
+
+  Al termine di questo modulo, gli studenti saranno in grado di descrivere i seguenti argomenti&#58;
+  - Modelli per la progettazione e la connettività
+
+
+  ### Modulo 2&#58; Reti virtuali
+  In questo modulo vengono affrontati i seguenti argomenti&#58; connettività da sito a sito; connettività da punto a sito; combinazione della connettività tra siti a quella da punto a sito; connettività tra reti virtuali; connessione a provider cloud per il failover, il backup o perfino la migrazione tra provider come AWS.
+  
+  Al termine di questo modulo, gli studenti saranno in grado di descrivere i seguenti argomenti&#58;
+  - Reti ibride
+
+
+  ### Modulo 3&#58; Misurare la velocità effettiva e la struttura dell’accesso ai dati
+  In questo modulo vengono affrontati i seguenti argomenti&#58; DTU – Database SQL di Azure; RU – Azure Cosmos DB; dati strutturati e non strutturati; e utilizzo di archivi dati strutturati.
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Affrontare la durabilità dei dati e la memorizzazione nella cache
+  - Misurare la velocità effettiva e la struttura dell’accesso ai dati

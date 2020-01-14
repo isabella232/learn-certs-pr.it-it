@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Abilitare Microsoft Teams for Collaboration
+metadata:
+  title: 'Course MS-300T03-A: Abilitare Microsoft Teams for Collaboration'
+  description: 'Course MS-300T03-A: Abilitare Microsoft Teams for Collaboration'
+uid: course.ms-300t03
+courseNumber: 'MS-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Pianificare l'implementazione di un team Microsoft 365
+- skill: Configurare Office 365 per i team
+- skill: Configurare i team e i canali in Microsoft Teams
+- skill: Gestire l’accesso utente ai Teams
+- skill: Configurare i teams per i meeting
+- skill: Stabilire una strategia di governance dei dati per i dati dei team
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  Microsoft Teams è l'hub per il lavoro di squadra in Microsoft 365. In questo corso imparerete a pianificare, a implementare e a gestire i team Microsoft. In particolare, questo corso tratta il rapporto dei Team con i gruppi SharePoint, OneDrive e Office 365. Fornisce le migliori pratiche per l'adozione e la distribuzione dei Team all'interno della vostra organizzazione. Inoltre, illustra anche come stabilire le politiche degli ospiti e la governance dei dati per i dati dei vostri Teams.
+
+  Questo corso è pensato per i professionisti IT che gestiscono e distribuiscono i Team Microsoft all'interno della loro organizzazione. 
+  
+  Questo è il terzoo di una serie di quattro corsi per il ruolo di Amministratore della collaborazione in team. Questi corsi aiutano a prepararsi per l'esame MS-300&#58; Svolgimento del lavoro di squadra di Microsoft 365.
+
+  #### Profilo dei destinatari
+  Questo corso è per il ruolo di amministratore della collaborazione in team di Microsoft 365. Il ruolo è responsabile della configurazione, della distribuzione e della gestione dei carichi di lavoro di Office 365 e Azure che si concentrano su una collaborazione e un'adozione efficiente ed efficace. Gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. L'amministratore è consapevole e può distinguere tra prodotti e servizi, ma non può gestire direttamente ogni prodotto o servizio.
+
+  Questi amministratori devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e i gruppi di lavoro.
+
+  L’amministratore della collaborazione in team ha una conoscenza di base dei punti di integrazione con le app e i servizi seguenti&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business.
+prerequisitesSection: |-
+  Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
+  - Comprensione di base di Active Directory e Azure AD
+  - Comprensione di base della gestione dei dispositivi mobili e dei sistemi operativi alternativi (Android e macOS)
+  - Esperienza con Windows PowerShell
+outlineSection: |-
+  ### Modulo 1&#58; Pianificare una distribuzione di team Microsoft
+  Questo modulo riguarda la pianificazione per i team Microsoft.  Discute su come gli utenti si autenticheranno per utilizzare i Team e le migliori pratiche per la distribuzione dei team nella vostra organizzazione.
+  #### Lezioni
+  - Come iniziare con i team
+  - Implementare i team
+  - Team e canali
+  - Autenticazione e accesso
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare come i team interagiscono con SharePoint Online, Exchange Online e OneDrive
+  - Descrivere i diversi clienti del Team e come possono essere utilizzati
+  - Descrivi come preparare la tua rete per il traffico delle squadre
+  - Descrivere i passaggi delle pratiche migliori per l'implementazione dei team Microsoft
+  - Definire obiettivi, rischi e i risultati chiave per l'impiego dei team
+  - Descrivere le diverse capacità dei diversi ruoli nei Team
+  - Descrivere come i team e i canali vengono utilizzati per organizzare i contenuti in Microsoft Teams
+
+
+  ### Modulo 2&#58; Configurare i team Microsoft
+  Questo modulo spiega come impostare e configurare i team Microsoft.  Tratta l’utilizzo di tabelle, bot e connettori nei team.  Introduce i concetti relativi alla gestione dei meetin nei team.
+  #### Lezioni
+  - Impostare i team Microsoft in Office 365
+  - Applicazioni nei team Microsoft
+  - Meeting nei team
+
+
+  #### Laboratorio&#58; Configurare i team Microsoft
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Impostare i team Microsoft in Office 365
+  - Descrivere e amministrare le applicazioni nei team Microsoft
+  - Utilizzare bot e tabelle all’interno dei team
+  - Descrivere e utilizzare connettori nei team
+  - Descrivere i concetti di incontro nei team
+  - Descrivere i dispositivi disponibili per facilitare gli incontri nei team
+
+
+  ### Modulo 3&#58; Gestire l’ambiente dei team
+  Questo modulo si concentra sulla gestione dei team Microsoft  In modo specifico, trattiamo della sicurezza e della conformità così come della governance dei dati e della privacy.  Anche se questo corso non tratta esplicitamente le chiamate vocali, questo modulo tratta argomenti relativi alla qualità del servizio.
+
+  #### Lezioni
+  - Privacy e Governance
+  - Sicurezza e conformità
+  - Gestione e report
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le caratteristiche della conformità e della sicurezza disponibili per i team
+  - Descrivere come Microsoft Intune può essere utilizzato per rendere sicuri i dati dei team sui dispositivi mobili
+  - Eseguire log di audit e la ricerca di contenuti per i team
+  - Descrivere l’approccio di Microsoft nei confronti della privacy dei dati in Office 365
+  - Visualizzare i report di Office 365 che misurano l’utilizzo dei team
+  - Abilitare la qualità del servizio per team Microsoft

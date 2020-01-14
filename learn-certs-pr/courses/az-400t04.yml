@@ -1,0 +1,69 @@
+### YamlMime:Course
+title: Implementare la gestione delle dipendenze
+metadata:
+  title: 'Corso AZ-400T04-A: Implementare la gestione delle dipendenze'
+  description: 'Corso AZ-400T04-A: Implementare la gestione delle dipendenze'
+uid: course.az-400t04
+courseNumber: 'AZ-400T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Suggerire strumenti e procedure per la gestione degli artefatti
+- skill: Astrarre pacchetti comuni per abilitare la condivisione e il riutilizzo
+- skill: Analizzare il codice base per identificare le dipendenze del codice che possono essere convertite in pacchetti
+- skill: Identificare e suggerire tipi e versioni di pacchetti standardizzati nella soluzione
+- skill: Effettuare il refactoring di pipeline di build esistenti per implementare la strategia delle versioni usate per pubblicare i pacchetti
+- skill: Gestire la sicurezza e la conformità
+- skill: Verificare che la sicurezza e la conformità delle licenze dei pacchetti software open source siano allineati agli standard aziendali
+- skill: Configurare pipeline di compilazione per l’accesso alla sicurezza dei pacchetti e la valutazione delle licenze
+- skill: Configurare un accesso sicuro ai feed dei pacchetti
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Questo corso consente agli studenti di acquisire le nozioni e competenze necessarie per implementare la gestione delle dipendenze. Agli studenti verrà spiegato come progettare una strategia per la gestione delle dipendenze e gestire la sicurezza e la conformità.
+  
+  #### Profilo dei destinatari
+  Gli studenti che seguono questo corso sono persone interessate a implementare la gestione delle dipendenze o a superare l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
+prerequisitesSection: |-
+  Devono avere conoscenze fondamentali relativamente ad Azure, al controllo delle versioni, allo sviluppo di software Agile e ai principi per lo sviluppo di software di base. È utile che gli studenti abbiano lavorato in una società che fornisce software.
+outlineSection: |-
+  ### Modulo 1&#58; Progettare una strategia per la gestione delle dipendenze
+  #### Lezioni
+  - Introduzione
+  - Assemblaggio di dipendenze
+  - Gestione dei pacchetti
+  - Implementare una strategia per il controllo delle versioni
+  #### Laboratorio&#58; Aggiornare i pacchetti
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Suggerire strumenti e procedure per la gestione degli artefatti
+  - Astrarre pacchetti comuni per abilitare la condivisione e il riutilizzo
+  - Analizzare il codice base per identificare le dipendenze del codice che possono essere convertite in pacchetti
+  - Identificare e suggerire tipi e versioni di pacchetti standardizzati nella soluzione
+  - Effettuare il refactoring di pipeline di build esistenti per implementare la strategia delle versioni usata per pubblicare i pacchetti
+  - Gestire la sicurezza e la conformità
+
+
+  ### Modulo 2&#58; Gestire la sicurezza e la conformità
+  #### Lezioni
+  - Introduzione
+  - Sicurezza dei pacchetti
+  - Software open source
+  - Integrare le vulnerabilità e le scansioni delle vulnerabilità
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Verificare che la sicurezza e la conformità delle licenze dei pacchetti software open source siano allineati agli standard aziendali
+  - Configurare pipeline di compilazione per l’accesso alla sicurezza dei pacchetti e la valutazione delle licenze
+  - Configurare un accesso sicuro ai feed dei pacchetti

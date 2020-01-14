@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: Distribuire e configurare un’infrastruttura
+metadata:
+  title: 'Corso AZ-300T01-A: Distribuire e configurare un’infrastruttura'
+  description: 'Corso AZ-300T01-A: Distribuire e configurare un’infrastruttura'
+uid: course.az-300t01
+courseNumber: 'AZ-300T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Gestire le sottoscrizioni e le risorse di Azure
+- skill: Implementare e gestire l’archiviazione
+- skill: Distribuire e gestire le macchine virtuali
+- skill: Configurare e gestire le reti virtuali
+- skill: Gestire le identità con Azure Active Directory
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Questo corso fornisce ai professionisti IT nozioni su come gestire le risorse di Azure - tra cui come distribuire e configurare le macchine virtuali, le reti virtuali e gli account di archiviazione - e Azure AD, nonché su come implementare e gestire le identità ibride. Agli studenti verrà spiegato anche che le risorse cloud in Azure vengono gestite mediante account utente e di gruppo, nonché come concedere l’accesso agli utenti, i gruppi e i servizi di Azure AD utilizzando il controllo dell’accesso basato sui ruoli (RBAC).
+  Durante il corso gli studenti acquisiranno informazioni sui diversi tipi di account e servizi di archiviazione, oltre a nozioni di base sulla replica dei dati e sugli schemi di replica disponibili. Agli studenti verrà presentato anche Storage Explorer come mezzo pratico per lavorare sui dati archiviati di Azure. Verranno illustrati anche i vari tipi di archiviazione e verrà spiegato agli studenti come utilizzare i dischi gestiti e personalizzati.
+
+  L’archiviazione BLOB di Azure è il servizio utilizzato da Azure per archiviare i dati non strutturati nel cloud. Gli studenti impareranno come utilizzare i BLOB e i contenitori BLOB. Oltre all’archiviazione BLOB, nel corso vengono descritte le opzioni di archiviazione per i dati strutturati come l’archivio tabelle e code.
+
+  Gli studenti impareranno come creare e distribuire macchine virtuali in Azure, utilizzare il portale di Azure, PowerShell e i modelli ARM. Durante il corso verranno fornite istruzioni su come distribuire immagini personalizzate e macchine virtuali Linux. Agli studenti verrà spiegato come configurare i componenti di rete e archiviazione delle macchine virtuali. Distribuire macchine virtuali ad alta disponibilità è essenziale per gli eventi pianificati e non pianificati. Durante questo corso gli studenti impareranno come utilizzare i set di disponibilità per verificare che le risorse delle macchine virtuali siano disponibili durante i tempi di inattività.
+
+  Nel corso verranno descritti gli strumenti e le funzionalità di monitoraggio forniti da Azure, come gli avvisi di Azure e Log attività. Verrà spiegato agli studenti che, oltre agli avvisi e ai log, possono utilizzare anche Log Analytics, un’efficace soluzione di analisi dei dati che consente di verificare lo stato e l’integrità del sistema. La cosa più interessante che gli studenti impareranno è come utilizzare il modello di distribuzione di Azure Resource Manager (ARM) per lavorare con le risorse, i gruppi di risorse e i modelli ARM.
+
+  Poiché questo corso è il primo di una serie di corsi finalizzati al conseguimento degli esami come Azure Solutions Architect, comprende moltissimi contenuti introduttivi che hanno lo scopo di preparare gli studenti a seguire gli altri corsi del programma. Il corso prevede una lezione in cui verrano descritti i suggerimenti e trucchi per utilizzare il portale di Azure e in cui verrà fornita un’introduzione ai principali strumenti utilizzati nell’ambiente Azure, come Cloud Shell e Resource Explorer. Nel corso viene data particolare enfasi a PowerShell e sull’interfaccia della riga di comando (CLI), perché acquisire queste competenze è importante non solo in vista dell’esame ma anche in previsione della mansione da svolgere.
+  #### Profilo dei destinatari
+  Gli architetti di soluzioni cloud di successo che iniziano a lavorare in questo ruolo conoscono a livello pratico i sistemi operativi, la virtualizzazione, l’infrastruttura cloud, le strutture di archiviazione, la fatturazione e le reti.
+outlineSection: |-
+  ### Modulo 1&#58; Gestire le sottoscrizioni e le risorse di Azure
+  In questo modulo verranno descritte le funzionalità di monitoraggio di Azure, che comprendono gli avvisi di Azure, i log di attività di Azure e Log Analytics. Gli studenti imparerano come ricercare, analizzare e interpretare i dati visualizzati in Log Analytics.
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Gestire le sottoscrizioni e le risorse di Azure
+
+
+  ### Modulo 2&#58; Implementare e gestire l’archiviazione
+  In questo modulo verrà spiegato agli studenti cosa sono gli account di archiviazione di Azure, la replica dei dati e come utilizzare Azure Storage Explorer e monitorare l'archiviazione.
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Implementare e gestire l'archiviazione
+
+
+  ### Modulo 3&#58; Distribuire e gestire le macchine virtuali (VM)
+  In questo modulo gli studenti impareranno a eseguire le seguenti attività&#58;
+  - Creare macchine virtuali (VM) all’interno del portale Azure
+  - Creare macchine virtuali con Azure PowerShell
+  - Creare macchine virtuali con i modelli ARM
+  - Distribuire le macchine virtuali Linux
+  - Monitorare le macchine virtuali (VM)
+
+  Gli studenti imparerano anche come proteggere i dati eseguendo backup regolari utilizzando una snaphot, Azure Backup o Azure Site Recovery.
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Distribuire e gestire le macchine virtuali
+
+
+  ### Modulo 4&#58; Configurare e gestire le reti virtuali
+  In questo modulo gli studenti creeranno e implementeranno reti virtuali utilizzando il portale di Azure, Azure PowerShell e l’interfaccia della riga di comando. Verranno fornite informazioni generali su come assegnare gli indirizzi IP alle risorse di Azure per poter comunicare con altre risorse di Azure, la rete locale e Internet.
+  #### Lezioni
+  - Utilizzare le tabelle e gli algoritmi di routing per il routing di rete
+  - Connettere i siti tra di loro con le connessioni tra le reti virtuali e VPN
+  - Peering di reti virtuali per considerazioni regionali e globali
+  - Transito tramite gateway
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare e gestire le reti virtuali
+
+
+  ### Modulo 5&#58; Gestire le identità
+  Questo modulo è dedicato ad Azure Active Directory (Azure AD) ed è pensato per gli amministratori e sviluppatori IT. Descrive in particolare il servizio di gestione cloud con più utenti delle directory e delle identità di Azure AD.
+  #### Lezioni
+  - Controllo dell’accesso basato sui ruoli (RBAC)
+  - Ruoli predefiniti
+  - Reimpostazione password self-service (SSPR)
+  - Metodi di autenticazione per la reimpostazione della password
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Gestire le identità con Azure AD
+

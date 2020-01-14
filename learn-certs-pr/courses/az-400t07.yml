@@ -1,0 +1,78 @@
+### YamlMime:Course
+title: Progettare una strategia DevOps
+metadata:
+  title: 'Corso AZ-400T07-A: Progettare una strategia DevOps'
+  description: 'Corso AZ-400T07-A: Progettare una strategia DevOps'
+uid: course.az-400t07
+courseNumber: 'AZ-400T07-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Pianificare la trasformazione con obiettivi e sequenze temporali condivisi.
+- skill: Selezionare un progetto e identificare le metriche e i KPI del progetto.
+- skill: Creare un team e una struttura organizzativa agile.
+- skill: Sviluppare una strategia per valutare la qualità del progetto.
+- skill: Pianificare procedure di sviluppo sicure e regole per la conformità.
+- skill: Eseguire la migrazione degli artefatti e consolidarli.
+- skill: Eseguire la migrazione delle misure di controllo delle origini e integrarle.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Questo corso consente agli studenti di acquisire le nozioni e le competenze necessarie per progettare una strategia DevOps. Gli studenti impareranno come pianificare una trasformazione, selezionare un progetto e creare strutture per i team. Impareranno anche a sviluppare strategie per la qualità e la sicurezza. Nel corso vengono affrontati inoltre argomenti come la migrazione e il consolidamento di artefatti e il controllo delle origini.
+  
+  #### Profilo dei destinatari
+  Gli studenti che decidono di seguire questo corso sono persone interessate a pianificare progetti DevOps o a superare l'esame di certificazione Soluzioni Microsoft Azure DevOps.
+prerequisitesSection: |-
+  - Devono avere conoscenze fondamentali relativamente ad Azure, al controllo delle versioni, allo sviluppo di software Agile e ai principi per lo sviluppo di software di base. È utile che gli studenti abbiano lavorato in una società che fornisce software.
+  - È consigliabile avere un’esperienza lavorative in un IDE, nonché avere qualche nozione del portale di Azure. Tuttavia, anche gli studenti che non hanno un background tecnico in queste tecnologie, ma che sono curiosi di conoscere le procedure DevOps per motivi culturali, sono generalmente in grado di seguire le spiegazioni procedurali e teoriche relative all’integrazione continua.
+outlineSection: |-
+  ### Modulo 1&#58; Pianificare per DevOps
+  In questo modulo gli studenti impareranno come pianificare la trasformazione, scegliere un progetto e strutturare i team.
+  #### Lezioni
+  - Pianificare la trasformazione
+  - Scegliere il progetto
+  - Strutture dei team
+  #### Laboratorio&#58; Pianificazione Agile e gestione del portafoglio con Azure Boards
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Pianificare la trasformazione con obiettivi e sequenze temporali condivisi
+  - Selezionare un progetto e identificare le metriche e i KPI del progetto
+  - Creare un team e una struttura organizzativa agile
+
+
+  ### Modulo 2&#58; Pianificare per migliorare la qualità e la sicurezza
+  In questo modulo verrà spiegato agli studenti come sviluppare una strategia per migliorare la qualità e per garantire uno sviluppo sicuro.
+  #### Lezioni
+  - Pianificare una strategia per migliorare la qualità
+  - Pianificare per garantire uno sviluppo sicuro
+
+
+  #### Laboratorio&#58; Gestione dei flag funzionalità con LaunchDarkly e AzureDevOps
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Sviluppare una strategia per migliorare la qualità di progetto
+  - Pianificare procedure di sviluppo sicure e regole per la conformità
+
+
+  ### Modulo 3&#58; Eseguire la migrazione degli artefatti e degli strumenti e consolidarli
+  In questo modulo, verrà spiegato agli studenti come eseguire la migrazione e consolidare gli artefatti, nonché come eseguire la migrazione e integrare le misure di controllo delle origini.
+  #### Lezioni
+  - Eseguire la migrazione degli artefatti e consolidarli
+  - Eseguire la migrazione e integrare il controllo delle origini
+
+
+  #### Laboratorio&#58; Integrare Azure Repos e Azure Pipelines con Eclipse
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Eseguire la migrazione degli artefatti e consolidarli
+  - Eseguire la migrazione e integrare le misure di controllo delle origini

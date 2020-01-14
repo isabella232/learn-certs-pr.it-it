@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Progettare una soluzione Data Platform
+metadata:
+  title: 'Corso AZ-301T02-A: Progettare una soluzione Data Platform'
+  description: 'Corso AZ-301T02-A: Progettare una soluzione Data Platform'
+uid: course.az-301t02
+courseNumber: 'AZ-301T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Determinare il prezzo ideale per Archiviazione di Azure in base ai requisiti di una soluzione.
+- skill: Identificare le soglie prestazioni per il servizio Archiviazione di Azure.
+- skill: Determinare il tipo di BLOB di archiviazione da utilizzare per componenti specifici di una soluzione.
+- skill: Utilizzare il servizio File di Azure per le operazioni SMB.
+- skill: Identificare le soluzioni che potrebbero trarre. vantaggio dall’utilizzo di dispositivi StorSimple fisici o virtuali.
+- skill: Confrontare e contrapporre i servizi di monitoraggio per le applicazioni, la piattaforma Azure e le reti.
+- skill: Progettare uno schema di avvisi per una soluzione ospitata in Azure.
+- skill: Selezionare l’opzione di backup appropriata per l’infrastruttura e i dati ospitati in Azure.
+- skill: Automatizzare la distribuzione delle risorse future per il ripristino da backup o a scopo di ridimesionamento.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Questo corso permette agli studenti di imparare a confrontare e contrappore le varie opzioni di database in Azure, a identificare le opzioni di streaming di dati per l’inserimento di dati su vasta scala, nonché a identificare le opzioni per l'archiviazione a lungo termine dei dati.
+  #### Profilo dei destinatari
+  Gli architetti di soluzioni cloud di successo che iniziano a lavorare in questo ruolo conoscono a livello pratico i sistemi operativi, la virtualizzazione, l’infrastruttura cloud, le strutture di archiviazione, la fatturazione e le reti.
+outlineSection: |-
+  ### Modulo 1&#58; Eseguire il backup di soluzioni Azure con Archiviazione di Azure
+  Questo modulo descrive i servizi di Azure che utilizzano il servizio Archiviazione di Azure come archivio di backup per altre applicazioni di Azure. Il modulo esamina in modo critico l’utilizzo di Archiviazione di Azure come servizio supplementare in una soluzione completamente Azure.
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Determinare il prezzo ideale per Archiviazione di Azure in base ai requisiti di una soluzione.
+  - Identificare le soglie prestazioni per il servizio Archiviazione di Azure.
+  - Determinare il tipo di BLOB di archiviazione da utilizzare per componenti specifici di una soluzione.
+  - Utilizzare il servizio File di Azure per le operazioni SMB.
+  - Identificare le soluzioni che potrebbero trarre vantaggio dall’utilizzo di dispositivi StorSimple fisici o virtuali.
+
+  ### Modulo 2&#58; Confrontare le opzioni di database in Azure
+  In questo modulo vengono confrontate le varie opzioni per l’archiviazione di dati relazionali e non relazionali disponibili in Azure. Le opzioni vengono esaminate a gruppi&#58; database relazionali (database SQL di Azure, MySQL e PostgreSQL in Azure), database non relazionali (Azure Cosmos DB e Tabelle di archiviazione), streaming di dati (Analisi di flusso) e archivi (Data Factory, Data Warehouse e Data Lake).
+
+  #### Laboratorio&#58; Distribuire istanze di database in Azure
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Confrontare e contrapporre i servizi di monitoraggio per le applicazioni, la piattaforma Azure e le reti.
+  - Identificare le opzioni di streaming di dati per l’inserimento di dati su vasta scala.
+  - Identificare opzioni per l’archiviazione di dati a lungo termine.
+
+
+  ### Modulo 3&#58; Monitorare e automatizzare le soluzioni di Azure
+  Questo modulo descrive le soluzioni di monitoraggio e automatizzazione che possono essere implementate dopo la progettazione dell’architettura della soluzione di Azure e la sua distribuzione. Il modulo esamina i servizi utilizzati per monitorare le singole applicazioni, la piattaforma di Azure e i componenti collegati in rete. Inoltre, fornisce indicazioni sulle opzioni di automazione e backup che possono essere utilizzate per supportare scenari di business continuity per le soluzioni ospitate in Azure.
+
+  #### Laboratorio&#58; Distribuire soluzioni per la gestione della configurazione in Azure
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Confrontare e contrapporre i servizi di monitoraggio per le applicazioni, la piattaforma Azure e le reti.
+  - Progettare uno schema di avvisi per una soluzione ospitata in Azure.
+  - Selezionare l’opzione di backup appropriata per l’infrastruttura e i dati ospitati in Azure.
+  - Automatizzare la distribuzione delle risorse future per il ripristino da backup o a scopo di ridimesionamento.

@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Sviluppare soluzioni di calcolo Azure PaaS
+metadata:
+  title: 'Corso AZ-203T02-A: Sviluppare soluzioni di calcolo Azure PaaS'
+  description: 'Corso AZ-203T02-A: Sviluppare soluzioni di calcolo Azure PaaS'
+uid: course.az-203t02
+courseNumber: 'AZ-203T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per implementare nelle soluzioni sviluppate le funzioni e i servizi PaaS. Verrà spiegato agli studenti come creare e gestire le risorse del Servizio app di Azure, integrare push e la sincronizzazione offline nelle app mobili, nonché come documentare un’API. Gli studenti impareranno anche come creare e testare Funzioni di Azure.
+  #### Profilo dei destinatari
+  - Gli studenti che decidono di seguire questo corso sono persone interessate a sviluppare soluzioni Azure o a superare l’esame di certificazione Microsoft Azure Developer Associate.
+  - Gli studenti devono avere almeno 1-2 anni di esperienza nel ruolo di sviluppatore. In questo corso si presuppone che gli studenti sappiano come creare codici e abbiano una conoscenza basilare di Azure.
+prerequisitesSection: |-
+  - Gli studenti devono avere almeno 1-2 anni di esperienza nel ruolo di sviluppatore. In questo corso si presuppone che gli studenti sappiano come creare codici e abbiano una conoscenza basilare di Azure.
+  - È consigliabile che gli studenti abbiano una certa esperienza nell’uso di PowerShell o dell’interfaccia della riga di comando di Azure, che abbiano utilizzato il portale di Azure e che conoscano almeno uno dei linguaggi di programmazione supportati da Azure. La maggior parte degli esempi presentati in questo corso sono scritti in linguaggio C# .NET.
+outlineSection: |-
+  ### Modulo 1&#58; Creare app Web con Servizio app
+  Le app Web di Servizio app di Azure (talvolta chiamate semplicemente App Web) sono un servizio per l’hosting di applicazioni Web, API REST e back-end mobili. Le App Web permettono di sfruttare la potenza di Microsoft Azure in un’applicazione tramite funzioni quali la sicurezza, il servizio di bilanciamento del carico, il ridimensionamento automatico e la gestione automatizzata.
+  #### Lezioni
+  - Concetti di base del Servizio app di Azure
+  - Creare un'app Web con il Servizio app di Azure
+  - Creare attività in background con i processi Web del Servizio app di Azure
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i concetti e le funzionalità di base del Servizio app
+  - Creare app Web per il Servizio app utilizzando l’interfaccia della riga di comando di Azure, il portale di Azure e PowerShell
+  - Creare processi Web continui e attivati
+
+  ### Modulo 2&#58; Creare app mobili con il Servizio app di Azure
+  La funzione App mobili del Servizio app di Azure offre agli sviluppatori di aziende e agli integratori di sistema una piattaforma di sviluppo per applicazioni mobili altamente scalabile e disponibile a livello globale.
+  #### Lezioni
+  - Iniziare a creare app mobili nel Servizio app
+  - Abilitare le notifiche push nell’app
+  - Abilitare la sincronizzazione offline per l’app
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Integrare l’app nel servizio App mobili
+  - Registrare app per le notifiche push
+
+
+  ### Modulo 3&#58; Creare app API nel Servizio app di Azure
+  Questo modulo spiega come creare e documentare un’API per il Servizio app di Azure.
+  #### Lezioni
+  - Creare API
+  - Utilizzare Swagger per documentare un API
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare un’istanza APIM e creare una nuova API
+  - Utilizzare Swashbuckle per creare oggetti Swagger in ASP.NET Core
+
+
+  ### Modulo 4&#58; Implementare Funzioni di Azure
+  Funzioni di Azure è una soluzione che consente di eseguire piccole parti di codice o “funzioni” nel cloud. In altre parole, permette di compilare semplicemente il codice necessario per risolvere un problema senza preoccuparsi dell’intera applicazione o dell’infrastruttura su cui viene eseguita.
+  #### Lezioni
+  - Panoramica di Funzioni di Azure
+  - Sviluppare Funzioni di Azure con Visual Studio
+  - Implementare funzioni durature
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le funzioni e funzionalità di base di Funzioni di Azure
+  - Creare funzioni, associazioni e trigger
+  - Dimostrare di conoscere i modelli comuni per le funzioni durature e di saperli creare

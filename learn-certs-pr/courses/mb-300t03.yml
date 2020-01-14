@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Migrazione dei dati e preparazione per il go-live Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-300T03-A: Migrazione dei dati e preparazione per il go-live con Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T03-A: Migrazione dei dati e preparazione per il go-live con Dynamics 365 for Finance and Operations'
+uid: course.mb-300t03
+courseNumber: 'MB-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per ridurre i costi operativi e rispondere rapidamente alle mutevoli esigenze aziendali. Questa soluzione permette alle organizzazioni di raggiungere questi obiettivi.
+
+  Questo corso tratta la migrazione dei dati e la preparazione per il go-live con Microsoft Dynamics 365 for Finance and Operations.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Comprensione di base dei concetti di ERP e CRM.
+outlineSection: |-
+  ### Modulo 1&# 58; Preparare i dati per la migrazione ed eseguire la migrazione dei dati
+  Questa unità esplora modelli di integrazione, scenari e soluzioni for Finance and Operations. Anche se quest’unità non include dettagli tecnici su come utilizzare o impostare ogni schema di integrazione o come lavorare con codice campione, è sempre saggio essere a conoscenza degli strumenti di integrazione disponibili.
+  #### Lezioni
+  - Introduzione
+  - Comprendere la funzione BYOD
+  - Eseguire una migrazione di prova e convalidare l'uscita
+  - Riepilogo del modulo
+  
+
+  Quando è il momento della migrazione dei dati, più si sa, più è facile controllare la complessità operativa e ridurre i costi. La continuità operativa del cliente deve essere la priorità. In questo modulo gli studenti impareranno a preparare i dati per una migrazione di successo identificando fattori importanti come i sistemi legacy e i dati statici e comuni.
+  
+  
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Scegliere una strategia di integrazione dei dati (import/export)
+  - Identificare gli scenari e gli strumenti di migrazione comuni in per Finance e Operations
+  - Comprendere la funzione di portare il proprio database (BYOD)
+  - Identificare i sistemi rilevanti (legacy)
+  - Identificare e importare dati statici comuni a tutti i settori industriali
+  - Creare e rivedere i piani di test per la migrazione dei dati
+  - Identificare ed estrarre dati dalle origini
+  - Identificare le entità e gli elementi rilevanti dei dati
+  - Generare la mappatura dei campi tra le strutture dati di origine e destinazione
+  - Eseguire una migrazione di prova e convalidare l'uscita
+  - Supportare la transizione dai sistemi esistenti a quelli migrati
+
+
+  ### Modulo 2&#58; Gestione dei dati utente
+  In questo modulo gli studenti avranno una panoramica dei concetti di base della piattaforma di gestione dei dati. Gli studenti impareranno anche a importare ed esportare i dati in Dynamics 365 for Finance and Operations utilizzando lo spazio di lavoro per la gestione dei dati.
+
+  Infine, impareranno ad utilizzare le funzionalità di integrazione asincrona ricorrente della piattaforma di gestione dei dati. Il quadro di gestione dei dati può essere utilizzato per gestire entità di dati e pacchetti di entità di dati di Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Comprendere la gestione e l'integrazione dei dati
+  - Spazio di lavoro per la gestione dei dati
+  - Modelli nella gestione dei dati
+  - Importare, esportare e copiare i dati in una persona giuridica
+  - Laboratori di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Identificare il modello corretto per un determinato scenario per utilizzare la piattaforma di gestione dei dati per l'integrazione utilizzando entità dati
+  - Lavorare con l'area di lavoro della gestione dei dati
+  - Esportare dati da una persona giuridica
+  - Importare di dati in una persona giuridica
+  - Lavorare con attività di importazione ed esportazione dei dati
+  - Pulire i tavoli di allestimento
+
+
+  ### Modulo 3&#58;  Eseguire il test di accettazione dell'utente
+  Per poter testare e valutare la soluzione del cliente prima del go-live, è necessario disporre di un ambiente di Dynamics 365 for Finance and Operations che abbia tutte le configurazioni e le possibili personalizzazioni tramite estensioni.
+
+  È sempre utile disporre di una metodologia per garantire che la creazione e il test siano organizzati e pianificati in modo adeguato per un breve, efficiente e focalizzato sul ruolo degli scenari di casi di prova.
+  #### Lezioni
+  - Introduzione
+  - Creare ed eseguire casi di prova per l'accettazione da parte degli utenti
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo, gli studenti hanno imparato come &58#;
+  - Capire la correlazione tra i casi di prova e i requisiti aziendali
+  - Ottenere migliori pratiche per la registrazione dei casi di prova
+  - Registratore di attività
+  - Creare una libreria BPM per i test di accettazione degli scenari
+  - Sincronizzare e configurare il piano di prova in Azure DevOps
+  - Eseguire le prove
+
+
+  ### Modulo 4&#58;  Prepararsi per il go-live
+  Tutto il duro lavoro diventa un successo spostando la soluzione implementata in Dynamics 365 for Finance and Operations nell'ambiente di produzione. Questa è una fase cruciale e finale di questa entusiasmante esperienza di completamento di un'implementazione.
+
+  L'obiettivo è un cliente felice, una soluzione di qualità e la tranquillità durante questa importante fase, che si chiama go-live. Non si può garantire il successo senza sapere come prepararsi al go-live per Finance and Operations alla fase finale di attuazione.
+
+  #### Lezioni
+  - Introduzione
+  - Preparatevi al go-live
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti avranno imparato come&#58;
+  - Prepararsi al go-live
+  - Completare la metodologia Lifecycle Services (LCS)
+  - Eseguire il test di accettazione da parte dell'utente (UAT) per la specifica soluzione
+  - Comprendere la valutazione del go-live della FastTrack
+  - Richiedere l'ambiente di produzione
+
+
+  ### Modulo 5&#58; Conclusione del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+  
+
+  Gli studenti avranno completato il corso.

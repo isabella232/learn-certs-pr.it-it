@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: Gestione della conformità di Microsoft 365
+metadata:
+  title: 'Course MS-101T02-A: Gestione della conformità di Microsoft 365'
+  description: 'Course MS-101T02-A: Gestione della conformità di Microsoft 365'
+uid: course.ms-101t02
+courseNumber: 'MS-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Comprendere la governance dei dati in Microsoft 365, tra cui: Archiviazione, conservazione, gestione dei diritti di informazione, estensione sicura della posta elettronica multiuso su Internet (S/MIME), crittografia dei messaggi di Office 365 e prevenzione della perdita di dati.'
+- skill: Implementare la gestione dei record in loco in SharePoint
+- skill: Implementare l'archiviazione e la conservazione in Exchange
+- skill: Creare politiche di conservazione nel Centro di Sicurezza e Conformità
+- skill: Pianificare le loro esigenze di sicurezza e di conformità
+- skill: Costruire muri etici in Exchange Online
+- skill: Creare una politica DLP da un modello integrato
+- skill: Creare una politica DLP personalizzata
+- skill: Creare una politica DLP per proteggere i documenti
+- skill: Implementare i suggerimenti per le politiche
+- skill: Gestire la conservazione nella posta elettronica
+- skill: Risoluzione dei problemi di governance dei dati
+- skill: Implementare la protezione delle informazioni
+- skill: Implementare la protezione avanzata dell'implementazione
+- skill: Comprendere Windows Information Protection
+- skill: Ricerca di contenuti nel Centro sicurezza e conformità
+- skill: Indagini sul registro di controllo
+- skill: Gestire l'eDiscovery avanzato
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Imparare la gestione della conformità di Microsoft 365, comprese le soluzioni di conservazione e prevenzione delle perdite di dati in Microsoft 365, l'archiviazione e la conservazione in Microsoft 365, l'implementazione e la gestione della governance dei dati e la gestione delle ricerche e delle indagini.
+
+  #### Profilo dei destinatari
+  Questo corso è destinato a chi aspira al ruolo di amministratore dell’azienda Microsoft 365 e che ha completato uno dei percorsi di certificazione per amministratore basati sui ruoli di Microsoft 365.
+prerequisitesSection: |-
+  - Ha completato un corso di amministrazione basato sui ruoli, come Messaggistica, Lavoro di squadra, Sicurezza e conformità o Collaborazione.
+  - Una conoscenza approfondita del DNS e un'esperienza funzionale di base con i servizi Microsoft 365.
+  - Una buona comprensione delle pratiche IT generali.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione alla governance dei dati in Microsoft 365
+  #### Lezioni
+  - Introduzione all'archiviazione in Microsoft 365
+  - Introduzione alla conservazione in Microsoft 365
+  - Introduzione alla gestione dei diritti di informazione
+  - Introduzione alla Secure Multipurpose Internet Mail Extension
+  - Introduzione alla crittografia dei messaggi di Office 365
+  - Introduzione alla prevenzione della perdita dei dati
+
+
+  ### Modulo 2&#58; Archiviazione e conservazione in Microsoft 365
+  #### Lezioni
+  - Gestione dei record in loco in SharePoint
+  - Archiviazione e conservazione in Exchange
+  - Politiche di conservazione nel SCC
+  - Implementare i vostri servizi di dominio
+
+
+  ### Modulo 3&#58; Implementare Governance dei dati in Microsoft 365 Intelligence
+  #### Lezioni
+  - Pianificare le vostre esigenze di sicurezza e conformità
+  - Costruire muri etici in Exchange Online
+  - Creare una politica DLP semplice da un modello integrato
+  - Creare una politica DLP personalizzata
+  - Creare una politica DLP per proteggere i documenti
+  - Lavorare con i suggerimenti della politica
+
+
+  ### Modulo 4&#58; Gestire la Governance dei dati in Microsoft 365
+  #### Lezioni
+  - Gestire la conservazione nella posta elettronica
+  - Risoluzione dei problemi di governance dei dati
+  - Implementare la protezione delle informazioni
+  - Implementare la protezione avanzata delle informazioni
+  - Introduzione alla protezione delle informazioni di Windows
+
+
+  ### Modulo 5&#58; Gestire le ricerche e le indagini
+  #### Lezioni
+  - Ricerca di contenuti nel Centro sicurezza e conformità
+  - Indagini sul registro di controllo
+  - Gestire l'eDiscovery avanzato
+
+
+  ### Modulo 6&#58; Laboratorio pratico online
+
+  #### Laboratorio&#58; Impostare l’ambiente del laboratorio
+  - Esercizio 1&#58; Inizializzare la compliance nella vostra organizzazione
+
+
+  #### Laboratorio&#58; Archiviazione e conservazione in Microsoft 365
+  - Esercizio 1&#58; Configurare le politiche e i tag di ritenzione
+  - Esercizio 2&#58; Configurare AIP e WIP
+
+
+  #### Laboratorio&#58; Implementare la Governance dei dati
+  - Esercizio 1&#58; Test delle politiche DLP
+  - Esercizio 2&#58; Uso della Protezione delle Informazioni di Azure
+  - Esercizio 3&#58; Uso della Protezione delle Informazioni di Windows
+
+
+  #### Laboratorio&#58; Verifica delle politiche di governance dei dati
+  - Esercizio 1&#58; Esaminare i vostri dati Microsoft 365

@@ -1,0 +1,65 @@
+### YamlMime:Course
+title: Dynamics 365 fundamentals
+metadata:
+  title: 'Course MB-900T01-A: Dynamics 365 Fundamentals'
+  description: 'Course MB-900T01-A: Dynamics 365 Fundamentals'
+uid: course.mb-900t01
+courseNumber: 'MB-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificare le funzionalità e i moduli chiave di Dynamics 365
+- skill: Descrivere i concetti cloud
+- skill: Descrivere il modello di sicurezza Dynamics 365
+- skill: Spiegare le considerazioni relative alle licenze e all'impiego
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+exams:
+- uid: exam.mb-900
+summary: |-
+  Dynamics 365 è uno strumento sfaccettato per il coinvolgimento dei clienti, le operazioni unificate, il marketing, la vendita al dettaglio e la gestione dei talenti. Questo corso familiarizzerà l'allievo con le funzionalità di Dynamics 365 e il valore del business. Il corso tratterà le applicazioni Dynamics 365, la Power Platform, i concetti di cloud, il modello di sicurezza e le considerazioni sulle licenze.
+
+prerequisitesSection: |-
+  Una comprensione di base dei principi informatici e un interesse per Dynamics 365.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione a Business Application
+  In questo modulo saranno introdotti tutti i moduli e le funzionalità delle Business Application, con particolare attenzione al Customer Engagement, alle Unified Operations, alla Power Platform e alle corrispondenti applicazioni aziendali.
+  #### Lezioni
+  - Panoramica delle applicazioni
+  - App per Customer Engagement
+  - App per Unified Operations
+  - Power Platform
+  - Nozioni di base sull'applicazione
+
+
+  ### Modulo 2&#58; Concetti del cloud
+  In questo modulo, saranno discussi i concetti di cloud ad alto livello e sarà introdotta l'offerta cloud di Microsoft, Azure, esaminando il suo rapporto con Dynamics 365.
+  #### Lezioni
+  - Panoramica dell'architettura del cloud
+  - Diversi tipi di servizi cloud disponibili
+  - Confronto delle offerte di cloud con le offerte locali corrispondenti
+
+
+  ### Modulo 3&#58; Gestire le implementazioni e i rilasci
+  In questo modulo, sono discusse importanti considerazioni sull'implementazione, inclusi i tipi di implementazioni, le cadenze di rilascio e la progettazione del modello di sicurezza.
+  #### Lezioni
+  - Tipi di implementazioni
+  - Tipi di rilasci
+  - Concetti e ruoli di sicurezza
+  - Ruoli e team
+  - GDPR
+
+
+  ### Modulo 4&#58; Licenze, onboarding e supporto
+  Questo modulo consente all'allievo di iniziare a lavorare con Dynamics 365 esplorando le opzioni di licenza e trovando il supporto per l'implementazione.
+  #### Lezioni
+  - Trovare e lavorare con un partner
+  - Opzioni di licenza
+  - Come prepararsi

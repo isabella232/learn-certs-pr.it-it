@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Implementare un feedback continuo
+metadata:
+  title: 'Corso AZ-400T06-A: Implementare un feedback continuo'
+  description: 'Corso AZ-400T06-A: Implementare un feedback continuo'
+uid: course.az-400t06
+courseNumber: 'AZ-400T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Progettare procedure per misurare la soddisfazione degli utenti finali
+- skill: Progettare processi per acquisire e analizzare il feedback degli utenti in base a fonti esterne
+- skill: Progettare l’instradamento per i dati dei report sugli arresti anomali delle applicazioni client
+- skill: Raccomandare strumenti e tecnologie di monitoraggio
+- skill: Raccomandare strumenti per il tracciamento dell’utilizzo del sistema e delle funzionalità
+- skill: Configurare l’integrazione di report sugli arresti anomali per le applicazioni client
+- skill: Sviluppare dashboard per il monitoraggio e lo stato
+- skill: Implementare l’instradamento per i dati dei report sugli arresti anomali delle applicazioni client
+- skill: Implementare strumenti per tenere traccia dell’uso del sistema, delle funzionalità e del flusso
+- skill: Integrare e configurare sistemi di creazione di ticket con il sistema di gestione del lavoro del team di sviluppo
+- skill: Analizzare gli avvisi per definire una linea di base
+- skill: Analizzare la telemetria per definire una linea di base
+- skill: Eseguire revisioni live in loco e acquisire feedback per le interruzioni del sistema
+- skill: Eseguire regolarmente l’ottimizzazione per ridurre il numero di avvisi insignificanti o non contestabili
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per implementare un feedback continuo. Gli studenti impareranno a suggerire e progettare meccanismi di feedback sul sistema, implementare un processo per instradare il feedback sul sistema ai team di sviluppo e a ottimizzare i meccanismi di feedback.
+  
+  #### Profilo dei destinatari
+  Gli studenti che decidono di partecipare a questo corso sono persone interessate a implementare i processi DevOps o a sostenere l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
+prerequisitesSection: |-
+  Gli studenti che decidono di partecipare a questo corso sono persone interessate a implementare i processi DevOps o a sostenere l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Raccomandare e progettare meccanismi di feedback sul sistema
+  #### Lezioni
+  - Loop interno
+  - Approccio basato sulla sperimentazione continua
+  - Progettare procedure per misurare la soddisfazione degli utenti finali
+  - Progettare processi per acquisire e analizzare il feedback degli utenti
+  - Progettare processi per automatizzare l’analisi delle applicazioni
+  #### Laboratorio&#58; Integrare Azure DevOps e Teams
+
+  #### Laboratorio&#58; Flag funzionalità
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare procedure per misurare la soddisfazione degli utenti finali
+  - Progettare processi per acquisire e analizzare il feedback degli utent in base a origini esterne
+  - Progettare l’instradamento per i dati dei rapporti sugli arresti anomali delle applicazioni client
+  - Raccomandare strumenti e tecnologie di monitoraggio
+  - Raccomandare strumenti per il tracciamento dell’utilizzo del sistema e delle funzionalità
+
+
+  ### Modulo 2&#58; Implementare processi per instradare il feedback sul sistema ai team di sviluppo
+  #### Lezioni
+  - Implementare strumenti per tenere traccia dell’uso del sistema, delle funzionalità e del flusso
+  - Implementare l’instradamento per i dati dei rapporti sugli arresti anomali delle applicazioni mobili
+  - Sviluppare dashboard per il monitoraggio e lo stato
+  - Integrare e configurare sistemi per la creazione di ticket
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare l’integrazione di rapporti sugli arresti anomali per le applicazioni client
+  - Sviluppare dashboard per il monitoraggio e lo stato
+  - Implementare l’instradamento per i dati dei rapporti sugli arresti anomali delle applicazioni client
+  - Implementare strumenti per tenere traccia dell’uso del sistema, delle funzionalità e del flusso
+  - Integrare e configurare sistemi per la creazione di ticket con la gestione del lavoro del team di sviluppo
+
+
+  ### Modulo 3&#58; Ottimizzare i meccanismi di feedback
+  #### Lezioni
+  - Progettare l’affidabilità del sito
+  - Analizzare la telemetria per definire una linea di base
+  - Effettuare regolamenti in corso d'opera per ridurre gli avvisi poco significativi o non contestabili
+  - Analizzare gli avvisi per definire una linea di base
+  - PostMortem innocui e Just Culture
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Analizzare gli avvisi per definire una linea di base
+  - Analizzare la telemetria per definire una linea di base
+  - Eseguire revisioni live in loco e acquisire feedback per le interruzioni del sistema
+  - Effettuare regolamenti in corso d'opera per ridurre gli avvisi poco significativi o non contestabili

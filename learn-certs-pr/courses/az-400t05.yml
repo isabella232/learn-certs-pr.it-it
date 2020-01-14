@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Implementare un’infrastruttura per applicazioni
+metadata:
+  title: 'Corso AZ-400T05-A: Implementare un’infrastruttura per applicazioni'
+  description: 'Corso AZ-400T05-A: Implementare un’infrastruttura per applicazioni'
+uid: course.az-400t05
+courseNumber: 'AZ-400T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Applicare l’infrastruttura e la configurazione come principi di codice
+- skill: Distribuire e gestire l’infrastruttura grazie alle tecnologie di automazione di Microsoft, come i modelli ARM, PowerShell e l’interfaccia della riga di comando di Azure
+- skill: Descrivere i modelli e i servizi di distribuzione disponibili in Azure
+- skill: Distribuire e configurare un cluster Kubernetes gestito
+- skill: Distribuire e configurare un’infrastruttura con strumenti e servizi di terze parti con Azure, come Chef, Puppet, Ansible, SaltStack e Terraform
+- skill: Definire una strategia per l’infrastruttura e la configurazione, oltre a un set di strumenti appropriato, per una pipeline di rilascio e un’infrastruttura per applicazioni
+- skill: Implementare la conformità e la sicurezza nell’infrastruttura per applicazioni
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per distribuire un’infrastruttura per applicazioni nelle pipeline DevOps. Gli studenti impareranno come implementare un’infrastruttura come codice e gestire la configurazione, come distribuire l’infrastruttura di Azure utilizzando strumenti di automazione comuni, e come distribuire un’infrastruttura per applicazioni grazie ai vari servizi e metodi di distribuzione di Azure. Inoltre, impareranno anche come integrare strumenti di distribuzione di terze parti, come Chef e Puppet, con Azure per incorporare la conformità e la sicurezza nella pipeline di rilascio.
+  
+  #### Profilo dei destinatari
+  Gli studenti che seguono questo corso sono persone interessate a implementare un’infrastruttura per applicazioni, a gestire e configurare tale infrastruttura o a superare l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
+prerequisitesSection: |-
+  Gli studenti devono avere una conoscenza di base di Azure, essere esperti nell’uso delle macchine virtuali e contenitori, ed avere una minima conoscenza dei concetti di automazione e creazione di script.
+  
+  L’aver lavorato in un ambiente di sviluppo software o operativo, con Windows o Linux, è utile ma non è essenziale.
+  
+  Gli studenti devono conoscere i processi generali associati allo sviluppo di applicazioni e alla distribuzione.
+outlineSection: |-
+  ### Modulo 1&#58; Infrastruttura e configurazione degli strumenti di Azure
+  #### Lezioni
+  - Obiettivi di formazione
+  - Infrastruttura come codice e gestione della configurazione
+  - Creare risorse di Azure utilizzando i modelli ARM
+  - Creare risorse di Azure utilizzando l’interfaccia della riga di comando di Azure
+  - Creare risorse di Azure utilizzando Azure PowerShell
+  - Strumenti di automazione aggiuntivi
+  - Controllo delle versioni
+  - Eseguire una distribuzione in laboratorio in Azure utilizzando i modelli ARM
+  - Domande di verifica del modulo
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Applicare l’infrastruttura e la configurazione come principi del codice
+  - Distribuire e gestire l’infrastruttura utilizzando le tecnologie di automazione di Microsoft come i modelli ARM, PowerShell e l’interfaccia della riga di comando di Azure
+
+  ### Modulo 2&#58; Modelli e servizi di distribuzione di Azure
+  #### Lezioni
+  - Obiettivi di formazione
+  - Modelli e opzioni di distribuzione
+  - Servizi IaaS (Infastructure as a Service) di Azure
+  - Automazione di Azure con DevOps
+  - Desired State Configuration (DSC)
+  - Servizi PaaS (Platform as a Service) di Azure
+  - Azure Service Fabric
+  - Automazione di Azure in laboratorio - Distribuzione IaaS o PaaS
+  - Domande di valutazione del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i modelli e i servizi di distribuzione disponibili in Azure
+
+
+  ### Modulo 3&#58; Creare e gestire un’infrastruttura per i servizi Kubernetes
+  #### Lezioni
+  - Obiettivi di formazione
+  - Servizio Azure Kubernetes
+  - Distribuire e ridimensionare in laboratorio un cluster AKS
+  - Domande di verifica del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Distribuire e configurare un cluster Kubernetes gestito
+
+
+  ### Modulo 4&#58; Strumenti di terze parti e open source disponibili in Azure
+  #### Lezioni
+  - Obiettivi di formazione
+  - Chef
+  - Puppet
+  - Ansible
+  - Cloud-Init
+  - Terraform
+  - Distribuzione in laboratorio e configurazione di un’app in Azure con X
+  - Domande di verifica del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Distribuire e configurare un’infrastruttura utilizzando con Azure strumenti e servizi di terze parti come Chef, Puppet, Ansible, SaltStack e Terraform
+
+
+  ### Modulo 5&#58; Implementare la conformità e la sicurezza nell’infrastruttura
+  #### Lezioni
+  - Principi di sicurezza e conformità con DevOps
+  - Centro sicurezza di Azure
+  - Integrare in laboratorio l’estensione di una scansione o uno strumento in una pipeline di DevOps/del Centro di sicurezza
+  - Domande di verifica del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Definire una strategia per l’infrastruttura e la configurazione per la pipeline di rilascio e l’infrastruttura per applicazioni
+  - Implementare la conformità e la sicurezza nell’infrastruttura per applicazioni
+
+
+  ### Modulo 6&#58; Fine del corso
+  #### Lezioni
+  - Esame finale

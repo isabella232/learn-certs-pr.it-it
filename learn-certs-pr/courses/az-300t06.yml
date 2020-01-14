@@ -1,0 +1,107 @@
+### YamlMime:Course
+title: Sviluppare soluzioni per il cloud
+metadata:
+  title: 'Corso AZ-300T06-A: Sviluppare soluzioni per il cloud'
+  description: 'Corso AZ-300T06-A: Sviluppare soluzioni per il cloud'
+uid: course.az-300t06
+courseNumber: 'AZ-300T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurare un’architettura per l’integrazione basata sui messaggi
+- skill: Spiegare come sviluppare una soluzione per l’elaborazione asincrona
+- skill: Iniziare a creare app per il ridimensionamento automatico
+- skill: Descrivere le soluzioni che possono essere create con Servizi cognitivi di Azure
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Questo modulo spiega come configurare un’architettura per l’integrazione basata su messaggi, sviluppare una soluzione per l’elaborazione asincrona, creare app per il ridimensionamento automatico e come comprendere meglio il funzionamento delle soluzioni create con Servizi cognitivi di Azure.
+  #### Profilo dei destinatari
+  Gli architetti di soluzioni cloud di successo che iniziano a lavorare in questo ruolo conoscono a livello pratico i sistemi operativi, la virtualizzazione, l’infrastruttura cloud, le strutture di archiviazione, la fatturazione e le reti.
+outlineSection: |-
+  ### Modulo 1&#58; Sviluppare attività con tempi di esecuzione lunghi e transazioni distribuite
+  In questo modulo vengono affrontati i seguenti argomenti&#58; implementare app su vasta scala, parallele e ad alte prestazioni grazie all’utilizzo di bach; HPC grazie dall’uso di macchine virtuali di Microsoft Azure; implementare app resilienti grazie all’utilizzo di code; implementare codice per affrontare gli eventi delle applicazioni grazie all’utilizzo di webhook. L’implementazione di un webhook fornisce a una risorsa esterna un URL per un’applicazione. La risorsa esterna invia quindi una richiesta HTTP all’URL ogni volta che viene apportata una modifica che richiede l’intervento dell’applicazione.
+  ### Modulo 2&#58; Configurare un'archittetura per l’integrazione basata su messaggi
+
+  #### Lezioni
+  - Configurare un’app o un servizio per l’invio di messaggi di posta elettronica
+  - Configurare la pubblicazione di un evento e un modello di abbonamento
+  - Configurare il servizio Azure Relay
+  - Configurare app o servizi con Microsoft Graph
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare un’architettura di integrazione basata su messaggi
+
+
+  ### Modulo 3&#58; Sviluppare una soluzione per l’elaborazione asincrona
+  #### Lezioni
+  - Implementare il parallelismo, il multithreading e l’elaborazione
+  - Implementare Funzioni di Azure e App per la logica di Azure
+  - Implementare interfacce per l’archiviazione o l'accesso ai dati
+  - Implementare modelli di calcolo asincroni appropriati
+  - Implementare regole e modelli per la scalabilità automatica
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere come sviluppare una soluzione per l’elaborazione asincrona
+
+
+  ### Modulo 4&#58; Sviluppare una soluzione per il ridimensionamento automatico
+  #### Lezioni
+  - Implementare regole e modelli per il ridimensionamento automatico
+  - Implementare codice per le istanze degli oggetti singleton Application
+  - Implementare un codice per lo stato temporaneo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Iniziare a creare app per il ridimensionamento automatico
+
+
+  ### Modulo 5&#58; Introduzione alle soluzioni create con Servizi cognitivi di Azure
+  #### Lezioni
+  - Sviluppare soluzioni che utilizzano la visione artificiale
+  - Sviluppare soluzioni che utilizzano Ricerca Web Bing
+  - Sviluppare soluzioni che utilizzano un servizio Speech personalizzato
+  - Sviluppare soluzioni che utilizzano QnA Maker
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le soluzioni create con Servizi cognitivi di Azure
+
+
+  ### Modulo 6&#58; Sviluppare soluzioni per l'archiviazione di Azure
+  #### Lezioni
+  - Sviluppare soluzioni che utilizzano l’archiviazione Azure Cosmos DB
+  - Sviluppare soluzioni che utilizzano un database relazionale
+  - Modellare un database con Entity Framework Core
+  - Sviluppare soluzioni che utilizzano l’archiviazione BLOB di Microsoft Azure
+  - Gestire le proprietà dei contenitori BLOB in .NET
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i servizi di Archiviazione di Azure come i BLOB e Cosmos DB

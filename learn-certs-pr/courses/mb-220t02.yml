@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: Impostare eventi e sondaggi in Dynamics 365 for Marketing
+metadata:
+  title: 'Course MB-220T02-A: Impostare eventi e sondaggi in Dynamics 365 for Marketing'
+  description: 'Course MB-220T02-A: Impostare eventi e sondaggi in Dynamics 365 for Marketing'
+uid: course.mb-220t02
+courseNumber: 'MB-220T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Impostare e gestire le capacità di pianificazione degli eventi
+- skill: Creare la messaggistica degli eventi, personalizzare il portale degli eventi, gestire le registrazioni e controllare gli accessi
+- skill: Progettare, configurare e distribuire i sondaggi
+- skill: Esaminare e comprendere le informazioni su eventi e sondaggi
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Eventi, webinar e sondaggi sono spesso una parte cruciale di come un'organizzazione di marketing raggiunge i clienti. Gli eventi e i webinar contengono molte parti variabili e possono essere complessi da gestire. Dynamics 365 for Marketing semplifica questo processo trasferendo tutti i dati di pianificazione in un unico luogo centrale e fornendo canali di esecuzione attraverso un portale di eventi personalizzabile. I sondaggi sono spesso forniti dopo l'evento, ma possono anche essere utilizzati durante tutto il ciclo di vita del marketing per sollecitare un feedback. Attraverso la soluzione Voice of the Customer di Microsoft, i sondaggi sono facili da impostare, gestire, eseguire e associare a un evento.
+
+  Questo corso tratterà la pianificazione dell'evento, compresa l'impostazione e la gestione delle sessioni, i relatori, i pass, le liste d'attesa, le sedi, gli sponsor, i venditori, la logistica e gli alloggi; così come l'esecuzione dell'evento, la creazione di campi di registrazione personalizzati, la gestione delle registrazioni e dei check in e il portale dell'evento; poi il corso tratterà la creazione e la distribuzione dei sondaggi. Infine, si concluderà con i risultati di eventi e sondaggi.
+
+  Imparare tutte le funzionalità di eventi e sondaggi all'interno di Dynamics 365 for Marketing attraverso dimostrazioni personalizzate, controllate le domande di conoscenza e i laboratori di apprendimento pratico.
+
+  #### Profilo dei destinatari
+  Questo corso è pensato per i professionisti dell'IT o del marketing che vogliono imparare a sfruttare Dynamics 365 for Marketing per le aziende.
+prerequisitesSection: |-
+  Prima di partecipare a queso corso, gli studenti devono&#58;
+  - Una comprensione delle basi di Dynamics 365 e la conoscenza dei principi, delle strategie e delle procedure di marketing
+outlineSection: |-
+  ### Modulo 1&#58; Eventi
+  In questo modulo gli studenti impareranno a gestire la pianificazione e l'esecuzione di eventi in Dynamics 365 for Marketing.
+  #### Lezioni
+  - Gestire la pianificazione degli eventi
+  - Gestire l'esecuzione dell’evento
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare eventi dal vivo e webinar
+  - Impostare le caratteristiche di pianificazione dell'evento come sessioni, relatori, pass per l'evento, liste d'attesa, sedi e sponsor
+  - Creare e gestire eventi ricorrenti
+  - Creare campi di registrazione personalizzati
+  - Creare la messaggistica di eventi in uscita
+  - Impostare e gestire il portale dell'evento, la registrazione e le funzionalità di check-in
+
+
+  ### Modulo 2&#58; Voice of the Customer
+  In questo modulo gli studenti esamineranno come configurare, progettare e distribuire le indagini di Voice of the Customer in Dynamics 365 for Marketing.
+  #### Lezioni
+  - Creare sondaggi
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare un tema di sondaggio riutilizzabile
+  - Creare, progettare, visualizzare in anteprima e pubblicare un sondaggio
+  - Imparare a distribuire un sondaggio attraverso Dynamics 365 per i canali di marketing
+  - Clonare, importare, tradurre, chiudere, interrompere o cancellare un sondaggio
+
+
+  ### Modulo 3&#58; Risultati
+  Nel modulo Risultati, gli studenti esamineranno le informazioni sugli eventi di marketing e sui sondaggi.
+  #### Lezioni
+  - Rivedere i risultati dell'evento e del sondaggio
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Utilizzare il dashboard dell'evento per valutare l'esito degli eventi
+  - Visualizzare i risultati dei sondaggi

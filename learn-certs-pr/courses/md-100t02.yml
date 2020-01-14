@@ -1,0 +1,127 @@
+### YamlMime:Course
+title: Configurazione di Windows 10
+metadata:
+  title: 'Course MD-100T02-A: Configurare Windows 10'
+  description: 'Course MD-100T02-A: Configurare Windows 10'
+uid: course.md-100t02
+courseNumber: 'MD-100T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurare dispositivi e driver per Windows.
+- skill: Configurare l’archiviazione per Windows.
+- skill: Configurare le impostazioni di rete in Windows.
+- skill: Configurare la gestione remota di Windows.
+- skill: Configurare e gestire le applicazioni in Windows.
+- skill: Configurare Internet Explorer.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In
+  questo corso gli studenti impareranno a fornire supporto per le attività di configurazione
+  associate a Windows 10. Gli studenti avranno modo di sviluppare competenze quali gestire
+  l’archiviazione, i file, i driver e le stampanti, oltre a imparare come configurare la connettività
+  di rete per Windows 10. Durante il corso verrà spiegato anche agli studenti come gestire e distribuire
+  le applicazioni.
+
+  #### Profilo dei destinatari
+  I candidati
+  idonei a sostenere questo esame sono professionisti IT che si occupano di installare, configurare,
+  gestire localmente ed eseguire la manutenzione dei servizi di base di Windows 10.
+  I candidati possono talvolta avere familiarità con gli scenari aziendali e i servizi
+  integrati nel cloud.
+prerequisitesSection: |-
+  I candidati
+  idonei a sostenere questo esame sono professionisti IT che si occupano di installare, configurare,
+  gestire localmente ed eseguire la manutenzione dei servizi di base di Windows 10.
+  I candidati possono talvolta avere familiarità con gli scenari aziendali e i servizi
+  integrati nel cloud.
+outlineSection: |-
+  ### Modulo 1&#58; Configurare le periferiche e i driver
+  Questo modulo è dedicato alla configurazione dei dispositivi. Gli studenti impareranno come funzionano i driver dei dispositivi e come installarli. Infine, verrà spiegato loro come gestire e configurare le periferiche hardware come le stampanti.
+  #### Lezioni
+  - Gestire dispositivi e driver
+  - Gestire le stampanti
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i concetti correlati ai driver
+  - Installare un driver dispositivo
+  - Descrivere i concetti alla base della gestione delle stampanti
+  - Configurare la stampa sul lato client e la gestione delle proprietà del server di stampa
+
+
+  ### Modulo 2&#58; Configurare le reti
+  In questo modulo verranno descritti agli studenti i concetti alla base delle reti. Verrà loro fornita un’introduzione a IPv4 e IPv6 nonché a concetti come DNS.  Gli studenti impareranno come configurare le impostazioni di rete in Windows, oltre a nozioni sulle tecnologie Wi-Fi. Alla fine del modulo verranno presentati i metodi che possono essere utilizzati per gestire Windows in modo remoto.
+  #### Lezioni
+  - Configurare la connettività delle reti IP
+  - Implementare la risoluzione dei nomi
+  - Implementare la connettività delle reti Wi-Fi
+  - Panoramica sull’accesso remoto
+  - Gestione remota
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i diversi tipi di applicazioni
+  - Installare le applicazioni manualmente e tramite metodi automatici
+  - Gestire la distribuzione delle applicazioni tramite Windows Store
+  - Descrivere le funzionalità dei browser Web in Windows 10
+
+
+  ### Modulo 3&#58; Configurare l’archiviazione
+  Questo modulo è dedicato alla configurazione e alla gestione dell'archiviazione in Windows 10.  Agli studenti verranno presentate le opzioni disponibili per l'archiviazione locale, nel cloud e virtuale. Agli studenti verranno fornite informazioni su come configurare l’archivazione sui dispositivi client e sugli spazi di archiviazione.
+  #### Lezioni
+  - Panoramica delle opzioni di archiviazione
+  - Utilizzare OneDrive
+  - Gestire dischi, partizioni e volumi
+  - Eseguire la manutenzione di dischi e volumi
+  - Gestire gli spazi di archiviazione
+
+
+  #### Laboratorio&#58; Laboratorio di pratica&#58; Gestire l'archiviazione
+  - Aggiungere un disco
+  - Creare un volume semplice
+  - Comprimere una cartella
+  - Abilitare le quote disco
+  - Creare uno spazio di archiviazione
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le opzioni e i vantaggi dell’archiviazione locale, nel cloud e virtuale
+  - Configurare OneDrive
+  - Configurare le partizioni e i volumi dei dischi locali
+  - Descrivere le funzionalità e i vantaggi degli spazi di archiviazione
+
+
+  ### Modulo 4&#58; Gestire app in Windows 10
+  In questo modulo, verrà spiegato agli studenti come gestire le app in Windows 10. Verranno descritti i diversi tipi di app e i metodi di installazione supportati.  Gli studenti impareranno come installare le app utilizzando metodi manuali e automatici, nonché come gestire la consegna delle app con Windows Store. Infine, in questo modulo verranno esaminate le differenze tra Internet Explorer e Microsoft Edge.
+  #### Lezioni
+  - Fornire le app agli utenti
+  - Gestire le app di Windows universale
+  - Window Store
+  - Browser Web di Windows 10
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i diversi tipi di applicazioni
+  - Installare le applicazioni manualmente e tramite metodi automatici
+  - Gestire la distribuzione delle applicazioni tramite Windows Store
+  - Descrivere le funzionalità dei browser Web in Windows 10
+
+
+  ### Modulo 5&#58; Conclusione del corso
+  #### Lezioni
+  - Esame Finale
+
+
+  #### Laboratorio&#58; Laboratorio con valutazione dei risultati

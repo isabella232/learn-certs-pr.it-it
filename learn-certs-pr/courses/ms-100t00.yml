@@ -1,0 +1,141 @@
+### YamlMime:Course
+title: Identità e servizi di Microsoft 365
+metadata:
+  title: 'Course MS-100T00-A: Identità e servizi di Microsoft 365'
+  description: 'Course MS-100T00-A: Identità e servizi di Microsoft 365'
+uid: course.ms-100t00
+courseNumber: 'MS-100T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Progettare, configurare e gestire il vostro tenant di Microsoft 365
+- skill: Funzionalità del prodotto Office 365
+- skill: Configurare Office 365
+- skill: Gestire le installazioni di Office 365 ProPlus
+- skill: Pianificare e implementare la sincronizzazione delle identità
+- skill: Implementare le applicazioni e l’accesso esterno
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Questo corso tratta tre elementi fondamentali dell’amministrazione aziendale di Microsoft 365 - gestione dell’assistenza e tenant di Microsoft 365, gestione di Office 365 e gestione delle identità di Microsoft 365.
+  In gestione dell’assistenza e tenant di Microsoft 365, esaminerete tutte le parti fondamentali che devono essere pianificate per la progettazione del vostro tenant di Microsoft 365. Dopo aver completato questa fase di pianificazione, imparerete come configurare il vostro tenant di Microsoft 365, incluso il vostro profilo organizzativo, le opzioni di sottoscrizione del tenant, i servizi dei componenti, le licenze e gli account dell’utente e i gruppi di sicurezza. Infine, imparerete come gestire il vostro tenant, inclusa la configurazione dei ruoli del tenant e a gestire i servizi e la sicurezza del vostro tenant.
+  Con il tenant di Microsoft 365 in loco, esaminerete i componenti chiave della gestione di Office 365. Questo inizia con una panoramica delle funzionalità dei prodotti Office 365, tra cui Exchange Online, SharePoint Online, Microsoft Teams, risorse aggiuntive del prodotto e gestione dei dispositivi. Si passa poi alla configurazione di Office 365, con particolare attenzione alla configurazione della connettività del client di Office con Office 365. Infine, si esaminerà come gestire le implementazioni di Office 365 ProPlus, dalle installazioni del client guidate dall'utente alle implementazioni centralizzate di Office 365 ProPlus. Concluderete questa sezione imparando come configurare Office Telemetry e Microsoft Analytics.
+  Il corso si conclude con un esame approfondito della sincronizzazione delle identità di Microsoft 365, con particolare attenzione ad Azure Active Directory Connect. Imparerete come pianificare e implementare Azure AD Connect, come gestire le identità sincronizzate e come implementare la gestione delle password in Microsoft 365 utilizzando l'autenticazione multi-fattore e la gestione delle password self-service. Questa sezione si conclude con una panoramica completa dell'implementazione dell'applicazione e dell'accesso esterno. Imparerete come aggiungere e gestire applicazioni in Azure Active Directory, incluso come configurare applicazioni multi-tenant. Si esaminerà quindi come configurare Azure AD Application Proxy, incluso come installare e registrare un connettore e come pubblicare un'applicazione locale per l'accesso remoto. Infine, esaminerete come progettare e gestire soluzioni per l'accesso esterno. Ciò include la guida alla concessione di licenze per la collaborazione B2B di Azure AD, la creazione di un utente collaborativo e la risoluzione dei problemi di una collaborazione B2B.
+
+  #### Profilo dei destinatari
+  Questo corso è destinato a chi aspira al ruolo di amministratore dell’azienda Microsoft 365 e che ha completato uno dei percorsi di certificazione per amministratore basati sui ruoli di Microsoft 365.
+prerequisitesSection: |-
+  - Ha completato un corso di amministrazione basato sui ruoli, come Messaggistica, Lavoro di squadra, Sicurezza e conformità o Collaborazione.
+  - Una conoscenza approfondita del DNS e un'esperienza funzionale di base con i servizi Microsoft 365.
+  - Una buona comprensione delle pratiche IT generali.
+outlineSection: |-
+  ### Modulo 1&#58; Progettare il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Pianificare Microsoft 365 nella vostra infrastruttura locale
+  - Pianificare la vostra soluzione di autenticazione e identità
+  - Pianificare le vostre impostazioni di servizio
+  - Pianificare il vostro ambiente ibrido
+  - PIanificare la vostra migrazione a Office 365
+
+
+  ### Modulo 2&#58; Configurare il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Pianificare la vostra esperienza di Microsoft 365
+  - Configurare la vostra esperienza d Microsoft 365
+  - Gestire gli account e le licenze in Microsoft 365
+  - Gestire i gruppi della sicurezza in Microsoft 365
+  - Implementare i vostri servizi di dominio
+  - Sfruttare i servizi di FastTrack e dei partner
+
+
+  ### Modulo 3&#58; Laboratorio 1 - Configurare il vostro tenant di Microsoft 365
+
+  #### Laboratorio&#58; Configurare il vostro tenant di Microsoft 365
+  - Esercizio 1 - Impostare un tenant di prova di Microsoft 365
+
+
+  ### Modulo 4&#58; Gestire il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Configurare i ruoli del tenant
+  - Gestire i servizi e la salute del tenant
+
+
+  ### Modulo 5&#58; Laboratorio 2 - Gestire il vostro tenant di Microsoft 365
+
+  #### Laboratorio&#58; Gestire il vostro tenant di Microsoft 365
+  - Esercizio 1 - Gestire la delegazione dell’amministrazione
+  - Esercizio 2 - Configurare la crittografia dei messaggi di Office 365 (OME)
+  - Esercizio 3 - Monitorare e risolvere i problemi di Office 365
+
+
+  ### Modulo 6&#58; Panoramica di Office 365
+  #### Lezioni
+  - Panoramica di Exchange Online
+  - Panoramica di SharePoint Online
+  - Panoramica dei team
+  - Panoramica delle risorse aggiuntive
+  - Panoramica della gestione del dispositivo
+
+
+  ### Modulo 7&#58; Laboratorio 3 - Panoramica di Office 365
+
+  #### Laboratorio&#58; Panoramica di Office 365
+  - Esercizio 1 - Panoramica di Exchange Online
+  - Esercizio 2 - Panoramica di SharePoint Online
+  - Esercizio 3 - Panoramica dei team
+
+
+  ### Modulo 8&#58; Configurare  Office 365
+  #### Lezioni
+  - Panoramica Client Office 365
+  - Configurare la connettività dei client di Office su Office 365
+
+
+  ### Modulo 9&#58; Gestire le implementazioni di Office 365 ProPlus
+  #### Lezioni
+  - Gestire installazioni di client gestite dall'utente
+  - Gestire le installazioni centralizzate di Office 365 ProPlus
+  - Configurare la telemetria di Office
+  - Configurare Microsoft Analytics
+
+
+  ### Modulo 10&#58; Laboratorio 4 - Gestire le installazioni di Office 365 ProPlus
+
+  #### Laboratorio&#58; Gestire le installazioni di Office 365 ProPlus
+  - Esercizio 1 - Preparare un’installazione gestita di 365 ProPlus
+  - Esercizio 2 - Gestire un’installazione centralizzata di Office 365 ProPlus
+  - Esercizio 3 - Implementare e configurare una sincronizzazione dell’identità di Office
+
+
+  ### Modulo 11&#58; Pianificare e implementare la sincronizzazione delle identità
+  #### Lezioni
+  - Introduzione alla sincronizzazione delle identità
+  - Pianificare per Azure AD Connect
+  - Implementare Azure AD Connect
+  - Gestire identità sincronizzate
+  - Gestione della password in Microsoft 365
+
+
+  ### Modulo 12&#58; Laboratorio 5 - Implementare la sincronizzazione delle identità
+
+  #### Laboratorio&#58; Implementare la sincronizzazione delle identità
+  - Esercizio 1 - Impostare la vostra organizzazione per la sincronizzazione delle identità
+  - Esercizio 2 - Implementare la sincronizzazione delle identità
+
+
+  ### Modulo 13&#58; Implementare le applicazioni e l’accesso esterno
+  #### Lezioni
+  - Implementare le applicazioni in Azure AD
+  - Configurare Azure AD App Proxy
+  - Progettare soluzioni per l’accesso esterno

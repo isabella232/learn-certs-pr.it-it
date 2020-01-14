@@ -1,0 +1,123 @@
+### YamlMime:Course
+title: Eseguire la manutenzione di Windows 10
+metadata:
+  title: 'Course MD-100T04-A: Eseguire la manutenzione di Windows 10'
+  description: 'Course MD-100T04-A: Eseguire la manutenzione di Windows 10'
+uid: course.md-100t04
+courseNumber: 'MD-100T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Utilizzare gli strumenti di Windows per la risoluzione dei problemi e il monitoraggio.
+- skill: Risolvere i problemi relativi alle installazioni di Windows.
+- skill: Risolvere i problemi relativi all’installazione delle applicazioni.
+- skill: Risolvere i problemi relativi alle impostazioni dei browser Web.
+- skill: Risolvere i problemi relativi all’autenticazione in Windows.
+- skill: Risolvere i problemi hardware correlati alle macchine di Windows.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In questo corso gli studenti impareranno come gestire Windows 10 e risolvere gli eventuali problemi. Durante il corso verranno esaminati approfonditamente l’architettura e gli strumenti utilizzati per gestire, monitorare e risolvere i problemi relativi al sistema operativo, le app e l’hardware. Agli studenti verrà illustrata la metodologia di risoluzione dei problemi proattiva e verrà spiegato loro come identificare e mitigare i problemi comuni.
+
+  #### Profilo dei destinatari
+  I candidati idonei a sostenere questo esame sono professionisti IT che si occupano di installare, configurare, gestire localmente ed eseguire la manutenzione dei servizi principali di Windows 10. I candidati hanno talvolta familiarità con scenari aziendali e servizi integrati nel cloud.
+prerequisitesSection: |-
+  Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
+  - Conoscenza basilare delle reti di computer e dell’hardware.
+  - Conoscenza basilare dei sistemi operativi e delle applicazioni.
+  - Esperienza nell’uso dei sistemi operativi Windows.
+outlineSection: |-
+  ### Modulo 1&#58; Supportare l’ambiente di Windows 10
+  Questo modulo descrive l’architettura e gli ambienti comuni di Windows 10. Agli studenti verranno presentati i vari strumenti che possono essere utilizzati per eseguire la manutenzione di Windows. Verranno esaminate anche le metodologie che consentono di risolvere efficacemente i problemi e verrà spiegato agli studeti di gestire e ottimizzare in modo proattivo Windows 10.
+  #### Lezioni
+  - Risolvere i problemi relativi a Windows
+  - Strumenti per la risoluzione dei problemi
+
+
+  #### Laboratorio&#58; Esercitazione pratica&#58; Monitorare Windows 10
+  - Monitorare gli eventi
+  - Monitorare l’affidabilità e le prestazioni
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere l’architettura di Windows
+  - Descrive le fasi principali della procedura di risoluzione dei problemi
+  - Descrivere lo scopo e i vantaggi dei vari strumenti di Windows
+  - Utilizzare gli strumenti di monitoraggio per definire la linea di base per le prestazioni
+  - Ottimizzare le prestazioni dei client di Windows 10
+
+
+  ### Modulo 2&#58; Risolvere i problemi relativi al sistema operativo Windows
+  In questo modulo gli studenti impareranno a risolvere i problemi relativi all’avvio e al funzionamento del sistema operativo.  Verranno illustrate agli studenti le varie opzioni di avvio e ripristino e verrà spiegato loro come risolvere i problemi relativi ai diversi servizi di Windows.
+  #### Lezioni
+  - Risolvere i problemi relativi all’avvio di Windows
+  - Risolvere i problemi relativi al funzionamento del sistema operativo
+  - Risolvere i problemi relativi al login
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i vari metodi per identificare i problemi di avvio ed eseguire il ripristino
+  - Spiegare quando devono essere utilizzate le varie opzioni di avvio avanzate
+  - Idetificare e disattivare un servizio in errore
+  - Identificare e mitigare gli scenari comuni associati ad account bloccati
+
+
+  ### Modulo 3&#58; Risolvere i problemi relativi a file e applicazioni
+  Lo scopo di questo modulo è aiutare gli studenti a pianificare il backup e il ripristino dei file.  Gli studenti impareranno come pianificare e configurare strategie per la protezione dei dati e come utilizzare i vari metodi per il recupero di file e sistemi.  Nel modulo verranno descritti i metodi comunemente utilizzati per risolvere i problemi relativi all’installazione di applicazioni, di compatibilità e di browser.
+  #### Lezioni
+  - Ripristino di file in Windows 10
+  - Risolvere i problemi relativi alle applicazioni
+
+
+  #### Laboratorio&#58; Risolvere i problemi relativi alle app desktop
+  - Risolvere i problemi relativi alle applicazioni dei criteri AppLocker
+  - Risolvere i problemi relativi alla compatibilità tra le applicazioni
+  - Risolvere i problemi relativi a Microsoft Internet Explorer
+  - Risolvere i problemi relativi a Microsoft Edge
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i vari metodi per ripristinare i file
+  - Configurare Windows 10 per supportare il ripristino del sistema e di singoli file
+  - Eseguire il ripristino di un dispositivo con la funzione Reimposta il PC
+  - Risolvere i problemi di compatibilità delle applicazioni con Application Compatibility Toolkit
+  - Risolvere i problemi comuni dei browser
+
+
+  ### Modulo 4&#58; Risolvere i problemi relativi ad hardware e driver
+  Questo modulo è dedicato alla risoluzione dei problemi hardware.  Gli studenti impareranno a gestire i driver e come risolvere i problemi relativi ai dispositivi. Verranno loro illustrate le procedure per risolvere i problemi relativi all’hardware di sistema e alle periferiche esterne come le unità USB e le stampante. Infine, verranno fornite loro informazioni sui metodi diagnostici e di correzione.
+  #### Lezioni
+  - Risolvere i problemi relativi agli errori dei driver dei dispositivi
+  - Panoramica della risoluzione dei problemi hardware
+  - Risolvere i problemi relativi ai guasti fisici
+
+
+  #### Laboratorio&#58; Risolvere i problemi relativi ai driver di dispositivo
+  - Risolvere i problemi relativi a driver dispositivo mancanti
+  - Risolvere i problemi hardware
+  - Risolvere i problemi relativi ai driver dispositivo
+  - Configurare le impostazioni dei criteri di gruppo per il controllo dell’installazione dei dispositivi
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Risolvere e correggere i problemi relativi ai driver
+  - Risolvere i problemi relativi alle periferiche
+  - Diagnosticare e sostituire l’hardware
+
+
+  ### Modulo 5&#58; Conclusione del corso
+  #### Lezioni
+  - Esame Finale
+
+
+  #### Laboratorio&#58; Laboratorio con valutazione dei risultati

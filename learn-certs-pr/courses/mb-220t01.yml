@@ -1,0 +1,127 @@
+### YamlMime:Course
+title: Configurare impostazioni e funzionalità base in Dynamics 365 for Marketing
+metadata:
+  title: 'Course MB-220T01-A: Configurare impostazioni e funzionalità base in Dynamics 365 for Marketing'
+  description: 'Course MB-220T01-A: Configurare impostazioni e funzionalità base in Dynamics 365 for Marketing'
+uid: course.mb-220t01
+courseNumber: 'MB-220T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurare le impostazioni avanzate
+- skill: Gestire contenuti di marketing, modelli e integrazioni
+- skill: Creare e gestire potenziali clienti
+- skill: Valutare la prontezza delle vendite attraverso modelli di punteggio di piombo
+- skill: Creare e gestire moduli e pagine di marketing
+- skill: Creare e gestire segmenti, centri di sottoscrizione, liste e doppio opt-in
+- skill: Progettare e creare messaggi e-mail
+- skill: Organizzare e lanciare i viaggi dei clienti
+- skill: Visualizzare, comprendere e gestire le informazioni sui clienti
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  La trasformazione del marketing, l'organizzazione e la crescita inizia da qui. Con Dynamics 365 for Marketing, le prospettive possono trasformarsi in relazioni d'affari. Trovare e coltivare un maggior numero di lead pronti per la vendita andando oltre il marketing di base con e-mail. Collegare le vendite e il marketing, automatizzare i processi e prendere decisioni più intelligenti per massimizzare il ROI del marketing.
+
+  Questo corso esamina la configurazione dell'applicazione di marketing necessaria per iniziare. Si immerge nella creazione di lead, nella gestione e nel punteggio. Da lì, il corso copre la creazione di moduli e pagine di marketing. Poi, gli studenti imparano a dividere i lead e i contatti attraverso la segmentazione per aiutare a focalizzare gli sforzi di marketing. Successivamente, gli studenti imparano a creare messaggi di marketing via email utilizzando la funzionalità di progettazione avanzata. Poi, tutti i pezzi convogliano nel viaggio del cliente. Dynamics 365 for Marketing supporta i viaggi dei clienti per creare un modello che aiuta a guidare i membri di un segmento di marketing selezionato attraverso questo processo utilizzando messaggistica automatica, generazione di attività, punti di decisione interattivi e altro ancora. Infine, gli studenti imparano a vedere, capire e gestire le informazioni sui clienti.
+
+  Imparano tutte le impostazioni e le funzionalità di base all'interno di Dynamics 365 for Marketing attraverso dimostrazioni personalizzate, controllate le domande di conoscenza e i laboratori di apprendimento pratico.
+
+  #### Profilo dei destinatari
+  Questo corso è pensato per i professionisti dell'IT o del marketing che vogliono imparare a sfruttare Dynamics 365 for Marketing per le aziende.
+prerequisitesSection: |-
+  Prima di partecipare a queso corso, gli studenti devono&#58;
+  - Una comprensione delle basi di Dynamics 365 e la conoscenza dei principi, delle strategie e delle procedure di marketing
+outlineSection: |-
+  ### Modulo 1&#58; Configurazione dell’Applicazione di marketing
+  In questo modulo gli studenti impareranno a conoscere le impostazioni avanzate, i contenuti di marketing, i modelli e le integrazioni di Dynamics 365 for Marketing.
+  #### Lezioni
+  - Configurare le impostazioni avanzate
+  - Gestire i contenuti e i modelli di marketing
+  - Gestire le integrazioni LinkedIn e Power BI
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare impostazioni avanzate, come&#58; organizzazione, gestione aziendale, contenuti, marketing ed organizzazione di eventi
+  - Gestire i contenuti e i modelli di marketing  
+
+
+  ### Modulo 2&#58; Lead
+  Questo modulo analizzerà come creare, gestire e segnare i lead.
+  #### Lezioni
+  - Creare e gestire i lead
+  - Valutare la preparazione delle vendite
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e gestire i lead
+  - Sincronizzare i lead da LinkedIn
+  - Valutare la prontezza delle vendite utilizzando modelli di punteggio dei lead
+
+
+  ### Modulo 3&#58; Moduli e pagine di marketing
+  Questo modulo tratterà di come creare moduli e pagine di marketing.
+  #### Lezioni
+  - Creare moduli di marketing
+  - Creare pagine di marketing
+  - Gestire il marketing su Internet
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare moduli di marketing e inserirli nelle pagine di marketing
+  - Creare pagine di marketing
+  - Anteprima, convalida ed attivazione di una pagina di marketing
+  - Creare moduli di marketing e modelli di pagina
+
+
+  ### Modulo 4&#58; Segmenti e Liste
+  Questo modulo tratterà di come gestire i segmenti, i centri di sottoscrizione, le liste e l'opt-in doppio.
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare segmenti statici e dinamici
+  - Creare un elenco di sottoscrizioni
+  - Creare una pagina del centro di sottoscrizione
+  - Impostare e abilitare un doppio processo di opt-in
+
+
+  ### Modulo 5&#58; E-Mail di marketing
+  Questo modulo tratterà di come creare messaggi di posta elettronica in Dynamics 365 for Marketing.
+  #### Lezioni
+  - Creare messaggi di posta elettronica
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e inviare messaggi di posta elettronica
+  - Anteprima, convalida e go-live con i messaggi e-mail
+  - Salvare un messaggio e-mail come modello
+
+
+  ### Modulo 6&#58; Viaggi cliente
+  Questo modulo esaminerà il processo di creazione dei viaggi del cliente.
+  #### Lezioni
+  - Creare viaggi dei clienti
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare un viaggio del cliente a partire da un modello
+  - Identificare i riquadri e le proprietà del viaggio del cliente
+  - Convalidare e pubblicare un viaggio cliente
+  - Creare un viaggio cliente fondato sull’account
+  - Comprendere le caratteristiche del calendario di marketing
+
+
+  ### Module 7&#58; Informazioni
+  Questo modulo dimostrerà come visualizzare, comprendere e gestire le informazioni sui clienti.
+  #### Lezioni
+  - Informazioni di marketing
+  - Informazioni sui clienti
+  - Informazioni sull'esecuzione del marketing
+  - Informazioni sulla gestione dei lead
+  - Informazioni sul marketing su Internet
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Trovare informazioni
+  - Comprendere le informazioni di marketing, come&#58; contatto, segmento, viaggio del cliente, e-mail di marketing, lead, punteggio del lead, modulo di marketing, pagina di marketing, sito web e URL di reindirizzamento

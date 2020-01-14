@@ -1,0 +1,88 @@
+### YamlMime:Course
+title: Comprensione della infrastruttura moderna di messaggistica
+metadata:
+  title: 'Course MS-200T01-A: Comprensione della infrastruttura moderna di messaggistica'
+  description: 'Course MS-200T01-A: Comprensione della infrastruttura moderna di messaggistica'
+uid: course.ms-200t01
+courseNumber: 'MS-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendere l’infrastruttura moderna di messaggistica
+- skill: Implementare e gestire un’infrastruttura moderna di messaggistica
+- skill: Creare e gestire i destinatari dello scambio
+- skill: Gestire indirizzi e-mail, elenchi e risorse
+- skill: Pianificare i database delle cassette postali
+- skill: Creare e gestire un database delle cassette postali
+- skill: Gestire l’autenticazione della messaggistica
+- skill: Configurare le impostazioni organizzative
+- skill: Configurare le condivisioni dell’organizzazione
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  In questo corso gli studenti impareranno a conoscere l'architettura della moderna infrastruttura di messaggistica con Exchange Server e Exchange Online e come distribuire la messaggistica su diversi scenari e organizzazioni. Saranno guidati attraverso il processo di implementazione iniziale e saranno introdotti agli strumenti di gestione della messaggistica. Gli studenti impareranno come creare e gestire diversi tipi di destinatari e come creare e gestire i database delle caselle di posta elettronica di Exchange Server, che servono da luoghi di archiviazione per tutti i dati di messaggistica. Infine, saranno introdotti alle impostazioni organizzative dell'infrastruttura di messaggistica, come gestire l'autenticazione per l'ambiente di messaggistica, come configurare le quote per gli utenti nell'organizzazione e come configurare la condivisione dell'organizzazione con la federazione.
+
+  #### Profilo dei destinatari
+  L'amministratore di messaggistica distribuisce, configura, gestisce e
+  risolve i problemi dei destinatari, autorizzazioni, protezione della posta, flusso della posta e cartelle
+  pubbliche sia in ambienti a livello locale sia in ambienti aziendali cloud. Le responsabilità
+  includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida
+  e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino
+  di emergenza, l’alta disponibilità e l’accesso del cliente Per implementare una topologia ibrida
+  sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica
+  Deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365
+  L'amministratore di messaggistica deve avere una conoscenza operativa dei tipi di autenticazione,
+  licenze e integrazione con le applicazioni Microsoft 365.
+prerequisitesSection: |-
+  - Ottima comprensione del DNS.
+  - Comprensione di base della messaggistica all'interno di Exchange Server o Exchange Online.
+  - Comprensione di base dell'infrastruttura di Active Directory e dei domain controller insieme alla gestione delle identità.
+  - Esperienza funzionale di base con i servizi Microsoft 365 e la sincronizzazione delle directory.
+  - Almeno 5 anni di esperienza generale nel settore informatico.
+outlineSection: |-
+  ### Modulo 1&#58; Gestione della moderna infrastruttura di messaggistica
+  #### Lezioni
+  - Panoramica dell'infrastruttura moderna di messaggistica
+  - Implementare un’infrastruttura moderna di messaggistica
+  - Gestire l’infrastruttura di messaggistica moderna
+
+
+  ### Modulo 2&#58; Gestione degli oggetti e delle risorse dei destinatari
+  #### Lezioni
+  - Destinatari di Exchange
+  - Creazione e gestione dei destinatari di Exchange
+  - Gestire indirizzi e-mail, elenchi e risorse
+
+
+  ### Modulo 3&#58; Gestione dei database delle cassette postali
+  #### Lezioni
+  - Database delle caselle di posta elettronica in Exchange Server
+  - Pianificazione dei database delle cassette postali
+  - Creazione e gestione dei database delle cassette postali
+  - Risoluzione dei problemi dei database delle cassette postali
+
+
+  ### Modulo 4&#58; Gestione delle impostazioni organizzative
+  #### Lezioni
+  - Gestione dell'autenticazione per la messaggistica
+  - Configurazione delle impostazioni organizzative
+  - Progettare soluzioni per l’accesso esterno
+
+
+  ### Modulo 5&#58; Conclusione del corso
+
+  #### Laboratorio&#58; Gestione dell'infrastruttura del destinatario
+  - Creazione di un destinatario locale
+  - Creazione di un destinatario cloud
+  - Creazione di un gruppo di distribuzione locale
+  - Creazione di un gruppo di distribuzione cloud
+  - Creazione di un gruppo Office 365

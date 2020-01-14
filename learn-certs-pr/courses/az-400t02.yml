@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Implementare l’integrazione continua
+metadata:
+  title: 'Corso AZ-400T02-A: Implementare l’integrazione continua'
+  description: 'Corso AZ-400T02-A: Implementare l’integrazione continua'
+uid: course.az-400t02
+courseNumber: 'AZ-400T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Spiegare perché l’integrazione continua è importante
+- skill: Implementare l’integrazione continua con Azure DevOps
+- skill: Configurare le build e le opzioni disponibili
+- skill: Creare un flusso di lavoro di compilazione automatico
+- skill: Integrare altri strumenti di compilazione con Azure DevOps
+- skill: Creare processi di compilazione ibridi
+- skill: Descrivere cos’è la qualità del codice e come viene misurata
+- skill: Individuare gli ‘odori’ del codice
+- skill: Integrare test automatici per valutare la qualità del codice
+- skill: Creare report sulla copertura del codice durante il testing
+- skill: Aggiungere strumenti per misurare il debito tecnico
+- skill: Rilevare i problemi relativi alle licenze open source e di altro tipo
+- skill: Implementare una strategia per la compilazione di contenitori
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per implementare le procedure DevOps relative all’integrazione continua. Agli studenti verrà spiegato come implementare l’integrazione continua in una pipeline di Azure DevOps, gestire la qualità del codice e i principi di sicurezza, nonché come implementare una strategia di compilazione per i contenitori.
+ 
+  #### Profilo dei destinatari
+  Gli studenti che decidono di seguire questo corso sono interessati ai processi di integrazione continua di DevOps o a sostenere l'esame di certificazione Soluzioni DevOps di Microsoft Azure.
+prerequisitesSection: |-
+  - Gli studenti devono fondamentalmente conoscere argomenti quali Azure, il controllo delle versioni, lo sviluppo di software Agile e i principi di base dello sviluppo di software. È utile che gli studenti abbiano lavorato in una società che fornisce software.
+  - È consigliabile avere un’esperienza lavorative in un IDE, nonché avere qualche nozione del portale di Azure. Tuttavia, anche gli studenti che non hanno un background tecnico in queste tecnologie, ma che sono curiosi di conoscere le procedure DevOps per motivi culturali, sono generalmente in grado di seguire le spiegazioni procedurali e teoriche relative all’integrazione continua.
+outlineSection: |-
+  ### Modulo 1&#58; Implementare l’integrazione continua in una pipeline DevOps di Azure
+  Questo modulo descrive i principi dell’integrità continua, tra cui&#58; i vantaggi, le sfide, le procedure ottimali di compilazione e le fasi di implementazione. Agli studenti verrà spiegato anche come implementare una strategia di compilazione utilizzando flussi di lavoro, trigger, agenti e strumenti.
+  #### Lezioni
+  - Panoramica dell’integrazione continua
+  - Implementare una strategia di compilazione
+  #### Laboratorio&#58; Abilitare l’integrazione continua con Azure Pipelines
+
+  #### Laboratorio&#58; Creare un processo di compilazione Jenkins e attivare CI
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare perché l’integrazione continua è importante
+  - Implementare l’integrazione continua con Azure DevOps
+
+
+  ### Modulo 2&#58; Gestire la qualità del codice e i criteri di sicurezza
+  In questo modulo gli studenti impareranno a gestire la qualità del codice, con soluzioni qualii&#58; il debito tecnico, SonarCloud e altri strumenti. Agli studenti verrà spiegato anche come gestire i criteri di sicurezza con codice open source, OWASP e WhiteSource Bolt.
+  #### Lezioni
+  - Gestire la qualità del codice
+  - Gestire i criteri di sicurezza
+
+
+  #### Laboratorio&#58; Gestire il debito tecnico con Azure DevOps e SonarCloud
+
+  #### Laboratorio&#58; Controllo delle vulnerabilità con WhiteSource Bolt e Azure DevOps
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Gestire la qualità del codice, con soluzioni quali&#58; il debito tecnico, SonarCloud e altri strumenti.
+  - Gestire i criteri di sicurezza con codice open source, OWASP e WhiteSource Bolt.
+  - Gestire la qualità del codice, con soluzioni quali&#58; il debito tecnico, SonarCloud e altri strumenti.
+
+
+  ### Modulo 3&#58; Implementare una strategia di compilazione per i contenitori
+  In questo modulo verrà spiegato agli studenti come implementare una strategia per i contenitori e in particolare perché i contenitori sono diversi dalle macchine virtuali e perché i microservizi utilizzano contenitori. Gli studenti impareranno anche come implementare i contenitori con Docker.
+  #### Lezioni
+  - Implementare una strategia di compilazione per i contenitori
+
+
+  #### Laboratorio&#58; Applicazioni .NET esistenti con immagini Azure e Docker
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Implementare una strategia per i contenitori che spieghi perchè i contenitori sono diversi dalle macchine virtuali e perché i microservizi utilizzano contenitori.
+  - Implementare contenitori con Docker.

@@ -1,0 +1,70 @@
+### YamlMime:Course
+title: Gestione della sicurezza di Microsoft 365
+metadata:
+  title: 'Course MS-101T01-A: Gestione della sicurezza di Microsoft 365'
+  description: 'Course MS-101T01-A: Gestione della sicurezza di Microsoft 365'
+uid: course.ms-101t01
+courseNumber: 'MS-101T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Gestire le metriche di sicurezza
+- skill: Implementare soluzioni di sicurezza in Microsoft 365
+- skill: pianificare e configurare la protezione delle identità di Azure AD
+- skill: Implementare Microsoft Secure Score
+- skill: Implementare la protezione di Exchange Online
+- skill: Implementare una protezione contro le minacce avanzate
+- skill: Gestire link e allegati sicuri
+- skill: Implementare Microsoft 365 Threat Intelligence
+- skill: Utilizzare la Microsoft 365 Security Dashboard
+- skill: Configurare un’analisi avanzata delle minacce
+- skill: Implementare la sicurezza delle applicazioni cloud
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Imparare sulla gestione della sicurezza di Mocrosoft 365, incluso come gestire le proprie metriche di sicurezza, come abilitare la protezione delle identità di Azure AD, come configurare i servizi per la sicurezza di Microsoft 365 e Microsoft 365 Threat Intelligence dell’utente.
+
+  #### Profilo dei destinatari
+  Questo corso è destinato a chi aspira al ruolo di amministratore dell’azienda Microsoft 365 e che ha completato uno dei percorsi di certificazione per amministratore basati sui ruoli di Microsoft 365.
+prerequisitesSection: |-
+  - Ha completato un corso di amministrazione basato sui ruoli, come Messaggistica, Lavoro di squadra, Sicurezza e conformità o Collaborazione.
+  - Una conoscenza approfondita del DNS e un'esperienza funzionale di base con i servizi Microsoft 365.
+  - Una buona comprensione delle pratiche IT generali.
+outlineSection: |-
+  ### Modulo 1&#58; Progettare il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Pianificare un’infrastruttura in loco per Microsoft 365
+  - Pianificare la vostra soluzione di autenticazione e identità
+
+
+  ### Modulo 2&#58; Configurare il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Pianificare la vostra esperienza di Microsoft 365
+  - Configurare la vostra esperienza d Microsoft 365
+  - Sfruttare i servizi di FastTrack e dei partner
+  - Implementare i vostri servizi di dominio
+
+
+  ### Modulo 3&#58; Gestire il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Configurare i ruoli del tenant
+  - Gestire i servizi e la salute del tenant
+
+
+  ### Modulo 4&#58; Laboratorio pratico online
+
+  #### Laboratorio&#58; Gestire la vostra sicurezza di Microsoft 365
+  - Esercizio 1&#58; Impostare l’ambiente del laboratorio
+  - Esercizio 2&#58; Modificare una politica dei link sicuri ATP e creare una politica degli allegati sicuri
+  - Esercizio 3&#58; Abilitare e installare il centro ATA

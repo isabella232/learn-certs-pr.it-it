@@ -1,0 +1,75 @@
+### YamlMime:Course
+title: Implementare la sicurezza in Azure
+metadata:
+  title: 'Corso AZ-203T04-A: Implementare la sicurezza in Azure'
+  description: 'Corso AZ-203T04-A: Implementare la sicurezza in Azure'
+uid: course.az-203t04
+courseNumber: 'AZ-203T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per includere i servizi di autenticazione e autorizzazione di Azure nelle soluzioni sviluppate. Agli studenti verrà spiegato come le identità vengono gestite e utilizzate nelle soluzioni Azure tramite Microsoft Identity Platform. Gli studenti impareranno anche in cosa consiste il controllo dell'accesso (controllo delle autorizzazioni in base alle attestazioni e controllo dell'accesso in base ai ruoli) e come implementare soluzioni dati sicure. Durante il corso verrà spiegato agli studenti come creare e integrare queste risorse utilizzando l’interfaccia della riga di comando di Azure, REST e il codice dell’applicazione.
+
+  #### Profilo dei destinatari
+  - Gli studenti che decidono di seguire questo corso sono persone interessate a sviluppare soluzioni Azure o a superare l’esame di certificazione Microsoft Azure Developer Associate.
+  - Gli studenti devono avere almeno 1-2 anni di esperienza nel ruolo di sviluppatore. In questo corso si presuppone che gli studenti sappiano come creare codici e abbiano una conoscenza basilare di Azure.
+prerequisitesSection: |-
+  - Gli studenti devono avere almeno 1-2 anni di esperienza nel ruolo di sviluppatore. In questo corso si presuppone che gli studenti sappiano come creare codici e abbiano una conoscenza basilare di Azure.
+  - È consigliabile che gli studenti abbiano una certa esperienza nell’uso di PowerShell o dell’interfaccia della riga di comando di Azure, che abbiano utilizzato il portale di Azure e che conoscano almeno uno dei linguaggi di programmazione supportati da Azure. La maggior parte degli esempi presentati in questo corso sono scritti in linguaggio C# .NET.
+outlineSection: |-
+  ### Modulo 1&#58; Implementare l’autenticazione
+  Microsoft Identity Platform è l’evoluzione del servizio identità e della piattaforma di sviluppo Azure Active Directory (Azure AD). Permette agli sviluppatori di creare applicazioni che accettano l’accesso di tutte le identità Microsoft, ottengono token per chiamare Microsoft Graph, altre API di Microsoft o API create dagli sviluppatori.
+  #### Lezioni
+  - Microsoft Identity Platform
+  - Implementare l’autenticazione OAuth2
+  - Implementare le identità gestite per le risorse di Azure
+  - Implementare l’autenticazione utilizzando certificati, l’autenticazione basata su moduli o token
+  - Implementare l'autenticazione a più fattori
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere l’architettura di Microsot Identity Platform
+  - Implementare l’autenticazione OAuth2 nelle loro soluzioni
+  - Utilizzare Azure Key Vault per archiviare e recuperare le informazioni relative all’autenticazione
+
+  ### Modulo 2&#58; Implementare il controllo dell’accesso
+  Questo modulo spiega cos’è il controllo dell’accesso in base alle attestazioni e ai ruoli.
+  #### Lezioni
+  - Autorizzazione basata su un’attestazione
+  - Autorizzazione del controllo dell’accesso basato sui ruoli (RBAC)
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Utilizzare le autorizzazioni basate su attestazioni per le soluzioni sviluppate
+  - Gestire l’accesso alle risorse con RBAC tramite le API REST
+
+
+  ### Modulo 3&#58; Implementare soluzioni dati sicure
+  Questo modulo spiega come proteggere i dati inattivi e i dati durante la loro trasmissione.
+  #### Lezioni
+  - Opzioni per la crittografia
+  - Crittografia end-to-end
+  - Implementare l’elaborazione riservata in Azure
+  - Gestire le chiavi crittografiche in Azure Key Vault
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le opzioni per la crittografia
+  - Crittografare i dati con Transparent Data Encryption
+  - Gestire e utilizzare le chiavi crittografiche con Azure Key Vault

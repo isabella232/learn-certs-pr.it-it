@@ -1,0 +1,250 @@
+### YamlMime:Course
+title: Configurare e utilizzare la gestione della catena di fornitura in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-330T01-A: Configurare e utilizzare la gestione della catena di fornitura in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T01-A: Configurare e utilizzare la gestione della catena di fornitura in Dynamics 365 for Finance and Operations'
+uid: course.mb-330t01
+courseNumber: 'MB-330T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per automatizzare e ottimizzare la loro catena di fornitura modernizzando la logistica aziendale, fornendo risposte tempestive ai clienti, andando avanti con intuizioni predittive, ottimizzando l'approvvigionamento e unificando i processi dalle vendite alla realizzazione. Questo corso informa su come configurare e utilizzare la gestione della catena di fornitura in Dynamics 365 for Finance and Operations.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Comprensione di base dei concetti di ERP e CRM.
+outlineSection: |-
+  ### Modulo 1&#58; Gestione della fornitura
+  Per configurare l'inventario, si dovrebbe prima comprendere le operazioni quotidiane dell'inventario. In questa lezione si parlerà prima di tutto delle operazioni di inventario in entrata e in uscita.
+
+  Questo modulo spiega come configurare i componenti dell'inventario per i processi di gestione della catena di fornitura in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Configurare i numeri di serie e di lotto
+  - Configurare la ripartizione dell’inventario
+  - Configurare l'inventario ed i libri giornale di magazzino
+  - Configurare le dimensioni dell’inventario
+  - Chiusura e rettifica dell’inventario
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Eseguire operazioni di inventario in entrata e in uscita
+  - Configurare i parametri dell’inventario
+  - Configurare i gruppi di numeri di tracking
+  - Configurare la ripartizione dell’inventario
+  - Configurare l'inventario ed i libri giornale di magazzino
+  - Configurare le unità
+  - Configurare le dimensioni dell’inventario
+  - Configurare i costi dell’inventario
+  - Impostare la distribuzione
+  - Capire la chiusura e le rettifiche dell’inventario
+
+
+  ### Modulo 2&#58; Utilizzare i libri giornale relativi all’inventario
+  Questo modulo spiega come utilizzare i libri giornale relativi all’Inventario in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Utilizzare i libri giornale relativi all’inventario
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo, gli studenti hanno imparato come&#58;
+  - Utilizzare i libri giornale di movimentazione
+  - Utilizzare i libri giornale di correzione dell’inventario
+  - Utilizzare i libri giornale di trasferimento
+  - Utilizzare i libri giornale per il conteggio e il conteggio dei tag
+  - Utilizzare i libri giornale di arrivo degli articoli
+  - Utilizzare i libri giornale conto merci
+
+
+  ### Modulo 3&#58; Utilizzare i rapporti di inventario
+  Questo modulo spiega come utilizzare i rapporti di inventario per i processi di gestione della catena di fornitura in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Conoscere la classificazione ABC
+  - Utilizzare altre richieste di informazioni e rapporti di inventario
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo, gli studenti hanno imparato come&#58;
+  - Conoscere la classificazione ABC
+  - Utilizzare le richieste di inventario e i rapporti
+
+
+  ### Modulo 4&#58; Creare prodotti e master di prodotto
+  La gestione delle informazioni di prodotto in Dynamics 365 for Finance and Operations permette la creazione e la manutenzione di un Enterprise Products Repository. Supporta le organizzazioni più grandi in un approccio centralizzato e strutturato nella creazione e nel mantenimento dei dati di base, come le definizioni dei prodotti. Le organizzazioni più piccole che richiedono un approccio più decentralizzato possono, con alcune restrizioni, creare e mantenere i loro rispettivi prodotti mentre i loro prodotti vengono automaticamente aggiunti al repository dei prodotti condivisi.
+
+  Questo modulo spiega come configurare i prodotti per i processi di gestione della catena di fornitura in Finance e Operations.
+  #### Lezioni
+  - Introduzione
+  - Creare prodotti
+  - Creare master di prodotto con varianti
+  - Creare e configurare le gerarchie di attributi e categorie
+  - Configurare la definizione del prezzo dell'articolo
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Creare prodotti come tipo di articolo e servizio
+  - Configurare le impostazioni predefinite dell'ordine
+  - Creazione di master di prodotto con varianti predefinite
+  - Creare e configurare le gerarchie delle categorie
+  - Creare attributi per i prodotti
+
+
+  ### Modulo 5&#58; Creare Distinte base
+  Una distinta base (BOM) è un elenco completo di tutti i componenti, le parti, le materie prime, gli assemblaggi e le loro quantità necessarie per realizzare un prodotto finito. Questo modulo spiega come creare distinte base e versioni di distinte base utilizzando designer di BOM in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Usa il designer della distinta base
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Creare distinte base e versioni di distinte base utilizzando designer di BOM
+
+
+  ### Modulo 6&#58; Configurazione ed esecuzione del processo da approvvigionamento ad acquisto
+  Questo modulo spiega come configurare ed eseguire il processo da approvvigionamento ad acquisto in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Scenario commerciale di approvvigionamento e di sourcing
+  - Creare flussi di lavoro per richieste di acquisto
+  - Creare richieste di acquisto
+  - Creare richieste di offerte
+  - Utilizzare le politiche di approvvigionamento
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Applicare i processi di approvvigionamento e di approvvigionamento in uno scenario di business
+  - Utilizzare le politiche di approvvigionamento
+  - Creare e gestire i fornitori
+  - Creare richieste di acquisto
+  - Creare richieste di offerte
+
+
+  ### Modulo 7&#58; Configurare le collaborazioni con fornitori
+  Questo modulo spiega come configurare le collaborazioni con fornitori in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Configurare le collaborazioni con fornitori
+  - Utilizzare la collaborazione con fornitori
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo, gli studenti hanno imparato come&#58;
+  - Configurare le collaborazioni con i fornitori
+  - Lavorare con lo spazio di lavoro di collaborazione con i fornitori
+  - Utilizzare la collaborazione con il fornitore come parte del processo da approvvigionamento a pagamento
+
+
+  ### Modulo 8&#58; Configurazione ed esecuzione del processo da acquisto a pagamento
+  Il modulo Ordini d'acquisto rivede il processo necessario per creare e gestire gli ordini d'acquisto in Dynamics 365 for Finance and Operations. Un'azienda utilizza gli ordini di acquisto per registrare le informazioni sui beni e i servizi che sta acquistando da vari fornitori.
+  #### Lezioni
+  - Introduzione
+  - Creare ordini di acquisto
+  - Utilizzare la gestione delle modifiche agli ordini di acquisto
+  - Utilizzare gli ordini di articoli e l'arrivo
+  - Gestire consegne in eccesso e in difetto e le spese
+  - Creare i resi dei fornitori
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo, gli studenti hanno imparato come&#58;
+  - Comprendere la panoramica dello scenario da acquisto a pagamento
+  - Utilizzare la gestione delle modifiche agli ordini di acquisto
+  - Creare un ordine di acquisto
+  - Utilizzare gli arrivi degli acquisti e la panoramica degli arrivi
+  - Generare e pubblicare la fattura
+  - Crea reil libro giornale della Fattura
+  - Generare e pubblicare i pagamenti del fornitore
+  - Creare i resi dei fornitori
+
+
+  ### Modulo 9&#58; Configurazione ed utilizzo di contratti
+  Questo modulo spiega come configurare e utilizzare i contratti in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Mantenere gli accordi commerciali
+  - Creare i contratti di vendita
+  - Creare i contratti di acquisto
+  - Configurare l'indennità commerciale
+  - Configurare l'intermediazione
+  - Configurare i diritti d'autore
+  - Configurare gli sconti
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Mantenere gli accordi commerciali
+  - Configurare l'arrotondamento intelligente
+  - Creare i contratti di vendita
+  - Utilizzare le politiche di approvvigionamento
+  - Creare i contratti di acquisto
+  - Configurare l'indennità commerciale
+  - Configurare l'intermediazione
+  - Configurare i diritti d'autore
+  - Configurare gli sconti
+
+
+  ### Modulo 10&#58; Configurazione e utilizzo del processo Order-to-Cash
+  Questo modulo spiega come configurare e utilizzare il processo order-to-cash in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Comprendere lo scenario order-to-cash
+  - Configurare e utilizzare le commissioni
+  - Configurare le ricerche di clienti e voci
+  - Creare e confermare preventivi di vendita e ordini
+  - Configurare le promesse d’ordine
+  - Configurare i codici di tenuta dell'ordine
+  - Stampare e pubblicare le liste di prelievo
+  - Elaborare i resi dei clienti
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Eseguire il processo order-to-cash
+  - Configurare e utilizzare le commissioni
+  - Configurare le ricerche di clienti e voci
+  - Creare e confermare i preventivi di vendita
+  - Creare e confermare gli ordini di vendita
+  - Stampare e pubblicare le liste di prelievo
+  - Generare e pubblicare la fattura
+  - Configurare i codici di tenuta dell'ordine
+  - Elaborare i resi dei clienti
+
+
+  ### Modulo 11&#58; Conclusione del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+
+
+  Gli studenti avranno completato il corso.

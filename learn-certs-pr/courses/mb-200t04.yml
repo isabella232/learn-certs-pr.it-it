@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 'Dynamics 365: Test ed implementazione della Power Platform'
+metadata:
+  title: 'Course MB-200T04-A: Dynamics 365: Test ed implementazione della Power Platform'
+  description: 'Course MB-200T04-A: Dynamics 365: Test ed implementazione della Power Platform'
+uid: course.mb-200t04
+courseNumber: 'MB-200T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Abilitare e aggiornare le applicazioni di primo livello.
+- skill: Installare applicazioni di terze parti.
+- skill: Scegliere tra soluzioni gestite e non gestite.
+- skill: Aggiornamento e soluzioni di patch.
+- skill: Distribuire le soluzioni.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform aiuta le organizzazioni ad ottimizzare le loro operazioni automatizzando le attività di routine e standardizzando le best practice. Questo corso di formazione offre una panoramica di alto livello delle capacità di Microsoft Dynamics 365 e della Power Platform e fornisce una base per altre offerte formative di Microsoft Dynamics 365 e Power Platform.
+
+  In questo corso, i nostri esperti riconosciuti a livello mondiale guidano gli studenti attraverso le soluzioni di gestione e la loro implementazione.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 Customer Engagement Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  La familiarità delle applicazioni aziendali e il desiderio di personalizzarle e implementarle per il business.
+outlineSection: |-
+  ### Modulo 1&#58; Gestire istanze ed applicazioni
+  In questo modulo gli studenti impareranno come abilitare e aggiornare le applicazioni di primo livello, installare applicazioni di terze parti e configurare utilizzando i portali di amministrazione.
+  #### Lezioni
+  - Panoramica
+  - Gestire applicazioni
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Attivare e aggiornare le applicazioni di primo livello
+  - Installare applicazioni di terze parti
+
+
+  ### Modulo 2&#58; Gestione delle Soluzioni
+  In questo modulo verrà spiegato agli studenti come creare, gestire ed implementare le soluzioni.
+  #### Lezioni
+  - Concetti di soluzione
+  - Pianificazione e creazione di soluzioni
+  - Lavorare con i componenti della soluzione
+  - Soluzioni di distribuzione
+  - Lavorare con soluzioni gestite
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare, gestire e implementare personalizzazioni con soluzioni
+
+
+  ### Modulo 3&#58; Considerazioni aggiuntive sull’implementazione
+  In questo modulo gli studenti impareranno a configurare il mobile e a distribuire componenti come Microsoft Flow.
+  #### Lezioni
+  - Configurare
+  - Impostazioni della configurazione mobile
+  - Configurazione mobile
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare il mobile
+  - Implementare i componenti
+
+
+  ### Modulo 4&#58; Documentazione e Test
+  In questo modulo gli studenti impareranno a progettare piani di prova ed eseguire la messa a punto delle prestazioni.
+  #### Lezioni
+  - Creare piani di test
+  - Test dell'interfaccia utente
+  - Ottimizzazione delle prestazioni e messa a punto
+  - Documentazione
+  - Impegnarsi con il cliente
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e utilizzare piani di prova
+  - Individuare gli strumenti per la messa a punto delle prestazioni

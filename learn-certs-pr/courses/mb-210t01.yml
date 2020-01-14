@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: Dynamics 365 for customer engagement for sales
+metadata:
+  title: 'Course MB-210T01-A: Dynamics 365 per Customer Engagement per Sales'
+  description: 'Course MB-210T01-A: Dynamics 365 per Customer Engagement per Sales'
+uid: course.mb-210t01
+courseNumber: 'MB-210T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Installare e configurare l'applicazione
+- skill: Identificare scenari di vendita comuni
+- skill: Completare un ciclo di vendita
+- skill: Configurare il catalogo prodotti
+- skill: Gestire i record di clienti
+- skill: Utilizzare strumenti di analitica con i dati dei clienti
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+exams:
+- uid: exam.mb-210
+summary: |-
+  Microsoft Dynamics 365 for Sales è un'applicazione end-to-end per gestiire clienti e i potenziali clienti; aiuta a tracciare i dati rispetto agli obiettivi di vendita, automatizzando le best practice, imparando dai dati e molto altro ancora.
+
+  Il nostro team di esperti riconosciuti a livello mondiale accompagna gli studenti passo dopo passo, dal lead, all'opportunità, all'affare chiuso. Utilizzando le opzioni di automazione e personalizzazione dell'applicazione disponibili, gli studenti impareranno come consentire al personale di vendita di essere il più produttivo.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 Customer Engagement Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  La familiarità delle applicazioni aziendali e il desiderio di personalizzarle e implementarle per il business.
+outlineSection: |-
+  ### Module 1&#58; Panoramica sulle vendite
+  In questo modulo gli studenti impareranno le basi della vendita in Dynamics 365. Installeranno e configureranno l'applicazione, oltre a conoscere i ruoli di sicurezza, i termini chiave e il modello dei dati.
+  #### Lezioni
+  - Panoramica delle vendite
+  - Configurazione delle vendite
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Installare e configurare l'applicazione USD
+  - Identificare scenari di vendita comuni
+
+
+  ### Modulo 2&#58; Lavorare con le opportunità
+  In questo modulo gli studenti impareranno a gestire le registrazioni dei dati dei clienti, a utilizzare gli strumenti di vendita incorporati e a cogliere un'opportunità.
+  #### Lezioni
+  - Gestire i clienti
+  - Lavorare con le opportunità
+  - Intelligenza integrata
+  - Playbook
+  - Strumenti di vendita integrati
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Gestire i record di clienti
+  - Utilizzare gli strumenti di vendita
+
+
+  ### Modulo 3&#58; Preventivi agli ordini
+  In questo modulo gli studenti impareranno a utilizzare i preventivi e gli ordini per utilizzare ulteriormente Dynamics 365 for Sales per gestire le opportunità di vendita per le offerte chiuse.
+  #### Lezioni
+  - Panoramica dell'elaborazione degli ordini
+  - Gestione del catalogo prodotti
+  - Creare e gestire le offerte
+  - Creare e gestire ordini e fatture
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e utilizzare il catalogo prodotti
+  - Aggiungere preventivi alle opportunità
+  - Completare una vendita con un ordine
+
+
+  ### Modulo 4&#58; Analitica e informazioni sulle vendite
+  In questo modulo gli studenti impareranno come creare e utilizzare gli obiettivi, procedere all’integrazione con PowerBI e abilitare l'Intelligenza Artificiale per le vendite.
+  #### Lezioni
+  - Panoramica
+  - Power BI
+  - Intelligenza artificiale per le vendite
+  - Riepilogo dei moduli
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e utilizzare gli obiettivi
+  - Integrare con PowerBI
+  - Attivare la funzionalità di Intelligenza Artificiale per le vendite

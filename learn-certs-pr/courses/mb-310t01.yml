@@ -1,0 +1,202 @@
+### YamlMime:Course
+title: Configurare e utilizzare i componenti essenziali della gestione finanziaria in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-310T01-A: Configurare e utilizzare i componenti essenziali della gestione finanziaria in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-310T01-A: Configurare e utilizzare i componenti essenziali della gestione finanziaria in Dynamics 365 for Finance and Operations'
+uid: course.mb-310t01
+courseNumber: 'MB-310T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per elevare le loro performance finanziarie aumentando la redditività, ottimizzando la produttività della forza lavoro, riducendo le spese operative, adattandosi rapidamente ai cambiamenti dei requisiti e ottimizzando la gestione degli asset.
+
+  Configurare e utilizzare i componenti essenziali della gestione finanziaria in Dynamics 365 for Finance and Operations.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Comprensione di base dei concetti di ERP e CRM.
+outlineSection: |-
+  ### Modulo 1&#58; Gestione finanziaria
+  In questo modulo gli studenti impareranno alcuni benefici della gestione finanziaria di Dynamics 365 for Finance and Operations.
+  #### Lezioni
+  - Vantaggi della gestione finanziaria
+  - Gestione finanziaria
+  - Riepilogo del modulo
+
+  Gli studenti hanno familiarizzato con i moduli in Finance and Operations relativi alla gestione finanziaria e con le loro caratteristiche e funzionalità generali.
+
+  ### Modulo 2&#58; Configurare le valute
+  Uno dei primi e più importanti passi per l'implementazione della gestione finanziaria in Dynamics 365 for Finance and Operations è l'impostazione della valuta. L'impostazione della valuta è una fase necessaria nella configurazione del sistema e viene utilizzata per registrare le transazioni finanziarie. Questo modulo spiega la gestione delle valute in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Impostare le valute e le conversioni per le persone giuridiche
+  - Configurare e importare i tassi di cambio delle valute
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Gli studenti hanno ora imparato a conoscere diversi tipi di valute in Finance and Operations. Ora conoscono anche il concetto di valuta di triangolazione, le modalità di costituzione delle monete di entità giuridica e le conversioni. Dal video, gli studenti hanno imparato a configurare i fornitori di tassi di cambio e ad usarli per importare i tassi di cambio in un tipo di tasso di cambio.
+
+  ### Modulo 3&#58; Creare calendari fiscali, anni e periodi
+  Prima di registrare le transazioni, un nuovo anno fiscale deve essere diviso in periodi. Dipende dal fatto che le transazioni non possono essere registrate a meno che non venga creato un periodo per la data di registrazione e condiviso tra più entità legali. Un vantaggio della condivisione dei calendari fiscali è che questo supporta calendari fiscali multipli per ogni entità giuridica. L'anno fiscale in Finance and Operations può essere impostato a qualsiasi lunghezza e suddiviso in un numero qualsiasi di periodi. Questo modulo spiega la gestione del calendario fiscale e del libro mastro in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Creare calendari anni e periodi fiscali
+  - Creare intervalli di date
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Differenziare tra il libro mastro e i calendari fiscali
+  - Configurare e impostare calendari fiscali, anni e periodi
+  - Creare e utilizzare intervalli di date
+
+
+  ### Modulo 4&#58; Configurare il piano dei conti
+  Un piano dei conti è un insieme di conti principali in Finance and Operations che cattura le informazioni finanziarie al momento della pubblicazione di un libro mastro. Ad ogni conto viene assegnato un numero di conto come identificativo unico.
+  #### Lezioni
+  - Introduzione
+  - Definire e configurare il piano dei conti
+  - Definire e configurare le dimensioni finanziarie
+  - Definire e configurare le strutture e le regole dei conti
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Identificare i componenti necessari per il piano dei conti
+  - Definire e configurare il piano dei conti
+  - Definire e configurare le dimensioni finanziarie e i gruppi di dimensioni
+  - Configurare il piano dei conti, i conti principali, le categorie, i modelli, l'alias del libro mastro e il controllo del saldo
+  - Configurare le strutture dei conti e le regole avanzate
+
+
+  ### Modulo 5&#58; Configurazione di libri mastri e libri giornale
+  Un libro giornale è un foglio di lavoro che si può usare prima di inserire manualmente i posting nel sistema. Se impostati correttamente, i libri giornali consentono di gestire in modo rapido ed efficiente i posting. Per utilizzare un libro giornale, ci deve essere un nome del libro, e la configurazione del libro mastro, del libro giornale e dell'affissione del modulo del libro mastro generale deve essere completa. Utilizzando il libro giornale del libro mastro direttamente o attraverso l'area di lavoro per l'elaborazione del libro mastro, si possono svolgere le attività quotidiane ad esempio sapere ci à a persona a cui viene assegnato un ruolo di sicurezza adeguato per accedere al libro mastro. Il nome di un libro giornale conferisce ai responsabili finanziari la possibilità di controllare la convalida dell'inserimento dei dati e di limitare la pubblicazione del nome di un libro giornale per gli utenti in modo diverso.
+  #### Lezioni
+  - I libri giornale e loro impostazione
+  - Configurare la configurazione del libro mastro e del libro giornale
+  - Libri giornale degli utenti
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Identificare i diversi tipi di libri giornali disponibili e la loro configurazione
+  - Procedere alla configurazione del libro mastro e dei posting
+  - Configurare e utilizzare i libri giornale
+
+
+  ### Modulo 6&#58; Configurare la gestione della cassa e della banca
+  In Dynamics 365 for Finance and Operations, le organizzazioni utilizzano il modulo Cash and bank management per creare e gestire i conti bancari. La tabella dei conti bancari contiene un record per ogni conto bancario. Ogni record contiene informazioni sul conto bancario, come ad esempio&#58; numero di registrazione e numero di conto, indirizzo, altre informazioni di contatto, valuta, impostazione dell'assegno e conto principale per il posting. Finance and Operations utilizza queste informazioni per elaborare tutte le transazioni bancarie, come i pagamenti e i depositi.
+  #### Lezioni
+  - Introduzione
+  - Tipi di transazioni bancarie e gruppi
+  - Impostazione dei parametri di gestione della cassa e della banca
+  - Configurare banche e assegni bancari
+  - Assegni di deposito e di rimborso
+  - Flusso di cassa
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Creare e configurare le banche
+  - Creare e configurare i layout delle banche
+  - Configurare i parametri di gestione della cassa e della banca
+  - Impostare banche fornitori e banche clienti
+  - Configurare le previsioni di flusso di cassa e i report
+
+
+  ### Modulo 7&#58;  Utilizzare Cash and Bank Management
+  Questo modulo copre le principali procedure del modulo di gestione della liquidità e delle banche in Finance and Operations. Gli studenti hanno imparato a lavorare con il contante e con gli spazi di lavoro della gestione bancaria, come le panoramiche Bank Management and Cash. Gli studenti hanno anche imparato a conoscere i processi e le procedure per la gestione del contante e della banca, come ad esempio come effettuare depositi e annullare i pagamenti (depositi). Finance and Operations fornisce funzionalità per la gestione dei pagamenti con assegni, nonché procedure per la risoluzione di situazioni particolari con assegni. Si possono cancellare, rimborsare e annullare gli assegni, oltre a generare ed emettere assegni secondo le specifiche dell'azienda. Poiché Finance and Operations registra tutte le transazioni finanziarie, le aziende possono utilizzare la funzione di riconciliazione bancaria per confrontare le registrazioni interne delle transazioni con gli estratti conto bancari.
+  #### Lezioni
+  - Effettuare depositi ed effettuare storni di pagamento
+  - Utilizzare gli spazi di lavoro per la gestione della cassa e della banca
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Lavorare con i processi di gestione della cassa e delle banche
+  - Utilizzare gli spazi di lavoro per la gestione della cassa e della banca
+  - Effettuare depositi
+  - Annullare i pagamenti
+
+
+  ### Modulo 8&#58;  Configurazione delle lettere di credito e delle garanzie
+  Gli studenti hanno ora imparato cosa sono le lettere bancarie, come configurare le lettere di credito per creare documenti bancari che sono comunemente usati per l'acquisto e la vendita di beni oltre i confini internazionali, e le lettere di garanzia, in cui una banca accetta di pagare una specifica somma di denaro ad una persona se uno dei clienti della banca non adempie ad un pagamento o ad un obbligo verso quella persona.
+  #### Lezioni
+  - Introduzione
+  - Configurare le lettere di credito
+  - Configurare le lettere di garanzia
+  - Riepilogo del modulo
+
+  Gli studenti comprenderanno le lettere bancarie e le lettere di credito e di garanzia.
+
+  ### Modulo 9&#58; Eseguire le procedure giornaliere
+  Ogni pubblicazione manuale inserita in Finance and Operations viene inserita attraverso un libro giornale. Un libro giornale è un tipo di foglio di lavoro in cui le voci non vengono pubblicate immediatamente. Si possono rivedere, modificare e verificare i libri giornale completate fino a quando non sono pronti per il posting. Un modello di voucher è un voucher che può essere utilizzato come base per futuri voucher in altre voci del libro giornale. Si possono utilizzare i modelli di voucher con un libro giornale generale o uno qualsiasi dei libri giornali di contabilità finanziaria, come ad esempio i libri giornali dei conti correnti e dei crediti. Si possono impostare restrizioni sui valori dell'azienda, del tipo di conto e del segmento.
+  #### Lezioni
+  - Imparare a conoscere i processi di contabilità generale
+  - Creare modelli per i voucher
+  - Impostazione dei controlli del libro giornale
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Gli studenti hanno ora imparato ad elaborare le attività quotidiane in contabilità generale e ad usare il controllo del libro giornale per applicare le regole durante l'inserimento dei dati. Hanno lavorato con i conti di controllo del saldo per visualizzare i saldi delle banche o i conti di liquidità. 
+  
+  Gli studenti hanno anche imparato che si può usare il controllo del saldo prima del posting per assicurarsi che le voci siano corrette.
+  
+  Infine, hanno imparato a beneficiare dei modelli di voucher per Importo, che consiste semplicemente nel copiare l'importo esatto del modello come nuove righe, o Percentuale, che converte gli importi nel voucher in fattori percentuali; questo permette di applicare qualsiasi importo quando il modello di voucher viene selezionato.
+
+  ### Modulo 10&#58; Contabilità interaziendale
+  La contabilità interaziendale può aiutare le organizzazioni fornendo un punto di ingresso unico per le transazioni che devono essere registrate a più aziende. Effettuare transazioni da una singola azienda consente di risparmiare tempo per l'inserimento dei dati e contribuisce a garantire che le transazioni che interessano più aziende vengano registrate in ogni azienda. Finance and Operations aiuta anche a tracciare le voci interaziendali attraverso il sistema. Presenta le funzionalità richieste dalla maggior parte delle aziende che elaborano transazioni interaziendali. Prevede la possibilità di registrare in modo efficiente gli ordini di vendita interaziendali, gli ordini di acquisto e gli esborsi in contanti.
+  #### Lezioni
+  - Impostazione e utilizzo della contabilità interaziendale
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Gli studenti potranno impostare e utilizzare la contabilità interaziendale.
+
+  ### Modulo 11&#58; Configurazione delle assegnazioni e dei ratei e risconti contabili
+  Finance and Operations offre le capacità per sostenere i piani di ratei e risconti.
+  #### Lezioni
+  - Introduzione
+  - Configurare e applicare schemi di attribuzione dei ratei e risconti
+  - Configurare le regole di assegnazione contabili
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Gli studenti avranno imparato a configurare e utilizzare le regole di assegnazione, così come a configurare e utilizzare gli schemi di ratei e risconti. Finance and Operations fornisce le seguenti capacità a supporto di questo processo&#58;
+  - Assegnare manualmente gli importi delle transazioni utilizzando l'azione di divisione nelle distribuzioni contabili, o applicando i modelli di default della dimensione finanziaria a un documento.
+  - Assegnare automaticamente gli importi delle transazioni in base alle condizioni di assegnazione definite individualmente sul conto principale. Le voci del conto di allocazione saranno generate per ogni libro giornale in base alla percentuale e al conto del libro mastro di destinazione quando una voce contabile soddisfa i criteri definiti come conto del libro mastro di origine.
+  - Assegnare automaticamente i saldi del libro mastro o gli importi fissi in base alle regole di assegnazione del libro mastro. Le regole di allocazione del libro mastro sono elaborate periodicamente con l'ausilio dei libri giornale di allocazione.
+
+
+  ### Modulo 12&#58; Configurare imposte sulle Vendite
+  I requisiti per il calcolo delle imposte e la reporting fiscale differiscono notevolmente a seconda dei paesi o delle regioni. Pertanto, il modulo Tax di Dynamics 365 for Finance and Operations è estremamente completo.
+  #### Lezioni
+  - Comprendere i componenti dei motori fiscali
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Gli studenti hanno imparato a conoscere le capacità di reporting fiscale nazionale e regionale in Finance and Operations.
+  
+  In questo modulo gli studenti hanno imparato a configurare le componenti fiscali, come le autorità fiscali, i periodi di liquidazione e i codici fiscali. Inoltre, hanno appreso che i codici fiscali sulle vendite sono la componente principale per definire i calcoli fiscali e collegare tutte le altre componenti dell'imposta in modo che Finance and Operations possa calcolare e pubblicare automaticamente le transazioni per il regolamento in base all'intervallo di tempo assegnato da un'autorità.
+
+  ### Modulo 13&#58; Conclusione del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+
+  Gli studenti avranno completato il corso.

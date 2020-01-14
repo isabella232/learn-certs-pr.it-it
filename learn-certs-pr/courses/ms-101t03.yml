@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: Gestione dei dispositivi di Microsoft 365
+metadata:
+  title: 'Course MS-101T03-A: Gestione dei dispositivi di Microsoft 365'
+  description: 'Course MS-101T03-A: Gestione dei dispositivi di Microsoft 365'
+uid: course.ms-101t03
+courseNumber: 'MS-101T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Pianificare la co-gestione
+- skill: Preparare i dispositivi di Windows 10 per la co-gestione
+- skill: Transizione da Configuration Manager a Intune
+- skill: Configurare Microsoft Store per Business
+- skill: Pianificare la gestione di applicazioni mobili
+- skill: Pianificare la vostra strategia di implementazione di Windows 10
+- skill: Pianificare la vostra strategia di attivazione della sottoscrizione di Windows 10
+- skill: Risolvere gli errori di aggiornamento di Windows 10
+- skill: Implementare Windows 10 Analytics
+- skill: Implementare la gestione dei dispositivi mobili
+- skill: Gestire i dispositivi con la gestione dei dispositivi mobili
+- skill: Registrare i dispositivi alla gestione dei dispositivi mobili
+- skill: Gestire la conformità dei dispositivi
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  Questo corso è un'introduzione al mondo della gestione dei dispositivi Microsoft 365 - dalla creazione di Microsoft Intune, all'iscrizione dei dispositivi a Intune, al monitoraggio dei dispositivi, al controllo di ciò che gli utenti possono effettuare attraverso i dispositivi iscritti utilizzando le politiche di accesso condizionato. Se si stanno già gestendo i dispositivi utilizzando uno strumento tradizionale di gestione dei dispositivi come Configuration Manager, sarà interessante sapere come passare senza problemi alla gestione moderna, con cui i dispositivi sono gestiti da Intune, e come si può beneficiare delle nuove capacità di gestione dei dispositivi, come la conformità, l'accesso condizionato e l'autopilota di Windows per implementare nuovi dispositivi dal cloud.
+
+  #### Profilo dei destinatari
+  Questo corso è destinato a chi aspira al ruolo di amministratore dell’azienda Microsoft 365 e che ha completato uno dei percorsi di certificazione per amministratore basati sui ruoli di Microsoft 365.
+prerequisitesSection: |-
+  - Ha completato un corso di amministrazione basato sui ruoli, come Messaggistica, Lavoro di squadra, Sicurezza e conformità o Collaborazione.
+  - Una conoscenza approfondita del DNS e un'esperienza funzionale di base con i servizi Microsoft 365.
+  - Una buona comprensione delle pratiche IT generali.
+outlineSection: |-
+  ### Modulo 1&#58; Pianificazione per la gestione dei dispositivi
+  #### Lezioni
+  - Introduzione alla co-gestione
+  - Preparare i dispositivi di Windows 10 per la co-gestione
+  - Transizione da Configuration Manager a Intune
+  - Introduzione a Microsoft Store for Business
+  - Pianificare la gestione di applicazioni mobili
+
+
+  ### Modulo 2&#58; Pianificazione della strategia di implementazione di Windows 10
+  #### Lezioni
+  - Scenari di implementazione Windows 10
+  - Pianificazione della strategia di attivazione dell’abbonamento a Windows 10
+  - Risolvere gli errori di aggiornamento di Windows 10
+  - Introduzione a Windows Analytics
+
+
+  ### Modulo 3&#58; Implementare la gestione dei dispositivi mobili
+  #### Lezioni
+  - Pianificare la gestione dei dispositivi mobili
+  - Implementare la gestione dei dispositivi mobili
+  - Registrare i dispositivi su MDM
+  - Gestire la conformità dei dispositivi
+
+
+  ### Modulo 4&#58; Laboratorio pratico online
+
+  #### Laboratorio&#58; Lavorare con Microsoft Store for Business
+  - Esercizio 1&#58; Fornire e gestire Microsoft Store for Business
+  - Esercizio 2&#58; Uso di Microsoft Store for Business
+
+
+  #### Laboratorio&#58; Gestione dei dispositivi utilizzando Intune
+  - Esercizio 1&#58; Ottenere Intune e abilitare la gestione del dispositivo
+  - Esercizio 2&#58; Configurare Azure AD per Intune
+  - Esercizio 3&#58; Creare politiche Intune
+  - Esercizio 4&#58; Iscrizione di un dispositivo Windows 10
+  - Esercizio 5&#58; Gestire e monitorare un dispositivo su Intune

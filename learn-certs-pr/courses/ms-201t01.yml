@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Definizione di una strategia di messaggistica ibrida
+metadata:
+  title: 'Course MS-201T01-A: Definizione di una strategia di messaggistica ibrida'
+  description: 'Course MS-201T01-A: Definizione di una strategia di messaggistica ibrida'
+uid: course.ms-201t01
+courseNumber: 'MS-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Pianificare le migrazioni delle cassette postali
+- skill: Pianificare le migrazioni IMAP
+- skill: Pianificare il taglio e le migrazioni a tappe
+- skill: Eseguire migrazioni avanzate
+- skill: Capire i requisiti per l'implementazione ibrida di Exchange
+- skill: Eseguire la procedura guidata di configurazione ibrida
+- skill: Implementare e gestire un server di trasporto Edge
+- skill: Configurare una distribuzione ibrida usando l'HCW
+- skill: Implementare funzionalità ibride avanzate
+- skill: Risoluzione dei problemi della distribuzione ibrida
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  Questo corso introduce gli studenti al mondo della messaggistica ibrida. Gli studenti impareranno come implementare un ambiente ibrido per un'organizzazione Exchange e come migrare le caselle di posta elettronica verso Exchange Online. Inizieranno esaminando le opzioni di migrazione delle caselle di posta disponibili, per poi concentrarsi sulla pianificazione di un'implementazione ibrida. Infine, gli studenti impareranno come implementare e risolvere i problemi di un'implementazione ibrida.
+
+  #### Profilo dei destinatari
+  L'amministratore di messaggistica distribuisce, configura, gestisce e
+  risolve i problemi dei destinatari, autorizzazioni, protezione della posta, flusso della posta e cartelle pubbliche sia in ambienti a livello locale sia in ambienti aziendali cloud. Le responsabilità includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino di emergenza, l’alta disponibilità e l’accesso del cliente. Per implementare una topologia ibrida sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365 L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
+prerequisitesSection: |-
+  - Ottima comprensione del DNS.
+  - Comprensione di base della messaggistica all'interno di Exchange Server o Exchange Online.
+  - Comprensione di base dell'infrastruttura di Active Directory e dei domain controller insieme alla gestione delle identità.
+  - Esperienza funzionale di base con i servizi Microsoft 365 e la sincronizzazione delle directory.
+  - Almeno 5 anni di esperienza generale nel settore informatico.
+outlineSection: |-
+  ### Modulo 1&#58; Esecuzione delle migrazioni della cassetta postale
+  #### Lezioni
+  - Pianificazione delle migrazioni delle cassette postali
+  - Esecuzione di migrazioni IMAP
+  - Esecuzione di ritagli e migrazioni a tappe
+  - Esecuzione di migrazioni avanzate
+
+
+  ### Modulo 2&#58; Progettazione di un ambiente ibrido
+  #### Lezioni
+  - Requisiti per la distribuzione ibrida di Exchange
+  - Pianificazione dell'esecuzione della procedura guidata di configurazione ibrida
+
+
+  ### Modulo 3&#58; Distribuzione e risoluzione dei problemi di un ambiente ibrido
+  #### Lezioni
+  - Implementare e gestire un server di trasporto Edge
+  - Configurare una distribuzione ibrida usando l'HCW
+  - Implementare funzionalità ibride avanzate
+  - Risoluzione dei problemi della distribuzione ibrida
+
+
+  ### Modulo 4&#58; Laboratorio - Distribuzione e gestione ibrida
+
+  #### Laboratorio&#58; Implementazione e gestione ibrida
+  - Esercizio 1&#58; Eseguire una migrazione della casella postale a Microsoft 365
+  - Esercizio 2&#58; Gestire scenari ibridi

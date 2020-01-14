@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: Gestione degli affittuari e dei servizi di Microsoft 365
+metadata:
+  title: 'Course MS-100T02-A: Gestione dei tenant e dei servizi di Microsoft 365'
+  description: 'Course MS-100T02-A: Gestione dei tenant e dei servizi di Microsoft 365'
+uid: course.ms-100t02
+courseNumber: 'MS-100T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Pianificare la loro infrastruttura in loco per Microsoft 365
+- skill: Pianificare la loro soluzione per le identità e l’autenticazione
+- skill: Pianificare e configurare la loro esperienza con Microsoft 365
+- skill: Sfruttare FastTrack di Microsoft e i servizi dei partner
+- skill: Implementare i loro servizi di dominio
+- skill: Configurare i loro ruoli di tenant di Microsoft 365
+- skill: Gestire la salute e i servizi dei loro tenant di Mocrosoft 365
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Imparare a conoscere La gestione dei servizi e dei tenant di Microsoft 365, incluso come pianificare, gestire e personalizzare i servizi e i tenant di Microsoft 365 di un'organizzazione.
+
+  #### Profilo dei destinatari
+  Questo corso è destinato a chi aspira al ruolo di amministratore dell’azienda Microsoft 365 e che ha completato uno dei percorsi di certificazione per amministratore basati sui ruoli di Microsoft 365.
+prerequisitesSection: |-
+  - Ha completato un corso di amministrazione basato sui ruoli, come Messaggistica, Lavoro di squadra, Sicurezza e conformità o Collaborazione.
+  - Una conoscenza approfondita del DNS e un'esperienza funzionale di base con i servizi Microsoft 365.
+  - Una buona comprensione delle pratiche IT generali.
+outlineSection: |-
+  ### Modulo 1&#58; Progettare il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Pianificare un’infrastruttura in loco per Microsoft 365
+  - Pianificare la vostra soluzione di autenticazione e identità
+
+
+  ### Modulo 2&#58; Configurare il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Pianificare la vostra esperienza di Microsoft 365
+  - Configurare la vostra esperienza d Microsoft 365
+  - Sfruttare i servizi di FastTrack e dei partner
+  - Implementare i vostri servizi di dominio
+
+
+  ### Modulo 3&#58; Gestire il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Configurare i ruoli del tenant
+  - Gestire i servizi e la salute del tenant
+
+
+  ### Modulo 4&#58; Laboratorio pratico online
+
+  #### Laboratorio&#58; Gestione del servizio e dei tenant di Microsoft 365
+  - Esercizio 1&#58; Impostare un tenant di prova di Microsoft 365
+  - Esercizio 2&#58; Gestire utenti, gruppi e amministrazione di Microsoft 365
+  - Esercizio 3&#58; Configurare Rights Management e compliance
+  - Esercizio 4&#58; Monitorare e risolvere i problemi di Microsoft 365

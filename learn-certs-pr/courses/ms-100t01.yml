@@ -1,0 +1,75 @@
+### YamlMime:Course
+title: Gestione di Office 365
+metadata:
+  title: 'Course MS-100T01-A: Gestione di Office 365'
+  description: 'Course MS-100T01-A: Gestione di Office 365'
+uid: course.ms-100t01
+courseNumber: 'MS-100T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Panoramica di Office 365
+- skill: Spostare un’organizzazione a Office 365
+- skill: Configurare Office 365
+- skill: Gestire le installazioni di Office 365 ProPlus
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  Imparare la gestione di Office 365, compresi i componenti chiave di Office 365, come spostare un'organizzazione in Office 365, come configurare Office 365 e come gestire le implementazioni di Office 365 ProPlus.
+
+  #### Profilo dei destinatari
+  Questo corso è destinato a chi aspira al ruolo di amministratore dell’azienda Microsoft 365 e che ha completato uno dei percorsi di certificazione per amministratore basati sui ruoli di Microsoft 365.
+prerequisitesSection: |-
+  - Ha completato un corso di amministrazione basato sui ruoli, come Messaggistica, Lavoro di squadra, Sicurezza e conformità o Collaborazione.
+  - Una conoscenza approfondita del DNS e un'esperienza funzionale di base con i servizi Microsoft 365.
+  - Una buona comprensione delle pratiche IT generali.
+outlineSection: |-
+  ### Modulo 1&#58; Spostare la vostra organizzazione a Office 365
+  #### Lezioni
+  - Exchange Online
+  - SharePoint Online
+  - Team
+  - Risorse aggiuntive
+
+
+  ### Modulo 2&#58; Configurare il vostro tenant di Microsoft 365
+  #### Lezioni
+  - Pianificare la vostra rete con Office 365
+  - Pianificare le vostre impostazioni di servizio
+  - Pianificare il vostro ambiente ibrido
+  - Pianificare la vostra migrazione a Office 365
+
+
+  ### Modulo 3&#58; Configurare Office 365
+  #### Lezioni
+  - Panoramica Client Office 365
+  - Configurare la connettività dei client di Office su Office 365
+
+
+  ### Modulo 4&#58; Gestire le implementazioni di Office 365 ProPlus
+  #### Lezioni
+  - Gestire installazioni di client gestite dall'utente
+  - Gestire le installazioni centralizzate di Office 365 ProPlus
+  - Configurare la telemetria di Office
+  - Configurare Microsoft Analytics
+
+
+  ### Modulo 5&#58; Laboratorio pratico online
+
+  #### Laboratorio&#58; Gestire Office 365
+  - Esercizio 1&#58; Impostare un tenant di prova di Microsoft 365
+  - Esercizio 2&#58; Preparare un’installazione gestita di 365 ProPlus
+  - Esercizio 3&#58; Gestire installazioni guidate dall’utente di Office 365 ProPlus
+  - Esercizio 4&#58; Gestire installazioni centralizzate di Office 365 ProPlus
+  - Esercizio 5&#58; Implementare e configurare i componenti di Office Telemetry

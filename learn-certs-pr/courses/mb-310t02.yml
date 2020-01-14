@@ -1,0 +1,155 @@
+### YamlMime:Course
+title: Configurare e utilizzare i debiti, i crediti e gli incassi in Finance and Operations
+metadata:
+  title: 'Course MB-310T02-A: Configurare e utilizzare i debiti, i crediti e gli incassi in Finance and Operations'
+  description: 'Course MB-310T02-A: Configurare e utilizzare i debiti, i crediti e gli incassi in Finance and Operations'
+uid: course.mb-310t02
+courseNumber: 'MB-310T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per elevare le loro performance finanziarie aumentando la redditività, ottimizzando la produttività della forza lavoro, riducendo le spese operative, adattandosi rapidamente ai cambiamenti dei requisiti e ottimizzando la gestione degli asset.
+  
+  Questo corso illustra come configurare e utilizzare i crediti, i debiti e gli incassi in Dynamics 365 for Finance and Operations.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Comprensione di base dei concetti di ERP e CRM.
+outlineSection: |-
+  ### Modulo 1&#58; Configurare i  debiti
+  Dynamics 365 for Finance and Operations offre ampie funzionalità per l'impostazione di diverse opzioni di pagamento dei fornitori.
+  #### Lezioni
+  - Comprendere la funzionalità del registratore di attività
+  - Configurare i costi della contabilità fornitori
+  - Creare e gestire i fornitori
+  - Configurare i costi della contabilità fornitori
+  - Configurare e utilizzare la retribuzione positiva
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare i costi della contabilità fornitori
+  - Creare e gestire i fornitori
+  - Configurare i pagamenti dei fornitori
+  - Impostare i profili di registrazione dei fornitori
+  - Configurare i costi della contabilità fornitori
+
+
+  ### Modulo 2&#58; Eseguire le procedure giornaliere relative ai debiti
+  L'acquisto di beni per la rivendita, come materiali per la produzione o servizi è una grande responsabilità. Il monitoraggio di questi acquisti e il pagamento dei fornitori che forniscono la merce è altrettanto impegnativo. Le organizzazioni devono monitorare attentamente i conti passivi e implementare procedure che consentano al management di ottenere facilmente le informazioni finanziarie di cui ha bisogno per essere informato sulle variazioni dei costi delle merci. Per dare una visione accurata delle condizioni finanziarie dell'attività, tutte le spese che incidono sull'utile netto sono incluse nei debiti. Questo modulo spiega come gestire e applicare i pagamenti anticipati, registrare le fatture ed elaborare i pagamenti.
+  #### Lezioni
+  - Introduzione
+  - Elaborare ordini, fatture e pagamenti
+  - Gestire e applicare i pagamenti anticipati
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato che possono inserire le fatture dei fornitori manualmente o riceverle elettronicamente attraverso una persona dati. Dopo l'inserimento o la ricezione delle fatture, è possibile rivedere e approvare le fatture utilizzando il registro di approvazione delle fatture o la pagina delle fatture del fornitore. Inoltre, hanno imparato a utilizzare la corrispondenza delle fatture, le politiche di fatturazione dei fornitori e il flusso di lavoro per automatizzare il processo di revisione, in modo che le fatture che soddisfano determinati criteri vengano automaticamente approvate e le restanti fatture vengano segnalate per la revisione da parte di un utente autorizzato. Gli studenti hanno anche imparato a gestire i pagamenti anticipati ai fornitori.
+
+  ### Modulo 3&#58; Utilizzare la distribuzione contabile e la convalida delle fatture
+  Questo modulo spiega come regolare le transazioni e annullare il saldo e distribuire i fondi utilizzando le distribuzioni contabili. Gli studenti impareranno anche ad eseguire la corrispondenza delle fatture. Le distribuzioni contabili sono utilizzate per definire le modalità di contabilizzazione di un importo, come ad esempio il modo in cui le spese, le tasse o gli oneri saranno contabilizzati su una fattura del fornitore. Ogni importo che deve essere contabilizzato quando la fattura del venditore è stata registrata su supporto cartaceo avrà una o più distribuzioni contabili.
+
+  #### Lezioni
+  - Introduzione
+  - Liquidare le transazioni e annullare i saldi
+  - Distribuire i fondi
+  - Configurare criteri per la convalida delle fatture
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Liquidare le transazioni e annullare i saldi
+  - Allocare fondi utilizzando le distribuzioni contabili
+  - Configurare criteri per la convalida delle fatture
+
+
+  ### Modulo 4&#58; Configurare i crediti
+  È necessario configurare il modulo Crediti per poter creare le fatture dei clienti, per l'invio di bolle di accompagnamento, per l'utilizzo di fatture a testo libero non correlate agli ordini di vendita e, infine, per ricevere i pagamenti utilizzando diversi tipi di pagamento, come contanti, assegni, carte di credito e pagamenti elettronici da parte dei clienti. Questo modulo fornisce informazioni sulla configurazione dei componenti essenziali del modulo Crediti sulla configurazione del cliente per una gestione efficiente dei clienti e delle transazioni dei clienti in Finance and Operations.
+
+  #### Lezioni
+  - Configurare i crediti
+  - Creare e gestire i clienti
+  - Impostazione dei profili di pubblicazione dei clienti
+  - Configurare i costi della contabilità clienti
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare i componenti della contabilità clienti
+  - Creare e gestire un cliente
+  - Configurare i pagamenti dei clienti
+  - Impostare i profili di registrazione clienti
+  - Configurare i costi della contabilità clienti
+
+
+  ### Modulo 5&#58; Eseguire le procedure giornaliere di contabilizzazione dei crediti
+  Imparate a creare fatture a testo libero, a ricevere pagamenti dai clienti e a depositare in banca. Gli studenti impareranno anche come rimborsare ad un cliente l'importo pagato in eccesso o per qualsiasi altro motivo, come in uno scenario di resto al cliente in cui al cliente deve essere rimborsato non solo il pagamento ma anche l'imposta che è stata incassata, utilizzando gli storni e utilizzare gli storni di transazione nei Crediti. Gli studenti impareranno anche a distribuire i fondi utilizzando le distribuzioni contabili in una fattura a testo libero.
+
+  #### Lezioni
+  - Creare fatture a testo libero e registrare i pagamenti dei clienti
+  - Liquidare le transazioni e annullare il saldo
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Allocare fondi utilizzando le distribuzioni contabili
+  - Creare fatture a testo libero e registrare i pagamenti dei clienti
+  - Configurare le fatture ricorrenti
+  - Utilizzo storni nei Crediti
+  - Elaborare gli ordini, registrare le fatture ed elaborare i pagamenti
+
+
+  ### Modulo 6&#58; Configurazione di crediti e incassi
+  Anche se la maggior parte dei clienti paga le fatture in tempo, è necessario essere in grado di elaborare le fatture non pagate entro la data di scadenza. Questo modulo spiega come gestire i clienti delinquenti configurando il modulo Credito e incassi in Dynamics 365 for Finance and Operations. Per utilizzare il modulo Crediti e incassi, la configurazione dei crediti deve essere già completa.
+
+  #### Lezioni
+  - Introduzione
+  - Configurare le componenti di credito e di incasso
+  - Impostazione e gestione degli interessi
+  - Rinunciare, ripristinare o invertire
+  - Impostare e gestire le lettere di incasso
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare le componenti di credito e di incasso
+  - Configurare rapporti di invecchiamento, pool di clienti, agenti di recupero e definizioni dei periodi di invecchiamento
+  - Impostare e gestire gli interessi
+  - Impostare e gestire le lettere di incasso
+
+
+  ### Modulo 7&#58; Processo di credito e incasso
+  Anche se la maggior parte dei clienti paga le fatture in tempo, bisogna essere in grado di elaborare le fatture non pagate entro la data di scadenza. Questo modulo spiega come elaborare il credito e gli incassi.
+  #### Lezioni
+  - Introduzione
+  - Capire come elaborare gli incassi
+  - Gestire il credito ai clienti e gli incassi
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  In questo modulo, gli studenti hanno imparato come &58#;
+  - Dichiarazioni dei clienti
+  - Come elaborare l’incasso
+
+
+  ### Modulo 8&#58; Conclusione del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+
+  Gli studenti avranno completato il corso.

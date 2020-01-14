@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: Tecnologie di sicurezza di Microsoft Azure
+metadata:
+  title: 'Corso AZ-500T00-A: Tecnologie di sicurezza di Microsoft Azure'
+  description: 'Corso AZ-500T00-A: Tecnologie di sicurezza di Microsoft Azure'
+uid: course.az-500t00
+courseNumber: 'AZ-500T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere le classificazioni specializzate dei dati in Azure
+- skill: Identificare i meccanismi di protezione dei dati di Azure
+- skill: Implementare i metodi di crittografia dei dati di Azure
+- skill: Proteggere i protocolli Internet e sapere come implementarli in Azure
+- skill: Descrivere i servizi e le funzionalità di sicurezza di Azure
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+exams:
+- uid: exam.az-500
+summary: |-
+  In questo corso gli studenti acquisiranno le nozioni e
+  le competenze necessarie per implementare i controlli di sicurezza, mantenere la postura di sicurezza,
+  e identificare e correggere le vulnerabilità utilizzando numerosi strumenti
+  di sicurezza. Nel corso vengono esaminati argomenti quali la creazione di script, l’automazione, la virtualizzazione e
+  l’architettura cloud a più livelli.
+  
+  #### Profilo dei destinatari
+  Gli studenti devono avere almeno un anno di esperienza pratica nella protezione di carichi di lavoro di Azure ed essere esperti nell’uso dei controlli di sicurezza per i carichi di lavoro di Azure.
+prerequisitesSection: |-  
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/it-it/learn/certifications/azure-administrator)
+outlineSection: |-
+  ### Modulo 1&#58; Identità e accesso
+  #### Lezioni
+  - Configurare Azure Active Directory per i carichi di lavoro e le sottoscrizioni di Azure
+  - Configurare Azure AD Privileged Identity Management
+  - Configurare la sicurezza per una sottoscrizione di Azure
+  ### Modulo 2&#58; Protezione della piattaforma
+  #### Lezioni
+  - Conoscere la sicurezza cloud
+  - Creare una rete
+  - Proteggere la rete
+  - Implementare la sicurezza dell’host
+  - Implementare la sicurezza della piattaforma
+  - Implementare la sicurezza delle sottoscrizioni
+
+
+  ### Modulo 3&#58; Operazioni relative alla sicurezza
+  #### Lezioni
+  - Configurare i servizi di sicurezza
+  - Configurare i criteri di sicurezza con Centro sicurezza di Azure
+  - Gestire gli avvisi di sicurezza
+  - Rispondere e correggere i problemi di sicurezza
+  - Creare la linea di base per la sicurezza
+
+
+  ### Modulo 4&#58; Dati e applicazioni
+  #### Lezioni
+  - Configurare criteri di sicurezza per la gestione dei dati
+  - Configurare la sicurezza per l’infrastruttura dati
+  - Configurare la crittografia per i dati inattivi
+  - Conoscere la sicurezza delle applicazioni
+  - Implementare la sicurezza durante il ciclo di vita delle applicazioni
+  - Proteggere le applicazioni
+  - Configurare e gestire Azure Key Vault

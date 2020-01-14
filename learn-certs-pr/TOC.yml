@@ -1,0 +1,21 @@
+- name: Certificazioni Microsoft
+  href: index.yml
+- name: Offerte
+  href: deals.md
+- name: Licenze a volume
+  href: volume-licensing-program.md
+- name: Certificazioni, esami e corsi ritirati
+  expanded: false
+  items:
+  - name: Certificazioni ritirate
+    href: retired-certifications.md
+  - name: Esami ritirati
+    href: retired-certification-exams.md 
+  - name: Corsi in pensione
+    href: retired-courses.md
+- name: Certificazione MCT
+  href: mct-certification.md
+- name: Criteri degli esami e domande frequenti
+  href: certification-exam-policies.md
+- name: Guida alla certificazione
+  href: help.md

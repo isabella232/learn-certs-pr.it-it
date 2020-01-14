@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: 'Dynamics 365: Applicazioni della Power Platform'
+metadata:
+  title: 'Course MB-200T01-A: Dynamics 365: Applicazioni della Power Platform'
+  description: 'Course MB-200T01-A: Dynamics 365: Applicazioni della Power Platform'
+uid: course.mb-200t01
+courseNumber: 'MB-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificare i componenti della piattaforma.
+- skill: Conoscere le opzioni di Amministratore.
+- skill: Modellare efficacemente i dati.
+- skill: Costruire un'applicazione di base guidata da un modello sulla Power Platform.
+- skill: Costruire un'applicazione canvas di base sulla Power Platform.
+- skill: Gestire l'accesso dell'utente ai dati e alle funzionalità utilizzando la sicurezza.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform aiuta le organizzazioni ad ottimizzare le loro operazioni automatizzando le attività di routine e standardizzando le best practice. Questo corso di formazione offre una panoramica di alto livello delle capacità di Microsoft Dynamics 365 e della Power Platform e fornisce una base per altre offerte formative di Microsoft Dynamics 365 e Power Platform.
+
+  In questo corso, i nostri esperti riconosciuti a livello mondiale condividono con gli studenti le conoscenze fondamentali per prepararli a costruire applicazioni sulla Power Platform.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 Customer Engagement Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Questo corso è destinato a persone che aspirano al ruolo di Microsoft 365 Enterprise Admin e che hanno completato uno dei percorsi di certificazione di amministratore del carico di lavoro di Microsoft 365.
+outlineSection: |-
+  ### Modulo 1&#58; Panoramica sulla Platform
+  In questo modulo gli studenti impareranno le basi sulla Power Platform.  Visiteranno i vari portali e le opzioni dell'amministratore ed applicazioni di installazione.
+  #### Lezioni
+  - Panoramica
+  - Configurare gli ambienti della Power Platform
+  - Creazione di applicazioni
+  - Scoperta e pianificazione
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Identificare i componenti comuni della piattaforma e il loro utilizzo
+
+
+  ### Modulo 2&#58; Modellazione dei dati
+  In questo modulo gli studenti impareranno a modellare i dati in modo efficace utilizzando le entità, gli attributi e le relazioni della piattaforma.
+  #### Lezioni
+  - Fundamentals di modellazione dei dati
+  - Rapporti
+  - Altre opzioni di entità
+  - Altre opzioni di campo
+  - Internazionalizzazione
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e utilizzare relazioni ed entità
+
+
+  ### Modulo 3&#58; Applicazioni guidate da modellizzazione
+  In questo modulo gli studenti impareranno a conoscere le applicazioni guidate da modellizzazione e come configurarle e utilizzarle.
+  #### Lezioni
+  - Configurare applicazioni guidate da modellizzazione
+  - Configurare moduli guidati da modellizzazione
+  - Configurare le viste
+  - Configurare grafici guidati da modellizzazione
+  - Configurare dashboard guidati da modellizzazione
+  - Configurare rapporti
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e modificare moduli, viste, dashboard e altri componenti dell'esperienza utente
+
+
+  ### Modulo 4&#58; Applicazioni canvas
+  In questo modulo gli studenti impareranno a creare e utilizzare le applicazioni canvas, oltre ad apprendere le differenze tra le applicazioni canvas e le applicazioni guidate da modelli.
+  #### Lezioni
+  - Fundamentals dell'applicazione
+  - Lavorare con dati e servizi
+  - Personalizzare l’esperienza dell’Utente
+  - Integrazione con le applicazioni guidate da modelli
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare un’applicazione canvas
+  - Lavorare con i dati CDS
+
+
+  ### Modulo 5&#58; Sicurezza
+  In questo modulo gli studenti impareranno come il modello di sicurezza della piattaforma gestisce le esperienze degli utenti e l'accesso ai dati e alle funzionalità.
+  #### Lezioni
+  - Panoramica sulla sicurezza
+  - Business unit
+  - Gestire i ruoli di sicurezza
+  - Gestire i team
+  - Configurare la sicurezza gerarchica
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e utilizzare Business Unit
+  - Creare, modificare e utilizzare i ruoli di sicurezza

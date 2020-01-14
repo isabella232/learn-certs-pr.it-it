@@ -1,0 +1,231 @@
+### YamlMime:Course
+title: Configurare e utilizzare il budgeting, le immobilizzazioni e le funzionalità aggiuntive in Finance and Operations
+metadata:
+  title: 'Course MB-310T03-A: Configurare e utilizzare il budgeting, le immobilizzazioni e le funzionalità aggiuntive in Finance and Operations'
+  description: 'Course MB-310T03-A: Configurare e utilizzare il budgeting, le immobilizzazioni e le funzionalità aggiuntive in Finance and Operations'
+uid: course.mb-310t03
+courseNumber: 'MB-310T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per elevare le loro performance finanziarie aumentando la redditività, ottimizzando la produttività della forza lavoro, riducendo le spese operative, adattandosi rapidamente ai cambiamenti dei requisiti e ottimizzando la gestione degli asset. Questo corso illustra come configurare e utilizzare il budgeting, le immobilizzazioni e le funzionalità aggiuntive di Dynamics 365 for Finance and Operations.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Comprensione di base dei concetti di ERP e CRM.
+outlineSection: |-
+  ### Modulo 1&#58; Configurazione degli assegni post-datati
+  Gli assegni postdatati sono assegni che vengono emessi per effettuare e ricevere pagamenti in una data futura. Pertanto, l'assegno non può essere incassato fino alla data specificata. Microsoft Dynamics 365 for Finance and Operations supporta l'intero ciclo di gestione per gli assegni post-datati sia nei Crediti sia nei Debiti. Questo modulo spiega come impostare ed elaborare gli assegni post-data.
+
+  #### Lezioni
+  - Introduzione
+  - Gestire gli assegni postdatati
+  - Laboratori di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Processare assegni post-datati
+  - Impostare assegni post-datati
+  - Registrare e inviare un assegno post-datato ad un cliente
+  - Saldare un assegno post-datato ricevuto da parte di un cliente
+  - Registrare e inviare un assegno post-datato ad un fornitore
+  - Saldare un assegno post-datato per un fornitore
+
+
+  ### Modulo 2&#58; Configurazione e utilizzo dei processi di budgeting di base e di controllo del budget
+  Ogni organizzazione, sia essa privata o pubblica, stabilisce obiettivi finanziari e operativi attraverso la creazione di budget. Una volta definito il budget, la direzione controlla le attività nel quadro del budget. Questo modulo fornisce informazioni su come configurare e utilizzare il budget di base e il controllo del budget.
+  #### Lezioni
+  - Introduzione
+  - Configurare i componenti per la definizione del budget di base
+  - Configurare i componenti di controllo per la definizione del budget
+  - Creare ed elaborare le voci del registro del budget
+  - Utilizzare le richieste e i rapporti
+  - Laboratori di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare i componenti per la definizione del budget di base
+  - Configurare i componenti di controllo per la definizione del budget
+  - Utilizzare le richieste e i rapporti
+  - Creare ed elaborare le voci del registro del budget
+
+
+  ### Modulo 3&#58;  Configurare e utilizzare i processi di pianificazione del budget
+  Con la funzionalità di pianificazione del budget si possono consolidare più piani di budget da un livello inferiore in un unico piano di budget originale ad un livello superiore dell'organizzazione. Si tratta di pianificare il budget con approccio dal basso all’alto, che consente a un pianificatore di budget di aggregare altri piani in un piano di alto livello o in un piano aziendale per la pianificazione del budget. Si può anche adottare l'approccio dall'alto verso il basso, che richiede lo sviluppo di un unico piano di budget a un livello superiore dell'organizzazione e l'assegnazione del budget ai livelli inferiori dell'organizzazione. Utilizzare questo metodo quando si fa affidamento sulle operazioni finanziarie storiche dell’azienda e creare un piano centralizzato che può essere ripartito in diverse unità operative definite da una gerarchia organizzativa con finalità di pianificazione del budget. Il pianificatore del budget, come fase finale della pianificazione del budget, genera la registrazione del registro di bilancio sulla base del piano di bilancio. Un'organizzazione può configurare la pianificazione del budget, e quindi impostare processi collaborativi di pianificazione del budget per soddisfare le proprie politiche, procedure e requisiti per la preparazione del budget. Questo modulo spiega come configurare e testare i processi di pianificazione del budget.
+
+  #### Lezioni
+  - Introduzione
+  - Configurare i componenti di Pianificazione del budget
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare i componenti di Pianificazione del budget
+  - Creare un modello per il piano di budget
+  - Configurare i componenti per la definizione del budget
+  - Creare un piano di budget con la procedura guidata Pianificazione budget
+
+
+  ### Modulo 4&#58; Configurare la gestione delle immobilizzazioni
+  Questo modulo inizia con la spiegazione dei concetti del capitale fisso e poi mostra agli studenti come configurare e utilizzare il modulo del capitale fisso in Dynamics 365 for Finance and Operations.
+
+  #### Lezioni
+  - Introduzione
+  - Configurare i componenti delle immobilizzazioni
+  - Attivare l'integrazione delle immobilizzazioni
+  - Creare immobilizzazioni
+  - Laboratori di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare i componenti delle immobilizzazioni
+  - Configurare i parametri delle immobilizzazioni
+  - Abilitare l'integrazione delle immobilizzazioni con l'acquisto
+  - Creare immobilizzazioni
+
+
+  ### Modulo 5&#58; Gestire le immobilizzazioni
+  Per registrare le transazioni di immobilizzazioni tramite i libri giornali, è necessario creare almeno un nome di libro giornale utilizzando il tipo di libro giornale Post immobilizzazioni nella configurazione del modulo del libro mastro generale. Se fossero necessari budget per le immobilizzazioni, si deve anche creare un nome del libro giornale che utilizzi il tipo di libro giornale Budget per le immobilizzazioni. Questo modulo spiega come elaborare e gestire le immobilizzazioni.
+
+  #### Lezioni
+  - Introduzione
+  - Eseguire le attività relative alle immobilizzazioni
+  - Laboratori di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Effettuare l'acquisizione di immobilizzazioni
+  - Effettuare l'ammortamento di immobilizzazioni
+  - Effettuare le cessioni di immobilizzazioni
+
+
+  ### Modulo 6&#58; Configurare e utilizzare la contabilità dei costi
+  La contabilità dei costi consente di raccogliere dati da varie fonti, come il libro mastro generale, i libri mastri secondari, i bilanci e le informazioni statistiche. Si possono quindi analizzare, riassumere e valutare i dati dei costi, in modo che il management possa prendere le migliori decisioni possibili per l'aggiornamento dei prezzi, il budget, il controllo dei costi e così via. I dati di partenza utilizzati per l'analisi dei costi sono trattati in modo indipendente nella contabilità analitica. Pertanto, gli aggiornamenti della contabilità analitica non influiscono sui dati di partenza.
+
+  #### Lezioni
+  - Introduzione
+  - Spazio di lavoro per il controllo dei costi
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo, gli studenti hanno imparato come &58#;
+  - Spazio di lavoro per il controllo dei costi
+  - Creare un rapporto di contabilizzazione dei costi con la procedura guidata per iniziare contabilità industriale
+
+
+  ### Modulo 7&#58; Configurazione e utilizzo dei processi periodici
+  Nel libro mastro generale, le procedure di chiusura possono essere completate per un periodo o un anno. I processi di chiusura preparano il sistema per un nuovo periodo. Ci sono molti compiti come la preparazione delle registrazioni, la chiusura dell'inventario, il consolidamento, e molti altri devono essere completati prima. Per preparare il sistema per un nuovo anno, è necessario eseguire il processo di chiusura di fine anno. Ogni organizzazione ha diversi processi e fasi che esegue per la fine di un periodo.
+  #### Lezioni
+  - Introduzione
+  - Riconciliazioni bancarie
+  - Configurare la chiusura del periodo finanziario
+  - Preparare le registrazioni periodiche
+  - Attivare i processi di rivalutazione delle valute estere
+  - Eseguire un consolidamento finanziario
+  - Elaborare la chiusura di fine anno
+  - Laboratori di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare la chiusura del periodo finanziario
+  - Riconciliare le banche
+  - Eseguire processi di chiusura periodica e di chiusura dell'anno
+  - Preparare le registrazioni periodiche
+  - Configurare e testare il processo Vendor 1099
+  - Attivare i processi di rivalutazione delle valute estere
+  - Procedere ai processi di consolidamento finanziario ed eliminazione
+  - Utilizzare le relazioni finanziarie per creare le dichiarazioni finanziarie
+  - Elaborare il reporting fiscale di fine anno
+
+
+  ### Modulo 8&#58; Configurazione della struttura di reporting elettronico
+  Il Generic Electronic Reporting (GER) o semplicemente Electronic Reporting (ER) è uno strumento configurabile per il reporting normativo, i pagamenti e la fatturazione elettronica. Il motore ER è destinato agli utenti aziendali invece che agli sviluppatori. Poiché i formati sono configurati al posto del codice, i processi per la creazione e l'adattamento dei formati per i documenti elettronici sono più rapidi e semplici. ER attualmente supporta i formati TEXT, XML, PDF, documento Microsoft Word e foglio di lavoro OPENXML. Tuttavia, un'interfaccia di estensione fornisce il supporto per ulteriori formati.
+
+  #### Lezioni
+  - Introduzione
+  - Configurare il reporting elettronico
+  - Progettista di formule nel reporting elettronico
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare ER
+  - Creare configurazioni ER
+  - Eseguire processi di chiusura periodica e di chiusura dell'anno
+  - Progettista di formule in ER
+
+
+  ### Modulo 9&#58; Configurare caratteristiche localizzate
+  Dynamics 365 for Finance and Operations include funzionalità per i paesi e le regioni documentate nella guida alla localizzazione dei prodotti e alla disponibilità delle traduzioni. Questo modulo spiega come configurare alcuni esempi di funzionalità regionali in Finance and Operations. Si prega di leggere le informazioni sulla pagina Localizzazione e caratteristiche normative per rimanere aggiornati sulle funzionalità regionali di Finance and Operations per tutti i paesi/regioni.
+  #### Lezioni
+  - Introduzione
+  - Caratteristiche di localizzazione e normative
+  - Classificazione delle caratteristiche di localizzazione messicana
+  - Comprendere il motore fiscale globale
+  - Comprendere le caratteristiche delle istituzioni fiscali e dei documenti per la localizzazione brasiliana
+  - Cambiale
+  - Fatture elettroniche
+  - Laboratori di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo, gli studenti hanno imparato come &58#;
+  - Caratteristiche di localizzazione e normative
+  - Classificazione delle caratteristiche di localizzazione
+  - Come applicare il contesto nazionale e regionale
+  - Come configurare e dimostrare le caratteristiche delle istituzioni Fiscali e dei Documenti Fiscali per una localizzazione brasiliana
+  - Processo di prova delle cambiali
+  - Configurare e utilizzare i Pagherò
+  - Configurare e testare le fatture elettroniche (CFDI) per una localizzazione messicana
+
+
+  ### Modulo 10&#58; Configurare la gestione finanziaria per il settore pubblico
+  Il settore pubblico, chiamato anche settore statale e locale, è prevalentemente un'industria di servizi che gestisce il benessere dei suoi cittadini. L'industria del settore pubblico comprende organizzazioni nei settori dei comuni, dell'istruzione, della sanità, della sicurezza pubblica, dei lavori pubblici e delle infrastrutture, della difesa nazionale, della fiscalità e di vari programmi sociali.
+  #### Lezioni
+  - Introduzione
+  - Istituire fondi per il settore pubblico
+  - Istituire gerarchie finanziarie derivate
+  - Configurare i codici di fatturazione per le fatture a testo libero
+  - Laboratori di pratica
+  - Riepilogo del modulo
+  
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Istituire fondi per il settore pubblico
+  - Comprendere i metodi di riconciliazione bancaria
+  - Istituire le dimensioni derivate
+  - Istituire gerarchie finanziarie derivate per il settore pubblico
+  - Funzionalità avanzate per le voci del libro mastro per il settore pubblico
+  - Configurare i codici di fatturazione per le fatture a testo libero
+
+
+  ### Modulo 11&#58; Conclusione del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+  
+
+  Gli studenti avranno completato il corso.

@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: "Gestione dell'accesso client e del flusso di posta"
+metadata:
+  title: "Course MS-200T02-A: Gestione dell'accesso client e del flusso di posta"
+  description: "Course MS-200T02-A: Gestione dell'accesso client e del flusso di posta"
+uid: course.ms-200t02
+courseNumber: 'MS-200T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementazione i servizi di accesso client
+- skill: Gestire i dispositivi client
+- skill: Configurare Outlook sul Web
+- skill: Risolvere i problemi relativi all’accesso client
+- skill: Configurare i criteri delle cassette postali dei dispositivi mobili
+- skill: Gestire i criteri delle cassette postali dei dispositivi mobili
+- skill: Configurare il trasporto dei messaggi
+- skill: Gestire le regole di trasporto
+- skill: Gestire il flusso della posta elettronica
+- skill: Risoluzione dei problemi del flusso della posta elettronica
+- skill: Risolvere i problemi del trasporto
+- skill: Risoluzione dei problemi con log
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  In questo corso imparerete come Microsoft Exchange Server fornisce l'accesso alle caselle di posta elettronica degli utenti per molti client diversi. Poiché tutti i client di messaggistica accedono alle caselle di posta di Exchange Server attraverso i servizi di accesso client, esamineremo come pianificare, configurare e gestire i servizi di accesso client su Exchange Server. Poiché l'utilizzo di smartphone e tablet per la messaggistica è diventato molto popolare e poiché molti utenti di smartphone utilizzano i loro dispositivi in modo intensivo per la posta elettronica, il calendario, le attività e altri scopi di collaborazione, imparerete anche a gestire i dispositivi mobili. Questo corso descrive anche la pianificazione e la configurazione del trasporto dei messaggi in un'organizzazione Exchange Server. Imparerete a pianificare, configurare e gestire i servizi di trasporto per fornire una comunicazione efficiente tra i vostri Exchange Server, Exchange Online e altri server di posta su Internet. Infine, imparerete come risolvere i problemi dei servizi di trasporto quando si verificano problemi in diversi scenari, in modo da poter fornire alla vostra organizzazione un'infrastruttura di messaggistica sana e affidabile.
+
+  #### Profilo dei destinatari
+  L'amministratore di messaggistica distribuisce, configura, gestisce e
+  risolve i problemi dei destinatari, autorizzazioni, protezione della posta, flusso della posta e cartelle pubbliche sia in ambienti a livello locale sia in ambienti aziendali cloud. Le responsabilità includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino di emergenza, l’alta disponibilità e l’accesso del cliente. Per implementare una topologia ibrida sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365 L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
+prerequisitesSection: |-
+  - Ottima comprensione del DNS.
+  - Comprensione di base della messaggistica all'interno di Exchange Server o Exchange Online.
+  - Comprensione di base dell'infrastruttura di Active Directory e dei domain controller insieme alla gestione delle identità.
+  - Esperienza funzionale di base con i servizi Microsoft 365 e la sincronizzazione delle directory.
+  - Almeno 5 anni di esperienza generale nel settore informatico.
+outlineSection: |-
+  ### Modulo 1&#58; Gestione dell'accesso ai client
+  #### Lezioni
+  - Implementazione i servizi di accesso client
+  - Gestire i dispositivi client
+  - Configurare Outlook sul Web
+  - Risolvere i problemi relativi all’accesso client
+
+
+  ### Modulo 2&#58; Gestione dei dispositivi mobili
+  #### Lezioni
+  - Criteri delle cassette postali dei dispositivi mobili
+  - Gestire l’accesso dei dispositivi mobili
+
+
+  ### Modulo 3&#58; Gestione del flusso di trasporto
+  #### Lezioni
+  - Panoramica dei servizi di trasporto
+  - Configurare il trasporto dei messaggi
+  - Gestire le regole di trasporto
+
+
+  ### Modulo 4&#58; Gestione e risoluzione dei problemi del flusso della posta
+  #### Lezioni
+  - Gestione del flusso della posta
+  - Risoluzione dei problemi del flusso della posta elettronica
+  - Risoluzione dei problemi del trasporto
+  - Risoluzione dei problemi con log
+
+
+  ### Modulo 5&#58; Conclusione del corso
+
+  #### Laboratorio&#58; Gestione dell'accesso del client e del flusso di posta
+  - Creare un connettore di ricezione personalizzato
+  - Creare un connettore di invio personalizzato
+  - Abilitazione e disabilitazione di ActiveSync per una singola cassetta postale
+  - Abilitazione e disabilitazione di ActiveSync per caselle di posta multiple
+  - Abilitare e disabilitare l'accesso MAPI a una singola cassetta postale
+  - Abilitare e disabilitare l'accesso MAPI a cassette postali multiple

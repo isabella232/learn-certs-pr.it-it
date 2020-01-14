@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: Gestire la disponibilità elevata e il ripristino di emergenza
+metadata:
+  title: 'Course MS-200T03-A: Gestire la disponibilità elevata e il ripristino di emergenza'
+  description: 'Course MS-200T03-A: Gestire la disponibilità elevata e il ripristino di emergenza'
+uid: course.ms-200t03
+courseNumber: 'MS-200T03-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Pianificare l'alta disponibilità per i server delle cassette postali
+- skill: Pianificare l'alta disponibilità per il servizio di accesso al client
+- skill: Pianificare l'alta disponibilità per il trasporto
+- skill: Implementare la resilienza del sito
+- skill: Pianificare il ripristino di emergenza
+- skill: Implementare le strategie di backup
+- skill: Ripristinare cassette postali, database e server
+- skill: Pianificare la gerarchia delle cartelle pubbliche
+- skill: Implementare e gestire le cartelle pubbliche
+- skill: Risoluzione dei problemi delle cartelle pubbliche
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  In questo corso gli studenti impareranno a conoscere le soluzioni tradizionali e moderne per la messaggistica ad alta disponibilità e il ripristino di emergenza. I sistemi di messaggistica sono diventati sempre più complessi, data l'abbondanza di nuove funzionalità che si sono aggiunte negli ultimi anni, così come la crescente importanza attribuita alla disponibilità e al ripristino di emergenza. Gli approcci tradizionali per l'alta disponibilità e il ripristino di emergenza sono ancora presenti ed esistono principalmente a livello di hardware, come i sistemi RAID per l’archiviazione, la replica di dispositivi a blocchi e le soluzioni di archiviazione che utilizzano l’archiviazione esterna. Pur supportando questi approcci tradizionali, Microsoft Exchange offre anche soluzioni che modernizzano l'alta disponibilità e il ripristino di emergenza, fornendo soluzioni integrate direttamente sui sistemi di messaggistica. Ciò comprende ad esempio soluzioni di replica continua e soluzioni di conservazione che sono costruite direttamente all'interno dei database dei messaggi. Ciò consente agli amministratori di risparmiare molto tempo e fatica nel mantenere diversi livelli di soluzioni straniere su hardware e software.
+  
+  In questo corso, gli studenti saranno introdotti ad ogni soluzione, impareranno quando utilizzare l'una o l'altra, come pianificare una distribuzione e come eseguire l'effettiva implementazione.
+
+  #### Profilo dei destinatari
+  L'amministratore di messaggistica distribuisce, configura, gestisce e
+  risolve i problemi dei destinatari, autorizzazioni, protezione della posta, flusso della posta e cartelle
+  pubbliche sia in ambienti a livello locale sia in ambienti aziendali cloud. Le responsabilità
+  includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida
+  e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino
+  di emergenza, l’alta disponibilità e l’accesso del cliente Per implementare una topologia ibrida
+  sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica
+  Deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365
+  L'amministratore di messaggistica deve avere una conoscenza operativa dei tipi di autenticazione,
+  licenze e integrazione con le applicazioni Microsoft 365.
+prerequisitesSection: |-
+  - Ottima comprensione del DNS.
+  - Comprensione di base della messaggistica all'interno di Exchange Server o Exchange Online.
+  - Comprensione di base dell'infrastruttura di Active Directory e dei domain controller insieme alla gestione delle identità.
+  - Esperienza funzionale di base con i servizi Microsoft 365 e la sincronizzazione delle directory.
+  - Almeno 5 anni di esperienza generale nel settore informatico.
+outlineSection: |-
+  ### Modulo 1&#58; Alta disponibilità per i server di scambio
+  #### Lezioni
+  - Pianificare l'alta disponibilità per i server delle cassette postali
+  - Alta disponibilità per il servizio di accesso al client
+  - Alta disponibilità per il trasporto
+  - Implementare la resilienza del sito
+
+
+  ### Modulo 2&#58; Gestione del ripristino di emergenza
+  #### Lezioni
+  - Pianificare il ripristino di emergenza
+  - Implementare le strategie di backup
+  - Ripristinare cassette postali, database e server
+
+
+  ### Modulo 3&#58; Gestione delle cartelle pubbliche
+  #### Lezioni
+  - Pianificare la gerarchia delle cartelle pubbliche
+  - Implementare e gestire le cartelle pubbliche
+  - Risoluzione dei problemi delle cartelle pubbliche
+
+
+  ### Modulo 4&#58; Laboratorio - Gestione delle cartelle pubbliche e ripristino di emergenza
+
+  #### Laboratorio&#58; Gestione delle cartelle pubbliche e ripristino di emergenza
+  - Esercizio 1&#58; Risoluzione dei problemi relativi al flusso della posta e alla connettività
+  - Esercizio 2&#58; Ripristino di emergenza utilizzando eDiscovery e blocchi locali

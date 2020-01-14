@@ -1,0 +1,118 @@
+### YamlMime:Course
+title: Implementare applicazioni SharePoint 2019 Service
+metadata:
+  title: 'Course MS-301T02-A: Implementare applicazioni SharePoint 2019 Service'
+  description: 'Course MS-301T02-A: Implementare applicazioni SharePoint 2019 Service'
+uid: course.ms-301t02
+courseNumber: 'MS-301T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Fornitura di un'istanza di applicazione BDC Service Application.
+- skill: Configurare l'applicazione Servizio di archiviazione sicuro.
+- skill: Descrivere come configurare I miei siti in SharePoint 2019.
+- skill: Descrivere come configurare l'applicazione Servizio Profilo Utente.
+- skill: Descrivere come pianificare l'importazione e la sincronizzazione di SharePoint Active Directory.
+- skill: Spiegare come creare e pubblicare un tipo di contenuto tra le raccolte dei siti.
+- skill: Identificare le capacità del servizio di metadati gestiti.
+- skill: Configurare set di termini e termini per la navigazione gestita.
+- skill: Descrivere la funzione dei componenti di ricerca.
+- skill: Spiegare come pianificare e configurare una topologia di ricerca.
+- skill: Descrivere come configurare il centro di ricerca.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  SharePoint Server 2019 è progettato per soddisfare le esigenze dei moderni stili di lavoro. Fornisce le nuove esperienze moderne per gli utenti, che sono sia intuitive che familiari in SharePoint Online. In questo corso imparerete come pianificare, configurare e gestire le applicazioni di servizio in SharePoint 2019, come i metadati gestiti, i servizi di connettività aziendale e la ricerca aziendale.
+  
+  Questo corso è progettato per i professionisti IT che implementano e gestiscono l'infrastruttura di lavoro in team nella loro organizzazione.
+  
+  Questo è il secondo di una serie di quattro corsi per l'amministratore di Teamwork. Questi corsi aiutano a prepararsi per l'esame MS-301&#58; Implementazione di SharePoint Server.
+
+  #### Profilo dei destinatari
+  Questo corso è per il ruolo di amministratore della collaborazione in team di Microsoft 365. Il ruolo è responsabile della configurazione, della distribuzione e della gestione dei carichi di lavoro di Office 365 e Azure che si concentrano su una collaborazione e un'adozione efficiente ed efficace. Gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. L'amministratore è consapevole e può distinguere tra prodotti e servizi ma non può gestire direttamente ogni prodotto o servizio.
+  
+  Questi amministratori devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e i gruppi di lavoro.
+  
+  L’amministratore della collaborazione in team ha una conoscenza di base dei punti di integrazione con le app e i servizi seguenti&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business.
+prerequisitesSection: |-
+  Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
+  - Esperienza con Windows PowerShell.
+  - Comprensione di base della gestione di SQL Server.
+  - Comprensione di base della rete, incluso il DNS.
+  - Conoscenza operativa dell'amministrazione dei server Windows.
+  - Comprensione di base di Active Directory e Azure AD.
+  - Comprensione di base della gestione dei dispositivi mobili e dei sistemi operativi alternativi (Android e macOS).
+outlineSection: |-
+  ### Modulo 1&#58; Applicazioni di servizio SharePoint
+  Questo modulo riguarda le applicazioni di servizio e il flusso di lavoro di SharePoint. Descrive come fornire e gestire un'applicazione di servizio BCS e un'applicazione di servizio User Profile. In particolare, si discute come importare ed esportare i modelli BDC e come importare le proprietà degli utenti in SharePoint.
+  #### Lezioni
+  - Applicazioni di servizio e flusso di lavoro SharePoint
+  - Pianificare e configurare servizi Business Connectivity Services (BCS) e Secure Store
+  - Pianificare e configurare i profili utente
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare i componenti chiave di un modello BDC.
+  - Descrivere l'architettura di alto livello di BCS.
+  - Fornitura di un'istanza di applicazione BDC Service Application.
+  - Configurare l'applicazione Servizio di archiviazione sicuro.
+  - Spiegare lo scopo del servizio Secure Store Service.
+  - Gestire le autorizzazioni per un'istanza di BDC Service Application.
+  - Descrivere come configurare le proprietà del profilo utente.
+  - Descrivere come gestire il pubblico in SharePoint 2019.
+  - Descrivere come configurare I miei siti in SharePoint 2019.
+  - Descrivere come configurare l'applicazione Servizio Profilo Utente.
+  - Descrivere come pianificare l'importazione e la sincronizzazione di SharePoint Active Directory.
+
+
+  ### Modulo 2&#58; Pianificare e configurare i metadati gestiti
+  Questo modulo riguarda le funzionalità integrali, come il Managed Metadata Service, i tipi di contenuto e i set di termini, che consentono di creare e diffondere un'architettura dell'informazione. Introduce lo scopo dei tipi di contenuto e i concetti alla base del servizio di metadati gestiti, comprese le tassonomie, i set di termini e le parole chiave aziendali.
+
+  #### Lezioni
+  - Gestire i tipi di contenuti
+  - Metadati gestiti
+  - Configurare il servizio di metadati gestiti
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare la funzione e l'uso dei tipi di contenuto.
+  - Descrivere le funzioni del Servizio Metadati Gestiti.
+  - Spiegare come creare e pubblicare un tipo di contenuto tra le raccolte dei siti.
+  - Identificare le capacità del servizio di metadati gestiti.
+  - Creare e gestire gruppi di termini, set di termini e termini
+  - Configurare set di termini e termini per la navigazione gestita.
+
+
+  ### Modulo 3&#58; Pianificare e configurare la ricerca
+  Questo modulo riguarda l'applicazione di servizi di ricerca aziendale. Fornisce dettagli sulla pianificazione e la configurazione delle fonti di contenuto, dei programmi di ricerca e delle regole della ricerca. Discute anche su come fornire la gestione della ricerca di una serie di componenti di ricerca, come le regole di query, i tipi di risultati e i modelli di visualizzazione.
+  #### Lezioni
+  - Pianificare la ricerca delle imprese
+  - Configurare la ricerca delle imprese
+  - Gestire la ricerca delle imprese
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere la funzione dei componenti di ricerca.
+  - Spiegare come pianificare e configurare una topologia di ricerca.
+  - Descrivere come pianificare e configurare le fonti di contenuto.
+  - Descrivere come pianificare e configurare i programmi di scansione.
+  - Descrivere come pianificare e configurare le regole di ricerca.
+  - Descrivere come gestire lo schema di ricerca.
+  - Descrivere come configurare il centro di ricerca.
+  - Spiegare l'uso e l'applicazione delle regole di interrogazione.
+  - Spiegare l'uso e l'impiego della fonte dei risultati.
+
+
+  ### Modulo 4&#58; Fine del corso
+
+  #### Laboratorio&#58; Configurare Ricerca contenuti organizzazione

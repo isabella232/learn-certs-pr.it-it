@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: Sviluppare soluzioni per l’archiviazione in Azure
+metadata:
+  title: 'Corso AZ-203T03-A: Sviluppare soluzioni per l’archiviazione in Azure'
+  description: 'Corso AZ-203T03-A: Sviluppare soluzioni per l’archiviazione in Azure'
+uid: course.az-203t03
+courseNumber: 'AZ-203T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per utilizzare al meglio i servizi e le funzionalità di archiviazione di Azure nelle soluzioni sviluppate. In particolare, il corso è incentrato su Archiviazione tabelle di Azure, Azure Cosmos DB, BLOB di Azure e spiega in particolare come sviluppare progetti per i database relazionali in Azure.
+  #### Profilo dei destinatari
+  - Gli studenti che decidono di seguire questo corso sono persone interessate a sviluppare soluzioni Azure o a superare l’esame di certificazione Microsoft Azure Developer Associate.
+prerequisitesSection: |-
+  - Gli studenti devono avere almeno 1-2 anni di esperienza nel ruolo di sviluppatore. In questo corso si presuppone che gli studenti sappiano come creare codici e abbiano una conoscenza basilare di Azure.
+  - È consigliabile che gli studenti abbiano una certa esperienza nell’uso di PowerShell o dell’interfaccia della riga di comando di Azure, che abbiano utilizzato il portale di Azure e che conoscano almeno uno dei linguaggi di programmazione supportati da Azure. La maggior parte degli esempi presentati in questo corso sono scritti in linguaggio C# .NET.
+outlineSection: |-
+  ### Modulo 1&#58; Sviluppare soluzioni che utilizzano Archiviazione tabelle di Azure
+  Archiviazione tabelle di Azure è un servizio che archivia dati NoSQL strutturati nel cloud e fornisce un archivio di chiavi/attributi con un modello senza schemi. Poiché Archiviazione tabelle di Azure non utilizza schemi, permette di adattare i dati man mano che l’applicazione si evolve.
+  #### Lezioni
+  - Panoramica di Archiviazione tabelle di Azure
+  - Autorizzazioni in Archiviazione tabelle
+  - API REST del servizio Tabella
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le funzionalità e gli utilizzi di Archiviazione tabelle di Azure
+  - Dimostrare come usare l’autorizzazione Chiave condivisa
+  - Dimostrare come utilizzare il servizio REST di Archiviazione tabelle di Azure per gestire i dati
+
+  ### Modulo 2&#58; Sviluppare soluzioni che utilizzano l’archiviazione Azure Cosmos DB
+  Questo modulo è incentrato sull’archiviazione Azure Cosmos DB. Spiega agli studenti come funziona, come si gestiscono contenitori e oggetti, e come creare e aggiornare i documenti tramite il codice.
+  #### Lezioni
+  - Panoramica di Azure Cosmos DB
+  - Gestire contenitori e oggetti
+  - Creare e aggiornare i documenti mediante codice
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le funzioni e funzionalità di base di Azure Cosmos DB
+  - Gestire contenitori e oggetti
+  - Creare e gestire documenti
+
+  ### Modulo 3&#58; Sviluppare soluzioni che utilizzano un database relazionale
+  Un database SQL è un servizio gestito da un database relazionale generico di Microsoft Azure che supporta strutture come dati relazionali, JSON, dati spaziali e XML.
+  #### Lezioni
+  - Panoramica di un database SQL di Azure
+  - Creare, leggere, aggiornare ed eliminare tabelle di database mediante l’uso di codice
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare come funziona il servizio del database SQL di Azure
+  - Eseguire operazioni sul database mediante l’utilizzo di codice
+
+
+  ### Modulo 4&#58; Sviluppare soluzioni che utilizzano l’archiviazione BLOB di Microsoft Azure Blob
+  L’archiviazione BLOB di Azure è una soluzione per l'archiviazione di oggetti nel cloud di Microsoft. Questa soluzione è ottimizzata per archiviare enormi quantità di dati non strutturati. I dati non strutturati sono dati non conformi a un determinato modello o una specifica definizione di dati, ossia dati diversi da quelli in formato testo o binario.
+  #### Lezioni
+  - Panoramica dell’archiviazione BLOB di Azure
+  - Uso dell’archiviazione BLOB di Azure
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare quando e perché utilizzare l’archiviazione BLOB di Azure
+  - Impostare e recuperare proprietà e metadati dall’archiviazione BLOB
+  - Replicare e copiare BLOB

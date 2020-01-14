@@ -1,0 +1,99 @@
+### YamlMime:Course
+title: 'Dynamics 365: Automazione della Power Platform'
+metadata:
+  title: 'Course MB-200T02-A: Dynamics 365: Automazione della Power Platform'
+  description: 'Course MB-200T02-A: Dynamics 365: Automazione della Power Platform'
+uid: course.mb-200t02
+courseNumber: 'MB-200T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificare le opzioni di automazione disponibili nella Power Platform.
+- skill: Identificare quando utilizzare quale automazione.
+- skill: Creare e gestire regole di business.
+- skill: Creare e utilizzare i flussi di lavoro.
+- skill: Creare ed eseguire Microsoft Flow.
+- skill: Creare e gestire flussi di processi aziendali.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  Microsoft Power Platform aiuta le organizzazioni ad ottimizzare le loro operazioni automatizzando le attività di routine e standardizzando le best practice. Questo corso di formazione offre una panoramica di alto livello delle capacità di Microsoft Dynamics 365 e della Power Platform e fornisce una base per altre offerte formative di Microsoft Dynamics 365 e Power Platform.
+
+  In questo corso, i nostri esperti riconosciuti a livello mondiale guidano gli studenti attraverso le varie opzioni di automazione disponibili e come utilizzarle in scenari reali.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 Customer Engagement Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Familiarità delle applicazioni aziendali e il desiderio di personalizzarle e implementarle per il vostro business.
+outlineSection: |-
+  ### Modulo 1&#58; Panoramica di Automazione della Platform
+  In questo modulo gli studenti impareranno le basi delle capacità di automazione della Power Platform. Impareranno la necessità di automazione e come mappare le esigenze in base alle capacità.
+  #### Lezioni
+  - Panoramica dell'automazione della piattaforma
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Identificare l'automazione delle piattaforme comuni e il loro utilizzo
+
+
+  ### Modulo 2&#58; Regole di business
+  In questo modulo gli studenti impareranno come costruire e utilizzare le regole di business e come lavorare insieme ad altre automazioni della Platform.
+  #### Lezioni
+  - Introduzione alle regole di business
+  - Ulteriori dettagli sulle regole di business
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e gestire regole di business
+
+
+  ### Modulo 3&#58; Flussi di lavoro
+  In questo modulo gli studenti impareranno come costruire e utilizzare i flussi di lavoro e come lavorare a fianco di altre automazioni della Platform.
+  #### Lezioni
+  - Introduzione ai flussi di lavoro
+  - Creazione di flussi di lavoro
+  - Flusso di lavoro avanzato
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e utilizzare flussi di lavoro
+
+
+  ### Modulo 4&#58; Microsoft Flow
+  In questo modulo gli studenti impareranno come costruire e utilizzare i Microsoft Flow e come lavorare a fianco di altre automazioni della Platform.
+  #### Lezioni
+  - Introduzione a Microsoft Flow
+  - Altri concetti di flusso
+  - Lavorare con CDS
+  - Creazione di flussi di approvazione
+  - A partire dalle applicazioni
+  - Considerazione sull'implementazione dei flussi
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e utilizzare Microsoft Flow
+
+
+  ### Modulo 5&#58; Flussi dei processi aziendali
+  In questo modulo gli studenti impareranno come costruire e utilizzare i flussi dei processi di business e come lavorare a fianco di altre automazioni della Platform.
+  #### Lezioni
+  - Introduzione ai flussi dei processi aziendali
+  - Configurare i flussi dei processi aziendali
+  - Ulteriori dettagli sui flussi dei processi aziendali
+  - Riepilogo del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e gestire flussi di processi aziendali

@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: Sviluppare soluzioni di calcolo Azure IaaS
+metadata:
+  title: 'Corso AZ-203T01-A: Sviluppare soluzioni di calcolo Azure IaaS'
+  description: 'Corso AZ-203T01-A: Sviluppare soluzioni di calcolo Azure IaaS'
+uid: course.az-203t01
+courseNumber: 'AZ-203T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per implementare i servizi e le funzionalità IaaS di Azure nelle soluzioni sviluppate. Verrà spiegato agli studenti come eseguire il provisioning delle macchine virtuali utilizzando Servizio batch per distribuire/eseguire la manutenzione delle risorse e come creare soluzioni con contenitori utilizzando il servizio Kubernetes di Azure.
+  #### Profilo dei destinatari
+  - Gli studenti che decidono di seguire questo corso sono persone interessate a sviluppare soluzioni Azure o a superare l’esame di certificazione Microsoft Azure Developer Associate.
+prerequisitesSection: |-
+  - Gli studenti devono avere almeno 1-2 anni di esperienza nel ruolo di sviluppatore. In questo corso si presuppone che gli studenti sappiano come creare codici e abbiano una conoscenza basilare di Azure.
+  - È consigliabile che gli studenti abbiano una certa esperienza nell’uso di PowerShell o dell’interfaccia della riga di comando di Azure, che abbiano utilizzato il portale di Azure e che conoscano almeno uno dei linguaggi di programmazione supportati da Azure. La maggior parte degli esempi presentati in questo corso sono scritti in linguaggio C# .NET.
+outlineSection: |-
+  ### Modulo 1&#58; Sviluppare soluzioni che utilizzano macchine virtuali
+  Gli studenti imparerano a pianificare correttamente la distribuzione di macchine virtuali. Agli studenti verrà spiegato come creare macchine virtuali utilizzando il portale di Azure, PowerShell e il codice. Verrà loro spiegato anche come creare e utilizzare i modelli ARM (Azure Resource Manager) per distribuzioni ripetute e come utilizzare Crittografia dischi di Azure per proteggere le informazioni sulle macchine virtuali.
+  #### Lezioni
+  - Eseguire il provisioning di macchine virtuali
+  - Creare modelli ARM
+  - Configurare Crittografia dischi di Azure per le macchine virtuali
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Dimostrare come creare e distribuire macchine virtuali utilizzando il portale di Azure, PowerShell e il codice.
+  - Creare e distribuire ARM utilizzando il portale di Azure e Visual Studio.
+  - Descrivere le diverse opzioni per la crittografia e dimostrare come crittografare le distribuzioni nuove ed esistenti.
+
+  ### Modulo 2&#58; Implementare processi batch utilizzando i servizi Azure Batch
+  Azure Batch crea e gestisce un pool di nodi di calcolo (macchine virtuali), installa le applicazioni che l’utente desidera eseguire e programma l’esecuzione dei processi sui nodi.
+  #### Lezioni
+  - Panoramica di Azure Batch
+  - Eseguire un processo batch utilizzando l’interfaccia della riga di comando di Azure e il portale di Azure
+  - Eseguire i processi batch utilizzando il codice
+  - Gestire i processi batch utilizzando l’API del servizio Azure Batch
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare come funziona il servizio Azure Batch
+  - Creare ed eseguire processi batch utilizzando l’interfaccia della riga di comando di Azure
+  - Creare ed eseguire processi batch utilizzando il codice
+  - Utilizzare l’API del servizio Azure Batch per gestire i processi
+
+
+  ### Modulo 3&#58; Creare soluzioni con contenitori
+  È possibile creare ed eseguire applicazioni moderne, portatili e basate su microservizi che sfruttano l’orchestrazione di Kubernetes e che gestiscono la disponibilità dei componenti di tali applicazioni. Kubernetes supporta sia le applicazion stateless che stafeful via via che i team progrediscono con l’adozione di applicazioni basate su micro-servizi.
+  #### Lezioni
+  - Creare un cluster del servizio gestito Azure Kubernetes Service (AKS)
+  - Creare immagini contenitore per le soluzioni
+  - Pubblicare un’immagine nel Registro Azure Container
+  - Eseguire contenitori utilizzando un’istanza di Azure Container o AKS
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i concetti di base di AKS
+  - Spiegare come distribuire i cluster di AKS
+  - Pubblicare un’immagine nel Registro Azure Container
+  - Descrivere le istanze di Azure Container e spiegare come utilizzarle per la distribuzione

@@ -1,0 +1,125 @@
+### YamlMime:Course
+title: Implementare una consegna continua
+metadata:
+  title: 'Corso AZ-400T03-A: Implementare una consegna continua'
+  description: 'Corso AZ-400T03-A: Implementare una consegna continua'
+uid: course.az-400t03
+courseNumber: 'AZ-400T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Distinguere tra un rilascio e una distribuzione
+- skill: Definire i componenti di una pipeline di rilascio
+- skill: Illustrare gli elementi da tenere presenti durante la creazione di una strategia di rilascio
+- skill: Classificare le differenze tra un rilascio e un processo di rilascio e spiegare come controllare la qualità di entrambi
+- skill: Descrivere i principi dei controlli di rilascio e spiegare come gestire le note di rilascio e la documentazione
+- skill: Illustrare i modelli di distribuzione, sia in termini tradizionali che moderni
+- skill: Scegliere uno strumento per la gestione del rilascio
+- skill: Spiegare la terminologia utilizzata in Azure DevOps e in altri strumenti per la gestione del rilascio
+- skill: Spiegare cos’è un’attività di compilazione e rilascio, in cosa consiste e ilustrare alcune delle attività di distribuzione disponibili
+- skill: Classificare un agente, una coda di agenti e un pool di agenti
+- skill: Spiegare perché sono talvolta necessari più processi di rilascio in una pipeline di rilascio
+- skill: Distinguere tra un processo di rilascio con più agenti e configurazioni
+- skill: Utilizzare le variabili di rilascio e test nella pipeline di rilascio
+- skill: Eseguire una distribuzione sicura in un ambiente utilizzando una connessione di servizio
+- skill: Integrare il testing nella pipeline
+- skill: Elencare le diverse modalità che possono essere utilizzate per controllare l’integrità della pipeline e del rilascio utilizzando avvisi, hook del servizio e report
+- skill: Creare un controllo per il rilascio
+- skill: Descrivere i modelli di distribuzione
+- skill: Implementare una distribuzione Blue Green
+- skill: Implementare un rilascio Canary
+- skill: Implementare una distribuzione con esposizione progressiva
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Questo corso fornisce agli studenti le nozioni e le competenze necessarie per implementare la consegna continua. Agli studenti verrà spiegato come progettare una strategia di rilascio, configurare un flusso di lavoro per la gestione del rilascio e implementare un modello di distribuzione appropriato.
+  
+  #### Profilo dei destinatari
+  Gli studenti che decidono di partecipare a questo corso sono persone interessate a implementare i processi DevOps o a sostenere l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
+prerequisitesSection: |-
+  Devono avere conoscenze fondamentali relativamente ad Azure, al controllo delle versioni, allo sviluppo di software Agile e ai principi per lo sviluppo di software di base. È utile che gli studenti abbiano lavorato in una società che fornisce software.
+outlineSection: |-
+  ### Modulo 1&#58; Progettare una strategia di rilascio
+  #### Lezioni
+  - Introduzione alla consegna continua
+  - Raccomandazioni per la strategia di rilascio
+  - Creare una pipeline di rilascio di alta qualità
+  - Scegliere un modello di distribuzione
+  - Scegliere lo strumento appropriato per la gestione del rilascio
+  #### Laboratorio&#58; Creare una strategia di rilascio
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Distinguere tra un rilascio e una distribuzione
+  - Definire i componenti di una pipeline di rilascio
+  - Illustrare gli elementi da tenere presenti durante la creazione di una strategia di rilascio
+  - Classificare le differenze tra un rilascio e un processo di rilascio e spiegare come controllare la qualità di entrambi
+  - Descrivere i principi dei controlli di rilascio e spiegare come gestire le note di rilascio e la documentazione
+  - Illustrare i modelli di distribuzione, sia in termini tradizionali che moderni
+  - Scegliere uno strumento per la gestione del rilascio
+
+
+  ### Modulo 2&#58; Configurare un flusso di lavoro per la gestione del rilascio
+  #### Lezioni
+  - Creare una pipeline di rilascio
+  - Eseguire il provisioning e configurare gli ambienti
+  - Gestire e dividere in moduli le attività e i modelli
+  - Integrare le chiavi private nella pipeline di rilascio
+  - Configurare l’integrazione automatica e l’automazione di test funzionali
+  - Automatizzare il controllo dell’integrità
+
+
+  #### Laboratorio&#58; Automatizzare le distribuzioni dell’infrastruttura nel cloud con Terraform e Azure Pipelines
+
+  #### Laboratorio&#58; Configurare chiavi private nella pipeline con Azure Key Vault
+
+  #### Laboratorio&#58; Configurare ed eseguire test di carico
+
+  #### Laboratorio&#58; Configurare ed eseguire test funzionali
+
+  #### Laboratorio&#58; Utilizzare Monitoraggio di Azure come controllo di rilascio
+
+  #### Laboratorio&#58; Creare una dashboard di rilascio
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare la terminologia utilizzata in Azure DevOps e in altri strumenti per la gestione del rilascio
+  - Spiegare cos’è un’attività di compilazione e rilascio, in cosa consiste e ilustrare alcune delle attività di distribuzione disponibili
+  - Classificare un agente, una coda di agenti e un pool di agenti
+  - Spiegare perché sono talvolta necessari più processi di rilascio in una pipeline di rilascio
+  - Distinguere tra un processo di rilascio con più agenti e configurazioni
+  - Utilizzare le variabili di rilascio e test nella pipeline di rilascio
+  - Eseguire una distribuzione sicura in un ambiente utilizzando una connessione di servizio
+  - Integrare il testing nella pipeline
+  - Elencare le diverse modalità che possono essere utilizzate per controllare l’integrità della pipeline e del rilascio utilizzando avvisi, hook del servizio e report
+  - Creare un controllo per il rilascio
+
+
+  ### Modulo 3&#58; Implementare un modello di distribuzione appropriato
+  #### Lezioni
+  - Introduzione ai modelli di distribuzione
+  - Implementare una distribuzione Blue Green
+  - Attivazione/disattivazione delle funzionalità
+  - Rilasci Canary
+  - Dark Launching
+  - Test AB
+  - Distribuzione con esposizione progressiva
+
+
+  #### Laboratorio&#58; Distribuzioni Blue Green
+
+  #### Laboratorio&#58; Gestione traffico
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i modelli di distribuzione
+  - Implementare una distribuzione Blue Green
+  - Implementare un rilascio Canary
+  - Implementare una distribuzione con esposizione progressiva

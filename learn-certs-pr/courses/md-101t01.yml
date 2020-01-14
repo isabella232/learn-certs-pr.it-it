@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: Distribuire il desktop moderno
+metadata:
+  title: 'Course MD-101T01-A: Distribuire il desktop moderno'
+  description: 'Course MD-101T01-A: Distribuire il desktop moderno'
+uid: course.md-101t01
+courseNumber: 'MD-101T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Sviluppare una strategia per la distribuzione e l’aggiornamento del sistema operativo
+- skill: Descrivere i vari metodi di distribuzione
+- skill: Spiegare in quali scenari possono essere utilizzate le soluzioni locali e basate sul cloud
+- skill: Distribuire ed eseguire la migrazione in Windows 10
+- skill: Pianificare e configurare i criteri per Windows Update
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  I metodi di distribuzione e aggiornamento dei desktop si sono evoluti di pari passo. In questo corso, gli studenti impareranno come pianificare e implementare una strategia per distribuire il sistema operativo. Lo scopo di questo corso è aiutare gli studenti a scoprire i vari metodi disponibile e gli scenari nei quali devono essere utilizzati, nonché come distribuire Windows con metodi moderni. Durante il corso verrà spiegato agli studenti come pianificare e implementare una strategia di aggiornamento per Windows.
+
+  #### Profilo dei destinatari
+  Gli amministratori MDA (Modern Desktop Administrator) si occupano di distribuire, configurare, proteggere, gestire e monitorare i dispositivi e le applicazioni client in un ambiente aziendale. Le loro responsabilità includono gestire le identità, l’accesso, i criteri, gli aggiornamenti e le app. Gli MDA collaborano con l’Amministratore di M365 Enterprise per progettare e implementare una strategia per i dispositivi che soddisfi le esigenze aziendali di un’organizzazione moderna. Gli MDA devono conoscere i carichi di lavoro di M365 e devono essere competenti ed esperti nella distribuzione, configurazione e manutenzione di dispositivi Windows 10 e non Windows. Gli MDA si occupano soprattutto di servizi cloud anziché di tecnologie di gestione locali.
+prerequisitesSection: |-
+  Gli MDA (Modern Desktop Administrator) devono conoscere i carichi di lavoro di M365 e devono
+  essere competenti ed esperti nella distribuzione, configuraione e manutenzione di dispositivi di Windows
+  10 e non Windows. Gli MDA si occupano soprattutto di servizi cloud anziché
+  di tecnologie di gestione locali.
+outlineSection: |-
+  ### Modulo 1&#58; Pianificare una strategia per la distribuzione del sistema operativo
+  Questo modulo spiega come pianificare e implementare una strategia di distribuzione. Il modulo illustra in particolare i vari metodi e scenari per la distribuzione di Windows. Esamina le tecnologie locali e cloud, suggerendo alcune considerazioni per le nuove distribuzioni, gli aggiornamenti e le migrazioni.
+  #### Lezioni
+  - Panoramica di Windows come servizio
+  - Opzioni per la distribuzione di Windows 10
+  - Considerazioni sulla distribuzione di Windows 10
+
+
+  #### Laboratorio&#58; Esercitazione pratica - Pianificare la distribuzione di Windows 10
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere Windows come servizio.
+  - Descrivere i diversi metodi di distribuzione.
+  - Illustrare le differenze tra le soluzioni localii e basate sul cloud.
+  - Descrivere i metodi che possono essere utilizzati per il provisioning dinamico.
+  - Descrivere i vari strumenti disponibili in Windows Assessment and Deployment Kit.
+  - Descrivere gli scenari e le limitazioni per gli aggiornamenti e le migrazioni sul posto.
+
+
+  ### Modulo 2&#58; Implementare Windows 10
+  Questo modulo descrive i moderni metodi innovativi che possono essere utilizzati per distribuire Windows 10, come Windows Autopilot e i pacchetti di provisioning. Nel modulo vengono esaminati anche argomenti come lo strumento utilizzato per pianificare l'aggiornamento, la compatibilità tra le applicazioni e i metodi di migrazione.
+  #### Lezioni
+  - Implementare Windows 10 mediante una distribuzione dinamica
+  - Implementare Windows 10 con Windows Autopilot
+  - Eseguire l’aggiornamento dei dispositivi a Windows 10
+
+
+  #### Laboratorio&#58; Esercitazione pratica - Implementare Windows 10
+  - Creare e distribuire un pacchetto di provisioning
+  - Eseguire la migrazione delle impostazioni degli utenti
+  - Distribuire Windows 10 con AutoPilot
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Sviluppare una strategia per la distribuzione e l’aggiornamento del sistema operativo.
+  - Descrivere i vari metodi di distribuzione.
+  - Spiegare in quali scenari possono essere utilizzate le soluzioni locali e basate sul cloud.
+  - Distribuire ed eseguire la migrazione in Windows 10.
+  - Pianificare e configurare i criteri per Windows Update.
+
+
+  ### Modulo 3&#58; Gestire gli aggiornamenti per Windows 10
+  Questo modulo è dedicato alla gestione degli aggiornamenti a Windows. Viene fornita un’introduzione alle opzioni di manutenzione per Windows 10. Gli studenti impareranno i diversi metodi che possono essere utilizzati per distribuire gli aggiornamenti e come configurare i criteri per l’aggiornamento di Windows.
+  #### Lezioni
+  - Eseguire l'aggiornamento di Windows 10
+  - Windows Update for Business
+  - Introduzione a Windows Analytics
+
+
+  #### Laboratorio&#58; Esercitazione pratica - Gestire gli aggiornamenti per Windows 10
+  - Configurare manualmente le impostazioni di Windows Update
+  - Configurare Windows Update con i GPO
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i canali servizio di Windows 10.
+  - Configurare criteri per Windows Update con i GPO.
+  - Configurare Windows Update for Business per la distribuzione degli aggiornamenti del sistema operativo.
+  - Utilizzare Windows Analytics per valutare l’idoneità all’aggiornamento e la conformità dell’aggiornamento.
+
+
+  ### Modulo 4&#58; Fine del corso
+  #### Lezioni
+  - Esame Finale
+
+
+  #### Laboratorio&#58; Laboratorio con valutazione dei risultati
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare un pacchetto di provisioning.
+  - Configurare una distribuzione di AutoPilot.
+  - Descrivere gli strumenti che possono essere utilizzati per pianificare gli aggiornamenti e le migrazioni.
+  - Descrivere i metodi che possono essere utilizzati per eseguire la migrazione dei dati degli utenti.

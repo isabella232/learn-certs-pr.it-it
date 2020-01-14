@@ -1,0 +1,61 @@
+### YamlMime:Course
+title: Configurazione di Dynamics 365 Field Service
+metadata:
+  title: 'Course MB-240T01-A: Configurazione di Dynamics 365 Field Service'
+  description: 'Course MB-240T01-A: Configurazione di Dynamics 365 Field Service'
+uid: course.mb-240t01
+courseNumber: 'MB-240T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificare i componenti chiave coinvolti nelle implementazioni di Field Service.
+- skill: Definire i prodotti e i servizi che saranno consegnati ai clienti.
+- skill: Determinare quali opzioni di prezzo utilizzare in scenari specifici.
+- skill: Determinare quali risorse sono necessarie.
+- skill: Configurare il sistema per supportare le esigenze di risorse.
+- skill: Definire i problemi comunemente segnalati e modellizzarli per facilitarne il consumo.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Dynamics 365 for Field Service aiuta le organizzazioni a posizionarsi meglio sul mercato fornendo una varietà di strumenti che aiutano a identificare e programmare le risorse e a gestire i carichi di lavoro per i lavoratori mobili. Questo corso fornirà agli studenti le competenze necessarie per identificare e configurare i componenti chiave che vengono utilizzati per fornire Field Service e soluzioni mobili. Gli argomenti chiave includono l'identificazione delle considerazioni organizzative che guideranno le decisioni di configurazione e gli aspetti comuni della configurazione. 
+
+  Questo corso aiuta gli studenti a comprendere meglio il quadro generale e gli obiettivi finali focalizzati sulle implementazioni che aiutano a progettare soluzioni più efficienti che si allineano con gli obiettivi del cliente e dell'organizzazione.
+
+prerequisitesSection: |-
+  Comprensione di base di caratteristiche, funzionalità e navigazione di Dynamics 365.
+outlineSection: |-
+  ### Modulo 1&#58; Configurare Field Service
+  #### Lezioni
+  - Introduzione al Field Service
+  - Definizione di prodotti e servizi
+  - Definizione dei codici tributari
+
+
+  ### Modulo 2&#58; Configurazione della pianificazione delle risorse
+  #### Lezioni
+  - Mappatura e informazioni sulla posizione
+  - Configurazione dei componenti delle risorse
+  - Definizione delle preferenze dell'account
+
+
+  ### Modulo 3&#58; Definizione e configurazione delle risorse prenotabili
+  #### Lezioni
+  - Definire le risorse prenotabili
+  - Pool di risorse, equipaggi e strutture
+
+
+  ### Modulo 4&#58; Utilizzo e configurazione degli incidenti
+  #### Lezioni
+  - Creazione di incidenti
+  - Utilizzo dei compiti di servizio
+  - Definizione di prodotti, servizi e competenze

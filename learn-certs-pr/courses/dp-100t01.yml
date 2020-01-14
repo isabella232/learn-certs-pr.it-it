@@ -1,0 +1,55 @@
+### YamlMime:Course
+title: Progettare e implementare una soluzione di Data Science in Azure
+metadata:
+  title: 'Corso DP-100T01-A: Progettare e implementare una soluzione di Data Science in Azure'
+  description: 'Corso DP-100T01-A: Progettare e implementare una soluzione di Data Science in Azure'
+uid: course.dp-100t01
+courseNumber: 'DP-100T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+- azure-data-science-vm
+exams:
+- uid: exam.dp-100
+summary: |-
+  Questo corso permette agli studenti di acquisire le nozioni necessarie per utilizzare i servizi di Azure per sviluppare, formare e distribuire soluzioni di apprendimento automatico. Il corso inizia con una panoramica dei servizi di Azure che supportano l’analisi scientifica dei dati (data science). Successivamente, nel modulo viene presentato il principale servizio di data science di Azure, ossia Azure Machine Learning, usato per automatizzare la pipeline dell’analisi scientifica. Il corso è incentrato su Azure e non insegna agli studenti come effettuare le analisi scientifiche, perché pressupone che gli studenti lo sappiano già.
+  #### Profilo dei destinatari
+  Questo corso è destinato ai data scientist e a chiunque sia significativamente coinvolto nel fornire formazione per i modelli di apprendimento automatico e nella loro distribuzione.
+prerequisitesSection: |-
+  Prima di partecipare a queso corso, gli studenti devono&#58;
+  - Aver ottenuto la [certificazione Azure Fundamentals](https://docs.microsoft.com/it-it/learn/certifications/azure-fundamentals)
+  - Sapere cos’è l’analisi scientifica, tra cui sapere come preparare i dati, addestrare i modelli e scegliere il modello migliore tra quelli offerti da più produttori
+  - Saper programmare nel linguaggio di programmazione Python e usare le raccolte Python&#58; pandas, scikit-learn, matplotlib e seaborn
+outlineSection: |-
+  ### Modulo 1&#58; Utilizzare l’analisi scientifica in Azure
+  Gli studenti impareranno in cosa consiste il processo di analisi scientifica e in cosa consiste il ruolo di data scientist.  Successivamente, verrà loro spiegato in che modo i servizi di Azure possono supportare e migliorare il processo di analisi scientifica.
+  #### Lezioni
+  - Presentazione del processo di analisi scientifica
+  - Panoramica delle opzioni di Azure Data Science
+  - Presentazione di Azure Notebooks
+  ### Modulo 2&#58; Utilizzare l’analisi scientifica con il servizio Azure Machine Learning
+  Gli studenti impareranno a utilizzare il servizio Azure Machine Learning (AML) per automatizzare in modo professionale il processo di analisi scientifica.
+  #### Lezioni
+  - Presentazione del servizio AML
+  - Registrare e distribuire i modelli di apprendimento automatico con il servizio AML
+
+
+  ### Modulo 3&#58; Automatizzare l’apprendimento automatico con il servizio AML
+  In questo modulo, verrà illustrata agli studenti la pipeline dell’apprendimento automatico e spiegato come AutoML e HyperDrive del servizio AML possono essere utilizzati per automatizzare alcune delle parti più laboriose della pipeline.
+  #### Lezioni
+  - Automatizzare la scelta dei modelli di apprendimento automatico
+  - Automatizzare la regolazione Hyperparameter con HyperDrive
+
+
+  ### Modulo 4&#58; Gestire e monitorare i modelli di apprendimento automatico con il servizio AML
+  In questo modulo gli studenti impareranno come gestire e monitorare automaticamente i modelli di apprendimento automatico nel servizio AML.
+  #### Lezioni
+  - Gestire e monitorare i modelli di apprendimento automatico

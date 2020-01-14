@@ -1,0 +1,391 @@
+### YamlMime:Course
+title: Soluzioni di base di Skype for Business 2015
+metadata:
+  title: 'Corso 20334-C: Soluzioni di base di Skype for Business 2015/2019'
+  description: 'Corso 20334-C: Soluzioni di base di Skype for Business 2015/2019'
+uid: course.20334
+courseNumber: '20334-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere l’architettura di Skype for Business e progettare una topologia Skype for Business.
+- skill: Installare e implementare Skype for Business Server.
+- skill: Amministrare e gestire Skype for Business Server utilizzando i vari strumenti disponibili.
+- skill: Progettare e implementare client e utenti in Skype for Business.
+- skill: Impostare le conferenze in Skype for Business Server.
+- skill: Progettare e impostare opzioni aggiuntive per le conferenze.
+- skill: Progettare e implementare il monitoraggio e l’archiviazione in Skype for Business.
+- skill: Progettare e implementare la connettività per le organizzazioni e gli utenti esterni.
+- skill: Implementare il VoIP aziendale in Skype for Business Server.
+- skill: Pianificare e implementare l’alta disponibilità in Skype for Business.
+- skill: Progettare e implementare scenari di ripristino di emergenza per Skype for Business.
+- skill: Progettare e distribuire una soluzione ibrida di Skype for Business.
+- skill: Pianificare e implementare la migrazione a Skype for Business Server 2019 o Microsoft Teams.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-334
+summary: |-
+  Questo corso fornisce agli studenti le nozioni e le competenze necessarie per pianificare, distribuire, configurare e amministrare una soluzione Microsoft Skype for Business. Agli studenti verrà spiegato come distribuire un’infrastruttura Skype for Business con più siti e ad alta disponibilità in grado di supportare la messaggistica istantanea (IM), le conferenze, VoIP, l’archiviazione e il monitoraggio. Gli studenti impareranno anche come gestire, eseguire la manutenzione e risolvere i problemi dell’infrastruttura.
+  
+  Questo corso è dedicato in particolare alla distribuzione locale di Skype for Business, ma non fornisce informazioni su come integrare la distribuzione locale con Teams o Skype for Business Online né su come eseguire la migrazione dalle versioni precedenti di Skype for Business Server. Questo corso aiuta gli studenti a prepararsi per l’Esame 70-334&#58; Soluzioni di base di Skype for Business 2015.
+
+  #### Profilo dei destinatari
+  I destinatari principali di questo corso sono professionisti IT che si occupano di distribuire Skype for Business all’interno delle loro organizzazioni. Avere esperienza nell’uso delle versioni precedenti è utile, ma non è un requisito obbligatorio per gli studenti che seguono questo corso. Gli studenti devono conoscere bene i servizi di dominio Active Directory (AD DS), le reti di dati, gli standard per le telecomunicazioni e i componenti che supportano la configurazione di Skype for Business. Devono anche conoscere Microsoft Exchange Server e Microsoft 365.
+  
+  Il corso è indicato anche per i professionisti IT che prevedono di sostenere l’Esame 70- 334&#58; Soluzioni di base di Skype for Business 2015, sia come esame a sé stante che per potere successivamente sostenere l’esame di certificazione Microsoft Certified Solutions Expert (MCSE)&#58; Comunicazioni.
+prerequisitesSection: |-
+  Oltre alla propria esperienza professionale, i candidati che decidono di seguire questo corso di formazione devono già possedere le seguenti conoscenze tecniche&#58;
+  - Almeno due anni di esperienza nell’amministrazione di Windows Server, compresi Windows Server 2016 o Windows Server 2019.
+  - Almeno due anni di esperienza nell’uso di AD DS.
+  - Almeno due anni di esperienza nell’uso della risoluzione dei nomi, compreso Domain Name System (DNS).
+  - Esperienza nell’uso di certificati, tra cui i certificati PKI (Public Key Infrastructure).
+  - Essere esperti nell’uso di Windows PowerShell.
+  - Conoscere le reti di dati, gli standard per le telecomunicazioni e i relativi componenti.
+outlineSection: |-
+  ### Modulo 1&#58; Progettare e sviluppare l’architettura di Skype for Business Server 2015
+  Questo modulo illustra i componenti e le funzionalità di alto livello di Skype for Business 2015. Spiega anche come usare gli strumenti di amministrazione di Skype for Business, illustra i componenti principali di Skype for Business Online e spiega anche come usare contemporaneamente i server locali di Skype for Business Server 2015.
+  #### Lezioni
+  - Panoramica dei componenti e delle funzionalità di Skype for Business
+  - Introduzione agli strumenti di amministrazione di Skype for Business
+
+
+  #### Laboratorio&#58; Progettare e pubblicare una topologia di Skype for Business Server
+  - Progettare e creare la topologia
+  - Aggiornare la topologia per il sito Web di New York
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i componenti e le funzionalità di alto livello di Skype for Business 2015.
+  - Utilizzare gli strumenti di amministrazione di Skype for Business.
+
+
+  ### Modulo 2&#58; Installare e implementare Skype for Business Server 2015
+  Questo modulo illustra le dipendenze esterne di Skype for Business Server. Descrive i requisiti del dominio SIP (Session Initiation Protocol) che devono essere soddisfatti per completare con successo l’implementazione. Spiega inoltre come installare Skype for Business Server e come questa applicazione si integra con Exchange Server e Microsoft SharePoint Server.
+  #### Lezioni
+  - Dipendenze del server e dei servizi
+  - Pianificare i domini SIP
+  - Installare Skype for Business Server
+  - Integrare Skype for Business Server con Exchange Server e SharePoint Server
+
+
+  #### Laboratorio&#58; Configurare DNS e URL semplici per Skype for Business Server
+  - Configurare i record DNS e gli URL semplici obbligatori per Skype for Business Server
+
+
+  #### Laboratorio&#58; Distribuire Skype for Business Server
+  - Installare e configurare Skype for Business Server
+  - Installare i certificati di Skype for Business Server
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Identificare le dipendenze esterne di Skype for Business Server 2015.
+  - Identificare i requisiti del dominio SIP che devono essere soddisfatti per completare con successo l’implementazione.
+  - Installare Skype for Business Server.
+  - Spiegare come Skype for Business Server si integra con Exchange Server e SharePoint Server.
+
+
+  ### Modulo 3&#58; Amministrare Skype for Business Server 2015
+  Questo modulo spiega come amministrare e gestire Skype for Business Server tramite il Pannello di controllo di Skype for Business Server e Skype for Business Server Management Shell. Spiega inoltre come creare script utili per automatizzare i processi in Skype for Business. Infine, spiega come implementare il controllo dell'accesso in base ai ruoli (RBAC) in Skype for Business, nonché come usare i cmdlet e gli strumenti di testing per risolvere i problemi di Skype for Business.
+
+  #### Lezioni
+  - Utilizzare il Pannello di controllo di Skype for Business Server
+  - Utilizzare Skype for Business Server Management Shell
+  - Implementare il controllo dell'accesso in base ai ruoli
+  - Utilizzare i cmdlet di testing
+  - Utilizzare gli strumenti per la risoluzione dei problemi di Skype for Business
+
+
+  #### Laboratorio&#58; Utilizzare gli strumenti di amministrazione per gestire Skype for Business Server
+  - Installare gli strumenti di amministrazione di Skype for Business in un client Windows 10
+  - Utilizzare il Pannello di controllo di Skype for Business Server
+  - Utilizzare Skype for Business Server Management Shell
+
+
+  #### Laboratorio&#58; Utilizzare gli strumenti per la risoluzione dei problemi di Skype for Business
+  - Utilizzare i cmdlet di Skype for Business Server Management Shell per creare una struttura RBAC
+  - Utilizzare un servizio di registrazione centralizzato
+  - Eseguire un’acquisizione di rete con Analizzatore messaggi
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Utilizzare il Pannello di controllo di Skype for Business Server.
+  - Utilizzare Skype for Business Server Management Shell.
+  - Implementare una struttura RBAC in Skype for Business 2015.
+  - Utilizzare i cmdlet importanti per il testing.
+  - Utilizzare vari strumenti per risolvere i problemi di Skype for Business.
+
+
+  ### Modulo 4&#58; Configurare gli utenti e i client in Skype for Business 2015
+  Questo modulo spiega come configurare gli utenti utilizzando il Pannello di controllo di Skype for Business Server e Skype for Business Server Management Shell. Spiega anche come distribuire i client di Skype for Business e illustra le procedure di login, registrazione e autenticazione per tali client. Spiega inoltre come configurare i criteri in banda e per i gruppi, nonché come configurare la rubrica di Skype for Business.
+
+  #### Lezioni
+  - Configurare gli utenti
+  - Distribuire Skype for Business Client
+  - Eseguire la registrazione, l’accesso e l’autenticazione
+  - Configurare i criteri per Skype for Business Client
+  - Gestire la rubrica di Skype for Business
+
+
+  #### Laboratorio&#58; Configurare utenti e client in Skype for Business 2015
+  - Abilitare gli utenti di Skype for Business con Management Shell
+  - Risolvere i problemi relativi al login degli utenti
+
+
+  #### Laboratorio&#58; Configurare i criteri e la rubrica in Skype for Business Server
+  - Configurare i criteri per i client
+  - Configurare la rubrica
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare gli utenti utilizzando il Pannello di controllo di Skype for Business Server e
+  Skype for Business Server Management Shell.
+
+  - Distribuire i client di Skype for Business.
+
+  - Illustrare la procedura di registrazione, login e autenticazione per i client di
+  Skype for Business.
+
+  - Configurare i criteri in banda e per i gruppi.
+
+  - Spiegare come gestire la rubrica di Skype for Business.
+
+
+  ### Modulo 5&#58; Configurare e implementare le conferenze in Skype for Business 2015
+  Questo modulo descrive le funzionalità e le modalità per le conferenze Skype for Business. Spiega come integrare Skype for Business Server 2015 con Office Online Server, nonché come pianificare l’utilizzo della larghezza di banda per le conferenze. Infine, spiega come configurare le impostazioni e i criteri per le conferenze.
+  #### Lezioni
+  - Introduzione alle conferenze in Skype for Business 2015
+  - Integrare Skype for Business Server con Office Online Server
+  - Pianificare la larghezza di banda
+  - Configurare le impostazioni per le conferenze
+
+
+  #### Laboratorio&#58; Installare e configurare Office Online Server
+  - Installare Office Online Server
+
+
+  #### Laboratorio&#58; Configurare le conferenze in Skype for Business Server
+  - Configurare, assegnare e convalidare i criteri per le conferenze
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le funzionalità e le modalità per le conferenze di Skype for Business.
+
+  - Integrare Skype for Business Server 2015 con Office Web Apps Server.
+
+  - Pianificare l’utilizzo della larghezza di banda per le conferenze.
+
+  - Configurare le impostazioni e i criteri per le conferenze.
+
+
+  ### Modulo 6&#58; Implementare opzioni aggiuntive per le conferenze in Skype for Business Server 2015
+  Questo modulo illustra il ciclo di vita per le conferenze e spiega come amministrarlo. Spiega anche come usare i criteri per le conferenze e le riunioni, oltre a come distribuire le conferenze con accesso dall’esterno e configurare l’infrastruttura per SRS. Infine, spiega come configurare riunioni di grandi dimensioni e trasmissioni Skype Meeting Broadcast.
+
+  #### Lezioni
+  - Panoramica del ciclo di vita delle conferenze
+  - Progettare e configurare i criteri per le conferenze audio, le videoconferenze e le conferenze Web
+  - Distribuire le conferenze con accesso dall’esterno
+  - Configurare un SRS
+  - Configurare riunioni di grandi dimensioni e trasmissioni Skype Meeting Broadcast
+
+
+  #### Laboratorio&#58; Implementare e risolvere i problemi relativi ai criteri per le conferenze
+  - Creare e modificare i criteri per le conferenze
+  - Risolvere i problemi relativi ai criteri per le conferenze
+
+
+  #### Laboratorio&#58; Configurare modalità aggiuntive per le conferenze
+  - Distribuire le conferenze con accesso dall’esterno
+  - Preparare la distribuzione di LRS
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Amministrare il ciclo di vita delle conferenze.
+
+  - Configurare i criteri per le conferenze e le riunioni.
+
+  - Distribuire conferenze con accesso dall’esterno.
+
+  - Configurare l’infrastruttura per Lync Room System (LRS).
+
+  - Configurare riunioni di grandi dimensioni e trasmissioni Skype Meeting Broadcast.
+
+
+  ### Modulo 7&#58; Progettare e implementare il monitoraggio e l’archiviazione in Skype for Business 2015
+  Questo modulo illustra i componenti del servizio di monitoraggio di Skype for Business Server. Descrive anche l’archiviazione e spiega come progettare i criteri per l’archiviazione. Infine, spiega come implementare l’archiviazione.
+  #### Lezioni
+  - Componenti del servizio di monitoraggio
+  - Panoramica dell’archiviazione
+  - Progettare criteri per l’archiviazione
+  - Implementare l’archiviazione
+
+
+  #### Laboratorio&#58; Implementare il monitoraggio
+  - Attivare i report di monitoraggio
+
+
+  #### Laboratorio&#58; Implementare l’archiviazione
+  - Abilitare l’archiviazione di Skype for Business Server in Microsoft Exchange Server 2013
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i componenti del servizio di monitoraggio di Skype for Business Server.
+
+  - Implementare il monitoraggio.
+
+  - Progettare criteri per l’archiviazione.
+
+  - Implementare l’archiviazione.
+
+
+  ### Modulo 8&#58; Distribuire l’accesso esterno in Skype for Business 2015
+  Questo modulo descrive i componenti per l’accesso esterno. Quindi, spiega come configurare i criteri per l’accesso esterno, la sicurezza e i certificati e come configurare un proxy inverso. Inoltre, descrive come configurare Skype for Business Server 2015 per i client mobili. Infine, spiega come progettare e configurare la federazione in Skype for Business Server.
+  #### Lezioni
+  - Panoramica dell’accesso esterno
+  - Configurare i criteri e la sicurezza per l’accesso esterno
+  - Configurare la rete e i certificati per l’accesso esterno
+  - Configurare un proxy inverso
+  - Progettare la mobilità in Skype for Business Server
+  - Progettare la federazione in Skype for Business Server
+
+
+  #### Laboratorio&#58; Progettare e implementare l’accesso utenti esterno
+  - Definire il server perimetrale nella topologia
+  - Installare e configurare il server perimetrale
+
+
+  #### Laboratorio&#58; Installare i componenti per gli utenti esterni
+  - Installare e configurare un proxy inverso
+  - Convalidare la messaggistica esterna
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Identificare i componenti per l’accesso esterno.
+
+  - Configurare i criteri e la sicurezza per l’accesso esterno.
+
+  - Configurare la rete e i certificati per l’accesso esterno.
+
+  - Configurare un proxy inverso.
+
+  - Configurare Skype for Business Server 2015 per i client mobili.
+
+  - Progettare e configurare la federazione in Skype for Business Server.
+
+
+  ### Modulo 9&#58; Implementare il server Chat persistente in Skype for Business 2015
+  Questo modulo spiega come progettare una topologia di Skype for Business 2015 che includa il server Chat persistente. Spiega anche come distribuire il server Chat persistente in Skype for Business. Infine, spiega come configurare e gestire il server Chat persistente.
+  #### Lezioni
+  - Progettare una topologia per il server Chat persistente
+  - Distribuire il server Chat persistente
+  - Configurare e gestire il server Chat persistente
+
+
+  #### Laboratorio&#58; Progettare e implementare il server Chat persistente
+  - Configurare la topologia per il server Chat persistente
+  - Installare il server Chat persistente
+  - Registrare una nuova aggiunta
+
+
+  #### Laboratoro&#58; Configurare e utilizzare il server Chat persistente
+  - Configurare chat room e criteri
+  - Convalidare la distribuzione del server Chat persistente
+  - Risolvere i problemi relativi al server Chat persistente
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare una topologia di Skype for Business che includa il server Chat persistente.
+
+  - Distribuire il server Chat persistente in Skype for Business.
+
+  - Configurare e gestire il server Chat persistente in Skype for Business.
+
+
+  ### Modulo 10&#58; Implementare l’alta disponibilità in Skype for Business 2015
+  Questo modulo spiega come progettare e implementare una soluzione ad alta disponibilità per i server front-end e back-end in un ambiente Skype for Business Server. Spiega anche come progettare e implementare una soluzione ad alta disponibilità per gli archivi dei file, i server perimetrali, i Mediation Server, i server farm di Office Online e i server proxy inversi in un ambiente Skype for Business Server.
+
+  #### Lezioni
+  - Pianificare l’alta disponibilità per i pool front-end
+  - Pianificare l’alta disponibilità per i pool back-end
+  - Alta disponibilità per altri componenti server
+
+
+  #### Laborario&#58; Configurazione prima del laboratorio
+  - Preparare il laboratorio
+
+
+  #### Laboratorio&#58; Implementare l’alta disponibilità
+  - Gestire i pool front-end
+  - Configurare il bilanciamento del carico a livello di hardware
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare e implementare una soluzione ad alta disponibilità per i server front-end in un
+  ambiente Skype for Business Server.
+
+  - Progettare e implementare una soluzione ad alta disponibilità per i server back-end in un
+  ambiente Skype for Business Server.
+
+  - Progettare e implementare una soluzione ad alta disponibilità per gli archivi di file, i server
+  perimetrali, i Mediation Server, le farm di server di Office online e i server proxy
+  inversi in un ambiente Skype for Business Server.
+
+
+  ### Modulo 11&#58; Implementare il ripristino di emergenza in Skype for Business 2015
+  Questo modulo illustra le opzioni per il ripristino di emergenza in Skype for Business Server, come l’abbinamento di pool front-end e pool estesi di server Chat persistente. Spiega anche come implementare il ripristino di emergenza in Skype for Business Server. Inoltre, illustra le opzioni per il ripristino di emergenza per il server Chat persistente, l'archivio di gestione centrale, il database LIS (Location Information Service) e i dati utente.
+  #### Lezioni
+  - Opzioni per il ripristino di emergenza in Skype for Business Server
+  - Implementare il ripristino di emergenza in Skype for Business Server
+  - Ulteriori opzioni per il ripristino di emergenza in Skype for Business Server
+
+
+  #### Laboratorio&#58; Implementare ed eseguire il ripristino di emergenza
+  - Configurare l’abbinamento dei pool
+  - Eseguire il failover e il fallback dei pool
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le opzioni per il ripristino di emergenza in Skype for Business Server.
+
+  - Implementare il ripristino di emergenza in Skype for Business Server.
+
+  - Descrivere le opzioni per il ripristino d’emergenza del server Chat persistente, dell’archivio
+  di gestione centrale, del database LIS (Location Information Service) e dei dati
+  utente.
+
+
+  ### Modulo 12&#58; Integrare con Skype for Business Online
+  Questo modulo illustra le funzionalità di Skype for Business Online. Spiega poi come preparare un ambiente locale per una distribuzione ibrida di Skype for Business. Spiega anche come configurare una distribuzione ibrida di Skype for Business.
+  #### Lezioni
+  - Panoramica di Skype for Business Online
+  - Preparare una distribuzione ibrida di Skype for Business
+  - Configurare un ambiente ibrido di Skype for Business
+
+
+  #### Laboratorio&#58; Progettare una distribuzione ibrida di Skype for Business
+  - Progettare un ambiente ibrido di Skype for Business
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le funzionalità di Skype for Business Online.
+
+  - Preparare un ambiente locale per una distribuzione ibrida di Skype for Business.
+
+  - Configurare una distribuzione ibrida di Skype for Business.
+
+
+  ### Modulo 13&#58; Pianificare e implementare l’aggiornamento a Skype for Business Server 2015
+  Questo modulo spiega come pianificare una migrazione side-by-side da Lync Server 2010 e Lync Server 2013 a Skype for Business Server 2015. Spiega anche come eseguire un aggiornamento sul posto da Lync Server 2013 a Skype for Business Server.
+  #### Lezioni
+  - Panoramica dei percorsi di aggiornamento e migrazione
+  - Eseguire la migrazione a Skype for Business 2015
+  - Eseguire l’aggiornamento sul posto a Skype for Business Server 2015
+
+
+  #### Laboratorio&#58; Eseguire l’aggiornamento sul posto da Lync Server 2013 a Skype for Business Server 2015
+  - Installare gli strumenti di amministrazione di Skype for Business
+  - Eseguire l’aggiornamento sul posto da Lync Server 2013 a Skype for Business Server 2015
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i percorsi di migrazione e aggiornamento supportati per Skype for Business
+  Server.
+
+  - Eseguire l’aggiornamento sul posto da Lync Server 2013 a Skype for Business
+  Server.
+
+  - Descrivere come gestire l’esperienza utente durante un aggiornamento.

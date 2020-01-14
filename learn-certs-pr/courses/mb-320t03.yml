@@ -1,0 +1,90 @@
+### YamlMime:Course
+title: Configurare e utilizzare produzione di processo in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-320T03-A: Configurare e utilizzare produzione di processo in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T03-A: Configurare e utilizzare produzione di processo in Dynamics 365 for Finance and Operations'
+uid: course.mb-320t03
+courseNumber: 'MB-320T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per gestire in modo più intelligente le operazioni connesse selezionando i processi di produzione più adatti, migliorando le procedure operative, semplificando la gestione delle risorse, accelerando la consegna dei prodotti e aumentando la qualità e la soddisfazione dei clienti.
+  Questo corso informa su come configurare e utilizzare la produzione di processo in Dynamics 365 for Finance and Operations.
+
+prerequisitesSection: |-
+  Comprensione di base dei concetti di ERP e CRM.
+outlineSection: |-
+  ### Modulo 1&#58; Operazioni preliminari per la produzione di processo
+  Questo modulo spiega come iniziare la produzione di processo in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Comprendere la produzione di processo
+  - Comprendere la gestione delle formule
+  - Capire co-prodotti e sottoprodotti
+  - Configurare i fornitori approvati
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Comprendere la produzione di processo
+  - Comprendere la gestione delle formule
+  - Capire co-prodotti e sottoprodotti
+  - Capire i fornitori approvati
+
+
+  ### Modulo 2&#58; Identificare e configurare gli attributi dei lotti per la produzione di processo
+  Questo modulo spiega come configurare gli attributi dei lotti in Finance and Operations.
+
+  #### Lezioni
+  - Introduzione
+  - Identificare e configurare gli attributi del lotto
+  - Creare e configurare articoli con peso variabile
+  - Impostare la gestione della potenza
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Capire gli attributi dei lotti
+  - Identificare e configurare gli attributi del lotto
+  - Conoscere i processi di controllo dei lotti e dei batch
+  - Configurare la rilavorazione dei lotti
+
+
+  ### Modulo 3&#58; Configurazione dei prezzi delle commodity e della conformità dei prodotti
+  Questo modulo spiega come lavorare con i prezzi dell commodity e la conformità in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Configurare i prezzi delle commodity
+  - Configurare la conformità dei prodotti
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare i prezzi delle commodity
+  - Configurare la conformità dei prodotti
+
+
+  ### Modulo 4&#58; Fine del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+
+
+  Gli studenti avranno completato il corso.

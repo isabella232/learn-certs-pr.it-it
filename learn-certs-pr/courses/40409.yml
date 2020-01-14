@@ -1,0 +1,328 @@
+### YamlMime:Course
+title: Distribuire carichi di lavoro vocali per Skype for Business Online e Server 2015
+metadata:
+  title: 'Corso 40409-A: Distribuire carichi di lavoro vocali per Skype for Business Online e Server 2015'
+  description: 'Corso 40409-A: Distribuire carichi di lavoro vocali per Skype for Business Online e Server 2015'
+uid: course.40409
+courseNumber: '40409-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere i vari carichi di lavoro vocali disponibili in Skype for Business Online e Skype for Business Server 2015.
+- skill: Valutare se una rete è pronta per l’installazione di una soluzione vocale Skype for Business Server 2015 o Skype for Business Online.
+- skill: Distribuire o configurare una soluzione vocale Skype for Business che combini Skype for Business Online e VoIP aziendale di Skype for Business.
+- skill: Distribuire e configurare Cloud PBX con chiamate PSTN.
+- skill: Configurare una funzionalità VoIP aziendale locale.
+- skill: Distribuire e configurare Cloud PBX con connettività PSTN locale.
+- skill: Integrare Skype for Business Server 2015 con infrastrutture vocali non Microsoft.
+- skill: Pianificare e distribuire Cloud Connector Edition.
+- skill: Configurare funzionalità che estendano la funzionalità di VoIP aziendale di Skype for Business (locale), come i server Informazioni di percorso e i Gruppi di risposta.
+- skill: Ottimizzare le comunicazioni vocali su una rete TCP/IP.
+- skill: Utilizzare Call Quality Methodology e gli strumenti di monitoraggio e i report di Skype for Business Server 2015.
+- skill: Risolvere i problemi relativi alle comunicazioni vocali di Skype for Business Online e VoIP di Skype for Business Server 2015 (locale).
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-333
+summary: |-
+  Questo corso con istruttore di cinque giorni spiega agli studenti come pianificare e distribuire le varie soluzioni vocali disponibili in Skype for Business Online e Skype for Business Server 2015. Il corso permette agli studenti di acquisire le nozioni e le competenze necessarie per configurare e gestire Cloud PBX con chiamate PSTN, Cloud PBX con connettività PSTN locale, Cloud Connector Edition e una soluzione VoIP aziendale locale. Questo corso descrive anche le procedure, le linee guide, le procedure ottimali e altre considerazioni importanti che permetteranno agli studenti di implementare, ottimizzare e risolvere i problemi relativi alle soluzioni vocali Skype for Business Online e Skype for Business Server 2015. Questo corso aiuta gli studenti a prepararsi per l’esame Microsoft 70-333 “Distribuire una soluzione VoIP aziendale con Skype for Business 2015”.
+  #### Profilo dei destinatari
+  Questo corso è pensato per i consulenti IT e gli esperti di telecomunicazioni che si occupano di progettare, pianificare, distribuire ed eseguire la manutenzione di soluzioni per le comunicazioni unificate (UC) e che hanno l’esigenza di convertire i requisiti aziendali in architetture e progetti tecnici per le soluzioni UC. Il corso è indicato anche per il personale di supporto, responsabile della manutenzione delle soluzioni UC. Gli studenti devono conoscere le tecnologie di Skype for Business Server 2015 o Lync Server 2013, gli standard applicabili alle telecomunicazioni e i componenti di rete che supportano la configurazione e la distribuzione delle architetture di Skype for Business.
+prerequisitesSection: |-
+  - Esperienza nell’uso delle tecnologie Skype for Business Server 2015 o Lync Server 2013 e familiarità con gli scenari di migrazione supportati.
+  - Competenza nella pianificazione e nella distribuzione di soluzioni Skype for Business Server 2015 e Skype for Business Online per gli utenti finali, nonché nozioni sui dispositivi endpoint, la telefonia, le conferenze audio/video e Web, la sicurezza, l’alta disponibilità e il ripristino di emergenza.
+  - Capacità di monitorare e risolvere i problemi relativi a Skype for Business Server 2015 a livello di base utilizzando gli strumenti di monitoraggio e risoluzione dei problemi di Microsoft (Snooper, servizio di registrazione centrale (CLS), KHI (Key Health Indicators)).
+  - Conoscenza approfondita dei servizi di dominio di Active Directory, delle reti di dati, dei servizi di dominio di Azure Active Directory, della sincronizzazione delle directory, degli standard applicabili alle telecomunicazioni e dei componenti di rete che supportano la configurazione e la distribuzione delle architetture di Skype for Business.
+  - Familarità con i requisiti e le procedure per l’integrazione di Skype for Business Server 2015 con Microsoft Exchange Server e Office 365.
+  - Conoscenza delle seguenti tecnologie&#58; Windows, Windows Server e Hyper-V, QoS, TCP/IP, bilanciamento del carico di rete, PowerShell, protocollo SIP (Session Initiation Protocol) (concetti di telefonia di base tra cui trunking SIP, gateway, interconnessioni SBC (Session Border Controller) e architetture di distribuzione dei centraline telefoniche private (PBX).
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione ai carichi di lavoro vocali
+  Per progettare una soluzione vocale Skype for Business, è necessario conoscere molte tecnologie. I più recenti servizi vocali basati su cloud di Microsoft consentono ai clienti di distribuire una soluzione vocale all’interno delle loro organizzazioni con maggiore flessibilità. Tuttavia, tale flessibilità comporta una maggiore complessità di cui è necessario conto. Questo modulo presenta i concetti VoIP di base, l’evoluzione delle tecnologie di telefonia iniziali, i servizi di Office 365 e l’ingresso di Microsoft nel mondo della tecnologia vocale. Agli studenti verranno presentate le soluzioni vocali locali e basate su cloud attualmente disponibili nel set di prodotti di Skype for Business.
+  #### Lezioni
+  - Panoramica delle soluzioni vocali
+  - Progettare carichi di lavoro vocali
+  - Ecosistema di Skype for Business
+  - Concetti SIP di base e instradamento
+  #### Laboratorio&#58; Personalizzare l’ambiente del laboratorio
+  - Configurare l’organizzazione locale
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le diverse opzioni disponibili nelle possibili architetture vocali offerte con Skype for Business Server 2015 e Skype for Business Online.
+  - Spiegare come le tecnologie cloud stanno cambiando la progettazione, distribuzione e gestione delle architetture vocali.
+  - Descrivere le loro esperienze precedenti alla loro partecipazione al corso.
+
+
+  ### Modulo 2&#58; Valutare le opzioni per la distribuzione delle soluzioni di rete e vocali
+  In questo modulo, gli studenti impareranno a eseguire una valutazione della rete per determinare se è pronta per l’implementazione di Skype for Business Server 2015 o Skype for Business Online. Questo modulo corrisponde alla fase di pianificazione di Skype Operations Framework (SOF). Nello specifico, il modulo è allineato con le fasi Immaginare, Valutare e Progettare. Verranno descritte le funzioni e funzionalità di Skype for Business Online e Skype for Business Server 2015. Agli studenti verrà spiegato anche quali sono le architetture supportate da Skype for Business Online e Skype for Business Server 2015.
+  #### Lezioni
+  - Pianificare e valutare la rete
+  - Funzioni e funzionalità di Skype for Business
+  - Pianificare una soluzione Cloud PBX
+
+
+  #### Laboratorio&#58; Configurare la federazione delle identità con Office 365
+  - Aggiungere un dominio personalizzato e abilitare la sincronizzazione delle directory in Office 365
+  - Eseguire la sincronizzazione delle directory
+  - Installare e configurare Active Directory Federation Services
+  - Abilitare SSO (Single Sign-On) con Office 365
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le fasi della valutazione della rete.
+  - Identificare i piani di Skype for Business Online.
+  - Descrivere le architetture vocali supportate.
+  - Scegliere un’architettura vocale per un determinato scenario.
+
+
+  ### Modulo 3&#58; Dividere la configurazione del dominio
+  In questo modulo gli studenti impareranno cosa significa il termine dominio diviso e a cosa si riferisce in relazione al prodotto Skype for Business. Agli studenti verranno descritti anche i vantaggi derivanti dall’utilizzo di un dominio diviso e i pre-requisiti per la distribuzione di questo ambiente. Verrà inoltre spiegato loro come eseguire il provisioning degli utenti dopo la configurazione di questo ambiente. Infine, verranno fornite informazioni su come risolvere i problemi comuni.
+
+  #### Lezioni
+  - Panoramica del dominio diviso
+  - Requisiti del dominio diviso
+  - Distribuzione del dominio diviso
+  - Provisioning e migrazione degli utenti
+  - Risoluzione dei problemi relativi al dominio diviso
+
+
+  #### Laboratorio&#58; Impostare un dominio diviso con Skype for Business Online
+  - Impostare un dominio diviso con Skype for Business Online
+  - Spostare gli utenti in Skype for Business Online
+  - Verificare l’esperienza utente associata all’utilizzo del dominio diviso con Skype for Business
+  - Gestire gli utenti in Skype for Business Online
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di distribuire e configurare un ambiente in cui gli utenti di un dominio vengono divisi e utilizzano alternativamente Skype for Business Server 2015 e Skype for Business Online.
+
+  ### Modulo 4&#58; Cloud PBX con chiamate PSTN e servizi di conferenza
+  Cloud PBX è una soluzione PBX basata su Microsoft offerta con Office 365. Cloud PBX permette alle organizzazioni di eliminare la loro infrastruttura PBX esistente e di eseguire la migrazione della funzionalità PBX e dei numeri telefonici esistenti in Office 365. Le chiamate PSTN (Public Switch Telephone Network) forniscono agli utenti una connessione PSTN che può essere utilizzata tramite i piani di chiamata Microsoft. I servizi di conferenza PSTN sono stati integrati nella funzionalità per le riunioni di Skype for Business Online di Office 365. Permettono agli utenti di creare, gestire e ospitare le loro riunioni online integrando PSTN per consentire l’accesso con un numero esterno.
+  #### Lezioni
+  - Funzionalità di Cloud PBX con chiamate PSTN
+  - Funzionalità per i servizi di conferenza e le riunioni PSTN
+  - Conferenze con numero di accesso esterno con Skype for Business Server 2015
+
+
+  #### Laboratorio&#58; Configurare Cloud PBX con chiamate PSTN
+  - Abilitare gli utenti all’utilizzo delle chiamate PSTN in Skype for Business Online
+  - Utilizzare le funzionalità per le chiamate PSTN online
+  - Abilitare gli utenti all’utilizzo dei servizi di conferenza PSTN cloud
+  - Utilizzare i servizi di conferenza PSTN in Skype for Business Online
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le funzionalità e i servizi di conferenza di Cloud PBX con chiamate PSTN
+  - Distribuire e configurare le funzionalità per le chiamate e le riunioni
+  - Distribuire e configurare Servizi di conferenza PSTN
+
+
+  ### Modulo 5&#58; VoIP aziendale (locale)
+  Questo modulo descrive VoIP aziendale di Skype for Business Server 2015. VoIP aziendale è una soluzione per le comunicazioni unificate inclusa in Skype for Business 2015. Permette alle organizzazioni di effettuare e ricevere chiamate tramite la rete telefonica pubblica commutata (PSTN). Agli studenti verrà spiegato come configurare i componenti vocali come i piani di chiamate, i criteri vocali e i percorsi, che sono parte integrante della soluzione VoIP aziendale.
+  #### Lezioni
+  - Progettare un servizio VoIP aziendale
+  - Configurare un servizio VoIP aziendale
+  - Routing vocale
+  - Assegnare numeri telefonici
+  - Configurare il client
+  - Messaggistica unificata
+
+
+  #### Laboratorio&#58; Configurare un servizio VoIP aziendale
+  - Creare un’espressione regolare
+  - Configurare i piani di chiamata
+  - Configurare criteri vocali, l’utilizzo della rete telefonica pubblica commutata e il percorso
+  - Assegnare piani di chiamata e criteri
+  - Testare il routing vocale
+  - Configurare il piano di chiamata di Londra
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare e implementare un servizio VoIP con Skype for Business.
+  - Configurare le impostazioni del servizio VoIP aziendale, tra cui i piani di chiamata, i criteri vocali, l’utilizzo della rete telefonica pubblica commutata, i percorsi vocali, i trunk e i piani di numerazione per DID e gli interni.
+  - Descrivere il routing vocale di Skype for Business.
+  - Integrare il Servizio messaggistica unificata di Exchange con Skype for Business Server 2015.
+  - Configurare le funzionalità vocali del client di Skype for Business.
+
+
+  ### Modulo 6&#58; Connettività PSTN
+  Per le organizzazioni di successo è fondamentale permettere ai dipendenti, clienti e partner di comunicare. Perché ciò accada, le organizzazioni devono consentire ai loro sistemi di comunicazione interni, come Skype for Business Server 2015, di comunicare con la rete telefonica pubblica commutata utilizzando un centrale telefonica pubblica (PBX), un gateway o un provider di servizi Internet (ISP). Il collegamento alla rete telefonica pubblica commutata permette agli utenti aziendali di effettuare e ricevere chiamate da numeri esterni utilizzando lo stesso client di Skype for Business utilizzato per le chiamate interne. In questo modo, i dipendenti possono anche sfruttare le numerose funzionalità di Skype for Business per migliorare le loro comunicazioni con gli utenti esterni collegati tramite la rete telefonica pubblica commutata.
+  #### Lezioni
+  - Collegarsi alla rete telefonica pubblica commutata
+  - Collegarsi alla centrale telefonica esistente
+  - M&#58;N Interworking Routing
+  - Affidabilità dell’instradamento delle chiamate
+  - Esecuzione di chiamate tramite l’ufficio
+  - Modalità di linea condivisa
+  - Telefoni IP
+  - Sistemi delle stanze
+  - Cellulari
+
+
+  #### Laboratorio&#58; Configurare l’integrazione con una centrale telefonica IP
+  - Configurare le impostazioni del servizio VoIP per Londra
+  - Configurare l’instradamento tra i trunk
+  - Ricercare le impostazioni per l’integrazione di Skype for Business Server 2015
+  - Configurare le impostazioni per l’integrazione della centrale telefonica IP
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Pianificare il ruolo Mediation Server.
+  - Collegare Skype for Business Server 2015 alla rete telefonica pubblica commutata.
+  - Implementare M&#58;N interworking routing.
+  - Definire un percorso affidabile per le chiamate utilizzando la rete telefonica pubblica commutata.
+  - Descrivere la chiamata tramite ufficio.
+  - Descrivere la modalità di linea condivisa.
+
+
+  ### Modulo 7&#58; Utilizzare Cloud PBX con connettività PSTN locale con una distribuzione esistente
+  Questo modulo spiega come implementare e configurare Cloud PBX con connettività PSTN locale utilizzando una distribuzione esistente. Gli studenti devono avere familiarità con i diversi metodi e le opzioni di connettività viste le numerose opzioni per l’implementazione. Per implementare Cloud PBX è necessario avere un tenant con Office 365 e un’infrastruttura di rete che possa essere utilizzata dagli utenti sia in ufficio che tramite una connessione Internet pubblica. È importante ricordare che i servizi di conferenza con accesso da numero esterno devono essere implementati tramite un provider di servizi di conferenza o audio (ACP) PSTN. La connettività PSTN locale con Cloud Connector Edition verrà descritta nel modulo successivo.
+
+  #### Lezioni
+  - Flussi delle chiamate e gestibilità
+
+
+  #### Laboratorio&#58; Flussi di chiamata e gestibilità
+  - * Esercitazione 1&#58; Testare la soluzione per le chiamate PBX corrente
+  - * Esercitazione 2&#58; Abilitare Cloud PBX con la connettività PSTN locale
+  - * Esercitazione 3&#58; Testare Cloud PBX con connettività PSTN locale
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - * Descrivere le architetture e gli scenari di Cloud PBX con connettività PSTN locale
+
+
+  ### Modulo 8&#58; Utilizzare Cloud PBX con connettività PSTN locale con Cloud Connector Edition
+  Le organizzazioni che hanno una soluzione vocale locale che non include Skype for Business Server 2015 o Lync Server 2013 possono comunque integrare la soluzione esistente con Skype for Business Online tramite Cloud Connector Edition (CCE). È importante scegliere la topologia corretta per CCE per supportare i requisiti vocali di un’organizzazione. Questo modulo descrive le varie topologie supportate e fornisce linee guida sulla procedura di distribuzione.
+  #### Lezioni
+  - Introduzione a Cloud Connector Edition
+  - Pianificare la connettività PSTN con Cloud Connector Edition
+  - Distribuire Cloud Connector Edition
+
+
+  #### Laboratorio&#58; Distribuire Cloud Connector Edition
+  - Configurare l’organizzazione dell’attività di laboratorio
+  - Preparare la prima appliance Cloud Connector Edition ad alta disponibilità
+  - Preparare la seconda appliance Cloud Connector Edition ad alta disponibilità
+  - Creare un VHDX di base per le macchine virtuali Cloud Connector Edition
+  - Distribuire la prima appliance Cloud Connector Edition ad alta disponibilità
+  - Configurare il tenant di Office 365
+  - Testare Cloud PBX con connettività PSTN locale
+  - Distribuire la seconda appliance Cloud Connector Edition ad alta disponibilità
+  - Completare e testare Cloud Connector Edition ad alta disponibilità
+  - Testare il ripristino automatico del servizio di gestione di Cloud Connector Edition
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare quando Cloud Connector Edition è la soluzione giusta per un’organizzazione.
+  - Identificare i requisiti per Cloud Connector Edition.
+  - Distribuire e gestire Cloud Connector Edition.
+
+
+  ### Modulo 9&#58; Funzionalità di chiamata migliorate e requisiti dei dispositivi
+  Il servizio VoIP aziendale fornisce numerose funzionalità locali come il parcheggio chiamate, i numeri non assegnati, le conferenze PSTN e gruppi di risposta, oltre a basarsi sullo scenario di distribuzione di base di VoIP aziendale descritto in precedenza.
+
+  Per utilizzare il servizio VoIP, è necessario conoscere le varie applicazioni VoIP e sapere come implementarle e configurarle. Il modulo descrive approfonditamente Skype for Business Server Response Group Service (RGS), nonché componenti come i gruppi di agenti RGS, le code RGS, i gruppi di risposta o flussi di lavoro di base e i flussi di lavoro Interactive Voice Response. Vengono inoltre fornite informazioni sul metodo di instradamento Operatore.
+
+  #### Lezioni
+  - Servizio di parcheggio chiamate
+  - Gestire le chiamate a numeri non assegnati
+  - Delega e linee private
+  - Servizi di gruppi di risposta
+  - Servizi Informazione percorso ed E9-1-1
+
+
+  #### Laboratorio&#58; Configurare i gruppi di risposta
+  - Configurare i gruppi di agenti e le code
+  - Configurare i flussi di lavoro
+  - Verificare il comportamento del servizio Gruppo di risposta
+
+
+  #### Laboratorio&#58; Configurare i servizi Informazione percorso e gestire i dispositivi
+  - Creare percorsi di emergenza e utilizzi della rete telefonica pubblica commutata
+  - Configurare la manipolazione dei numeri sui trunk per i numeri di emergenza
+  - Definire le posizioni LIS
+  - Sperimentare le funzionalità LIS
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le diverse funzionalità vocali.
+  - Configurare le funzionalità di chiamata che ampliano la funzionalità VoIP di Skype for Business.
+  - Configurare la distribuzione delle chiamate con i gruppi di risposta.
+  - Abilitare i dispositivi per il riconoscimento della posizione con il servizio Informazione percorso.
+  - Gestire i dispositivi in Skype for Business Server 2015.
+
+
+  ### Modulo 10&#58; Requisiti della rete
+  In questo modulo gli studenti impareranno a ottimizzare le comunicazioni vocali su una rete pianificando il consumo della rete e implementando tecnologie per l’ottimizzazione della larghezza di banda, come il controllo di ammissione di chiamata (CAC), la qualità del servizio (QoS) e le rete definite da software (SDN). Verranno inoltre fornite informazioni sugli stack multimediali disponibili per Skype for Business Server 2015 e Skype for Business Online.
+
+  #### Lezioni
+  - Stack multimediali
+  - Modellazione del traffico
+  - Qualità del servizio
+  - Reti definite da software
+  - Panoramica del server Controllo di ammissione chiamata
+  - Implementare il servizio Controllo di ammissione chiamata
+  - Reti definite da software
+
+
+  #### Laboratorio&#58; Gestire la qualità della voce
+  - Inserire dati nel servizio di calcolo della larghezza di banda di Skype for Business
+  - Rivedere i risultati calcolati
+  - Configurare la qualità del servizio
+  - Verificare l’applicazione Qualità del servizio
+  - Configurare il servizio Controllo di ammissione chiamata per la gestione della larghezza di banda
+  - Analizzare i valori DSCP e gli intervalli delle porte per configurare la priorità del traffico di rete (Esercitazione premio)
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere gli stack multimediali disponibili per Skype for Business Server 2015 e Skype for Business Online.
+  - Pianificare il consumo della rete.
+  - Ottimizzare le comunicazioni vocali su una rete.
+  - Implementare tecnologie per l’ottimizzazione della larghezza di banda, come il servizio Controllo di ammissione chiamata (CAC), il servizio Qualità del servizio (QoS) e reti definite da software (SDN).
+
+
+  ### Modulo 11&#58; Monitorare e mantenere la qualità della voce
+  Definire, configurare e mantenere la qualità delle chiamata è esseziale per una distribuzione di successo di Skype for Business, sopratutto per i carichi di lavoro associati alle comunicazioni vocali e alle conferenze. Questo modulo descrive dettagliatamente la metodologia Call Quality Methodology di Microsoft sia come processo che come set di strumenti utilizzabili per raggiungere questi obiettivi. Verranno descritti anche la scorecard della qualità delle chiamate e il relativo script e la dashboard Qualità della chiamata, ovvero gli strumenti aggiuntivi che possono essere utilizzati per misurare e mantenere gli obiettivi configurati dall’organizzazione per la qualità delle chiamate. Nel modulo verrà spiegato anche come utilizzare gli strumenti nativi e i set di dati di Skype for Business per la risoluzione dei problemi e l’ottimizzazione della qualità della distribuzione.
+  #### Lezioni
+  - Call Quality Methodology
+  - Dashboard Qualità della chiamata
+  - Strumenti di monitoraggio
+  - Report di utilizzo e monitoraggio
+
+
+  #### Laboratorio&#58; Distribuire la dashboard Qualità della chiamata, analizzare i report e acquisire i KHI
+  - Installare la dashboard Qualità della chiamata di Skype
+  - Utilizzare la dashboard Qualità della chiamata di Skype
+  - Analizzare i report dettagliati delle sessioni peer-to-peer
+  - Risolvere i problemi relativi alla qualità dei contenuti multimediali
+  - Monitorare le transazioni sintetiche
+  - Monitorare l’integrità del server
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Utilizzare Call Quality Methodology (CQM) e gli strumenti di monitoraggio.
+  - Definire e stabilire la qualità della chiamata in modo efficace.
+
+
+  ### Modulo 12&#58; Risoluzione dei problemi relativi alle comunicazioni vocali
+  Sapere risolvere i problemi è una competenza di base essenziale per fornire supporto per le distribuzioni di Skype for Business Server. L’infrastruttura di Skype for Business può essere distribuita in varie topologie, come già descritto in questo corso. Gli amministratori di Skype for Business devono conoscere sia gli strumenti di base che i metodi per la risoluzione dei problemi specifici per Skype for Business Online e Skype for Business Server 2015. Questo modulo descrive gli strumenti e le metodologie per la risoluzione dei problemi del client di Skype for Business, di Skype for Business Server 2015 e Skype for Business Online. Verranno esplorati vari scenari per consentire agli studenti di acquisire familiarità con alcuni dei problemi più comuni che devono affrontare gli amministratori.
+  #### Lezioni
+  - Risolvere i problemi relativi alla qualità delle chiamate
+  - Risolvere i problemi relativi agli scenari
+  - Risolvere i problemi relativi alle comunicazioni vocali di Skype for Business Online
+  - Risolvere i problemi relativi ai telefoni IP
+
+
+  #### Laboratorio&#58; Risolvere i problemi relativi ai piani di chiamata, l’instradamento e i trunk
+  - Rivedere i componenti del servizio Registrazione centralizzata
+  - Utilizzare lo strumento CLS Logger
+  - Principi di base del tracciamento
+  - Identificare la configurazione errata del piano di chiamata
+  - Risolvere i problemi relativi all’istradamento delle chiamate vocali
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Risolvere i problemi relativi alla qualità delle chiamate.
+  - Identificare gli strumenti per la risoluzione dei problemi.
+  - Identificare gli scenari per la risoluzione dei problemi.
+  - Utilizzare la metodologia per la risoluzione dei problemi per ricercare, diagnosticare e correggere i problemi relativi alla qualità delle chiamate.
+  - Risolvere i problemi comuni del client Skype for Business Online.
+  - Risolvere i problemi relativi ai telefoni IP.
+
+  #### Documenti di approfondimento
+  Nessuno

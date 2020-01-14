@@ -1,0 +1,90 @@
+### YamlMime:Course
+title: Progettare una strategia per l’infrastruttura
+metadata:
+  title: 'Corso AZ-301T04-A: Progettare una strategia per l’infrastruttura'
+  description: 'Corso AZ-301T04-A: Progettare una strategia per l’infrastruttura'
+uid: course.az-301t04
+courseNumber: 'AZ-301T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere vari modelli tra quelli disponibili per la progettazione cloud.
+- skill: Distribuire il traffico di rete tra più carichi utilizzando i servizi di bilanciamento del carico.
+- skill: Progettare uno scenario di connettività ibrido con funzionalità cloud e locali.
+- skill: Progettare un set di disponibilità per una o più macchine virtuali.
+- skill: Descrivere le differenze tra i domini di errore e aggiornamento.
+- skill: Creare un modello ARM per un set di scalabilità VM.
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Durante questo corso gli studenti impareranno a descrivere le strategie DNS e IP per le reti VNET in Azure, confrontare le opzioni di connettività per le reti ad-hoc e ibride, distribuire il traffico di rete tra più carichi con i servizi di bilanciamento del carico, e a progettare uno scenario di connettività ibrido con funzionalità cloud e locali.
+  
+  #### Profilo dei destinatari
+  Gli architetti di soluzioni cloud di successo che iniziano a lavorare in questo ruolo conoscono a livello pratico i sistemi operativi, la virtualizzazione, l’infrastruttura cloud, le strutture di archiviazione, la fatturazione e le reti.
+outlineSection: |-
+  ### Modulo 1&#58; Modelli di architetture per le applicazioni disponibili in Azure
+  Questo modulo fornisce un’introduzione e un’analisi dei modelli e delle architetture più comuni di Azure, come indicato dal team Microsoft Patterns & Practices. Ciascun modello è raggruppato in categorie quali prestazioni, resilienza e scalabilità ed è descritto facendo riferimento a modelli simili della stessa categoria.
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Individuare e fare riferimento alla documentazione relativa ai modelli di progettazione cloud.
+  - Individuare e fare riferimento a Centro architetture di Azure.
+  - Descrivere vari modelli tra quelli disponibili per la progettazione cloud.
+
+  ### Modulo 2&#58;  Creare applicazioni server Azure basate su IaaS (ADSK)
+  In questo modulo vengono identificati i carichi di lavoro che vengono idealmente distribuiti utilizzando i servizi IaaS (Infrastruttura come servizio) disponibili in Azure. Il modulo descrive in particolare i set di scalabilità VM e i servizi VM disponibili in Azure e spiega come distribuire in modo ottimale i carichi di lavoro a questi servizi utilizzando procedure ottimali e funzionalità come i set di disponibilità.
+
+  #### Laboratorio&#58; Creare applicazioni server Azure basate su IaaS
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare un set di disponibilità per una o più macchine virtuali.
+  - Descrivere le differenze tra i domini di errore e aggiornamento.
+  - Creare un modello ARM (Azure Resource Manager) per un set di disponibilità VM.
+  - Unire un macchina virtualizzata a un dominio in Azure o a una rete ibrida.
+
+
+  ### Modulo 3&#58; Collegare in rete i componenti di un’applicazione Azure
+  Questo modulo descrive le diverse opzioni di rete e connettività disponibili per le soluzioni distribuite in Azure. Il modulo esplora le opzioni di connettività, dalle connessioni ad-hoc agli scenari di connettività ibridi a lungo termine. Nel modulo vengono esaminati anche alcuni dei problemi relativi alle prestazioni e alla sicurezza associati al bilanciamento dei carichi di lavoro tra più istanze di calcolo, alla connessione di un’infrastruttura locale al cloud e alla creazione di gateway per i dati locali.
+
+  #### Laboratorio&#58; Distribuire un’infrastruttura di rete utilizzabile nelle soluzioni Azure
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le strategie DNS e IP per le reti VNET in Azure.
+  - Confrontare le opzioni di connettività per le reti ad-hoc e ibride.
+  - Distribuire il traffico di rete tra più carichi utilizzando i servizi di bilanciamento del carico.
+  - Progettare uno scenario di connettività ibrido con funzionalità cloud e locali.
+
+
+  ### Modulo 4&#58; Integrare i componenti di una soluzione Azure con i servizi di messaggistica
+  Questo modulo descrive e confronta i servizi di integrazione e messaggistica disponibili per le soluzioni ospitate sulla piattaforma di Azure. I servizi di messaggistica descritti includono Code di archivazione di Azure, Code del bus di servizio, Inoltro del bus di servizio, Hub IoT, Hub di eventi e Hub di notifica. I servizi di integrazione includono Funzioni di Azure e App per la logica.
+
+  #### Laboratorio&#58; Integrare i componenti di una soluzione Azure con i servizi di messaggistica
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Confrontare le code di archiviazione con le code del bus di servizio
+  - Individuare quando utilizzare Funzioni di Azure o App per la logica per integrare i componenti in una soluzione
+  - Descrivere le differenze tra Hub IoT, Hub di eventi e Time Series Insights

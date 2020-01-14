@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Configurare e utilizzare la gestione del magazzino e dei trasporti in Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Course MB-330T03-A: Configurare e utilizzare la gestione del magazzino e dei trasporti in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T03-A: Configurare e utilizzare la gestione del magazzino e dei trasporti in Dynamics 365 for Finance and Operations'
+uid: course.mb-330t03
+courseNumber: 'MB-330T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per automatizzare e ottimizzare la loro catena di fornitura modernizzando la logistica aziendale, fornendo risposte tempestive ai clienti, andando avanti con intuizioni predittive, ottimizzando l'approvvigionamento e unificando i processi dalle vendite alla realizzazione. Questo corso informa su come configurare e utilizzare la gestione del magazzino e dei trasporti in Dynamics 365 for Finance and Operations.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Comprensione di base dei concetti di ERP e CRM.
+outlineSection: |-
+  ### Modulo 1&#58; Configurare la gestione del magazzino
+  Il modulo di gestione del magazzino per Dynamics 365 for Finance and Operations aiuta a gestire i processi di magazzino nelle aziende di produzione, distribuzione e vendita al dettaglio.
+
+  Dispone di un'ampia gamma di caratteristiche per supportare la struttura del magazzino ad un livello ottimale, in qualsiasi momento. La gestione del magazzino è completamente integrata con gli altri processi aziendali in Finance and Operations come il trasporto, la produzione, il controllo qualità, l'acquisto, il trasferimento, le vendite e i resi.
+  #### Lezioni
+  - Introduzione
+  - Configurare l’organizzazione della gestione dei magazzini
+  - Comprendere le gerarchie di prenotazione
+  - Direttive di localizzazione e modelli di lavoro
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come&#58;
+  - Configurare i parametri di gestione dei magazzini
+  - Creare magazzini e location
+  - Configurare i pool di lavoro, le zone, il formato della posizione e i profili
+  - Crea le gerarchie di prenotazione
+  - Configurare le direttive di localizzazione
+  - Configurare Wave
+  - Configurare Load
+  - Configurare gli stati dell’inventario
+  - Configurare il conteggio dei cicli
+  - Configurare l'imballaggio e la containerizzazione
+  - Impostare e generare etichette
+
+
+  ### Modulo 2&#58; Configurazione dei dispositivi mobili per la gestione del magazzino
+  Questo modulo spiega come configurare la configurazione dei dispositivi mobili per la gestione del magazzino in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Configurare i dispositivi mobile
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo, gli studenti hanno imparato come&#58;
+  - Creare nuove classi di lavoro
+  - Configurare i dispositivi mobile
+  - Configurare le voci di menu per attività e richieste
+  - Configurare le voci di menu per creare lavoro per un altro lavoratore o processo
+  - Configurare le voci di menu per elaborare il lavoro esistente
+  - Definire il layout dei menu dei dispositivi mobili
+  - Configurare l'aspetto di base ed il feel dei dispositivi mobili
+  - Creare utenti di dispositivi mobili
+  - Impostare i layout delle etichette e definire le impostazioni per la stampa delle etichette
+
+
+  ### Modulo 3&#58; Usare la gestione del magazzino
+  Prima di utilizzare il dispositivo mobile per la gestione del magazzino, l'applicazione deve essere installata. Questo modulo spiega come utilizzare i processi di gestione del magazzino in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Configurare i dispositivi mobile
+  - Operazioni in entrata
+  - Conteggio dei cicli
+  - Trasferimenti e rifornimenti
+  - Operazioni in uscita
+  - Raccolta di cluster
+  - Imballaggio e containerizzazione
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come eseguire&#58;
+  - Operazioni in entrata
+  - Operazioni in uscita
+  - Raccolta di cluster
+  - Imballaggio e containerizzazione
+  - Conteggio dei cicli
+  - Trasferimenti e rifornimenti
+
+
+  ### Modulo 4&#58; Configurare la gestione del trasporto
+  Questo modulo offre una panoramica delle funzionalità di gestione dei trasporti in Microsoft Dynamics 365 for Finance and Operations e insegna come configurare e utilizzare la gestione dei trasporti.
+  #### Lezioni
+  - Introduzione
+  - Pianificare e configurare la gestione dei trasporti
+  - Procedure
+  - Flussi di instradamento e di trasporto
+  - Motori di trasporto e gestione delle merci
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+
+  In questo modulo gli studenti hanno imparato come eseguire&#58;
+  - La pianificazione del trasporto
+  - L’istradamento
+  - La definizione delle tariffe
+  - Operazioni in entrata
+  - I processi di carico
+  - Operazioni in uscita
+
+
+  ### Modulo 5&#58; Conclusione del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+
+
+  Gli studenti avranno completato il corso.
