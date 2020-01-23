@@ -6,8 +6,9 @@ metadata:
 uid: exam.ms-202
 displayName: MS-202
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 30 SETTEMBRE 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)</div>
-  <br/>   
+  <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 30 SETTEMBRE 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)<br/><br/></div>
+  
+  
   Questo esame è pensato solo per i candidati che hanno già sostenuto l’[Esame 70-345&#58;](https://www.microsoft.com/it-it/learning/exam-70-345.aspx) Progettare e distribuire Microsoft Exchange Server 2016. Se non sostenuto l’Esame 345, con questo esame non otterrai una certificazione.
 
   I candidati idonei a questo esame sono amministratori di messaggistica che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.

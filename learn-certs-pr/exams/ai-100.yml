@@ -6,8 +6,6 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 26 novembre 2019. Scarica il documento relativo alle competenze misurate riportato di seguito per vedere che cosa è cambiato.<br/><br/></div>
-  
   I candidati a questo esame analizzano i requisiti per le soluzioni di IA, consigliano gli strumenti e le tecnologie appropriati e implementano soluzioni che soddisfino i requisiti di scalabilità e di prestazioni.
   <br/>
 
@@ -28,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 26 novembre 2019. Scarica il documento relativo alle competenze misurate riportato di seguito per vedere cosa è cambiato.
 - Analizzare i requisiti della soluzione (25-30%)
 - Progettare soluzioni di IA (40-45%)
 - Implementare e monitorare soluzioni di IA (25-30%)

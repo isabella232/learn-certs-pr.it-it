@@ -6,9 +6,10 @@ metadata:
 uid: exam.az-102
 displayName: AZ-102
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 30 GIUGNO 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)</div>
-  <br/> 
-  Questo esame è destinato esclusivamente ai candidati che hanno sostenuto [Esame 70-533](https://www.microsoft.com/it-it/learning/exam-70-533.aspx)&#58; Implementazione di Microsoft Azure Infrastructure Solutions. Se non hai sostenuto l’Esame 533, non potrai ottenere una certificazione sostenendo questo esame. 
+  <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 30 GIUGNO 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)<br/><br/></div>
+   
+  
+  Questo esame è destinato esclusivamente ai candidati che hanno sostenuto [Esame 70-533&#58;](https://www.microsoft.com/it-it/learning/exam-70-533.aspx) Implementazione di Microsoft Azure Infrastructure Solutions. Se non hai sostenuto l’Esame 533, non potrai ottenere una certificazione sostenendo questo esame. 
 
   Questo esame di transizione è pensato per chi ha già dimostrato di possedere le competenze nel dominio dei contenuti, avendo sostenuto gli esami esistenti che verranno sostituiti dai nuovi esami di certificazione basati sui ruoli. Essi riguardano la differenza tra la certificazione corrente e ciò che ci aspettiamo che siano in gradi di fare le persone che ottengono la nuova certificazione. Non desideriamo riesaminare le persone sugli stessi argomenti in cui si sono già dimostrate competenti sostenendo con successo un esame.
 
@@ -17,7 +18,7 @@ summary: |-
   I candidati a questo esame sono amministratori Azure che gestiscono servizi cloud che spaziano dalle funzionalità di archiviazione, sicurezza, connessione di rete alle funzionalità di cloud computing. I candidati hanno una conoscenza approfondita dell’intero IT ciclo di vita di ciascun servizio e gestiscono le richieste relative a servizi di infrastruttura, applicazioni e ambienti. Raccomandano quali servizi utilizzare per ottimizzare le prestazioni e la scalabilità, nonché per distribuire, dimensionare, monitorare e adattare le risorse alle necessità.
 
   I candidati a questo esame devono saper usare PowerShell e l’interfaccia della riga di comando. Devono inoltre aver dimestichezza o conoscenze di base di Azure Portal, dei modelli ARM, dei sistemi operativi, della virtualizzazione, dell’infrastruttura cloud, delle strutture di archiviazione e delle reti.
-subTitle: "Questo esame è destinato esclusivamente ai candidati che hanno sostenuto [l’Esame 70-533](https://www.microsoft.com/it-it/learning/exam-70-533.aspx): Implementazione di Microsoft Azure Infrastructure Solutions. Se non hai sostenuto l'Esame 533, sostenendo questo esame non otterrai una certificazione."
+subTitle: "Questo esame è destinato esclusivamente ai candidati che hanno sostenuto l’Esame 70-533: Implementazione di Microsoft Azure Infrastructure Solutions. Se non hai sostenuto l'Esame 533, sostenendo questo esame non otterrai una certificazione."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwA
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice

@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 6 novembre 2019. Scarica il documento relativo alle competenze misurate riportato di seguito per vedere che cosa è cambiato.<br/><br/></div>
-  
-  I candidati per questo esame sono sviluppatori di Azure che progettano e creano soluzioni cloud come applicazioni e servizi. Partecipano a tutte le fasi dello sviluppo, dalla progettazione, sviluppo e installazione della soluzione al testing e alla manutenzione. Per implementare la soluzione lavorano in collaborazione con i progettisti di soluzioni cloud, gli amministratori di database cloud (DBA), gli amministratori del cloud e i clienti..
+  I candidati per questo esame sono sviluppatori di Azure che progettano e creano soluzioni cloud come applicazioni e servizi. Partecipano a tutte le fasi dello sviluppo, dalla progettazione, sviluppo e installazione della soluzione al testing e alla manutenzione. Per implementare la soluzione lavorano in collaborazione con i progettisti di soluzioni cloud, gli amministratori di database cloud (DBA), gli amministratori del cloud e i clienti.
   <br/>
 
   I candidati devono saper sviluppare app e servizi con gli strumenti e le tecnologie di Azure, tra cui archiviazione, sicurezza, elaborazione e comunicazioni.
@@ -27,7 +25,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 6 novembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.
 - Sviluppare un’infrastruttura Azure come soluzione di elaborazione dei servizi (10-15%)
 - Sviluppare una piattaforma Azure come soluzione di elaborazione dei servizi (20-25%)
 - Sviluppare l’archiviazione in Azure (15-20%)

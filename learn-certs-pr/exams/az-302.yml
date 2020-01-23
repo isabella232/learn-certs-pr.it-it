@@ -6,8 +6,9 @@ metadata:
 uid: exam.az-302
 displayName: AZ-302
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 30 GIUGNO 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)</div>
-  <br/> 
+  <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 30 GIUGNO 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)<br/><br/></div>
+   
+  
   Questo esame è destinato esclusivamente ai candidati che hanno sostenuto [Esame 70-535](https://www.microsoft.com/it-it/learning/exam-70-535.aspx)&#58; Progettare soluzioni Microsoft Azure. Se non hai sostenuto l’Esame 535, non potrai ottenere una certificazione sostenendo questo esame.
 
   Questo esame di transizione è pensato per chi ha già dimostrato di possedere le competenze nel dominio dei contenuti, avendo sostenuto gli esami esistenti che verranno sostituiti dai nuovi esami di certificazione basati sui ruoli. Essi riguardano la differenza tra la certificazione corrente e ciò che ci aspettiamo che siano in gradi di fare le persone che ottengono la nuova certificazione. Non desideriamo riesaminare le persone sugli stessi argomenti in cui si sono già dimostrate competenti sostenendo con successo un esame.

@@ -8,7 +8,8 @@ displayName: AZ-202
 summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 31 MARZO 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)</div>
   <br/> 
-  Questo esame è destinato esclusivamente ai candidati che hanno sostenuto [Esame 70-532](https://www.microsoft.com/it-it/learning/exam-70-532.aspx)&#58; sviluppare soluzioni di Microsoft Azure. Se non hai sostenuto l’Esame 532, non potrai ottenere una certificazione sostenendo questo esame.
+  
+  Questo esame è destinato esclusivamente ai candidati che hanno sostenuto [Esame 70-532&#58;](https://www.microsoft.com/it-it/learning/exam-70-532.aspx) sviluppare soluzioni di Microsoft Azure. Se non hai sostenuto l’Esame 532, non potrai ottenere una certificazione sostenendo questo esame.
   
   Questo esame di transizione è pensato per chi ha già dimostrato di possedere le competenze nel dominio dei contenuti, avendo sostenuto gli esami esistenti che verranno sostituiti dai nuovi esami di certificazione basati sui ruoli. Essi riguardano la differenza tra la certificazione corrente e ciò che ci aspettiamo che siano in gradi di fare le persone che ottengono la nuova certificazione. Non desideriamo riesaminare le persone sugli stessi argomenti in cui si sono già dimostrate competenti sostenendo con successo un esame.
 
@@ -19,7 +20,7 @@ summary: |-
   I candidati devono saper sviluppare app e servizi con gli strumenti e le tecnologie di Azure, tra cui archiviazione, sicurezza, elaborazione e comunicazioni.
 
   Devono avere almeno un anno di esperienza in tutte le fasi dello sviluppo software di soluzioni scalabili e conoscere almeno un linguaggio di programmazione supportato dal cloud.
-subTitle: "Questo esame è rivolto solo ai candidati che abbiano sostenuto [l’Esame 70-532](https://www.microsoft.com/it-it/learning/exam-70-532.aspx): Sviluppare soluzioni di Microsoft Azure. Se non hai sostenuto l'Esame 532, sostenendo questo esame non otterrai una certificazione."
+subTitle: "Questo esame è rivolto solo ai candidati che abbiano sostenuto l’Esame 70-532: Sviluppare soluzioni di Microsoft Azure. Se non hai sostenuto l'Esame 532, sostenendo questo esame non otterrai una certificazione."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV3
 scheduleExamUrl: https://examregistration.microsoft.com/

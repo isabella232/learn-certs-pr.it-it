@@ -45,6 +45,7 @@ paths:
 - uid: learn.azdo.build-applications-with-azure-devops
 - uid: learn.azdo.deploy-applications-with-azure-devops
 - uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02

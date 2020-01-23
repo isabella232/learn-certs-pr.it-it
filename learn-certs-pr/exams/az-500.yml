@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 4 dicembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
-
   I candidati a questo esame sono tecnici della sicurezza di Microsoft Azure che implementano controlli di sicurezza, aggiornano il comportamento di sicurezza, gestiscono le identità e gli accessi, e proteggono dati, applicazioni e reti. I candidati sono in grado di identificare e risolvere le vulnerabilità tramite numerosi strumenti di sicurezza, implementare la protezione contro le minacce e rispondere alle riassegnazioni degli incidenti di sicurezza. Nella loro posizione di tecnici responsabili della sicurezza di Microsoft Azure, i candidati fanno spesso parte di team più ampi che si occupano della gestione e della sicurezza basata su cloud, oltre che della protezione degli ambienti ibridi nell’ambito di un’infrastruttura end-to-end.
 
   I candidati a questo esame devono possedere competenze comprovate nella compilazione di script e nell'automazione, oltre a conoscenze approfondite delle reti, della virtualizzazione, dell’architettura N-tier basata sul cloud. Inoltre, devono conoscere bene le funzionalità cloud, i prodotti e i servizi di Microsoft Azure e di Microsoft in generale.
@@ -24,7 +22,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 4 dicembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.
 - Gestire le identità e l’accesso (20-25%)
 - Implementare la protezione della piattaforma (35-40%)
 - Gestire le operazioni di sicurezza (15-20%)

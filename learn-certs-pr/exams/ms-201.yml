@@ -6,8 +6,6 @@ metadata:
 uid: exam.ms-201
 displayName: MS-201
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 25 novembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
-
   I candidati a questo esame sono amministratori di messaggistica che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta elettronica, il flusso della posta elettronicae le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
 
   Gli amministratori della messaggistica sono responsabili della gestione della pulizia, dell'infrastruttura di messaggistica, della configurazione ibrida, della migrazione, del ripristino di emergenza, dell'alta disponibilità e dell'accesso client.
@@ -23,8 +21,6 @@ locales:
 - en
 levels:
 - intermediate
-skills:
-- Il contenuto di questo esame è stato aggiornato il 25 novembre 2019. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.
 - Pianificare e implementare una configurazione ibrida e una migrazione (35-40%)
 - Mettere in sicurezza l'ambiente di messaggistica (40-45%)
 - Gestire le impostazioni dell’azienda (15-20%)

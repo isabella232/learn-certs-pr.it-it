@@ -76,7 +76,7 @@ trainingSection:
     summary: Con Microsoft Learn, chiunque può acquisire i concetti di base secondo i propri tempi e programmi, sia che tu voglia seguire un singolo modulo dedicato a un’attività di base sia che desideri approfondire un argomento tramite una raccolta di moduli correlati.
     browseLinks:
     - text: Esplora tutti i percorsi di formazione
-      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/it-it/learn/browse/?resource_type=learning%20path
   - image:
       alt: Uomo che fa una presentazione a quattro persone seduto 
       src: /learn/certifications/images/image-working-group.jpg
