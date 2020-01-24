@@ -2,7 +2,6 @@
 title: 'Diventa un Microsoft Certified Trainer | Microsoft Docs'
 description: 'Diventa un Microsoft Certified Trainer' 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

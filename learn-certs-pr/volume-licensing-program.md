@@ -2,7 +2,6 @@
 title: Formazione sul software per clienti con contratto Multilicenza | Microsoft Docs
 description: Formazione sul software per clienti con contratto Multilicenza
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

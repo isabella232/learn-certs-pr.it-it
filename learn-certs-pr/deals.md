@@ -2,7 +2,6 @@
 title: Offerte | Microsoft Docs
 description: Offerte 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

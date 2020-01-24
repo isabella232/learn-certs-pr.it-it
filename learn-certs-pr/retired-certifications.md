@@ -2,7 +2,6 @@
 title: Certificazioni Microsoft ritirate | Microsoft Docs
 description: Certificazioni Microsoft ritirate
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,11 +2,11 @@
 title: Tecnico responsabile della sicurezza 
 metadata: 
   title: Tecnico responsabile della sicurezza 
-  description: I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; proteggono i dati, le applicazioni e le reti. 
+  description: I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce, gestiscono le identità e l’accesso, proteggono i dati, le applicazioni e le reti. 
 uid: role.security-engineer 
 summary: | 
-  I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; proteggono i dati, le applicazioni e le reti.
-subTitle: I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; proteggono i dati, le applicazioni e le reti.
+  I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce, gestiscono le identità e l’accesso, proteggono i dati, le applicazioni e le reti.
+subTitle: I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce, gestiscono le identità e l’accesso, proteggono i dati, le applicazioni e le reti.
 certificationPaths: 
 - title: Azure Security Engineer
   linkedInKeywords: Azure Security Engineer

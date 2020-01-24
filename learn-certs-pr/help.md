@@ -2,7 +2,6 @@
 title: Guida alla formazione e alla certificazione Microsoft | Microsoft Docs
 description: Guida per la formazione e la certificazione Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

@@ -2,7 +2,6 @@
 title: Esame Microsoft ritirato | Microsoft Docs
 description: Esame Microsoft ritirato
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

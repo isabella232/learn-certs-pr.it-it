@@ -2,7 +2,6 @@
 title: Corsi Microsoft ritirati | Microsoft Docs
 description: Corsi Microsoft ritirati
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

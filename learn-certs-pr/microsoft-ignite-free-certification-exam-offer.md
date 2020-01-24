@@ -2,7 +2,6 @@
 title: 'Microsoft Ignite e Microsoft Ignite The Tour: Offerta di esami di certificazione gratuiti | Microsoft Docs'
 description: 'Microsoft Ignite e Microsoft Ignite The Tour: Offerta di esami di certificazione gratuiti' 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
