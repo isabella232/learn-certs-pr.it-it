@@ -17,7 +17,7 @@ skillsGained:
 - skill: Verificare che la sicurezza e la conformità delle licenze dei pacchetti software open source siano allineati agli standard aziendali
 - skill: Configurare pipeline di compilazione per l’accesso alla sicurezza dei pacchetti e la valutazione delle licenze
 - skill: Configurare un accesso sicuro ai feed dei pacchetti
-learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

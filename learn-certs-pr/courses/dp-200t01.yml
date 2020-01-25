@@ -7,7 +7,7 @@ uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -36,7 +36,7 @@ summary: |-
   Questo corso è principalmente destinato ai professionisti che si occupano di dati, agli architetti di dati e agli esperti di business intelligence che desiderano conoscere meglio le tecnologie Data Platform disponibili in Microsoft Azure. Tuttavia, è pensato anche per chi sviluppa applicazioni che forniscono contenuto ottenuto dalle tecnologie Data Platform disponibili in Microsoft Azure.
 prerequisitesSection: |-
   Oltre ad avere un’esperienza a livello professionale, gli studenti che decidono di seguire questo corso devono possedere le conoscenze tecniche che si acquisiscono tramite i seguenti corsi&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/it-it/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### Modulo 1&#58; Azure per i progettisti dati
   Questo modulo illustra l’evoluzione del mondo dei dati e spiega in che modo le tecnologie Data Platform stanno fornendo alle aziende nuove opportunità per esplorare i dati utilizzando modalità diverse. Agli studenti verrà fornita una panoramica delle varie tecnologie Data Platform disponibili e di come il ruolo e le responsabilità degli ingegneri dati si sono evolute in questa nuova realtà, a vantaggio delle aziende.

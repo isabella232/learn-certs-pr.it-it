@@ -13,7 +13,7 @@ skillsGained:
 - skill: Implementare i metodi di crittografia dei dati di Azure
 - skill: Proteggere i protocolli Internet e sapere come implementarli in Azure
 - skill: Descrivere i servizi e le funzionalità di sicurezza di Azure
-learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -39,7 +39,7 @@ summary: |-
   #### Profilo dei destinatari
   Gli studenti devono avere almeno un anno di esperienza pratica nella protezione di carichi di lavoro di Azure ed essere esperti nell’uso dei controlli di sicurezza per i carichi di lavoro di Azure.
 prerequisitesSection: |-  
-  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/it-it/learn/certifications/azure-administrator)
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### Modulo 1&#58; Identità e accesso
   #### Lezioni

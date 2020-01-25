@@ -12,7 +12,7 @@ skillsGained:
 - skill: Utilizzare il portale di Azure, Cloud Shell, Azure PowerShell, l’interfaccia della riga di comando e Resource Manager
 - skill: Utilizzare le funzionalità di connettività tra siti, tra cui il peering di reti virtuali e le connessioni tra reti virtuali
 - skill: Utilizzare Azure Active Directory (AAD) e Connessione ad Azure AD
-learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

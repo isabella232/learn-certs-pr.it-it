@@ -7,7 +7,7 @@ uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -25,7 +25,7 @@ summary: |-
   Questo corso è destinato ai data scientist e a chiunque sia significativamente coinvolto nel fornire formazione per i modelli di apprendimento automatico e nella loro distribuzione.
 prerequisitesSection: |-
   Prima di partecipare a queso corso, gli studenti devono&#58;
-  - Aver ottenuto la [certificazione Azure Fundamentals](https://docs.microsoft.com/it-it/learn/certifications/azure-fundamentals)
+  - Aver ottenuto la [certificazione Azure Fundamentals](https://docs.microsoft.com/learn/certifications/azure-fundamentals)
   - Sapere cos’è l’analisi scientifica, tra cui sapere come preparare i dati, addestrare i modelli e scegliere il modello migliore tra quelli offerti da più produttori
   - Saper programmare nel linguaggio di programmazione Python e usare le raccolte Python&#58; pandas, scikit-learn, matplotlib e seaborn
 outlineSection: |-
