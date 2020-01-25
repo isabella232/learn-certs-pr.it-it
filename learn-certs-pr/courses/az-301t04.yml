@@ -14,7 +14,7 @@ skillsGained:
 - skill: Progettare un set di disponibilità per una o più macchine virtuali.
 - skill: Descrivere le differenze tra i domini di errore e aggiornamento.
 - skill: Creare un modello ARM per un set di scalabilità VM.
-learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

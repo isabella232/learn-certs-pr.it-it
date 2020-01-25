@@ -7,7 +7,7 @@ uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/it-it/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -35,7 +35,7 @@ summary: |-
   Questo corso è principalmente destinato a professionisti che si occupano di dati, agli architetti di dati e agli esperti di business intelligence che desiderano conoscere meglio le tecnologie Data Platform disponibili in Microsoft Azure. Il corso è consigliato anche a chiunque sviluppi applicazioni che forniscono contenuti utilizzando le tecnologie Data Platform disponibili in Microsoft Azure
 prerequisitesSection: |-
   Oltre ad avere un’esperienza a livello professionale, gli studenti che decidono di seguire questo corso devono possedere le conoscenze tecniche che si acquisiscono tramite i seguenti corsi&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/it-it/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
   - DP-200&#58; Implementare una soluzione dati Azure
 outlineSection: |-
   ### Modulo 1&#58; Considerazioni sull’architettura Data Platform

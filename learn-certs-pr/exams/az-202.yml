@@ -9,7 +9,7 @@ summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 31 MARZO 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)</div>
   <br/> 
   
-  Questo esame è destinato esclusivamente ai candidati che hanno sostenuto [Esame 70-532&#58;](https://www.microsoft.com/it-it/learning/exam-70-532.aspx) sviluppare soluzioni di Microsoft Azure. Se non hai sostenuto l’Esame 532, non potrai ottenere una certificazione sostenendo questo esame.
+  Questo esame è destinato esclusivamente ai candidati che hanno sostenuto [Esame 70-532&#58;](https://www.microsoft.com/learning/exam-70-532.aspx) sviluppare soluzioni di Microsoft Azure. Se non hai sostenuto l’Esame 532, non potrai ottenere una certificazione sostenendo questo esame.
   
   Questo esame di transizione è pensato per chi ha già dimostrato di possedere le competenze nel dominio dei contenuti, avendo sostenuto gli esami esistenti che verranno sostituiti dai nuovi esami di certificazione basati sui ruoli. Essi riguardano la differenza tra la certificazione corrente e ciò che ci aspettiamo che siano in gradi di fare le persone che ottengono la nuova certificazione. Non desideriamo riesaminare le persone sugli stessi argomenti in cui si sono già dimostrate competenti sostenendo con successo un esame.
 
@@ -50,7 +50,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
-  href: https://www.microsoft.com/it-it/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi una sistemazione particolare
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
