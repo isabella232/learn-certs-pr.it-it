@@ -1,22 +1,23 @@
 ### YamlMime:Examination
-title: Identità e servizi di Microsoft 365
+title: Microsoft 365 Identity and Services
 metadata:
-  title: 'Esame MS-100: Identità e servizi di Microsoft 365'
-  description: 'Esame MS-100: Identità e servizi di Microsoft 365'
+  title: 'Esame MS-100: Microsoft 365 Identity and Services'
+  description: 'Esame MS-100: Microsoft 365 Identity and Services'
 uid: exam.ms-100
 displayName: MS-100
-summary: |-
+summary: >-
   I candidati idonei a questo esame sono amministratori di Microsoft 365 Enterprise coinvolti nella valutazione, pianificazione, migrazione, distribuzione e gestione dei servizi di Microsoft 365. Eseguono attività di gestione connesse ai tenant di Microsoft 365 per un’azienda, occupandosi tra l’altro di identità, sicurezza, conformità e tecnologie di supporto.
+
 
   Hanno una conoscenza professionale dei carichi di lavoro di Microsoft 365 e devono avere lavorato in qualità di amministratore di almeno uno dei carichi di lavoro di Microsoft 365 (Exchange, SharePoint, Skype for Business or Windows as a Service). I candidati devono inoltre avere una conoscenza professionale delle reti, dell’amministrazione dei server e dei concetti di base dell’IT, come DNS, Active Directory e PowerShell.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: progettare e implementare i servizi di Microsoft 365; gestire le identità e i ruoli degli utenti; gestire l’accesso e l’autenticazione; e pianificare i carichi di lavoro e le applicazioni di Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-100&examname=Esame%20MS-100:%20Identità%20e%20servizi%20di%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-100&examname=Esame%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-100
 levels:
 - advanced
 skills:
@@ -26,12 +27,12 @@ skills:
 - Pianificare carichi di lavoro e applicazioni di Office 365 (10-15%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-101
 products:
 - m365
 - azure-active-directory
 - office-365
-exams:
-- uid: exam.ms-101
 courses:
 - uid: course.ms-100t01
 - uid: course.ms-100t02

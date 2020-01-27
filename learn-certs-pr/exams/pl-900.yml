@@ -1,20 +1,21 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Fundamentals (beta)'
+title: Microsoft Power Platform Fundamentals (beta)
 metadata:
   title: 'Esame PL-900: Microsoft Power Platform Fundamentals (beta)'
   description: 'Esame PL-900: Microsoft Power Platform Fundamentals (beta)'
 uid: exam.pl-900
 displayName: PL-900
-summary: |-
+summary: >-
   I candidati idonei a questo esame sono utenti che aspirano a migliorare la produttività automatizzando i processi aziendali, analizzando i dati per ottenere informazioni commerciali e lavorando in modo più efficiente grazie alla creazione di app semplici da usare.
-  
+
+
   Durante l’esame viene chiesto ai candidati di&#58; descrivere i componenti di Power Platform&#58; Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), i connettori e AI Builder; descrivere gli scenari tra i cloud realizzati con Microsoft 365, Dynamics 365, Microsoft Azure e servizi di terze parti; identificare i vantaggi e le funzionalità di Power Platform; identificare la funzionalità di base e il valore di business dei componenti di Power Platform; implementare soluzioni semplici con Microsoft Flow, Power BI e AI Builder; e creare un’app di base in un ambiente senza codice.
 subTitle: Questo esame misura la tua capacità di comprendere il valore di business di Power Platform; la tua conoscenza dei componenti di base di Power Platform; la tua capacità di dimostrare il valore di business di Power BI e Microsoft Flow.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=PL-900&examname=Esame%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fpl-900
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=PL-900&examname=Esame%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fpl-900
 levels:
 - beginner
 skills:

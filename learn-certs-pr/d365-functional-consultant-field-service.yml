@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
-  description: 'I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e distribuiscono la soluzione Connected Field Service (IoT).'
+  description: I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e distribuiscono la soluzione Connected Field Service (IoT).
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e installano la soluzione Connected Field Service (IoT).
+summary: I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e installano la soluzione Connected Field Service (IoT).
 subTitle: I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e installano la soluzione Connected Field Service (IoT).
 levels:
 - intermediate
@@ -19,7 +18,7 @@ skills:
 - Eseguire la distribuzione e il testing delle soluzioni
 - Configurare le applicazioni per l'assistenza sul campo
 - Gestire gli ordini di lavoro
-- Pianificare e inviare gli ordini di lavoro 
+- Pianificare e inviare gli ordini di lavoro
 - Gestire la mobilità di Field Service
 - Gestire l’inventario e gli acquisti
 - Gestire le risorse e gli accordi

@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: 'Gli architetti di soluzioni Microsoft Azure devono essere esperti in materia di elaborazione, rete, archiviazione e sicurezza in modo da poter progettare soluzioni da eseguire in Azure.'
+  description: Gli architetti di soluzioni Microsoft Azure devono essere esperti in materia di elaborazione, rete, archiviazione e sicurezza in modo da poter progettare soluzioni da eseguire in Azure.
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Gli architetti di soluzioni Microsoft Azure devono essere esperti in materia di elaborazione, rete, archiviazione e sicurezza in modo da poter progettare soluzioni da eseguire in Azure.
+summary: Gli architetti di soluzioni Microsoft Azure devono essere esperti in materia di elaborazione, rete, archiviazione e sicurezza in modo da poter progettare soluzioni da eseguire in Azure.
 subTitle: Gli architetti di soluzioni Microsoft Azure devono essere esperti in materia di elaborazione, rete, archiviazione e sicurezza in modo da poter progettare soluzioni da eseguire in Azure.
 levels:
 - advanced

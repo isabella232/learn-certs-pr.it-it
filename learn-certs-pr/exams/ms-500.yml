@@ -1,23 +1,25 @@
 ### YamlMime:Examination
-title: Amministrare la sicurezza di Microsoft 365
+title: Microsoft 365 Security Administration
 metadata:
-  title: 'Esame MS-500: Amministrare la sicurezza di Microsoft 365'
-  description: 'Esame MS-500: Amministrare la sicurezza di Microsoft 365'
+  title: 'Esame MS-500: Microsoft 365 Security Administration'
+  description: 'Esame MS-500: Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
-summary: |-
+summary: >-
   I candidati idonei a questo esame devono essere in grado di implementare, gestire e monitorare le soluzioni di sicurezza e conformità per gli ambienti di Microsoft 365 e ibridi. Gli amministratori della sicurezza di Microsoft 365 mettono proattivamente in sicurezza l’ambiente aziendale di Microsoft 365, rispondono alle minacce, effettuano indagini e migliorano la gestione dei dati. Gli amministratori della sicurezza di Microsoft 365 collaborano con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione.
+
   <br/>
+
 
   I candidati idonei questo esame hanno familiarità con i carichi di lavoro di Microsoft 365 e hanno solide competenze ed esperienza nella protezione delle identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e gestione dei dati. Questo ruolo è incentrato sull’ambiente di Microsoft 365 e comprende ambienti ibridi.
 subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare e gestire l’identità e l'accesso; implementare e gestire la protezione dalle minacce; implementare e gestire la protezione delle informazioni; e gestire le funzionalità di governance e conformità in Microsoft 365."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-500&examname=Esame%20MS-500:%20Amministrare%20la%20sicurezza%20di%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-500&examname=Esame%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:

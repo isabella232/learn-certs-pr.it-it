@@ -5,10 +5,7 @@ metadata:
   description: Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.  
-  
-  <div style="color:red"><br/><strong>NOTA&#58; Questa certificazione sarà disponibile solo a partire dal 27 gennaio 2020</strong></div>
+summary: "Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.  \n\n<div style=\"color:red\"><br/><strong>NOTA&#58; Questa certificazione sarà disponibile solo a partire dal 27 gennaio 2020</strong></div>"
 subTitle: Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.
 levels:
 - advanced
@@ -22,9 +19,6 @@ type: role-based
 products:
 - dynamics
 - power-apps
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
-exams:
-- uid: exam.mb-600
 prerequisites:
 - uid: certification.power-apps-and-d365-developer-associate
   isOptional: false
@@ -33,9 +27,12 @@ prerequisites:
 - uid: certification.d365-functional-consultant-marketing
   isOptional: false
 - uid: certification.d365-functional-consultant-customer-service
-  isOptional: false  
+  isOptional: false
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.

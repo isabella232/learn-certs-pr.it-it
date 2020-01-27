@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: "Gli Azure AI Engineer utilizzano Cognitive Services, Machine Learning e Knowledge Mining per progettare e implementare soluzioni Microsoft AI che coinvolgono l'elaborazione del linguaggio naturale, la voce, la visione artificiale, i Bot e gli agenti."
+  description: Gli Azure AI Engineer utilizzano Cognitive Services, Machine Learning e Knowledge Mining per progettare e implementare soluzioni Microsoft AI che coinvolgono l'elaborazione del linguaggio naturale, la voce, la visione artificiale, i Bot e gli agenti.
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Gli Azure AI Engineer utilizzano Cognitive Services, Machine Learning e Knowledge Mining per progettare e implementare soluzioni Microsoft AI che coinvolgono l'elaborazione del linguaggio naturale, la voce, la visione artificiale, i Bot e gli agenti.
+summary: Gli Azure AI Engineer utilizzano Cognitive Services, Machine Learning e Knowledge Mining per progettare e implementare soluzioni Microsoft AI che coinvolgono l'elaborazione del linguaggio naturale, la voce, la visione artificiale, i Bot e gli agenti.
 subTitle: Gli Azure AI Engineer utilizzano Cognitive Services, Machine Learning e Knowledge Mining per progettare e implementare soluzioni Microsoft AI che coinvolgono l'elaborazione del linguaggio naturale, la voce, la visione artificiale, i Bot e gli agenti.
 levels:
 - intermediate

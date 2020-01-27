@@ -1,28 +1,31 @@
 ### YamlMime:Examination
-title: 'Gestione di Microsoft Teams (beta)'
+title: Managing Microsoft Teams
 metadata:
-  title: 'Esame MS-700: Gestione di Microsoft Teams (beta)'
-  description: 'Esame MS-700: Gestione di Microsoft Teams (beta)'
+  title: 'Esame MS-700: Managing Microsoft Teams'
+  description: 'Esame MS-700: Managing Microsoft Teams'
 uid: exam.ms-700
 displayName: MS-700
-summary: |-
+summary: >-
   I candidati idonei a questo esame sono amministratori di Microsoft Team all’interno della loro azienda. Gli amministratori di Microsoft Teams configurano, installano e gestiscono i carichi di lavoro di Office 365 per Microsoft Teams focalizzati a promuovere collaborazioni e comunicazioni efficienti ed efficaci nell’ambiente aziendale.
+
 
   L’amministratore di Microsoft Teams deve essere in grado di pianificare, installare e gestire chat, app, canali, riunioni, conferenze audio, eventi live e chiamate. Inoltre, è responsabile anche dell’upgrade da Skype for Business a Teams.
 
+
   Collabora anche con i tecnici responsabili della telefonia per integrare le funzionalità voce avanzate in Microsoft Teams. Questo ruolo non è responsabile della configurazione dell’instradamento diretto, della configurazione dei percorsi di chiamata o dell’integrazione dei servizi di telefonia. Gli amministratori di Microsoft Teams possono lavorare in altri ruoli come amministratori dei carichi di lavoro, occupandosi della sicurezza e della conformità, della messaggistica, del networking, delle identità e dei dispositivi.
-  
+
+
   I candidati idonei a questo esame devono essere competenti nel gestire impostazioni di Microsoft Teams utilizzando PowerShell. L’amministratore di Microsoft Teams ha una conoscenza di base dei punti di integrazione con app e servizi, tra cui (in via esemplificativa) SharePoint, OneDrive for Business, Exchange, Azure AD, e Office 365 Groups. Sa anche come integrare le app e i servizi esterni.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: pianificare e configurare un ambiente Microsoft Teams; gestire le chat, chiamate e le riunioni; e gestire i criteri per Microsoft Teams e app.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-700&examname=Esame%20MS-700:%20Gestione%20di%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-700
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-700&examname=Esame%20MS-700:%20Managing%20Microsoft%20Teams&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-700
 levels:
 - intermediate
 skills:
-- Pianificare e configurare un ambiente Microsoft Teams (45-50%) 
+- Pianificare e configurare un ambiente Microsoft Teams (45-50%)
 - Gestire chat, chiamate e riunioni (30-35%)
 - Gestire i criteri per i team e le app (20-25%)
 roles:

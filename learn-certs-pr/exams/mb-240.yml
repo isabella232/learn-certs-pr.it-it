@@ -5,18 +5,20 @@ metadata:
   description: 'Esame MB-240: Microsoft Dynamics 365 Field Service'
 uid: exam.mb-240
 displayName: MB-240
-summary: |-
+summary: >-
   I candidati idoneo a questo esame sono consulenti funzionali di Microsoft Dynamics 365 Customer Engagement con esperienza nell’assistenza sul campo. Si occupano di implementare soluzioni per la gestione di risorse che completino il ciclo di vita dell’assistenza sul campo.
 
+
   Devono anche sapere implementare i processi dell’assistenza sul campo progettati in collaborazione con i team interni ed esterni. Questa collaborazione include configurare le aree di amministrazione predefinite dell’applicazione Field Service; distribuire la soluzione Connected Field Service (IoT) e l’applicazione mobile; implementare qualsiasi personalizzazione aggiuntiva necessaria. Hanno il compito di configurare e installare l’applicazione Field Service insieme all’applicazione di assistenza clienti di base.
+
 
   Devono sapere come configurare e personalizzare i componenti dell’applicazione Field Service, compresa la configurazione di servizi, risorse, caratteristiche, incidenti, integrazione dell’inventario, accordi di assistenza, pianificazione delle risorse, ordini di lavoro, attività di servizio, ruoli utente per l’assistenza sul campo; impostazioni per l’assistenza sul campo, la soluzione Connected Field Service (IoT); configurare l’app Field Service Mobile.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: configurare le applicazioni di Field Service; gestire gli ordini di lavoro; pianificare e approntare ordini di lavoro; gestire la mobilità di Field Service; gestire gli inventari e gli acquisti; e gestire le risorse e gli accordi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-240&examname=Esame%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-240&examname=Esame%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 levels:
 - intermediate
 skills:
@@ -28,11 +30,11 @@ skills:
 - Gestire risorse e accordi (10-15%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-field-service
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-field-service
 courses:
 - uid: course.mb-240t01
 - uid: course.mb-240t02

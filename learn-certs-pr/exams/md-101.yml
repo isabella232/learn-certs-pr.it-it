@@ -1,25 +1,29 @@
 ### YamlMime:Examination
-title: Gestire Modern Desktops
+title: Managing Modern Desktops
 metadata:
-  title: 'Esame MD-101: Gestire Modern Desktops'
-  description: 'Esame MD-101: Gestire Modern Desktops'
+  title: 'Esame MD-101: Managing Modern Desktops'
+  description: 'Esame MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: |-
+summary: >-
   Se hai superato l’[Esame 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) prima che scadesse il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Desktop moderni. I candidati a questo esame sono amministratori in grado di distribuire, configurare, proteggere, gestire e monitorare dispositivi e applicazioni client in un ambiente aziendale. I candidati sono in grado di gestire identità, accessi, criteri, aggiornamenti e app.
+
   <br/>
 
+
   In qualità di amministratori, in genere i candidati collaborano con l’Amministratore di Microsoft 365 Enterprise per progettare e implementare una strategia per i dispositivi che soddisfi le esigenze aziendali di un’organizzazione moderna.
+
   <br/>
+
 
   I candidati devono conoscere i carichi di lavoro Microsoft 365 e devono esperti nell’installazione, configurazione e manutenzione di dispositivi e tecnologie Windows 10 e non Windows.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: installare e aggiornare i sistemi operativi; gestire criteri e profili; gestire e proteggere i dispositivi e gestire app e dati. Se hai superato l’Esame 70-698 prima che scadesse il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Modern Desktop.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MD-101&examname=Esame%20MD-101:%20Gestire%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MD-101&examname=Esame%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
@@ -29,11 +33,11 @@ skills:
 - Gestire app e dati (25-30%)
 roles:
 - administrator
+exams:
+- uid: exam.md-100
 products:
 - m365
 - windows
-exams:
-- uid: exam.md-100
 courses:
 - uid: course.md-101t01
 - uid: course.md-101t02

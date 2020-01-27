@@ -5,20 +5,23 @@ metadata:
   description: 'Esame MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: |-
+summary: >-
   I candidati idonei a questo esame sono consulenti funzionali che hanno accesso alle funzioni e funzionalità del prodotto con licenza enterprise. In qualità di consulenti funzionali, i candidati sono a conoscenza delle versioni bundle delle funzionalità, ma solitamente non lavorano con questi prodotti in bundle.
+
   <br/>
 
+
   I candidati si occupano principalmente di configurare il sistema in base alle esigenze dei clienti, eseguire le attività di progettazione relative all'implementazione di nuove funzioni e funzionalità, e implementare e testare le modifiche del sistema.
+
 
   Pianificano la progettazione funzionale delle soluzioni, implementano un processo ALM (Application Lifecycle Management), migrano dati e oggetti da sistemi legacy ed esterni, integrano Power Platform con altri sistemi e gestiscono l'ambiente Power Platform.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire operazioni di rilevamento, pianificazione ed analisi; gestire la progettazione dell’esperienza utente; gestire entità e dati; implementare la sicurezza; implementare l’integrazione; ed eseguire la distribuzione e il testing di soluzioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-200&examname=Esame%20MB-200:%20Microsoft%20Power%20Platform%20+%20Dynamics&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-200&examname=Esame%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
@@ -30,17 +33,17 @@ skills:
 - Eseguire la distribuzione e il testing di soluzioni (25-30%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-sales
-- dynamics-marketing
-- dynamics-field-service
-- dynamics-customer-service
 exams:
 - uid: exam.mb-210
 - uid: exam.mb-220
 - uid: exam.mb-230
 - uid: exam.mb-240
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
 courses:
 - uid: course.mb-200t01
 - uid: course.mb-200t02

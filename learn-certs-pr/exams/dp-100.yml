@@ -1,23 +1,20 @@
 ### YamlMime:Examination
-title: Progettare e implementare una soluzione di Data Science in Azure
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Esame DP-100: Progettare e implementare una soluzione di Data Science in Azure'
-  description: 'Esame DP-100: Progettare e implementare una soluzione di Data Science in Azure'
+  title: 'Esame DP-100: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Esame DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
-summary: |-
-  I candidati a questo esame applicano rigore scientifico e tecniche di analisi dei dati per ottenere informazioni utili e comunicare i risultati alle parti interessate. I candidati utilizzano le tecniche di apprendimento automatico per testare, valutare e distribuire modelli per costruire soluzioni Al che soddisfino gli obiettivi aziendali. I candidati utilizzano applicazioni che implicano l'elaborazione di un linguaggio naturale, la parola, la visone artificiale e l'analisi predittiva. 
-
-  I candidati sono parte di un team multidisciplinare che comprende considerazioni etiche, di privacy e di gestione per arrivare alla soluzione. I candidati solitamente hanno un background in scienze matematiche, statistiche e informatiche.
+summary: "I candidati a questo esame applicano rigore scientifico e tecniche di analisi dei dati per ottenere informazioni utili e comunicare i risultati alle parti interessate. I candidati utilizzano le tecniche di apprendimento automatico per testare, valutare e distribuire modelli per costruire soluzioni Al che soddisfino gli obiettivi aziendali. I candidati utilizzano applicazioni che implicano l'elaborazione di un linguaggio naturale, la parola, la visone artificiale e l'analisi predittiva. \n\nI candidati sono parte di un team multidisciplinare che comprende considerazioni etiche, di privacy e di gestione per arrivare alla soluzione. I candidati solitamente hanno un background in scienze matematiche, statistiche e informatiche."
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: definire e preparare l’ambiente di sviluppo; preparare i dati per la modellazione; eseguire la progettazione delle funzionalità; sviluppare modelli.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-100&examname=Esame%20DP-100:%20Progettare%20e%20implementare%20una%20soluzione%20di%20Data%20Science%20in%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-100&examname=Esame%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:

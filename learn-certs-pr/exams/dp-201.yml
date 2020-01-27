@@ -1,27 +1,30 @@
 ### YamlMime:Examination
-title: Progettare una soluzione dati Azure
+title: Designing an Azure Data Solution
 metadata:
-  title: 'Esame DP-201: Progettare una soluzione dati Azure'
-  description: 'Esame DP-201: Progettare una soluzione dati Azure'
+  title: 'Esame DP-201: Designing an Azure Data Solution'
+  description: 'Esame DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: |-
+summary: >-
   I candidati a questo esame sono tecnici dati di Microsoft Azure che collaborano con le parti interessate per identificare e soddisfare i requisiti dei dati per progettare soluzioni dati che usano i servizi dati di Azure.
+
   <br/>
 
+
   I tecnici dati di Microsoft Azure sono responsabili di attività correlate ai dati che includono la progettazione di soluzioni di archiviazione dati di Azure che usano archivi dati relazionali e non relazionali, l’elaborazione in batch e in tempo reale dei dati, e soluzioni di sicurezza e conformità dei dati.
+
 
   I candidati idonei a questo esame devono essere in grado di progettare soluzioni dati che usano i seguenti servizi di Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks e il servizio di archiviazione Azure Blob.
 subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: progettare soluzioni per l'archiviazione dati Azure; progettare soluzioni di elaborazione dei dati; progettare la sicurezza e conformità dei dati."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-201&examname=Esame%20DP-201:%20Progettare%20una%20soluzione%20dati%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-201&examname=Esame%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 levels:
 - intermediate
 skills:
@@ -30,6 +33,8 @@ skills:
 - Progettare la sicurezza e conformità dei dati (25-30%)
 roles:
 - data-engineer
+exams:
+- uid: exam.dp-200
 products:
 - azure
 - azure-cosmos-db
@@ -42,8 +47,6 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
-exams:
-- uid: exam.dp-200
 courses:
 - uid: course.dp-201t01
 paths:

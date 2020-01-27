@@ -1,17 +1,22 @@
 ### YamlMime:Examination
-title: Competenza tecnologica per educatori
+title: Technology Literacy for Educators
 metadata:
-  title: 'Esame 62-193: Competenza tecnologica per educatori'
-  description: 'Esame 62-193: Competenza tecnologica per educatori'
+  title: 'Esame 62-193: Technology Literacy for Educators'
+  description: 'Esame 62-193: Technology Literacy for Educators'
 uid: exam.62-193
 displayName: 62-193
-summary: |-
+summary: >-
   I candidati per questo esame includono persone che si stanno preparando a diventare educatori in classe, educatori correnti, insegnante di facoltà o di college propedeutici, amministratori educativi o altre professioni per le quali è necessario convalidare la propria competenza.
+
 
   Il test per la certificazione MCE&#58; Competenza tecnologica per educatori è un esame di livello intermedio che intende essere una misura valida e affidabile delle competenze, misurate secondo il framework del 21st Century Learning Design (21CLD).
 subTitle: I candidati per questo esame includono persone che si stanno preparando a diventare educatori in classe, educatori correnti, insegnante di facoltà o di college propedeutici, amministratori educativi o altre professioni per le quali è necessario convalidare la propria competenza.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=62-193&examname=Competenza%20tecnologica%20per%20educatori&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2F62-193
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2F62-193
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -22,7 +27,7 @@ locales:
 - ru
 - pl
 - ja
-levels: 
+levels:
 - beginner
 skills:
 - Facilitare la collaborazione tra studenti

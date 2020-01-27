@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: 'I tecnici dati di Azure progettano e implementano la gestione, il monitoraggio, la sicurezza e la riservatezza dei dati utilizzando lo stack completo dei servizi dati di Azure per soddisfare le esigenze aziendali.'
+  description: I tecnici dati di Azure progettano e implementano la gestione, il monitoraggio, la sicurezza e la riservatezza dei dati utilizzando lo stack completo dei servizi dati di Azure per soddisfare le esigenze aziendali.
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  I tecnici dati di Azure progettano e implementano la gestione, il monitoraggio, la sicurezza e la riservatezza dei dati utilizzando lo stack completo dei servizi dati di Azure per soddisfare le esigenze aziendali.
+summary: I tecnici dati di Azure progettano e implementano la gestione, il monitoraggio, la sicurezza e la riservatezza dei dati utilizzando lo stack completo dei servizi dati di Azure per soddisfare le esigenze aziendali.
 subTitle: I tecnici dati di Azure progettano e implementano la gestione, il monitoraggio, la sicurezza e la riservatezza dei dati utilizzando lo stack completo dei servizi dati di Azure per soddisfare le esigenze aziendali.
 levels:
 - intermediate

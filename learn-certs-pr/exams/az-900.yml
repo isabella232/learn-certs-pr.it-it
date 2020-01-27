@@ -5,15 +5,20 @@ metadata:
   description: 'Esame AZ-900: Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
-summary: |-
+summary: >-
   Questo esame è pensato per i candidati che desiderano dimostrare una conoscenza di base dei servizi cloud e di come tali servizi vengano forniti con Microsoft Azure. L'esame è rivolto ai candidati senza un background tecnico, come quelli che sono coinvolti nella vendita o nell'acquisto di soluzioni e servizi basati sul cloud o che sono coinvolti in qualche modo con soluzioni e servizi basati sul cloud, così come a coloro con un background tecnico che hanno la necessità di convalidare le loro conoscenze di base dei servizi cloud. Benché non sia richiesta alcuna esperienza IT tecnica, è utile avere conoscenze IT generali.
+
 
   Questo esame può essere considerato il primo passo per conoscere i servizi cloud e scoprire come questi concetti siano esemplificati da Microsoft Azure. Può essere considerato come anticamera per l'esame per Microsoft Azure o per i servizi cloud di Microsoft. Sebbene convalidare le conoscenze di base sarebbe un primo passo utile, sostenere questo esame non è un pre-requisito per altre certificazioni Azure.
 subTitle: 'Questo esame misura la tua capacità di comprendere i seguenti concetti: concetti del cloud; servizi di base di Azure; sicurezza, privacy, conformità e affidabilità; e prezzi e supporto di Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-900&examname=Esame%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-900
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-900&examname=Esame%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja

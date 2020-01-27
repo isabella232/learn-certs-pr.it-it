@@ -1,20 +1,25 @@
 ### YamlMime:Examination
-title: 'Excel 2016: Competenze di base per l’analisi, la modifica e la presentazione di dati'
+title: 'Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 metadata:
-  title: 'Esame 77-727: Excel 2016: Competenze di base per l’analisi, la modifica e la presentazione di dati'
-  description: 'Esame 77-727: Excel 2016: Competenze di base per l’analisi, la modifica e la presentazione di dati'
+  title: 'Esame 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
+  description: 'Esame 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 uid: exam.77-727
 displayName: 77-727
-summary: |
+summary: >
   I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le funzionalità principali di Excel 2016. I candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine e utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
 
+
   Gli esami di certificazione come Specialista di Microsoft Office 2016 (MOS) introducono un nuovo formato basato sulle prestazioni per migliorare la valutazione delle conoscenze, capacità e abilità di un candidato relativamente all’utilizzo dei programmi MOS 2016&#58;
+
   - Le istruzioni per l’Esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò ha lo scopo di stimolare i candidati a comprendere l'obiettivo e l'utilizzo comune della funzionalità del programma, consentendo loro di completare le attività di ciascun progetto.
+
   - Il formato dell'Esame MOS 2016 comprende più progetti.
 subTitle: I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le funzionalità principali di Excel 2016. I candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine e utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
-scheduleExamUrl: http://www.certiport.com/locator
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -33,7 +38,7 @@ locales:
 - ru
 - th
 - tr
-levels: 
+levels:
 - intermediate
 skills:
 - Creare e gestire fogli e cartelle di lavoro (30-35%)

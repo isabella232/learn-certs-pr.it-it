@@ -1,25 +1,28 @@
 ### YamlMime:Examination
-title: Pianificare e configurare una piattaforma di messaggistica
+title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 'Esame MS-200: Pianificare e configurare una piattaforma di messaggistica'
-  description: 'Esame MS-200: Pianificare e configurare una piattaforma di messaggistica'
+  title: 'Esame MS-200: Planning and Configuring a Messaging Platform'
+  description: 'Esame MS-200: Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
-summary: |-
-   I candidati a questo esame sono amministratori di messaggistica che installano, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta elettronica, il flusso della posta elettronica e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
+summary: >-
+  I candidati a questo esame sono amministratori di messaggistica che installano, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta elettronica, il flusso della posta elettronica e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
 
-   Gli amministratori della messaggistica sono responsabili della gestione della pulizia, dell'infrastruttura di messaggistica, della configurazione ibrida, della migrazione, del ripristino di emergenza, dell'alta disponibilità e dell'accesso client.
 
-   Gli amministratori della messaggistica collaborano con l'amministratore della sicurezza e l'amministratore di Microsoft 365 Enterprise per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'azienda moderna.
+  Gli amministratori della messaggistica sono responsabili della gestione della pulizia, dell'infrastruttura di messaggistica, della configurazione ibrida, della migrazione, del ripristino di emergenza, dell'alta disponibilità e dell'accesso client.
 
-   L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
+
+  Gli amministratori della messaggistica collaborano con l'amministratore della sicurezza e l'amministratore di Microsoft 365 Enterprise per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'azienda moderna.
+
+
+  L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: gestire le moderne infrastrutture di messaggistica; gestire la topologia del flusso di posta; e gestire i destinatari e i dispositivi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-200&examname=Esame%20MS-200:%20Pianificare%20e%20configurare%20una%20piattaforma%20di%20messaggistica&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-200&examname=Esame%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
@@ -28,10 +31,10 @@ skills:
 - Gestire i destinatari e i dispositivi (15-20%)
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-201
+products:
+- m365
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02

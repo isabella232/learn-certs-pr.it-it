@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals'
-  description: "Dimostra di conoscere Microsoft Dynamics 365, Power Platform, i fondamenti del cloud, le opzioni di licenza e le opzioni per l'installazione e il rilascio."
+  description: Dimostra di conoscere Microsoft Dynamics 365, Power Platform, i fondamenti del cloud, le opzioni di licenza e le opzioni per l'installazione e il rilascio.
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Dimostra di conoscere Microsoft Dynamics 365, Power Platform, i fondamenti del cloud, le opzioni di licenza e le opzioni per l'installazione e il rilascio.
+summary: Dimostra di conoscere Microsoft Dynamics 365, Power Platform, i fondamenti del cloud, le opzioni di licenza e le opzioni per l'installazione e il rilascio.
 subTitle: Dimostra di conoscere Microsoft Dynamics 365, Power Platform, i fondamenti del cloud, le opzioni di licenza e le opzioni per l'installazione e il rilascio.
 levels:
 - beginner

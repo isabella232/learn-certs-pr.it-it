@@ -1,22 +1,28 @@
 ### YamlMime:Examination
-title: 'Excel 2016 Expert Interpretazione dei dati per Insights'
+title: 'Excel 2016 Expert: Interpreting Data for Insights'
 metadata:
-  title: 'Esame 77-728: Excel 2016 Expert Interpretazione dei dati per Insights'
-  description: 'Esame 77-728: Excel 2016 Expert Interpretazione dei dati per Insights'
+  title: 'Esame 77-728: Excel 2016 Expert: Interpreting Data for Insights'
+  description: 'Esame 77-728: Excel 2016 Expert: Interpreting Data for Insights'
 uid: exam.77-728
 displayName: 77-728
-summary: |
+summary: >
   I candidati di livello Esperto che sostengono l'esame Excel 2016 devono avere una conoscenza avanzata dell'ambiente Excel ed essere in grado di spiegare ad altri utenti come utilizzare correttamente le funzionalità del programma.
+
 
   I candidati devono essere in grado di creare, gestire e distribuire documenti professionali per numerosi scopi e in situazioni diverse. Devono essere in grado di personalizzare gli ambienti Excel in base alle esigenze di progetto e per migliorare la produttività. Esempi di cartelle di lavoro includono modelli aziendali personalizzati, grafici finanziari con più assi, tabelle di ammortamento e pianificazioni dell'inventario. I ruoli dei candidati possono includere contabili, analisti finanziari, analisti dei dati, operatori di banche commerciali e altri.
 
+
   Gli esami di certificazione come Specialista di Microsoft Office 2016 (MOS) introducono un nuovo formato basato sulle prestazioni per migliorare la valutazione delle conoscenze, capacità e abilità di un candidato relativamente all’utilizzo dei programmi MOS 2016&#58;
+
   - Le istruzioni per l’Esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò ha lo scopo di stimolare i candidati a comprendere l'obiettivo e l'utilizzo comune della funzionalità del programma, consentendo loro di completare le attività di ciascun progetto.
+
   - Il formato dell'Esame MOS 2016 comprende più progetti.
 subTitle: I candidati di livello Esperto che sostengono l'esame Excel 2016 devono avere una conoscenza avanzata dell'ambiente Excel ed essere in grado di spiegare ad altri utenti come utilizzare correttamente le funzionalità del programma.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
-scheduleExamUrl: http://www.certiport.com/locator
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +33,7 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+levels:
 - intermediate
 skills:
 - Gestire le opzioni e le impostazioni della cartella di lavoro (10-15%)

@@ -1,22 +1,24 @@
 ### YamlMime:Examination
-title: 'Creare applicazioni e soluzioni con i servizi di base di Microsoft 365 (beta)'
+title: Building Applications and Solutions with Microsoft 365 Core Services (beta)
 metadata:
-  title: 'Esame MS-600: Creare applicazioni e soluzioni con i servizi di base di Microsoft 365 (beta)'
-  description: 'Esame MS-600: Creare applicazioni e soluzioni con i servizi di base di Microsoft 365 (beta)'
+  title: 'Esame MS-600: Building Applications and Solutions with Microsoft 365 Core Services (beta)'
+  description: 'Esame MS-600: Building Applications and Solutions with Microsoft 365 Core Services (beta)'
 uid: exam.ms-600
 displayName: MS-600
-summary: |-
+summary: >-
   I candidati idonei a questo esame sono sviluppatori di Microsoft 365 che progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
 
+
   Sono inoltre esperti nell’uso di Microsoft Identity e Microsoft Graph. Devono inoltre avere una conoscenza generale degli elementi dell’interfaccia utente (tra cui le schede adattive e UI Fabric) e dei punti di integrazione (tra cui Microsoft Teams, i moduli aggiuntivi di Office, SharePoint Framework e i messaggi interattivi), e sono in grado di determinare gli obiettivi per la piattaforma che gestisce il carico di lavoro.
+
 
   I candidati devono saper sviluppare soluzioni in Microsoft Teams, nei moduli aggiuntivi di Office o SharePoint Framework durante tutte le fasi dello sviluppo del software. Devono inoltre possedere una conoscenza di base delle API REST, JSON, OAuth2, OData, OpenID Connect, delle identità di Microsoft (tra cui Azure AD e account Microsoft), Azure AD B2C e i concetti di autorizzazioni/consensi.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare Microsoft Identity; creare app con Microsoft Graph; estendere l’uso di e personalizzare SharePoint; estendere l’uso di Microsoft Teams; ed estendere l’uso di Office.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-600&examname=Esame%20MS-600:%20Creare%20applicazioni%20e%20soluzioni%20con%20i%20servizi%20di%20base%20di%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-600
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-600&examname=Esame%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-600
 levels:
 - intermediate
 skills:

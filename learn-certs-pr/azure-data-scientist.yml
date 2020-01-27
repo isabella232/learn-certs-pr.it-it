@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: 'Gli Azure Data Scientist applicano le tecniche di machine learning di Azure per addestrare, valutare e implementare modelli che risolvono i problemi aziendali.'
+  description: Gli Azure Data Scientist applicano le tecniche di machine learning di Azure per addestrare, valutare e implementare modelli che risolvono i problemi aziendali.
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Gli Azure Data Scientist applicano le tecniche di machine learning di Azure per addestrare, valutare e implementare modelli che risolvono i problemi aziendali.
+summary: Gli Azure Data Scientist applicano le tecniche di machine learning di Azure per addestrare, valutare e implementare modelli che risolvono i problemi aziendali.
 subTitle: Gli Azure Data Scientist applicano le tecniche di machine learning di Azure per addestrare, valutare e implementare modelli che risolvono i problemi aziendali.
 levels:
 - intermediate
