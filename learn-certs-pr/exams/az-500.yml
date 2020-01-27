@@ -1,24 +1,25 @@
 ### YamlMime:Examination
-title: Tecnologie di sicurezza di Microsoft Azure
+title: Microsoft Azure Security Technologies
 metadata:
-  title: 'Esame AZ-500: Tecnologie di sicurezza di Microsoft Azure'
-  description: 'Esame AZ-500: Tecnologie di sicurezza di Microsoft Azure'
+  title: 'Esame AZ-500: Microsoft Azure Security Technologies'
+  description: 'Esame AZ-500: Microsoft Azure Security Technologies'
 uid: exam.az-500
 displayName: AZ-500
-summary: |-
+summary: >-
   I candidati a questo esame sono tecnici della sicurezza di Microsoft Azure che implementano controlli di sicurezza, aggiornano il comportamento di sicurezza, gestiscono le identità e gli accessi, e proteggono dati, applicazioni e reti. I candidati sono in grado di identificare e risolvere le vulnerabilità tramite numerosi strumenti di sicurezza, implementare la protezione contro le minacce e rispondere alle riassegnazioni degli incidenti di sicurezza. Nella loro posizione di tecnici responsabili della sicurezza di Microsoft Azure, i candidati fanno spesso parte di team più ampi che si occupano della gestione e della sicurezza basata su cloud, oltre che della protezione degli ambienti ibridi nell’ambito di un’infrastruttura end-to-end.
+
 
   I candidati a questo esame devono possedere competenze comprovate nella compilazione di script e nell'automazione, oltre a conoscenze approfondite delle reti, della virtualizzazione, dell’architettura N-tier basata sul cloud. Inoltre, devono conoscere bene le funzionalità cloud, i prodotti e i servizi di Microsoft Azure e di Microsoft in generale.
 subTitle: 'Questo esame misura la tua capacità di effettuare le seguenti attività tecniche: gestire le identità e l’accesso; implementare la protezione della piattaforma; gestire le operazioni di sicurezza; e mettere in sicurezza dati e applicazioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-500&examname=Esame%20AZ-500:%20Tecnologie%20di%20sicurezza%20di%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-500&examname=Esame%20AZ-500:%20Tecnologie%20di%20sicurezza%20di%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-500
 levels:
 - intermediate
 skills:
@@ -59,4 +60,3 @@ resources:
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
-

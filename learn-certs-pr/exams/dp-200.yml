@@ -1,11 +1,11 @@
 ### YamlMime:Examination
-title: Implementare una soluzione dati Azure
+title: Implementing an Azure Data Solution
 metadata:
-  title: 'Esame DP-200: Implementare una soluzione dati Azure'
-  description: 'Esame DP-200: Implementare una soluzione dati Azure'
+  title: 'Esame DP-200: Implementing an Azure Data Solution'
+  description: 'Esame DP-200: Implementing an Azure Data Solution'
 uid: exam.dp-200
 displayName: DP-200
-summary: |-
+summary: >-
   I candidati idonei a questo esame sono tecnici di dati di Microsoft Azure che collaborano con le parti interessate per identificare e soddisfare i requisiti dei dati al fine di implementare soluzioni di dati che utilizzino i servizi dati di Azure.
 
    I tecnici dati di Azure sono responsabili di attività correlate ai dati che includono la distribuzione di servizi di archiviazione dati, l’inserimento di dati in streaming e in batch, la trasformazione di dati, l’implementazione di requisiti di sicurezza, l’implementazione di criteri di conservazione dei dati, l’identificazione dei colli di bottiglia relativi alle prestazioni e l’accesso alle origini dati esterne.
@@ -15,12 +15,12 @@ subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attivit�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-200&examname=Esame%20DP-200:%20Implementare%20una%20soluzione%20dati%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-200&examname=Esame%20DP-200:%20Implementare%20una%20soluzione%20dati%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 levels:
 - intermediate
 skills:
@@ -29,6 +29,8 @@ skills:
 - Monitorare e ottimizzare le soluzioni dati (30-35%)
 roles:
 - data-engineer
+exams:
+- uid: exam.dp-201
 products:
 - azure
 - azure-cosmos-db
@@ -41,8 +43,6 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
-exams:
-- uid: exam.dp-201
 courses:
 - uid: course.dp-200t01
 paths:

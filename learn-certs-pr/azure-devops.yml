@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: Azure DevOps Engineer Expert'
-  description: 'I professionisti Azure DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.'
+  description: I professionisti Azure DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.
 uid: certification.azure-devops
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  I professionisti Azure DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.
+summary: I professionisti Azure DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.
 subTitle: I professionisti Azure DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.
 levels:
 - advanced
@@ -27,11 +26,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -45,12 +39,17 @@ prerequisites:
   isOptional: false
 - uid: certification.azure-developer
   isOptional: false
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
 exams:
 - uid: exam.az-400
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure DevOps Engineer Expert.'
+  description: Scopri le risorse di formazione per diventare un Microsoft Certified: Azure DevOps Engineer Expert.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.

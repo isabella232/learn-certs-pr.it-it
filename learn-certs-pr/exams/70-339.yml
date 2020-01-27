@@ -5,17 +5,18 @@ metadata:
   description: 'Esame 70-339: Managing Microsoft SharePoint Server 2016'
 uid: exam.70-339
 displayName: 70-339
-summary: |-
+summary: >-
   L'esame è pensato per i professionisti IT che si occupano di installare, configurare, implementare e gestire le installazioni di SharePoint 2016 in un data center e nel cloud. I candidati in genere hanno più di quattro anni di esperienza nella pianificazione e la manutenzione di SharePoint e altre tecnologie di base da cui dipende SharePoint, inclusi Windows Server 2008 R2 o versione successiva, Internet Information Services (IIS), SQL Server 2008 R2 o versione successiva, Active Directory e servizi di infrastruttura di rete.
 
+
   I candidati devono inoltre avere esperienza con la gestione della continuità operativa, tra cui il backup dei dati, il ripristino e l'elevata disponibilità, oltre all'esperienza con l'autenticazione e le tecnologie di sicurezza. L'esperienza con PowerShell è di gran lunga preferibile.
+
 
   I destinatari secondari di questo esame sono i Business Application Administrators (BAA) che sono attivamente impegnati nell'amministrazione di progetti line-of-business (LOB) in collaborazione con i clienti aziendali interni che lavorano con SharePoint 2016.
 subTitle: L'esame è pensato per i professionisti IT che si occupano di installare, configurare, implementare e gestire le installazioni di SharePoint 2016 in un data center e nel cloud. I candidati in genere hanno più di quattro anni di esperienza nella pianificazione e la manutenzione di SharePoint e altre tecnologie di base da cui dipende SharePoint, inclusi Windows Server 2008 R2 o versione successiva, Internet Information Services (IIS), SQL Server 2008 R2 o versione successiva, Active Directory e servizi di infrastruttura di rete.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es
@@ -25,7 +26,8 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2F70-339
+levels:
 - intermediate
 skills:
 - Progettare l'infrastruttura SharePoint (15-20%)

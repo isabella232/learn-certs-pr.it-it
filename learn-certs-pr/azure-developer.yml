@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description:  'Gli sviluppatori di Microsoft Azure progettano, creano, testano e aggiornano soluzioni cloud, come applicazioni e servizi, collaborano con gli architetti di soluzioni cloud, gli amministratori di database cloud, gli amministratori del cloud e con i clienti per implementare queste soluzioni.'
+  description: Gli sviluppatori di Microsoft Azure progettano, creano, testano e aggiornano soluzioni cloud, come applicazioni e servizi, collaborano con gli architetti di soluzioni cloud, gli amministratori di database cloud, gli amministratori del cloud e con i clienti per implementare queste soluzioni.
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Gli sviluppatori di Microsoft Azure progettano, creano, testano e aggiornano soluzioni cloud, come applicazioni e servizi, collaborano con gli architetti di soluzioni cloud, gli amministratori di database cloud, gli amministratori del cloud e con i clienti per implementare queste soluzioni.
+summary: Gli sviluppatori di Microsoft Azure progettano, creano, testano e aggiornano soluzioni cloud, come applicazioni e servizi, collaborano con gli architetti di soluzioni cloud, gli amministratori di database cloud, gli amministratori del cloud e con i clienti per implementare queste soluzioni.
 subTitle: Gli sviluppatori di Microsoft Azure progettano, creano, testano e aggiornano soluzioni cloud, come applicazioni e servizi, collaborano con gli architetti di soluzioni cloud, gli amministratori di database cloud, gli amministratori del cloud e con i clienti per implementare queste soluzioni.
 levels:
 - intermediate

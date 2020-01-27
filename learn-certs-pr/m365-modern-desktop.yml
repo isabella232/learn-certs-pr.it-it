@@ -2,11 +2,10 @@
 title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
-  description: 'Gli amministratori di desktop moderni installano, configurano, proteggono, gestiscono e monitorano dispositivi e applicazioni client in un ambiente aziendale.'
+  description: Gli amministratori di desktop moderni installano, configurano, proteggono, gestiscono e monitorano dispositivi e applicazioni client in un ambiente aziendale.
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Gli amministratori di desktop moderni installano, configurano, proteggono, gestiscono e monitorano dispositivi e applicazioni client in un ambiente aziendale.
+summary: Gli amministratori di desktop moderni installano, configurano, proteggono, gestiscono e monitorano dispositivi e applicazioni client in un ambiente aziendale.
 subTitle: Gli amministratori di desktop moderni installano, configurano, proteggono, gestiscono e monitorano dispositivi e applicazioni client in un ambiente aziendale.
 levels:
 - intermediate
@@ -41,7 +40,7 @@ exams:
 - uid: exam.md-101
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Modern Desktop Administrator Associate.'
+  description: Scopri le risorse di formazione per diventare un Microsoft Certified: Modern Desktop Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.

@@ -5,8 +5,9 @@ metadata:
   description: 'Esame MS-900: Microsoft 365 Fundamentals'
 uid: exam.ms-900
 displayName: MS-900
-summary: |-
+summary: >-
   Questo esame è pensato per i candidati che hanno l’esigenza di dimostrare una conoscenza di base degli elementi e dei vantaggi derivanti dall’adozione di servizi cloud e del modello Software as a Service (SaaS). L’esame include argomenti quali le opzioni disponibili e i vantaggi derivanti dall’implementazione delle offerte dei servizi cloud di Microsoft 365.
+
 
   Questo esame può essere sostenuto in anticipazione agli esami sul cloud computing e le relative tecnologie, come quelli relativi a Office 365, Microsoft Intune, Azure Information Protection (AIP) e Windows 10.
 subTitle: Dimostra di comprendere i concetti del cloud; i servizi e i concetti di base di Microsoft 365; la sicurezza, la conformità, la privacy e l’attendibilità di Microsoft 365; e i prezzi e il supporto di Microsoft 365.
@@ -17,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-900&examname=Esame%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-900&examname=Esame%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -60,4 +61,3 @@ resources:
 - title: Criteri degli esami e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
-

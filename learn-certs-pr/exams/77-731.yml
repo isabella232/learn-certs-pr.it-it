@@ -1,20 +1,22 @@
 ### YamlMime:Examination
-title: 'Outlook 2016: Competenze di base per le comunicazioni, la collaborazione e l’uso della posta elettronica'
+title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
 metadata:
-  title: 'Esame 77-731: Outlook 2016: Competenze di base per le comunicazioni, la collaborazione e l’uso della posta elettronica'
-  description: 'Esame 77-731: Outlook 2016: Competenze di base per le comunicazioni, la collaborazione e l’uso della posta elettronica'
+  title: 'Esame 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  description: 'Esame 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |
+summary: >
   I candidati ideali devono saper creare e modificare messaggi di posta elettronica dall'aspetto professionale; mantenere i calendari tra i diversi fusi orari e pianificare attività per diversi obiettivi e in più situazioni. I candidati utilizzeranno Outlook 2016 per migliorare la corrispondenza professionale, creare calendari e pianificare appuntamenti. Esempi di applicazioni includono il coordinamento delle risorse di costruzione, l'invio di messaggi per le campagne di marketing, la pianificazione di riunioni del personale e l'assegnazione di voci relative ad azioni della riunione.
 
+
   Gli esami di certificazione come Specialista di Microsoft Office 2016 (MOS) introducono un nuovo formato basato sulle prestazioni per migliorare la valutazione delle conoscenze, capacità e abilità di un candidato relativamente all’utilizzo dei programmi MOS 2016&#58;
+
   - Le istruzioni per l’Esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò ha lo scopo di stimolare i candidati a comprendere l'obiettivo e l'utilizzo comune della funzionalità del programma, consentendo loro di completare le attività di ciascun progetto.
+
   - Il formato dell'Esame MOS 2016 comprende più progetti.
 subTitle: I candidati ideali devono saper creare e modificare messaggi di posta elettronica dall'aspetto professionale; mantenere i calendari tra i diversi fusi orari e pianificare attività per diversi obiettivi e in più situazioni. I candidati utilizzeranno Outlook 2016 per migliorare la corrispondenza professionale, creare calendari e pianificare appuntamenti. Esempi di applicazioni includono il coordinamento delle risorse di costruzione, l'invio di messaggi per le campagne di marketing, la pianificazione di riunioni del personale e l'assegnazione di voci relative ad azioni della riunione.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -25,7 +27,8 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Gestire l'ambiente Outlook per la produttività (20-25%)
