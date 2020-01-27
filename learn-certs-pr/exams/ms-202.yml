@@ -10,7 +10,7 @@ summary: >-
 
 
 
-  Questo esame è pensato solo per i candidati che hanno già sostenuto l’[Esame 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Progettare e distribuire Microsoft Exchange Server 2016. Se non sostenuto l’Esame 345, con questo esame non otterrai una certificazione.
+  Questo esame è pensato solo per i candidati che hanno già sostenuto l’[Esame 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Designing and Deploying Microsoft Exchange Server 2016. Se non sostenuto l’Esame 345, con questo esame non otterrai una certificazione.
 
 
   I candidati idonei a questo esame sono amministratori di messaggistica che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
@@ -22,7 +22,7 @@ summary: >-
   Collaborano con l'amministratore della sicurezza e l'amministratore di Microsoft 365 Enterprise per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'organizzazione moderna.
 
    L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
-subTitle: 'Questo esame è pensato solo per i candidati che hanno sostenuto l’Esame 70-345: Progettare e distribuire Microsoft Exchange Server 2016. Se non sostenuto l’Esame 345, con questo esame non otterrai una certificazione.'
+subTitle: 'Questo esame è pensato solo per i candidati che hanno sostenuto l’Esame 70-345: Designing and Deploying Microsoft Exchange Server 2016. Se non sostenuto l’Esame 345, con questo esame non otterrai una certificazione.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
 locales:

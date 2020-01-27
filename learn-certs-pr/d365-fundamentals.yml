@@ -27,7 +27,7 @@ exams:
 - uid: exam.mb-900
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: Scopri le risorse di formazione per diventare un Microsoft Certified: Dynamics 365 Fundamentals.
+  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.

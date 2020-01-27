@@ -9,6 +9,9 @@ summary: "I candidati idonei a sostenere l'esame su Word 2016 devono avere una c
 subTitle: I candidati idonei a sostenere l'esame su Word 2016 devono avere una comprensione di base dell'ambiente Word ed essere in grado di completare le attività in modo indipendente. Inoltre, devono dimostrare di sapere applicare correttamente le principali funzionalità di Word 2016 creando e modificando documenti di due o tre pagine per vari obiettivi e in più situazioni. Gli esempi di documenti includono rapporti professionali, newsletter a più colonne, curriculum vitae e corrispondenza commerciale.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

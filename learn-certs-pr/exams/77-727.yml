@@ -17,6 +17,9 @@ summary: >
 subTitle: I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le funzionalità principali di Excel 2016. I candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine e utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -35,7 +38,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

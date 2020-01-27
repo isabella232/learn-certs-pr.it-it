@@ -9,6 +9,9 @@ summary: "I candidati idonei dovranno conoscere i concetti di base dell'ambiente
 subTitle: I candidati idonei dovranno conoscere i concetti di base dell'ambiente PowerPoint e dimostrare di sapere applicare correttamente PowerPoint 2016. I candidati devono essere in grado di creare, modificare e migliorare le presentazioni. Gli esempi di presentazioni includono presentazioni di vendita professionali, formazione dei dipendenti, materiale didattico e presentazioni per punti informativi.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

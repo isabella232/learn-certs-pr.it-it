@@ -17,6 +17,9 @@ summary: >
 subTitle: I candidati ideali che sostengono l'esame per Access 2016 devono conoscere i concetti di base dell'ambiente dell'applicazione. Devono conoscere i principi di progettazione di un database di base ed essere in grado di completare le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le principali funzionalità di Access 2016 ed essere in grado di creare e gestire oggetti di un database Access di base, tra cui tabelle, relazioni, moduli di inserimento dati, rapporti a più livelli e query su più tabelle.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -26,10 +29,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

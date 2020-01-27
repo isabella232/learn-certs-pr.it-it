@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: Scopri le risorse di formazione per diventare un Microsoft Certified: Fundamentals.
+  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.

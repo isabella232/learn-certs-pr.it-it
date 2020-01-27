@@ -19,7 +19,7 @@ practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_me
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-500&examname=Esame%20MS-500:%20Amministrare%20la%20sicurezza%20di%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-500&examname=Esame%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
