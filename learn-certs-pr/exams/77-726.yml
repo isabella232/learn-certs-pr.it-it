@@ -9,6 +9,9 @@ summary: "I candidati di Esperto che sostengono l'esame di Word 2016 devono dimo
 subTitle: I candidati di Esperto che sostengono l'esame di Word 2016 devono dimostrare di essere capaci di usare le funzionalità avanzate di Word 2016 per la gestione di documenti e contenuti nonché per la formattazione avanzata.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -19,7 +22,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

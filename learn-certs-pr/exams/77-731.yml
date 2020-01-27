@@ -17,6 +17,9 @@ summary: >
 subTitle: I candidati ideali devono saper creare e modificare messaggi di posta elettronica dall'aspetto professionale; mantenere i calendari tra i diversi fusi orari e pianificare attività per diversi obiettivi e in più situazioni. I candidati utilizzeranno Outlook 2016 per migliorare la corrispondenza professionale, creare calendari e pianificare appuntamenti. Esempi di applicazioni includono il coordinamento delle risorse di costruzione, l'invio di messaggi per le campagne di marketing, la pianificazione di riunioni del personale e l'assegnazione di voci relative ad azioni della riunione.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:
