@@ -1,22 +1,21 @@
 ### YamlMime:Examination
-title: Progettare un’architettura Microsoft Azure
+title: Microsoft Azure Architect Design
 metadata:
   title: 'Esame AZ-301: Microsoft Azure Architect Design'
   description: 'Esame AZ-301: Microsoft Azure Architect Design'
 uid: exam.az-301
 displayName: AZ-301
-summary: |-
-  I candidati a questo esame sono progettisti di soluzioni Azure che fungono da consulenti alle parti interessate e che trasformano i requisiti di business in soluzioni sicure, scalabili e affidabili. I candidati devono possedere una vasta esperienza e conoscenza di vari aspetti delle operazioni IT, tra cui reti, virtualizzazione, identità, sicurezza, business continuity, disaster recovery, gestione dei dati, pianificazione del budget e governance. Le persone in questo ruolo hanno il compito di determinare l’impatto delle decisioni di ciascuna area sulla soluzione globale. I candidati devono essere esperti nell'amministrazione di Azure, nello sviluppo di Azure e in DevOps, nonché avere competenze a livello di esperti in almeno uno di questi campi.
+summary: I candidati a questo esame sono progettisti di soluzioni Azure che fungono da consulenti alle parti interessate e che trasformano i requisiti di business in soluzioni sicure, scalabili e affidabili. I candidati devono possedere una vasta esperienza e conoscenza di vari aspetti delle operazioni IT, tra cui reti, virtualizzazione, identità, sicurezza, business continuity, disaster recovery, gestione dei dati, pianificazione del budget e governance. Le persone in questo ruolo hanno il compito di determinare l’impatto delle decisioni di ciascuna area sulla soluzione globale. I candidati devono essere esperti nell'amministrazione di Azure, nello sviluppo di Azure e in DevOps, nonché avere competenze a livello di esperti in almeno uno di questi campi.
 subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: determinare i carichi di lavoro; progettare l’identità e la sicurezza; progettare una soluzione per la piattaforma dati; progettare una strategia di business continuity; progettare l'installazione, la migrazione e l’integrazione; e progettare una strategia per l’infrastruttura."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-301&examname=Esame%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-301&examname=Esame%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-301
 levels:
 - advanced
 skills:
@@ -28,6 +27,8 @@ skills:
 - Progettare una strategia per l’infrastruttura (15-20%)
 roles:
 - solution-architect
+exams:
+- uid: exam.az-300
 products:
 - azure
 - azure-active-directory
@@ -50,8 +51,6 @@ products:
 - azure-cosmos-db
 - azure-sql-database
 - azure-event-hubs
-exams:
-- uid: exam.az-300
 courses:
 - uid: course.az-301t01
 - uid: course.az-301t02

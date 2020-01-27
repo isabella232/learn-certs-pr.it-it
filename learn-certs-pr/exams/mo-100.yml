@@ -1,19 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Word (Word e Word 2019) 
+title: Microsoft Word (Word and Word 2019)
 metadata:
-  title: 'MO-100: Microsoft Word (Word e Word 2019)'
-  description: 'MO-100: Microsoft Word (Word e Word 2019)'
+  title: 'MO-100: Microsoft Word (Word and Word 2019)'
+  description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  Un candidato che ottiene questa certificazione ha seguito circa 150 ore di corsi teorici e laboratori pratici relativi al prodotto, ha dimostrato competenza a livello di tecnico del settore ed è pronto ad affacciarsi nel mercato del lavoro. Sa dimostrare di sapere applicare correttamente le principali funzionalità di Word ed è in grado di svolgere la sua attività in modo indipendente.
+summary: Un candidato che ottiene questa certificazione ha seguito circa 150 ore di corsi teorici e laboratori pratici relativi al prodotto, ha dimostrato competenza a livello di tecnico del settore ed è pronto ad affacciarsi nel mercato del lavoro. Sa dimostrare di sapere applicare correttamente le principali funzionalità di Word ed è in grado di svolgere la sua attività in modo indipendente.
 subTitle: Questo esame valuta la tua capacità di sapere dimostrare di sapere applicare correttamente le principali funzionalità di Word creando e modificando documenti di due o tre pagine per vari obiettivi e in più situazioni. L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+scheduleExamUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Gestire i documenti (20-25%)
@@ -25,7 +24,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:

@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: Distribuire Microsoft 365 Teamwork
+title: Deploying Microsoft 365 Teamwork
 metadata:
-  title: 'Esame MS-300: Distribuire Microsoft 365 Teamwork'
-  description: 'Esame MS-300: Distribuire Microsoft 365 Teamwork'
+  title: 'Esame MS-300: Deploying Microsoft 365 Teamwork'
+  description: 'Esame MS-300: Deploying Microsoft 365 Teamwork'
 uid: exam.ms-300
 displayName: MS-300
-summary: |-
+summary: >-
   I candidati idonei a questo esame sono amministratori di Teamwork che si occupano della configurazione, distribuzione e gestione di carichi di lavoro di Office 365 e Azure, il cui obiettivo è assicurare una collaborazione e un’adozione efficiente ed efficace dei carichi di lavoro. Gli amministratori di Teamwork gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. Devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e Teams.
+
   <br/>
 
+
   Gli amministratori sono inoltre coinvolti nelle decisioni relative alla governance e lavorano a stretto contatto con altri amministratori per implementare molte delle decisioni prese dalle autorità responsabili della governance. Gli amministratori di Teamwork lavorano a stretto contatto con l’amministratore della messaggistica alla configurazione delle opzioni e delle attività e-mail correlate alla sicurezza, con l’amministratore dei servizi vocali per integrare le funzionalità voce nelle organizzazioni e con l’amministratore della sicurezza per garantire la sicurezza end-to-end.
-  
+
+
   Hanno una conoscenza di base dei punti di integrazione con le app e i servizi seguenti; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business. I candidati devono conoscere i concetti della gestione di SQL Server, Azure Active Directory, PowerShell, le reti, l’amministrazione dei server Windows, Domain Name System (DNS), la gestione dei dispositivi mobili Active Directory e altri sistemi operativi.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: configurare e gestire SharePoint Online; configurare e gestire OneDrive for Business; configurare e gestire Teams; e configurare e gestire le integrazione dei carichi di lavoro.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI2
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-300&examname=Esame%20MS-300:%20Distribuire%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-300
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-300&examname=Esame%20MS-300:%20Distribuire%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:
@@ -28,14 +31,14 @@ skills:
 - Configurare e gestire le integrazioni dei carichi di lavoro (15-20%)
 roles:
 - administrator
+exams:
+- uid: exam.ms-301
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
-exams:
-- uid: exam.ms-301
 courses:
 - uid: course.ms-300t01
 - uid: course.ms-300t02

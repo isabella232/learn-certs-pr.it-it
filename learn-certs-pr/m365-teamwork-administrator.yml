@@ -2,11 +2,10 @@
 title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
-  description: 'Gli amministratori di Microsoft 365 Teamwork configurano, distribuiscono e gestiscono carichi di lavoro di Office 365 incentrati su collaborazioni efficienti ed efficaci, come SharePoint (online, locale e ibrido), OneDrive e Teams.'
+  description: Gli amministratori di Microsoft 365 Teamwork configurano, distribuiscono e gestiscono carichi di lavoro di Office 365 incentrati su collaborazioni efficienti ed efficaci, come SharePoint (online, locale e ibrido), OneDrive e Teams.
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Gli amministratori di Microsoft 365 Teamwork configurano, distribuiscono e gestiscono carichi di lavoro di Office 365 incentrati su collaborazioni efficienti ed efficaci, come SharePoint (online, locale e ibrido), OneDrive e Teams.
+summary: Gli amministratori di Microsoft 365 Teamwork configurano, distribuiscono e gestiscono carichi di lavoro di Office 365 incentrati su collaborazioni efficienti ed efficaci, come SharePoint (online, locale e ibrido), OneDrive e Teams.
 subTitle: Gli amministratori di Microsoft 365 Teamwork configurano, distribuiscono e gestiscono carichi di lavoro di Office 365 incentrati su collaborazioni efficienti ed efficaci, come SharePoint (online, locale e ibrido), OneDrive e Teams.
 levels:
 - intermediate
@@ -44,7 +43,7 @@ exams:
 - uid: exam.ms-301
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Teamwork Administrator Associate.'
+  description: Scopri le risorse di formazione per diventare un Microsoft Certified: Teamwork Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.

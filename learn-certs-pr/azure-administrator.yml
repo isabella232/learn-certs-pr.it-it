@@ -2,11 +2,10 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: 'Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.'
+  description: Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza. [Ulteriori informazioni sulle modifiche che verranno apportate a questa certificazione il 1° maggio 2019.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
+summary: Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza. [Ulteriori informazioni sulle modifiche che verranno apportate a questa certificazione il 1° maggio 2019.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
 subTitle: Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.
 levels:
 - intermediate
@@ -38,7 +37,7 @@ exams:
 - uid: exam.az-103
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Administrator Associate.'
+  description: Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.

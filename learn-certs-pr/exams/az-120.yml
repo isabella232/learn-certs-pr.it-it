@@ -1,22 +1,24 @@
 ### YamlMime:Examination
-title: 'Pianificare e amministrare Microsoft Azure per i carichi di lavoro SAP (beta)'
+title: Planning and Administering Microsoft Azure for SAP Workloads (beta)
 metadata:
-  title: 'Esame AZ-120: Pianificare e amministrare Microsoft Azure per i carichi di lavoro SAP (beta)'
-  description: 'Esame AZ-120: Pianificare e amministrare Microsoft Azure per i carichi di lavoro SAP (beta)'
+  title: 'Esame AZ-120: Planning and Administering Microsoft Azure for SAP Workloads (beta)'
+  description: 'Esame AZ-120: Planning and Administering Microsoft Azure for SAP Workloads (beta)'
 uid: exam.az-120
 displayName: AZ-120
-summary: |-
+summary: >-
   I candidati idonei a queto esame sono architetti e progettisti che conoscono la procedura SAP Landscape Certification e le normative di settore che si applicano al funzionamento nel lungo termine di una soluzione. I candidati devono essere in grado di fornire raccomandazioni sui servizi; adattare le risorse per ottimizzare resilienza e prestazioni; scalare le risorse, distribuirle, dimensionarle e monitorarle.
 
+
   Gli architetti di Azure per carichi di lavoro SAP devono avere una vasta esperienza e una conocenza approfondita delle applicazioni SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, OS Servers per le applicazioni e database SAP, Azure Portal, dei modelli ARM, dei sistemi operativi, della virtualizzazione, dell’infrastruttura cloud, delle strutture di archiviazione, delle caratteristiche progettuali dell’alta disponibilità, delle caratteristiche progettuali del ripristino di emergenza, dei concetti relativi alla protezione dei dati e delle reti.
+
 
   È altamente consigliabile che i candidati idonei a questo esame abbiano una certificazione Azure Administration o Azure Architect, oltre a certificazioni SAP HANA e Linux.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: migrare i carichi di lavoro SAP in Azure; progettare una soluzione Azure per supportare i carichi di lavoro SAP; creare e distribuire carichi di lavoro SAP in Azure; convalidare l’infrastruttura Azure per i carichi di lavoro SAP; e rendere operativa l’architettura SAP in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-120&examname=Esame%20AZ-120:%20Pianificare%20e%20amministrare%20Microsoft%20Azure%20per%20i%20carichi%20di%20lavoro%20SAP&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-120&examname=Esame%20AZ-120:%20Pianificare%20e%20amministrare%20Microsoft%20Azure%20per%20i%20carichi%20di%20lavoro%20SAP&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-120
 levels:
 - advanced
 skills:

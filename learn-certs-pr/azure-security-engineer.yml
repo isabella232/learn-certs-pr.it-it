@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Tecnico Associato responsabile della sicurezza di Azure'
+title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
-  title: 'Microsoft Certified: Tecnico Associato responsabile della sicurezza di Azure'
-  description: 'I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; e proteggono dati, applicazioni e reti in ambienti cloud e ibridi come parte dell’infrastruttura end-to-end.'
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; e proteggono dati, applicazioni e reti in ambienti cloud e ibridi come parte dell’infrastruttura end-to-end.
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; e proteggono dati, applicazioni e reti in ambienti cloud e ibridi come parte dell’infrastruttura end-to-end.
+summary: I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; e proteggono dati, applicazioni e reti in ambienti cloud e ibridi come parte dell’infrastruttura end-to-end.
 subTitle: I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; e proteggono dati, applicazioni e reti in ambienti cloud e ibridi come parte dell’infrastruttura end-to-end.
 levels:
 - intermediate

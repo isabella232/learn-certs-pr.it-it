@@ -1,31 +1,24 @@
 ### YamlMime:Examination
-title: Soluzioni avanzate per sviluppatori Microsoft Azure (beta)
+title: Microsoft Azure Developer Advanced Solutions (beta)
 metadata:
-  title: 'Esame AZ-201: Soluzioni avanzate per sviluppatori Microsoft Azure (beta)'
-  description: 'Esame AZ-201: Soluzioni avanzate per sviluppatori Microsoft Azure (beta)'
+  title: 'Esame AZ-201: Microsoft Azure Developer Advanced Solutions (beta)'
+  description: 'Esame AZ-201: Microsoft Azure Developer Advanced Solutions (beta)'
 uid: exam.az-201
 displayName: AZ-201
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 03 GENNAIO 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)</div>
-  <br/> 
-  I candidati a questo esame sono sviluppatori di Azure che progettano e creano soluzioni cloud come applicazioni e servizi. Partecipano a tutte le fasi dello sviluppo, dalla progettazione, sviluppo e distribuzione della soluzione al testing e alla manutenzione. Lavorano in collaborazione con i progettisti di soluzioni cloud, gli amministratori di database cloud (DBA), gli amministratori del cloud e i clienti per implementare la soluzione.
-
-  I candidati devono saper sviluppare app e servizi con gli strumenti e le tecnologie di Azure, tra cui archiviazione, sicurezza, elaborazione e comunicazioni.
-
-  Devono avere almeno un anno di esperienza in tutte le fasi dello sviluppo software di soluzioni scalabili e conoscere almeno un linguaggio di programmazione supportato dal cloud.
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 03 GENNAIO 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)</div>\n<br/> \nI candidati a questo esame sono sviluppatori di Azure che progettano e creano soluzioni cloud come applicazioni e servizi. Partecipano a tutte le fasi dello sviluppo, dalla progettazione, sviluppo e distribuzione della soluzione al testing e alla manutenzione. Lavorano in collaborazione con i progettisti di soluzioni cloud, gli amministratori di database cloud (DBA), gli amministratori del cloud e i clienti per implementare la soluzione.\n\nI candidati devono saper sviluppare app e servizi con gli strumenti e le tecnologie di Azure, tra cui archiviazione, sicurezza, elaborazione e comunicazioni.\n\nDevono avere almeno un anno di esperienza in tutte le fasi dello sviluppo software di soluzioni scalabili e conoscere almeno un linguaggio di programmazione supportato dal cloud."
 subTitle: I candidati a questo esame sono sviluppatori di Azure che progettano e creano soluzioni cloud come applicazioni e servizi. Partecipano a tutte le fasi dello sviluppo, dalla progettazione, sviluppo e distribuzione della soluzione al testing e alla manutenzione. Lavorano in collaborazione con i progettisti di soluzioni cloud, gli amministratori di database cloud (DBA), gli amministratori del cloud e i clienti per implementare la soluzione.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjg
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 01/03/2019
 levels:
 - beginner
 skills:
 - Sviluppare per un modello cloud Azure (50 -55%)
 - Implementare soluzioni di integrazione cloud (25-30%)
 - Sviluppare servizi cognitivi, Bot e IoT Azure (20 -25%)
-retirementDate: 01/03/2019
 roles:
 - developer
 products:

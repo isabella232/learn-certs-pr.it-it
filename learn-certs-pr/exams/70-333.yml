@@ -1,21 +1,20 @@
 ### YamlMime:Examination
-title: Distribuzione di Voce aziendale con Skype for Business 2015 
+title: Deploying Enterprise Voice with Skype for Business 2015
 metadata:
-  title: 'Esame 70-333: Distribuzione di Voce aziendale con Skype for Business 2015'
-  description: 'Esame 70-333: Distribuzione di Voce aziendale con Skype for Business 2015'
+  title: 'Esame 70-333: Deploying Enterprise Voice with Skype for Business 2015'
+  description: 'Esame 70-333: Deploying Enterprise Voice with Skype for Business 2015'
 uid: exam.70-333
 displayName: 70-333
-summary: |-
-  I candidati per questo esame sono consulenti IT e professionisti nella consulenza sulle telecomunicazioni che progettano, pianificano, installano ed eseguono la manutenzione di soluzioni per comunicazioni unificate (UC). I candidati devono essere in grado di tradurre i requisiti aziendali in un'architettura tecnica e progettare una soluzione UC. I candidati devono avere almeno due anni di esperienza con le tecnologie Skype for Business e avere familiarità con gli scenari di migrazione supportati. I candidati devono essere competenti nella distribuzione di soluzioni Skype for Business Server e Skype for Business Online per gli utenti finali, dispositivi endpoint, telefonia, conferenze audio/video e Web, sicurezza e disponibilità elevata. I candidati devono anche sapere come monitorare e risolvere i problemi di Skype for Business utilizzando gli strumenti Microsoft. Inoltre, i candidati devono conoscere i servizi di dominio Active Directory, le reti di dati e gli standard di telecomunicazioni e i componenti che supportano la configurazione di Skype for Business. I candidati devono avere familiarità con i requisiti dell'integrazione di Skype for Business con Microsoft Exchange Server e Office 365.
+summary: I candidati per questo esame sono consulenti IT e professionisti nella consulenza sulle telecomunicazioni che progettano, pianificano, installano ed eseguono la manutenzione di soluzioni per comunicazioni unificate (UC). I candidati devono essere in grado di tradurre i requisiti aziendali in un'architettura tecnica e progettare una soluzione UC. I candidati devono avere almeno due anni di esperienza con le tecnologie Skype for Business e avere familiarità con gli scenari di migrazione supportati. I candidati devono essere competenti nella distribuzione di soluzioni Skype for Business Server e Skype for Business Online per gli utenti finali, dispositivi endpoint, telefonia, conferenze audio/video e Web, sicurezza e disponibilità elevata. I candidati devono anche sapere come monitorare e risolvere i problemi di Skype for Business utilizzando gli strumenti Microsoft. Inoltre, i candidati devono conoscere i servizi di dominio Active Directory, le reti di dati e gli standard di telecomunicazioni e i componenti che supportano la configurazione di Skype for Business. I candidati devono avere familiarità con i requisiti dell'integrazione di Skype for Business con Microsoft Exchange Server e Office 365.
 subTitle: I candidati per questo esame sono consulenti IT e professionisti nella consulenza sulle telecomunicazioni che progettano, pianificano, installano ed eseguono la manutenzione di soluzioni per comunicazioni unificate (UC). I candidati devono essere in grado di tradurre i requisiti aziendali in un'architettura tecnica e progettare una soluzione UC. I candidati devono avere almeno due anni di esperienza con le tecnologie Skype for Business e avere familiarità con gli scenari di migrazione supportati. I candidati devono essere competenti nella distribuzione di soluzioni Skype for Business Server e Skype for Business Online per gli utenti finali, dispositivi endpoint, telefonia, conferenze audio/video e Web, sicurezza e disponibilità elevata. I candidati devono anche sapere come monitorare e risolvere i problemi di Skype for Business utilizzando gli strumenti Microsoft. Inoltre, i candidati devono conoscere i servizi di dominio Active Directory, le reti di dati e gli standard di telecomunicazioni e i componenti che supportano la configurazione di Skype for Business. I candidati devono avere familiarità con i requisiti dell'integrazione di Skype for Business con Microsoft Exchange Server e Office 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dq
 practiceTestUrl: https://www.mindhub.com/product-p/mu-70-333_p.htm&utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=333&examname=Distribuzione%20di%20Voce%20aziendale%20con%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2F70-333
 locales:
 - en
 - ja
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=333&examname=Distribuzione%20di%20Voce%20aziendale%20con%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2F70-333
+levels:
 - advanced
 skills:
 - Pianificare e progettare Skype for Business con Enterprise Voice (30-35%)

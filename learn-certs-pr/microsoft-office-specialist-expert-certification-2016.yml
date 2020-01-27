@@ -5,8 +5,7 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
 uid: certification.microsoft-office-specialist-expert-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Questa certificazione ti permette di ottenere una certificazione Microsoft Office Specialist Expert e di dimostrare così che possiedi competenze avanzate nell’uso dei programmi principali di Office.
+summary: Questa certificazione ti permette di ottenere una certificazione Microsoft Office Specialist Expert e di dimostrare così che possiedi competenze avanzate nell’uso dei programmi principali di Office.
 subTitle: Questa certificazione ti permette di ottenere una certificazione Microsoft Office Specialist Expert e di dimostrare così che possiedi competenze avanzate nell’uso dei programmi principali di Office.
 levels:
 - advanced
@@ -33,4 +32,3 @@ resources:
 - title: Cruscotto delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-

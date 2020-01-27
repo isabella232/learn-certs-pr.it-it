@@ -5,21 +5,25 @@ metadata:
   description: 'MB-330: Microsoft Dynamics 365 Supply Chain Management​'
 uid: exam.mb-330
 displayName: MB-330
-summary: |-
+summary: >-
   I candidati idonei a questo esame sono consulenti funzionali che analizzano i requisiti aziendali e li convertono in processi e soluzioni aziendali pienamente realizzati che implementino le migliori prassi del settore. Hanno un ruolo chiave nell’implementazione e nella configurazione di applicazioni in grado di soddisfare i requisiti aziendali.
+
   <br/>
+
 
   I candidati idonei a questo esame hanno una comprensione di base dei principi contabili e delle operazioni finanziarie a livello aziendale, dell’assistenza clienti, dell’assistenza sul campo e conoscono i principi di gestione della catena di produzione, vendita al dettaglio e fornitura.
 
+
   In genere, hanno esperienza nell’uso di uno o più set di funzionalità di Microsoft Dynamics 365 Finance, compresa la gestione delle finanze, della produzione e della catena di fornitura.
+
 
   I candidati devono avere una certa conoscenza delle prassi di gestione della catena di fornitura, tra cui approvvigionamento, commercio, logistica, gestione dei magazzini e gestione dei trasporti.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare la gestione delle informazioni sui prodotti; implementare la gestione delle scorte; implementare e gestire i processi della catena di fornitura; implementare la gestione dei magazzini e dei trasporti; eseguire i processi aziendali.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-330&examname=Esame%20MB-330:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management​&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-330&examname=Esame%20MB-330:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management​&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 levels:
 - intermediate
 skills:
@@ -29,11 +33,11 @@ skills:
 - Implementare la gestione dei magazzini e dei trasporti; eseguire i processi aziendali (25-30%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance-operations
 courses:
 - uid: course.mb-330t01
 - uid: course.mb-330t02

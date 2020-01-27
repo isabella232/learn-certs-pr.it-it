@@ -1,19 +1,23 @@
 ### YamlMime:Examination
-title: Transizione alla certificazione Microsoft 365 Messaging Administrator
+title: Microsoft 365 Messaging Administrator Certification Transition
 metadata:
-  title: 'Esame MS-202: Transizione alla certificazione Microsoft 365 Messaging Administrator'
-  description: 'Esame MS-202: Transizione alla certificazione Microsoft 365 Messaging Administrator'
+  title: 'Esame MS-202: Microsoft 365 Messaging Administrator Certification Transition'
+  description: 'Esame MS-202: Microsoft 365 Messaging Administrator Certification Transition'
 uid: exam.ms-202
 displayName: MS-202
-summary: |-
+summary: >-
   <div style='color&#58; red; font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 30 SETTEMBRE 2019. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST)<br/><br/></div>
-  
-  
+
+
+
   Questo esame è pensato solo per i candidati che hanno già sostenuto l’[Esame 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Progettare e distribuire Microsoft Exchange Server 2016. Se non sostenuto l’Esame 345, con questo esame non otterrai una certificazione.
+
 
   I candidati idonei a questo esame sono amministratori di messaggistica che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
 
+
   Si occupano della gestione dell’integrità, dell’infrastruttura di messaggistica, della configurazione ibrida, della migrazione, del ripristino d’emergenza, dell’alta disponibilità e dell'accesso ai client.
+
 
   Collaborano con l'amministratore della sicurezza e l'amministratore di Microsoft 365 Enterprise per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'organizzazione moderna.
 
@@ -21,9 +25,10 @@ summary: |-
 subTitle: 'Questo esame è pensato solo per i candidati che hanno sostenuto l’Esame 70-345: Progettare e distribuire Microsoft Exchange Server 2016. Se non sostenuto l’Esame 345, con questo esame non otterrai una certificazione.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
@@ -32,14 +37,13 @@ skills:
 - Gestire i destinatari e i dispositivi (10-15%)
 - Pianificare e implementare una configurazione ibrida e una migrazione (20-25%)
 - Mettere in sicurezza l'ambiente di messaggistica (35-40%)
-retirementDate: 09/30/2019
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-200
 - uid: exam.ms-201
+products:
+- m365
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
