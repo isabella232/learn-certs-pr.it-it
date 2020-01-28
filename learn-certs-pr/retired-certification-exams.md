@@ -14,25 +14,25 @@ Scopri gli esami che sarranno ritirati nei prossimi 12 mesi, elencati per tecnol
 
 | Esami che saranno ritirati il 30 giugno 2020 | |
 | --- | --- |
-| [MB2-716](https://www.microsoft.com/it-it/learning/exam-mb2-716.aspx): Personalizzare e configurare Microsoft Dynamics 365 |  |
-| [MB6-894](https://www.microsoft.com/it-it/learning/exam-mb6-894.aspx): Sviluppare, estendere l’utilizzo e distribuire Microsoft Dynamics 365 for Finance and Operations |  |
+| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Personalizzare e configurare Microsoft Dynamics 365 |  |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Sviluppare, estendere l’utilizzo e distribuire Microsoft Dynamics 365 for Finance and Operations |  |
 
 | Esami che saranno ritirati il 31 dicembre 2019 | |
 | --- | --- |
-| [70-348](https://www.microsoft.com/it-it/learning/exam-70-348.aspx): Gestire progetti e portafogli con Microsoft PPM |  |
-| [70-703](https://www.microsoft.com/it-it/learning/exam-70-703.aspx): Amministrare Microsoft System Center Configuration Manager e l’integrazione dei servizi cloud |  |
-| [70-713](https://www.microsoft.com/it-it/learning/exam-70-713.aspx): Software Asset Management (SAM) - Concetti di base |  |
-| [70-735](https://www.microsoft.com/it-it/learning/exam-70-735.aspx): Produrre come OEM e distribuire per Windows 10 |  |
-| [MB2-706](https://www.microsoft.com/it-it/learning/exam-MB2-706.aspx): Distribuire online Microsoft Dynamics CRM |  |
-| [MB2-707](https://www.microsoft.com/it-it/learning/exam-MB2-707.aspx): Personalizzare e configurare Microsoft Dynamics CRM |  |
-| [MB2-708](https://www.microsoft.com/it-it/learning/exam-MB2-708.aspx): Installare Microsoft Dynamics CRM |  |
-| [MB2-710](https://www.microsoft.com/it-it/learning/exam-MB2-710.aspx): Distribuire online Microsoft Dynamics CRM 2016 |  |
-| [MB2-711](https://www.microsoft.com/it-it/learning/exam-MB2-711.aspx): Installare Microsoft Dynamics CRM 2016 |  |
-| [MB2-712](https://www.microsoft.com/it-it/learning/exam-MB2-712.aspx): Personalizzare e configurare Microsoft Dynamics CRM 2016 |  |
-| [MB2-713](https://www.microsoft.com/it-it/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales |  |
-| [MB2-714](https://www.microsoft.com/it-it/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service |  |
-| [MB6-897](https://www.microsoft.com/it-it/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
-| [MB6-898](https://www.microsoft.com/it-it/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
+| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx): Gestire progetti e portafogli con Microsoft PPM |  |
+| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx): Amministrare Microsoft System Center Configuration Manager e l’integrazione dei servizi cloud |  |
+| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx): Software Asset Management (SAM) - Concetti di base |  |
+| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx): Produrre come OEM e distribuire per Windows 10 |  |
+| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx): Distribuire online Microsoft Dynamics CRM |  |
+| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx): Personalizzare e configurare Microsoft Dynamics CRM |  |
+| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx): Installare Microsoft Dynamics CRM |  |
+| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx): Distribuire online Microsoft Dynamics CRM 2016 |  |
+| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx): Installare Microsoft Dynamics CRM 2016 |  |
+| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx): Personalizzare e configurare Microsoft Dynamics CRM 2016 |  |
+| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales |  |
+| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service |  |
+| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
+| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
 ## Esami ritirati di recente
 
@@ -40,68 +40,68 @@ A scopo di riferimento, per gli esami che sono stati ritirati durante l’anno s
 
 | ITPro/Developer| | |
 | --- | --- | --- |
-| [AZ-100](https://www.microsoft.com/it-it/learning/exam-AZ-100.aspx) | Infrastruttura e distribuzione di Microsoft Azure | 1° maggio 2019
-| [AZ-101](https://www.microsoft.com/it-it/learning/exam-AZ-101.aspx) | Integrazione e sicurezza di Microsoft Azure | 1° maggio 2019
-| [AZ-102](https://www.microsoft.com/it-it/learning/exam-AZ-102.aspx) | Transizione alla certificazione Microsoft Azure Administrator | 30 giugno 2019
-| [AZ-200](https://www.microsoft.com/it-it/learning/exam-AZ-200.aspx) | Microsoft Azure Developer - Soluzioni di base (rilasciato il 24 settembre 2018) | 3 gennaio 2019
-| [AZ-201](https://www.microsoft.com/it-it/learning/exam-AZ-201.aspx) | Microsoft Azure Developer - Soluzioni avanzate (rilasciato il 24 settembre 2018) | 3 gennaio 2019
-| [AZ-202](https://www.microsoft.com/it-it/learning/exam-AZ-202.aspx) | Transizione alla certificazione Microsoft Azure Developer (rilasciato il 24 settembre 2018) | 31 marzo 2019
-| [AZ-302](https://www.microsoft.com/it-it/learning/exam-AZ-302.aspx) | Transizione alla certificazione Microsoft Azure Solutions Architect | 30 giugno 2019
-| [MS-202](https://www.microsoft.com/it-it/learning/exam-MS-202.aspx) | Transizione alla certificazione Microsoft 365 Messaging Administrator | 30 settembre 2019
-| [MS-302](https://www.microsoft.com/it-it/learning/exam-MS-302.aspx) | Transizione alla certificazione Microsoft 365 Teamwork Administrator | 30 settembre 2019
+| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Infrastruttura e distribuzione di Microsoft Azure | 1° maggio 2019
+| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Integrazione e sicurezza di Microsoft Azure | 1° maggio 2019
+| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Transizione alla certificazione Microsoft Azure Administrator | 30 giugno 2019
+| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Microsoft Azure Developer - Soluzioni di base (rilasciato il 24 settembre 2018) | 3 gennaio 2019
+| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Microsoft Azure Developer - Soluzioni avanzate (rilasciato il 24 settembre 2018) | 3 gennaio 2019
+| [AZ-202](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Transizione alla certificazione Microsoft Azure Developer (rilasciato il 24 settembre 2018) | 31 marzo 2019
+| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Transizione alla certificazione Microsoft Azure Solutions Architect | 30 giugno 2019
+| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Transizione alla certificazione Microsoft 365 Messaging Administrator | 30 settembre 2019
+| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Transizione alla certificazione Microsoft 365 Teamwork Administrator | 30 settembre 2019
 | 70-246 | Monitorare e utilizzare un cloud privato con System Center 2012 | 31 dicembre 2017
 | 70-247 | Configurare e distribuire un cloud privato | 31 dicembre 2017
-| [70-331](https://www.microsoft.com/it-it/learning/exam-70-331.aspx) | Soluzioni di base d Microsoft SharePoint Server 2013 | 31 marzo 2019
-| [70-332](https://www.microsoft.com/it-it/learning/exam-70-332.aspx) | Soluzioni avanzate di Microsoft SharePoint Server 2013 | 31 marzo 2019
-| [70-341](https://www.microsoft.com/it-it/learning/exam-70-341.aspx) | Soluzioni di base di Microsoft Exchange Server 2013 | 31 marzo 2019
-| [70-342](https://www.microsoft.com/it-it/learning/exam-70-342.aspx) | Soluzioni avanzate di Microsoft Exchange Server 2013 | 31 marzo 2019
-| [70-346](https://www.microsoft.com/it-it/learning/exam-70-346.aspx) | Gestire le identità e i requisiti di Office 365 | 30 aprile 2019
-| [70-347](https://www.microsoft.com/it-it/learning/exam-70-347.aspx) | Attivare i servizi di Office 365 | 30 aprile 2019
+| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Soluzioni di base d Microsoft SharePoint Server 2013 | 31 marzo 2019
+| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Soluzioni avanzate di Microsoft SharePoint Server 2013 | 31 marzo 2019
+| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Soluzioni di base di Microsoft Exchange Server 2013 | 31 marzo 2019
+| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Soluzioni avanzate di Microsoft Exchange Server 2013 | 31 marzo 2019
+| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Gestire le identità e i requisiti di Office 365 | 30 aprile 2019
+| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Attivare i servizi di Office 365 | 30 aprile 2019
 | 70-398 | Pianificare per e gestire i dispositivi in ambito aziendale | 31 luglio 2018
-| [70-473](https://www.microsoft.com/it-it/learning/exam-70-473.aspx) | Progettare e implementare soluzioni con piattaforme dati cloud | 30 giugno 2019
-| [70-475](https://www.microsoft.com/it-it/learning/exam-70-475.aspx) | Progettare e implementare soluzioni di analisi dei big data | 30 giugno 2019
+| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Progettare e implementare soluzioni con piattaforme dati cloud | 30 giugno 2019
+| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Progettare e implementare soluzioni di analisi dei big data | 30 giugno 2019
 | 70-488 | Sviluppare soluzioni di base in SharePoint Server 2013 | 31 luglio 2018
 | 70-489 | Sviluppare soluzioni avanzate in SharePoint Server 2013 | 31 luglio 2018
-| [70-496](https://www.microsoft.com/it-it/learning/exam-70-496.aspx) | Amministrare Visual Studio Team Foundation Server | 31 dicembre 2018
-| [70-497](https://www.microsoft.com/it-it/learning/exam-70-497.aspx) | Testing del software con Visual Studio | 31 dicembre 2018
-| [70-498](https://www.microsoft.com/it-it/learning/exam-70-498.aspx) | Fornire continuamente valore con Visual Studio | 31 dicembre 2018
-| [70-532](https://www.microsoft.com/it-it/learning/exam-70-532.aspx) | Sviluppare soluzioni Microsoft Azure | 31 dicembre 2018
-| [70-533](https://www.microsoft.com/it-it/learning/exam-70-533.aspx) | Implementare soluzioni di infrastruttura in Microsoft Azure | 31 dicembre 2018
-| [70-534](https://www.microsoft.com/it-it/learning/exam-70-534.aspx) | Progettare soluzioni Microsoft Azure | 31 dicembre 2017
-| [70-535](https://www.microsoft.com/it-it/learning/exam-70-535.aspx) | Progettare soluzioni Microsoft Azure | 31 dicembre 2018
+| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | Amministrare Visual Studio Team Foundation Server | 31 dicembre 2018
+| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | Testing del software con Visual Studio | 31 dicembre 2018
+| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | Fornire continuamente valore con Visual Studio | 31 dicembre 2018
+| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | Sviluppare soluzioni Microsoft Azure | 31 dicembre 2018
+| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) | Implementare soluzioni di infrastruttura in Microsoft Azure | 31 dicembre 2018
+| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | Progettare soluzioni Microsoft Azure | 31 dicembre 2017
+| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | Progettare soluzioni Microsoft Azure | 31 dicembre 2018
 | 70-680 | Configurazione di Windows 7 | 31 luglio 2018
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 luglio 2018
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 31 luglio 2018
-| [70-695](https://www.microsoft.com/it-it/learning/exam-70-695.aspx) | Distribuire desktop Windows e applicazioni Enterprise | 31 marzo 2019
+| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | Distribuire desktop Windows e applicazioni Enterprise | 31 marzo 2019
 | 70-696 | Amministrare System Center Configuration Manager e Intune | 31 marzo 2018
-| [70-697](https://www.microsoft.com/it-it/learning/exam-70-697.aspx) | Configurare dispositivi Windows | 30 aprile 2019
-| [70-698](https://www.microsoft.com/it-it/learning/exam-70-698.aspx) | Installare e configurare Windows 10 | 31 marzo 2019
-| [70-773](https://www.microsoft.com/it-it/learning/exam-70-773.aspx) | Analizzare i big data con Microsoft R | 30 giugno 2019
-| [70-774](https://www.microsoft.com/it-it/learning/exam-70-774.aspx) | Eseguire cloud data science con Azure Machine Learning | 30 giugno 2019
-| [70-775](https://www.microsoft.com/it-it/learning/exam-70-775.aspx) | Eseguire l’ingegneria dei dati in Microsoft Azure HDInsight | 30 giugno 2019
-| [70-776](https://www.microsoft.com/it-it/learning/exam-70-776.aspx) | Eseguire l’ingegneria dei big data nei servizi cloud Microsoft | 30 giugno 2019
-| [74-343](https://www.microsoft.com/it-it/learning/exam-74-343.aspx) | Gestire i progetti con Microsoft Project 2013 | 31 luglio 2019
+| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configurare dispositivi Windows | 30 aprile 2019
+| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | Installare e configurare Windows 10 | 31 marzo 2019
+| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Analizzare i big data con Microsoft R | 30 giugno 2019
+| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Eseguire cloud data science con Azure Machine Learning | 30 giugno 2019
+| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Eseguire l’ingegneria dei dati in Microsoft Azure HDInsight | 30 giugno 2019
+| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Eseguire l’ingegneria dei big data nei servizi cloud Microsoft | 30 giugno 2019
+| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Gestire i progetti con Microsoft Project 2013 | 31 luglio 2019
 | 74-344 | Gestire progammi e progetti con Project Server 2013 | 31 dicembre 2017
 | 74-409 | Virtualizzare i server con Windows Server Hyper-V e System Center | 31 luglio 2018
-| [98-369](https://www.microsoft.com/it-it/learning/exam-98-369.aspx) | Cloud Fundamentals | 30 settembre 2019
-| [98-380](https://www.microsoft.com/it-it/learning/exam-98-380.aspx) | Introduzione alla programmazione con i linguaggi basati su blocchi (Touch Develop) | 7 agosto 2019
+| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 30 settembre 2019
+| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduzione alla programmazione con i linguaggi basati su blocchi (Touch Develop) | 7 agosto 2019
 
 <br/>
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB2-709](https://www.microsoft.com/it-it/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 31 dicembre 2017
-| [MB2-715](https://www.microsoft.com/it-it/learning/exam-MB2-715.aspx) | Distribuire Microsoft Dynamics 365 Customer Engagement online | 30 giugno 2019
-| [MB2-717](https://www.microsoft.com/it-it/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 30 giugno 2019
-| [MB2-718](https://www.microsoft.com/it-it/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 31 agosto 2019
-| [MB2-719](https://www.microsoft.com/it-it/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 31 agosto 2019
-| [MB2-877](https://www.microsoft.com/it-it/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 30 giugno 2019
+| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 31 dicembre 2017
+| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Distribuire Microsoft Dynamics 365 Customer Engagement online | 30 giugno 2019
+| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 30 giugno 2019
+| [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 31 agosto 2019
+| [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 31 agosto 2019
+| [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 30 giugno 2019
 | MB6-705 | Installare e configurare Microsoft Dynamics AX 2012 R3 CU8 | 31 dicembre 2017
 | MB6-890 | Introduzione allo sviluppo di Microsoft Dynamics AX | 31 dicembre 2017
 | MB6-892 | Distribuire e vendere Microsoft Dynamics AX | 31 dicembre 2017
 | MB6-893 | Microsoft Dynamics AX Financials | 31 dicembre 2017
-| [MB6-895](https://www.microsoft.com/it-it/learning/exam-MB6-895.aspx) | Gestione finanziaria in Microsoft Dynamics 365 for Finance and Operations | 31 agosto 2019
-| [MB6-896](https://www.microsoft.com/it-it/learning/exam-MB6-896.aspx) | Distribuzione e commercio in Microsoft Dynamics 365 for Finance and Operations | 31 agosto 2019
+| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Gestione finanziaria in Microsoft Dynamics 365 for Finance and Operations | 31 agosto 2019
+| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribuzione e commercio in Microsoft Dynamics 365 for Finance and Operations | 31 agosto 2019
 
 ## Altri esami ritirati
 

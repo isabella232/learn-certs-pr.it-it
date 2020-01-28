@@ -70,11 +70,11 @@ Approfitta degli sconti sugli esami Microsoft Certified Professional (MCP) quand
 
 **D. Posso sostenere esami online con il voucher Exam Replay?**
 
-**R.** Sì, se sono disponibili esami online, possono essere sostenuti con un voucher Exam Replay. [Visualizza gli esami online](https://www.microsoft.com/it-it/learning/online-proctored-exams.aspx) per le certificazioni Microsoft.
+**R.** Sì, se sono disponibili esami online, possono essere sostenuti con un voucher Exam Replay. [Visualizza gli esami online](https://www.microsoft.com/learning/online-proctored-exams.aspx) per le certificazioni Microsoft.
 
 **D. Posso programmare contemporaneamente il mio esame iniziale e la sua ripetizione?**
 
-**R.** No, non è possibile registrarsi per la ripetizione d’esame fino a che non si è sostenuto e superato l’esame iniziale. Per informazioni dettagliate, consulta i [criteri per la ripetizione degli esami di certificazione Microsoft](https://www.microsoft.com/it-it/learning/certification-exam-policies.aspx).
+**R.** No, non è possibile registrarsi per la ripetizione d’esame fino a che non si è sostenuto e superato l’esame iniziale. Per informazioni dettagliate, consulta i [criteri per la ripetizione degli esami di certificazione Microsoft](https://www.microsoft.com/learning/certification-exam-policies.aspx).
 
 **D. Come posso attivare un test di valutazione e per quanto tempo è valido?**
 

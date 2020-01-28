@@ -16,9 +16,9 @@ Per mantenere aggiornato il programma Microsoft Certified Professional, Microsof
 
 Trova le certificazioni il cui ritiro è programmato nei prossimi 12 mesi. Le informazioni che seguono sono soggette a modifiche. 
 
-[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/it-it/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ritiro programmato il 30 giugno 2020  
+[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ritiro programmato il 30 giugno 2020  
 
-[MCSE: Applicazioni Business](https://www.microsoft.com/it-it/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ritiro programmato il 31 dicembre 2019  
+[MCSE: Applicazioni Business](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ritiro programmato il 31 dicembre 2019  
 
 MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ritiro programmato il 31 dicembre 2019  
 
@@ -36,18 +36,18 @@ Espandi le sezioni seguenti per visualizzare l'elenco delle certificazioni ritir
 
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: Piattaforma cloud](https://www.microsoft.com/it-it/learning/mcsa-cloud-platform-certification.aspx)                     | 31 dicembre 2018  |
-| [MCSA: Linux in Azure](https://www.microsoft.com/it-it/learning/mcsa-linux-azure-certification.aspx)                        | 31 dicembre 2018  |
-| [MCSA: Office 365](https://www.microsoft.com/it-it/learning/mcsa-office365-certification.aspx)                              | 30 aprile 2019     |
-| [MCSA: Windows 10](https://www.microsoft.com/it-it/learning/mcsa-windows-10-certifications.aspx)                            | 30 aprile 2019     |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/it-it/learning/mcsa-microsoft-dynamics-365.aspx)                   | 30 giugno 2019      |
-| [MCSA: Apprendimento automatico](https://www.microsoft.com/it-it/learning/mcsa-machine-learning.aspx)                               | 30 giugno 2019      |
-| [MCSA: Ingegneria dei dati con Azure](https://www.microsoft.com/it-it/learning/mcsa-data-engineering-with-azure.aspx)         | 30 giugno 2019      |
+| [MCSA: Piattaforma cloud](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 31 dicembre 2018  |
+| [MCSA: Linux in Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 31 dicembre 2018  |
+| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 30 aprile 2019     |
+| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 30 aprile 2019     |
+| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 30 giugno 2019      |
+| [MCSA: Apprendimento automatico](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 30 giugno 2019      |
+| [MCSA: Ingegneria dei dati con Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 30 giugno 2019      |
 
 | Microsoft Certified Solutions Expert                                               |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Piattaforma e infrastruttura cloud](https://www.microsoft.com/it-it/learning/mcse-cloud-platform-infrastructure.aspx) | 31 dicembre 2018  |
-| [MCSE: Mobilità](https://www.microsoft.com/it-it/learning/mcse-mobility-certification.aspx)                                 | 30 aprile 2019     |
+| [MCSE: Piattaforma e infrastruttura cloud](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 dicembre 2018  |
+| [MCSE: Mobilità](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 30 aprile 2019     |
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |

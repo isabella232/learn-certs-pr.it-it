@@ -64,7 +64,7 @@ Quest'offerta include tutti gli esami di certificazione Microsoft di base, basat
 - Quest'offerta per sostenere gratuitamente l’esame non è trasferibile e verrà considerata nulla se modifichi, rivedi o la trasferisci in qualsivoglia modo.
 - Quest'offerta per sostenere gratuitamente l’esame viene offerta solo a persone che si sono registrate e hanno partecipato a un evento Microsoft 2019 o Microsoft Ignite The Tour 2019-2020 ufficiale.
 
-Per ulteriori informazioni, leggi la versione completa dei [Termini di utilizzo di Microsoft](https://www.microsoft.com/It-it/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
+Per ulteriori informazioni, leggi la versione completa dei [Termini di utilizzo di Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
 
 ## Domande frequenti esterne - Offerta di esami gratuiti con MS Ignite e The Tour
 
@@ -111,7 +111,7 @@ Per ulteriori informazioni, leggi la versione completa dei [Termini di utilizzo 
 **D: Si può scegliere se sostenere l’esame programmato di persona o online?**
 
 **R:** Sì, puoi scegliere di sostenere l'esame programmato di persona presso uno dei centri di testing di Pearson Vue oppure con supervisione online (OP). Per ulteriori informazioni sugli esami online, visita la pagina
-[https://www.microsoft.com/It-it/learning/online-exams.aspx](https://www.microsoft.com/It-it/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### Criteri per l’annullamento e la ripianificazione
 
@@ -121,14 +121,14 @@ Per ulteriori informazioni, leggi la versione completa dei [Termini di utilizzo 
 
 **D: Sono previste penalità in caso di ripianificazione o annullamento dell’esame fissato?**
 
-**R:** Non verrà addebitata alcuna penalità se l'appuntamento dell'esame viene annullato o modificato almeno sei giorni lavorativi prima dell'appuntamento. Se ripianifichi l’appuntamento dell’esame cinque giorni lavorativi prima della data fissata, sarai tenuto a pagare una penalità. Non è possibile ripianificare o annullare l’esame due giorni lavorativi prima della data fissata per l’esame. Se non ti presenti all’esame, rinunci al diritto di sostenere gratuitamente l’esame incluso nell’offerta. Per ulteriori informazioni, consulta i [Criteri per l’annullamento e la ripianificazione](https://docs.microsoft.com/tt-it/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**R:** Non verrà addebitata alcuna penalità se l'appuntamento dell'esame viene annullato o modificato almeno sei giorni lavorativi prima dell'appuntamento. Se ripianifichi l’appuntamento dell’esame cinque giorni lavorativi prima della data fissata, sarai tenuto a pagare una penalità. Non è possibile ripianificare o annullare l’esame due giorni lavorativi prima della data fissata per l’esame. Se non ti presenti all’esame, rinunci al diritto di sostenere gratuitamente l’esame incluso nell’offerta. Per ulteriori informazioni, consulta i [Criteri per l’annullamento e la ripianificazione](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **D: Cosa accade se non mi presento all’esame e non l’ho ripianificato o annullato?**
 
-**R:** Se non ti sei presentato all'appuntamento dell'esame o se non l’hai ripianificato o annullato almeno 24 ore prima dell'appuntamento programmato, rinunci alla possibilità di sostenere gratuitamente l’esame incluso in quest'offerta. Per ulteriori informazioni, consulta i [Criteri per l’annullamento e la ripianificazione](https://docs.microsoft.com/it-it/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**R:** Se non ti sei presentato all'appuntamento dell'esame o se non l’hai ripianificato o annullato almeno 24 ore prima dell'appuntamento programmato, rinunci alla possibilità di sostenere gratuitamente l’esame incluso in quest'offerta. Per ulteriori informazioni, consulta i [Criteri per l’annullamento e la ripianificazione](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 ### Criteri per la ripetizione degli esami
 
 **D: Posso ripetere gratuitamente un esame inizialmente incluso nell’offerta che non ho superato?**
 
-**R:** No. L’offerta è valida per un solo tentativo, quindi l’eventuale ripetizione dell’esame deve essere programmata a parte. Per ulteriori informazioni sulla ripetizione degli esami di certificazione, consulta i nostri [Criteri per la ripetizione degli esami](https://www.microsoft.com/it-it/learning/certification-exam-policies.aspx#policies-1).
+**R:** No. L’offerta è valida per un solo tentativo, quindi l’eventuale ripetizione dell’esame deve essere programmata a parte. Per ulteriori informazioni sulla ripetizione degli esami di certificazione, consulta i nostri [Criteri per la ripetizione degli esami](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).
