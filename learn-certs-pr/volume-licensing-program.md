@@ -15,7 +15,7 @@ Le soluzioni di formazione e certificazione di Microsoft aiutano le aziende e gl
 Le soluzioni di formazione e certificazione di Microsoft vengono rese disponibili tramite i seguenti programmi Multilicenza di Microsoft:
 
 * **Contratto multilicenza di Microsoft**. Programma personalizzato per l’acquisto di software Microsoft che offre un accesso a un prezzo scontato alle soluzioni di formazione e certificazione di Microsoft.
-* **[Contratto multilicenza di Microsoft per Software Assurance](https://www.microsoft.com/it-it/learning/software-assurance-benefits.aspx)**. Programma economico che ti consente di accedere a determinati corsi di e-learning e con istruttore Software Assurance tramite la copertura Software Assurance esistente.
+* **[Contratto multilicenza di Microsoft per Software Assurance](https://www.microsoft.com/learning/software-assurance-benefits.aspx)**. Programma economico che ti consente di accedere a determinati corsi di e-learning e con istruttore Software Assurance tramite la copertura Software Assurance esistente.
 
 Consolidando l’acquisto, il budget e il controllo delle soluzioni di formazione e certificazione di Microsoft, descritte in questa pagina, con altri acquisti di tecnologie Microsoft tramite un Contratto multilicenza, la tua azienda può risparmiare mediamente dal 20 all’80% (a seconda del prodotto e del livello del contratto Multilicenza).
 
@@ -94,7 +94,7 @@ Consolidando l’acquisto, il budget e il controllo delle soluzioni di formazion
 
 ## Domande frequenti
 
-Le seguenti domande si riferiscono specificatamente al contratto Multilicenza per l’acquisto di soluzioni per la formazione e certificazione di Microsoft. Visita le pagine [panoramica delle certificazioni](https://www.microsoft.com/it-it/learning/certification-overview.aspx) o [criteri degli esami e domande frequenti](https://www.microsoft.com/it-it/learning/certification-exam-policies.aspx) per leggere le risposte alle domande generali sulle certificazioni o gli esami di Microsoft.
+Le seguenti domande si riferiscono specificatamente al contratto Multilicenza per l’acquisto di soluzioni per la formazione e certificazione di Microsoft. Visita le pagine [panoramica delle certificazioni](https://www.microsoft.com/learning/certification-overview.aspx) o [criteri degli esami e domande frequenti](https://www.microsoft.com/learning/certification-exam-policies.aspx) per leggere le risposte alle domande generali sulle certificazioni o gli esami di Microsoft.
 
 ### **Soluzioni per la formazione e certificazione di Microsoft**
 
@@ -154,7 +154,7 @@ Le soluzioni per la formazione e certificazione di Microsoft vengono vengono ven
 Più codici acquista la sua azienda e più alti saranno gli sconti a cui avrà diritto. Ti consigliamo di utilizzare una delle seguenti risorse per determinare le necessità formative della tua azienda e per sviluppare un piano di formazione allineato ai tuoi obiettivi aziendali.
 
 - [Invia un messaggio di posta elettronica al Supporto per le soluzioni di formazione e certificazione di Microsoft acquistabili con un contratto Multilicenza](mailto:mslvlhlp@microsoft.com)
-- [Trova il Microsoft Certified Partner responsabile per le soluzioni per la formazione e certificazione di Microsoft della tua zona](https://www.microsoft.com/it-it/learning/find-partner.aspx)
+- [Trova il Microsoft Certified Partner responsabile per le soluzioni per la formazione e certificazione di Microsoft della tua zona](https://www.microsoft.com/learning/find-partner.aspx)
 
 **D: quanti voucher è opportuno ordinare?**
 
@@ -172,7 +172,7 @@ Ricorda che è importante che i tuoi dipendenti acquisiscano un’esperienza dir
 
 **D: quali tipi di piani di studio per la preparazione agli esami sono disponibili nei pacchetti di lezioni Microsoft Certified Professional (MCP), nel pacchetto per sito Microsoft Office Specialist (MOS) e nel pacchetto per sito Microsoft Technology Associate (MTA)?**
 
-Per ogni esame vengono forniti materiali di preparazione. Scegli l’esame dall’[elenco dei nuovi esami](https://www.microsoft.com/it-it/learning/exam-list.aspx), quindi cerca le opzioni disponibili per la preparazione dell’esame.
+Per ogni esame vengono forniti materiali di preparazione. Scegli l’esame dall’[elenco dei nuovi esami](https://www.microsoft.com/learning/exam-list.aspx), quindi cerca le opzioni disponibili per la preparazione dell’esame.
 
 **D: il mio istituto deve aver aderito al programma Microsoft Imagine Academy per poter ordinare lezioni di preparazione agli esami di certificazione di Microsoft o pacchetti per sito tramite il contratto Multilicenza?**
   
