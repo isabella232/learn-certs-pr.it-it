@@ -92,7 +92,7 @@ outlineSection: |-
   - Configurare operazioni e vie.
 
 
-  ### Modulo 4#&58; Creare e completare gli ordini di produzione
+  ### Modulo 4&#58; Creare e completare gli ordini di produzione
   Il ciclo di vita di un ordine di produzione riflette i passi effettivi che vengono compiuti per fabbricare un prodotto. Inizia con la creazione di un ordine di produzione e termina con un prodotto finito, fabbricato e pronto per il cliente. All'ordine di produzione viene assegnato uno stato che riflette la sua posizione nel ciclo di vita della produzione. Questo modulo esamina le fasi Release, Start, Report as finished e End della produzione nell'ordine in cui sono state eseguite. Release, Start, Report as finished sono considerati parte del controllo della produzione
   #### Lezioni
   - Introduzione

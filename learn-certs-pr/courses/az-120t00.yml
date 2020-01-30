@@ -63,7 +63,7 @@ outlineSection: |-
     
   Questo modulo include lezioni sui metodi di distribuzione delle macchine virtuali di Azure, sulle implementazioni di istanze singole (2 o 3 livelli), sull’implementazione di HA SAP NetWeaver with AnyDB nelle macchine virtuali di Azure, sull’implementazione di HA SAP HANA nelle macchine virtuali di Azure, sulla configurazione di Azure Enhanced Monitoring Extension for SAP e sull’implementazione dell’autenticazione basata su AD e Azure AD.
   
-  ### Modulo 8&#58; Modulo 8 Distribuire HANA Large Instances (HLI)
+  ### Modulo 8&#58; Distribuire HANA Large Instances (HLI)
     
   Questo modulo include lezioni su come implementare HANA Large Instances (HLI).
   
