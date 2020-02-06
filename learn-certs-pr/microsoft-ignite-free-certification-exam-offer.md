@@ -131,4 +131,4 @@ Per ulteriori informazioni, leggi la versione completa dei [Termini di utilizzo 
 
 **D: Posso ripetere gratuitamente un esame inizialmente incluso nell’offerta che non ho superato?**
 
-**R:** No. L’offerta è valida per un solo tentativo, quindi l’eventuale ripetizione dell’esame deve essere programmata a parte. Per ulteriori informazioni sulla ripetizione degli esami di certificazione, consulta i nostri [Criteri per la ripetizione degli esami](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).
+**R:** No. L’offerta è valida per un solo tentativo, quindi l’eventuale Exam Reply deve essere programmata a parte. Per ulteriori informazioni sulla ripetizione degli esami di certificazione, consulta i nostri [Criteri per la ripetizione degli esami](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).

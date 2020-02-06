@@ -64,7 +64,7 @@ Vedi l’elenco seguente per le certificazioni idonee.
 - Disporre di una certificazione o qualifica Microsoft idonea per il programma MCT.
 Vedi l’elenco seguente per le certificazioni idonee.
 
-- Soddisfare il requisito minimo di insegnamento per tenere almeno una classe, convalidato da [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) OPPURE da qualsiasi altro strumento di sondaggio.
+- Soddisfare il requisito minimo di insegnamento per tenere almeno una classe, convalidato da [Metrics that Matter (MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) OPPURE da qualsiasi altro strumento di sondaggio.
 
 **Nota** I requisiti per il rinnovo sono soggetti a modifiche.
 

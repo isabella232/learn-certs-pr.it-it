@@ -73,7 +73,7 @@ outlineSection: |-
   - Lavorare su raccolte affidabili
 
 
-  ### Modulo 3&#58; Utilizzare il servizio Azure Kubernetes Questo modulo descrive il servizio
+  ### Modulo 3&#58; Utilizzare il servizio Azure Kubernetes: questo modulo si concentra su Azure
   Azure Kubernetes (AKS), che può essere utilizzato per distribuire e gestire un cluster Kubernetes in Azure. Nel modulo vengono affrontati argomenti quali&#58; come ridurre i costi operativi associati alla gestione di Kubernetes trasferendo la maggior parte delle attività, come il monitoraggio dell’integrità e la manutenzione, ad Azure.
   Gli altri argomenti affrontati includono&#58; Registro Azure Container e Istanze di Azure Container.
 

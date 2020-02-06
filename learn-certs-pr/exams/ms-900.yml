@@ -21,7 +21,7 @@ providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-900&examname=Esame%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
   - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+    examUrl: https://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -53,11 +53,11 @@ resources:
   description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi una sistemazione particolare
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri degli esami e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md

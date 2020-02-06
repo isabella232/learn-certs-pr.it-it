@@ -44,7 +44,7 @@ summary: |-
   
   Generalmente le qualifiche minime richieste ai candidati sono&#58;
   Essere professionisti IT che pianificano, implementano ed eseguono la manutenzione di una distribuzione di SharePoint 2016 con più server; Avere una conoscenza professionale e, preferibilmente, pratica di SharePoint Online; Avere un’ampia conoscenza dei carichi di lavoro di SharePoint; Essere esperti nella gestione della business continuity, compresi il backup dei dati, il ripristino e l’alta disponibilità; Essere esperti nell’uso delle tecnologie di autenticazione e sicurezza; Sapere usare Windows PowerShell
-  * I candidati devono aver conseguito l’esperienza pratica o professionale grazie a un’esperienza lavorativa in un ruolo basato su soluzioni che comportasse lavorare con più soluzioni nello spazio di SharePoint, come la gestione dei documenti, la gestione dei contenuti e le ricerche.
+  *I candidati devono aver conseguito un'esperienza pratica o professionale  basata su manzioni tali da poter lavorare con più soluzioni nello spazio di SharePoint, come la gestione dei documenti, la gestione dei contenuti e le ricerche.
 prerequisitesSection: |-
   Prima di partecipare a questo corso,
   gli studenti devono sapere&#58;
@@ -190,7 +190,7 @@ outlineSection: |-
 
 
   ### Modulo 7&#58; Pianificare e configurare le applicazioni dei servizi
-  Questo modulo descrive l’archittetura delle applicazioni dei servizi in SharePoint 2016 e spiega come distribuire e gestire tali applicazioni.
+  Questo modulo descrive l'architettura delle applicazioni dei servizi in SharePoint 2016 e spiega come distribuire e gestire tali applicazioni.
   #### Lezioni
   - Introduzione all’architettura delle applicazioni dei servizi
   - Creare e configurare le applicazioni dei servizi

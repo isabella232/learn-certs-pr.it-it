@@ -166,7 +166,7 @@ outlineSection: |-
   - Illustrare l’elaborazione dei dati con i processi di Analisi di flusso
 
 
-  ### Modulo 7&#58; Orchestrare la movimentazione dei dati con Azure Data Factory
+  ### Modulo 7&#58; Orchestrare il movimento dati con Azure Data Factory
   In questo modulo gli studenti impareranno come utilizzare Azure Data Factory per orchestrare la movimentazione e conversione dei dati utilizzando numerose tecnologie Data Platform. Gli studenti saranno in grado di illustrare le funzionalità della tecnologia e configurare una pipeline di dati end-to-end che inserisca e trasformi i dati.
   #### Lezioni
   - Illustrare il funzionamento di Azure Data Factory
@@ -174,7 +174,7 @@ outlineSection: |-
   - Azure Data Factory e Azure Databricks
 
 
-  #### Laboratorio&#58; Orchestrare la movimentazione dei dati con Azure Data Factory
+  #### Laboratorio&#58; Orchestrare il movimento dati con Azure Data Factory
   - Illustrare il funzionamento di Data Factory
   - Componenti di Azure Data Factory
   - Azure Data Factory e Azure Databricks

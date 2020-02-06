@@ -2,15 +2,15 @@
 title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Developer Associate'
-  description: Gli sviluppatori di Microsoft 365 progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
+  description: Developer Associate progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: >-
-  Gli sviluppatori di Microsoft 365 progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
+  Developer Associate progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
 
 
   Devono avere una conoscenza approfondita delle identità e di Microsoft Graph. Devono inoltre avere una conoscenza generale degli elementi dell’interfaccia utente (tra cui le schede adattive e UI Fabric) e dei punti di integrazione (tra cui Microsoft Teams, i moduli aggiuntivi di Office, SharePoint Framework e i messaggi interattivi), e sono in grado di determinare gli obiettivi per la piattaforma che gestisce il carico di lavoro.
-subTitle: Gli sviluppatori di Microsoft 365 progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
+subTitle: Developer Associate progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
 levels:
 - intermediate
 skills:
@@ -37,14 +37,14 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster sulle certificazioni
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  description: Consulta la panoramica delle certificazioni role-based, foundamentals and specialty
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Ripetizione dell’esame
+- title: Exam Reply
   description: Scopri due offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
   href: https://www.microsoft.com/learning/dashboard.aspx
