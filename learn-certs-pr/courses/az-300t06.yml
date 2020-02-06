@@ -50,7 +50,7 @@ summary: |-
 outlineSection: |-
   ### Modulo 1&#58; Sviluppare attività con tempi di esecuzione lunghi e transazioni distribuite
   In questo modulo vengono affrontati i seguenti argomenti&#58; implementare app su vasta scala, parallele e ad alte prestazioni grazie all’utilizzo di bach; HPC grazie dall’uso di macchine virtuali di Microsoft Azure; implementare app resilienti grazie all’utilizzo di code; implementare codice per affrontare gli eventi delle applicazioni grazie all’utilizzo di webhook. L’implementazione di un webhook fornisce a una risorsa esterna un URL per un’applicazione. La risorsa esterna invia quindi una richiesta HTTP all’URL ogni volta che viene apportata una modifica che richiede l’intervento dell’applicazione.
-  ### Modulo 2&#58; Configurare un'archittetura per l’integrazione basata su messaggi
+  ### Modulo 2&#58; Configurare un'architettura per l’integrazione basata su messaggi
 
   #### Lezioni
   - Configurare un’app o un servizio per l’invio di messaggi di posta elettronica

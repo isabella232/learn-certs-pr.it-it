@@ -42,9 +42,9 @@ outlineSection: |-
   - Ripristino dai dump dei dati
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Panoramica dei database OSS
-  - Carichi di lavoro comuni dei database OSS
-  - Sfide che devono affrontare i clienti durante la migrazione
+  - Avere una panoramica dei database OSS
+  - Individuare carichi di lavoro comuni dei database OSS
+  - Individuare sfide che devono affrontare i clienti durante la migrazione
 
 
   ### Modulo 2&#58; Eseguire un carico di lavoro MySQL locale in un database SQL di Azure per MySQL

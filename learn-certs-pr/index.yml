@@ -80,7 +80,7 @@ trainingSection:
   - image:
       alt: Uomo che fa una presentazione a quattro persone seduto 
       src: /learn/certifications/images/image-working-group.jpg
-    title: Prepararsi con i corsi con istruttore
+    title: Prepararsi con un'istruttore
     summary: I Microsoft Learning Partner offrono un'ampia gamma di soluzioni per soddisfare le tue esigenze di apprendimento, consentendoti di raggiungere i tuoi obiettivi di formazione. I Microsoft Certified Trainers (MCT) hanno completato percorsi formativi rigorosi e hanno soddisfatto severi requisiti di certificazione tecnica.
     browseLinks:
     - text: Esplora tutti i corsi di formazione con istruttore
@@ -90,7 +90,7 @@ resourcesSection:
   title: Risorse di formazione
   items:
     - title: Trova un Microsoft Learning Partner
-      summary: La nostra rete di partner in tutto il mondo offre corsi di formazione flessibili, basati su soluzioni e personalizzati, sulle tecnologie Microsoft.
+      summary: La nostra rete di partner in tutto il mondo offre corsi di formazione flessibili, solutions-based e personalizzati, sulle tecnologie Microsoft.
       url: https://www.microsoft.com/learning/partners.aspx
     - title: Assistenza per le certificazioni e gli esami
       summary: Chiedi aiuto ai forum di supporto. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

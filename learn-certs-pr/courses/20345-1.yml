@@ -157,7 +157,7 @@ outlineSection: |-
 
 
   ### Modulo 6&#58; Gestire l’alta disponibilità in Exchange Server
-  Questo modulo descrive le opzioni per l’alta disponibilità disponibili in Exchange Server. Spiega anche come configurare database delle cassette postali ad alta disponibilità e servizi di accesso client utilizzando metodi di bilanciamento dei carichi.
+  Questo modulo descrive l’alta disponibilità di opzioni in Exchange Server. Spiega anche come configurare l'alta disponibilità dei database delle cassette postali e dei servizi di accesso client utilizzando metodi di bilanciamento dei carichi.
   #### Lezioni
   - Alta disponibilità in Exchange Server
   - Configurare database delle cassette postali ad alta disponibilità
