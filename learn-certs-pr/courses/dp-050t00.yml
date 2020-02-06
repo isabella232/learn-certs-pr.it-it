@@ -78,15 +78,15 @@ outlineSection: |-
   Successivamente, esamineranno le diverse opzioni di migrazione che è possibile scegliere in caso di migrazione alle macchine virtuali di Azure. Verranno presentati i vantaggi e i limiti di ciascun approccio. Infine, gli studenti esamineranno i carichi di lavoro di SQL Server che includono l’alta disponibilità e il ripristino di emergenza per garantire la continuità del servizio.
 
   #### Lezioni
-  - Considerazioni sulle migrazioni da SQL Server alle macchine virtuali di Azure
-  - Opzioni per la migrazione dei carichi di lavoro SQL alle macchine virtuali di Azure
+  - considerazioni sulle migrazioni da SQL Server alle macchine virtuali di Azure
+  - opzioni per la migrazione dei carichi di lavoro SQL alle macchine virtuali di Azure
   - Implementare scenari con l’alta disponibilità e il ripristino di emergenza
 
 
   #### Laboratorio&#58; Eseguire la migrazione di carichi di lavoro SQL alle macchine virtuali di Azure
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Considerazioni sulle migrazioni da SQL Server alle macchine virtuali di Azure
-  - Opzioni per la migrazione dei carichi di lavoro SQL alle macchine virtuali di Azure
+  - Avere considerazioni sulle migrazioni da SQL Server alle macchine virtuali di Azure
+  - Fornire opzioni per la migrazione dei carichi di lavoro SQL alle macchine virtuali di Azure
   - Implementare scenari con l’alta disponibilità e il ripristino di emergenza
 
 

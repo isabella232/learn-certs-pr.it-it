@@ -12,7 +12,7 @@ ms.author: micsullivan
 
 ## Ripetizione degli esami
 
-Convalida le tue competenze acquisisci un vantaggio professionale e diventa più sicuro di te. I voucher per la ripetizione dell’esame scadono entro dodici (12) mesi dalla data di acquisto e non possono essere combinati con altre offerte. Devi programmare e sostenere l’esame (e la ripetizione) entro dodici mesi dall’acquisto. Consulta le [Domande frequenti](#frequently-asked-questions) per ulteriori informazioni. Se hai problemi con l'acquisto o il riscatto di un’offerta di ripetizione dell’esame, invia un messaggio e-mail al [team di Pearson VUE](mailto:mindhub@pearson.com).
+Convalida le tue competenze acquisisci un vantaggio professionale e diventa più sicuro di te. I voucher per la Exam Reply scadono entro dodici (12) mesi dalla data di acquisto e non possono essere combinati con altre offerte. Devi programmare e sostenere l’esame (e la ripetizione) entro dodici mesi dall’acquisto. Consulta le [Domande frequenti](#frequently-asked-questions) per ulteriori informazioni. Se hai problemi con l'acquisto o il riscatto di un’offerta di Exam Reply, invia un messaggio e-mail al [team di Pearson VUE](mailto:mindhub@pearson.com).
 
 ### Scelta tra due offerte di ripetizioni degli esami:
 
@@ -23,7 +23,7 @@ Convalida le tue competenze acquisisci un vantaggio professionale e diventa più
                 <img src="images/exam-replay-thumbnail.png">
             </td>
             <td>                
-                <p><strong>Riproduzione degli esami Microsoft</strong><br/>Include: Un (1) voucher per un esame di certificazione Microsoft Certified Professional (MCP) + una (1) ripetizione dell’esame, se necessario.</p>
+                <p><strong>Riproduzione degli esami Microsoft</strong><br/>Include: Un (1) voucher per un esame di certificazione Microsoft Certified Professional (MCP) + una (1) Exam Reply, se necessario.</p>
                 <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3"><strong>Acquista ora</strong></a></p>
             </td>
         </tr>
@@ -32,7 +32,7 @@ Convalida le tue competenze acquisisci un vantaggio professionale e diventa più
                 <img src="images/exam-replay-with-practice-test-thumbnail.png">
             </td>
             <td>
-               <p><strong>Ripetizione di un esame Microsoft con test pratico</strong><br/>Include: Un (1) voucher per un esame di certificazione Microsoft Certified Professional (MCP) + una (1) ripetizione dell’esame, se necessario e un esame pratico (1) ufficiale.</p>
+               <p><strong>Ripetizione di un esame Microsoft con test pratico</strong><br/>Include: Un (1) voucher per un esame di certificazione Microsoft Certified Professional (MCP) + una (1) Exam Reply, se necessario e un esame pratico (1) ufficiale.</p>
                <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink"><strong>Acquista ora</strong></a></p>
             </td>
         </tr>

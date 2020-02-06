@@ -23,7 +23,7 @@ Consolidando l’acquisto, il budget e il controllo delle soluzioni di formazion
 
   Le raccolte Microsoft E-Reference offrono contenuti esaustivi sui prodotti di Microsoft e sulle tecnologie correlate. Accessibili online tramite qualsiasi connessione Internet, questa raccolta di e-book di Microsoft Press di facile uso offre un’alternativa efficace ed economica per stampare le raccolte e un ottimo supplemento post-corso per i corsi di formazione con istruttore e online.
 
-  * [Vedi contenuti di esempio della raccolta E-Reference Library](http://mseref.safaribooksonline.com/)
+  * [Vedi contenuti di esempio della raccolta E-Reference Library](https://mseref.safaribooksonline.com/)
 
 * Voucher per gli esami di certificazione Microsoft
 
@@ -60,14 +60,14 @@ Consolidando l’acquisto, il budget e il controllo delle soluzioni di formazion
   * School Enrollment (nell’ambito di un contratto Campus e School)
   * Select Plus for Academic
 
-  Per ulteriori informazioni, contatta il tuo rivenditore di licenze Academic oppure consulta la pagina dei [programmi di licenze di Microsoft per i singoli settori](http://www.microsoft.com/licensing/licensing-options/for-industries.aspx).
+  Per ulteriori informazioni, contatta il tuo rivenditore di licenze Academic oppure consulta la pagina dei [programmi di licenze di Microsoft per i singoli settori](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx).
 
   **Ulteriori risorse sulle certificazioni per istituti accademici disponibili con il contratto Multilicenza**
 
-  * [Guida ai vantaggi del programma Microsoft Imagine Academy](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [Scheda dati delle certificazioni Microsoft per gli istituti accademici](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Roadmap delle certificazioni di Microsoft Imagine Academy](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Scheda dati dei pacchetti di esame di certificazione Microsoft per istituti accademici disponibili con il contratto Multilicenza](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Guida ai vantaggi del programma Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Scheda dati delle certificazioni Microsoft per gli istituti accademici](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Roadmap delle certificazioni di Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Scheda dati dei pacchetti di esame di certificazione Microsoft per istituti accademici disponibili con il contratto Multilicenza](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Ulteriori risorse sui corsi di e-learning per istituti accademici disponibili con il contratto Multilicenza
 
@@ -77,14 +77,14 @@ Consolidando l’acquisto, il budget e il controllo delle soluzioni di formazion
 
   Microsoft non fornsce più corsi di e-learning nell’ambito del contratto Multilicenza. Le seguenti risorse sono accessibili ai clienti che utilizzano ancora contenuti di e-learning nell’ambito dei loro contratti esistenti. Sono pensate per aiutarti a distribuire, configurare e amministrare i tuoi acquisti di corsi di e-learning nell’ambito del contratto Multilicenza.
 
-  * [Guida all’utilizzo online per i responsabili dei servizi online disponibili con il contratto Multilicenza](http://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [Guida all’utilizzo online del contratto Multilicenza per utenti finali/studenti](http://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Demo per l’attivazione dei corsi di e-learning](http://www.microsoft.com/learning/_silverlight/vl/vl.htm)
-  * [Guida all’utilizzo online di Business Administration Center](http://www.microsoft.com/learning/_silverlight/bac/bac.htm)
-  * [Programma Microsoft Imagine Academy](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [Certificazioni Microsoft per le istituti accademici](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Roadmap delle certificazioni di Microsoft Imagine Academy](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Pacchetti di esami di certificazione Microsoft per istituti accademici disponibili con il contratto Multilicenza](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Guida all’utilizzo online per i responsabili dei servizi online disponibili con il contratto Multilicenza](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [Guida all’utilizzo online del contratto Multilicenza per utenti finali/studenti](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [Demo per l’attivazione dei corsi di e-learning](https://www.microsoft.com/learning/_silverlight/vl/vl.htm)
+  * [Guida all’utilizzo online di Business Administration Center](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)
+  * [Programma Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Certificazioni Microsoft per le istituti accademici](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Roadmap delle certificazioni di Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Pacchetti di esami di certificazione Microsoft per istituti accademici disponibili con il contratto Multilicenza](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Contattaci
 
@@ -147,7 +147,7 @@ Le soluzioni per la formazione e certificazionr di Microsoft sono riservate ai c
 
 Le soluzioni per la formazione e certificazione di Microsoft vengono vengono vendute al prezzo di un pacchetto. I pacchetti delle soluzioni per la formazione e certificazione di Microsoft possono essere acquistate con un abbonamento di 12 mesi oppure pagate ratealmente per il numero di mesi restanti del contratto principale. Non è necessario acquistare una licenza USL o ASL a parte, licenze che sono invece richieste per altri programmi disponibili nell’ambito dei Servizi online con contratto Multilicenza.
 
-**Nota** Se ordini soluzioni per la formazione e certificazione di Microsoft tramite un abbonamento di 12 mesi, gli ordini successivi scadranno alla stessa data dell’abbonamento annuale iniziale. [Consulta la Guida ai servizi online](http://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**Nota** Se ordini soluzioni per la formazione e certificazione di Microsoft tramite un abbonamento di 12 mesi, gli ordini successivi scadranno alla stessa data dell’abbonamento annuale iniziale. [Consulta la Guida ai servizi online](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
 
 **D: quanti codici è opportuno acquistare?**
 
@@ -180,7 +180,7 @@ No. Tutti gli esami di certificazione di Microsoft disponibili nell’ambito del
 
 **D: cosa deve fare il mio istituto per diventare un centro di testing MCP?**
 
-Se il tuo istituto offre certificazioni IT Microsoft ed esami del pacchetto per sito MCP, visita il sito Web di Pearson VUE per scoprire come il tuo istituto può diventare un [centro di testing Pearson VUE](http://www.pearsonvue.com/microsoft). Gli esami di certificazione MOS e MTA vengono resi disponibili tramite Certiport.
+Se il tuo istituto offre certificazioni IT Microsoft ed esami del pacchetto per sito MCP, visita il sito Web di Pearson VUE per scoprire come il tuo istituto può diventare un [centro di testing Pearson VUE](https://www.pearsonvue.com/microsoft). Gli esami di certificazione MOS e MTA vengono resi disponibili tramite Certiport.
 
 **D: in che modo viene fornito il pacchetto di lezioni MCP?**
 
@@ -188,7 +188,7 @@ Appena il partner di canale ha ricevuto l’ordine e Microsoft lo ha evaso, verr
 
 **D: quali sono i requisiti per distribuire una licenza per sito MOS o MTA?**
 
-Il tuo istituto deve essere un centro di testing Certipoint autorizzato e conformarsi ai requisiti tecnici pubblicati sul [sito Web di Certiport](http://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm) per usufruire dei vantaggi offerti dal pacchetto per sito MOS o MTA e proporre esami MOS o MTA. Se il tuo istituto non è un centro di testing Certiport autorizzato, dovrà seguire l’apposita procedura per diventare un [centro di testing Certiport](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101).
+Il tuo istituto deve essere un centro di testing Certipoint autorizzato e conformarsi ai requisiti tecnici pubblicati sul [sito Web di Certiport](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm) per usufruire dei vantaggi offerti dal pacchetto per sito MOS o MTA e proporre esami MOS o MTA. Se il tuo istituto non è un centro di testing Certiport autorizzato, dovrà seguire l’apposita procedura per diventare un [centro di testing Certiport](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101).
 
 **D: quando ho ordinato un pacchetto per sito MOS o MTA tramite un contratto Multilicenza, in che modo mi verrà notificato che posso accedere ai voucher per gli esami?**
 
