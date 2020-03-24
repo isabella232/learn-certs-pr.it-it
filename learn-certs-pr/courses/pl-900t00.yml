@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Power Platform Fundamentals
+metadata:
+  title: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+  description: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+uid: course.pl-900t00
+courseNumber: 'PL-900T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-900
+summary: ""
+prerequisitesSection: |-
+  Nessun prerequisito per questo corso
+outlineSection: |-
+  ### Modulo 1&#58; Introduction to Power Platform
+  Scopri i componenti di Power Platform, i modi per connettere i dati e come le organizzazioni possono sfruttare questa tecnologia
+  #### Lezioni
+  - Panoramica della piattaforma di alimentazione
+  - Riepilogo del modulo
+  
+  Scopri i componenti e le funzionalità di Power Platform
+  - Identificare quando utilizzare ciascuna applicazione del componente Power Platform per creare soluzioni aziendali
+  - Scopri il valore dell'utilizzo di Power Platform per creare soluzioni aziendali
+
+  ### Modulo 2&#58; Get Started with Power Apps
+  Scopri il valore e le capacità di PowerApps e i modi in cui altre organizzazioni hanno sfruttato questa tecnologia per creare semplici applicazioni per la loro attività.
+  #### Lezioni
+  - Panoramica di Power Apps
+  - Come creare una soluzione per app
+
+
+  #### Lab &#58; come creare una Basic Canvas App 1
+  - Creare Staff Canvas App
+  - Completa l'app
+  
+  #### Lab &#58; come creare una Basic Canvas App 2
+  - Creare la Security Canvas App
+
+  Scopri cos'è Power Apps e il suo valore commerciale
+  - Scopri come le altre organizzazioni digitalizzano i loro processi utilizzando Power Apps
+  - Guarda le Power Apps in azione e scopri le opzioni per creare la tua prima app
+
+
+  ### Modulo 3&#58; Introduction to Common Data Service
+  Common Data Service ti consente di approfondire soluzioni di dati potenti e scalabili nel cloud. Scopri cosa rende tick Common Data Service e come può funzionare con Power Platform per creare soluzioni aziendali uniche ed efficienti.
+  #### Lezioni
+  - Panoramica del servizio dati comune
+  - Riepilogo del modulo
+
+
+  #### Lab &#58; modellazione dei dati
+  - Creare ambiente e soluzione
+  - Creare entità e relazioni
+  - Importare dati
+  
+  Spiegare quali ambienti, entità, campi e relazioni sono nel common data service
+  - Descrivere la differenza tra Common Data Service e Common Data Model
+  - Spiegare i casi d'uso e le limitazioni delle regole aziendali e dei flussi di processo
+
+
+  ### Modulo 4&#58; Get Started with Power Automate
+  Scopri come gli utenti possono sfruttare Power Automate per migliorare l'efficienza e la produttività dell'azienda.
+  #### Lezioni
+  - Panoramica di Power Automate
+  - Come costruire una soluzione automatizzata
+
+
+  #### Lab &#58; creare un flusso semplice
+  - Creare flusso di notifica visita
+  - Creare Security Sweep Flow
+
+  Scoprrei il valore e le funzionalità aziendali di Power Automate
+  - Guarda come Power Automate funziona dal punto di vista dell'utente
+  - Crea un flusso semplice
+
+
+  ### Modulo 5&#58; Get Started with Power BI
+  Scopri come le organizzazioni possono utilizzare Power BI per pulire, visualizzare e comprendere facilmente i dati per garantire decisioni meglio informate.
+  #### Lezioni
+  - Panoramica di Power BI
+  - Come costruire una semplice dashboard
+
+
+  #### Lab &#58; Crea un report Power BI
+  Descrivere il valore e le funzionalità aziendali di Power BI
+  - Scopri come funziona Power BI e l'aspetto dal punto di vista dell'utente
+  - Scopri come creare una semplice dashboard di Power BI

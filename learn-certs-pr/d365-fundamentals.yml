@@ -2,45 +2,47 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals'
-  description: Dimostra di conoscere Microsoft Dynamics 365, Power Platform, i fondamenti del cloud, le opzioni di licenza e le opzioni per l'installazione e il rilascio.
+  description: "Dimostra di comprendere Microsoft Dynamics 365; intelligenza artificiale (AI); realtà mista (MR); la Power Platform; i concetti di cloud; la sicurezza del cloud; la sicurezza di Dynamics 365; il Common Data Service; la reportistica di Dynamics 365; le integrazioni di Dynamics 365 e l'implementazione del cloud."
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Dimostra di conoscere Microsoft Dynamics 365, Power Platform, i fondamenti del cloud, le opzioni di licenza e le opzioni per l'installazione e il rilascio.
-subTitle: Dimostra di conoscere Microsoft Dynamics 365, Power Platform, i fondamenti del cloud, le opzioni di licenza e le opzioni per l'installazione e il rilascio.
+summary: |-
+  Dimostra di comprendere Microsoft Dynamics 365; intelligenza artificiale (AI); realtà mista (MR); la Power Platform; i concetti di cloud; la sicurezza del cloud; la sicurezza di Dynamics 365; il Common Data Service; la reportistica di Dynamics 365; le integrazioni di Dynamics 365 e l'implementazione del cloud.
+subTitle: Dimostra di comprendere Microsoft Dynamics 365; intelligenza artificiale (AI); realtà mista (MR); la Power Platform; i concetti di cloud; la sicurezza del cloud; la sicurezza di Dynamics 365; il Common Data Service; la reportistica di Dynamics 365; le integrazioni di Dynamics 365 e l'implementazione del cloud.
 levels:
 - beginner
 skills:
-- Comprendere Dynamics 365
-- Comprendere i concetti cloud
-- Gestire le installazioni e le versioni
+- Identificare i componenti della piattaforma Microsoft per Dynamics 365
+- Comprendere l'IA e la realtà mista per Dynamics 365
+- Comprendere le applicazioni guidate dai modelli
+- Comprendere le applicazioni di Dynamics 365 Finance and Operations
 roles:
 - functional-consultant
 type: fundamentals
 products:
 - dynamics
 courses:
-- uid: course.mb-900t01
+- uid: course.mb-901t00
 paths:
 - uid: learn-dynamics.wwl.dynamics-365-fundamentals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
 exams:
-- uid: exam.mb-900
+- uid: exam.mb-901
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Dynamics 365 Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
+  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster sulle certificazioni
-  description: Consulta la panoramica delle certificazioni role-based, foundamentals and specialty
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Reply
+- title: Exam Replay [Ripetizione dell’esame]
   description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
-- title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+- title: Cruscotto delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx

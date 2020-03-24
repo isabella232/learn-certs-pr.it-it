@@ -1,0 +1,44 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Data Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Data Analyst Associate'
+  description: I Data Analyst consentono alle aziende di massimizzare il valore del loro patrimonio di dati utilizzando Microsoft Power BI.
+uid: certification.data-analyst-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  I Data Analyst consentono alle aziende di massimizzare il valore del loro patrimonio di dati utilizzando Microsoft Power BI. In qualità di esperti in materia, i Data Analyst sono responsabili della progettazione e della costruzione di modelli di dati scalabili, della pulizia e della trasformazione dei dati e dell'abilitazione di capacità analitiche avanzate che forniscono un valore aziendale significativo grazie a visualizzazioni dati facili da comprendere.
+  
+  <div style='color&#58; red;'><br/><strong>Nota&#58; questa certificazione non sarà disponibile fino al 2 aprile 2020.</strong> Queste informazioni non sono definitive e potrebbero esserci piccole modifiche una volta rilasciata la certificazione.</div>
+subTitle: I Data Analyst consentono alle aziende di massimizzare il valore del loro patrimonio di dati utilizzando Microsoft Power BI.
+levels:
+- intermediate
+skills:
+- Preparare i dati
+- Modellare i dati
+- Visualizzare i dati
+- Analizzare i dati
+- Diastribuire e mantenere i deliverable
+roles:
+- data-analyst
+type: role-based
+products:
+- power-bi
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6
+exams:
+- uid: exam.da-100
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster sulle certificazioni
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Ripetizione dell’esame]
+  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: help.md
+- title: Cruscotto delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx

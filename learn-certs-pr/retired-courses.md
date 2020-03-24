@@ -1,11 +1,12 @@
 ---
 title: Corsi Microsoft ritirati | Microsoft Docs
 description: Corsi Microsoft ritirati
-documentationcenter: NA
+documentationcenter: N/D
+author: bipach
 ms.topic: article
-ms.tgt_pltfrm: NA
-ms.workload: NA
-ms.date: 07/30/2019
+ms.tgt_pltfrm: N/D
+ms.workload: N/D
+ms.date: 30/07/2019
 ms.author: micsullivan
 ---
 # Corsi ritirati
@@ -14,10 +15,91 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
 
 ## Corsi ritirati: Corsi di formazione con istruttori
 
+* Corsi ritirati il 28 febbraio 2020
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | 2778 | A | Writing Queries Using Microsoft® SQL Server™ 2008 Transact-SQL | Inglese| 28/02/2020 |
+    | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | Inglese | 28/02/2020|
+    | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | Inglese | 28/02/2020 |
+    | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | Inglese | 28/02/2020 |
+    | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | Inglese | 28/02/2020 |
+    | 6425 | C | Configuring and Troubleshooting Windows Server® 2008 Active Directory® Domain Services | Inglese | 28/02/2020 |
+    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | Inglese| | 28/02/2020 |
+    | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | Inglese | 28/02/2020 |
+    | 10135 | B | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | Inglese | 28/02/2020 |
+    | 10174 | B | Configuring and Administering Microsoft® SharePoint® 2010 | Inglese | 28/02/2020 |
+    | 10175 | A | Microsoft® SharePoint® 2010, Application Development | Inglese | 28/02/2020 |
+    | 10262 | A | Developing Windows® Applications with Microsoft® Visual Studio® 2010 | Inglese | 28/02/2020 |
+    | 10263 | A | Developing Windows® Communication Foundation Solutions with Microsoft® Visual Studio® 2010 | Inglese | 28/02/2020 |
+    | 10264 | A | Developing Web Applications with Microsoft® Visual Studio® 2010 | Inglese | 28/02/2020 |
+    | 10265 | A | Developing Data Access Solutions with Microsoft® Visual Studio® 2010 | Inglese | 28/02/2020 |
+    | 10324 | A | Implementing and Managing Microsoft® Desktop Virtualization | Inglese | 28/02/2020 |
+    | 10550 | A | Programming in Visual Basic with Microsoft® Visual Studio® 2010 | Inglese | 28/02/2020 |
+    | 10748 | C | Planning and Deploying System Center 2012 Configuration Manager | Inglese | 28/02/2020 |
+    | 10977 | B | Upgrading Your SQL Server Skills to Microsoft® SQL Server® 2014 | Inglese | 28/02/2020 |
+    | 10981 | A | Infrastructure Provisioning with System Center Virtual Machine Manager | Inglese | 28/02/2020 |
+    | 10991 | A | Troubleshooting Windows Server 2016 Core Technologies | Inglese | 28/02/2020 |
+    | 10993 | B | Integrating Cloud Services with System Center Configuration Manager | Inglese | 28/02/2020 |
+    | 10999 | A | SQL Server on Linux | Inglese | 28/02/2020 |
+    | 13969 | B | Active Directory® Services with Windows Server | Giapponese | 28/02/2020 |
+    | 20331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | Inglese | 28/02/2020 |
+    | 20332 | B | Advanced Solutions of Microsoft SharePoint Server 2013 | Inglese | 28/02/2020 |
+    | 20341 | B | Core Solutions of Microsoft® Exchange Server 2013 | Inglese | 28/02/2020 |
+    | 20342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | Inglese | 28/02/2020 |
+    | 20415 | B | Implementing a Desktop Infrastructure | Inglese | 28/02/2020 |
+    | 20416 | B | Implementing Desktop Application Environments | Inglese | 28/02/2020 |
+    | 20488 | B | Developing Microsoft SharePoint Server 2013 Core Solutions | Inglese | 28/02/2020 |
+    | 20687 | D | Configuring Windows® 8.1 | Inglese | 28/02/2020 |
+    | 20688 | D | Supporting Windows® 8.1 | Inglese | 28/02/2020 |
+    | 23346 | C | Managing Office 365 Identities and Services | Giapponese | 28/02/2020 |
+    | 40409 | A | Deploying Voice Workloads for Skype for Business Online and Server 2015 | Inglese | 28/02/2020 |
+    | 40552 | A | Microsoft Security Workshop: Managing Identity | Inglese | 28/02/2020 |
+    | 40553 | A | Microsoft Security Workshop: Planning for a Secure Enterprise - Improving Detection | Inglese | 28/02/2020 |
+    | 40554 | A | Microsoft Security Workshop: Implementing Windows 10 Security Features | Inglese | 28/02/2020 |
+    | 22697-1 | B | Installing and Configuring Windows 10 | Francese | 28/02/2020 |
+    | MB-900T01 | A | Dynamics 365 fundamentals | Inglese | 28/02/2020 |
+
+* Corsi ritirati il 31 gennaio 2020
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | 10979 | F | Introduction to Microsoft Azure for IT Professionals | Inglese | 31/01/2020 |
+    | MB-200T01 | A | Dynamics 365: Power Platform applications | Inglese | 31/01/2020 |
+    | MB-200T02 | A | Dynamics 365: Power Platform automation | Inglese | 31/01/2020 |
+    | MB-200T03 | A | Dynamics 365: Power Platform integrations | Inglese | 31/01/2020 |
+    | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | Inglese | 31/01/2020 |
+    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing  | Inglese | 31/01/2020 |
+    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing     | Inglese | 31/01/2020 |
+    | MB-240T01 | A | Configuring Dynamics 365 for Field Service | Inglese | 31/01/2020 |
+    | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | Inglese | 31/01/2020 |
+    | MB-240T03 | A | Universal Resource Scheduling for Dynamics 365 for Field Service | Inglese | 31/01/2020 |
+    | MB-300T01 | A | Core common features of Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-300T02 | A | Core configuration in Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-300T03 | A | Data migration and preparing for go-live with Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-310T01 | A | Configure and use essential components of financial management in Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-310T02 | A | Configure and use accounts payable, receivable, and collections in Finance and Operations | Inglese | 31/01/2020 |
+    | MB-310T03 | A | Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations | Inglese | 31/01/2020 |
+    | MB-320T01 | A | Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-320T02 | A | Configure and use lean manufacturing in Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-320T03 | A | Configure and use process manufacturing in Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-330T01 | A | Configure and use supply chain management in Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-330T02 | A | Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+    | MB-330T03 | A | Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations | Inglese | 31/01/2020 |
+
 * Corsi ritirati il 31 dicembre 2019
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
+    | MD-100T01 | A | Installing Windows 10 | Inglese | 31/12/2019 |
+    | MD-100T02 | A | Configuring Windows 10 | Inglese | 31/12/2019 |
+    | MD-100T03 | A | Protecting Windows 10 | Inglese | 31/12/2019 |
+    | MD-100T04 | A | Maintaining Windows 10 | Inglese | 31/12/2019 |
+    | MD-101T01 | A | Deploying the Modern Desktop | Inglese | 31/12/2019 |
+    | MD-101T02 | A | Managing Modern Desktops and Devices | Inglese | 31/12/2019 |
+    | MD-101T03 | A | Protecting Modern Desktops and Devices | Inglese | 31/12/2019 |
+    | 40507 | G | Microsoft Cloud Workshop: Microservices Architecture | Inglese | 31/12/2019 |
+    | 40525 | G | Microsoft Cloud Workshop: Media AI | Inglese | 31/12/2019 |
     | 10992 | B | Integrating On-Premises Core Infrastructure with Microsoft Azure | Inglese | 31/12/2019 |
     | 10993 | B | Integrating On-Premises Identity Infrastructure with Microsoft Azure | Inglese | 31/12/2019 |
     | 40389 | A | First Look Clinic: Windows Server 2016 Ingese | 31/12/2019 |
@@ -25,10 +107,10 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 20695 | D | Deploying Windows Desktops and Enterprise Applications | Inglese | 31/12/2019 |
     | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | Inglese | 31/12/2019 |
     | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装 | Giapponese | 31/12/2019 |
-    | 10078 | A | Configurare e risolvere i problemi dei servizi di dominio di Windows Server 2008 Active Directory (Cinese semplificato) | Cinese semplificato | 31/12/2019 |
+    | 10078 | A | Configuring and Troubleshooting Windows Server 2008 Active Directory Domain Services (Cinese semplificato) | Cinese semplificato | 31/12/2019 |
     | 10136 | A | Configuration, gestion et maintenance des serveurs Windows Server® 2008 | Francese | 31/12/2019 |
     | 10138 | A | Windows Server® 2008 サーバーの構成、管理、メンテナンス | Giapponese | 31/12/2019 |
-    | 10140 | A | Configurare, gestire e aggionare Windows Server 2008 Server | Portoghese | 31/12/2019 |
+    | 10140 | A | Configuring, Managing and Maintaining Windows Server 2008 Servers | Portoghese | 31/12/2019 |
     | 10142 | A | Manutenção de um banco de dados do Microsoft® SQL Server® 2008 | Portoghese | 31/12/2019 |
     | 10168 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | Portoghese | 31/12/2019 |
     | 10216 | A | Konfiguration, Verwaltung und Problembehandlung in Microsoft® Exchange Server 2010 | Tedesco | 31/12/2019 |
@@ -69,38 +151,38 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | Tedesco | 31/12/2019 |
     | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | Portoghese | 31/12/2019 |
     | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | Portoghese | 31/12/2019 |
-    | 2197 | A | Pianificare, implementare e aggiornare un’infrastruttura Microsoft® Windows® Server 2003 Active Directory® | Portoghese | 31/12/2019 |
-    | 2197 | A | Pianificare, implementare e aggiornare un’infrastruttura Microsoft® Windows Server™ 2003 Active Directory® | Portoghese | 31/12/2019 |
+    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows® Server 2003 Active Directory® Infrastructure | Portoghese | 31/12/2019 |
+    | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows Server™ 2003 Active Directory® Infrastructure | Portoghese | 31/12/2019 |
     | 22413 | B | Conception et implémentation d’une infrastructure de serveur | Francese | 31/12/2019 |
     | 22415 | B | Implémentation d'une infrastructure de bureau | Francese | 31/12/2019 |
-    | 23331 | B | Soluzioni di base di Microsoft® SharePoint® Server 2013 | Giapponese | 31/12/2019 |
-    | 23332 | B | Soluzioni avanzate di Microsoft® SharePoint® Server 2013 | Giapponese | 31/12/2019 |
-    | 23687 | B | Configurare Windows 8 | Giapponese | 31/12/2019 |
-    | 23688 | A | Gestire e aggiornare Windows 8 | Giapponese | 31/12/2019 |
-    | 24687 | B | Configurare Windows 8 | Portoghese | 31/12/2019 |
-    | 24688 | A | Gestire e aggiornare Windows 8 | Portoghese | 31/12/2019 |
+    | 23331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | Giapponese | 31/12/2019 |
+    | 23332 | B | Advanced Solutions of Microsoft® SharePoint® Server 2013 | Giapponese | 31/12/2019 |
+    | 23687 | B | Configuring Windows 8 | Giapponese | 31/12/2019 |
+    | 23688 | A | Managing and Maintaining Windows 8 | Giapponese | 31/12/2019 |
+    | 24687 | B | Configuring Windows 8 | Portoghese | 31/12/2019 |
+    | 24688 | A | Managing and Maintaining Windows 8 | Portoghese | 31/12/2019 |
     | 28533 | D | 实施Microsoft Azure基础架构解决方案 | Cinese semplificato | 31/12/2019 |
     | 29533 | D | 實作 Microsoft Azure 基礎架構解決方案 | Cinese semplificato | 31/12/2019 |
-    | 50287 | A | Panoramica della tecnologia di virtualizzazione Microsoft (Versione 2) | Giapponese | 31/12/2019 |
-    | 50288 | A | Installare e configurare Hyper-V (Versione 2) | Giapponese | 31/12/2019 |
+    | 50287 | A | Microsoft Virtualization Technology Overview (Version 2) | Giapponese | 31/12/2019 |
+    | 50288 | A | Install and Configure Hyper-V (Version 2) | Giapponese | 31/12/2019 |
     | 50403 | B | Implementing Active Directory Rights Management Services with Exchange and SharePoint | Inglese | 31/12/2019 |
     | 50412 | B | Implementing Active Directory Federation Services 2.0 | Inglese | 31/12/2019 |
-    | 50497 | A | Amministrare Microsoft SQL Server 2008 System (in preparazione della certificazione MCTS 70-432) | Giapponese | 31/12/2019 |
-    | 50498 | A | Pianificare e gestire gli ambienti di distribuzione di Windows 7 Desktop | Giapponese | 31/12/2019 |
+    | 50497 | A | Microsoft SQL Server 2008 System Administration (Preparation for MCTS 70-432) | Giapponese | 31/12/2019 |
+    | 50498 | A | Planning and Management for Windows 7 Desktop Deployment Environment | Giapponese | 31/12/2019 |
     | 50525 | A | Team Foundation Server 2010 Fundamentals | Giapponese | 31/12/2019 |
-    | 50590 | A | Soluzioni per la virtualizzazione dei client Microsoft – Desktop e VDI remoti | Giapponese | 31/12/2019 |
-    | 50591 | A | Installare, configurare e distribuire client di Windows 7 | Giapponese | 31/12/2019 |
-    | 50600 | A | Progettare un’infrastruttura di business intelligence con Microsoft SQL Server 2008 | Giapponese | 31/12/2019 |
-    | 50601 | A | Progettare e implementare una soluzione di gestione per Microsoft SQL Server 2008 Database | Giapponese | 31/12/2019 |
-    | 50602 | A | Progettare e pianificare soluzioni Microsoft Lync Server 2010 | Giapponese | 31/12/2019 |
-    | 50603 | A | Configurare e amministrare Microsoft Lync Server 2010 | Giapponese | 31/12/2019 |
+    | 50590 | A | Microsoft Client Virtualization Solutions – Remote Desktop and VDI | Giapponese | 31/12/2019 |
+    | 50591 | A | Installing, Configuring, and Deploying Windows 7 Clients | Giapponese | 31/12/2019 |
+    | 50600 | A | Designing a Business Intelligence Infrastructure Using Microsoft SQL Server 2008 | Giapponese | 31/12/2019 |
+    | 50601 | A | Designing and Implementing Management Solution for Microsoft SQL Server 2008 Database | Giapponese | 31/12/2019 |
+    | 50602 | A | Designing and Planning Microsoft Lync Server 2010 Solutions | Giapponese | 31/12/2019 |
+    | 50603 | A | Configuring and Administering Microsoft Lync Server 2010 | Giapponese | 31/12/2019 |
     | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | Tedesco | 31/12/2019 |
     | 6238 | B | Configuration et résolution des problèmes des services de domaine Active Directory® Windows Server® 2008 | Francese | 31/12/2019 |
     | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server® 2008 | Francese | 12/31/2019 |
     | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | Tedesco | 31/12/2019 |
     | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | Tedesco | 31/12/2019 |
-    | 6850 | A | Principi delle infrastrutture di rete e delle applicazioni di Windows Server® 2008 (Cinese semplificato) | Cinese semplificato | 31/12/2019 |
-    | 6852 | A | Configurare e risolvere i problemi dell’infrastruttura di rete di Windows Server® 2008 (Cinese semplificato) | Cinese semplificato | 31/12/2019 |
+    | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure (Simplified Chinese) | Cinese semplificato | 31/12/2019 |
+    | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (Cinese semplificato) | Cinese semplificato | 31/12/2019 |
     | 6854 | A | Windows Server® 2008 Internet 信息服务的配置与故障排除 | Cinese semplificato | 31/12/2019 |
 
 * Corsi ritirati il 27 novembre 2019
@@ -144,8 +226,8 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 20774 | A | Perform Cloud Data Science with Azure Machine Learning | Inglese | 30/6/2019
     | 20775 | A | Perform Data Engineering on Microsoft HD Insight | Inglese | 30/6/2019
     | 20776 | A | Engineering Data with Microsoft Cloud Services | Inglese | 30/6/2019
-    | 32410 | B | Installare e configurare Windows Server 2012  | Turco | 30/6/2019
-    | 32411 | B | Amministrare Windows Server 2012  | Turco | 30/6/2019
+    | 32410 | B | Installing and Configuring Windows Server 2012  | Turco | 30/6/2019
+    | 32411 | B | Administering Windows Server 2012  | Turco | 30/6/2019
     | 40504 | G | Microsoft Cloud Workshop: Intelligent Vending Machines | Inglese | 30/6/2019
     | 40506 | G | Microsoft Cloud Workshop: Lift and Shift / Azure Resource Manager | Inglese | 30/6/2019
     | 40520 | G | Microsoft Cloud Workshop: Optimized Architecture | Inglese | 30/6/2019
@@ -326,11 +408,11 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 2555 | A | Developing Microsoft.NET Applications for Windows (Visual C#.NET) | Inglese | 30/6/2018
     | 2556 | A | Developing Mobile Applications Using the Microsoft® .NET Compact Framework | Inglese | 30/6/2018
     | 2559 | B | Introduction to Visual Basic® .NET Programming with Microsoft® .NET | Inglese | 30/6/2018
-    | 2572 | A | Fornire supporto agli utenti che eseguono il sistema operativo Microsoft® Windows® XP | Portoghese | 30/6/2018
-    | 2573 | A | Fornire supporto agli utenti che eseguono applicazioni in un sistema operativos Microsoft® Windows® XP | Portoghese | 30/6/2018
+    | 2572 | A | Supporting Users Running the Microsoft® Windows® XP Operating System | Portoghese | 30/6/2018
+    | 2573 | A | Supporting Users Running Applications on a Microsoft® Windows® XP Operating System | Portoghese | 30/6/2018
     | 2576 | A | Implementing And Administering Microsoft® Internet Information Services IIS) 6.0 | Inglese | 30/06/2018
-    | 2605 | A | Gestire un ambiente Microsoft® Windows Server™ 2003 | Russo | 30/6/2018
-    | 2606 | A | Maintenere aggiornato un ambiente Microsoft® Windows Server™ 2003 | Russo | 30/06/2018
+    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment  | Russo | 30/6/2018
+    | 2606 | A | Maintaining a Microsoft® Windows Server™ 2003 Environment | Russo | 30/06/2018
     | 2667 | A | Introduction to Programming | Inglese | 30/6/2018
     | 2710 | B | Analyzing Requirements and Defining Microsoft® .NET Solution Architectures | Inglese | 30/06/2018
     | 2717 | C | Introduction to Microsoft® .NET Development  | Inglese | 30/6/2018
@@ -345,7 +427,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 2957 | B | Advanced Foundations of Microsoft® .NET 2.0 Development | Inglese | 30/6/2018
     | 3938 | C | Updating Your Skills from Microsoft® Exchange Server 2000 or Microsoft Exchange Server 2003 to Microsoft Exchange Server 2007 SP1 | Inglese | 30/6/2018
     | 4730 | A | Weiterführende Webanwendungstechnologien Mit Microsoft® Visual Studio® 2005 | Tedesco | 30/6/2018
-    | 4730 | A | Tecnologie avanzate per le applicazioni Web con Microsoft® Visual Studio® 2005  | Tedesco | 30/6/2018
+    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005  | Tedesco | 30/6/2018
     | 4994 | A | Introduction to Programming Microsoft .NET Applications with Microsoft Visual Studio 2005 | Inglese | 30/6/2018
     | 4995 | A | Programming with the Microsoft® .NET Framework using Microsoft Visual Studio® 2005 | Inglese | 30/6/2018
     | 5047 | B | Introduction to Installing and Managing Microsoft® Exchange Server 2007 SP1 | Inglese | 30/6/2018
@@ -366,76 +448,76 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 5179 | A | Implementing and Maintaining Telephony Using Microsoft Office Communications Server 2007 | Inglese | 30/6/2018
     | 5909 | A | Introduction à l`installation et à la gestion de Microsoft® Exchange Server 2007 | Francese | 30/6/2018
     | 5910 | A | Einführung in die Installation und Verwaltung von Microsoft® Exchange Server 2007 | Tedesco | 30/6/2018
-    | 5911 | A | Introduzione all’iinstallazione e alla gestione di Microsoft Exchange Server 2007 | Giapponese | 30/06/2018
-    | 5912 | A | Gestire la sicurezza della messaggistica con Microsoft Exchange Server 2007 | Francese | 30/6/2018
-    | 5913 | A | Gestire la sicurezza della messaggistica con Microsoft Exchange Server 2007 | Tedesco | 30/6/2018
-    | 5914 | A | Eseguire il ripristino dei server e dei database di messaggistica con Microsoft Exchange Server 2007 | Francese | 30/6/2018
-    | 5915 | A | Eseguire il ripristino del server e dei database della messaggistica con Microsoft Exchange | Tedesco | 30/06/2018
-    | 5915 | A | Eseguire il ripristino del server e dei database della messaggistica con Microsoft Exchange Server 2007 | Tedesco | 30/6/2018
-    | 5916 | A | Monitorare e risolvere i problemi di Microsoft Exchange Server 2007 | Francese | 30/6/2018
-    | 5917 | A | Monitorare e risolvere i problemi di Microsoft Exchange Server 2007 | Tedesco | 30/6/2018
+    | 5911 | A | Introduction to Installing and Managing Microsoft Exchange Server 2007 | Giapponese | 30/06/2018
+    | 5912 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | Francese | 30/6/2018
+    | 5913 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | Tedesco | 30/6/2018
+    | 5914 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange Server 2007 | Francese | 30/6/2018
+    | 5915 | A | Recovering Messaging Server and Databases Using Microsoft Exchange | Tedesco | 30/06/2018
+    | 5915 | A | Recovering Messaging Server and Databases Using Microsoft Exchange Server 2007 | Tedesco | 30/6/2018
+    | 5916 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | Francese | 30/6/2018
+    | 5917 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | Tedesco | 30/6/2018
     | 5942 | A | Implémentation de Microsoft® Windows® SharePoint® Services 3.0 | Francese | 30/6/2018
     | 5943 | A | Implementieren von Microsoft® Windows® SharePoint® Services 3.0 | Tedesco | 30/6/2018
-    | 5944 | A | Implementare Microsoft® Office SharePoint® Server 2007 | Francese | 30/06/2018
-    | 5945 | A | Implementare Microsoft® Office SharePoint® Server 2007 | Tedesco | 30/6/2018
-    | 5947 | A | Distribuire i desktop aziendali in Microsoft® Windows Vista™ | Tedesco | 30/6/2018
-    | 5949 | A | Installare e configurare il sistema operativo Windows Vista | Tedesco | 30/6/2018
-    | 5949 | A | Installare e configurare il sistema operativo Windows Vista™  | Tedesco | 30/6/2018
-    | 5951 | A | Configurare le applicazioni e gli strumenti di Windows Vista™ - | Tedesco | 30/6/2018
+    | 5944 | A | Implementing Microsoft® Office SharePoint® Server 2007 | Francese | 30/06/2018
+    | 5945 | A | Implementing Microsoft® Office SharePoint® Server 2007 | Tedesco | 30/6/2018
+    | 5947 | A | Deploying Microsoft® Windows Vista™ Business Desktops - Tedesco | Tedesco | 30/6/2018
+    | 5949 | A | Installing and Configuring the Windows Vista Operating System | Tedesco | 30/6/2018
+    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System  | Tedesco | 30/6/2018
+    | 5951 | A | Configuring Windows Vista™ Applications and Tools - | Tedesco | 30/6/2018
     | 5954 | A | Résolution des problèmes et maintenance des ordinateurs Windows Vista™ | Francese | 30/6/2018
     | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista | Tedesco | 30/6/2018
     | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista™ | Tedesco | 30/6/2018
     | 5957 | A | Unterstützung von Windows Vista und Windows Vista Anwendungen | Tedesco | 30/6/2018
-    | 5970 | A | Installare e configurare il sistema operativo Windows Vista - | Giapponese | 30/6/2018
-    | 5971 | A | Configurare Windows Vista Mobile Computing e le relative applicazioni - | Giapponese | 30/6/2018
-    | 5981 | A | Eseguire la manutenzione e risolvere i problemi dei computer Windows Vista - | Giapponese |  30/6/2018
+    | 5970 | A | Installing and Configuring the Windows Vista Operating System - | Giapponese | 30/6/2018
+    | 5971 | A | Configuring Windows Vista Mobile Computing and Applications - | Giapponese | 30/6/2018
+    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | Giapponese |  30/6/2018
     | 6066 | A | Developing Managed Applications for Microsoft Windows Mobile 6.0 | Inglese | 30/6/2018
     | 6067 | A | Developing Native Applications for Microsoft Windows Mobile 6.0 | Inglese | 30/6/2018
-    | 6111 | A | Accesso di base ai dati con Microsoft® Visual Studio® 2005 | Cinese | 30/6/2018
-    | 6112 | A | Accesso avanzato ai dati con Microsoft® Visual Studio® 2005 | Cinese | 30/6/2018
-    | 6113 | A | Tecnologie di base per le applicazioni Web con Microsoft® Visual Studio® 2005 | Cinese | 30/6/2018
-    | 6114 | A | Tecnologie avanzate per le applicazioni Web con Microsoft® Visual Studio® 2005 | Cinese | 30/6/2018
-    | 6115 | A | Attività di sviluppo di base con Microsoft® .NET Framework 2.0 Foundation | Cinese | 30/6/2018
-    | 6116 | A | Attività di sviluppo avanzate con Microsoft® .NET Framework 2.0 Foundation | Cinese | 30/6/2018
+    | 6111 | A | Core Data Access with Microsoft® Visual Studio® 2005 | Cinese | 30/6/2018
+    | 6112 | A | Advanced Data Access with Microsoft® Visual Studio® 2005 | Cinese | 30/6/2018
+    | 6113 | A | Core Web Application Technologies with Microsoft® Visual Studio® 2005 | Cinese | 30/6/2018
+    | 6114 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | Cinese | 30/6/2018
+    | 6115 | A | Core development with the Microsoft® .NET Framework 2.0 Foundation | Cinese | 30/6/2018
+    | 6116 | A | Advanced Development with the Microsoft® .NET Framework 2.0 Foundation | Cinese | 30/6/2018
     | 6142 | A | Implementare Microsoft Office SharePoint Server 2007 | Giapponese | 30/6/2018
     | 6160 | A | Einführung in die Programmierung von Microsoft® .NET Framework- Anwendungen mit Microsoft Visual Studio® 2005 | Tedesco | 30/6/2018
-    | 6268 | A | Installare e configurare il sistema operativo Windows Vista™ | Arabo | 30/6/2018
+    | 6268 | A | Installing and Configuring the Windows Vista™ Operating System | Arabo | 30/6/2018
     | 6269 | A | Configurare Windows Vista Mobile Computing e le relative applicazioni | Arabo | 30/6/2018
     | 6438 | A | Implementing and Administering Windows® SharePoint® Services 3.0 in Windows Server® 2008 | Italiano | 30/6/2018
     | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | Inglese | 30/6/2018
     | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | Inglese | 30/6/2018
     | 6730 | B | Erweitern Ihrer Kenntnisse der Netzwerkinfrastruktur- und Active Directory-Technologie für Windows Server 2008 | Tedesco | 30/6/2018
     | 6731 | B | Erweitern Ihrer Kenntnisse der Anwendungsinfrastruktur-Technologie für Windows Server 2008 | Tedesco | 30/6/2018
-    | 6734 | A | Aggiornare l’infrastruttura di rete e le competenze tecnologiche di Active Directory® Technology a Windows Server® 2008 | Francese | 30/6/2018
+    | 6734 | A | Updating your Network Infrastructure and Active Directory® Technology Skills to Windows Server® 2008 | Francese | 30/6/2018
     | 6734 | A | Mise à jour de vos compétences en matière d'infrastructure réseau et de technologie Active Directory® dans Windows Server® 2008 | Francese | 30/6/2018
-    | 6735 | A | Aggiornare le competenze tecnologiche della piattaforma delle applicazioni a Windows Server® 2008 | Francese | 30/06/2018
+    | 6735 | A | Updating your Application Platform Technology Skills to Windows Server® 2008 | Francese | 30/06/2018
     | 6738 | A | Configuration et administration des services Windows Media® dans Windows Server® 2008 | Francese | 30/6/2018
     | 6741 | A | Configuration et dépannage d'une infrastructure réseau Windows Server 2008 | Francese | 30/6/2018
     | 6742 | A | Konfigurieren einer Netzwerkinfrastruktur und Problembehandlung unter Windows Server® 2008 | Tedesco | 30/6/2018
-    | 6743 | A | Configurare e risolvere i problemi di un’infrastruttura di rete di Windows Server® 2008 | Giapponese | 30/6/2018
+    | 6743 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (Giapponese) | Giapponese | 30/6/2018
     | 6747 | A | Planification et administration de serveurs Windows Server® 2008 | Francese | 30/6/2018
-    | 6851 | A | Principi di Windows Server® 2008 Active Directory® | Cinese | 30/6/2018
+    | 6851 | A | Fundamentals of Windows Server® 2008 Active Directory® | Cinese | 30/6/2018
     | 6853 | A | Distribuire Windows Server® 2008 | Cinese | 30/6/2018
-    | 6855 | A | Configurare e risolvere i problemi dei servizi Terminal di Windows Server® 2008 (Cinese semplificato) | Cinese | 30/6/2018
-    | 6856 | A | Principi di Windows Server 2008 Active Directory | Tedesco | 30/6/2018
-    | 6857 | A | Principi di Windows Server 2008 Active Directory | Francese | 30/6/2018
-    | 6871 | A | Configurare e risolvere i problemi delle identità e delle soluzioni di accesso con Windows Server® 2008 Active Directory® | Giapponese | 30/6/2018
-    | 7193 | A | Sviluppare applicazioni gestite per Windows Mobile 6 | Cinese | 30/6/2018
-    | 7196 | A | Sviluppare applicazioni native per Microsoft Windows Mobile 6 | Cinese | 30/6/2018
-    | 10036 | A | Progettare un’infrastruttura di rete in Windows Server® 2008 | Francese | 30/6/2018
-    | 10079 | A | Configurare e risolvere i problemi delle identità e delle soluzioni di accesso con Windows Server (Cinese semplificato) | Cinese | 30/6/2018
+    | 6855 | A | Configuring and Troubleshooting Windows Server® 2008 Terminal Services (Cinese semplificato) | Cinese | 30/6/2018
+    | 6856 | A | Fundamentals of Windows Server 2008 Active Directory | Tedesco | 30/6/2018
+    | 6857 | A | Fundamentals of Windows Server 2008 Active Directory | Francese | 30/6/2018
+    | 6871 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® (Giapponese) | Giapponese | 30/6/2018
+    | 7193 | A | Developing Managed Applications for Windows Mobile 6 | Cinese | 30/6/2018
+    | 7196 | A | Developing Native Applications for Microsoft Windows Mobile 6 | Cinese | 30/6/2018
+    | 10036 | A | Designing a Windows Server® 2008 Network Infrastructure - French | Francese | 30/6/2018
+    | 10079 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server (Cinese semplificato) | Cinese | 30/6/2018
     | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | Cinese | 30/6/2018
-    | 10081 | A | Eseguire la manutenzione di un database Microsoft® SQL Server® 2008 | Cinese | 30/6/2018
-    | 10082 | A | Implementare un database Microsoft® SQL Server® 2008 | Cinese | 30/6/2018
-    | 10083 | A | Visual Studio 2008: Presentazione di Windows | Cinese | 30/6/2018
-    | 10085 | A | Visual Studio 2008: Principi del flusso di lavoro di Windows | Cinese | 30/6/2018
+    | 10081 | A | Maintaining a Microsoft® SQL Server® 2008 Database | Cinese | 30/6/2018
+    | 10082 | A | Implementing a Microsoft® SQL Server® 2008 Database | Cinese | 30/6/2018
+    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | Cinese | 30/6/2018
+    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | Cinese | 30/6/2018
     | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | Cinese | 30/6/2018
     | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | Cinese | 30/6/2018
-    | 10184 | A | Progettare un’infrastruttura di rete per Windows Server 2008 | Cinese | 30/6/2018
-    | 10185 | A | Progettare un’infrastruttura Active Directory® e i relativi servizi in Windows Server® 2008 | Cinese | 30/6/2018
-    | 10218 | A | Scrivere query con Microsoft® SQL Server® 2008 Transact-SQL | Giapponese | 30/6/2018
+    | 10184 | A | Designing Windows Server 2008 Network Infrastructure | Cinese | 30/6/2018
+    | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | Cinese | 30/6/2018
+    | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(Giapponese) | Giapponese | 30/6/2018
     | 10326 | A | Implementieren und Verwalten von Windows Small Business Server 2008 | Tedesco | 30/6/2018
-    | 10562 | A | Sviluppare applicazioni Web con Microsoft® Visual Studio® 2010 (Cinese semplificato) | Cinese | 30/6/2018
+    | 10562 | A | Developing Web Applications with Microsoft® Visual Studio® 2010(Cinese semplificato) | Cinese | 30/6/2018
     | 80307 | A | Enterprise Portal Development in Microsoft Dynamics® AX 2012 | Inglese | 30/6/2018
     | 80308 | A | Procurement in Microsoft Dynamics® AX 2012 | Inglese | 30/6/2018
     | 80310 | A | LEAN Manufacturing in Microsoft Dynamics® AX 2012 | Inglese | 30/6/2018
@@ -468,22 +550,22 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | Inglese | 30/6/2018
     | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | Inglese | 30/6/2018
     | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | Inglese | 30/6/2018
-    | 80616 | A | Personalizzare e configurare in Microsoft Dynamics® CRM 2013 | Giapponese | 30/6/2018
+    | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (Giapponese) | Giapponese | 30/6/2018
     | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics® CRM 2013 | Tedesco | 30/6/2018
     | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | Spagnolo | 30/6/2018
     | 80619 | A | Personnalisation et configuration dans Microsoft Dynamics® CRM 2013 | Francese | 30/6/2018
-    | 80620 | A | Installare e distribuire in Microsoft Dynamics® CRM 2013 | Giapponese | 30/6/2018
+    | 80620 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 (Giapponese) | Giapponese | 30/6/2018
     | 80621 | A | Instalación e implementación de Microsoft Dynamics® CRM 2013 | Francese | 30/6/2018
     | 80622 | A | Installation und Bereitstellung in Microsoft Dynamics® CRM 2013 | Tedesco | 30/6/2018
     | 80623 | A | Installation et déploiement dans Microsoft Dynamics® CRM 2013 | Francese | 30/6/2018
     | 80624 | A | Administración de ventas de Microsoft Dynamics® CRM 2013 | Spagnolo | 30/6/2018
     | 80625 | A | Vertriebsverwaltung in Microsoft Dynamics® CRM 2013 | Tedesco | 30/6/2018
     | 80626 | A | Gestion des ventes dans Microsoft Dynamics® CRM 2013 | Francese | 30/6/2018
-    | 80627 | A | Gestione delle vendite in Microsoft Dynamics® CRM 2013 | Giapponese | 30/6/2018
+    | 80627 | A | Sales Management in Microsoft Dynamics® CRM 2013 (Giapponese) | Giapponese | 30/6/2018
     | 80628 | A | Kundenservice in Microsoft Dynamics® CRM 2013 | Tedesco | 30/6/2018
     | 80629 | A | Servicio al cliente de Microsoft Dynamics® CRM 2013 | Spagnolo | 30/6/2018
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | Francese | 30/6/2018
-    | 80631 | A | Assistenza clienti in Microsoft Dynamics® CRM 2013 | Giapponese | 30/6/2018
+    | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Giapponese) | Giapponese | 30/6/2018
 
 * Corsi ritirati il venerdì 30 marzo 2018
 
@@ -500,7 +582,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | Inglese | 31/1/2018
     | 40442 | A | MOC Workshop: Architecting Microsoft Azure Solutions | Inglese | 31/1/2018
 
-* Corsi ritirati il 30 giugno 2017
+* Corsi ritirati il venerdì 30 giugno 2017
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -538,13 +620,13 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 80580 | A | Microsoft Dynamics AX 2012 の個別の製造の詳細 | Giapponese | 30/6/2017
     | 80581 | A | Microsoft Dynamics AX 2012 の個別の製造の基本 | Giapponese | 30/6/2017
 
-* Corsi ritirati il 15 aprile 2017
+* Corsi ritirati il sabato 15 aprile 2017
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10978 | A | Introduction to Azure for Developers | Inglese | 15/4/2017
 
-* Corsi ritirati il 31 marzo 2017
+* Corsi ritirati il venerdì 31 marzo 2017
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -578,7 +660,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 80576 | A | Fixed Assets in Microsoft Dynamics GP 2013 | Inglese | 31/3/2017
     | 80450 | A | Delivering Microsoft Dynamics Solutions with Sure Step | Inglese | 31/3/2017
 
-* Corsi ritirati il 31 dicembre 2016
+* Corsi ritirati il giovedì 31 dicembre 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -634,66 +716,66 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 80565 | A | Microsoft Dynamics AX 2012 中的供应链基础 | Cinese semplificato | 31/12/2016
     | 80569 | A | Microsoft Dynamics AX 2012 中的财务 I | Cinese semplificato | 31/12/2016
 
-* Corsi ritirati il 31 ottobre 2016
+* Corsi ritirati il lunedì 31 ottobre 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10983 | A | Upgrading Your Skills to Windows Server 2016 | Inglese | 31/10/2016
     | 20497 | A | Software Testing with Visual Studio 2013 | Inglese | 31/10/2016
 
-* Corsi ritirati il 15 agosto 2016
+* Corsi ritirati il lunedì 15 agosto 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10968 | B | Designing for Office 365 Infrastructure | Inglese | 15/8/2016
 
-* Corsi ritirati il 1° agosto 2016
+* Corsi ritirati il lunedì 1 agosto 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | Inglese | 1/8/2016
 
-* Corsi ritirati il 24 giugno 2016
+* Corsi ritirati il venerdì 24 giugno 2016
 
   [Scarica l’elenco completo dei corsi di e-learning programmati per il ritiro](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
-* Corsi ritirati il 15 giugno 2016
+* Corsi ritirati il mercoledì 15 giugno 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 20346 | D | Managing Office 365 Identities and Services | Inglese | 15/6/2016
 
-* Corsi ritirati il 18 aprile 2016
+* Corsi ritirati il lunedì 18 aprile 2016
 
     | Numero di corso | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
-    | 38 | Sessioni demo di Office 2013 e Office 365 | Giapponese | 18/4/2016
-    | 37 | Sessioni demo di Office 2013 e Office 365 | Spagnolo | 18/4/2016
-    | 36 | Sessioni demo di Office 2013 e Office 365 | Tedesco | 18/4/2016
-    | 35 | Sessioni demo di Office 2013 e Office 365 | Russo | 18/4/2016
-    | 34 | Sessioni demo di Office 2013 e Office 365 | Portoghese (Brasile) | 18/4/2016
-    | 33 | Sessioni demo di Office 2013 e Office 365 | Cinese (semplificato) | 18/4/2016
-    | 32 | Sessioni demo di Office 2013 e Office 365 | Francese | 18/4/2016
-    | 31 | Sessioni demo di Office 2013 e Office 365 | Inglese | 18/4/2016
-    | 23 | Sessioni demo di Windows 8 | Inglese | 18/4/2016
-    | 22 | Avvio ed esecuzione di Office 2010: Sessioni demo | Olandese | 18/4/2016
-    | 21 | Avvio ed esecuzione di Office 2010: Sessioni demo | Coreano | 18/4/2016
-    | 20 | Avvio ed esecuzione di Office 2010: Sessioni demo | Russo | 18/4/2016
-    | 19 | Avvio ed esecuzione di Office 2010: Sessioni demo | Cinese (tradizionale) | 18/4/2016
-    | 18 | Avvio ed esecuzione di Office 2010: Sessioni demo | Cinese (semplificato) | 18/4/2016
-    | 17 | Avvio ed esecuzione di Office 2010: Sessioni demo | Portoghese (Brasile) | 18/4/2016
-    | 16 | Avvio ed esecuzione di Office 2010: Sessioni demo | Cinese (semplificato), Italiano | 18/4/2016
-    | 15 | Avvio ed esecuzione di Office 2010: Sessioni demo | Spagnolo | 18/4/2016
-    | 14 | Avvio ed esecuzione di Office 2010: Sessioni demo | Giapponese | 18/4/2016
-    | 13 | Avvio ed esecuzione di Office 2010: Sessioni demo | Francese | 18/4/2016
-    | 12 | Avvio ed esecuzione di Office 2010: Sessioni demo | Tedesco | 18/4/2016
-    | 11 | Avvio ed esecuzione di Office 2010: Sessioni demo | Inglese | 18/4/2016
+    | 38 | Office 2013 and Office 365 Demonstration Sessions | Giapponese | 18/4/2016
+    | 37 | Office 2013 and Office 365 Demonstration Sessions | Spagnolo | 18/4/2016
+    | 36 | Office 2013 and Office 365 Demonstration Sessions | Tedesco | 18/4/2016
+    | 35 | Office 2013 and Office 365 Demonstration Sessions | Russo | 18/4/2016
+    | 34 | Office 2013 and Office 365 Demonstration Sessions | Portoghese (Brasile) | 18/4/2016
+    | 33 | Office 2013 and Office 365 Demonstration Sessions | Cinese (semplificato) | 18/4/2016
+    | 32 | Office 2013 and Office 365 Demonstration Sessions | Francese | 18/4/2016
+    | 31 | Office 2013 and Office 365 Demonstration Sessions | Inglese | 18/4/2016
+    | 23 | Windows 8 Demonstration Sessions | Inglese | 18/4/2016
+    | 22 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Olandese | 18/4/2016
+    | 21 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Coreano | 18/4/2016
+    | 20 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Russo | 18/4/2016
+    | 19 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Cinese (tradizionale) | 18/4/2016
+    | 18 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Cinese (semplificato) | 18/4/2016
+    | 17 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Portoghese (Brasile) | 18/4/2016
+    | 16 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Cinese (semplificato), Italiano | 18/4/2016
+    | 15 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Spagnolo | 18/4/2016
+    | 14 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Giapponese | 18/4/2016
+    | 13 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Francese | 18/4/2016
+    | 12 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Tedesco | 18/4/2016
+    | 11 | Avvio ed esecuzione di Office 2010: Demonstration Sessions | Inglese | 18/4/2016
 
-* Corsi ritirati il 31 dicembre 2015
+* Corsi ritirati il giovedì 31 dicembre 2015
 
   [Scarica l’elenco completo di corsi con istruttore programmati per il ritiro](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
-* Corsi ritirati il 31 agosto 2015
+* Corsi ritirati il lunedì 31 agosto 2015
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -710,11 +792,11 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 50430 | B | Administering Team Foundation Server 2010 | Inglese | 31/08/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | Inglese | 31/8/2015
 
-* Corsi ritirati il 30 giugno 2015
+* Corsi ritirati il martedì 30 giugno 2015
 
   [Scarica l’elenco completo dei corsi con istruttore programmati per il ritiro](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
-* Corsi ritirati il 31 gennaio 2015
+* Corsi ritirati il sabato 31 gennaio 2015
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -723,20 +805,20 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | Inglese | 31/1/2015
     | 10778 | A | Implementing Data Models and Reports with Microsoft SQL Server 2012 | Inglese | 31/1/2015
 
-* Corsi ritirati il 31 ottobre 2014
+* Corsi ritirati il venerdì 31 ottobre 2014
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10750 | A | Monitoring and Operating a Private Cloud with System Center 2012 | Inglese | 31/10/2014
     | 10751 | A | Configuring and Deploying a Private Cloud with System Center 2012 | Inglese | 31/10/2014
 
-* Corsi ritirati il 25 agosto 2014
+* Corsi ritirati il lunedì 25 agosto 2014
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 1303 | A | Mastering Microsoft Visual Basic 6 Fundamentals | Inglese | 25/8/2014
-    | 2147 | B | Gestire un ambiente Microsoft Windows Server 2003 | Portoghese (Brasile) | 25/8/2014
-    | 2165 | B | Eseguire la manutenzione di un ambiente Microsoft Windows Server 2003 | Portoghese (Brasile) | 25/8/2014
+    | 2147 | B | Managing a Microsoft Windows Server 2003 Environment | Portoghese (Brasile) | 25/8/2014
+    | 2165 | B | Maintaining a Microsoft Windows Server 2003 Environment | Portoghese (Brasile) | 25/8/2014
     | 2186 | A | Implementare, gestire ed eseguire la manutenzione di un’infrastruttura di rete Microsoft Windows Server 2003: Servizi di rete | Portoghese (Brasile) | 25/8/2014
     | 2524 | C | Developing XML Web Services Using Microsoft ASP.NET | Inglese | 25/8/2014
     | 2934 | A | Deploying and Managing Business Process and Integration Solutions Using Microsoft BizTalk Server 2009 R2 | Inglese | 25/8/2014
@@ -744,7 +826,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | Inglese | 25/8/2014
     | 10953 | A | HTML5 Programming | Inglese | 25/8/2014
 
-* Corsi ritirati il 31 dicembre 2013
+* Corsi ritirati il giovedì 31 dicembre 2013
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -781,7 +863,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 40005 | B | First Look Clinic: Windows Server 2012 | Inglese | 31/12/2013
     | 40006 | B | Hands On Lab: Windows Server 2012 | Inglese | 31/12/2013
 
-* Corsi ritirati il 30 settembre 2013
+* Corsi ritirati il lunedì 30 settembre 2013
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -803,27 +885,27 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
 
 ## Corsi ritirati: Corsi online
 
-* Corsi ritirati il 29 dicembre 2017
+* Corsi ritirati il giovedì 29 dicembre 2017
 
   * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Scarica l’elenco completo di corsi di e-learning MSIA programmati per il ritiro](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
-* Corsi ritirati il 15 agosto 2017
+* Corsi ritirati il lunedì 15 agosto 2015
 
     | Numero di corso | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- |
     | 47003 | Windows Server 2012 Jumpstart | Inglese | 15/8/2017 |
 
-* Corsi ritirati il 30 giugno 2017
+* Corsi ritirati il venerdì 30 giugno 2017
 
   * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Scarica l'elenco completo di corsi di e-learning MSIA programmati per il ritiro](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* Corsi ritirati il 30 giugno 2015
+* Corsi ritirati il martedì 30 giugno 2015
 
   * [Scarica l’elenco completo di corsi di e-learning programmati per il ritiro](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
-* Corsi ritirati il 12 marzo 2014
+* Corsi ritirati il mercoledì 12 marzo 2014
 
   * [Scarica l’elenco completo di corsi di e-learning programmati per il ritiro](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 

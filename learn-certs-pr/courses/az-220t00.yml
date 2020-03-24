@@ -1,0 +1,252 @@
+### YamlMime:Course
+title: Microsoft Azure IoT Developer
+metadata:
+  title: 'Course AZ-220T00-A: Microsoft Azure IoT Developer'
+  description: 'Course AZ-220T00-A: Microsoft Azure IoT Developer'
+uid: course.az-220t00
+courseNumber: 'AZ-220T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Creare, configurare e gestire un hub Azure IoT.
+- skill: Provisioning dei dispositivi utilizzando IoT Hub e DPS, compreso il provisioning in scala.
+- skill: Stabilire una comunicazione sicura a 2 vie tra i dispositivi e l'IoT Hub.
+- skill: Implementare l'elaborazione dei messaggi utilizzando il routing di IoT Hub e l'Azure Stream Analytics.
+- skill: Configurare la connessione a Time Series Insights e supportare i requisiti di integrazione aziendale.
+- skill: Implementare gli scenari IoT Edge utilizzando moduli di mercato e vari modelli di gateway edge.
+- skill: Implementare scenari IoT Edge che richiedono lo sviluppo e l'implementazione di moduli e contenitori personalizzati.
+- skill: Implementare la gestione dei dispositivi utilizzando i gemelli dei dispositivi e metodi diretti.
+- skill: Implementare il monitoraggio delle soluzioni, il logging e i test di diagnostica.
+- skill: Riconoscere e affrontare i problemi di sicurezza e implementare Azure Security Center per l'IoT. 
+- skill: Costruire una soluzione per l'IoT utilizzando Azure IoT Central e riconoscere le opportunità SaaS per l'internet degli oggetti.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-iot
+exams:
+- uid: exam.az-220
+summary: |-
+  Questo corso fornisce agli studenti le competenze e le conoscenze necessarie per creare e mantenere con successo le parti cloud ed edge di una soluzione Azure IoT. Il corso include la trattazione completa dei servizi principali dell'IoT Azure come IoT Hub, servizi di provisioning di dispositivi, Azure Stream Analytics, Time Series Insights e altro ancora. Oltre al focus sui servizi Azure PaaS, il corso include sezioni su IoT Edge, gestione dei dispositivi, monitoraggio e risoluzione dei problemi, problemi di sicurezza e Azure IoT Central.
+
+  #### Profilo dei destinatari
+  Un Azure IoT Developer è responsabile dell'implementazione e della manutenzione delle parti cloud ed edge di una soluzione Azure IoT. Oltre a configurare e mantenere i dispositivi utilizzando i servizi di Azure IoT e altri strumenti Microsoft, l'IoT Developer imposta anche i dispositivi fisici ed è responsabile della manutenzione dei dispositivi durante l'intero ciclo di vita. L'IoT Developer implementa i progetti per le soluzioni IoT, tra cui la topologia dei dispositivi, la connettività, il debug e la sicurezza. Per gli scenari dei dispositivi Edge, l'IoT Developer implementa anche il calcolo/contenitore e configura il networking dei dispositivi, che potrebbe includere varie implementazioni di gateway edge. L'IoT Developer implementa progetti per soluzioni per la gestione di pipeline di dati, incluso il monitoraggio e la trasformazione dei dati in relazione all'IoT. L'IoT Developer lavora con tecnici dei dati e altre parti interessate per garantire un'integrazione aziendale di successo. Gli sviluppatori dell'internet degli oggetti devono avere una buona conoscenza dei servizi Azure, comprese le opzioni di memorizzazione dei dati, l'analisi dei dati, l'elaborazione dei dati e le opzioni Azure IoT PaaS rispetto a SaaS. Gli IoT Developer devono avere competenze di programmazione di base in almeno un linguaggio supportato da Azure, tra cui C#, Node.js, C, Python o Java.
+prerequisitesSection: |-
+  Esperienza di sviluppo software&#58; esperienza di sviluppo software è un prerequisito per questo corso, ma non è richiesto alcun linguaggio software specifico e l'esperienza non deve necessariamente essere a livello professionale.
+
+  Esperienza di elaborazione dati&#58; comprensione generale dell'archiviazione e dell'elaborazione dei dati è consigliata ma non richiesta.
+
+  Consapevolezza della soluzione cloud&#58; studenti devono avere una comprensione di base delle implementazioni PaaS, SaaS e IaaS. Si raccomanda l'utilizzo di Microsoft Azure Fundamentals (AZ-900) o competenze equivalenti.   
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione ai servizi IoT e Azure IoT
+  In questo modulo, gli studenti inizieranno esaminando le considerazioni aziendali per le varie implementazioni dell'IoT e considerando come l'architettura di riferimento dell'IoT Azure supporta le soluzioni IoT. Questo modulo fornisce inoltre agli studenti una panoramica dei servizi Azure comunemente utilizzati in una soluzione IoT e fornisce un'introduzione al Azure Portal.
+  #### Lezioni
+  - Opportunità di business per l'IoT
+  - Introduzione all'architettura delle soluzioni per l'IoT
+  - Hardware IoT e servizi cloud
+  - Scenari di laboratorio per questo corso
+
+
+  #### Lab &#58; Primi passi con Azure
+
+  #### Lab &#58; Impostazione iniziale dei servizi Azure IoT
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare come IoT e Azure IoT potrebbero essere applicati alla propria attività 
+  - Descrivere i componenti principali di un'architettura di soluzioni per l'IoT Azure
+  - Descrivere i servizi dell'IoT Azure e il loro rapporto con una soluzione IoT
+  - Creare un account Azure e utilizzare il Azure portal per creare un IoT Hub e un servizio DPS
+
+  ### Modulo 2&#58; Dispositivi e comunicazione dei dispositivi
+  In questo modulo gli studenti daranno un'occhiata più da vicino al servizio Azure IoT Hub e impareranno a configurare una comunicazione sicura a due vie tra IoT hub e i dispositivi. Gli studenti saranno anche introdotti alle caratteristiche dell'IoT Hub come Device Twins e IoT Hub Endpoints, che saranno esplorati in modo più approfondito nel prosaeguio del corso.
+
+  #### Lezioni
+  - IoT Hub e dispositivi
+  - Strumenti per sviluppatori IoT
+  - Configurazione e comunicazione del dispositivo
+
+
+  #### Lab &#58; Impostazione dell'ambiente di sviluppo
+
+  #### Lab &#58; Collegare il dispositivo IoT ad Azure
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare le caratteristiche principali dei servizi dell'IoT Hub 
+  - Descrivere il ciclo di vita di un dispositivo IoT Azure
+  - Descrivere come IoT Hub gestisce le identità dei dispositivi e implementa altre caratteristiche di sicurezza
+  - Registrare i dispositivi presso l'IoT Hub utilizzando il Azure Portal, Azure CLI e Visual Studio Code 
+  - Implementare il dispositivo IoT Hub e gli SDK di servizio
+
+  ### Modulo 3&#58; Provisioning dei dispositivi in scala
+  In questo modulo gli studenti si concentreranno sul provisioning dei dispositivi e su come configurare e gestire il servizio Azure Device Provisioning Service. Gli studenti impareranno a conoscere il processo di iscrizione, l'autoprovisioning e il ri-provisioning, il disenrolling e come implementare vari meccanismi di attestazione.
+  #### Lezioni
+  - Termini e concetti del servizio di provisioning dei dispositivi
+  - Configurare e gestire il servizio di provisioning dei dispositivi
+  - Compiti relativi al provisioning dei dispositivi
+
+
+  #### Lab &#58; Iscrizione individuale dei dispositivi in DPS
+
+  #### Lab &#58; Iscrizione automatica dei dispositivi in DPS
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare il processo di provisioning dei dispositivi e le caratteristiche del servizio di provisioning dei dispositivi
+  - Spiegare le considerazioni di sicurezza associate al provisioning dei dispositivi e come vengono gestiti
+  - Implementare gli SDK del  Device Provisioning Service
+  - Gestire il processo di iscrizione del dispositivo, compresi il deprovisioning e la disiscrizione
+
+  ### Modulo 4&#58; Elaborazione e analisi dei messaggi
+  In questo modulo gli studenti esamineranno come l'IoT Hub e gli altri servizi Azure possono essere utilizzati per elaborare i messaggi. Gli studenti inizieranno con un'indagine su come configurare l'instradamento dei messaggi e degli eventi e come implementare l'instradamento verso gli endpoint integrati e personalizzati. Gli studenti impareranno alcune delle opzioni di memorizzazione dati di Azure che sono comuni per le soluzioni IoT. Per completare il modulo, gli studenti implementeranno l'Azure Stream Analytics e le query per una serie di modelli ASA.
+  #### Lezioni
+  - Messaggi ed elaborazione dei messaggi
+  - Opzioni di memorizzazione dei dati
+  - Azure stream-analytics
+
+
+  #### Lab &#58; Routing dei messaggi del dispositivo
+  
+  #### Lab &#58; Filtraggio e aggregazione dei dati dei messaggi
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare il messaggio e l'instradamento degli eventi
+  - Dati del percorso verso i punti finali integrati e personalizzati
+  - Implementare l'arricchimento del messaggio
+  - Implementare gli ingressi, le query e le uscite di Azure Stream Analytics
+  - Memorizzare i dati dei messaggi in una memoria a caldo per scopi ddi storicizzazione e per ulteriori analisi
+  - Utilizzare una funzione Azzurra all'interno di una soluzione di elaborazione e analisi dei messaggi 
+
+  ### Modulo 5&#58; Approfondimenti e integrazione aziendale
+  In questo modulo gli studenti impareranno a conoscere i servizi Azure e altri strumenti Microsoft che possono essere utilizzati per generare informazioni aziendali approfondite e consentire l'integrazione aziendale. Gli studenti implementeranno Azure Logic Apps ed Event Grid e configureranno la connessione e le trasformazioni dei dati per gli strumenti di visualizzazione dei dati come Time Series Insights e Power BI.
+  #### Lezioni
+  - Integrazione di business per le soluzioni IoT
+  - Visualizzazione dei dati con Time Series Insights
+  - Visualizzazione dei dati con Power BI
+
+
+  #### Lab &#58; Integrare l'IoT Hub con Event Grid
+
+  #### Lab &#58; Esplorare e analizzare i dati con registrazione cronologica con Time Series Insights
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare le opzioni per l'integrazione aziendale all'interno di una soluzione di IoT e come realizzarle
+  - Sviluppare il supporto all'integrazione aziendale utilizzando Logic Apps ed Event Grid
+  - Configurare i dati dell'IoT per la visualizzazione in Time Series Insights
+  - Configurare i dati IoT per la visualizzazione in Power BI
+
+  ### Modulo 6&#58; Processo di distribuzione di Azure IoT Edge
+  In questo modulo, gli studenti impareranno come implementare un modulo su un dispositivo Azure IoT Edge. Gli studenti impareranno anche a configurare e utilizzare un dispositivo IoT Edge come gateway.
+
+  #### Lezioni
+  - Introduzione a Azure IoT Edge
+  - Processo di implementazione di Edge
+  - Dispositivi Edge Gateway
+
+
+  #### Lab &#58; Introduzione a IoT Edge
+
+  #### Lab &#58; Impostare un IoT Edge Gateway
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere la differenza tra un dispositivo IoT e un dispositivo IoT Edge
+  - Configurare un dispositivo IoT Edge 
+  - Implementare una distribuzione di IoT Edge utilizzando un manifesto di distribuzione
+  - Configurare un dispositivo IoT Edge come dispositivo gateway
+
+  ### Modulo 7&#58; Moduli e contenitori Azure IoT Edge
+  In questo modulo, gli studenti svilupperanno e implementeranno moduli edge personalizzati e implementeranno il supporto per uno scenario offline basato sulla memorizzazione dati locale. Gli studenti useranno Visual Studio Code per costruire moduli personalizzati come container utilizzando un motore container supportato.
+
+  #### Lezioni
+  - Sviluppare moduli Edge personalizzati
+  - Memorizzazione dati offline e locale
+
+
+  #### Lab &#58; Sviluppare, distribuire ed eseguire il debug di un modulo personalizzato su Azure IoT Edge
+
+  #### Lab &#58; un dispositivo IoT Edge in rete limitata e offline
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare i requisiti per la costruzione di un modulo edge personalizzato
+  - Configurare Visual Studio Code per lo sviluppo di moduli containerizzati
+  - Distribuzione di un modulo personalizzato su un dispositivo IoT Edge
+  - Implementare la memorizzazione dati locale su un dispositivo IoT Edge a supporto di uno scenario offline
+
+  ### Modulo 8&#58; Gestione dei dispositivi
+  In questo modulo gli studenti impareranno come implementare la gestione dei dispositivi per la propria soluzione IoT. Gli studenti svilupperanno soluzioni per la gestione dei dispositivi che utilizzano i gemelli dei dispositivi e soluzioni che utilizzano metodi diretti.
+
+  #### Lezioni
+  - Introduzione alla gestione dei dispositivi IoT
+  - Gestione dell'IoT e dei dispositivi IoT Edge
+  - Gestione dei dispositivi su scala
+
+
+  #### Lab &#58; Dispositivi di monitoraggio e controllo a distanza con IoT Hub Azure
+
+  #### Lab &#58; Gestione automatica dei dispositivi
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i modelli di gestione dei dispositivi più comuni e le migliori pratiche di configurazione
+  - Descrivere quando e come utilizzare i gemelli dei dispositivi e i metodi diretti per implementare la gestione dei dispositivi
+  - Implementare la gestione dei dispositivi per vari modelli utilizzando i gemelli dei dispositivi e metodi diretti
+  - Implementare la gestione dei dispositivi in scala utilizzando la gestione automatica dei dispositivi e dei lavori
+
+  ### Modulo 9&#58; Test della soluzione, diagnostica e registrazione
+  In questo modulo, gli studenti configureranno strumenti di registrazione e di diagnostica che aiuteranno gli sviluppatori a testare la propria soluzione IoT. Gli studenti useranno IoT Hub e Azure Monitor per configurare gli avvisi e le condizioni di monitoraggio come lo stato di connessione del dispositivo che può essere utilizzato per risolvere i problemi.
+
+  #### Lezioni
+  - Monitoraggio e logging
+  - Risoluzione dei problemi
+
+
+  #### Lab &#58; Configurare le metriche e i log in Azure IoT Hub
+
+  #### Lab &#58; Monitorare ed eseguire il debug di guasti di connessione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le opzioni per il monitoraggio e il logging di una soluzione Azure IoT 
+  - Configurare Azure Monitor per supportare una soluzione IoT 
+  - Configurare le metriche di IoT Hub Metrics a supporto di una soluzione di IoT 
+  - Implementare il logging della diagnostica
+  - Risoluzione dei problemi di connessione e comunicazione dei dispositivi IoT
+
+  ### Modulo 10 &#58; Azure Security Cente e considerazioni sulla sicurezza dell'IoT
+  In questo modulo, gli studenti esamineranno le considerazioni di sicurezza che si applicano a una soluzione IoT. Gli studenti inizieranno con l'esaminare la sicurezza applicata all'architettura della soluzione e alle migliori pratiche, poi vedranno come Azure Security Center per IoT supporta la distribuzione dei dispositivi e l'integrazione dell'IoT Hub. Gli studenti utilizzano poi Azure Security Center per gli agenti IoT al fine di migliorare la sicurezza della propria soluzione.
+  #### Lezioni
+  - Fondamenti di sicurezza per le soluzioni IoT
+  - Introduzione ad Azure Security Center per l'IoT
+  - Migliorare la protezione con Azure Security Center per gli agenti IoT
+
+
+  #### Lab &#58; Implementazione di Azure Security Center per l'IoT
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i problemi di sicurezza e le migliori pratiche per una soluzione IoT
+  - Descrivere l'architettura di sicurezza dell'IoT Azure e la modellazione delle minacce
+  - Descrivere le caratteristiche e il supporto fornito da Azure Security Center per l'IoT 
+  - Configurare gli agenti di sicurezza e i gemelli del modulo di sicurezza
+  - Azure Security Center Aggregato per eventi IoT
+
+  ### Modulo 11&#58; Costruire una soluzione per l'internet degli oggetti con IoT Central
+  In questo modulo gli studenti impareranno come configurare e implementare Azure IoT Central come soluzione SaaS per l'IoT. Gli studenti inizieranno con un'indagine di alto livello su IoT Central e sul suo funzionamento. Con una conoscenza di base di IoT Central, gli studenti passeranno alla creazione e alla gestione di modelli di dispositivi e quindi alla gestione dei dispositivi nella loro applicazione IoT Central.
+
+  #### Lezioni
+  - Introduzione a IoT Central
+  - Creare e gestire modelli di dispositivi
+  - Gestire i dispositivi in Azure IoT Central
+
+
+  #### Lab &#58; Primi passi con Azure IoT Central
+
+  #### Lab &#58; Implementazione di soluzioni IoT con Azure IoT Central
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere la differenza tra Azure IoT Central e i servizi Azure IoT PaaS
+  - Descrivere le funzionalità fornite da Azure IoT Central
+  - Descrivere lo scopo e i componenti di un modello di dispositivo
+  - Creare e pubblicare un modello di dispositivo
+  - Gestire i dispositivi utilizzando regole e notifiche
+  - Gestire i dispositivi su scala utilizzando i lavori

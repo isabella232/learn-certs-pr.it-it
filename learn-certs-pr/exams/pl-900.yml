@@ -1,29 +1,32 @@
 ### YamlMime:Examination
-title: Microsoft Power Platform Fundamentals (beta)
+title: 'Microsoft Power Platform Fundamentals'
 metadata:
-  title: 'Esame PL-900: Microsoft Power Platform Fundamentals (beta)'
-  description: 'Esame PL-900: Microsoft Power Platform Fundamentals (beta)'
+  title: 'Exam PL-900: Microsoft Power Platform Fundamentals'
+  description: 'Exam PL-900: Microsoft Power Platform Fundamentals'
 uid: exam.pl-900
 displayName: PL-900
-summary: >-
+summary: |-
   I candidati idonei a questo esame sono utenti che aspirano a migliorare la produttività automatizzando i processi aziendali, analizzando i dati per ottenere informazioni commerciali e lavorando in modo più efficiente grazie alla creazione di app semplici da usare.
-
-
-  Durante l’esame viene chiesto ai candidati di&#58; descrivere i componenti di Power Platform&#58; Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), i connettori e AI Builder; descrivere gli scenari tra i cloud realizzati con Microsoft 365, Dynamics 365, Microsoft Azure e servizi di terze parti; identificare i vantaggi e le funzionalità di Power Platform; identificare la funzionalità di base e il valore di business dei componenti di Power Platform; implementare soluzioni semplici con Microsoft Flow, Power BI e AI Builder; e creare un’app di base in un ambiente senza codice.
-subTitle: Questo esame misura la tua capacità di comprendere il valore di business di Power Platform; la tua conoscenza dei componenti di base di Power Platform; la tua capacità di dimostrare il valore di business di Power BI e Microsoft Flow.
+  
+  Durante l’esame viene chiesto ai candidati di: descrivere i componenti di Power Platform: Power Apps, Power BI, Microsoft Automate, Common Data Service (CDS), i connettori e AI Builder; descrivere gli scenari tra i cloud realizzati con Microsoft 365, Dynamics 365, Microsoft Azure e servizi di terze parti; identificare i vantaggi e le funzionalità di Power Platform; identificare la funzionalità di base e il valore di business dei componenti di Power Platform; implementare soluzioni semplici con Microsoft Automate, Power BI e AI Builder; e creare un’app di base in un ambiente senza codice.
+subTitle: Questo esame misura la tua capacità di comprendere il valore di business di Power Platform; la tua conoscenza dei componenti di base di Power Platform; la tua capacità di dimostrare il valore di business di Power BI e Microsoft Automate.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=PL-900&examname=Esame%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+providers:
+  - providerType: pearson-vue
+    examUrl: 'https://examregistration.microsoft.com/?locale=it-it&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
 - Comprendere il valore di business di Power Platform (20-25%)
-- Conoscere i componenti di base di Power Platform (25-30%)
+- Conoscere i componenti di base di Power Platform (20-25%)
 - Dimostrare il valore di business di Power BI (15-20%)
-- Dimostrare il valore di business di Power Apps (15-20%)
-- Dimostrare il valore di business di Microsoft Flow (15-20%)
+- Dimostrare il valore di business di Power Apps (20-25%)
+- Dimostrare il valore di business di Power Automate (15-20%)
 roles:
 - developer
 products:
@@ -36,21 +39,27 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-fundamentals
 resources:
+- title: Percorso di formazione per ottenere la certificazione
+  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Power Platform Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Poster sulle certificazioni
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Ripetizione dell’esame]
+  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
-- title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+- title: Cruscotto delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+- title: Richiedi un alloggio
+  description: Scopri come richiedere un alloggio per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell'esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
