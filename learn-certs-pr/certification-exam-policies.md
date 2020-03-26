@@ -509,7 +509,7 @@ Questa procedura è stata definita per consentirci di identificare e correggere 
 
 Microsoft tiene in considerazione e fa affidamento sui commenti dei candidati per perfezionare il più possibile la validità e la rilevanza degli esami.
 
-## <a name="#special-accommodations-when-taking-exams"></a> Sistemazione speciale durante gli esami
+## <a name="special-accommodations-when-taking-exams"></a> Sistemazione speciale durante gli esami
 
 ### Per gli esami erogati da Pearson VUE:
 
