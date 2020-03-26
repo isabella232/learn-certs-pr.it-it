@@ -1,19 +1,19 @@
 ---
 title: Guida alla formazione e alla certificazione Microsoft | Microsoft Docs
 description: Guida per la formazione e la certificazione Microsoft
-documentationcenter: N/D
+documentationcenter: NA
 author: bipach
 ms.topic: article
-ms.tgt_pltfrm: N/D
-ms.workload: N/D
-ms.date: 30/07/2019
+ms.tgt_pltfrm: NA
+ms.workload: NA
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Guida per la formazione e la certificazione Microsoft
 
 Hai delle domande sui prodotti per la formazione e la certificazione Microsoft? Visita [Microsoft Learn](/learn/certifications/) dove puoi trovare risposte alla maggior parte delle domande sulla formazione, le certificazioni, gli esami, i corsi ufficiali di Microsoft (MOC) e molto altro ancora.
 
-Ulteriori domande? Consulta le opzioni sull’assistenza riportate di seguito.
+Ulteriori domande? Consulta le opzioni sull'assistenza riportate di seguito.
 
 ## Aiuto per la certificazione
 

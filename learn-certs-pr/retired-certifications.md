@@ -1,12 +1,12 @@
 ---
 title: Microsoft Retired Certifications | Microsoft Docs
 description: Microsoft Retired Certifications
-documentationcenter: N/D
+documentationcenter: NA
 author: bipach
 ms.topic: article
-ms.tgt_pltfrm: N/D
-ms.workload: N/D
-ms.date: 30/07/2019
+ms.tgt_pltfrm: NA
+ms.workload: NA
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Informazioni sul ritiro delle certificazioni

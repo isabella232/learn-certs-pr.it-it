@@ -1,12 +1,12 @@
 ---
 title: Microsoft Retired Exam | Microsoft Docs
 description: Microsoft Retired Exam
-documentationcenter: N/D
+documentationcenter: NA
 author: bipach
 ms.topic: article
-ms.tgt_pltfrm: N/D
-ms.workload: N/D
-ms.date: 30/07/2019
+ms.tgt_pltfrm: NA
+ms.workload: NA
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Esami programmati per il ritiro
@@ -66,7 +66,7 @@ Scopri gli esami che sarranno ritirati nei prossimi 12 mesi, elencati per tecnol
 
 ## Esami ritirati di recente
 
-A scopo di riferimento, per gli esami che sono stati ritirati durante l’anno scorso anno verrà reso disponibile un collegamento alla pagina dei dettagli degli esami per un periodo di 12 mesi.
+A scopo di riferimento, per gli esami che sono stati ritirati durante l'anno scorso anno verrà reso disponibile un collegamento alla pagina dei dettagli degli esami per un periodo di 12 mesi.
 
 | ITPro/Developer| | |
 | --- | --- | --- |
