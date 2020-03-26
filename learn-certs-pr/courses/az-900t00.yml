@@ -1,0 +1,138 @@
+### YamlMime:Course
+title: Microsoft Azure Fundamentals (2 Day)
+metadata:
+  title: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
+  description: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
+uid: course.az-900t00
+courseNumber: 'AZ-900T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-900
+summary: |-
+  Questo corso di due giorni fornirà conoscenze di base sui concetti di cloud, sui servizi Azure, sulla sicurezza, la privacy, la conformità e la fiducia, nonché sui prezzi e l'assistenza Azure.
+  Nota: Questo corso fornisce un pass Azure e include il tempo per gli studenti di partecipare ai laboratori. Se non si ha bisogno di esperienza pratica,  si può considerate il corso AZ-900T01: Microsoft Azure Fundamentals (1 giorno). I contenuti di entrambi i corsi sono in linea con l'obiettivo dell'esame AZ-900.
+
+  #### Profilo dei destinatari
+  Questo corso è adatto al personale IT che ha appena iniziato a lavorare con Azure. Questo pubblico vuole conoscere le nostre offerte e fare esperienza con il prodotto. Questo corso utilizza principalmente il Azure Portal per creare servizi e non richiede competenze di scripting.  Gli studenti di questo corso acquisiranno la fiducia necessaria per svolgere altri corsi basati sul ruolo e certificazioni, come ad esempio Azure Administrator. Questo corso fornisce un pass Azure e un ambiente di laboratorio opzionale. Questo corso combina lezioni, dimostrazioni e laboratori di pratica.  Questo corso aiuterà anche a prepararsi per l'esame AZ-900.
+prerequisitesSection: |-
+  Non sono previsti pre-requisiti per sostenere questo corso. Tuttavia, più
+  uno studente ha conoscenze tecniche, più capirà il cloud.
+outlineSection: |-
+  ### Modulo 1&#58; Concetti del Cloud
+  In questo modulo, imparerai a conoscere i servizi cloud, i tipi di modelli di cloud e i tipi di servizi cloud.
+  #### Lezioni
+  - Perché scegliere i servizi cloud
+  - Tipi di modelli di cloud
+  - Tipi di servizi cloud
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Definire il cloud computing e i suoi principali vantaggi.
+  - Spiegare i modelli di cloud pubblico, privato e ibrido.
+  - Spiegare i servizi cloud IaaS, PaaS e SaaS.
+
+
+  ### Modulo 2&#58; Servizi di base di Azure
+  In questo modulo, imparerai a conoscere i componenti architetturali del cloud core Azure, i servizi e i prodotti Azure, le soluzioni Azure e gli strumenti di gestione Azure.
+  #### Lezioni
+  - Componenti di base dell'architettura di Azure
+  - Servizi e prodotti di base di Azure
+  - Soluzioni di Azure
+  - Strumenti di gestione di Azure
+
+
+  #### Lab &#58; Passo passo&#58; Creare una macchina virtuale
+
+  #### Lab &#58; Passo passo&#58; Effettuare il deployment delle istanze del contenitore Azure
+
+  #### Lab &#58; Passo passo&#58; Creare una rete virtuale
+
+  #### Lab &#58; Passo passo&#58; Creare un archivio blob
+
+  #### Lab &#58; Passo passo&#58; Creare un database SQL
+
+  #### Lab &#58; Passo passo&#58; Implementare un Azure IoT Hub
+
+  #### Lab &#58; Passo passo&#58; Implementazione delle funzioni Azure
+
+  #### Lab &#58; Passo passo&#58; Creare un'applicazione web
+
+  #### Lab &#58; Passo passo&#58; Creare una VM con un Template
+
+  #### Lab &#58; Passo passo&#58; Creare una VM con PowerShell
+
+  #### Lab &#58; Passo passo&#58; Creare una VM con CLI
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Identificare i componenti architettonici di base azzurri, come le regioni, le geografie e i gruppi di risorse.
+  - Identificare i casi d'uso per i servizi e i prodotti core Azure, come le macchine virtuali e lo storage.
+  - Identificare i casi d'uso per le soluzioni Azure, come l'Internet degli oggetti e l'apprendimento automatico.
+  - Identificare quali strumenti di gestione Azure sono disponibili, come Azure PowerShell e CLI.
+
+
+  ### Modulo 3&#58; Sicurezza, privacy, conformità e affidabilità
+  In questo modulo, imparerai a conoscere la sicurezza, l'identità, la governance, il monitoraggio, il reporting e gli standard di Azure.
+  #### Lezioni
+  - Connettività di rete sicura
+  - Servizi di base di Azure Identity
+  - Strumenti e funzionalità per la sicurezza
+  - Metodologie di governance di Azure
+  - Monitoraggio e reporting
+  - Privacy, conformità e standard di protezione dei dati
+
+
+  #### Lab &#58; Passo passo&#58; Traffico di rete sicuro
+
+  #### Lab &#58; Passo passo&#58; Implementare il Azure Key Vault
+
+  #### Lab &#58; Passo passo&#58; Creare una politica Azure
+
+  #### Lab &#58; Passo passo&#58; Gestire l'accesso con RBAC
+
+  #### Lab &#58; Passo passo&#58; Gestire i blocchi delle risorse
+
+  #### Lab &#58; Passo passo&#58; Implementare l'etichettatura delle risorse
+
+  #### Lab &#58; Passo passo&#58; Esplorare il Trust Center
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le opzioni di connettività di sicurezza della rete virtuale come Network Security Groups.
+  - Descrivere le opzioni di autenticazione e autorizzazione dell'identità Azure.
+  - Descrivere i casi d'uso per il Security Center, il Key vault, le opzioni di protezione delle minacce e delle informazioni.
+  - Descrivere le politiche Azure e il controllo degli accessi basato sul ruolo.
+  - Descrivere i casi d'uso per Azure Monitor e Azure Service Health.
+  - Descrivere gli standard di privacy, conformità e protezione dei dati.
+
+
+  ### Modulo 4&#58; Prezzi e piani di supporto di Azure
+  In questo modulo, imparerai a conoscere gli abbonamenti Azure, la pianificazione e la gestione dei costi, le opzioni di supporto, gli SLA e i cicli di vita del servizio.
+  #### Lezioni
+  - Sottoscrizioni di Azure
+  - Pianificare e gestire i costi
+  - Opzioni di supporto Azure
+  - Accordi sui livelli di servizio di Azure (SLA)
+  - Ciclo di vita dei servizi in Azure
+
+
+  #### Lab &#58; Passo passo&#58; Utilizzare il calcolatore dei prezzi Azure
+
+  #### Lab &#58; Passo passo&#58; Utilizzare il calcolatore TCO Azure
+
+  #### Lab &#58; Passo passo&#58; Aprire una richiesta di supporto
+
+  #### Lab &#58; Passo passo&#58; Calcolare SLA compositi
+
+  #### Lab &#58; Passo passo&#58; Accesso alle funzioni di Anteprima Azure
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Utilizzare un abbonamento Azure.
+  - Pianificare e gestire i costi.
+  - Spiegare le opzioni di supporto Azure.
+  - Descrivere gli SLA Azure.
+  - Spiegare i cicli di vita del servizio Azure.
