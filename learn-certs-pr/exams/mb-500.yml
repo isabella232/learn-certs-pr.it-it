@@ -1,8 +1,8 @@
-### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+﻿### YamlMime:Examination
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
 metadata:
-  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
-  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
 uid: exam.mb-500
 displayName: MB-500
 summary: |-
@@ -17,19 +17,17 @@ summary: |-
   I candidati devono anche essere esperti nell’uso di prodotti come Visual Studio, Azure DevOps, gli strumenti di LCS o SQL Server Management Studio.
   
   Infine, devono sapere sviluppare un codice con linguaggi di programmazione orientati agli oggetti; analizzare e manipolare i dati con il codice Transact-SQL; e creare ed eseguire i comandi e gli script di Windows PowerShell.
-  
-  <div style='color&#58; red;'><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne <a href="/learn/certifications/certification-exams#participating-in-beta-exams">di più sul valore e l'importanza degli esami beta.
-subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: pianificare la progettazione dell'architettura e della soluzione; sapere usare gli strumenti di sviluppo; progettare e sviluppare elementi AOT; sviluppare e testare codice; implementare i report; integrare e gestire le soluzioni dati; implementare la sicurezza e ottimizzare le prestazioni."
+subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: pianificare la progettazione dell’architettura e della soluzione; sapere usare gli strumenti di sviluppo; progettare e sviluppare elementi AOT; sviluppare e testare codice; implementare i report; integrare e gestire le soluzioni dati; implementare la sicurezza e ottimizzare le prestazioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
 levels:
 - intermediate
 skills:
 - 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
-- Pianificare la progettazione dell'architettura e della soluzione (10-15%)
+- Pianificare la progettazione dell’architettura e della soluzione (10-15%)
 - Applicare gli strumenti di sviluppo (10-15%)
 - Progettare e sviluppare elementi AOT (20-25%)
 - Sviluppare e testare codice (10-15%)
@@ -61,21 +59,21 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
+- title: Poster della certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
-- title: Cruscotto delle certificazioni
+- title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi un alloggio
-  description: Scopri come richiedere un alloggio per il tuo esame.
+- title: Richiedi una sistemazione particolare
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri dell'esame e domande frequenti
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md

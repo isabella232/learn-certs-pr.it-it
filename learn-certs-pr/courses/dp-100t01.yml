@@ -1,8 +1,8 @@
-### YamlMime:Course
-title: Progettare e implementare una soluzione di Data Science in Azure
+﻿### YamlMime:Course
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Corso DP-100T01-A: Progettare e implementare una soluzione di Data Science in Azure'
-  description: 'Corso DP-100T01-A: Progettare e implementare una soluzione di Data Science in Azure'
+  title: 'Course DP-100T01-A: Progettare e implementare una soluzione di Data Science in Azure'
+  description: 'Course DP-100T01-A: Progettare e implementare una soluzione di Data Science in Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -20,36 +20,136 @@ products:
 exams:
 - uid: exam.dp-100
 summary: |-
-  Questo corso permette agli studenti di acquisire le nozioni necessarie per utilizzare i servizi di Azure per sviluppare, formare e distribuire soluzioni di apprendimento automatico. Il corso inizia con una panoramica dei servizi di Azure che supportano l’analisi scientifica dei dati (data science). Successivamente, nel modulo viene presentato il principale servizio di data science di Azure, ossia Azure Machine Learning, usato per automatizzare la pipeline dell’analisi scientifica. Il corso è incentrato su Azure e non insegna agli studenti come effettuare le analisi scientifiche, perché pressupone che gli studenti lo sappiano già.
+  Scopri come utilizzare le soluzioni di machine learning su scala cloud utilizzando Azure Machine Learning. Questo corso ti insegna a sfruttare le tue conoscenze di Python e il machine learning per gestire l'immissione e la preparazione dei dati, la formazione e la distribuzione dei modelli e il monitoraggio delle soluzioni di machine learning in Microsoft Azure.
+
   #### Profilo dei destinatari
-  Questo corso è destinato ai data scientist e a chiunque sia significativamente coinvolto nel fornire formazione per i modelli di apprendimento automatico e nella loro distribuzione.
+  Questo corso è progettato per i data scientist con conoscenze di Python e framework di machine learning come Scikit-Learn, PyTorch e Tensorflow, che desiderano creare e gestire soluzioni di machine learning nel cloud.
 prerequisitesSection: |-
   Prima di partecipare a queso corso, gli studenti devono&#58;
-  - Aver ottenuto la [certificazione Azure Fundamentals](https://docs.microsoft.com/learn/certifications/azure-fundamentals)
-  - Sapere cos’è l’analisi scientifica, tra cui sapere come preparare i dati, addestrare i modelli e scegliere il modello migliore tra quelli offerti da più produttori
-  - Saper programmare nel linguaggio di programmazione Python e usare le raccolte Python&#58; pandas, scikit-learn, matplotlib e seaborn
+  - Una conoscenza fondamentale di Microsoft Azure
+  - Esperienza nella scrittura di codice Python per lavorare con i dati, usando librerie come Numpy, Pandas e Matplotlib. 
+  - Comprensione della scienza dei dati; incluso come preparare i dati e formare i modelli di apprendimento automatico usando le librerie di apprendimento automatico comuni come Scikit-Learn, PyTorch o Tensorflow.
 outlineSection: |-
-  ### Modulo 1&#58; Utilizzare l’analisi scientifica in Azure
-  Gli studenti impareranno in cosa consiste il processo di analisi scientifica e in cosa consiste il ruolo di data scientist.  Successivamente, verrà loro spiegato in che modo i servizi di Azure possono supportare e migliorare il processo di analisi scientifica.
+  ### Modulo 1&#58; Introduzione ad Azure Machine Learning
+  In questo modulo imparerai come eseguire il provisioning di un'area di lavoro di Azure Machine Learning e utilizzarla per gestire le risorse di machine learning come dati, calcolo, codice di formazione del modello, metriche registrate e modelli di formazione. Imparerai come usare l'interfaccia di Azure Machine Learning Studio basata sul Web, l'SDK di Azure Machine Learning e strumenti di sviluppo come Visual Studio Code e Notebook di Jupyter per lavorare con le risorse nella tua area di lavoro.
+  
   #### Lezioni
-  - Presentazione del processo di analisi scientifica
-  - Panoramica delle opzioni di Azure Data Science
-  - Presentazione di Azure Notebooks
-  ### Modulo 2&#58; Utilizzare l’analisi scientifica con il servizio Azure Machine Learning
-  Gli studenti impareranno a utilizzare il servizio Azure Machine Learning (AML) per automatizzare in modo professionale il processo di analisi scientifica.
+  - Introduzione ad Azure Machine Learning
+  - Strumenti di Azure Machine Learning
+
+  #### Lab&#58; creazione di un'area di lavoro di Azure Machine Learning
+  
+  #### Lab&#58; lavorare con Azure Machine Learning Tools
+  
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Effettuare il provisioning di un'area di lavoro di Azure Machine Learning
+  - Utilizzare strumenti e codice per lavorare con Azure Machine Learning
+
+  ### Modulo 2&#58; Machine Leraning senza codice con Designer
+  Questo modulo introduce lo strumento Designer, un'interfaccia drah and drop per la creazione di modelli di machine learning senza scrivere codice. Imparerai come creare una pipeline di addestramento che incapsula la preparazione dei dati e la formazione del modello, e quindi convertire quella pipeline di addestramento in una pipeline di inferenza che può essere utilizzata per prevedere i valori da nuovi dati, prima di distribuire infine la pipeline di inferenza come servizio per il consumo delle applicazioni client.
   #### Lezioni
-  - Presentazione del servizio AML
-  - Registrare e distribuire i modelli di apprendimento automatico con il servizio AML
+  - Modelli di addestramento con Designer
+  - Pubblicazione di modelli con Designer
+  
+  #### Lab&#58; creazione di una pipeline di addestramento con Azure ML Designer
+  #### Lab&#58; distribuzione di un servizio con Azure ML Designer
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Utilizzare Designer per addestrare un modello di machine learning
+  - Distribuire una pipeline di Designer come servizio
 
-
-  ### Modulo 3&#58; Automatizzare l’apprendimento automatico con il servizio AML
-  In questo modulo, verrà illustrata agli studenti la pipeline dell’apprendimento automatico e spiegato come AutoML e HyperDrive del servizio AML possono essere utilizzati per automatizzare alcune delle parti più laboriose della pipeline.
+  ### Modulo 3&#58; esecuzione di esperimenti e modelli di addestramento
+  In questo modulo, inizierai con esperimenti che incapsulano l'elaborazione dei dati e il codice di addestramento dei modelli e li utilizzerai per addestrare i modelli di machine learning.
   #### Lezioni
-  - Automatizzare la scelta dei modelli di apprendimento automatico
-  - Automatizzare la regolazione Hyperparameter con HyperDrive
-
-
-  ### Modulo 4&#58; Gestire e monitorare i modelli di apprendimento automatico con il servizio AML
-  In questo modulo gli studenti impareranno come gestire e monitorare automaticamente i modelli di apprendimento automatico nel servizio AML.
+  - Introduzione agli esperimenti
+  - Modelli di addestramento e registrazione
+  
+  #### Lab&#58; esecuzione di esperimenti
+  #### Lab&#58; modelli di addestramento e registrazione
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Esegui esperimenti basati su codice in un'area di lavoro di Azure Machine Learning
+  - Addestrare e registrare modelli di machine learning
+  
+  ### Modulo 4&#58; Lavorare con i dati
+  I dati sono un elemento fondamentale in qualsiasi carico di lavoro di machine learning, quindi in questo modulo imparerai come creare e gestire datastore e set di dati in uno spazio di lavoro di Azure Machine Learning e come utilizzarli negli esperimenti di addestramento dei modelli.
   #### Lezioni
-  - Gestire e monitorare i modelli di apprendimento automatico
+  - Lavorare con i datastore
+  - Lavorare con i set di dati
+  
+  #### Lab&#58; utilizzo dei datastore
+  #### Lab&#58; utilizzo dei set di dati
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Creare e consumare datastore
+  - Creare e utilizzare set di dati
+  
+  
+  ### Modulo 5&#58; Calcolare i contesti
+  Uno dei principali vantaggi del cloud è la capacità di sfruttare le risorse di calcolo on demand e utilizzarle per scalare i processi di machine leraning in misura non fattibile con le sole risorse a tua disposizione In questo modulo, imparerai come gestire gli ambienti di sperimentazione che garantiscono una coerenza costante del tempo di esecuzione degli esperimenti e come creare e utilizzare i target di calcolo per le esecuzioni degli esperimenti.
+  #### Lezioni
+  - Lavorare con gli ambienti
+  - Lavorare con gli obiettivi di calcolo
+  
+  #### Lab &#58; Lavorare con gli ambienti
+  #### Lab &#58; Lavorare con gli obiettivi di calcolo  
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Creare e utilizzare gli ambienti
+  - Creare e utilizzare gli obiettivi di calcolo  
+  
+  ### Modulo 6&#58; Orchestrare le operazioni con le pipeline
+  Ora che hai compreso le basi dell'esecuzione dei carichi di lavoro come esperimenti che sfruttano le risorse di dati e calcolano le risorse, è il momento di imparare ad orchestrare questi carichi di lavoro come pipeline di passaggi collegati. Le pipeline sono la chiave per implementare una soluzione efficace di Machine Learning Operationalization (ML Ops) in Azure, quindi  in questo modulo esplorerai come definirle ed eseguirle.
+  #### Lezioni
+  - Introduzione alle pipeline
+  - Pipeline di pubblicazione ed esecuzione
+  
+  #### Lab &#58; Creazione di una pipeline
+  #### Lab &#58; Pubblicare una pipeline
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Creazione di pipeline per automatizzare i flussi di lavoro di Machine Learning
+  - Pubblicare e gestire servizi di pipeline
+  
+  ### Modulo 7&#58; Distribuzione e consumo dei modelli
+  I modelli sono progettati per aiutare il processo decisionale attraverso le previsioni, quindi sono utili solo se utilizzati e disponibili per il consumo di un'applicazione. In questo modulo imparerai come implementare modelli per l'inferenziamento in tempo reale e per l'inferenziamento in batch.
+  #### Lezioni
+  - Inferenziamento in tempo reale
+  - Inferenziamento in batch
+  
+  #### Lab &#58; Creare un servizio di inferenziamento in tempo reale
+  #### Lab &#58; Creare un servizio di inferenziamento in batch
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Pubblicare un modello come servizio di inferenziamento in tempo reale
+  - Pubblicare un modello come servizio di inferenziamento in batch
+  
+  ### Modulo 8&#58; Addestrare modelli ottimali
+  In questa fase del corso, hai appreso il processo end-to-end per l'addestramento, l'implementazione e il consumo di modelli di machine learning; ma come assicurarti che il tuo modello produca i migliori risultati predittivi per i tuoi dati? In questo modulo esplorerai come poter utilizzare la sintonizzazione iperparametrica e il machin leraning automatizzato per trarre vantaggio dal calcolo su scala cloud e trovare il modello migliore per i tuoi dati.
+  #### Lezioni
+  - Sintonizzazione iperparametrica
+  - Machine learning automatizzato
+  
+  #### Lab &#58; Sintonizzazione iperparametrica
+  #### Lab &#58; Utilizzare il machine learning automatizzato
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Ottimizzare gli iperparametri per l'addestramento dei modelli
+  - Utilizzare il Machine Learning automatizzato per trovare il modello ottimale per I tuoi dati
+  
+  ### Modulo 9&#58; Interpretare i modelli
+  Molte delle decisioni prese dalle organizzazioni e dai sistemi automatizzati oggi si basano su previsioni fatte da modelli di machine learning. È sempre più importante essere in grado di comprendere i fattori che influenzano le previsioni fatte da un modello ed essere in grado di identificare eventuali errori involontari nel comportamento del modello. Questo modulo descrive come poter interpretare i modelli per spiegare come l'importanza delle caratteristiche determina le loro previsioni.
+  #### Lezioni
+  - Introduzione all'interpretazione dei modelli
+  - Utilizzare le spiegazioni dei modelli
+  
+  #### Lab &#58; Revisione delle spiegazioni del machine learning automatizzato
+  #### Lab &#58; Interpretare i modelli
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Generare spiegazioni del modello con il machine learning automatizzato
+  - Utilizzare le spiegazioni per interpretare I modelli di machine learning
+  
+  ### Modulo 10&#58; Monitoraggio dei modelli
+  Dopo aver implementato un  modello, è importante capire come il modello viene utilizzato in produzione, e rilevare qualsiasi degrado nella sua efficacia dovuto alla deriva dei dati. Questo modulo descrive le tecniche di monitoraggio dei modelli e dei loro dati.
+  #### Lezioni
+  - Monitoraggio dei modelli con approfondimenti applicativi
+  - Monitoraggio della deriva dei dati
+  
+  #### Lab &#58; Monitoraggio di un modello con approfondimenti applicativi
+  #### Lab &#58; Monitoraggio della deriva dei dati
+  - Dopo aver completato questo modulo, sarai in grado di
+  - Utilizzare gli approfondimenti applicativi per monitorare un modello pubblicato
+  - Monitorare la deriva dei dati

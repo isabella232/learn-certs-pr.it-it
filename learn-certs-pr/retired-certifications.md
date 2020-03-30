@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft Retired Certifications | Microsoft Docs
 description: Microsoft Retired Certifications
 documentationcenter: NA
@@ -51,7 +51,7 @@ Trova le certificazioni il cui ritiro è programmato nei prossimi 12 mesi. Le in
 
 Questa pagina contiene un elenco di certificazioni ritirate nell'ultimo anno. Le certificazioni ritirate da oltre un anno non vengono più visualizzate in questa pagina. Una volta che una certificazione è stata ritirata, non è più possibile conseguirla. Tuttavia, se è già stata acquisita, rimarrà nelle trascrizioni nella sezione Active (Attive).
 
-NOTA: dopo il ritiro di una certificazione, Microsoft continua a rivedere le tecnologie corrispondenti per determinare se sono ancora rilevanti. Se la tecnologia corrispondente viene ritenuta non più rilevante, le certificazioni associate vengono spostate nella sezione Certification History (Cronologia certificazioni) della trascrizione.
+NOTA: Dopo il ritiro di una certificazione, Microsoft continua a rivedere le tecnologie corrispondenti per determinare se sono ancora rilevanti. Se la tecnologia corrispondente viene ritenuta non più rilevante, le certificazioni associate vengono spostate nella sezione Certification History (Cronologia certificazioni) della trascrizione.
 
 Espandi le sezioni seguenti per visualizzare l'elenco delle certificazioni ritirate, raggruppate per tipo, unitamente alla data di ritiro corrispondente.
 
@@ -77,6 +77,6 @@ Espandi le sezioni seguenti per visualizzare l'elenco delle certificazioni ritir
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                             | 30 settembre 2018 |
+| MTA: 98-369: Cloud Fundamentals                                                                                             | lunedì 30 settembre 2019 |
 | MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 7 agosto 2019     |
 ___

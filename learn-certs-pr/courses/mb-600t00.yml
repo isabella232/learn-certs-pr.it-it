@@ -1,0 +1,151 @@
+﻿### YamlMime:Course
+title: 'Microsoft Power Apps + Dynamics 365 Solution Architect'
+metadata:
+  title: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+  description: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+uid: course.mb-600t00
+courseNumber: 'MB-600T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics
+- power-apps
+exams:
+- uid: exam.mb-600
+summary: |-
+  Il Solution Architect è responsabile del successo della progettazione, dell'implementazione, del deployment e dell'adozione di una soluzione globale. Il Solution Architect assicura che la soluzione soddisfi le esigenze del cliente, ora e in futuro. In questo corso, gli studenti impareranno a conoscere le decisioni che un Solution Architect prende durante un'implementazione, che riguardano la sicurezza, le integrazioni, l'architettura delle Power Apps, l'architettura Power Automate e altro ancora. Questo corso è stato progettato per fornire un'introduzione al ruolo di Solution Architect.
+
+  #### Profilo dei destinatari
+  
+  Consulenti senior (sia funzionali che tecnici) che aspirano ad essere Solution Architect, o Solution Architect attuali che hanno appena iniziato nel loro ruolo.  
+prerequisitesSection: |-
+  Prima di partecipare a questo corso, gli studenti devono dimostrare di avere&#58;
+  
+  - Superato l'esame MB-200
+  - Esperienza con Dynamics 365 e la Power Platform
+  - Consulente Senior (funzionale o tecnico) o Solution Architect che ha appena iniziato nel suo ruolo
+  - Qualche conoscenza di Microsoft Azure
+outlineSection: |-  
+  ### Modulo 1&#58; Introduzione
+  
+  Introduzione al corso
+  
+  ### Modulo 2&#58; Diventare un Solution Architect/Conoscere il cliente
+
+  #### Lezioni
+  - Definire un Solution Architect
+  - Il ruolo di  Solution Architect nei progetti
+  - Metodologia del progetto
+  - Conoscere il tuo cliente
+  - Esercizio di gruppo - Conoscere il cliente
+
+  ### Modulo 3&#58; Concettualizzare il progetto a partire dai requisiti
+  
+  #### Lezioni
+  - Come guidare lo sforzo di raccolta dei requisiti
+  - Utilizzo dell'analisi del fit gap
+  - Pilastri della buona architettura
+  - Progettare l'architettura della soluzione
+  - Esercizio di gruppo - Progettazione a partire dai requisiti
+  
+  ### Modulo 4&#58; Governance del progetto e lavoro di team
+    
+  #### Lezioni
+  - Il Ruolo del Solution Architect nella governance del progetto
+  - Tecniche per mantenere la puntualità del progetto
+  - Scenari che potrebbero far fallire un progetto
+  - Esercizio di gruppo - governance del progetto e lavoro di team
+  
+  ### Modulo 5&#58; Architettura della piattaforma di alimentazione
+  
+  #### Lezioni
+  - Componenti chiave dell'architettura della power platform
+  - Capire come la Progettazione della piattaforma e i limiti influenzano le architetture delle soluzioni
+  - Aggiornamenti e rilascio delle funzioni
+  - Capire come comunicare il modo in cui la piattaforma soddisfa le esigenze dei clienti
+  
+  ### Modulo  6&#58; Modellazione dei dati
+  
+  #### Lezioni
+  - Influenze del modello di dati
+  - Strategia del modello di dati
+  - Tipi di dati
+  - Rapporti con I dati
+  - Esercizio di gruppo - Modellazione dei dati
+  
+  ### Modulo 7&#58; Visualizzazioni, analisi, reportistica e IA
+  
+  #### Lezioni
+  - Pianificazione e valutazione dei requisiti
+  - Rapporti operativi
+  - Power BI
+  - Enterprise BI
+  - Approfondimenti pre-costruiti e IA personalizzata
+  
+  ### Modulo 8&#58; Architettura delle Power Apps
+  
+  #### Lezioni
+  - Discutere le opzioni per le app e come scegliere da dove iniziare
+  - Discutere le opzioni di composizione delle app
+  - Utilizzare i componenti come parte dell'architettura della vostra app
+  - Considerazioni per l'inclusione dei portali come app nella propria architettura
+  - Esercizio di gruppo - Power Apps Argomenti di architettura
+
+  ### Modulo 9&#58; Gestione del ciclo di vita dell'applicazione (ALM)
+  
+  #### Lezioni
+  - la visione di  Microsoft e il ruolo di Solution Architect in ALM
+  - Strategie ambientali
+  - Definizione di una struttura di soluzione per la propria fornitura
+  
+  #### Lab &#58; ALM Hands-on Lab
+  
+  ### Modulo 10&#58; Power Automate Architecture
+  
+  #### Lezioni
+  - Discutere le opzioni per l'automazione e la logica personalizzata
+  - Esaminare le considerazioni per l'utilizzo di trigger e azioni comuni
+  - Esplorare l'utilizzo di Business Process Flows (BPF) per guidare gli utenti attraverso i processi aziendali
+  - Esercizio di gruppo - Valutare gli scenari per l'utilizzo di Power Automate
+  
+  ### Modulo 11&#58; Modellazione della sicurezza
+  
+  #### Lezioni
+  - il Ruolo del Solution Architect nella modellazione della sicurezza
+  - Scoperta e apprendimento dell'ambiente del cliente
+  - Controllo dell'accesso agli ambienti e alle risorse
+  - Controllo dell'accesso ai dati CDS
+  - Esercizio di gruppo - Modellazione della sicurezza
+  
+  ### Modulo 12&#58; Integrazioni
+  
+  #### Lezioni
+  - Il ruolo dei Solution Architec nelle integrazioni
+  - Cos'è un'integrazione e perché ne abbiamo bisogno
+  - Caratteristiche della piattaforma che consentono l'integrazione
+  - Pubblicazione eventi CDS
+  - Scenari per la discussione di gruppo
+  
+  ### Modulo 13&#58; Architettura delle applicazioni di Dynamics 365
+  
+  #### Lezioni
+  - Il ruolo del Solution Architect nell'implementazione delle applicazioni Dynamics 365
+  - Considerazioni sull'architettura per le applicazioni primarie
+  - Esercizio di gruppo - Gruppi di lavoro specifici per l'applicazione valutano i requisiti
+  
+  ### Modulo 14&#58; Testing e Go Live
+  
+  #### Lezioni
+  - il Ruolo del Solution Architect nel Testing e nel Go Live
+  - Pianificazione del testing
+  - Pianificazione per il go live
+  
+  #### Documenti di approfondimento
+  https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

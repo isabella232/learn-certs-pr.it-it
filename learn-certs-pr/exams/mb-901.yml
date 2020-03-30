@@ -1,31 +1,33 @@
-### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals (beta)
+﻿### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals
 metadata:
-  title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals (beta)'
-  description: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals (beta)'
+  title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
+  description: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
 uid: exam.mb-901
 displayName: MB-901
 summary: |-
-  Questo esame riguarderà il posizionamento e i vantaggi dell'adozione di Dynamics 365.
+  Questo esame riguarderà il posizionamento e i vantaggi dell’adozione di Dynamics 365.
   
   I candidati devono avere una comprensione funzionale delle capacità di Dynamics 365 e del cloud computing di Microsoft.
 
   I candidati idonei a questo esame devono avere una conoscenza generale o un’esperienza di lavoro rilevante in un ambiente IT. Devono inoltre avere una conoscenza di base degli scenari di business ed esperienza nel soddisfare i requisiti aziendali, legali e di sicurezza dei progetti IT.
-  
-  <div style='color&#58; red;'><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne <a href="/learn/certifications/certification-exams#participating-in-beta-exams">di più sul valore e l'importanza degli esami beta.
-subTitle: Questo esame misura la capacità di comprendere Microsoft Dynamics 365, l'intelligenza artificiale (IA), la realtà mista (MR), la Power Platform, i concetti di cloud, la sicurezza del cloud, la sicurezza basata sul ruolo in Dynamics 365, il Common Data Service, il framework di gestione dei dati, la reportistica di Dynamics 365, le integrazioni di Dynamics 365 e l'implementazione del cloud.
+subTitle: Questo esame misura la capacità di comprendere Microsoft Dynamics 365, l’intelligenza artificiale (IA), la realtà mista (MR), la Power Platform, i concetti di cloud, la sicurezza del cloud, la sicurezza basata sul ruolo in Dynamics 365, il Common Data Service, il framework di gestione dei dati, la reportistica di Dynamics 365, le integrazioni di Dynamics 365 e l’implementazione del cloud.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
 locales:
 - en
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
-- Identificare i componenti della piattaforma Microsoft per Dynamics 365 (30-35%)
-- Comprendere l'IA e la realtà mista per Dynamics 365 (10-15%)
-- Comprendere le applicazioni guidate dai modelli (25-30%)
-- Comprendere le applicazioni di Dynamics 365 Finance and Operations (25-30%)
+- Identificare i componenti della piattaforma Microsoft per Dynamics 365 (30 -35%)
+- Comprendere l'IA e la realtà mista per Dynamics 365 (10 -15%)
+- Comprendere le applicazioni guidate dai modelli (25 -30%)
+- Comprendere le applicazioni di Dynamics 365 Finance and Operations (25 -30%)
 roles:
 - functional-consultant
 products: 
@@ -44,18 +46,18 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
+- title: Poster della certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Assistenza per gli esami di certificazione
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
-- title: Cruscotto delle certificazioni
+- title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi un alloggio
-  description: Scopri come richiedere un alloggio per il tuo esame.
+- title: Richiedi una sistemazione particolare
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri dell'esame e domande frequenti
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
