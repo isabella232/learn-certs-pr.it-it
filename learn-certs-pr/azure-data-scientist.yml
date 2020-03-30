@@ -1,19 +1,21 @@
-### YamlMime:Certification
+﻿### YamlMime:Certification
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: Gli Azure Data Scientist applicano le tecniche di machine learning di Azure per addestrare, valutare e implementare modelli che risolvono i problemi aziendali.
+  description: 'Il Data Scientist Azure applica le proprie conoscenze di scienza dei dati e di machine learning per implementare ed eseguire carichi di lavoro di machine learning su Azure; in particolare, utilizzando Azure Machine Learning Service.'
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Gli Azure Data Scientist applicano le tecniche di machine learning di Azure per addestrare, valutare e implementare modelli che risolvono i problemi aziendali.
-subTitle: Gli Azure Data Scientist applicano le tecniche di machine learning di Azure per addestrare, valutare e implementare modelli che risolvono i problemi aziendali.
+summary: |-
+  Il Data Scientist Azure applica le proprie conoscenze di scienza dei dati e di machine learning per implementare ed eseguire carichi di lavoro di machine learning su Azure; in particolare, utilizzando Azure Machine Learning Service.
+subTitle: Il Data Scientist Azure applica le proprie conoscenze di scienza dei dati e di machine learning per implementare ed eseguire carichi di lavoro di machine learning su Azure; in particolare, utilizzando Azure Machine Learning Service.
 levels:
 - intermediate
 skills:
-- Definire e preparare l’ambiente di sviluppo
-- Preparare i dati per la modellazione
-- Eseguire la progettazione delle funzionalità
-- Sviluppare modelli
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
+- Impostare uno spazio di lavoro Azure Machine Learning 
+- Eseguire esperimenti e addestrare modelli 
+- Ottimizzare e gestire i modelli 
+- Distribuire e consumare i modelli
 roles:
 - data-scientist
 type: role-based
@@ -23,31 +25,23 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
 - uid: exam.dp-100
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Data Scientist Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
-  description: Consulta la panoramica delle certificazioni role-based, foundamentals and specialty
+- title: Poster della certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
