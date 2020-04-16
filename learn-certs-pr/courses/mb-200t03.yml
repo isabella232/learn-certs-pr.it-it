@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Integrazioni alla Power Platform'
+title: 'Dynamics 365: Power Platform integrations'
 metadata:
-  title: 'Course MB-200T03-A: Dynamics 365: Integrazioni alla Power Platform'
-  description: 'Course MB-200T03-A: Dynamics 365: Integrazioni alla Power Platform'
+  title: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
+  description: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
 uid: course.mb-200t03
 courseNumber: 'MB-200T03-A'
 hoursToComplete: 24
@@ -56,7 +56,7 @@ outlineSection: |-
   #### Lezioni
   - Modelli
   - SharePoint
-  - Team Microsoft
+  - Microsoft Teams
   - Integrazioni aggiuntive
   - Riepilogo del modulo
 
@@ -78,3 +78,4 @@ outlineSection: |-
   - Importare ed esportare i dati
   - Creare e utilizzare mappe di dati
   - Eseguire la cancellazione in blocco
+

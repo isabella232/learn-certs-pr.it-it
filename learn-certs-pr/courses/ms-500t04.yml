@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestire la conformità integrata in Microsoft 365
+title: Administering Microsoft 365 Built-in Compliance
 metadata:
-  title: 'Course MS-500T04-A: Gestire la conformità integrata in Microsoft 365'
-  description: 'Course MS-500T04-A: Gestire la conformità integrata in Microsoft 365'
+  title: 'Course MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
+  description: 'Course MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
 uid: course.ms-500t04
 courseNumber: 'MS-500T04-A'
 hoursToComplete: 24
@@ -27,15 +27,7 @@ products:
 - office-365
 exams:
 - uid: exam.ms-500
-summary: |-
-  Le politiche interne e i requisiti esterni per la conservazione dei dati e le indagini possono essere necessari per la vostra organizzazione. In questo corso imparerete a conoscere l'archiviazione e la conservazione in Microsoft 365, nonché la governance dei dati e come condurre ricerche e indagini sui contenuti. In particolare, questo corso tratta delle politiche di conservazione dei dati e dei tag, della gestione dei record locali per SharePoint, della conservazione della posta elettronica e di come condurre ricerche sui contenuti che supportano le indagini di eDiscovery. Il corso aiuta anche la vostra organizzazione a prepararsi per il regolamento globale sulla protezione dei dati (GDPR).
-
-  #### Profilo dei destinatari
-  Questo corso è per il ruolo di amministratore della sicurezza di Microsoft 365. Questo ruolo collabora con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con gli amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione. 
-  
-  Questo ruolo protegge in modo proattivo gli ambienti aziendali Microsoft 365. Le responsabilità comprendono la risposta alle minacce, l'implementazione, la gestione e il monitoraggio delle soluzioni di sicurezza e conformità per l'ambiente Microsoft 365. Rispondono agli incidenti, alle indagini e all'applicazione della governance dei dati. 
-  
-  L'amministratore della sicurezza Microsoft 365 ha familiarità con i carichi di lavoro Microsoft 365 e possiede una forte competenza ed esperienza in materia di protezione dell'identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e governance dei dati. Questo ruolo è incentrato sull’ambiente Microsoft 365 e comprende ambienti ibridi.
+summary: "Le politiche interne e i requisiti esterni per la conservazione dei dati e le indagini possono essere necessari per la vostra organizzazione. In questo corso imparerete a conoscere l'archiviazione e la conservazione in Microsoft 365, nonché la governance dei dati e come condurre ricerche e indagini sui contenuti. In particolare, questo corso tratta delle politiche di conservazione dei dati e dei tag, della gestione dei record locali per SharePoint, della conservazione della posta elettronica e di come condurre ricerche sui contenuti che supportano le indagini di eDiscovery. Il corso aiuta anche la vostra organizzazione a prepararsi per il regolamento globale sulla protezione dei dati (GDPR).\n\n#### Profilo dei destinatari\nQuesto corso è per il ruolo di amministratore della sicurezza di Microsoft 365. Questo ruolo collabora con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con gli amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione. \n\nQuesto ruolo protegge in modo proattivo gli ambienti aziendali Microsoft 365. Le responsabilità comprendono la risposta alle minacce, l'implementazione, la gestione e il monitoraggio delle soluzioni di sicurezza e conformità per l'ambiente Microsoft 365. Rispondono agli incidenti, alle indagini e all'applicazione della governance dei dati. \n\nL'amministratore della sicurezza Microsoft 365 ha familiarità con i carichi di lavoro Microsoft 365 e possiede una forte competenza ed esperienza in materia di protezione dell'identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e governance dei dati. Questo ruolo è incentrato sull’ambiente Microsoft 365 e comprende ambienti ibridi."
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
   - Comprensione concettuale di base di Microsoft Azure
@@ -56,7 +48,7 @@ outlineSection: |-
   - Gestione dei record in loco in SharePoint
 
 
-  #### Laboratorio&#58; Archiviazione e conservazione
+  #### Laboratorio &#58; Archiviazione e conservazione
   - Creare e concedere in licenza gli utenti nella vostra organizzazione
   - Configurare le politiche e i tag di ritenzione
   - Politiche di ritenzione MRM
@@ -66,7 +58,7 @@ outlineSection: |-
   - Descrivere la differenza tra gestione dei file e archiviare localmente.
   - Spiegare come vengono archiviati i dati su Exchange.
   - Riconoscere i vantaggi della gestione dei record in loco in SharePoint.
-  - Spiegare la differenza tra Message Records Management (MRM) in Exchange e Ritenzione presso il Centro conformità e sicurezza.
+  - Spiegare la differenza tra Message Records Management (MRM) in Exchange e Ritenzione presso il Centro conformità e sicurezza
   - Spiegare come funziona una politica di conservazione.
   - Creare una politica di conservazione.
   - Attivare e disattivare l'archiviazione in loco.
@@ -97,10 +89,10 @@ outlineSection: |-
   #### Lezioni
   - Ricerca di contenuti nel Centro sicurezza e conformità
   - Indagini sul registro di audit
-  - eDiscovery avanzato
+  - EDiscovery avanzato
 
 
-  #### Laboratorio&#58; eDiscovery
+  #### Laboratorio &#58; eDiscovery
   - Creare e concedere in licenza gli utenti nella vostra organizzazione
   - Esaminare i vostri dati Microsoft 365
 
@@ -116,3 +108,4 @@ outlineSection: |-
   - Analizzare i dati in Advanced eDiscovery.
   - Visualizzare il registro eventi di Advanced eDiscovery.
   - Utilizzare Express Analytics.
+

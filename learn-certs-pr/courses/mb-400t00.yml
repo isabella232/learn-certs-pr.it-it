@@ -6,7 +6,6 @@ metadata:
 uid: course.mb-400t00
 courseNumber: 'MB-400T00-A'
 hoursToComplete: 72
-iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Creare e documentare un modello di dati
 - skill: Implementare entità e campi
@@ -14,6 +13,7 @@ skillsGained:
 - skill: Automatizzare i processi aziendali
 - skill: Estendere l'esperienza dell'utente
 - skill: Sviluppare integrazioni
+iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -26,51 +26,45 @@ products:
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-400
-summary: |-
-  Microsoft Power Platform aiuta le organizzazioni ad ottimizzare le loro operazioni automatizzando le attività di routine e standardizzando le best practice aziendali. Un PowerApps Developer è uno sviluppatore di software professionista che estende la Power Platform per risolvere complessi problemi aziendali. In questo corso, gli sviluppatori di PowerApps sfrutteranno la loro attuale conoscenza di Power Platform, dello stack Microsoft e degli strumenti e delle pratiche di sviluppo standard. Gli sviluppatori di PowerApps impareranno a stimare l'impegno e la portata, a convalidare i requisiti e a progettare l'architettura tecnica, a creare modelli di dati, a determinare gli strumenti di implementazione e a documentare il loro progetto tecnico. Tra i temi generali, da annoverare l'implementazione della sicurezza e dell'accessibilità degli utenti, la gestione degli ambienti, l'estensione del Servizio dati comune, la creazione e l'utilizzo di risorse web e il lavoro con i plug-in.
-
-  #### Profilo dei destinatari
-  
-  Un PowerApps Developer è responsabile della progettazione, dello sviluppo, della messa in sicurezza, dell'estensione e dell'integrazione dell'implementazione di una piattaforma. Lo sviluppatore implementa componenti della soluzione che comprendono l’aumento delle applicazioni, esperienza dell’utente personalizzata, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate. 
- 
+summary: "Microsoft Power Platform aiuta le organizzazioni ad ottimizzare le loro operazioni automatizzando le attività di routine e standardizzando le best practice aziendali. Un PowerApps Developer è uno sviluppatore di software professionista che estende la Power Platform per risolvere complessi problemi aziendali. In questo corso, gli sviluppatori di PowerApps sfrutteranno la loro attuale conoscenza di Power Platform, dello stack Microsoft e degli strumenti e delle pratiche di sviluppo standard. Gli sviluppatori di PowerApps impareranno a stimare l'impegno e la portata, a convalidare i requisiti e a progettare l'architettura tecnica, a creare modelli di dati, a determinare gli strumenti di implementazione e a documentare il loro progetto tecnico. Tra i temi generali, da annoverare l'implementazione della sicurezza e dell'accessibilità degli utenti, la gestione degli ambienti, l'estensione del Servizio dati comune, la creazione e l'utilizzo di risorse web e il lavoro con i plug-in.\n\n#### Profilo dei destinatari\n\nUn PowerApps Developer è responsabile della progettazione, dello sviluppo, della messa in sicurezza, dell'estensione e dell'integrazione dell'implementazione di una piattaforma. Lo sviluppatore implementa componenti della soluzione che comprendono l’aumento delle applicazioni, esperienza dell’utente personalizzata, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate."
 prerequisitesSection: |-
   Prima di partecipare a questo corso, gli studenti devono dimostrare di avere&#58;
-  
+
   - Comprensione di base della Power Platform.
   - Esperienza nello sviluppo di software contro lo stack Microsoft e Visual Studio.
   - Esperienza nella somministrazione di soluzioni in azzurro (preferibilmente).
 outlineSection: |-
   ### Modulo 1&#58; Introduzione allo sviluppo con Power Platform
-  
+
   In questo modulo, gli studenti impareranno a conoscere le risorse degli sviluppatori e come sfruttarle per estendere la Power Platform.
 
   #### Lezioni
   - Introduzione alle risorse per gli sviluppatori della Power Platform
   - Utilizzo degli strumenti di sviluppo per estendere la Power Platform
   - Introduzione all'estensione della Power Platform
-  
+
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  
+
   - Identificare le funzionalità degli strumenti di sviluppo
   - Utilizzare strumenti di sviluppo
 
   ### Modulo 2&#58; Estensione del Power Platform Common Data Service
-  
+
   In questo modulo gli studenti impareranno come e quando utilizzare i plug-in o altri strumenti per estendere i Common Data Service.
-  
+
   #### Lezioni
   - Introduzione al Common Data Service per gli sviluppatori
   - Estendere i plug-in
-  
+
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  
+
   - Scrivere un plug-in
   - Utilizzare un plug-in per estendere il Commo Data Service
 
   ### Modulo 3&#58; Estendere l'esperienza utente della Power Platform
-  
+
   In questo modulo gli studenti impareranno a sfruttare le risorse web e gli script client per estendere l'esperienza utente della Power Platform.
-  
+
   #### Lezioni
   - Introduzione alle risorse web
   - Esecuzione di azioni comuni con lo script del cliente
@@ -81,3 +75,4 @@ outlineSection: |-
   - Utilizzare le risorse web
   - Scrivere lo script del cliente
   - Estendere i flussi dei processi di business
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Proteggere Windows 10
+title: Protecting Windows 10
 metadata:
-  title: 'Course MD-100T03-A: Proteggere Windows 10'
-  description: 'Course MD-100T03-A: Proteggere Windows 10'
+  title: 'Course MD-100T03-A: Protecting Windows 10'
+  description: 'Course MD-100T03-A: Protecting Windows 10'
 uid: course.md-100t03
 courseNumber: 'MD-100T03-A'
 hoursToComplete: 24
@@ -32,9 +32,9 @@ summary: |-
   I candidati idonei a sostenere questo esame sono professionisti IT che si occupano di installare, configurare, gestire localmente ed eseguire la manutenzione dei servizi principali di Windows 10. I candidati hanno talvolta familiarità con scenari aziendali e servizi integrati nel cloud.
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
-  - Conoscenza basilare delle reti di computer e dell’hardware.
-  - Conoscenza basilare dei sistemi operativi e delle applicazioni.
-  - Esperienza nell’uso dei sistemi operativi Windows.
+  - Conoscenza basilare delle reti di computer e dell’hardware
+  - Conoscenza basilare dei sistemi operativi e delle applicazioni
+  - Esperienza nell’uso dei sistemi operativi Windows
 outlineSection: |-
   ### Modulo 1&#58; Configurare le autorizzazioni e l’autenticazione
   In questo modulo viene fornita un’introduzione degli strumenti e delle funzionalità di Windows 10 che possono essere utilizzati per accedere ai client di Windows 10. Gli studenti impareranno i metodi da utilizzare per consentire agli utenti di accedere a Windows 10.  Nel modulo vengono descritti anche metodi, come Controllo account utente (UAC), e i tipi di account che consentono di limitare le operazioni che gli utenti sono autorizzati a fare su un dispositivo.
@@ -46,10 +46,10 @@ outlineSection: |-
 
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere i vari metodi che possono essere utilizzati per proteggere i dati e il sistema operativo Windows 10.
-  - Descrivere i diversi tipi di account utente e di servizio.
-  - Configurare Windows Hello.
-  - Configurare il controllo degli account utente.
+  - Descrivere i vari metodi che possono essere utilizzati per proteggere i dati e il sistema operativo Windows 10
+  - Descrivere i diversi tipi di account utente e di servizio
+  - Configurare Windows Hello
+  - Configurare il controllo degli account utente
 
 
   ### Modulo 2&#58; Configurare l’accesso ai dati e il loro utilizzo
@@ -61,16 +61,16 @@ outlineSection: |-
   - Gestire la sicurezza con i criteri
 
 
-  #### Laboratorio&#58; Configurare e gestire le autorizzazioni e le condivisioni
+  #### Laboratorio &#58; Configurare e gestire le autorizzazioni e le condivisioni
   - Creare, gestire e condividere una cartella
   - Utilizzare le condizioni per controllare l'accesso e le autorizzazioni valide
 
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere le differenze e i vantaggi dei file system supportati.
-  - Configurare le autorizzazioni per file e cartelle.
-  - Configurare cartelle condivise.
-  - Proteggere Windows tramite le impostazioni dei criteri locali.
+  - Descrivere le differenze e i vantaggi dei file system supportati
+  - Configurare le autorizzazioni per file e cartelle
+  - Configurare cartelle condivise
+  - Proteggere Windows tramite le impostazioni dei criteri locali
 
 
   ### Modulo 3&#58; Configurare la protezione dalle minacce
@@ -82,7 +82,7 @@ outlineSection: |-
   - Metodi di protezione avanzati
 
 
-  #### Laboratorio&#58; Esercitazione pratica&#58; Gestire la sicurezza della rete
+  #### Laboratorio &#58; Esercitazione pratica&#58; Gestire la sicurezza della rete
   - Creare e testare le regole per le connessioni in entrata
   - Creare e testare le regole per le connessioni in uscita
   - Creare e testare le regole per la sicurezza delle connessioni
@@ -90,18 +90,19 @@ outlineSection: |-
 
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Identificare le minacce alla sicurezza più comuni.
-  - Descrivere i metodi che possono essere utilizzati per mitigare le minacce alla sicurezza più comuni.
-  - Descrivere i diversi metodi di crittografia.
-  - Spiegare in che modo il firewall di Window può proteggere un dispositivo.
-  - Descrivere i vantaggi derivanti dall’uso di IPSec.
-  - Descrivere le diverse funzionalità di Windows Defender.
-  - Descrivere i vantaggi derivanti dall’uso di AppLocker.
+  - Identificare le minacce alla sicurezza più comuni
+  - Descrivere i metodi che possono essere utilizzati per mitigare le minacce alla sicurezza più comuni
+  - Descrivere i diversi metodi di crittografia
+  - Spiegare in che modo il firewall di Window può proteggere un dispositivo
+  - Descrivere i vantaggi derivanti dall’uso di IPSec
+  - Descrivere le diverse funzionalità di Windows Defender
+  - Descrivere i vantaggi derivanti dall’uso di AppLocker
 
 
-  ### Modulo 4&#58; Fine del corso
+  ### Modulo 4&#58; Conclusione del corso
   #### Lezioni
   - Esame Finale
 
 
-  #### Laboratorio&#58; Laboratorio con valutazione dei risultati
+  #### Laboratorio &#58; Laboratorio con valutazione dei risultati
+

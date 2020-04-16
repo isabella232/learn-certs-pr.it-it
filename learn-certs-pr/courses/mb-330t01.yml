@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurare e utilizzare la gestione della catena di fornitura in Dynamics 365 for Finance and Operations
+title: Configure and use supply chain management in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Course MB-330T01-A: Configurare e utilizzare la gestione della catena di fornitura in Dynamics 365 for Finance and Operations'
-  description: 'Course MB-330T01-A: Configurare e utilizzare la gestione della catena di fornitura in Dynamics 365 for Finance and Operations'
+  title: 'Course MB-330T01-A: Configure and use supply chain management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T01-A: Configure and use supply chain management in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t01
 courseNumber: 'MB-330T01-A'
 hoursToComplete: 48
@@ -35,7 +35,7 @@ outlineSection: |-
   - Introduzione
   - Configurare i numeri di serie e di lotto
   - Configurare la ripartizione dell’inventario
-  - Configurare l'inventario ed i libri giornale di magazzino
+  - Configurare l'inventario ed i libri giornali di magazzino
   - Configurare le dimensioni dell’inventario
   - Chiusura e rettifica dell’inventario
   - Laboratori di pratica
@@ -52,7 +52,7 @@ outlineSection: |-
   - Configurare le dimensioni dell’inventario
   - Configurare i costi dell’inventario
   - Impostare la distribuzione
-  - Capire la chiusura e le rettifiche dell’inventario
+  - Capire  la chiusura e le rettifiche dell’inventario
 
 
   ### Modulo 2&#58; Utilizzare i libri giornale relativi all’inventario
@@ -127,7 +127,7 @@ outlineSection: |-
   Questo modulo spiega come configurare ed eseguire il processo da approvvigionamento ad acquisto in Finance and Operations.
   #### Lezioni
   - Introduzione
-  - Scenario commerciale di approvvigionamento e di sourcing
+  - Procurement and sourcing business scenario
   - Creare flussi di lavoro per richieste di acquisto
   - Creare richieste di acquisto
   - Creare richieste di offerte
@@ -188,7 +188,7 @@ outlineSection: |-
   Questo modulo spiega come configurare e utilizzare i contratti in Finance and Operations.
   #### Lezioni
   - Introduzione
-  - Mantenere gli accordi commerciali
+  - Mantenere i contratti commerciali
   - Creare i contratti di vendita
   - Creare i contratti di acquisto
   - Configurare l'indennità commerciale
@@ -236,7 +236,7 @@ outlineSection: |-
   - Stampare e pubblicare le liste di prelievo
   - Generare e pubblicare la fattura
   - Configurare i codici di tenuta dell'ordine
-  - Elaborare i resi dei clienti
+  - Processo Restituzioni dei clienti
 
 
   ### Modulo 11&#58; Conclusione del corso
@@ -248,3 +248,4 @@ outlineSection: |-
 
 
   Gli studenti avranno completato il corso.
+

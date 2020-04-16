@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Monitorare, risolvere i problemi e ottimizzare le soluzioni Azure
+title: Monitor, troubleshoot, and optimize Azure solutions
 metadata:
-  title: 'Corso AZ-203T05-A: Monitorare, risolvere i problemi e ottimizzare le soluzioni Azure'
-  description: 'Corso AZ-203T05-A: Monitorare, risolvere i problemi e ottimizzare le soluzioni Azure'
+  title: 'Course AZ-203T05-A: Monitor, troubleshoot, and optimize Azure solutions'
+  description: 'Course AZ-203T05-A: Monitor, troubleshoot, and optimize Azure solutions'
 uid: course.az-203t05
 courseNumber: 'AZ-203T05-A'
 hoursToComplete: 24
@@ -40,7 +40,7 @@ outlineSection: |-
   Monitoraggio di Azure è un servizio centrale che include tutti gli strumenti necessari per monitorare e ottimizzare una soluzione.
   #### Lezioni
   - Panoramica di Monitoraggio di Azure
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Dimostrare di sapere come funziona Monitoraggio di Azure
   - Spiegare dove e come Monitoraggio di Azure raccoglie i dati
 
@@ -50,8 +50,7 @@ outlineSection: |-
   - Implementare il ridimensionamento automatico
   - Implementare codice per le istanze degli oggetti singleton Application
   - Implementare il codice che gestisca gli errori transitori
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Dimostrare di conoscere i modelli di ridimensionamento automatico e le procedure migliori per dimensionare le soluzioni
   - Utilizzare l’interfaccia della riga di comando di Azure per comunicare con una copia specifica di una risorsa
   - Gestire gli errori transitori di una soluzione
@@ -63,7 +62,7 @@ outlineSection: |-
   - Configurare gli strumenti in un'applicazione o servizio con Application Insights
   - Analizzare e risolvere i problemi utilizzando con Monitoraggio di Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Aggiungere codice predefinito a pagine Web, applicazioni console e app desktop di Windows per supportare la telemetria
   - Usare i dashboard e altri strumenti per monitorare e risolvere i problemi delle app
 
@@ -74,6 +73,7 @@ outlineSection: |-
   - Azure Cache for Redis
   - Sviluppare per l’archiviazione in CDN
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Spiegare come funziona Azure Cache for Redis e come configurarlo e interagire con questo servizio
   - Gestire i CDN di Azure
+

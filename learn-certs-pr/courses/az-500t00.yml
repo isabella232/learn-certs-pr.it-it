@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Tecnologie di sicurezza di Microsoft Azure
+title: Microsoft Azure Security Technologies
 metadata:
-  title: 'Corso AZ-500T00-A: Tecnologie di sicurezza di Microsoft Azure'
-  description: 'Corso AZ-500T00-A: Tecnologie di sicurezza di Microsoft Azure'
+  title: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
+  description: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96
@@ -35,10 +35,9 @@ summary: |-
   e identificare e correggere le vulnerabilità utilizzando numerosi strumenti
   di sicurezza. Nel corso vengono esaminati argomenti quali la creazione di script, l’automazione, la virtualizzazione e
   l’architettura cloud a più livelli.
-  
   #### Profilo dei destinatari
   Gli studenti devono avere almeno un anno di esperienza pratica nella protezione di carichi di lavoro di Azure ed essere esperti nell’uso dei controlli di sicurezza per i carichi di lavoro di Azure.
-prerequisitesSection: |-  
+prerequisitesSection: |-
   [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### Modulo 1&#58; Identità e accesso
@@ -46,6 +45,7 @@ outlineSection: |-
   - Configurare Azure Active Directory per i carichi di lavoro e le sottoscrizioni di Azure
   - Configurare Azure AD Privileged Identity Management
   - Configurare la sicurezza per una sottoscrizione di Azure
+
   ### Modulo 2&#58; Protezione della piattaforma
   #### Lezioni
   - Conoscere la sicurezza cloud
@@ -54,7 +54,6 @@ outlineSection: |-
   - Implementare la sicurezza dell’host
   - Implementare la sicurezza della piattaforma
   - Implementare la sicurezza delle sottoscrizioni
-
 
   ### Modulo 3&#58; Operazioni relative alla sicurezza
   #### Lezioni
@@ -74,3 +73,4 @@ outlineSection: |-
   - Implementare la sicurezza durante il ciclo di vita delle applicazioni
   - Proteggere le applicazioni
   - Configurare e gestire Azure Key Vault
+

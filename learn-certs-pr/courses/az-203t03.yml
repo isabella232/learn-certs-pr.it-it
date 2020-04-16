@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Sviluppare soluzioni per l’archiviazione in Azure
+title: Develop for Azure storage
 metadata:
-  title: 'Corso AZ-203T03-A: Sviluppare soluzioni per l’archiviazione in Azure'
-  description: 'Corso AZ-203T03-A: Sviluppare soluzioni per l’archiviazione in Azure'
+  title: 'Course AZ-203T03-A: Develop for Azure storage'
+  description: 'Course AZ-203T03-A: Develop for Azure storage'
 uid: course.az-203t03
 courseNumber: 'AZ-203T03-A'
 hoursToComplete: 24
@@ -41,7 +41,7 @@ outlineSection: |-
   - Panoramica di Archiviazione tabelle di Azure
   - Autorizzazioni in Archiviazione tabelle
   - API REST del servizio Tabella
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere le funzionalità e gli utilizzi di Archiviazione tabelle di Azure
   - Dimostrare come usare l’autorizzazione Chiave condivisa
   - Dimostrare come utilizzare il servizio REST di Archiviazione tabelle di Azure per gestire i dati
@@ -52,11 +52,11 @@ outlineSection: |-
   - Panoramica di Azure Cosmos DB
   - Gestire contenitori e oggetti
   - Creare e aggiornare i documenti mediante codice
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere le funzioni e funzionalità di base di Azure Cosmos DB
   - Gestire contenitori e oggetti
   - Creare e gestire documenti
+
 
   ### Modulo 3&#58; Sviluppare soluzioni che utilizzano un database relazionale
   Un database SQL è un servizio gestito da un database relazionale generico di Microsoft Azure che supporta strutture come dati relazionali, JSON, dati spaziali e XML.
@@ -64,7 +64,7 @@ outlineSection: |-
   - Panoramica di un database SQL di Azure
   - Creare, leggere, aggiornare ed eliminare tabelle di database mediante l’uso di codice
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Spiegare come funziona il servizio del database SQL di Azure
   - Eseguire operazioni sul database mediante l’utilizzo di codice
 
@@ -75,7 +75,8 @@ outlineSection: |-
   - Panoramica dell’archiviazione BLOB di Azure
   - Uso dell’archiviazione BLOB di Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Spiegare quando e perché utilizzare l’archiviazione BLOB di Azure
   - Impostare e recuperare proprietà e metadati dall’archiviazione BLOB
   - Replicare e copiare BLOB
+

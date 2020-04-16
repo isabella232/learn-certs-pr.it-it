@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: "Gestione dell'identità e dell'accesso a Microsoft 365"
+title: Managing Microsoft 365 Identity and Access
 metadata:
-  title: "Course MS-500T01-A: Gestione dell'identità e dell'accesso a Microsoft 365"
-  description: "Course MS-500T01-A: Gestione dell'identità e dell'accesso a Microsoft 365"
+  title: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
+  description: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
 uid: course.ms-500t01
 courseNumber: 'MS-500T01-A'
 hoursToComplete: 24
@@ -28,15 +28,7 @@ products:
 - office-365
 exams:
 - uid: exam.ms-500
-summary: |-
-  Contribuire a proteggere dalla compromissione delle credenziali con la gestione dell'identità e dell'accesso. In questo corso imparerete come rendere sicuro l'accesso degli utenti alle risorse della vostra organizzazione. In particolare, questo corso tratta la protezione della password utente, l'autenticazione multi-fattore, come abilitare Azure Identity Protection, come configurare i servizi della federazione Active Directory, come impostare e utilizzare Azure AD Connect e introduce all'accesso condizionato. Inoltre, imparerete a conoscere le soluzioni per la gestione dell'accesso esterno al vostro sistema Microsoft 365.
-
-  #### Profilo dei destinatari
-  Questo corso è per il ruolo di amministratore della sicurezza di Microsoft 365. Questo ruolo collabora con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con gli amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione. 
-  
-  Questo ruolo protegge in modo proattivo gli ambienti aziendali Microsoft 365. Le responsabilità comprendono la risposta alle minacce, l'implementazione, la gestione e il monitoraggio delle soluzioni di sicurezza e conformità per l'ambiente Microsoft 365. Rispondono agli incidenti, alle indagini e all'applicazione della governance dei dati. 
-  
-  L'amministratore della sicurezza Microsoft 365 ha familiarità con i carichi di lavoro Microsoft 365 e possiede una forte competenza ed esperienza in materia di protezione dell'identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e governance dei dati. Questo ruolo è incentrato sull’ambiente Microsoft 365 e comprende ambienti ibridi.
+summary: "Contribuire a proteggere dalla compromissione delle credenziali con la gestione dell'identità e dell'accesso. In questo corso imparerete come rendere sicuro l'accesso degli utenti alle risorse della vostra organizzazione. In particolare, questo corso tratta la protezione della password utente, l'autenticazione multi-fattore, come abilitare Azure Identity Protection, come configurare i servizi della federazione Active Directory, come impostare e utilizzare Azure AD Connect e introduce all'accesso condizionato. Inoltre, imparerete a conoscere le soluzioni per la gestione dell'accesso esterno al vostro sistema Microsoft 365.\n\n#### Profilo dei destinatari\nQuesto corso è per il ruolo di amministratore della sicurezza di Microsoft 365. Questo ruolo collabora con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con gli amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione. \n\nQuesto ruolo protegge in modo proattivo gli ambienti aziendali Microsoft 365. Le responsabilità comprendono la risposta alle minacce, l'implementazione, la gestione e il monitoraggio delle soluzioni di sicurezza e conformità per l'ambiente Microsoft 365. Rispondono agli incidenti, alle indagini e all'applicazione della governance dei dati. \n\nL'amministratore della sicurezza Microsoft 365 ha familiarità con i carichi di lavoro Microsoft 365 e possiede una forte competenza ed esperienza in materia di protezione dell'identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e governance dei dati. Questo ruolo è incentrato sull’ambiente Microsoft 365 e comprende ambienti ibridi."
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
   - Comprensione concettuale di base di Microsoft Azure.
@@ -49,13 +41,13 @@ outlineSection: |-
   ### Modulo 1&#58; Sicurezza degli utenti e dei gruppi
   Questo modulo spiega come gestire gli account utente e i gruppi in Microsoft 365. Vi introduce alla gestione delle identità privilegiate in Azure AD così come alla protezione delle identità. Il modulo pone le basi per il resto del corso.
   #### Lezioni
-  - Account dell’utente in Microsoft 365
+  - Account dell’utente in MIcrosoft 365
   - Ruoli di amministratore e gruppi di sicurezza in Microsoft 365
   - Gestione della password in Microsoft 365
   - Protezione identità di Azure AD
 
 
-  #### Laboratorio&#58; Gestire l’ambiente delle identità di Microsoft 365
+  #### Laboratorio &#58; Gestire l’ambiente delle identità di Microsoft 365
   - Impostare l’ambiente del laboratorio
   - Gestire l’ambiente delle identità di Microsoft 365 utilizzando il centro amministrativo di Microsoft 365
   - Assegnare gli amministratori dei servizi
@@ -81,7 +73,7 @@ outlineSection: |-
   - Gestire identità sincronizzate
 
 
-  #### Laboratorio&#58; Implementare la sincronizzazione delle identità
+  #### Laboratorio &#58; Implementare la sincronizzazione delle identità
   - Impostare la vostra organizzazione per la sincronizzazione delle identità
 
   Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di&#58;
@@ -94,7 +86,7 @@ outlineSection: |-
   - Gestire gli utenti con la sincronizzazione delle directory
   - Gestire i gruppi con la sincronizzazione delle directory
   - Utilizzare i gruppi di sicurezza Azure AD Connect Sync
-  
+
 
   ### Modulo 3&#58; Identità federate
   Questo modulo riguarda i servizi della Active Directory Federation Services (ADFS). In particolare, imparerete come pianificare e gestire AD FS per raggiungere il livello di accesso che volete fornire agli utenti di altre directory.
@@ -129,3 +121,4 @@ outlineSection: |-
   - Distinguere tra ruoli amministrativi di Azure AD e Azure RBAC
   - Gestire accesso esterno
   - Spiegare la guida alle licenze per la collaborazione B2B di Azure AD
+

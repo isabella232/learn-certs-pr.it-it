@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestione della sicurezza di Microsoft 365
+title: Microsoft 365 Security Management
 metadata:
-  title: 'Course MS-101T01-A: Gestione della sicurezza di Microsoft 365'
-  description: 'Course MS-101T01-A: Gestione della sicurezza di Microsoft 365'
+  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
 uid: course.ms-101t01
 courseNumber: 'MS-101T01-A'
 hoursToComplete: 24
@@ -64,7 +64,8 @@ outlineSection: |-
 
   ### Modulo 4&#58; Laboratorio pratico online
 
-  #### Laboratorio&#58; Gestire la vostra sicurezza di Microsoft 365
+  #### Laboratorio &#58; Gestire la vostra sicurezza di Microsoft 365
   - Esercizio 1&#58; Impostare l’ambiente del laboratorio
   - Esercizio 2&#58; Modificare una politica dei link sicuri ATP e creare una politica degli allegati sicuri
   - Esercizio 3&#58; Abilitare e installare il centro ATA
+

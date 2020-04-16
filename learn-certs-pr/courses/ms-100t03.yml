@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestione delle identità di Microsoft 365
+title: Microsoft 365 Identity Management
 metadata:
-  title: 'Course MS-100T03-A: Gestione delle identità di Microsoft 365'
-  description: 'Course MS-100T03-A: Gestione delle identità di Microsoft 365'
+  title: 'Course MS-100T03-A: Microsoft 365 Identity Management'
+  description: 'Course MS-100T03-A: Microsoft 365 Identity Management'
 uid: course.ms-100t03
 courseNumber: 'MS-100T03-A'
 hoursToComplete: 48
@@ -45,12 +45,12 @@ prerequisitesSection: |-
 outlineSection: |-
   ### Modulo 1&#58; Gestire le licenze e i gruppi di sicurezza dell’utente per le identità cloud
   #### Lezioni
-  - Licenze e account dell’utente in Microsoft 365
+  - Licenze e account dell’utente in MIcrosoft 365
   - Ruoli amministrativi e i gruppi di sicurezza in Microsoft 365
   - Gestione della password in Microsoft 365
 
 
-  #### Laboratorio&#58; Gestire l’ambiente delle identità di Microsoft 365
+  #### Laboratorio &#58; Gestire l’ambiente delle identità di Microsoft 365
   - Esercizio 1&#58; Impostare l’ambiente del laboratorio
   - Esercizio 2&#58; Gestire l’ambiente delle identità di Microsoft 365 utilizzando il centro amministrativo di Microsoft 365
   - Esercizio 3&#58; Gestire l’ambiente delle identità di Microsoft 365 utilizzando Windows PowerShell
@@ -64,7 +64,7 @@ outlineSection: |-
   - Gestire identità sincronizzate
 
 
-  #### Laboratorio&#58; Implementare la sincronizzazione delle identità
+  #### Laboratorio &#58; Implementare la sincronizzazione delle identità
   - Esercizio 1&#58; Impostare la vostra organizzazione per la sincronizzazione delle identità
   - Esercizio 2&#58; Implementare la sincronizzazione delle identità
 
@@ -81,3 +81,4 @@ outlineSection: |-
   - Implementare le applicazioni in Azure AD
   - Configurare Azure AD Application Proxy
   - Progettare soluzioni per l’accesso esterno
+

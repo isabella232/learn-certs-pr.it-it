@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Applicazioni della Power Platform'
+title: 'Dynamics 365: Power Platform applications'
 metadata:
-  title: 'Course MB-200T01-A: Dynamics 365: Applicazioni della Power Platform'
-  description: 'Course MB-200T01-A: Dynamics 365: Applicazioni della Power Platform'
+  title: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
+  description: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
 uid: course.mb-200t01
 courseNumber: 'MB-200T01-A'
 hoursToComplete: 48
@@ -108,3 +108,4 @@ outlineSection: |-
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Creare e utilizzare Business Unit
   - Creare, modificare e utilizzare i ruoli di sicurezza
+

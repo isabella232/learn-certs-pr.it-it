@@ -1,21 +1,21 @@
 ### YamlMime:Course
-title: Progettare soluzioni per le identità e la sicurezza
+title: Designing for Identity and Security
 metadata:
-  title: 'Corso AZ-301T01-A: Progettare soluzioni per le identità e la sicurezza'
-  description: 'Corso AZ-301T01-A: Progettare soluzioni per le identità e la sicurezza'
+  title: 'Course AZ-301T01-A: Designing for Identity and Security'
+  description: 'Course AZ-301T01-A: Designing for Identity and Security'
 uid: course.az-301t01
 courseNumber: 'AZ-301T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Integrare soluzioni esistenti con provider di identità esterni grazie all’utilizzo di Azure AD B2B o B2C.
-- skill: Progettare una soluzione ibrida per le identità.
-- skill: Stabilire quando utilizzare le funzioni avanzate di Azure AD, come Identità del servizio gestita, MFA e Privileged Identity Management.
-- skill: Proteggere le chiavi private delle applicazioni con Key Vault.
-- skill: Proteggere i dati delle applicazioni grazie all’utilizzo delle funzionalità Database SQL e Archiviazione di Azure.
-- skill: Descrivere dettagliatamente le varie API disponibili in Servizi cognitivi.
-- skill: Stabilire quando utilizzare le API Face, le API Speech o il servizio Language Understanding (LUIS).
-- skill: Descrivere la relazione tra Bot Framework e Azure Bot Services.
+- skill: Integrare soluzioni esistenti con provider di identità esterni grazie all’utilizzo di Azure AD B2B o B2C
+- skill: Progettare una soluzione ibrida per le identità
+- skill: Stabilire quando utilizzare le funzioni avanzate di Azure AD, come Identità del servizio gestita, MFA e Privileged Identity Management
+- skill: Proteggere le chiavi private delle applicazioni con Key Vault
+- skill: Proteggere i dati delle applicazioni grazie all’utilizzo delle funzionalità Database SQL e Archiviazione di Azure
+- skill: Descrivere dettagliatamente le varie API disponibili in Servizi cognitivi
+- skill: Stabilire quando utilizzare le API Face, le API Speech o il servizio Language Understanding (LUIS)
+- skill: Descrivere la relazione tra Bot Framework e Azure Bot Services
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -54,8 +54,8 @@ summary: |-
 outlineSection: |-
   ### Modulo 1&#58; Gestire la sicurezza e le identità per le soluzioni Azure
   Questo modulo descrive sia la sicurezza che le identità nel contesto di Azure. Per ciò che concerne la sicurezza, il modulo illustra le varie opzioni per la sicurezza del monitoraggio, le opzioni per la protezione dei dati e le opzioni per la protezione delle chiavi private delle applicazioni. Per ciò che concerne le identità, questo modulo esamina in particolare Azure Active Directory (Azure AD) e le varie funzionalità disponibili come l’autenticazione a più fattori (MFA), Identità del servizio gestito, Connessione ad Azure AD, ADFS e Azure AD B2B/B2C.
-  #### Laboratorio&#58; Proteggere le chiavi private in Azure
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Proteggere le chiavi private in Azure
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Integrare soluzioni esistenti con provider di identità esterni grazie all’utilizzo di Azure AD B2B o B2C
   - Progettare una soluzione ibrida per le identità
   - Stabilire quando utilizzare le funzioni avanzate di Azure AD, come Identità del servizio gestita, MFA e Privileged Identity Management
@@ -64,8 +64,8 @@ outlineSection: |-
 
   ### Modulo 2&#58; Integrare i servizi SaaS nella piattaforma Azure
   Questo modulo descrive i diversi servizi SaaS disponibili in Azure che possono essere integrati nelle soluzioni Azure esistenti. Tali servizi includono Servizi cognitivi, Servizio Bot, Machine Learning e Servizi multimediali.
-
-  #### Laboratorio&#58; Distribuire le istanze dei servizi come componenti delle soluzioni complessive di Azure
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Distribuire le istanze dei servizi come componenti delle soluzioni complessive di Azure
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere dettagliatamente le varie API disponibili in Servizi cognitivi
   - Stabilire quando utilizzare le API Face, le API Speech o il servizio Language Understanding (LUIS)
+

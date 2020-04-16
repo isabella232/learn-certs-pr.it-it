@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Dynamics 365 fundamentals
 metadata:
-  title: 'Course MB-900T01-A: Dynamics 365 Fundamentals'
-  description: 'Course MB-900T01-A: Dynamics 365 Fundamentals'
+  title: 'Course MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Course MB-900T01-A: Dynamics 365 fundamentals'
 uid: course.mb-900t01
 courseNumber: 'MB-900T01-A'
 hoursToComplete: 24
@@ -25,7 +25,6 @@ exams:
 - uid: exam.mb-900
 summary: |-
   Dynamics 365 è uno strumento sfaccettato per il coinvolgimento dei clienti, le operazioni unificate, il marketing, la vendita al dettaglio e la gestione dei talenti. Questo corso familiarizzerà l'allievo con le funzionalità di Dynamics 365 e il valore del business. Il corso tratterà le applicazioni Dynamics 365, la Power Platform, i concetti di cloud, il modello di sicurezza e le considerazioni sulle licenze.
-
 prerequisitesSection: |-
   Una comprensione di base dei principi informatici e un interesse per Dynamics 365.
 outlineSection: |-
@@ -63,3 +62,4 @@ outlineSection: |-
   - Trovare e lavorare con un partner
   - Opzioni di licenza
   - Come prepararsi
+

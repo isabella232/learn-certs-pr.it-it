@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementare processi di sviluppo DevOps
+title: Implementing DevOps Development Processes
 metadata:
-  title: 'Corso AZ-400T01-A: Implementare processi di sviluppo DevOps'
-  description: 'Corso AZ-400T01-A: Implementare processi di sviluppo DevOps'
+  title: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+  description: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
 uid: course.az-400t01
 courseNumber: 'AZ-400T01-A'
 hoursToComplete: 24
@@ -31,7 +31,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Questo corso fornisce agli studenti le nozioni e le competenze necessarie per implementare i processi DevOps. Gli studenti impareranno come usare il codice sorgente, ridimensionare Git per un’azienda, nonché come implementare e gestire l’infrastruttura della build.
-  
   #### Profilo dei destinatari
   Gli studenti che decidono di partecipare a questo corso sono persone interessate a implementare i processi DevOps o a sostenere l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
 prerequisitesSection: |-
@@ -45,7 +44,7 @@ outlineSection: |-
   - Introduzione ad Azure Repos
   - Eseguire la migrazione da TFVC (Team Foundation Version Control) a Git
   - Autenticarsi con Git Repos
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere i vantaggi derivanti dall’uso del controllo del codice sorgente
   - Eseguire la migrazione da TFVC a Git
 
@@ -59,8 +58,7 @@ outlineSection: |-
   - Versione del sistema Git
   - Progetti pubblici
   - File nel sistema Git
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Ridimensionare Git per la suite aziendale di DevOps
 
 
@@ -72,13 +70,13 @@ outlineSection: |-
   - Pool di agenti
   - Pipeline e concorrenza
   - Progetti DevOps di Azure e open source
-  - Confronto tra Azure Pipelines YAML e Visual Designer
+  - Azure Pipelines YAML vs Visual Designer
   - Configurare agenti privati
   - Integrare Jenkins con Azure Pipelines
   - Integrare il controllo dell’origine esterna con Azure Pipelines
   - Analizzare e integrare build Docker con più fasi
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Implementare e gestire l’infrastruttura della build
 
 
@@ -90,7 +88,7 @@ outlineSection: |-
   - Gestire chiavi private, token e certificati
   - Implementare strumenti per la gestione della sicurezza e della conformità in una pipeline
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Gestire la configurazione e le chiavi private delle applicazioni
 
 
@@ -103,5 +101,6 @@ outlineSection: |-
   - Effettuare il provisioning di dispositivi di test per la distribuzione
   - Creare gruppi di distribuzione pubblici e privati
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Implementare una strategia DevOps mobile
+

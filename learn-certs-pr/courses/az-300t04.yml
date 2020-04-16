@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Creare e distribuire app
+title: Creating and Deploying Apps
 metadata:
-  title: 'Corso AZ-300T04-A: Creare e distribuire app'
-  description: 'Corso AZ-300T04-A: Creare e distribuire app'
+  title: 'Course AZ-300T04-A: Creating and Deploying Apps'
+  description: 'Course AZ-300T04-A: Creating and Deploying Apps'
 uid: course.az-300t04
 courseNumber: 'AZ-300T04-A'
 hoursToComplete: 24
@@ -55,28 +55,27 @@ summary: |-
   Gli architetti di soluzioni cloud di successo che iniziano a lavorare in questo ruolo conoscono a livello pratico i sistemi operativi, la virtualizzazione, l’infrastruttura cloud, le strutture di archiviazione, la fatturazione e le reti.
 outlineSection: |-
   ### Modulo 1&#58; Creare applicazioni Web con PaaS
-  Questo modulo fornisce una panoramica delle app Web di Servizio app di Azure, che permette di ospitare applicazioni Web, API REST e un dispositivo mobile back-end. In questo modulo vengono affrontati i seguenti argomenti&#58; usare i comandi shell per creare un’app Web di Servizio app; creare attività in background; utilizzare Swagger per documentare un’API. Nel modulo viene anche spiegato agli studenti perché App per la logica aiuta a creare soluzioni che integrano app, dati, sistemi e servizi tra le aziende e le organizzazioni grazie all'automazione delle attività e dei processi aziendali sotto forma di flussi di lavoro.
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Questo modulo fornisce una panoramica delle app Web di Servizio app di Azure, che permette di ospitare applicazioni Web, API REST e un dispositivo mobile back-end. In questo modulo vengono affrontati i seguenti argomenti&#58; usare i comandi shell per creare un’app Web di Servizio app&#58; creare attività in background&#58; utilizzare Swagger per documentare un’API. Nel modulo viene anche spiegato agli studenti perché App per la logica aiuta a creare soluzioni che integrano app, dati, sistemi e servizi tra le aziende e le organizzazioni grazie all'automazione delle attività e dei processi aziendali sotto forma di flussi di lavoro.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Utilizzare i comandi shell per creare un’app Web di Servizio app
   - Creare attività in background
   - Utilizzare Swagger per documentare un’API
-
 
   ### Modulo 2&#58; Creare app e servizi in esecuzione su Service Fabric
   Questo modulo fornisce una panoramica di Azure Service Fabric, una piattaforma per sistemi distribuiti che semplifica la creazione di pacchetti, la distribuzione e la gestione di microservzi e contenitori scalabili e affidabili. Nel modulo vengono descritte anche le sfide che è necessario affrontare per sviluppare e gestire applicazioni cloud native.
   Nel modulo vengono affrontati anche i seguenti argomenti&#58; creare un servizio affidabile, creare un’app Reliable Actors e utilizzare raccolte affidabili.
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Creare un servizio affidabile
   - Creare un’app Reliable Actors
   - Lavorare su raccolte affidabili
 
 
-  ### Modulo 3&#58; Utilizzare il servizio Azure Kubernetes: questo modulo si concentra su Azure
+  ### Modulo 3&#58; Utilizzare il servizio Azure Kubernetes Questo modulo descrive il servizio
   Azure Kubernetes (AKS), che può essere utilizzato per distribuire e gestire un cluster Kubernetes in Azure. Nel modulo vengono affrontati argomenti quali&#58; come ridurre i costi operativi associati alla gestione di Kubernetes trasferendo la maggior parte delle attività, come il monitoraggio dell’integrità e la manutenzione, ad Azure.
   Gli altri argomenti affrontati includono&#58; Registro Azure Container e Istanze di Azure Container.
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere Registro Azure Container
   - Utilizzare Istanze di Azure Container
+

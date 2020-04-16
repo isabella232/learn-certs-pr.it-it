@@ -16,7 +16,7 @@ skillsGained:
 - skill: Identificare come i servizi Microsoft 365 supportano il lavoro di squadra.
 - skill: Descrivere le identità tra cui le identità ibride, locali e di cloud.
 - skill: Descrivere la gestione e la protezione dei dispositivi cloud, compreso l'uso di Intune.
-- skill: Descrivere la protezione dei dati, compreso l'uso della protezione delle informazioni di Azure.
+- skill: Descrivere la protezione dei dati, compreso l'uso della protezione delle informazioni di Azure
 - skill: Descrivere la conformità in generale e le caratteristiche di conformità in Microsoft 365.
 - skill: Descrivere gli abbonamenti, le licenze, la fatturazione e il supporto di Microsoft 365.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
@@ -52,7 +52,7 @@ outlineSection: |-
   - Migrazione ai servizi di cloud
 
 
-  #### Laboratorio&#58; Cloud Fundamentals
+  #### Laboratorio &#58; Cloud Fundamentals
   - Esercizio 1&#58; Determinare il modello di cloud appropriato (laboratorio cartaceo)
 
 
@@ -64,7 +64,7 @@ outlineSection: |-
   - Teamwork in Microsoft 365
 
 
-  #### Laboratorio&#58; Abilitazione e configurazione di un tenant di Microsoft 365
+  #### Laboratorio &#58; Abilitazione e configurazione di un tenant di Microsoft 365
   - Esercizio 1&#58; Attivazione e configurazione di un tenant di Microsoft 365
   - Esercizio 2&#58; Esplorazione del portale per utenti e amministratori di Microsoft 365
   - Esercizio 3&#58; Configurazione di nuovi account utente e di gruppo
@@ -79,7 +79,7 @@ outlineSection: |-
   - Conformità in Microsoft 365
 
 
-  #### Laboratorio&#58; Sicurezza in Microsoft 365
+  #### Laboratorio &#58; Sicurezza in Microsoft 365
   - Esercizio 1&#58; Gestione degli utenti e dei dispositivi in Azure Active Directory
   Esercizio 2&#58; Valutare la protezione dell'identità
   Esercizio 3&#58; Esplorare gli strumenti per la conformità
@@ -91,7 +91,8 @@ outlineSection: |-
   - Supporto in Microsoft 365
 
 
-  #### Laboratorio&#58; Gestione abbonamenti, licenze e supporto in M365
+  #### Laboratorio &#58; Gestione abbonamenti, licenze e supporto in M365
   - Esercizio 1&#58; Esplorare le interfacce per la fatturazione e gli abbonamenti
   - Esercizio 2&#58; Aggiungere le licenze di prova al tenant
   - Esercizio 3&#58; Rivedere le opzioni di supporto
+

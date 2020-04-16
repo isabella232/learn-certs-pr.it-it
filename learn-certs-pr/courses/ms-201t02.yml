@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: "Gestione della sicurezza, dell'igiene e della conformità della messaggistica"
+title: Managing Messaging Security, Hygiene, and Compliance
 metadata:
-  title: "Course MS-201T02-A: Gestione della sicurezza, dell'igiene e della conformità della messaggistica"
-  description: "Course MS-201T02-A: Gestione della sicurezza, dell'igiene e della conformità della messaggistica"
+  title: 'Course MS-201T02-A: Managing Messaging Security, Hygiene, and Compliance'
+  description: 'Course MS-201T02-A: Managing Messaging Security, Hygiene, and Compliance'
 uid: course.ms-201t02
 courseNumber: 'MS-201T02-A'
 hoursToComplete: 48
@@ -33,7 +33,7 @@ summary: |-
   In questo corso imparerete a conoscere le diverse configurazioni e impostazioni del servizio di sicurezza e conformità relative alla messaggistica con Exchange Server e Exchange Online. Inizierete esaminando i fondamenti dell'igiene dei messaggi con Exchange Online Protection e Exchange Advanced Threat Protection, così come la connessione e il filtraggio dello spam con Exchange. Esaminerete quindi le soluzioni per la conformità della messaggistica, come le politiche di conservazione e di prevenzione della perdita di dati, nonché le indagini sui registri di audit e i meccanismi di ricerca eDiscovery dal punto di vista della conformità della messaggistica. Imparerete come pianificare una corretta implementazione e come eseguire il processo di implementazione di base per ogni soluzione. Concluderete il corso esaminando come gestire i permessi assegnati ai ruoli di utente e di amministratore.
 
   #### Profilo dei destinatari
-  L’amministratore di messaggistica distribuisce, configura, gestisce, risolve i problemi e monitora i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali. Le responsabilità includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino di emergenza, l’alta disponibilità e l’accesso del cliente. Per implementare una topologia ibrida sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365. L'amministratore di messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, licenze e integrazione con le applicazioni Microsoft 365.
+  L’amministratore di messaggistica distribuisce, configura, gestisce, risolve i problemi e monitora i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali. Le responsabilità includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino di emergenza, l’alta disponibilità e l’accesso del cliente. Per implementare una topologia ibrida sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365 L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
 prerequisitesSection: |-
   - Ottima comprensione del DNS.
   - Comprensione di base della messaggistica all'interno di Exchange Server o Exchange Online.
@@ -65,7 +65,8 @@ outlineSection: |-
 
   ### Modulo 4&#58; Laboratorio - Gestire l'igiene dei messaggi
 
-  #### Laboratorio&#58; Gestire l'igiene dei messaggi
+  #### Laboratorio &#58; Gestire l'igiene dei messaggi
   - Esercizio 1&#58; Gestire l'igiene dei messaggi in una soluzione locale
   - Esercizio 2&#58; Gestire l'igiene dei messaggi in una soluzione cloud
   - Esercizio 3&#58; Gestire l'igiene dei messaggi in una soluzione ibrida
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Identità e servizi di Microsoft 365
+title: Microsoft 365 Identity and Services
 metadata:
-  title: 'Course MS-100T00-A: Identità e servizi di Microsoft 365'
-  description: 'Course MS-100T00-A: Identità e servizi di Microsoft 365'
+  title: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
+  description: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
 uid: course.ms-100t00
 courseNumber: 'MS-100T00-A'
 hoursToComplete: 120
@@ -59,9 +59,9 @@ outlineSection: |-
   - Sfruttare i servizi di FastTrack e dei partner
 
 
-  ### Modulo 3&#58; Laboratorio 1 - Configurare il vostro tenant di Microsoft 365
+  ### Modulo 3&#58; Lab 1 - Configurare il vostro tenant di Microsoft 365
 
-  #### Laboratorio&#58; Configurare il vostro tenant di Microsoft 365
+  #### Laboratorio &#58; Configurare il vostro tenant di Microsoft 365
   - Esercizio 1 - Impostare un tenant di prova di Microsoft 365
 
 
@@ -71,9 +71,9 @@ outlineSection: |-
   - Gestire i servizi e la salute del tenant
 
 
-  ### Modulo 5&#58; Laboratorio 2 - Gestire il vostro tenant di Microsoft 365
+  ### Modulo 5&#58; Lab 2 - Gestire il vostro tenant di Microsoft 365
 
-  #### Laboratorio&#58; Gestire il vostro tenant di Microsoft 365
+  #### Laboratorio &#58; Gestire il vostro tenant di Microsoft 365
   - Esercizio 1 - Gestire la delegazione dell’amministrazione
   - Esercizio 2 - Configurare la crittografia dei messaggi di Office 365 (OME)
   - Esercizio 3 - Monitorare e risolvere i problemi di Office 365
@@ -88,12 +88,12 @@ outlineSection: |-
   - Panoramica della gestione del dispositivo
 
 
-  ### Modulo 7&#58; Laboratorio 3 - Panoramica di Office 365
+  ### Modulo 7&#58; Lab 3 - Panoramica di Office 365
 
-  #### Laboratorio&#58; Panoramica di Office 365
-  - Esercizio 1 - Panoramica di Exchange Online
-  - Esercizio 2 - Panoramica di SharePoint Online
-  - Esercizio 3 - Panoramica dei team
+  #### Laboratorio &#58; Panoramica di Office 365
+  -  Esercizio 1 - Panoramica di Exchange Online
+  -  Esercizio 2 - Panoramica di SharePoint Online
+  -  Esercizio 3 - Panoramica dei team
 
 
   ### Modulo 8&#58; Configurare  Office 365
@@ -110,9 +110,9 @@ outlineSection: |-
   - Configurare Microsoft Analytics
 
 
-  ### Modulo 10&#58; Laboratorio 4 - Gestire le installazioni di Office 365 ProPlus
+  ### Modulo 10&#58; Lab 4 - Gestire le installazioni di Office 365 ProPlus
 
-  #### Laboratorio&#58; Gestire le installazioni di Office 365 ProPlus
+  #### Laboratorio &#58; Gestire le installazioni di Office 365 ProPlus
   - Esercizio 1 - Preparare un’installazione gestita di 365 ProPlus
   - Esercizio 2 - Gestire un’installazione centralizzata di Office 365 ProPlus
   - Esercizio 3 - Implementare e configurare una sincronizzazione dell’identità di Office
@@ -127,9 +127,9 @@ outlineSection: |-
   - Gestione della password in Microsoft 365
 
 
-  ### Modulo 12&#58; Laboratorio 5 - Implementare la sincronizzazione delle identità
+  ### Modulo 12&#58; Lab 5 - Implementare la sincronizzazione delle identità
 
-  #### Laboratorio&#58; Implementare la sincronizzazione delle identità
+  #### Laboratorio &#58; Implementare la sincronizzazione delle identità
   - Esercizio 1 - Impostare la vostra organizzazione per la sincronizzazione delle identità
   - Esercizio 2 - Implementare la sincronizzazione delle identità
 
@@ -139,3 +139,4 @@ outlineSection: |-
   - Implementare le applicazioni in Azure AD
   - Configurare Azure AD App Proxy
   - Progettare soluzioni per l’accesso esterno
+

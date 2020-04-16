@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurare e utilizzare la gestione del magazzino e dei trasporti in Dynamics 365 for Finance and Operations
+title: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Course MB-330T03-A: Configurare e utilizzare la gestione del magazzino e dei trasporti in Dynamics 365 for Finance and Operations'
-  description: 'Course MB-330T03-A: Configurare e utilizzare la gestione del magazzino e dei trasporti in Dynamics 365 for Finance and Operations'
+  title: 'Course MB-330T03-A: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T03-A: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t03
 courseNumber: 'MB-330T03-A'
 hoursToComplete: 24
@@ -44,7 +44,7 @@ outlineSection: |-
   - Configurare i parametri di gestione dei magazzini
   - Creare magazzini e location
   - Configurare i pool di lavoro, le zone, il formato della posizione e i profili
-  - Crea le gerarchie di prenotazione
+  - Comprendere le gerarchie di prenotazione
   - Configurare le direttive di localizzazione
   - Configurare Wave
   - Configurare Load
@@ -82,7 +82,7 @@ outlineSection: |-
   - Configurare i dispositivi mobile
   - Operazioni in entrata
   - Conteggio dei cicli
-  - Trasferimenti e rifornimenti
+  - Trasferimenti e rifornimento
   - Operazioni in uscita
   - Raccolta di cluster
   - Imballaggio e containerizzazione
@@ -115,9 +115,9 @@ outlineSection: |-
   - La pianificazione del trasporto
   - L’istradamento
   - La definizione delle tariffe
-  - Operazioni in entrata
+  - Le operazioni in entrata
   - I processi di carico
-  - Operazioni in uscita
+  - Le operazioni in uscita
 
 
   ### Modulo 5&#58; Conclusione del corso
@@ -129,3 +129,4 @@ outlineSection: |-
 
 
   Gli studenti avranno completato il corso.
+

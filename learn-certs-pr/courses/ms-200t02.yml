@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: "Gestione dell'accesso client e del flusso di posta"
+title: Managing Client Access and Mail Flow
 metadata:
-  title: "Course MS-200T02-A: Gestione dell'accesso client e del flusso di posta"
-  description: "Course MS-200T02-A: Gestione dell'accesso client e del flusso di posta"
+  title: 'Course MS-200T02-A: Managing Client Access and Mail Flow'
+  description: 'Course MS-200T02-A: Managing Client Access and Mail Flow'
 uid: course.ms-200t02
 courseNumber: 'MS-200T02-A'
 hoursToComplete: 48
@@ -36,7 +36,7 @@ summary: |-
 
   #### Profilo dei destinatari
   L'amministratore di messaggistica distribuisce, configura, gestisce e
-  risolve i problemi dei destinatari, autorizzazioni, protezione della posta, flusso della posta e cartelle pubbliche sia in ambienti a livello locale sia in ambienti aziendali cloud. Le responsabilità includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino di emergenza, l’alta disponibilità e l’accesso del cliente. Per implementare una topologia ibrida sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365. L'amministratore di messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, licenze e integrazione con le applicazioni Microsoft 365.
+  risolve i problemi dei destinatari, autorizzazioni, protezione della posta, flusso della posta e cartelle pubbliche sia in ambienti a livello locale sia in ambienti aziendali cloud. Le responsabilità includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino di emergenza, l’alta disponibilità e l’accesso del cliente. Per implementare una topologia ibrida sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365 L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
 prerequisitesSection: |-
   - Ottima comprensione del DNS.
   - Comprensione di base della messaggistica all'interno di Exchange Server o Exchange Online.
@@ -61,8 +61,8 @@ outlineSection: |-
   ### Modulo 3&#58; Gestione del flusso di trasporto
   #### Lezioni
   - Panoramica dei servizi di trasporto
-  - Configurare il trasporto dei messaggi
-  - Gestire le regole di trasporto
+  - Configurazione del trasporto dei messaggi
+  - Gestione delle regole di trasporto
 
 
   ### Modulo 4&#58; Gestione e risoluzione dei problemi del flusso della posta
@@ -75,10 +75,11 @@ outlineSection: |-
 
   ### Modulo 5&#58; Conclusione del corso
 
-  #### Laboratorio&#58; Gestione dell'accesso del client e del flusso di posta
+  #### Laboratorio &#58; Gestione dell'accesso del client e del flusso di posta
   - Creare un connettore di ricezione personalizzato
   - Creare un connettore di invio personalizzato
   - Abilitazione e disabilitazione di ActiveSync per una singola cassetta postale
   - Abilitazione e disabilitazione di ActiveSync per caselle di posta multiple
   - Abilitare e disabilitare l'accesso MAPI a una singola cassetta postale
   - Abilitare e disabilitare l'accesso MAPI a cassette postali multiple
+
