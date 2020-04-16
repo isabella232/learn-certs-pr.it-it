@@ -1,17 +1,17 @@
 ### YamlMime:Course
-title: Installare Windows 10
+title: Installing Windows 10
 metadata:
-  title: 'Course MD-100T01-A: Installare Windows 10'
-  description: 'Course MD-100T01-A: Installare Windows 10'
+  title: 'Course MD-100T01-A: Installing Windows 10'
+  description: 'Course MD-100T01-A: Installing Windows 10'
 uid: course.md-100t01
 courseNumber: 'MD-100T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Preparare l’installazione di Windows 10.
-- skill: Installare Windows 10.
-- skill: Configurare gli aggiornamenti per Windows.
-- skill: Eseguire le attività di configurazione dopo l’installazione.
+- skill: Preparare l’installazione di Windows 10
+- skill: Installare Windows 10
+- skill: Configurare gli aggiornamenti per Windows
+- skill: Eseguire le attività di configurazione dopo l’installazione
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,16 +32,16 @@ summary: |-
   aggiornati. Nella parte finale del module verranno descritte le attività che devono comunemente essere eseguite dopo l’installazione.
 
   #### Profilo dei destinatari
-  I candidati idonei a sostenere questo esame sono professionisti IT che si occupano di installare, configurare,
+  I candidati
+  idonei a sostenere questo esame sono professionisti IT che si occupano di installare, configurare,
   gestire localmente ed eseguire la manutenzione dei servizi di base di Windows 10.
   I candidati possono talvolta avere familiarità con gli scenari aziendali e i servizi
   integrati nel cloud.
-  
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
-  - Conoscenza basilare delle reti di computer e dell’hardware.
-  - Conoscenza basilare dei sistemi operativi e delle applicazioni.
-  - Esperienza nell’uso dei sistemi operativi Windows.
+  - Conoscenza basilare delle reti di computer e dell’hardware
+  - Conoscenza basilare dei sistemi operativi e delle applicazioni
+  - Esperienza nell’uso dei sistemi operativi Windows
 outlineSection: |-
   ### Modulo 1&#58; Installare Windows
   Questo modulo è dedicato all’installazione del sistema operativo Windows 10.  Verranno fornite informazioni sulle diverse versioni di Windows 10, sui requisiti e sulle funzionalità introdotte. In particolare, nel modulo verranno fornite informazioni sulla procedura di installazione del sistema operativo e sui metodi da utilizzare per eseguire migrazioni e aggiornamenti. Infine, verranno descritti gli strumenti più comunemente utilizzati nella procedura di distribuzione.
@@ -53,7 +53,7 @@ outlineSection: |-
   - Eseguire l’aggiornamento a Windows 10
 
 
-  #### Laboratorio&#58; Installare Windows 10
+  #### Laboratorio &#58; Installare Windows 10
   - Eseguire l’aggiornamento da Windows 7 a Windows 10
   - Eseguire la migrazione delle impostazioni degli utenti
 
@@ -72,7 +72,7 @@ outlineSection: |-
   - Applicare gli aggiornamenti delle applicazioni e di Windows
 
 
-  #### Laboratorio&#58; Eseguire l'aggiornamento di Windows 10
+  #### Laboratorio &#58; Eseguire l'aggiornamento di Windows 10
   - Configurare gli aggiornamenti per un singolo dispositivo
   - Configurare gli aggiornamenti con GPO
 
@@ -94,7 +94,7 @@ outlineSection: |-
   - Descrivere l’utilizzo di Windows PowerShell
 
 
-  #### Laboratorio&#58; Configurare Windows 10
+  #### Laboratorio &#58; Configurare Windows 10
   - Utilizzare l’app Impostazioni
   - Utilizzare Pannello di controllo
   - Utilizzare Windows PowerShell
@@ -107,9 +107,10 @@ outlineSection: |-
   - Descrivere l’utilizzo di Windows PowerShell
 
 
-  ### Modulo 4&#58; Fine del corso
+  ### Modulo 4&#58; Conclusione del corso
   #### Lezioni
   - Esame Finale
 
 
-  #### Laboratorio&#58; Laboratorio con valutazione dei risultati
+  #### Laboratorio &#58; Laboratorio con valutazione dei risultati
+

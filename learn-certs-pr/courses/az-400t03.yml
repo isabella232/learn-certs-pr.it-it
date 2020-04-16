@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementare una consegna continua
+title: Implementing Continuous Delivery
 metadata:
-  title: 'Corso AZ-400T03-A: Implementare una consegna continua'
-  description: 'Corso AZ-400T03-A: Implementare una consegna continua'
+  title: 'Course AZ-400T03-A: Implementing Continuous Delivery'
+  description: 'Course AZ-400T03-A: Implementing Continuous Delivery'
 uid: course.az-400t03
 courseNumber: 'AZ-400T03-A'
 hoursToComplete: 24
@@ -46,7 +46,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Questo corso fornisce agli studenti le nozioni e le competenze necessarie per implementare la consegna continua. Agli studenti verrà spiegato come progettare una strategia di rilascio, configurare un flusso di lavoro per la gestione del rilascio e implementare un modello di distribuzione appropriato.
-  
   #### Profilo dei destinatari
   Gli studenti che decidono di partecipare a questo corso sono persone interessate a implementare i processi DevOps o a sostenere l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
 prerequisitesSection: |-
@@ -59,8 +58,8 @@ outlineSection: |-
   - Creare una pipeline di rilascio di alta qualità
   - Scegliere un modello di distribuzione
   - Scegliere lo strumento appropriato per la gestione del rilascio
-  #### Laboratorio&#58; Creare una strategia di rilascio
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Creare una strategia di rilascio
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Distinguere tra un rilascio e una distribuzione
   - Definire i componenti di una pipeline di rilascio
   - Illustrare gli elementi da tenere presenti durante la creazione di una strategia di rilascio
@@ -68,8 +67,7 @@ outlineSection: |-
   - Descrivere i principi dei controlli di rilascio e spiegare come gestire le note di rilascio e la documentazione
   - Illustrare i modelli di distribuzione, sia in termini tradizionali che moderni
   - Scegliere uno strumento per la gestione del rilascio
-
-
+  
   ### Modulo 2&#58; Configurare un flusso di lavoro per la gestione del rilascio
   #### Lezioni
   - Creare una pipeline di rilascio
@@ -80,18 +78,18 @@ outlineSection: |-
   - Automatizzare il controllo dell’integrità
 
 
-  #### Laboratorio&#58; Automatizzare le distribuzioni dell’infrastruttura nel cloud con Terraform e Azure Pipelines
+  #### Laboratorio &#58; Automatizzare le distribuzioni dell’infrastruttura nel cloud con Terraform e Azure Pipelines
 
-  #### Laboratorio&#58; Configurare chiavi private nella pipeline con Azure Key Vault
+  #### Laboratorio &#58; Configurare chiavi private nella pipeline con Azure Key Vault
 
-  #### Laboratorio&#58; Configurare ed eseguire test di carico
+  #### Laboratorio &#58; Configurare ed eseguire test di carico
 
-  #### Laboratorio&#58; Configurare ed eseguire test funzionali
+  #### Laboratorio &#58; Configurare ed eseguire test funzionali
 
-  #### Laboratorio&#58; Utilizzare Monitoraggio di Azure come controllo di rilascio
+  #### Laboratorio &#58; Utilizzare Monitoraggio di Azure come controllo di rilascio
 
-  #### Laboratorio&#58; Creare una dashboard di rilascio
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Creare una dashboard di rilascio
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Spiegare la terminologia utilizzata in Azure DevOps e in altri strumenti per la gestione del rilascio
   - Spiegare cos’è un’attività di compilazione e rilascio, in cosa consiste e ilustrare alcune delle attività di distribuzione disponibili
   - Classificare un agente, una coda di agenti e un pool di agenti
@@ -115,11 +113,12 @@ outlineSection: |-
   - Distribuzione con esposizione progressiva
 
 
-  #### Laboratorio&#58; Distribuzioni Blue Green
+  #### Laboratorio &#58; Distribuzioni Blue Green
 
-  #### Laboratorio&#58; Gestione traffico
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Gestione traffico
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere i modelli di distribuzione
   - Implementare una distribuzione Blue Green
   - Implementare un rilascio Canary
   - Implementare una distribuzione con esposizione progressiva
+

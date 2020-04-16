@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Definizione di una strategia di messaggistica ibrida
+title: Defining a Hybrid Messaging Strategy
 metadata:
-  title: 'Course MS-201T01-A: Definizione di una strategia di messaggistica ibrida'
-  description: 'Course MS-201T01-A: Definizione di una strategia di messaggistica ibrida'
+  title: 'Course MS-201T01-A: Defining a Hybrid Messaging Strategy'
+  description: 'Course MS-201T01-A: Defining a Hybrid Messaging Strategy'
 uid: course.ms-201t01
 courseNumber: 'MS-201T01-A'
 hoursToComplete: 48
@@ -34,7 +34,7 @@ summary: |-
 
   #### Profilo dei destinatari
   L'amministratore di messaggistica distribuisce, configura, gestisce e
-  risolve i problemi dei destinatari, autorizzazioni, protezione della posta, flusso della posta e cartelle pubbliche sia in ambienti a livello locale sia in ambienti aziendali cloud. Le responsabilità includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino di emergenza, l’alta disponibilità e l’accesso del cliente. Per implementare una topologia ibrida sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365. L'amministratore di messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, licenze e integrazione con le applicazioni Microsoft 365.
+  risolve i problemi dei destinatari, autorizzazioni, protezione della posta, flusso della posta e cartelle pubbliche sia in ambienti a livello locale sia in ambienti aziendali cloud. Le responsabilità includono l’igiene dei messaggi, l’infrastruttura di messaggistica, la configurazione ibrida e la migrazione. L’amministratore della messaggistica implementa e gestisce anche il ripristino di emergenza, l’alta disponibilità e l’accesso del cliente. Per implementare una topologia ibrida sicura che soddisfi le necessità aziendali di un’organizzazione moderna, l’amministratore della messaggistica deve collaborare con l’amministratore della sicurezza e l’amministratore aziendale Microsoft 365 L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
 prerequisitesSection: |-
   - Ottima comprensione del DNS.
   - Comprensione di base della messaggistica all'interno di Exchange Server o Exchange Online.
@@ -64,8 +64,9 @@ outlineSection: |-
   - Risoluzione dei problemi della distribuzione ibrida
 
 
-  ### Modulo 4&#58; Laboratorio - Distribuzione e gestione ibrida
+  ### Modulo 4&#58; Lab - Distribuzione e gestione ibrida
 
-  #### Laboratorio&#58; Implementazione e gestione ibrida
+  #### Laboratorio &#58; Implementazione e gestione ibrida
   - Esercizio 1&#58; Eseguire una migrazione della casella postale a Microsoft 365
   - Esercizio 2&#58; Gestire scenari ibridi
+

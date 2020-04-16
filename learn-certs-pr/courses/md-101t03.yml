@@ -1,19 +1,19 @@
 ### YamlMime:Course
-title: Proteggere i desktop e dispositivi moderni
+title: Protecting Modern Desktops and Devices
 metadata:
-  title: 'Course MD-101T03-A: Proteggere i desktop e dispositivi moderni'
-  description: 'Course MD-101T03-A: Proteggere i desktop e dispositivi moderni'
+  title: 'Course MD-101T03-A: Protecting Modern Desktops and Devices'
+  description: 'Course MD-101T03-A: Protecting Modern Desktops and Devices'
 uid: course.md-101t03
 courseNumber: 'MD-101T03-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Descrivere i vantaggi e le funzionalità di Azure AD.
-- skill: Gestire gli utenti utilizzado Azure AD con Active Directory DS.
-- skill: Implementare Windows Hello for Business.
-- skill: Configurare le regole per l’accesso condizionale in base ai criteri di conformità.
-- skill: Descrivere i vari strumenti che possono essere utiizzati per proteggere i dispositivi e i dati.
-- skill: Implementare Advanced Threat Protection di Windows Defender.
+- skill: Descrivere i vantaggi e le funzionalità di Azure AD
+- skill: Gestire gli utenti utilizzado Azure AD con Active Directory DS
+- skill: Implementare Windows Hello for Business
+- skill: Configurare le regole per l’accesso condizionale in base ai criteri di conformità
+- skill: Descrivere i vari strumenti che possono essere utiizzati per proteggere i dispositivi e i dati
+- skill: Implementare Advanced Threat Protection di Windows Defender
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -38,7 +38,7 @@ prerequisitesSection: |-
   di tecnologie di gestione locali.
 outlineSection: |-
   ### Modulo 1&#58; Gestire l’autenticazione in Azure AD
-  In questo corso gli studenti apprenderanno cosa si intende per directory nel cloud in Azure Active Directory (Azure AD). Verranno descritte le somiglianze e le differenze tra Azure AD e Active Directory DS e verrà spiegato agli studenti come sincronizzare entrambi. Gli studenti impareranno anche in cosa consiste la gestione delle identità in Azure AD e come proteggere le identità con Windows Hello for Business, Azure AD Identity Protection e l’autenticazione a più fattori. Nella parte finale del modulo verrà spiegato come accedere in modo sicuro alle risorse aziendale e presentati concetti quali Always On VPN e le connettività remota in Windows 10.
+  In questo corso gli studenti apprenderanno cosa si intende per directory nel cloud in Azure Active Directory (Azure AD). Verranno descritte le somiglianze e le differenze tra Azure AD e Active Directory DS e verrà spiegato agli studenti come sincronizzare entrambi. Gli studenti impareranno anche in cosa consiste la gestione delle identità in Azure AD e come proteggere le identità con Windows Hello for Business, Azure AD Identity Protection e l’autenticazione a più fattori. Nella parte finale del modulo verrà spiegato come accedere in modo sicuro alle risorse aziendale e presentati concetti quali Always On VPM e le connettività remota in Windows 10.
   #### Lezioni
   - Panoramica di Azure AD
   - Gestire le identità in Azure AD
@@ -47,7 +47,7 @@ outlineSection: |-
   - Abilitare l’accesso alle risorse aziendali
 
 
-  #### Laboratorio&#58; Esercitazione pratica - Gestire gli oggetti e l’autenticazione in Azure AD
+  #### Laboratorio &#58; Esercitazione pratica - Gestire gli oggetti e l’autenticazione in Azure AD
   - Abilitare e configurare Azure AD Premium con il tenant Enterprise Mobility + Security (EMS)
   - Creare oggetti utente e gruppi con l’interfaccia utente e Windows PowerShell
   - Configurare Reimpostazione password self-service (SSPR) per gli account utente in Azure AD
@@ -55,11 +55,11 @@ outlineSection: |-
 
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere le funzionalità di Azure AD.
-  - Gestire gli utenti utilizzando Azure AD con Active Directory DS.
-  - Implementare Windows Hello for Business.
+  - Descrivere le funzionalità di Azure AD
+  - Gestire gli utenti utilizzando Azure AD con Active Directory DS
+  - Implementare Windows Hello for Business
   - Aggiungere dispositivi ad Azure AD.
-  - Descrivere i metodi per abilitare l’accesso da reti esterne.
+  - Descrivere i metodi per abilitare l’accesso da reti esterne
 
 
   ### Modulo 2&#58; Gestire i dispositivi e i relativi criteri
@@ -70,17 +70,17 @@ outlineSection: |-
   - Implementare i criteri di conformità per i dispositivi
 
 
-  #### Laboratorio&#58; Esercitazione pratica - Gestire i dispositivi
+  #### Laboratorio &#58; Esercitazione pratica - Gestire i dispositivi
   - Configurare Microsoft Intune per la gestione dei dispositivi
   - Configurare i criteri per la conformità e i profili degli utenti
   - Registrare i dispositivi di Windows 10 e gestire la conformità
 
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere la gestione dei dispositivi mobile con Intune.
-  - Creare e assegnare profili dispositivo per proteggere i dati sui dispositivi.
-  - Distrbuire criteri per la conformità e l’accesso condizionale.
-  - Utilizzare Intune per monitorare la conformità dei dispositivi.
+  - Descrivere la gestione dei dispositivi mobile con Intune
+  - Creare e assegnare profili dispositivo per proteggere i dati sui dispositivi
+  - Distrbuire criteri per la conformità e l’accesso condizionale
+  - Utilizzare Intune per monitorare la conformità dei dispositivi
 
 
   ### Modulo 3&#58; Gestire la sicurezza
@@ -91,7 +91,7 @@ outlineSection: |-
   - Gestire Windows Defender in Windows 10
 
 
-  #### Laboratorio&#58; Esercitazione pratica - Gestire la sicurezza in Windows 10
+  #### Laboratorio &#58; Esercitazione pratica - Gestire la sicurezza in Windows 10
   - Configurare EFS (Encrypting File System
   - Configurare BitLocker
   - Configurare i criteri WIP in Intune
@@ -99,14 +99,15 @@ outlineSection: |-
 
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere i metodi che possono essere utilizzati per proteggere i dati dei dispositivi.
-  - Descrivere le funzionalità e i vantaggi di Windows Defender ATP.
-  - Distribuire e gestire le impostazioni per i client di Windows Defender.
+  - Descrivere i metodi che possono essere utilizzati per proteggere i dati dei dispositivi
+  - Descrivere le funzionalità e i vantaggi di Windows Defender ATP
+  - Distribuire e gestire le impostazioni per i client di Windows Defender
 
 
-  ### Modulo 4&#58; Fine del corso
+  ### Modulo 4&#58; Conclusione del corso
   #### Lezioni
   - Esame Finale
 
 
-  #### Laboratorio&#58; Laboratorio con valutazione dei risultati
+  #### Laboratorio &#58; Laboratorio con valutazione dei risultati
+

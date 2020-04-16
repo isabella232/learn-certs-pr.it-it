@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Distribuire e configurare un’infrastruttura
+title: Deploying and Configuring Infrastructure
 metadata:
-  title: 'Corso AZ-300T01-A: Distribuire e configurare un’infrastruttura'
-  description: 'Corso AZ-300T01-A: Distribuire e configurare un’infrastruttura'
+  title: 'Course AZ-300T01-A: Deploying and Configuring Infrastructure'
+  description: 'Course AZ-300T01-A: Deploying and Configuring Infrastructure'
 uid: course.az-300t01
 courseNumber: 'AZ-300T01-A'
 hoursToComplete: 24
@@ -60,14 +60,13 @@ summary: |-
 outlineSection: |-
   ### Modulo 1&#58; Gestire le sottoscrizioni e le risorse di Azure
   In questo modulo verranno descritte le funzionalità di monitoraggio di Azure, che comprendono gli avvisi di Azure, i log di attività di Azure e Log Analytics. Gli studenti imparerano come ricercare, analizzare e interpretare i dati visualizzati in Log Analytics.
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Gestire le sottoscrizioni e le risorse di Azure
-
 
   ### Modulo 2&#58; Implementare e gestire l’archiviazione
   In questo modulo verrà spiegato agli studenti cosa sono gli account di archiviazione di Azure, la replica dei dati e come utilizzare Azure Storage Explorer e monitorare l'archiviazione.
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Implementare e gestire l'archiviazione
 
 
@@ -81,7 +80,7 @@ outlineSection: |-
 
   Gli studenti imparerano anche come proteggere i dati eseguendo backup regolari utilizzando una snaphot, Azure Backup o Azure Site Recovery.
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Distribuire e gestire le macchine virtuali
 
 
@@ -93,7 +92,7 @@ outlineSection: |-
   - Peering di reti virtuali per considerazioni regionali e globali
   - Transito tramite gateway
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Configurare e gestire le reti virtuali
 
 
@@ -105,6 +104,6 @@ outlineSection: |-
   - Reimpostazione password self-service (SSPR)
   - Metodi di autenticazione per la reimpostazione della password
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Gestire le identità con Azure AD
 

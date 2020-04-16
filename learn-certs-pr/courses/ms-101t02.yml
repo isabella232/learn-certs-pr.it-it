@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestione della conformità di Microsoft 365
+title: Microsoft 365 Compliance Management
 metadata:
-  title: 'Course MS-101T02-A: Gestione della conformità di Microsoft 365'
-  description: 'Course MS-101T02-A: Gestione della conformità di Microsoft 365'
+  title: 'Course MS-101T02-A: Microsoft 365 Compliance Management'
+  description: 'Course MS-101T02-A: Microsoft 365 Compliance Management'
 uid: course.ms-101t02
 courseNumber: 'MS-101T02-A'
 hoursToComplete: 48
@@ -95,20 +95,21 @@ outlineSection: |-
 
   ### Modulo 6&#58; Laboratorio pratico online
 
-  #### Laboratorio&#58; Impostare l’ambiente del laboratorio
+  #### Laboratorio &#58; Impostare l’ambiente del laboratorio
   - Esercizio 1&#58; Inizializzare la compliance nella vostra organizzazione
 
 
-  #### Laboratorio&#58; Archiviazione e conservazione in Microsoft 365
+  #### Laboratorio &#58; Archiviazione e conservazione in Microsoft 365
   - Esercizio 1&#58; Configurare le politiche e i tag di ritenzione
   - Esercizio 2&#58; Configurare AIP e WIP
 
 
-  #### Laboratorio&#58; Implementare la Governance dei dati
+  #### Laboratorio &#58; Implementare la Governance dei dati
   - Esercizio 1&#58; Test delle politiche DLP
   - Esercizio 2&#58; Uso della Protezione delle Informazioni di Azure
   - Esercizio 3&#58; Uso della Protezione delle Informazioni di Windows
 
 
-  #### Laboratorio&#58; Verifica delle politiche di governance dei dati
+  #### Laboratorio &#58; Verifica delle politiche di governance dei dati
   - Esercizio 1&#58; Esaminare i vostri dati Microsoft 365
+

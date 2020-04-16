@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Sviluppare soluzioni di calcolo Azure IaaS
+title: Develop Azure Infrastructure as a Service compute solutions
 metadata:
-  title: 'Corso AZ-203T01-A: Sviluppare soluzioni di calcolo Azure IaaS'
-  description: 'Corso AZ-203T01-A: Sviluppare soluzioni di calcolo Azure IaaS'
+  title: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
+  description: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
 uid: course.az-203t01
 courseNumber: 'AZ-203T01-A'
 hoursToComplete: 24
@@ -41,10 +41,10 @@ outlineSection: |-
   - Eseguire il provisioning di macchine virtuali
   - Creare modelli ARM
   - Configurare Crittografia dischi di Azure per le macchine virtuali
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Dimostrare come creare e distribuire macchine virtuali utilizzando il portale di Azure, PowerShell e il codice.
-  - Creare e distribuire ARM utilizzando il portale di Azure e Visual Studio.
-  - Descrivere le diverse opzioni per la crittografia e dimostrare come crittografare le distribuzioni nuove ed esistenti.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Dimostrare come creare e distribuire macchine virtuali utilizzando il portale di Azure, PowerShell e il codice
+  - Creare e distribuire ARM utilizzando il portale di Azure e Visual Studio
+  - Descrivere le diverse opzioni per la crittografia e dimostrare come crittografare le distribuzioni nuove ed esistenti
 
   ### Modulo 2&#58; Implementare processi batch utilizzando i servizi Azure Batch
   Azure Batch crea e gestisce un pool di nodi di calcolo (macchine virtuali), installa le applicazioni che l’utente desidera eseguire e programma l’esecuzione dei processi sui nodi.
@@ -53,8 +53,7 @@ outlineSection: |-
   - Eseguire un processo batch utilizzando l’interfaccia della riga di comando di Azure e il portale di Azure
   - Eseguire i processi batch utilizzando il codice
   - Gestire i processi batch utilizzando l’API del servizio Azure Batch
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Spiegare come funziona il servizio Azure Batch
   - Creare ed eseguire processi batch utilizzando l’interfaccia della riga di comando di Azure
   - Creare ed eseguire processi batch utilizzando il codice
@@ -69,8 +68,9 @@ outlineSection: |-
   - Pubblicare un’immagine nel Registro Azure Container
   - Eseguire contenitori utilizzando un’istanza di Azure Container o AKS
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere i concetti di base di AKS
   - Spiegare come distribuire i cluster di AKS
   - Pubblicare un’immagine nel Registro Azure Container
   - Descrivere le istanze di Azure Container e spiegare come utilizzarle per la distribuzione
+

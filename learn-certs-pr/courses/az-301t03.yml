@@ -1,20 +1,20 @@
 ### YamlMime:Course
-title: Progettare soluzioni per la distribuzione, la migrazione e l’integrazione
+title: Designing for Deployment, Migration, and Integration
 metadata:
-  title: 'Corso AZ-301T03-A: Progettare soluzioni per la distribuzione, la migrazione e l’integrazione'
-  description: 'Corso AZ-301T03-A: Progettare soluzioni per la distribuzione, la migrazione e l’integrazione'
+  title: 'Course AZ-301T03-A: Designing for Deployment, Migration, and Integration'
+  description: 'Course AZ-301T03-A: Designing for Deployment, Migration, and Integration'
 uid: course.az-301t03
 courseNumber: 'AZ-301T03-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Creare un gruppo di risorse.
-- skill: Aggiungere risorse a un gruppo di risorse.
-- skill: Distribuire un modello ARM a un gruppo di risorse.
-- skill: Integrare un’API o un’app per la logica con il servizio Gestione API.
-- skill: Progettare un piano di servizio app o una distribuzione per più aree geografiche per migliorare le prestazioni e la scalabilità.
-- skill: Integrare un’API o un’app per la logica con il servizio Gestione API.
-- skill: Progettare un piano di servizio app o una distribuzione per più aree geografiche per migliorare le prestazioni e la scalabilità.
+- skill: Creare un gruppo di risorse
+- skill: Aggiungere risorse a un gruppo di risorse
+- skill: Distribuire un modello ARM a un gruppo di risorse
+- skill: Integrare un’API o un’app per la logica con il servizio Gestione API
+- skill: Progettare un piano di servizio app o una distribuzione per più aree geografiche per migliorare le prestazioni e la scalabilità
+- skill: Integrare un’API o un’app per la logica con il servizio Gestione API
+- skill: Progettare un piano di servizio app o una distribuzione per più aree geografiche per migliorare le prestazioni e la scalabilità
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -53,33 +53,33 @@ summary: |-
 outlineSection: |-
   ### Modulo 1&#58; Distribuire le risorse con Azure Resource Manager
   Questo modulo descrive i principi di base di ARM (Azure Resource Platform) e concetti essenziali come le distribuzioni, le risorse, i modelli, i gruppi di risorse e i tag. Il modulo spiega approfonditamente in cosa consiste la distribuzione automatica delle risorse con i modelli ARM.
-  #### Laboratorio&#58; Distribuire le risorse con Azure Resource Manager
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Creare un gruppo di risorse.
-  - Aggiungere risorse a un gruppo di risorse.
-  - Distribuire un modello ARM a un gruppo di risorse.
-  - Filtrare le risorse utilizzando tag.
-  - Creare una distribuzione complessa utilizzando gli strumenti Blocchi predefiniti di Azure.
+  #### Laboratorio &#58; Distribuire le risorse con Azure Resource Manager
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Creare un gruppo di risorse
+  - Aggiungere risorse a un gruppo di risorse
+  - Distribuire un modello ARM a un gruppo di risorse
+  - Filtrare le risorse utilizzando tag
+  - Creare una distribuzione complessa utilizzando gli strumenti Blocchi predefiniti di Azure
 
   ### Modulo 2&#58; Creare applicazioni server gestite in Azure
   Questo modulo spiega come è possibile utilizzare i servizi di hosting delle applicazioni senza server in Azure
   per l’hosting delle applicazioni Web, le API REST, i flussi di lavoro di integrazione e i carichi di lavoro HPC senza che sia necessario gestire risorse server specifiche. Il modulo descrive in particolare i componenti correlati a servizi app, come App Web, App API, App mobili, App logiche e Funzioni.
-
-  #### Laboratorio&#58; Distribuire carichi di lavoro con contenitori gestiti in Azure
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Scegliere tra il codice dell’applicazione in hosting o i contenitori di un’istanza Servizio app.
-  - Descrivere le differenze tra le app API, mobili e Web.
-  - Integrare un’API o un’app per la logica con il servizio Gestione API.
-  - Progettare un piano di servizio app o una distribuzione per più aree geografiche per migliorare le prestazioni e la scalabilità.
+  #### Laboratorio &#58; Distribuire carichi di lavoro con contenitori gestiti in Azure
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Scegliere tra il codice dell’applicazione in hosting o i contenitori di un’istanza Servizio app
+  - Descrivere le differenze tra le app API, mobili e Web
+  - Integrare un’API o un’app per la logica con il servizio Gestione API
+  - Progettare un piano di servizio app o una distribuzione per più aree geografiche per migliorare le prestazioni e la scalabilità
 
 
   ### Modulo 3&#58; Creare applicazioni senza server in Azure
   Questo modulo spiega come è possibile utilizzare i servizi di hosting delle applicazioni senza server in Azure
   per l’hosting delle applicazioni Web, le API REST, i flussi di lavoro di integrazione e i carichi di lavoro HPC senza che sia necessario gestire risorse server specifiche. Il modulo descrive in particolare i componenti correlati a servizi app, come App Web, App API, App mobili, App logiche e Funzioni.
 
-  #### Laboratorio&#58; Distribuire carichi di lavoro senza server in Azure
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Scegliere tra il codice dell’applicazione in hosting o i contenitori di un’istanza Servizio app.
-  - Descrivere le differenze tra le app API, mobili e Web.
-  - Integrare un’API o un’app per la logica con il servizio Gestione API.
-  - Progettare un piano di servizio app o una distribuzione per più aree geografiche per migliorare le prestazioni e la scalabilità.
+  #### Laboratorio &#58; Distribuire carichi di lavoro senza server in Azure
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Scegliere tra il codice dell’applicazione in hosting o i contenitori di un’istanza Servizio app
+  - Descrivere le differenze tra le app API, mobili e Web
+  - Integrare un’API o un’app per la logica con il servizio Gestione API
+  - Progettare un piano di servizio app o una distribuzione per più aree geografiche per migliorare le prestazioni e la scalabilità
+

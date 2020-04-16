@@ -1,27 +1,27 @@
 ### YamlMime:Course
-title: Pianificare e amministrare SharePoint 2016
+title: Planning and Administering SharePoint 2016
 metadata:
-  title: 'Corso 20339-1-A: Pianificare e amministrare SharePoint 2016'
-  description: 'Corso 20339-1-A: Pianificare e amministrare SharePoint 2016'
+  title: 'Course 20339-1A: Planning and Administering SharePoint 2016'
+  description: 'Course 20339-1A: Planning and Administering SharePoint 2016'
 uid: course.20339-1
 courseNumber: '20339-1A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Descrivere le funzionalità principali di SharePoint 2016.
-- skill: Progettare un’architettura dati per una distribuzione di SharePoint 2016.
-- skill: Progettare un’architettura logica per una distribuzione di SharePoint 2016.
-- skill: Progettare l’architettura fisica per una distribuzione di SharePoint 2016.
-- skill: Installare e configurare SharePoint 2016.
-- skill: Creare e configurare applicazioni Web e raccolte di siti.
-- skill: Pianificare e configurare le applicazioni dei servizi per una distribuzione di SharePoint 2016.
-- skill: Gestire utenti e autorizzazioni, e proteggere il contenuto in una distribuzione di SharePoint 2016.
-- skill: Configurare l’autenticazione in una distribuzione di SharePoint 2016.
-- skill: Configurare la sicurezza a livello di piattaforma e di farm in una distribuzione di SharePoint 2016.
-- skill: Gestire la tassonomia delle informazioni nelle applicazioni Web e nelle raccolte di siti di SharePoint.
-- skill: Configurare e gestire i profili utente e i destinatari.
-- skill: Configurare e gestire l’esperienza di ricerca in SharePoint 2016.
-- skill: Monitorare, eseguire la manutenzione e risolvere i problemi di una distribuzione di SharePoint 2016.
+- skill: Descrivere le funzionalità principali di SharePoint 2016
+- skill: Progettare un’architettura dati per una distribuzione di SharePoint 2016
+- skill: Progettare un’architettura logica per una distribuzione di SharePoint 2016
+- skill: Progettare l’architettura fisica per una distribuzione di SharePoint 2016
+- skill: Installare e configurare SharePoint 2016
+- skill: Creare e configurare applicazioni Web e raccolte di siti
+- skill: Pianificare e configurare le applicazioni dei servizi per una distribuzione di SharePoint 2016
+- skill: Gestire utenti e autorizzazioni, e proteggere il contenuto in una distribuzione di SharePoint 2016
+- skill: Configurare l’autenticazione in una distribuzione di SharePoint 2016
+- skill: Configurare la sicurezza a livello di piattaforma e di farm in una distribuzione di SharePoint 2016
+- skill: Gestire la tassonomia delle informazioni nelle applicazioni Web e nelle raccolte di siti di SharePoint
+- skill: Configurare e gestire i profili utente e i destinatari
+- skill: Configurare e gestire l’esperienza di ricerca in SharePoint 2016
+- skill: Monitorare, eseguire la manutenzione e risolvere i problemi di una distribuzione di SharePoint 2016
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -36,28 +36,31 @@ exams:
 summary: |-
   Questo corso, della durata di cinque giorni, consente agli studenti di acquisire le nozioni e le competenze necessarie per pianificare e amministrare un ambiente Microsoft SharePoint 2016. Durante il corso verrà spiegato agli studenti come distribuire, amministrare e risolvere i problemi di un ambiente SharePoint. Nel corso vengono anche descritte linee guida, procedure consigliate e considerazioni utili per ottimizzare la distribuzione di SharePoint.
   Questo è il primo di due corsi pensati per i professionisti IT ed è allineato con la certificazione SharePoint 2016 IT Pro.
-  
+
   #### Profilo dei destinatari
   L'esame è pensato per i professionisti IT che desiderano imparare come installare, configurare, distribuire e gestire le installazioni di SharePoint 2016 in un data center o nel cloud.
-  
+
   In genere, gli studenti hanno più di un anno di esperienza pratica* nella pianificazione e la manutenzione di SharePoint e due anni di esperienza nell’uso di altre tecnologie di base da cui dipende SharePoint, tra cui Windows Server 2012 R2 o versione successiva, Internet Information Services (IIS), Microsoft SQL Server 2014 o versione successiva, Active Directory Domain Services (AD DS) e servizi di infrastruttura di rete.
-  
+
   Generalmente le qualifiche minime richieste ai candidati sono&#58;
-  Essere professionisti IT che pianificano, implementano ed eseguono la manutenzione di una distribuzione di SharePoint 2016 con più server; Avere una conoscenza professionale e, preferibilmente, pratica di SharePoint Online; Avere un’ampia conoscenza dei carichi di lavoro di SharePoint; Essere esperti nella gestione della business continuity, compresi il backup dei dati, il ripristino e l’alta disponibilità; Essere esperti nell’uso delle tecnologie di autenticazione e sicurezza; Sapere usare Windows PowerShell
-  *I candidati devono aver conseguito un'esperienza pratica o professionale  basata su manzioni tali da poter lavorare con più soluzioni nello spazio di SharePoint, come la gestione dei documenti, la gestione dei contenuti e le ricerche.
+  - Essere professionisti IT che pianificano, implementano ed eseguono la manutenzione di una distribuzione di SharePoint 2016 con più server
+  - Avere una conoscenza professionale e, preferibilmente, pratica di SharePoint Online
+  - Avere un’ampia conoscenza dei carichi di lavoro di SharePoint
+  - Essere esperti nella gestione della business continuity, compresi il backup dei dati, il ripristino e l’alta disponibilità
+  - Essere esperti nell’uso delle tecnologie di autenticazione e sicurezza
+  - Sapere usare Windows PowerShell
+  *I candidati devono aver conseguito l’esperienza pratica o professionale grazie a un’esperienza lavorativa in un ruolo basato su soluzioni che comportasse lavorare con più soluzioni nello spazio di SharePoint, come la gestione dei documenti, la gestione dei contenuti e le ricerche.
 prerequisitesSection: |-
-  Prima di partecipare a questo corso,
-  gli studenti devono sapere&#58;
-  - Gestire il software in un ambiente server Windows Server 2012 o Windows Server 2012 R2 Enterprise.
-  - Saper distribuire e gestire le applicazioni in modo nativo, virtuale e nel cloud.
-  - Sapere amministrare IIS.
-  - Configurare AD DS in modo che possa essere utilizzato per l’autenticazione, l’autorizzazione e come archivio utenti.
-  - Gestire un’applicazione in remoto utilizzando Windows PowerShell 4.0.
+  Prima di partecipare a questo corso, gli studenti devono sapere&#58;
+  - Gestire il software in un ambiente server Windows Server 2012 o Windows Server 2012 R2 Enterprise
+  - Saper distribuire e gestire le applicazioni in modo nativo, virtuale e nel cloud
+  - Sapere amministrare IIS
+  - Configurare AD DS in modo che possa essere utilizzato per l’autenticazione, l’autorizzazione e come archivio utenti
+  - Gestire un’applicazione in remoto utilizzando Windows PowerShell 4.0
   - Gestire i database e i ruoli server in SQL Server.
   - Collegare le applicazioni a SQL Server.
-  - Sapere implementare la sicurezza.
-  - Utilizzare le macchine virtuali Hyper-V di Microsoft.
-  
+  - Sapere implementare la sicurezza
+  - Utilizzare le macchine virtuali Hyper-V di Microsoft
   I candidati ideali devono avere almeno un anno di esperienza nella distribuzione e nell’amministrazione di più farm di SharePoint 2013 in aziende di grandi dimensioni. Poiché molti clienti non hanno ancora effettuato l’aggiornamento da SharePoint 2010, è accettabile anche i candidati abbiano almeno due anni di esperienza nell’uso di SharePoint 2010. Tuttavia, dovranno comunque conoscere le differenze tra SharePoint 2010 e SharePoint 2013, in particolare per ciò che concerne l’ibridizzazione.
 outlineSection: |-
   ### Modulo 1&#58; Introduzione a SharePoint 2016
@@ -66,12 +69,10 @@ outlineSection: |-
   - Componenti principali di una distribuzione di SharePoint
   - Nuove funzionalità di SharePoint 2016
   - Opzioni per la distribuzione di SharePoint 2016
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Identificare l’architettura e le fuzionalità di SharePoint 2016.
-  - Identificare le funzionalità nuove e obsolete di SharePoint 2016.
-  - Identificare le opzioni per la distribuzione di SharePoint 2016.
-
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Identificare l’architettura e le fuzionalità di SharePoint 2016
+  - Identificare le funzionalità nuove e obsolete di SharePoint 2016
+  - Identificare le opzioni per la distribuzione di SharePoint 2016
 
   ### Modulo 2&#58; Progettare un’architettura dati
   Questo modulo spiega come determinare i requisiti aziendali e gli elementi fondamentali per portare a termine con un successo un progetto relativo a un’architettura dati. Spiega inoltre come strutturare le informazioni in una distribuzione di SharePoint 2016 e semplificare la ricerca e il recupero di informazioni.
@@ -82,20 +83,20 @@ outlineSection: |-
   - Pianificare la rivelabilità
 
 
-  #### Laboratorio&#58; Progettare un’architettura dati - Parte uno
+  #### Laboratorio &#58; Progettare un’architettura dati - Parte uno
   - Identificare le colonne dei siti e i tipi di contenuti
 
 
-  #### Laboratorio&#58; Creare un’architettura dati - Parte due
+  #### Laboratorio &#58; Creare un’architettura dati - Parte due
   - Progettare una tassonomia aziendale
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Spiegare in che modo la comprensione dei requisiti aziendali
-  favorisca la progettazione di un’architettura dati aziendale.
+  favorisca la progettazione di un’architettura dati aziendale
   - Descrivere i componenti principali di SharePoint
-  2016 che possono essere utilizzati per distribuire un’architettura dati.
+  2016 che possono essere utilizzati per distribuire un’architettura dati
   - Pianificare la rilevabilità nell’ambito di una distribuzione
-  di un’architettura dati.
+  di un’architettura dati
 
 
   ### Modulo 3&#58; Progettare un’archittetura logica
@@ -105,14 +106,14 @@ outlineSection: |-
   - Documentare l’architettura logica
 
 
-  #### Laboratorio&#58; Progettare un’architettura logica
+  #### Laboratorio &#58; Progettare un’architettura logica
   - Pianificare un'architettura logica
   - Creare il diagramma di un’architettura logica
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Associare i requisiti aziendali ai componenti dell’architettura di SharePoint 2016.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Associare i requisiti aziendali ai componenti dell’architettura di SharePoint 2016
   - Illustrare l’importanza della documentazione e descrivere le opzioni disponibili
-  per documentare l’architettura logica.
+  per documentare l’architettura logica
 
 
   ### Modulo 4&#58; Progettare un’architettura fisica
@@ -124,18 +125,17 @@ outlineSection: |-
   - Associare il progetto di un’architettura logica a quello di un’architettura fisica
 
 
-  #### Laboratoio&#58; Progettare un’architettura fisica
+  #### Laboratorio &#58; Progettare un’architettura fisica
   - Progettare un'architettura fisica
   - Sviluppare un diagramma per la progettazione di un’architettura fisica
 
-  Al termine
-  di questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere i requisiti dei componenti fisici
-  necessari per una distribuzione di SharePoint 2016.
+  necessari per una distribuzione di SharePoint 2016
   - Descrivere i requisiti dei componenti di supporto
-  necessari per una distribuzione di successo di SharePoint 2016.
-  - Identificare le topologie di farm di SharePoint.
-  - Associare un progetto di un’architettura logica a quello di un’architettura fisica.
+  necessari per una distribuzione di successo di SharePoint 2016
+  - Identificare le topologie di farm di SharePoint
+  - Associare un progetto di un’architettura logica a quello di un’architettura fisica
 
 
   ### Modulo 5&#58; Installare e configurare SharePoint 2016
@@ -146,67 +146,65 @@ outlineSection: |-
   - Configurare le impostazioni per le farm di SharePoint 2016
 
 
-  #### Laboratorio&#58; Distribuire e configurare SharePoint 2016 – Parte uno
+  #### Laboratorio &#58; Distribuire e configurare SharePoint 2016 – Parte uno
   - Distribuire una farm di SharePoint 2016
 
 
-  #### Laboratorio&#58; Distribuire e configurare SharePoint 2016 – Parte due
+  #### Laboratorio &#58; Distribuire e configurare SharePoint 2016 – Parte due
   - Configurare la posta elettronica in arrivo
   - Configurare la posta elettronica in uscita
   - Configurare l’integrazione con Office Online Server
 
-  Al termine
-  di questo modulo, gli studenti saranno in grado di&#58;
-  - Installare SharePoint 2016.
-  - Distribuire e configurare SharePoint 2016.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Installare SharePoint 2016
+  - Distribuire e configurare SharePoint 2016
   - Compilare lo script per l’installazione e la configurazione di
   SharePoint 2016.
-  - Configurare le impostazioni delle farm di SharePoint 2016.
+  - Configurare le impostazioni delle farm di SharePoint 2016
 
 
   ### Modulo 6&#58; Creare applicazioni Web e raccolte di siti
   Questo modulo spiega come creare applicazioni Web in SharePoint 2016 e come configurare tali applicazioni. Spiega inoltre come creare e configurare raccolte di siti in SharePoint 2016 e SharePoint Online.
   #### Lezioni
+  - 	Creare applicazioni Web
+  - 	Configurare applicazioni Web
+  - 	Creare e configurare raccolte di siti
+
+
+  #### Laboratorio &#58; Creare e configurare applicazioni Web
+  - Creare un'applicazione Web
+  - Configurare un'applicazione Web
+
+
+  #### Laboratorio &#58; Creare e configurare raccolte di siti
+  - Creare e configurare raccolte di siti
+  - Creare una raccolta di siti in un database con nuovi contenuti
+  - Utilizzare la funzionalità per la creazione rapida di raccolte di siti
+
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Creare applicazioni Web
   - Configurare applicazioni Web
   - Creare e configurare raccolte di siti
 
 
-  #### Laboratorio&#58; Creare e configurare applicazioni Web
-  - Creare un'applicazione Web
-  - Configurare un'applicazione Web
-
-
-  #### Laboratorio&#58; Creare e configurare raccolte di siti
-  - Creare e configurare raccolte di siti
-  - Creare una raccolta di siti in un database con nuovi contenuti
-  - Utilizzare la funzionalità per la creazione rapida di raccolte di siti
-
-  Al termine
-  di questo modulo, gli studenti saranno in grado di&#58;
-  - Creare applicazioni Web.
-  - Configurare applicazioni Web.
-  - Creare e configurare raccolte di siti.
-
-
   ### Modulo 7&#58; Pianificare e configurare le applicazioni dei servizi
-  Questo modulo descrive l'architettura delle applicazioni dei servizi in SharePoint 2016 e spiega come distribuire e gestire tali applicazioni.
+  Questo modulo descrive l’archittetura delle applicazioni dei servizi in SharePoint 2016 e spiega come distribuire e gestire tali applicazioni.
   #### Lezioni
   - Introduzione all’architettura delle applicazioni dei servizi
   - Creare e configurare le applicazioni dei servizi
 
 
-  #### Laboratorio&#58; Pianificare e configurare le applicazioni dei servizi
+  #### Laboratorio &#58; Pianificare e configurare le applicazioni dei servizi
   - Distribuire un’applicazione Servizio metadati gestiti con Amministrazione centrale
   - Distribuire un’applicazione Servizio metadati gestiti con Windows PowerShell
   - Configurare l’applicazione del servizio Word Automation Services per la conversione dei documenti
   - Configurare i gruppi proxy per le applicazioni dei servizi
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere i componenti e le topologie principali per l’architettura di un’applicazione di servizio di SharePoint 2016.
-  - Pianificare account per i servizi e dipendenze delle applicazioni dei servizi.
-  - Dimostrare di comprendere lo scopo di associare le applicazioni dei servizi ai requisiti aziendali.
-  - Descrivere come distribuire e gestire le applicazioni dei servizi di SharePoint 2016.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i componenti e le topologie principali per l’architettura di un’applicazione di servizio di SharePoint 2016
+  - Pianificare account per i servizi e dipendenze delle applicazioni dei servizi
+  - Dimostrare di comprendere lo scopo di associare le applicazioni dei servizi ai requisiti aziendali
+  - Descrivere come distribuire e gestire le applicazioni dei servizi di SharePoint 2016
 
 
   ### Modulo 8&#58; Gestire utenti e autorizzazioni, e proteggere contenuti
@@ -216,20 +214,20 @@ outlineSection: |-
   - Gestire l'accesso ai contenuti
 
 
-  #### Laboratorio&#58; Gestire utenti e gruppi
+  #### Laboratorio &#58; Gestire utenti e gruppi
   - Creare criteri per un’applicazione Web
   - Creare e gestire gruppi SharePoint
   - Creare livelli personalizzati per le autorizzazioni
 
 
-  #### Laboratorio&#58; Proteggere i contenuti sui siti di SharePoint
+  #### Laboratorio &#58; Proteggere i contenuti sui siti di SharePoint
   - Gestire le autorizzazioni e l’ereditarietà
   - Gestire la sicurezza della raccolta siti
   - Abilitare l’accesso anonimo a un sito
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Gestire utenti e autorizzazioni in SharePoint 2016.
-  - Gestire l’accesso ai contenuti in SharePoint 2016.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Gestire utenti e autorizzazioni in SharePoint 2016
+  - Gestire l’accesso ai contenuti in SharePoint 2016
 
 
   ### Modulo 9&#58; Configurare l’autenticazione per SharePoint 2016
@@ -240,16 +238,16 @@ outlineSection: |-
   - Configurare l’autenticazione da server a server
 
 
-  #### Laboratorio&#58; Estendere SharePoint 2016 in modo da supportare Secure Sockets Layer (SSL)
+  #### Laboratorio &#58; Estendere SharePoint 2016 in modo da supportare Secure Sockets Layer (SSL)
   - Configurare Microsoft SharePoint 2016 per l’utilizzo di identità federate
   - Configurare Active Directory Federation Services (AD FS) per abilitare un’applicazione Web come relying party
   - Configurare SharePoint in modo che consideri attendibile AD FS un provider di identità
   - Configurare un’applicazione Web per l’uso del provider di identità AD FS
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Illustrare l’infrastruttura di autenticazione di SharePoint 2016.
-  - Configurare i provider di attestazioni e la federazione di identità per SharePoint 2016.
-  - Configurare l’autenticazione da server a server per SharePoint 2016.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare l’infrastruttura di autenticazione di SharePoint 2016
+  - Configurare i provider di attestazioni e la federazione di identità per SharePoint 2016
+  - Configurare l’autenticazione da server a server per SharePoint 2016
 
 
   ### Modulo 10&#58; Proteggere una distribuzione di SharePoint 2016
@@ -259,16 +257,16 @@ outlineSection: |-
   - Configurare la sicurezza a livello di farm
 
 
-  #### Laboratorio&#58; Proteggere una distribuzione di SharePoint 2016
+  #### Laboratorio &#58; Proteggere una distribuzione di SharePoint 2016
   - Configurare la sicurezza delle comunicazioni in SharePoint Server
   - Impostare una protezione avanzata per una farm di server SharePoint
   - Configurare i tipi di file bloccati
   - Configurare la sicurezza di Web Part
   - Implementare il controllo della protezione
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Proteggere una distribuzione di SharePoint 2016 a livello di piattaforma.
-  - Configurare le impostazioni di protezione a livello di farm per una distribuzione di SharePoint 2016.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Proteggere una distribuzione di SharePoint 2016 a livello di piattaforma
+  - Configurare le impostazioni di protezione a livello di farm per una distribuzione di SharePoint 2016
 
 
   ### Modulo 11&#58; Gestire la tassonomia
@@ -279,20 +277,20 @@ outlineSection: |-
   - Configurare il servizio Metadati gestiti
 
 
-  #### Laboratorio&#58; Configurare la propagazione dei tipi di contenuti
+  #### Laboratorio &#58; Configurare la propagazione dei tipi di contenuti
   - Creare tipi di contenuti per la propagazione
   - Pubblicare tipi di contenuti nelle raccolte di siti
 
 
-  #### Laboratorio&#58; Configurare e utilizzare il servizio Metadati gestiti
+  #### Laboratorio &#58; Configurare e utilizzare il servizio Metadati gestiti
   - Configurare il servizio Metadati gestiti
   - Creare set di termini e termini
   - Consumare i set di termini
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Creare e gestire tipi di contenuti e la propagazione dei tipi di contenuti.
-  - Spiegare come implementare il servizio Metadati gestiti nelle applicazioni Web e nelle raccolte di siti di SharePoint.
-  - Configurare l’applicazione del servizio Metadati gestiti in SharePoint 2016.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e gestire tipi di contenuti e la propagazione dei tipi di contenuti
+  - Spiegare come implementare il servizio Metadati gestiti nelle applicazioni Web e nelle raccolte di siti di SharePoint
+  - Configurare l’applicazione del servizio Metadati gestiti in SharePoint 2016
 
 
   ### Modulo 12&#58; Configurare i profili utenti
@@ -302,46 +300,46 @@ outlineSection: |-
   - Gestire i profili utente e destinatari
 
 
-  #### Laboratorio&#58; Configurare i profili utente
+  #### Laboratorio &#58; Configurare i profili utente
   - Configurare l’applicazione del servizio Profilo utente
   - Configurare l’importazione e la sincronizzazione delle directory
 
 
-  #### Laboratorio&#58; Configurare i siti personali e i destinatari
+  #### Laboratorio &#58; Configurare i siti personali e i destinatari
   - Configurare i siti personali
   - Configurare i destinatari
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Configurare l’applicazione del servizio Profilo utente.
-  - Gestire profili utente e destinatari.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare l’applicazione del servizio Profilo utente
+  - Gestire profili utente e destinatari
 
 
   ### Modulo 13&#58; Configurare Ricerca contenuti organizzazione
   Questo modulo descrive l’applicazione del servizio di ricerca e spiega come configurare tale servizio in SharePoint 2016. Spiega anche come gestire l’esperienza di ricerca in SharePoint 2016.
   #### Lezioni
-  - Comprendere l’architettura dell’applicazione del servizio di ricerca.
-  - Configurare Ricerca contenuti organizzazione.
-  - Gestire Ricerca contenuti organizzazione.
+  - Comprendere l’architettura dell’applicazione del servizio di ricerca
+  - Configurare Ricerca contenuti organizzazione
+  - Gestire Ricerca contenuti organizzazione
 
 
-  #### Laboratorio&#58; Configurare Ricerca contenuti organizzazione
+  #### Laboratorio &#58; Configurare Ricerca contenuti organizzazione
   - Configurare l’applicazione del servizio di ricerca
   - Configurare l’origine del contenuto della condivisione di file
   - Configurare l’origine di un contenuto SharePoint locale
   - Creare un centro ricerche
 
 
-  #### Laboratorio&#58; Ottimizzare l’esperienza di ricerca
+  #### Laboratorio &#58; Ottimizzare l’esperienza di ricerca
   - Configurare un’origine risultati e una regola di query
   - Personalizzare l’esperienza di ricerca
   - Creare e distribuire un thesaurus
   - Creare gli estrattori di entità e i criteri di affinamento
   - Gestire la correzione ortografica delle query
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere l’architettura del servizio di ricerca in SharePoint 2016.
-  - Configurare il servizio di ricerca in SharePoint 2016.
-  - Gestire l’esperienza di ricerca in SharePoint 2016.
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere l’architettura del servizio di ricerca in SharePoint 2016
+  - Configurare il servizio di ricerca in SharePoint 2016
+  - Gestire l’esperienza di ricerca in SharePoint 2016
 
 
   ### Modulo 14&#58; Monitorare ed eseguire la manutenzione di un ambiente SharePoint 2016
@@ -353,20 +351,21 @@ outlineSection: |-
   - Risolvere i problemi in un ambiente SharePoint 2016
 
 
-  #### Laboratorio&#58; Monitorare una distribuzione di SharePoint 2016
+  #### Laboratorio &#58; Monitorare una distribuzione di SharePoint 2016
   - Configurare la raccolta di dati sull’utilizzo e l’integrità
   - Configurare la registrazione dei dati diagnostici di SharePoint
   - Configurare le regole dell’analizzatore di integrità
   - Rivedere i dati sull’utilizzo e l’integrità
 
 
-  #### Laboratorio&#58; Analizzare i tempi di caricamento delle pagine
+  #### Laboratorio &#58; Analizzare i tempi di caricamento delle pagine
   - Analizzare il traffico di rete
   - Analizzare le prestazioni delle pagine di SharePoint
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Sviluppare e implementare un piano di monitoraggio per un ambiente SharePoint 2016.
-  - Regolare e ottimizzare regolarmente una farm di server di SharePoint 2016.
-  - Pianificare e configurare la memorizzazione nella cache per migliorare le prestazioni di una distribuzione di SharePoint 2016.
-  
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Sviluppare e implementare un piano di monitoraggio per un ambiente SharePoint 2016
+  - Regolare e ottimizzare regolarmente una farm di server di SharePoint 2016
+  - Pianificare e configurare la memorizzazione nella cache per migliorare le prestazioni di una distribuzione di SharePoint 2016
+
   Risolvere gli errori e altri problemi in una distribuzione di SharePoint 2016
+

@@ -1,19 +1,19 @@
 ### YamlMime:Course
-title: Eseguire la manutenzione di Windows 10
+title: Maintaining Windows 10
 metadata:
-  title: 'Course MD-100T04-A: Eseguire la manutenzione di Windows 10'
-  description: 'Course MD-100T04-A: Eseguire la manutenzione di Windows 10'
+  title: 'Course MD-100T04-A: Maintaining Windows 10'
+  description: 'Course MD-100T04-A: Maintaining Windows 10'
 uid: course.md-100t04
 courseNumber: 'MD-100T04-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Utilizzare gli strumenti di Windows per la risoluzione dei problemi e il monitoraggio.
-- skill: Risolvere i problemi relativi alle installazioni di Windows.
-- skill: Risolvere i problemi relativi all’installazione delle applicazioni.
-- skill: Risolvere i problemi relativi alle impostazioni dei browser Web.
-- skill: Risolvere i problemi relativi all’autenticazione in Windows.
-- skill: Risolvere i problemi hardware correlati alle macchine di Windows.
+- skill: Utilizzare gli strumenti di Windows per la risoluzione dei problemi e il monitoraggio
+- skill: Risolvere i problemi relativi alle installazioni di Windows
+- skill: Risolvere i problemi relativi all’installazione delle applicazioni
+- skill: Risolvere i problemi relativi alle impostazioni dei browser Web
+- skill: Risolvere i problemi relativi all’autenticazione in Windows
+- skill: Risolvere i problemi hardware correlati alle macchine di Windows
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -33,9 +33,9 @@ summary: |-
   I candidati idonei a sostenere questo esame sono professionisti IT che si occupano di installare, configurare, gestire localmente ed eseguire la manutenzione dei servizi principali di Windows 10. I candidati hanno talvolta familiarità con scenari aziendali e servizi integrati nel cloud.
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
-  - Conoscenza basilare delle reti di computer e dell’hardware.
-  - Conoscenza basilare dei sistemi operativi e delle applicazioni.
-  - Esperienza nell’uso dei sistemi operativi Windows.
+  - Conoscenza basilare delle reti di computer e dell’hardware
+  - Conoscenza basilare dei sistemi operativi e delle applicazioni
+  - Esperienza nell’uso dei sistemi operativi Windows
 outlineSection: |-
   ### Modulo 1&#58; Supportare l’ambiente di Windows 10
   Questo modulo descrive l’architettura e gli ambienti comuni di Windows 10. Agli studenti verranno presentati i vari strumenti che possono essere utilizzati per eseguire la manutenzione di Windows. Verranno esaminate anche le metodologie che consentono di risolvere efficacemente i problemi e verrà spiegato agli studeti di gestire e ottimizzare in modo proattivo Windows 10.
@@ -44,7 +44,7 @@ outlineSection: |-
   - Strumenti per la risoluzione dei problemi
 
 
-  #### Laboratorio&#58; Esercitazione pratica&#58; Monitorare Windows 10
+  #### Laboratorio &#58; Esercitazione pratica&#58; Monitorare Windows 10
   - Monitorare gli eventi
   - Monitorare l’affidabilità e le prestazioni
 
@@ -79,7 +79,7 @@ outlineSection: |-
   - Risolvere i problemi relativi alle applicazioni
 
 
-  #### Laboratorio&#58; Risolvere i problemi relativi alle app desktop
+  #### Laboratorio &#58; Risolvere i problemi relativi alle app desktop
   - Risolvere i problemi relativi alle applicazioni dei criteri AppLocker
   - Risolvere i problemi relativi alla compatibilità tra le applicazioni
   - Risolvere i problemi relativi a Microsoft Internet Explorer
@@ -102,7 +102,7 @@ outlineSection: |-
   - Risolvere i problemi relativi ai guasti fisici
 
 
-  #### Laboratorio&#58; Risolvere i problemi relativi ai driver di dispositivo
+  #### Laboratorio &#58; Risolvere i problemi relativi ai driver di dispositivo
   - Risolvere i problemi relativi a driver dispositivo mancanti
   - Risolvere i problemi hardware
   - Risolvere i problemi relativi ai driver dispositivo
@@ -120,4 +120,5 @@ outlineSection: |-
   - Esame Finale
 
 
-  #### Laboratorio&#58; Laboratorio con valutazione dei risultati
+  #### Laboratorio &#58; Laboratorio con valutazione dei risultati
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Connettersi e utilizzare i servizi di Azure e di terzi
+title: Connect to and consume Azure and third-party services
 metadata:
-  title: 'Corso AZ-203T06-A: Connettersi e utilizzare i servizi di Azure e di terzi'
-  description: 'Corso AZ-203T06-A: Connettersi e utilizzare i servizi di Azure e di terzi'
+  title: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
+  description: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
 uid: course.az-203t06
 courseNumber: 'AZ-203T06-A'
 hoursToComplete: 24
@@ -29,7 +29,6 @@ exams:
 - uid: exam.az-203
 summary: |-
   Questo corso è dedicato in particolare alle comunicazioni tra le app e i servizi. Agli studenti verrà spiegato come creare e gestire le proprie API con API Management e come utilizza i diversi servizi basati su eventi e messaggi di Azure per loro soluzioni di sviluppo. Durante il corso verrà spiegato agli studenti come creare e integrare queste risorse utilizzando il portale di Azure, l’interfaccia della riga di comando di Azure, REST e il codice delle applicazioni.
-
   #### Profilo dei destinatari
   - Gli studenti che decidono di seguire questo corso sono persone interessate a sviluppare soluzioni Azure o a superare l’esame di certificazione Microsoft Azure Developer Associate.
   - Gli studenti devono avere almeno 1-2 anni di esperienza nel ruolo di sviluppatore. In questo corso si presuppone che gli studenti sappiano come creare codici e abbiano una conoscenza basilare di Azure.
@@ -50,8 +49,7 @@ outlineSection: |-
   - Creare app per la logica con Visual Studio
   - Creare connettori personalizzati per le app per la logica
   - Creare modelli personalizzati per le app per la logica
-  
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Dimostrare come creare e gestire app per la logica di Azure
 
   ### Modulo 2&#58; Integrare Ricerca di Azure nelle soluzioni
@@ -59,8 +57,7 @@ outlineSection: |-
   #### Lezioni
   - Creare ed eseguire interrogazioni in Indice di Ricerca di Azure
   - Eseguire ricerche full-text in Ricerca di Azure
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Eseguire il provisioning del servizio, creare un indice, caricare i dati ed eseguire ricerche
 
 
@@ -71,7 +68,7 @@ outlineSection: |-
   - Proteggere le API
   - Definire i criteri per le API
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Eseguire il provisioning del servizio APIM con il portale di Azure, proteggere le API con sottoscrizioni e certificati client e utilizzare i criteri per le API per modificare il comportamento di un’API
 
 
@@ -82,7 +79,7 @@ outlineSection: |-
   - Implementare soluzioni che utilizzino Hub eventi di Azure
   - Implementare soluzioni che utilizzino Hub di notifica di Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Dimostrare di sapere come funzionano i servizi e come integrarli nelle soluzioni
 
 
@@ -92,5 +89,6 @@ outlineSection: |-
   - Implementare soluzioni che utilizzino il bus di servizio di Azure
   - Implementare soluzioni che utilizzino Archiviazione code di Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Sapere come sfruttare i servizi basati sui messaggi di Azure nelle loro soluzioni
+

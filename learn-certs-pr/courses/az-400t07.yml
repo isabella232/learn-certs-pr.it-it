@@ -1,20 +1,20 @@
 ### YamlMime:Course
-title: Progettare una strategia DevOps
+title: Designing a DevOps Strategy
 metadata:
-  title: 'Corso AZ-400T07-A: Progettare una strategia DevOps'
-  description: 'Corso AZ-400T07-A: Progettare una strategia DevOps'
+  title: 'Course AZ-400T07-A: Designing a DevOps Strategy'
+  description: 'Course AZ-400T07-A: Designing a DevOps Strategy'
 uid: course.az-400t07
 courseNumber: 'AZ-400T07-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Pianificare la trasformazione con obiettivi e sequenze temporali condivisi.
-- skill: Selezionare un progetto e identificare le metriche e i KPI del progetto.
-- skill: Creare un team e una struttura organizzativa agile.
-- skill: Sviluppare una strategia per valutare la qualità del progetto.
-- skill: Pianificare procedure di sviluppo sicure e regole per la conformità.
-- skill: Eseguire la migrazione degli artefatti e consolidarli.
-- skill: Eseguire la migrazione delle misure di controllo delle origini e integrarle.
+- skill: Pianificare la trasformazione con obiettivi e sequenze temporali condivisi
+- skill: Selezionare un progetto e identificare le metriche e i KPI del progetto
+- skill: Creare un team e una struttura organizzativa agile
+- skill: Sviluppare una strategia per valutare la qualità del progetto
+- skill: Pianificare procedure di sviluppo sicure e regole per la conformità
+- skill: Eseguire la migrazione degli artefatti e consolidarli
+- skill: Eseguire la migrazione delle misure di controllo delle origini e integrarle
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,7 +32,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Questo corso consente agli studenti di acquisire le nozioni e le competenze necessarie per progettare una strategia DevOps. Gli studenti impareranno come pianificare una trasformazione, selezionare un progetto e creare strutture per i team. Impareranno anche a sviluppare strategie per la qualità e la sicurezza. Nel corso vengono affrontati inoltre argomenti come la migrazione e il consolidamento di artefatti e il controllo delle origini.
-  
   #### Profilo dei destinatari
   Gli studenti che decidono di seguire questo corso sono persone interessate a pianificare progetti DevOps o a superare l'esame di certificazione Soluzioni Microsoft Azure DevOps.
 prerequisitesSection: |-
@@ -45,12 +44,11 @@ outlineSection: |-
   - Pianificare la trasformazione
   - Scegliere il progetto
   - Strutture dei team
-  #### Laboratorio&#58; Pianificazione Agile e gestione del portafoglio con Azure Boards
+  #### Laboratorio &#58; Pianificazione Agile e gestione del portafoglio con Azure Boards
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Pianificare la trasformazione con obiettivi e sequenze temporali condivisi
   - Selezionare un progetto e identificare le metriche e i KPI del progetto
   - Creare un team e una struttura organizzativa agile
-
 
   ### Modulo 2&#58; Pianificare per migliorare la qualità e la sicurezza
   In questo modulo verrà spiegato agli studenti come sviluppare una strategia per migliorare la qualità e per garantire uno sviluppo sicuro.
@@ -59,8 +57,8 @@ outlineSection: |-
   - Pianificare per garantire uno sviluppo sicuro
 
 
-  #### Laboratorio&#58; Gestione dei flag funzionalità con LaunchDarkly e AzureDevOps
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Gestione dei flag funzionalità con LaunchDarkly e AzureDevOps
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Sviluppare una strategia per migliorare la qualità di progetto
   - Pianificare procedure di sviluppo sicure e regole per la conformità
 
@@ -72,7 +70,8 @@ outlineSection: |-
   - Eseguire la migrazione e integrare il controllo delle origini
 
 
-  #### Laboratorio&#58; Integrare Azure Repos e Azure Pipelines con Eclipse
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Integrare Azure Repos e Azure Pipelines con Eclipse
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Eseguire la migrazione degli artefatti e consolidarli
   - Eseguire la migrazione e integrare le misure di controllo delle origini
+

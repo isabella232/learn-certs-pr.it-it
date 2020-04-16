@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Impostare eventi e sondaggi in Dynamics 365 for Marketing
+title: Set up events and surveys in Dynamics 365 for Marketing
 metadata:
-  title: 'Course MB-220T02-A: Impostare eventi e sondaggi in Dynamics 365 for Marketing'
-  description: 'Course MB-220T02-A: Impostare eventi e sondaggi in Dynamics 365 for Marketing'
+  title: 'Course MB-220T02-A: Set up events and surveys in Dynamics 365 for Marketing'
+  description: 'Course MB-220T02-A: Set up events and surveys in Dynamics 365 for Marketing'
 uid: course.mb-220t02
 courseNumber: 'MB-220T02-A'
 hoursToComplete: 24
@@ -32,9 +32,9 @@ summary: |-
   Imparare tutte le funzionalità di eventi e sondaggi all'interno di Dynamics 365 for Marketing attraverso dimostrazioni personalizzate, controllate le domande di conoscenza e i laboratori di apprendimento pratico.
 
   #### Profilo dei destinatari
-  Questo corso è pensato per i professionisti dell'IT o del marketing che vogliono imparare a sfruttare Dynamics 365 for Marketing per le aziende.
+  Questo corso è pensato per i professionisti di IT o  Marketing che vogliono imparare a sfruttare Dynamics 365 for Marketing per le aziende.
 prerequisitesSection: |-
-  Prima di partecipare a queso corso, gli studenti devono&#58;
+  Prima di seguire questo corso, gli studenti devono avere&#58;
   - Una comprensione delle basi di Dynamics 365 e la conoscenza dei principi, delle strategie e delle procedure di marketing
 outlineSection: |-
   ### Modulo 1&#58; Eventi
@@ -72,3 +72,4 @@ outlineSection: |-
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Utilizzare il dashboard dell'evento per valutare l'esito degli eventi
   - Visualizzare i risultati dei sondaggi
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Sviluppare soluzioni per il cloud
+title: Developing for the Cloud
 metadata:
-  title: 'Corso AZ-300T06-A: Sviluppare soluzioni per il cloud'
-  description: 'Corso AZ-300T06-A: Sviluppare soluzioni per il cloud'
+  title: 'Course AZ-300T06-A: Developing for the Cloud'
+  description: 'Course AZ-300T06-A: Developing for the Cloud'
 uid: course.az-300t06
 courseNumber: 'AZ-300T06-A'
 hoursToComplete: 24
@@ -49,18 +49,17 @@ summary: |-
   Gli architetti di soluzioni cloud di successo che iniziano a lavorare in questo ruolo conoscono a livello pratico i sistemi operativi, la virtualizzazione, l’infrastruttura cloud, le strutture di archiviazione, la fatturazione e le reti.
 outlineSection: |-
   ### Modulo 1&#58; Sviluppare attività con tempi di esecuzione lunghi e transazioni distribuite
-  In questo modulo vengono affrontati i seguenti argomenti&#58; implementare app su vasta scala, parallele e ad alte prestazioni grazie all’utilizzo di bach; HPC grazie dall’uso di macchine virtuali di Microsoft Azure; implementare app resilienti grazie all’utilizzo di code; implementare codice per affrontare gli eventi delle applicazioni grazie all’utilizzo di webhook. L’implementazione di un webhook fornisce a una risorsa esterna un URL per un’applicazione. La risorsa esterna invia quindi una richiesta HTTP all’URL ogni volta che viene apportata una modifica che richiede l’intervento dell’applicazione.
-  ### Modulo 2&#58; Configurare un'architettura per l’integrazione basata su messaggi
+  In questo modulo vengono affrontati i seguenti argomenti&#58; implementare app su vasta scala, parallele e ad alte prestazioni grazie all’utilizzo di bach&#58; HPC grazie dall’uso di macchine virtuali di Microsoft Azure&#58; implementare app resilienti grazie all’utilizzo di code&#58; implementare codice per affrontare gli eventi delle applicazioni grazie all’utilizzo di webhook. L’implementazione di un webhook fornisce a una risorsa esterna un URL per un’applicazione. La risorsa esterna invia quindi una richiesta HTTP all’URL ogni volta che viene apportata una modifica che richiede l’intervento dell’applicazione.
 
+  ### Modulo 2&#58; Configurare un'archittetura per l’integrazione basata su messaggi
   #### Lezioni
   - Configurare un’app o un servizio per l’invio di messaggi di posta elettronica
   - Configurare la pubblicazione di un evento e un modello di abbonamento
   - Configurare il servizio Azure Relay
   - Configurare app o servizi con Microsoft Graph
-  
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Configurare un’architettura di integrazione basata su messaggi
 
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare un’architettura di integrazione basata su messaggi
 
   ### Modulo 3&#58; Sviluppare una soluzione per l’elaborazione asincrona
   #### Lezioni
@@ -70,7 +69,7 @@ outlineSection: |-
   - Implementare modelli di calcolo asincroni appropriati
   - Implementare regole e modelli per la scalabilità automatica
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere come sviluppare una soluzione per l’elaborazione asincrona
 
 
@@ -80,7 +79,7 @@ outlineSection: |-
   - Implementare codice per le istanze degli oggetti singleton Application
   - Implementare un codice per lo stato temporaneo
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Iniziare a creare app per il ridimensionamento automatico
 
 
@@ -91,7 +90,7 @@ outlineSection: |-
   - Sviluppare soluzioni che utilizzano un servizio Speech personalizzato
   - Sviluppare soluzioni che utilizzano QnA Maker
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere le soluzioni create con Servizi cognitivi di Azure
 
 
@@ -103,5 +102,6 @@ outlineSection: |-
   - Sviluppare soluzioni che utilizzano l’archiviazione BLOB di Microsoft Azure
   - Gestire le proprietà dei contenitori BLOB in .NET
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere i servizi di Archiviazione di Azure come i BLOB e Cosmos DB
+

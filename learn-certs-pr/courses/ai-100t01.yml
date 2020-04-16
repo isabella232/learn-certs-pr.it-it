@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Progettare e implementare una soluzione IA in Azure
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'Corso AI-100T01-A: Progettare e implementare una soluzione IA in Azure'
-  description: 'Corso AI-100T01-A: Progettare e implementare una soluzione IA in Azure'
+  title: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  description: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
 uid: course.ai-100t01
 courseNumber: 'AI-100T01-A'
 hoursToComplete: 72
@@ -39,13 +39,13 @@ outlineSection: |-
   - Panoramica di Servizi cognitivi di Azure
   - Creare un servizio cognitivo sul portale di Azure
   - Accedere a e testare un servizio cognitivo
+
   ### Modulo 2&#58; Creare bot
   Agli studenti verranno fornite informazioni su Microsoft Bot Framework e Servizi Bot.
   #### Lezioni
   - Introduzione a Servizio Bot
   - Creazione una chat automatizzata di base
   - Eseguire il testing con il servizio di emulazione di bot
-
 
   ### Modulo 3&#58; Migliorare i Bot con QnA Maker
   Gli studenti scopriranno cos’è QnA Maker e come integrare i Bot e QnA Maker per creare una Knowledge Base utile per le interazioni con gli utenti.
@@ -77,3 +77,4 @@ outlineSection: |-
   - Eseguire Analisi dei segmenti per il Bot con Analisi testo
   - Rilevare una lingua in un bot con i servizi cognitivi linguistici
   - Integrare Visione artificiale con i Bot
+

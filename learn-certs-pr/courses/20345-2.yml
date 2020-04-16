@@ -1,25 +1,25 @@
 ### YamlMime:Course
-title: Progettare e distribuire Microsoft Exchange Server 2016/2019
+title: Designing and Deploying Microsoft Exchange Server 2016/2019
 metadata:
-  title: 'Corso 20345-2-B: Progettare e distribuire Microsoft Exchange Server 2016/2019'
-  description: 'Corso 20345-2-B: Progettare e distribuire Microsoft Exchange Server 2016/2019'
+  title: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
 uid: course.20345-2
 courseNumber: '20345-2-B'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Pianificare le distribuzioni di Exchange Server.
-- skill: Pianificare e distribuire l’hardware, la virtualizzazione, i database delle cassette postali e le cartelle pubbliche di Exchange Server.
-- skill: Pianificare il trasporto dei messaggi in Exchange Server.
-- skill: Pianificare e distribuire i servizi di accesso client in Exchange Server.
-- skill: Progettare e implementare un ambiente Exchange Server ad alta disponibilità.
-- skill: Eseguire la manutenzione di Exchange Server con Disponibilità gestita e Desidered State Configuration (DSC).
-- skill: Pianificare la protezione dei messaggi, progettare e implementare Active Directory Rights Management Services (AD RMS) e Microsoft Azure RMS in Exchange Server.
-- skill: Progettare e implementare la conservazione e l’archiviazione dei messaggi.
-- skill: Progettare e implementare criteri per la prevenzione della perdita dei dati, il blocco sul posto ed eDiscovery.
-- skill: Progettare e implementare la coesistenza della messaggistica tra le organizzazioni di Exchange Server.
-- skill: Pianificare e implementare l’aggiornamento delle versioni precedenti di Exchange Server a Exchange Server 2019.
-- skill: Pianificare una distribuzione di Exchange ibrida.
+- skill: Pianificare le distribuzioni di Exchange Server
+- skill: Pianificare e distribuire l’hardware, la virtualizzazione, i database delle cassette postali e le cartelle pubbliche di Exchange Server
+- skill: Pianificare il trasporto dei messaggi in Exchange Server
+- skill: Pianificare e distribuire i servizi di accesso client in Exchange Server
+- skill: Progettare e implementare un ambiente Exchange Server ad alta disponibilità
+- skill: Eseguire la manutenzione di Exchange Server con Disponibilità gestita e Desidered State Configuration (DSC)
+- skill: Pianificare la protezione dei messaggi, progettare e implementare Active Directory Rights Management Services (AD RMS) e Microsoft Azure RMS in Exchange Server
+- skill: Progettare e implementare la conservazione e l’archiviazione dei messaggi
+- skill: Progettare e implementare criteri per la prevenzione della perdita dei dati, il blocco sul posto ed eDiscovery
+- skill: Progettare e implementare la coesistenza della messaggistica tra le organizzazioni di Exchange Server
+- skill: Pianificare e implementare l’aggiornamento delle versioni precedenti di Exchange Server a Exchange Server 2019
+- skill: Pianificare una distribuzione di Exchange ibrida
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -48,23 +48,21 @@ prerequisitesSection: |-
 outlineSection: |-
   ### Modulo 1&#58; Pianificare le distribuzioni di Exchange Server
   Questo modulo illustra le principali funzionalità di Exchange Server e spiega come individuare i requisiti aziendali. Spiega anche come pianificare una distribuzione di Exchange Server e migrare la messaggistica unificata in Cloud Voicemail.
-  
+
   #### Lezioni
   - Nuove funzionalità di Exchange Server 2019
   - Individuare i requisiti aziendali per una distribuzione di Exchange Server
   - Pianificare una distribuzione di Exchange Server
   - Pianificare la migrazione della messaggistica unificata (UM) in Cloud Voicemail
-  #### Laboratorio&#58; Pianificare le distribuzioni di Exchange Server 2019
+  #### Laboratorio &#58; Pianificare le distribuzioni di Exchange Server 2019
   - Valutare un’infrastruttura di messaggistica esistente
   - Identificare i requisiti
   - Discussione&#58; Progetto di distribuzione di Exchange Server 2019
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere le nuove funzionalità di Exchange Server 2019
   - Spiegare come individuare i requisiti aziendali per una distribuzione di Exchange Server
   - Pianificare una distribuzione di Exchange Server
   - Pianificare come eseguire la migrazione della messaggistica unificata di Exchange Server 2016 in Cloud Voicemail
-
 
   ### Modulo 2&#58; Pianificare e distribuire i servizi della cassetta postale di Exchange Server
   Questo modulo piega come pianificare e implementare l’hardware di Exchange Server, virtualizzare Exchange Server, e integrare Azure e le cartelle pubbliche.
@@ -74,13 +72,13 @@ outlineSection: |-
   - Pianificare e implementare le cartelle pubbliche
 
 
-  #### Laboratorio&#58; Pianificare e implementare i server delle cassette postali, i database e le cartelle pubbliche di Exchange Server
+  #### Laboratorio &#58; Pianificare e implementare i server delle cassette postali, i database e le cartelle pubbliche di Exchange Server
   - Pianificare la configurazione e la posizione del server delle cassette postali
-  - Pianificazione dei database delle cassette postali
+  - Pianificare i database delle cassette postali
   - Implementare i database delle cassette postali
   - Pianificare e implementare le cartelle pubbliche
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Pianificare e implementare l’hardware per Exchange Server
   - Pianificare la virtualizzazione di Exchange Server e l’integrazione di Microsoft Azure
   - Pianificare e configurare le cartelle pubbliche
@@ -95,12 +93,12 @@ outlineSection: |-
   - Progettare e implementare la conformità per il trasporto
 
 
-  #### Laboratorio&#58; Pianificare il trasporto dei messaggi
+  #### Laboratorio &#58; Pianificare il trasporto dei messaggi
   - Pianificare un trasporto dei messaggi ridondante e sicuro
   - Pianificare la conformità del trasporto
   - Implementare la conformità del trasporto
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Progettare l’instradamento dei messaggi
   - Progettare i servizi di trasporto
   - Progettare l’instradamento esterno dei messaggi
@@ -117,13 +115,13 @@ outlineSection: |-
   - Progettare l’accesso client dall’esterno
 
 
-  #### Laboratorio&#58; Pianificare e distribuire soluzioni per l’accesso client
+  #### Laboratorio &#58; Pianificare e distribuire soluzioni per l’accesso client
   - Pianificare e configurare gli spazi dei nomi
   - Pianificare e configurare le opzioni per i servizi di accesso client
   - Pianificare e distribuire Office Online Server
   - Pianificare e implementare un proxy inverso
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Pianificare i client di Exchange Server
   - Pianificare l’accesso client
   - Pianificare e implementare Office Online Server
@@ -139,14 +137,14 @@ outlineSection: |-
   - Pianificare la resilienza del sito
 
 
-  #### Laboratorio&#58; Progettare e implementare l’alta disponibilità
+  #### Laboratorio &#58; Progettare e implementare l’alta disponibilità
   - Pianificare l’alta disponibiità e la resilienza del sito
   - Creare un DAG resiliente al sito
   - Convalidare la resilienza del sito
   - Creare una copia isolata del database
   - Ripristinare i dati da una copia isolata del database
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Pianificare l’alta disponibilità per Exchange Server
   - Pianificare il bilanciamento del carico in una distribuzione di Exchange Server
   - Pianificare la resilienza del sito in una distribuzione di Exchange Server
@@ -159,11 +157,11 @@ outlineSection: |-
   - Implementare DSC
 
 
-  #### Laboratorio&#58; Eseguire la manutenzione di Exchange Server
+  #### Laboratorio &#58; Eseguire la manutenzione di Exchange Server
   - Utilizzare Windows PowerShell per analizzare e configurare Disponibilità gestita
   - Implementare DSC
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Utilizzare Disponibilità gestita per migliorare l’alta disponibilità
   - Implementare DSC
 
@@ -175,13 +173,13 @@ outlineSection: |-
   - Progettare e implementare AD RMS e Azure RMS
 
 
-  #### Laboratorio&#58; Progettare la sicurezza della messaggistica
+  #### Laboratorio &#58; Progettare la sicurezza della messaggistica
   - Pianificare la sicurezza della messaggistica
   - Implementare AD RMS
   - Integrare AD RMS con Exchange Server
   - Creare una regola per il trasporto dei messaggi per proteggere la posta elettronica
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Pianificare la sicurezza della messaggistica
   - Progettare e implementare AD RMS e Azure RMS
 
@@ -194,11 +192,11 @@ outlineSection: |-
   - Progettare e implementare la conservazione dei messaggi
 
 
-  #### Laboratorio&#58; Progettare e implementare la conservazione e l'archiviazione dei messaggi
+  #### Laboratorio &#58; Progettare e implementare la conservazione e l'archiviazione dei messaggi
   - Progettare la conservazione e l’archiviazione dei messaggi
   - Implementare la conservazione e l'archiviazione dei messaggi
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Illustrare lo scoo dell’archiviazione e della gestione dei record dei messaggi
   - Progettare e implementare l’archiviazione sul posto
   - Progettare e implementare la conservazione dei messaggi
@@ -212,13 +210,13 @@ outlineSection: |-
   - Progettare e implementare l’eDiscovery sul posto
 
 
-  #### Laboratorio&#58; Progettare e implementare la conformità dei messaggi
+  #### Laboratorio &#58; Progettare e implementare la conformità dei messaggi
   - Progettare la conformità dei messaggi
   - Implementare la prevenzione della perdita di dati
   - Implementare l’eDiscovery sul posto
   - Confrontare i criteri della messaggistica e le opzioni di conformità
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Progettare e implementare la prevenzione della perdita di dati
   - Progettare e implementare il blocco sul posto
   - Progettare e implementare l’eDiscovery sul posto
@@ -232,11 +230,11 @@ outlineSection: |-
   - Progettare e implementare gli spostamenti di cassette postali tra le foreste
 
 
-  #### Laboratorio&#58; Implementare la coesistenza tra i sistemi di messaggistica
+  #### Laboratorio &#58; Implementare la coesistenza tra i sistemi di messaggistica
   - Implementare la coesistenza tra i sistemi di instradamento dei messaggi
   - Eseguire la migrazione delle cassette postali
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Progettare e implementare la federazione
   - Progettare la coesistenza tra organizzazioni di Exchange Server
   - Progettare e implementare spostamenti di cassette postali tra le foreste
@@ -249,13 +247,13 @@ outlineSection: |-
   - Implementare l’aggiornamento da versioni precedenti di Exchange Server
 
 
-  #### Laboratorio&#58; Eseguire l'aggiornamento da Exchange Server 2013 a Exchange Server 2019
+  #### Laboratorio &#58; Eseguire l'aggiornamento da Exchange Server 2013 a Exchange Server 2019
   - Documentare l’organizzazione di Exchange Server 2013
   - Distribuire Exchange Server 2019
   - Eseguire l’aggiornamento da Exchange Server 2013 a Exchange Server 2019
   - Rimuovere Exchange Server 2013
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Pianificare l’aggiornamento a Exchange Server 2019
   - Implementare l’aggiornamento a Exchange Server 2019
 
@@ -270,12 +268,13 @@ outlineSection: |-
   - Implementare funzionalità avanzate per le distribuzioni ibride
 
 
-  #### Laboratorio&#58; Pianificare una distribuzione ibrida di Exchange
+  #### Laboratorio &#58; Pianificare una distribuzione ibrida di Exchange
   - Creare un piano per una distribuzione ibrida di Exchange
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Illustrare le caratteristiche di base di una distribuzione ibrida
   - Pianificare l’autenticazione in un ambiente ibrido
   - Implementare Azure AD Connect
   - Implementare una distribuzione ibrida
   - Implementare funzionalità avanzate per le distribuzioni ibride
+

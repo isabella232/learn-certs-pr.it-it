@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestione degli affittuari e dei servizi di Microsoft 365
+title: Microsoft 365 Tenant & Service Management
 metadata:
-  title: 'Course MS-100T02-A: Gestione dei tenant e dei servizi di Microsoft 365'
-  description: 'Course MS-100T02-A: Gestione dei tenant e dei servizi di Microsoft 365'
+  title: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
+  description: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
 uid: course.ms-100t02
 courseNumber: 'MS-100T02-A'
 hoursToComplete: 24
@@ -60,8 +60,9 @@ outlineSection: |-
 
   ### Modulo 4&#58; Laboratorio pratico online
 
-  #### Laboratorio&#58; Gestione del servizio e dei tenant di Microsoft 365
+  #### Laboratorio &#58; Gestione del servizio e dei tenant di Microsoft 365
   - Esercizio 1&#58; Impostare un tenant di prova di Microsoft 365
   - Esercizio 2&#58; Gestire utenti, gruppi e amministrazione di Microsoft 365
   - Esercizio 3&#58; Configurare Rights Management e compliance
   - Esercizio 4&#58; Monitorare e risolvere i problemi di Microsoft 365
+

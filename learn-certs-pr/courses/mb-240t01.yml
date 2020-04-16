@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurazione di Dynamics 365 Field Service
+title: Configuring Dynamics 365 Field Service
 metadata:
-  title: 'Course MB-240T01-A: Configurazione di Dynamics 365 Field Service'
-  description: 'Course MB-240T01-A: Configurazione di Dynamics 365 Field Service'
+  title: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
+  description: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
 uid: course.mb-240t01
 courseNumber: 'MB-240T01-A'
 hoursToComplete: 24
@@ -26,11 +26,7 @@ products:
 - dynamics-field-service
 exams:
 - uid: exam.mb-240
-summary: |-
-  Dynamics 365 for Field Service aiuta le organizzazioni a posizionarsi meglio sul mercato fornendo una varietà di strumenti che aiutano a identificare e programmare le risorse e a gestire i carichi di lavoro per i lavoratori mobili. Questo corso fornirà agli studenti le competenze necessarie per identificare e configurare i componenti chiave che vengono utilizzati per fornire Field Service e soluzioni mobili. Gli argomenti chiave includono l'identificazione delle considerazioni organizzative che guideranno le decisioni di configurazione e gli aspetti comuni della configurazione. 
-
-  Questo corso aiuta gli studenti a comprendere meglio il quadro generale e gli obiettivi finali focalizzati sulle implementazioni che aiutano a progettare soluzioni più efficienti che si allineano con gli obiettivi del cliente e dell'organizzazione.
-
+summary: "Dynamics 365 for Field Service aiuta le organizzazioni a posizionarsi meglio sul mercato fornendo una varietà di strumenti che aiutano a identificare e programmare le risorse e a gestire i carichi di lavoro per i lavoratori mobili. Questo corso fornirà agli studenti le competenze necessarie per identificare e configurare i componenti chiave che vengono utilizzati per fornire Field Service e soluzioni mobili. Gli argomenti chiave includono l'identificazione delle considerazioni organizzative che guideranno le decisioni di configurazione e gli aspetti comuni della configurazione. \n\nQuesto corso aiuta gli studenti a comprendere meglio il quadro generale e gli obiettivi finali focalizzati sulle implementazioni che aiutano a progettare soluzioni più efficienti che si allineano con gli obiettivi del cliente e dell'organizzazione."
 prerequisitesSection: |-
   Comprensione di base di caratteristiche, funzionalità e navigazione di Dynamics 365.
 outlineSection: |-
@@ -59,3 +55,4 @@ outlineSection: |-
   - Creazione di incidenti
   - Utilizzo dei compiti di servizio
   - Definizione di prodotti, servizi e competenze
+

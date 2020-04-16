@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementare la protezione delle informazioni in Microsoft 365
+title: Implementing Microsoft 365 Information Protection
 metadata:
-  title: 'Course MS-500T03-A: Implementare la protezione delle informazioni in Microsoft 365'
-  description: 'Course MS-500T03-A: Implementare la protezione delle informazioni in Microsoft 365'
+  title: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
+  description: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
 uid: course.ms-500t03
 courseNumber: 'MS-500T03-A'
 hoursToComplete: 24
@@ -27,15 +27,7 @@ products:
 - office-365
 exams:
 - uid: exam.ms-500
-summary: |-
-  La protezione delle informazioni è il concetto di localizzazione e classificazione dei dati ovunque si trovino. In questo corso imparerete a conoscere le tecnologie di protezione delle informazioni che aiutano a proteggere il vostro ambiente Microsoft 365. In particolare, questo corso tratta dei contenuti gestiti con i diritti di informazione, della crittografia dei messaggi, nonché delle etichette, delle politiche e delle regole che supportano la prevenzione della perdita di dati e la protezione delle informazioni. Infine, il corso spiega l'implementazione di Microsoft Cloud App Security.
-
-  #### Profilo dei destinatari
-  Questo corso è per il ruolo di amministratore della sicurezza di Microsoft 365. Questo ruolo collabora con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con gli amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione. 
-  
-  Questo ruolo protegge in modo proattivo gli ambienti aziendali Microsoft 365. Le responsabilità comprendono la risposta alle minacce, l'implementazione, la gestione e il monitoraggio delle soluzioni di sicurezza e conformità per l'ambiente Microsoft 365. Rispondono agli incidenti, alle indagini e all'applicazione della governance dei dati.
-
-  L'amministratore della sicurezza Microsoft 365 ha familiarità con i carichi di lavoro Microsoft 365 e possiede una forte competenza ed esperienza in materia di protezione dell'identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e governance dei dati. Questo ruolo è incentrato sull’ambiente Microsoft 365 e comprende ambienti ibridi.
+summary: "La protezione delle informazioni è il concetto di localizzazione e classificazione dei dati ovunque si trovino. In questo corso imparerete a conoscere le tecnologie di protezione delle informazioni che aiutano a proteggere il vostro ambiente Microsoft 365. In particolare, questo corso tratta dei contenuti gestiti con i diritti di informazione, della crittografia dei messaggi, nonché delle etichette, delle politiche e delle regole che supportano la prevenzione della perdita di dati e la protezione delle informazioni. Infine, il corso spiega l'implementazione di Microsoft Cloud App Security.\n\n#### Profilo dei destinatari\nQuesto corso è per il ruolo di amministratore della sicurezza di Microsoft 365. Questo ruolo collabora con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con gli amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione. \n\nQuesto ruolo protegge in modo proattivo gli ambienti aziendali Microsoft 365. Le responsabilità comprendono la risposta alle minacce, l'implementazione, la gestione e il monitoraggio delle soluzioni di sicurezza e conformità per l'ambiente Microsoft 365. Rispondono agli incidenti, alle indagini e all'applicazione della governance dei dati.\n\nL'amministratore della sicurezza Microsoft 365 ha familiarità con i carichi di lavoro Microsoft 365 e possiede una forte competenza ed esperienza in materia di protezione dell'identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e governance dei dati. Questo ruolo è incentrato sull’ambiente Microsoft 365 e comprende ambienti ibridi."
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
   - Comprensione concettuale di base di Microsoft Azure
@@ -56,7 +48,7 @@ outlineSection: |-
   - Protezione delle informazioni di Windows
 
 
-  #### Laboratorio&#58; Prevenzione della perdita di dati
+  #### Laboratorio &#58; Prevenzione della perdita di dati
   - Creare e concedere in licenza gli utenti nella vostra organizzazione
   - Configurare l'auto-iscrizione MDM
   - Configurare AIP e WIP
@@ -80,7 +72,7 @@ outlineSection: |-
   - Suggerimenti dei criteri
 
 
-  #### Laboratorio&#58; Prevenzione della perdita di dati
+  #### Laboratorio &#58; Prevenzione della perdita di dati
   - Creare e concedere in licenza gli utenti nella vostra organizzazione
   - Creare una politica DLP
   - Testare politiche DLP
@@ -103,14 +95,15 @@ outlineSection: |-
   #### Lezioni
   - Spiegazione della sicurezza delle applicazioni cloud
   - Utilizzo delle informazioni della sicurezza delle applicazioni cloud
-  - Cloud App Seurity di Office 365
+  - Office 365 Cloud App Security
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descirvere Cloud App Security.
+  - Descirvere Cloud App Security
   - Spiegare come implementare Cloud App Security.
   - Controllare le vostre applicazioni cloud con i criteri.
-  - Risoluzione dei problemi relativi a Cloud App Security.
+  - Risoluzione dei problemi relativi a Cloud App Security
   - Utilizzare il catalogo delle applicazioni cloud.
   - Utilizzare Cloud App Catalog.
   - Preparare Cloud App Security di Office 365.
   - Gestire le autorizzazioni delle applicazioni cloud.
+

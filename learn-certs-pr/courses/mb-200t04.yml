@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Test ed implementazione della Power Platform'
+title: 'Dynamics 365: Power Platform test and deploy'
 metadata:
-  title: 'Course MB-200T04-A: Dynamics 365: Test ed implementazione della Power Platform'
-  description: 'Course MB-200T04-A: Dynamics 365: Test ed implementazione della Power Platform'
+  title: 'Course MB-200T04-A: Dynamics 365: Power Platform test and deploy'
+  description: 'Course MB-200T04-A: Dynamics 365: Power Platform test and deploy'
 uid: course.mb-200t04
 courseNumber: 'MB-200T04-A'
 hoursToComplete: 24
@@ -90,3 +90,4 @@ outlineSection: |-
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Creare e utilizzare piani di prova
   - Individuare gli strumenti per la messa a punto delle prestazioni
+
