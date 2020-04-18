@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestire desktop e dispositivi moderni
+title: Managing Modern Desktops and Devices
 metadata:
-  title: 'Course MD-101T02-A: Gestire desktop e dispositivi moderni'
-  description: 'Course MD-101T02-A: Gestire desktop e dispositivi moderni'
+  title: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
+  description: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
 uid: course.md-101t02
 courseNumber: 'MD-101T02-A'
 hoursToComplete: 48
@@ -53,7 +53,7 @@ outlineSection: |-
   - Gestire la registrazione e l’inventario dei dispositivi in Intune
 
 
-  #### Laboratorio&#58; Esercitazione pratica - Registrare e gestire i dispositivi
+  #### Laboratorio &#58; Esercitazione pratica - Registrare e gestire i dispositivi
   - Installare MDM Migration Analysis Tool (MMAT)
   - Ottenere le licenze Premium di Intune e Azure AD e abilitare la gestione dei dispositivi
   - Registrare i dispositivi in Intune
@@ -73,11 +73,11 @@ outlineSection: |-
   In questo modulo verranno esaminato in modo approfondito i profili dispositivo di Intune, tra cui i tipi di profili dispositivo e le differenze tra i profili incorporati e personalizzati. Gli studenti impareranno ad assegnare profili ai gruppi di Azure AD ed a monitorare i dispositivi e i profili in Intune. Nella parte finale del modulo verrà spiegato agli studenti come utilizzare Windows Analytics per creare report sull’integrità e la conformità.
   #### Lezioni
   - Configurare profili dei dispositivi
-  - Gestire i profili degli utenti
+  - Gestione dei profili utente
   - Monitorare i dispositivi
 
 
-  #### Laboratorio&#58; Esercitazione pratica - Gestire i profili
+  #### Laboratorio &#58; Esercitazione pratica - Gestire i profili
   - Configurare il roaming dei profili utente e il reindirizzamento delle cartelle
   - Creare e distribuire un profilo dispositivo in base allo scenario
   - Modificare i criteri distribuiti e monitorare l’attività degli utenti e dei dispositivi
@@ -99,7 +99,7 @@ outlineSection: |-
   - Amministrare le applicazioni
 
 
-  #### Laboratorio&#58; Esercitazione pratica - Gestire le applicazioni
+  #### Laboratorio &#58; Esercitazione pratica - Gestire le applicazioni
   - Distribuire le app con Intune
   - Configurare e distribuire Office 365 ProPlus da Intune
   - Configurare i criteri MAM in Intune
@@ -114,14 +114,15 @@ outlineSection: |-
   - Configurare la modalità Enterprise in Internet Explorer
 
 
-  ### Modulo 4&#58; Fine del corso
+  ### Modulo 4&#58; Conclusione del corso
   #### Lezioni
   - Esame Finale
 
 
-  #### Laboratorio&#58; Laboratorio con valutazione dei risultati
+  #### Laboratorio &#58; Laboratorio con valutazione dei risultati
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere i tipi di profili dispositivo
   - Creare e assegnare profili dispositivo
   - Configurare un profilo utente e il reindirizzamento delle cartelle
   - Monitorare e creare report sui dispositivi con Intune e Windows Analytics
+

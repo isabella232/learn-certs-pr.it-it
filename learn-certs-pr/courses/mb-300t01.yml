@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Caratteristiche principali di base di Dynamics 365 for Finance and Operations
+title: Core common features of Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Course MB-300T01-A: Caratteristiche principali di base di Dynamics 365 for Finance and Operations'
-  description: 'Course MB-300T01-A: Caratteristiche principali di base di Dynamics 365 for Finance and Operations'
+  title: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
 uid: course.mb-300t01
 courseNumber: 'MB-300T01-A'
 hoursToComplete: 24
@@ -20,13 +20,7 @@ products:
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
-summary: |-
-  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per ridurre i costi operativi e rispondere rapidamente alle mutevoli esigenze aziendali. Questa soluzione permette alle organizzazioni di raggiungere questi obiettivi. 
-
-  In questo corso vengono discussi i componenti fondamentali di Microsoft Dynamics 365 for Finance and Operations.
-
-  #### Profilo dei destinatari
-  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+summary: "Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per ridurre i costi operativi e rispondere rapidamente alle mutevoli esigenze aziendali. Questa soluzione permette alle organizzazioni di raggiungere questi obiettivi. \n\nIn questo corso vengono discussi i componenti fondamentali di Microsoft Dynamics 365 for Finance and Operations.\n\n#### Profilo dei destinatari\nUn Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi."
 prerequisitesSection: |-
   Comprensione di base dei concetti di ERP e CRM.
 outlineSection: |-
@@ -69,7 +63,7 @@ outlineSection: |-
   - Introduzione
   - Fasi dell'implementazione di un cloud
   - Fasi di un'implementazione on-premise
-  - Creare functional design document (FDD)
+  - Creazione di Functional Design Document (FDD)
   - Riepilogo del modulo
 
   Gli studenti saranno in grado di&#58;
@@ -94,7 +88,7 @@ outlineSection: |-
   - Laboratori di pratica
   - Riepilogo del modulo
 
-  Gli studenti avranno imparato a&#58;
+  Gli studenti avranno imparato a &#58;
   - Diversi tipi di relazioni e richieste di informazioni in ambito finanziario e operativo
   - Reporting finanziario
   - Configurazione di Finance and Operations per Microsoft Power Platform
@@ -110,7 +104,7 @@ outlineSection: |-
   - Laboratorio di pratica
   - Riepilogo del modulo
 
-  Gli studenti avranno imparato a creare un'applicazione mobile e a pubblicarla in Finance and Operations. La comprensione delle considerazioni di progettazione di un'applicazione mobile aiuta a creare l'applicazione mobile in modo che si adatti all'esperienza dell'utente di un'applicazione moderna. Gli studenti avranno anche imparato che per utilizzare e lavorare Finance and Operations, devono scaricare l'applicazione Microsoft Dynamics 365 Unified Operations. Inoltre, avranno scoperto come eseguire l'applicazione Dynamics 365 Unified Operations per connettersi a Finance and Operations, e come utilizzare le app mobili pubblicate e tirare per aggiornare i dati.
+  Gli studenti avranno imparato a creare un'applicazione mobile e a pubblicarla in Finance and Operations. La comprensione d le considerazioni di progettazione di un'applicazione mobile aiuta a creare l'applicazione mobile in modo che si adatti all'esperienza dell'utente di un'applicazione moderna. Gli studenti avranno anche imparato che per utilizzare e lavorare Finance and Operations, devono scaricare l'applicazione Microsoft Dynamics 365 Unified Operations. Inoltre, avranno scoperto come eseguire l'applicazione Dynamics 365 Unified Operations per connettersi a Finance and Operations, e come utilizzare le app mobili pubblicate e tirare per aggiornare i dati.
 
   ### Modulo 6&#58; Creare, gestire ed utilizzare i flussi di lavoro
   Un flusso di lavoro rappresenta un processo aziendale. Definisce come un documento scorre, o si muove, attraverso il sistema mostrando chi deve completare un compito, prendere una decisione, o approvare un documento.
@@ -123,7 +117,7 @@ outlineSection: |-
   - Laboratorio di pratica
   - Riepilogo del modulo
 
-  In questo modulo, gli studenti hanno imparato ad applicare l'automazione utilizzando i flussi di lavoro e hanno scoperto che la definizione di un tipo specifico permette ad un'azienda di controllare ogni fase di un processo critico. Gli studenti hanno anche imparato che i flussi di lavoro possono essere utilizzati come fasi procedurali che utilizzano le approvazioni per diversi tipi di riviste. Inoltre, hanno imparato che si possono definire diverse versioni per ogni flusso di lavoro e modificare un flusso di lavoro esistente senza cancellare l'originale. Questi processi del flusso di lavoro possono richiedere l'approvazione manuale, l'approvazione del flusso di lavoro o nessuna approvazione. Dopo aver acquisito una comprensione dell'architettura del flusso di lavoro, degli elementi e delle azioni, hanno poi imparato come impostarli, configurarne le proprietà e aggiungerli in un'attività manuale o automatizzata. Infine, hanno imparato come configurare un processo di approvazione in un flusso di lavoro, assegnare gli utenti ai punti di contatto, configurare una fase di approvazione e utilizzare le funzionalità dei Work Items per elaborare un flusso di lavoro.
+  In questo modulo, gli studenti hanno imparato ad applicare l'automazione utilizzando i flussi di lavoro e hanno scoperto che la definizione di un tipo specifico permette ad un'azienda di controllare ogni fase di un processo critico. Gli studenti hanno anche imparato che i flussi di lavoro possono essere utilizzati come fasi procedurali che utilizzano le approvazioni per diversi tipi di riviste. Inoltre, hanno imparato che si possono definire diverse versioni per ogni flusso di lavoro e modificare un flusso di lavoro esistente senza cancellare l'originale. Questi processi del flusso di lavoro possono richiedere l'approvazione manuale, l'approvazione del flusso di lavoro o nessuna approvazione. Dopo aver acquisito una comprensione dell'architettura del flusso di lavoro, degli elementi e delle azioni, hanno poi imparato come impostare i flussi di lavoro, configurare le proprietà del flusso di lavoro e aggiungere un'attività manuale o automatizzata in un flusso di lavoro. Infine, hanno imparato come configurare un processo di approvazione in un flusso di lavoro, assegnare gli utenti ai punti di contatto del flusso di lavoro, configurare una fase di approvazione in un flusso di lavoro e utilizzare la funzionalità oggetti di lavoro per elaborare un flusso di lavoro.
 
   ### Modulo 7&#58; Conclusione del corso
   Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
@@ -133,3 +127,4 @@ outlineSection: |-
   - Sondaggio post-corso
 
   Gli studenti avranno concluso il corso.
+

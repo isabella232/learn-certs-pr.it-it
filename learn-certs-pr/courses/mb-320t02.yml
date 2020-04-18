@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurare e utilizzare la produzione snella in Dynamics 365 for Finance and Operations
+title: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Course MB-320T02-A: Configurare e utilizzare la produzione snella in Dynamics 365 for Finance and Operations'
-  description: 'Course MB-320T02-A: Configurare e utilizzare la produzione snella in Dynamics 365 for Finance and Operations'
+  title: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t02
 courseNumber: 'MB-320T02-A'
 hoursToComplete: 24
@@ -19,13 +19,7 @@ products:
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-320
-summary: |-
-  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per gestire in modo più intelligente le operazioni connesse selezionando i processi di produzione più adatti, migliorando le procedure operative, semplificando la gestione delle risorse, accelerando la consegna dei prodotti e aumentando la qualità e la soddisfazione dei clienti. 
-
-  Questo corso informa su come configurare e utilizzare la produzione snella in Dynamics 365 for Finance and Operations.
-
-  #### Profilo dei destinatari
-  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+summary: "Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per gestire in modo più intelligente le operazioni connesse selezionando i processi di produzione più adatti, migliorando le procedure operative, semplificando la gestione delle risorse, accelerando la consegna dei prodotti e aumentando la qualità e la soddisfazione dei clienti. \n\nQuesto corso informa su come configurare e utilizzare la produzione snella in Dynamics 365 for Finance and Operations.\n\n#### Profilo dei destinatari\nUn Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi."
 prerequisitesSection: |-
   Comprensione di base dei concetti di ERP e CRM.
 outlineSection: |-
@@ -149,3 +143,4 @@ outlineSection: |-
 
 
   Gli studenti avranno completato il corso.
+

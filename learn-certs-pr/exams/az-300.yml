@@ -1,33 +1,36 @@
 ### YamlMime:Examination
 title: Microsoft Azure Architect Technologies
 metadata:
-  title: 'Esame AZ-300: Microsoft Azure Architect Technologies'
-  description: 'Esame AZ-300: Microsoft Azure Architect Technologies'
+  title: 'Exam AZ-300: Microsoft Azure Architect Technologies'
+  description: 'Exam AZ-300: Microsoft Azure Architect Technologies'
 uid: exam.az-300
 displayName: AZ-300
-summary: I candidati a questo esame sono progettisti di soluzioni Azure che fungono da consulenti alle parti interessate e che trasformano i requisiti di business in soluzioni sicure, scalabili e affidabili. I candidati devono possedere una vasta esperienza e conoscenza di vari aspetti delle operazioni IT, tra cui reti, virtualizzazione, identità, sicurezza, business continuity, disaster recovery, gestione dei dati, pianificazione del budget e governance. Le persone in questo ruolo hanno il compito di determinare l’impatto delle decisioni di ciascuna area sulla soluzione globale. I candidati devono essere esperti nell'amministrazione di Azure, nello sviluppo di Azure e in DevOps, nonché avere competenze a livello di esperti in almeno uno di questi campi.
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>UNA NUOVA VERSIONE DI QUESTO ESAME, AZ-303, SARÀ DISPONIBILE IL martedì 28 aprile 2020 O INTORNO A TALE DATA. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il 28 luglio 2020 o intorno a tale data. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  
+  I candidati a questo esame sono progettisti di soluzioni Azure che fungono da consulenti alle parti interessate e che trasformano i requisiti di business in soluzioni sicure, scalabili e affidabili. I candidati devono possedere una vasta esperienza e conoscenza di vari aspetti delle operazioni IT, tra cui reti, virtualizzazione, identità, sicurezza, business continuity, disaster recovery, gestione dei dati, pianificazione del budget e governance. Le persone in questo ruolo hanno il compito di determinare l’impatto delle decisioni di ciascuna area sulla soluzione globale. I candidati devono essere esperti nell'amministrazione di Azure, nello sviluppo di Azure e in DevOps, nonché avere competenze a livello di esperti in almeno uno di questi campi.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: installare e configurare un’infrastruttura; implementare carichi di lavoro e sicurezza; creare e installare app; implementare l’autenticazione e dati sicuri; sviluppare l’archiviazione nel cloud e in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-300&examname=Esame%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-300
 levels:
 - advanced
 skills:
-- Distribuire e configurare un’infrastruttura (25-30%)
-- Implementare carichi di lavoro e sicurezza (20-25%)
+- UNA NUOVA VERSIONE DI QUESTO ESAME, AZ-303, SARÀ DISPONIBILE IL martedì 28 aprile 2020 O INTORNO A TALE DATA. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il 28 luglio 2020 o intorno a tale data. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
+- Distribuire e configurare un’infrastruttura (40-45%)
+- Implementare carichi di lavoro e sicurezza (25-30%)
 - Creare e installare app (5-10%)
 - Implementare l’autenticazione e mettere in sicurezza i dati (5-10%)
-- Sviluppare soluzioni per l’archiviazione nel cloud e in Azure (20-25%)
+- Sviluppare soluzioni per l’archiviazione nel cloud e in Azure (15-20%)
 roles:
 - solution-architect
-exams:
-- uid: exam.az-301
 products:
 - azure
 - azure-active-directory
@@ -50,6 +53,8 @@ products:
 - azure-cosmos-db
 - azure-sql-database
 - azure-event-hubs
+exams:
+- uid: exam.az-301
 courses:
 - uid: course.az-300t01
 - uid: course.az-300t02
@@ -77,18 +82,21 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Poster sulle certificazioni
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Ripetizione dell’esame]
+  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
-- title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+- title: Cruscotto delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi un alloggio
   description: Scopri come richiedere un alloggio per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri dell’esame e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell'esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md

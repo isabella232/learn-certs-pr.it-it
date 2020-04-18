@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementare la protezione dalle minacce in Microsoft 365
+title: Implementing Microsoft 365 Threat Protection
 metadata:
-  title: 'Course MS-500T02-A: Implementare la protezione dalle minacce in Microsoft 365'
-  description: 'Course MS-500T02-A: Implementare la protezione dalle minacce in Microsoft 365'
+  title: 'Course MS-500T02-A: Implementing Microsoft 365 Threat Protection'
+  description: 'Course MS-500T02-A: Implementing Microsoft 365 Threat Protection'
 uid: course.ms-500t02
 courseNumber: 'MS-500T02-A'
 hoursToComplete: 24
@@ -28,15 +28,7 @@ products:
 - office-365
 exams:
 - uid: exam.ms-500
-summary: |-
-  La protezione dalle minacce aiuta a fermare gli attacchi dannosi con una sicurezza integrata e automatizzata. In questo corso imparerete a conoscere le tecnologie di protezione dalle minacce che aiutano a proteggere il vostro ambiente Microsoft 365. In particolare, imparerete a conoscere i vettori delle minacce e le soluzioni di sicurezza Microsoft per loro. Imparerete a conoscere Secure Score, protezione Exchange Online, Azure Advanced Threat Protection, Windows Defender Advanced Threat Protection e come utilizzare Microsoft 365 Threat Intelligence. Si parla anche di come proteggere i dispositivi mobili e le applicazioni. L'obiettivo di questo corso è di aiutarvi a configurare l'implementazione di Microsoft 365 per raggiungere la postura di sicurezza desiderata.
-
-  #### Profilo dei destinatari
-  Questo corso è per il ruolo di amministratore della sicurezza di Microsoft 365. Questo ruolo collabora con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con gli amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione. 
-  
-  Questo ruolo protegge in modo proattivo gli ambienti aziendali Microsoft 365. Le responsabilità comprendono la risposta alle minacce, l'implementazione, la gestione e il monitoraggio delle soluzioni di sicurezza e conformità per l'ambiente Microsoft 365. Rispondono agli incidenti, alle indagini e all'applicazione della governance dei dati.
-  
-  L'amministratore della sicurezza Microsoft 365 ha familiarità con i carichi di lavoro Microsoft 365 e possiede una forte competenza ed esperienza in materia di protezione dell'identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e governance dei dati. Questo ruolo è incentrato sull’ambiente Microsoft 365 e comprende ambienti ibridi.
+summary: "La protezione dalle minacce aiuta a fermare gli attacchi dannosi con una sicurezza integrata e automatizzata. In questo corso imparerete a conoscere le tecnologie di protezione dalle minacce che aiutano a proteggere il vostro ambiente Microsoft 365. In particolare, imparerete a conoscere i vettori delle minacce e le soluzioni di sicurezza Microsoft per loro. Imparerete a conoscere Secure Score, protezione Exchange Online, Azure Advanced Threat Protection, Windows Defender Advanced Threat Protection e come utilizzare Microsoft 365 Threat Intelligence. Si parla anche di come proteggere i dispositivi mobili e le applicazioni. L'obiettivo di questo corso è di aiutarvi a configurare l'implementazione di Microsoft 365 per raggiungere la postura di sicurezza desiderata.\n\n#### Profilo dei destinatari\nQuesto corso è per il ruolo di amministratore della sicurezza di Microsoft 365. Questo ruolo collabora con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con gli amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione. \n\nQuesto ruolo protegge in modo proattivo gli ambienti aziendali Microsoft 365. Le responsabilità comprendono la risposta alle minacce, l'implementazione, la gestione e il monitoraggio delle soluzioni di sicurezza e conformità per l'ambiente Microsoft 365. Rispondono agli incidenti, alle indagini e all'applicazione della governance dei dati.\n\nL'amministratore della sicurezza Microsoft 365 ha familiarità con i carichi di lavoro Microsoft 365 e possiede una forte competenza ed esperienza in materia di protezione dell'identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e governance dei dati. Questo ruolo è incentrato sull’ambiente Microsoft 365 e comprende ambienti ibridi."
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
   - Comprensione concettuale di base di Microsoft Azure.
@@ -65,15 +57,15 @@ outlineSection: |-
   ### Modulo 2&#58; Protezione avanzata dalle minacce
   Questo modulo spiega le varie tecnologie e servizi di protezione dalle minacce disponibili in Microsoft 365. In particolare, il modulo copre la protezione dei messaggi attraverso Exchange Online Protection, Azure Advanced Threat Protection e Windows Defender Advanced Threat Protection.
   #### Lezioni
-  - Protezione Exchange Online
-  - Protezione avanzata dalle minacce di Office 365
+  - Exchange Online Protection
+  - Office 365 Advanced Threat Protection
   - Gestione degli allegati sicuri
   - Gestione dei link sicuri
-  - Protezione avanzata delle minacce di Azure
-  - Protezione avanzata delle minacce di Windows Defender
+  - Azure Advanced Threat Protection
+  - Windows Defender Advanced Threat Protection
 
 
-  #### Laboratorio&#58; Protezione avanzata dalle minacce
+  #### Laboratorio &#58; Protezione avanzata dalle minacce
   - Impostare l’ambiente del laboratorio
   - Modificare una politica dei link sicuri ATP e creare una politica degli allegati sicuri
 
@@ -94,7 +86,7 @@ outlineSection: |-
   - Configurare un’analisi avanzata delle minacce
 
 
-  #### Laboratorio&#58; Analisi avanzata delle minacce
+  #### Laboratorio &#58; Analisi avanzata delle minacce
   - Abilitare e installare il centro ATA
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
@@ -124,3 +116,4 @@ outlineSection: |-
   - Definire le politiche di registrazione dei dispositivi aziendali.
   - Registrare i dispositivi su MDM.
   - Configurare un ruolo di gestione della registrazione dei dispositivi.
+

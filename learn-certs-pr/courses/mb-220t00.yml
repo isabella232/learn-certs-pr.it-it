@@ -1,0 +1,157 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Marketing
+metadata:
+  title: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
+  description: 'Course MB-220T00-A: Microsoft Dynamics 365 Marketing'
+uid: course.mb-220t00
+courseNumber: 'MB-220T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurare le impostazioni avanzate
+- skill: Gestire contenuti di marketing modelli e integrazioni
+- skill: Creare e gestire i lead.
+- skill: Creare e gestire moduli e pagine di marketing
+- skill: Creare e gestire segmenti
+- skill: Organizzare e lanciare i viaggi dei clienti
+- skill: Creare e gestire eventi
+- skill: Distribuire e analizzare i sondaggi
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Questo corso esaminerà la configurazione delle applicazioni di marketing necessarie per guidare la crescita del business. Si approfondirà anche la gestione dei lead, i moduli e le pagine di marketing, la segmentazione e i messaggi di marketing e-mail. Tutti questi elementi sono legati insieme attraverso la progettazione interattiva del percorso del cliente, inclusa la configurazione di eventi e sondaggi.
+
+  #### Profilo dei destinatari
+  Questo corso è pensato per i professionisti dell'IT o del marketing che vogliono imparare a sfruttare Dynamics 365 for Marketing per le aziende.
+prerequisitesSection: |-
+  Conoscenza della piattaforma Dynamics 365 e comprensione dei principi di base del marketing.
+outlineSection: |-
+  ### Modulo 1&#58; Configurazione dell’Applicazione di marketing
+  In questo modulo, conoscerai le impostazioni avanzate, i contenuti di marketing, i modelli e le integrazioni di Dynamics 365 per il marketing.
+  #### Lezioni
+  - Configurare le impostazioni avanzate
+  - Gestire i contenuti e i modelli di marketing
+  - Gestire le integrazioni LinkedIn e Power BI
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Configurare impostazioni avanzate come l'organizzazione, la gestione aziendale e i contenuti.
+  - Gestire i contenuti e i modelli di marketing.
+
+
+  ### Modulo 2&#58; Lead
+  Questo modulo analizzerà come creare, gestire e segnare i lead.
+  #### Lezioni
+  - Creare e gestire i lead
+  - Valutare la preparazione delle vendite
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Creare e gestire i lead.
+  - Sincronizzare i lead da LinkedIn.
+  - Valutare la prontezza delle vendite utilizzando modelli di punteggio dei lead.
+
+
+  ### Modulo 3&#58; Moduli e pagine di marketing
+  Questo modulo tratterà di come creare moduli e pagine di marketing.
+  #### Lezioni
+  - Creare moduli di marketing
+  - Creare pagine di marketing
+  - Gestire il marketing su Internet
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Creare moduli di marketing e inserirli nelle pagine di marketing.
+  - Creare pagine di marketing.
+  - Anteprima convalida ed attivazione di una pagina di marketing.
+  - Creare moduli di marketing e modelli di pagina.
+
+
+  ### Modulo 4&#58; Segmenti e Liste
+  Questo modulo tratterà di come gestire i segmenti, i centri di sottoscrizione, le liste e l'opt-in doppio.
+  #### Lezioni
+  - Creare e gestire segmenti
+  - Creare e gestire centri di abbonamento
+  - Doppio opt-in
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Configurare segmenti statici e dinamici.
+  - Creare un elenco di sottoscrizioni.
+  - Creare una pagina del centro di sottoscrizione.
+  - Impostare e abilitare un doppio processo di opt-in.
+
+
+  ### Modulo 5&#58; E-Mail di marketing
+  Questo modulo tratterà di come creare messaggi di posta elettronica in Dynamics 365 Marketing.
+  #### Lezioni
+  - Creare messaggi di posta elettronica
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Creare e inviare messaggi di posta elettronica.
+  - Anteprima convalida e go-live con i messaggi e-mail.
+  - Salvare un messaggio e-mail come modello.
+
+
+  ### Modulo 6&#58; Viaggi cliente
+  Questo modulo esaminerà il processo di creazione dei viaggi del cliente.
+  #### Lezioni
+  - Creare viaggi dei clienti
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Creare un viaggio del cliente a partire da un modello.
+  - Identificare i riquadri e le proprietà del viaggio del cliente.
+  - Convalidare e pubblicare un viaggio cliente.
+  - Creare un viaggio cliente fondato sull’account.
+  - Comprendere le caratteristiche del calendario di marketing.
+
+
+  ### Module  7&#58; Informazioni
+  Questo modulo dimostrerà come visualizzare, comprendere e gestire le informazioni sui clienti.
+  #### Lezioni
+  - Informazioni di marketing
+  - Informazioni sui clienti
+  - Informazioni sull'esecuzione del marketing
+  - Informazioni sulla gestione dei lead
+  - Informazioni sul marketing su Internet
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Trovare informazioni.
+  - Comprendere le informazioni approfondite di marketing come il contatto, il segmento, il percorso del cliente, le e-mail di marketing e i lead.
+
+
+  ### Modulo 8&#58; Eventi
+  In questo modulo imparerai come gestire la pianificazione e l'esecuzione di eventi in Dynamics 365 per il Marketing.
+  #### Lezioni
+  - Gestire la pianificazione degli eventi
+  - Gestire l'esecuzione dell’evento
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Creare eventi dal vivo e webinar.
+  - Impostare le funzionalità di pianificazione degli eventi come sessioni, relatori, pass per eventi, liste d'attesa e sedi.
+  - Creare e gestire eventi ricorrenti.
+
+
+  ### Modulo 9&#58; Sondaggi
+  In questo modulo si esaminerà come configurare, progettare e distribuire i sondaggi in Dynamics 365 for Marketing.
+  #### Lezioni
+  - Creare sondaggi
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Creare un tema di sondaggio riutilizzabile.
+  - Creare, progettare, visualizzare in anteprima e pubblicare un sondaggio.
+
+
+  ### Modulo 10&#58; Risultati
+  Nel modulo Risultati, esaminerai gli approfondimenti sugli eventi di marketing e sui sondaggi.
+  #### Lezioni
+  - Rivedere i risultati dell'evento e del sondaggio
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Utilizzare il cruscotto dell'evento per valutare l'esito dei propri eventi.

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementare un feedback continuo
+title: Implementing Continuous Feedback
 metadata:
-  title: 'Corso AZ-400T06-A: Implementare un feedback continuo'
-  description: 'Corso AZ-400T06-A: Implementare un feedback continuo'
+  title: 'Course AZ-400T06-A: Implementing Continuous Feedback'
+  description: 'Course AZ-400T06-A: Implementing Continuous Feedback'
 uid: course.az-400t06
 courseNumber: 'AZ-400T06-A'
 hoursToComplete: 24
@@ -39,7 +39,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per implementare un feedback continuo. Gli studenti impareranno a suggerire e progettare meccanismi di feedback sul sistema, implementare un processo per instradare il feedback sul sistema ai team di sviluppo e a ottimizzare i meccanismi di feedback.
-  
   #### Profilo dei destinatari
   Gli studenti che decidono di partecipare a questo corso sono persone interessate a implementare i processi DevOps o a sostenere l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
 prerequisitesSection: |-
@@ -52,16 +51,14 @@ outlineSection: |-
   - Progettare procedure per misurare la soddisfazione degli utenti finali
   - Progettare processi per acquisire e analizzare il feedback degli utenti
   - Progettare processi per automatizzare l’analisi delle applicazioni
-  #### Laboratorio&#58; Integrare Azure DevOps e Teams
-
-  #### Laboratorio&#58; Flag funzionalità
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Integrare Azure DevOps e Teams
+  #### Laboratorio &#58; Flag funzionalità
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Progettare procedure per misurare la soddisfazione degli utenti finali
   - Progettare processi per acquisire e analizzare il feedback degli utent in base a origini esterne
   - Progettare l’instradamento per i dati dei rapporti sugli arresti anomali delle applicazioni client
   - Raccomandare strumenti e tecnologie di monitoraggio
   - Raccomandare strumenti per il tracciamento dell’utilizzo del sistema e delle funzionalità
-
 
   ### Modulo 2&#58; Implementare processi per instradare il feedback sul sistema ai team di sviluppo
   #### Lezioni
@@ -70,7 +67,7 @@ outlineSection: |-
   - Sviluppare dashboard per il monitoraggio e lo stato
   - Integrare e configurare sistemi per la creazione di ticket
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Configurare l’integrazione di rapporti sugli arresti anomali per le applicazioni client
   - Sviluppare dashboard per il monitoraggio e lo stato
   - Implementare l’instradamento per i dati dei rapporti sugli arresti anomali delle applicazioni client
@@ -86,8 +83,9 @@ outlineSection: |-
   - Analizzare gli avvisi per definire una linea di base
   - PostMortem innocui e Just Culture
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Analizzare gli avvisi per definire una linea di base
   - Analizzare la telemetria per definire una linea di base
   - Eseguire revisioni live in loco e acquisire feedback per le interruzioni del sistema
   - Effettuare regolamenti in corso d'opera per ridurre gli avvisi poco significativi o non contestabili
+

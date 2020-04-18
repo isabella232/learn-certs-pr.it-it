@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementare la gestione delle dipendenze
+title: Implementing Dependency Management
 metadata:
-  title: 'Corso AZ-400T04-A: Implementare la gestione delle dipendenze'
-  description: 'Corso AZ-400T04-A: Implementare la gestione delle dipendenze'
+  title: 'Course AZ-400T04-A: Implementing Dependency Management'
+  description: 'Course AZ-400T04-A: Implementing Dependency Management'
 uid: course.az-400t04
 courseNumber: 'AZ-400T04-A'
 hoursToComplete: 24
@@ -34,7 +34,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Questo corso consente agli studenti di acquisire le nozioni e competenze necessarie per implementare la gestione delle dipendenze. Agli studenti verrà spiegato come progettare una strategia per la gestione delle dipendenze e gestire la sicurezza e la conformità.
-  
   #### Profilo dei destinatari
   Gli studenti che seguono questo corso sono persone interessate a implementare la gestione delle dipendenze o a superare l’esame di certificazione Soluzioni DevOps di Microsoft Azure.
 prerequisitesSection: |-
@@ -46,15 +45,14 @@ outlineSection: |-
   - Assemblaggio di dipendenze
   - Gestione dei pacchetti
   - Implementare una strategia per il controllo delle versioni
-  #### Laboratorio&#58; Aggiornare i pacchetti
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Aggiornare i pacchetti
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Suggerire strumenti e procedure per la gestione degli artefatti
   - Astrarre pacchetti comuni per abilitare la condivisione e il riutilizzo
   - Analizzare il codice base per identificare le dipendenze del codice che possono essere convertite in pacchetti
   - Identificare e suggerire tipi e versioni di pacchetti standardizzati nella soluzione
   - Effettuare il refactoring di pipeline di build esistenti per implementare la strategia delle versioni usata per pubblicare i pacchetti
   - Gestire la sicurezza e la conformità
-
 
   ### Modulo 2&#58; Gestire la sicurezza e la conformità
   #### Lezioni
@@ -63,7 +61,8 @@ outlineSection: |-
   - Software open source
   - Integrare le vulnerabilità e le scansioni delle vulnerabilità
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Verificare che la sicurezza e la conformità delle licenze dei pacchetti software open source siano allineati agli standard aziendali
   - Configurare pipeline di compilazione per l’accesso alla sicurezza dei pacchetti e la valutazione delle licenze
   - Configurare un accesso sicuro ai feed dei pacchetti
+

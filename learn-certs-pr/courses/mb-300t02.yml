@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurazione principale di Dynamics 365 for Finance and Operations
+title: Core configuration in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Course MB-300T02-A: Configurazione principale di Dynamics 365 for Finance and Operations'
-  description: 'Course MB-300T02-A: Configurazione principale di Dynamics 365 for Finance and Operations'
+  title: 'Course MB-300T02-A: Core configuration in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T02-A: Core configuration in Dynamics 365 for Finance and Operations'
 uid: course.mb-300t02
 courseNumber: 'MB-300T02-A'
 hoursToComplete: 24
@@ -20,13 +20,7 @@ products:
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
-summary: |-
-  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per ridurre i costi operativi e rispondere rapidamente alle mutevoli esigenze aziendali. Questa soluzione permette alle organizzazioni di raggiungere questi obiettivi. 
-
-  Questo corso illustra come configurare i componenti principali di Microsoft Dynamics 365 for Finance and Operations.
-
-  #### Profilo dei destinatari
-  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+summary: "Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per ridurre i costi operativi e rispondere rapidamente alle mutevoli esigenze aziendali. Questa soluzione permette alle organizzazioni di raggiungere questi obiettivi. \n\nQuesto corso illustra come configurare i componenti principali di Microsoft Dynamics 365 for Finance and Operations.\n\n#### Profilo dei destinatari\nUn Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi."
 prerequisitesSection: |-
   Comprensione di base dei concetti di ERP e CRM.
 outlineSection: |-
@@ -40,7 +34,7 @@ outlineSection: |-
   - Configurare i calendari e gli intervalli di date
   - Laboratori di pratica
   - Riepilogo del modulo
-  
+
 
   Gli studenti hanno imparato a creare una persona giuridica e a generare sequenze numeriche, manualmente o utilizzando un wizard- Gli studenti hanno anche configurato i calendari e gli intervalli di date. Inoltre, hanno imparato a creare gerarchie organizzative, ad applicare scopi e a stabilire politiche per snellire le politiche aziendali e le strutture di reporting.
 
@@ -51,11 +45,11 @@ outlineSection: |-
   - Comprendere l'architettura della sicurezza
   - Gestire utenti e sicurezza
   - Impostazione e applicazione della separazione dei compiti
-  - Eseguito i rapporti di sicurezza
+  - Eseguire i rapporti di sicurezza
   - Impostare processi e avvisi in batch
   - Laboratori di pratica
   - Riepilogo del modulo
-  
+
 
   In questo modulo, gli studenti avranno&#58;
   - Capito l'architettura di sicurezza di Finance and Operations
@@ -73,9 +67,9 @@ outlineSection: |-
   - Creare e mantenere modelli di registrazione
   - Laboratori di pratica
   - Riepilogo del modulo
-  
 
-  Gli studenti hanno ora imparato a utilizzare e applicare le opzioni utente, creare la personalizzazione ed esportare la personalizzazione per l'utilizzo da parte di altri utenti, utilizzando la funzione di personalizzazione di Finance and Operations. Hanno anche imparato la differenza tra customizzazione e personalizzazione. In particolare, come la personalizzazione aiuta a risparmiare tempo nella personalizzazione dei valori di campo spesso utilizzati e consente la creazione e la manutenzione di modelli di record.
+
+  Gli studenti hanno ora imparato a utilizzare e applicare le opzioni utente, creare la personalizzazione ed esportare la personalizzazione per l'utilizzo da parte di altri utenti, utilizzando la funzione di personalizzazione di Finance and Operations. Hanno anche imparato la differenza tra customizzazione e personalizzazione. In particular, how personalization helps save time personalizing often-used field values and allows for creation and maintenance of record templates.
 
   ### Modulo 4&#58; Implementare Caratteristiche di integrazione comuni
   Microsoft Dynamics 365 si integra con molti altri programmi comuni; ad esempio, e-mail, Microsoft Office e Power BI.
@@ -88,7 +82,7 @@ outlineSection: |-
   - Integrare i dati nei servizi dati comuni per le applicazioni
   - Laboratori di pratica
   - Riepilogo del modulo
-  
+
 
   In questo modulo gli studenti avranno imparato ad utilizzare l'integrazione di Microsoft Office in Dynamics 365 for Finance and Operations, a configurare la posta elettronica (SMTP/Exchange) e a creare e mantenere modelli di posta elettronica per standardizzare i messaggi quando si inviano e-mail ai clienti. Impostando le funzioni di stampa in rete, le stampanti di rete aziendali possono essere utilizzate in remoto. Infine, questo modulo ha fornito una panoramica su come integrare i dati provenienti da più fonti in Common Data Service for Apps e integrare i dati in Dynamics 365 for Finance and Operations utilizzando l'area di lavoro Data Management.
 
@@ -98,6 +92,7 @@ outlineSection: |-
   - Valutazione finale
   - Riepilogo del corso
   - Sondaggio post-corso
-  
+
 
   Gli studenti avranno completato il corso.
+

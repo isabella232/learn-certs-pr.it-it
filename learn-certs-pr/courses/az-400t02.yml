@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementare l’integrazione continua
+title: Implementing Continuous Integration
 metadata:
-  title: 'Corso AZ-400T02-A: Implementare l’integrazione continua'
-  description: 'Corso AZ-400T02-A: Implementare l’integrazione continua'
+  title: 'Course AZ-400T02-A: Implementing Continuous Integration'
+  description: 'Course AZ-400T02-A: Implementing Continuous Integration'
 uid: course.az-400t02
 courseNumber: 'AZ-400T02-A'
 hoursToComplete: 24
@@ -38,7 +38,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   Questo corso permette agli studenti di acquisire le nozioni e le competenze necessarie per implementare le procedure DevOps relative all’integrazione continua. Agli studenti verrà spiegato come implementare l’integrazione continua in una pipeline di Azure DevOps, gestire la qualità del codice e i principi di sicurezza, nonché come implementare una strategia di compilazione per i contenitori.
- 
   #### Profilo dei destinatari
   Gli studenti che decidono di seguire questo corso sono interessati ai processi di integrazione continua di DevOps o a sostenere l'esame di certificazione Soluzioni DevOps di Microsoft Azure.
 prerequisitesSection: |-
@@ -50,13 +49,11 @@ outlineSection: |-
   #### Lezioni
   - Panoramica dell’integrazione continua
   - Implementare una strategia di compilazione
-  #### Laboratorio&#58; Abilitare l’integrazione continua con Azure Pipelines
-
-  #### Laboratorio&#58; Creare un processo di compilazione Jenkins e attivare CI
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  #### Laboratorio &#58; Abilitare l’integrazione continua con Azure Pipelines
+  #### Laboratorio &#58; Creare un processo di compilazione Jenkins e attivare CI
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Spiegare perché l’integrazione continua è importante
   - Implementare l’integrazione continua con Azure DevOps
-
 
   ### Modulo 2&#58; Gestire la qualità del codice e i criteri di sicurezza
   In questo modulo gli studenti impareranno a gestire la qualità del codice, con soluzioni qualii&#58; il debito tecnico, SonarCloud e altri strumenti. Agli studenti verrà spiegato anche come gestire i criteri di sicurezza con codice open source, OWASP e WhiteSource Bolt.
@@ -65,13 +62,13 @@ outlineSection: |-
   - Gestire i criteri di sicurezza
 
 
-  #### Laboratorio&#58; Gestire il debito tecnico con Azure DevOps e SonarCloud
+  #### Laboratorio &#58; Gestire il debito tecnico con Azure DevOps e SonarCloud
 
-  #### Laboratorio&#58; Controllo delle vulnerabilità con WhiteSource Bolt e Azure DevOps
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Gestire la qualità del codice, con soluzioni quali&#58; il debito tecnico, SonarCloud e altri strumenti.
-  - Gestire i criteri di sicurezza con codice open source, OWASP e WhiteSource Bolt.
-  - Gestire la qualità del codice, con soluzioni quali&#58; il debito tecnico, SonarCloud e altri strumenti.
+  #### Laboratorio &#58; Controllo delle vulnerabilità con WhiteSource Bolt e Azure DevOps
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Gestire la qualità del codice, con soluzioni quali &#58; il debito tecnico, SonarCloud e altri strumenti
+  - Gestire i criteri di sicurezza con codice open source, OWASP e WhiteSource Bolt
+  - Gestire la qualità del codice, con soluzioni quali &#58; il debito tecnico, SonarCloud e altri strumenti
 
 
   ### Modulo 3&#58; Implementare una strategia di compilazione per i contenitori
@@ -80,7 +77,8 @@ outlineSection: |-
   - Implementare una strategia di compilazione per i contenitori
 
 
-  #### Laboratorio&#58; Applicazioni .NET esistenti con immagini Azure e Docker
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Implementare una strategia per i contenitori che spieghi perchè i contenitori sono diversi dalle macchine virtuali e perché i microservizi utilizzano contenitori.
-  - Implementare contenitori con Docker.
+  #### Laboratorio &#58; Applicazioni .NET esistenti con immagini Azure e Docker
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Implementare una strategia per i contenitori che spieghi perchè i contenitori sono diversi dalle macchine virtuali e perché i microservizi utilizzano contenitori
+  - Implementare contenitori con Docker
+

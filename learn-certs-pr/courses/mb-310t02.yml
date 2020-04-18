@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurare e utilizzare i debiti, i crediti e gli incassi in Finance and Operations
+title: Configure and use accounts payable, receivable, and collections in Finance and Operations
 metadata:
-  title: 'Course MB-310T02-A: Configurare e utilizzare i debiti, i crediti e gli incassi in Finance and Operations'
-  description: 'Course MB-310T02-A: Configurare e utilizzare i debiti, i crediti e gli incassi in Finance and Operations'
+  title: 'Course MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
+  description: 'Course MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
 uid: course.mb-310t02
 courseNumber: 'MB-310T02-A'
 hoursToComplete: 24
@@ -21,7 +21,7 @@ exams:
 - uid: exam.mb-310
 summary: |-
   Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per elevare le loro performance finanziarie aumentando la redditività, ottimizzando la produttività della forza lavoro, riducendo le spese operative, adattandosi rapidamente ai cambiamenti dei requisiti e ottimizzando la gestione degli asset.
-  
+
   Questo corso illustra come configurare e utilizzare i crediti, i debiti e gli incassi in Dynamics 365 for Finance and Operations.
 
   #### Profilo dei destinatari
@@ -140,7 +140,7 @@ outlineSection: |-
   - Laboratori di pratica
   - Riepilogo del modulo
 
-  In questo modulo, gli studenti hanno imparato come &58#;
+  In questo modulo, gli studenti hanno imparato come&#58;
   - Dichiarazioni dei clienti
   - Come elaborare l’incasso
 
@@ -153,3 +153,4 @@ outlineSection: |-
   - Sondaggio post-corso
 
   Gli studenti avranno completato il corso.
+

@@ -1,19 +1,19 @@
 ### YamlMime:Course
-title: Configurazione di Windows 10
+title: Configuring Windows 10
 metadata:
-  title: 'Course MD-100T02-A: Configurare Windows 10'
-  description: 'Course MD-100T02-A: Configurare Windows 10'
+  title: 'Course MD-100T02-A: Configuring Windows 10'
+  description: 'Course MD-100T02-A: Configuring Windows 10'
 uid: course.md-100t02
 courseNumber: 'MD-100T02-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Configurare dispositivi e driver per Windows.
-- skill: Configurare l’archiviazione per Windows.
-- skill: Configurare le impostazioni di rete in Windows.
-- skill: Configurare la gestione remota di Windows.
-- skill: Configurare e gestire le applicazioni in Windows.
-- skill: Configurare Internet Explorer.
+- skill: Configurare dispositivi e driver per Windows
+- skill: Configurare l’archiviazione per Windows
+- skill: Configurare le impostazioni di rete in Windows
+- skill: Configurare la gestione remota di Windows
+- skill: Configurare e gestire le applicazioni in Windows
+- skill: Configurare Internet Explorer
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -88,7 +88,7 @@ outlineSection: |-
   - Gestire gli spazi di archiviazione
 
 
-  #### Laboratorio&#58; Laboratorio di pratica&#58; Gestire l'archiviazione
+  #### Laboratorio &#58; Gestire l'archiviazione
   - Aggiungere un disco
   - Creare un volume semplice
   - Comprimere una cartella
@@ -119,9 +119,10 @@ outlineSection: |-
   - Descrivere le funzionalità dei browser Web in Windows 10
 
 
-  ### Modulo 5&#58; Conclusione del corso
+  ### Modulo  5&#58; Conclusione del corso
   #### Lezioni
   - Esame Finale
 
 
-  #### Laboratorio&#58; Laboratorio con valutazione dei risultati
+  #### Laboratorio &#58; Laboratorio con valutazione dei risultati
+

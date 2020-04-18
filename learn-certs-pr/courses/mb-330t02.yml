@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations
+title: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Course MB-330T02-A: Utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations'
-  description: 'Course MB-330T02-A: Utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations'
+  title: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t02
 courseNumber: 'MB-330T02-A'
 hoursToComplete: 24
@@ -20,7 +20,7 @@ products:
 exams:
 - uid: exam.mb-330
 summary: |-
- Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per automatizzare e ottimizzare la loro catena di fornitura modernizzando la logistica aziendale, fornendo risposte tempestive ai clienti, andando avanti con intuizioni predittive, ottimizzando l'approvvigionamento e unificando i processi dalle vendite alla realizzazione. Questo corso discute come utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations.
+  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per automatizzare e ottimizzare la loro catena di fornitura modernizzando la logistica aziendale, fornendo risposte tempestive ai clienti, andando avanti con intuizioni predittive, ottimizzando l'approvvigionamento e unificando i processi dalle vendite alla realizzazione. Questo corso discute come utilizzare la gestione della qualità, gli scambi interaziendali e la pianificazione generale in Dynamics 365 for Finance and Operations.
 
   #### Profilo dei destinatari
   Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
@@ -72,7 +72,7 @@ outlineSection: |-
   - Introduzione
   - Considerazioni sulla pianificazione e sulla configurazione
   - Creazione di master plan
-  - Essere informati sulle previsioni della domanda e dell'offerta
+  - Conoscere le previsioni della domanda e dell'offerta
   - Configurare la copertura degli articoli
   - Breve introduzione alla pianificazione interaziendale
   - Eseguire i piani e gli ordini pianificati
@@ -89,7 +89,7 @@ outlineSection: |-
   - Eseguire i piani e gli ordini pianificati
 
 
-  ### Modulo 4&#58; Fine del corso
+  ### Modulo 4&#58; Conclusione del corso
   Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
   #### Lezioni
   - Valutazione finale
@@ -98,3 +98,4 @@ outlineSection: |-
 
 
   Gli studenti avranno completato il corso.
+

@@ -1,43 +1,45 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Esame AZ-203: Developing Solutions for Microsoft Azure'
-  description: 'Esame AZ-203: Developing Solutions for Microsoft Azure'
+  title: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-203: Developing Solutions for Microsoft Azure'
 uid: exam.az-203
 displayName: AZ-203
-summary: >-
-  I candidati per questo esame sono sviluppatori di Azure che progettano e creano soluzioni cloud come applicazioni e servizi. Partecipano a tutte le fasi dello sviluppo, dalla progettazione, sviluppo e installazione della soluzione al testing e alla manutenzione. Per implementare la soluzione lavorano in collaborazione con i progettisti di soluzioni cloud, gli amministratori di database cloud (DBA), gli amministratori del cloud e i clienti.
-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href="/learn/certifications/exams/az-204">AZ-204</a>, È STATA RESA DISPONIBILE IL 24 FEBBRAIO. Potrai sostenere questo esame fino al 31 maggio 2020, data in cui sarà ritirato. Nota&#58; Gli esami vengono ritirati alle 23:59 (CST).<br/><br/></div>
+  
+  I candidati idonei a questo esame sono Azure Developer che progettano e creano soluzioni cloud come applicazioni e servizi. Partecipano a tutte le fasi dello sviluppo, dalla progettazione, lo sviluppo e la distribuzione della soluzione al testing e alla manutenzione. Per implementare la soluzione lavorano in collaborazione con i progettisti di soluzioni cloud, gli amministratori di database cloud (DBA), gli amministratori del cloud e i clienti.
   <br/>
-
 
   I candidati devono saper sviluppare app e servizi con gli strumenti e le tecnologie di Azure, tra cui archiviazione, sicurezza, elaborazione e comunicazioni.
 
-
   Devono avere almeno un anno di esperienza in tutte le fasi dello sviluppo software di soluzioni scalabili e conoscere almeno un linguaggio di programmazione supportato dal cloud.
+
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>NOTA&#58; se supererai questo esame otterrai la seguente certificazione&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: sviluppare l’infrastruttura Azure come soluzione di elaborazione dei servizi; sviluppare la piattaforma Azure come soluzione di elaborazione dei servizi; sviluppare per l’archiviazione in Azure; implementare la sicurezza di Azure; monitorare, risolvere i problemi e ottimizzare le soluzioni; connettersi a e usare i servizi Azure e quelli di terze parti.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-203&examname=Esame%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Faz-203
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
+- UNA NUOVA VERSIONE DI QUESTO ESAME, AZ-204, È STATA RESA DISPONIBILE IL 24 FEBBRAIO. Potrai sostenere questo esame fino al 31 maggio 2020, data in cui sarà ritirato. Scarica il documento delle competenze misurate qui sotto per avere informazioni dettagliate sulle modifiche.
 - Sviluppare un’infrastruttura Azure come soluzione di elaborazione dei servizi (10-15%)
 - Sviluppare una piattaforma Azure come soluzione di elaborazione dei servizi (20-25%)
 - Sviluppare l’archiviazione in Azure (15-20%)
 - Implementare la sicurezza in Azure (10-15%)
 - Monitorare, risolvere i problemi e ottimizzare le soluzioni (10-15%)
 - Connettersi e utilizzare i servizi di Azure e di terzi (20-25%)
+retirementDate: 31/05/2020
 roles:
 - developer
-exams:
-- uid: exam.az-202
 products:
 - azure
 - azure-virtual-machines
@@ -66,12 +68,9 @@ paths:
 - uid: learn.deploy-a-website-with-azure-app-service
 - uid: learn.data-science
 - uid: learn.secure-your-cloud-data
-- uid: learn.modern-data-warehouse
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
-    uid: certification.azure-developer
+    uid: none
 resources:
 - title: Percorso di formazione per ottenere la certificazione
   description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Developer Associate.'
@@ -79,18 +78,21 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
+- title: Poster della certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi un alloggio
-  description: Scopri come richiedere un alloggio per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Richiedi una sistemazione particolare
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md

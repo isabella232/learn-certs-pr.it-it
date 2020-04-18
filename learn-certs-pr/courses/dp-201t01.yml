@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Progettare una soluzione dati Azure
+title: Designing an Azure Data Solution
 metadata:
-  title: 'Corso DP-201T01-A: Progettare una soluzione dati Azure'
-  description: 'Corso DP-201T01-A: Progettare una soluzione dati Azure'
+  title: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  description: 'Course DP-201T01-A: Designing an Azure Data Solution'
 uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
@@ -30,12 +30,11 @@ exams:
 - uid: exam.dp-201
 summary: |-
   In questo corso gli studenti utilizzeranno varie tecnologie Data Platform per sviluppare soluzioni che soddisfino requisiti aziendali e tecnici specifici. Tali tecnologie possono includere scenari con dati locali, basati su cloud e ibridi che comprendono dati relazionali, NoSQL o Data Warehouse. Agli studenti verrà spiegato anche come progettare architetture di elaborazione utilizzando varie tecnologie per i dati in streaming e batch. Scopriranno inoltre come progettare la sicurezza dei dati, approfondendo argomenti come l’accesso ai dati, i criteri e gli standard applicabili ai dati. Durante il corso progetteranno infine soluzioni dati Azure, occupandosi tra l’altro dell’ottimizzazione, della disponibilità e del ripristino di emergenza di big data, dell’elaborazione in batch e di soluzioni con dati in streaming.
-  
   #### Profilo dei destinatari
   Questo corso è principalmente destinato a professionisti che si occupano di dati, agli architetti di dati e agli esperti di business intelligence che desiderano conoscere meglio le tecnologie Data Platform disponibili in Microsoft Azure. Il corso è consigliato anche a chiunque sviluppi applicazioni che forniscono contenuti utilizzando le tecnologie Data Platform disponibili in Microsoft Azure
 prerequisitesSection: |-
   Oltre ad avere un’esperienza a livello professionale, gli studenti che decidono di seguire questo corso devono possedere le conoscenze tecniche che si acquisiscono tramite i seguenti corsi&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https&#58;//docs.microsoft.com/it-it/learn/modules/welcome-to-azure/)
   - DP-200&#58; Implementare una soluzione dati Azure
 outlineSection: |-
   ### Modulo 1&#58; Considerazioni sull’architettura Data Platform
@@ -47,18 +46,16 @@ outlineSection: |-
   - Progettare la disponibilità e recuperabilità
   - Progettare l’efficienza e operatività
   - Case study
-  #### Laboratorio&#58; Case study
+  #### Laboratorio &#58; Case study
   - Progettare all’insegna della sicurezza
   - Valutare le prestazioni e la scalabilità
   - Progettare la disponibilità e recuperabilità
   - Progettare l’efficienza e operatività
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Progettare all’insegna della sicurezza
   - Valutare le prestazioni e la scalabilità
   - Progettare la disponibilità e recuperabilità
   - Progettare l’efficienza e operatività
-
 
   ### Modulo 2&#58; Architetture di riferimento per l’elaborazione in batch in Azure
   In questo modulo, gli studenti apprenderanno i modelli di progettazione e pianificazione di riferimento che possono essere utilizzati per gestire l’elaborazione in batch dei dati. Agli studenti verrà chiesto di gestire il trasferimento dei dati da sistemi locali a data warehouse nel cloud e di stabilire come automatizzarli. Verrà loro presentata anche un’architettura IA e chiesto loro come integrare la piattaforma dati con una soluzione IA.
@@ -69,12 +66,12 @@ outlineSection: |-
   - Progettare un bot per l’interfaccia di conversazione di livello aziendale in Azure
 
 
-  #### Laboratorio&#58; Progettare interfacce di conversazione di livello aziendale in Azure
+  #### Laboratorio &#58; Progettare interfacce di conversazione di livello aziendale in Azure
   - Progettare una soluzione BI Enterprise in Azure
   - Automatizzare una soluzione BI Enterprise in Azure
   - Automatizzare una soluzione BI Enterprise in Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Illustrare i principi di base per la creazione di architetture
   - Descrivere le architetture Lambda dalla prospettiva di una modalità batch
   - Progettare una soluzione BI Enterprise in Azure
@@ -92,12 +89,12 @@ outlineSection: |-
   - Creare un’architettura IoT di riferimento in Azure
 
 
-  #### Laboratorio&#58; Architetture di riferimento per l’elaborazione in tempo reale di Azure
+  #### Laboratorio &#58; Architetture di riferimento per l’elaborazione in tempo reale di Azure
   - Progettare una pipeline di elaborazione del flusso con Azure Stream Analytics
   - Progettare una pipeline di elaborazione del flusso con Azure Databricks
   - Creare un’architettura IoT di riferimento in Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere le architetture Lambda per una modalità in tempo reale
   - Progettare una pipeline di elaborazione del flusso con Azure Stream Analytics
   - Progettare una pipeline di elaborazione del flusso con Azure Databricks
@@ -115,7 +112,7 @@ outlineSection: |-
   - Difesa delle applicazioni
 
 
-  #### Laboratorio&#58; Considerazioni progettuali sulla sicurezza Data Platform
+  #### Laboratorio &#58; Considerazioni progettuali sulla sicurezza Data Platform
   - Approccio alla sicurezza basato su misure di difesa avanzate
   - Protezione delle identità
 
@@ -140,13 +137,13 @@ outlineSection: |-
   - Progettare strategie per il backup e il ripristino
 
 
-  #### Laboratorio&#58; Progettare la resilienza e il ridimensionamento
+  #### Laboratorio &#58; Progettare la resilienza e il ridimensionamento
   - Regolare la capacità del carico di lavoro mediante il ridimensionamento
   - Progettare l’ottimizzazione delle prestazioni a livello di archiviazione e database
   - Progettare una soluzione ad alta disponibilità
   - Integrare il ripristino di emergenza nelle architetture
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Regolare la capacità del carico di lavoro mediante il ridimensionamento
   - Ottimizzare le prestazioni della rete
   - Progettare l’ottimizzazione delle prestazioni a livello di archiviazione e database
@@ -164,12 +161,13 @@ outlineSection: |-
   - Utilizzare l’automazione per ridurre gli sforzi e gli errori
 
 
-  #### Laboratorio&#58; Progettare l’efficienza e operatività
+  #### Laboratorio &#58; Progettare l’efficienza e operatività
   - Massimizzare l’efficienza di un ambiente cloud
   - Utilizzare le funzioni di monitoraggio e analisi per ottenere informazioni di carattere operativo
   - Utilizzare l’automazione per ridurre gli sforzi e gli errori
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Massimizzare l’efficienza di un ambiente cloud
   - Utilizzare le funzioni di monitoraggio e analisi per ottenere informazioni di carattere operativo
   - Utilizzare l’automazione per ridurre gli sforzi e gli errori
+

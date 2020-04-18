@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gestione di Office 365
+title: Office 365 Management
 metadata:
-  title: 'Course MS-100T01-A: Gestione di Office 365'
-  description: 'Course MS-100T01-A: Gestione di Office 365'
+  title: 'Course MS-100T01-A: Office 365 Management'
+  description: 'Course MS-100T01-A: Office 365 Management'
 uid: course.ms-100t01
 courseNumber: 'MS-100T01-A'
 hoursToComplete: 48
@@ -39,7 +39,7 @@ outlineSection: |-
   #### Lezioni
   - Exchange Online
   - SharePoint Online
-  - Team
+  - Teams
   - Risorse aggiuntive
 
 
@@ -67,9 +67,10 @@ outlineSection: |-
 
   ### Modulo 5&#58; Laboratorio pratico online
 
-  #### Laboratorio&#58; Gestire Office 365
+  #### Laboratorio &#58; Gestire Office 365
   - Esercizio 1&#58; Impostare un tenant di prova di Microsoft 365
   - Esercizio 2&#58; Preparare un’installazione gestita di 365 ProPlus
   - Esercizio 3&#58; Gestire installazioni guidate dall’utente di Office 365 ProPlus
   - Esercizio 4&#58; Gestire installazioni centralizzate di Office 365 ProPlus
   - Esercizio 5&#58; Implementare e configurare i componenti di Office Telemetry
+

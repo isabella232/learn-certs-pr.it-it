@@ -1,10 +1,10 @@
 ### YamlMime:Course
-title: Dynamics 365 for customer engagement for sales
+title: Microsoft Dynamics 365 Sales
 metadata:
-  title: 'Course MB-210T01-A: Dynamics 365 per Customer Engagement per Sales'
-  description: 'Course MB-210T01-A: Dynamics 365 per Customer Engagement per Sales'
+  title: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
+  description: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
 uid: course.mb-210t01
-courseNumber: 'MB-210T01-A'
+courseNumber: 'MB-210T01'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -36,7 +36,7 @@ summary: |-
 prerequisitesSection: |-
   La familiarità delle applicazioni aziendali e il desiderio di personalizzarle e implementarle per il business.
 outlineSection: |-
-  ### Module 1&#58; Panoramica sulle vendite
+  ### Modulo 1&#58; Panoramica sulle vendite
   In questo modulo gli studenti impareranno le basi della vendita in Dynamics 365. Installeranno e configureranno l'applicazione, oltre a conoscere i ruoli di sicurezza, i termini chiave e il modello dei dati.
   #### Lezioni
   - Panoramica delle vendite
@@ -90,3 +90,4 @@ outlineSection: |-
   - Creare e utilizzare gli obiettivi
   - Integrare con PowerBI
   - Attivare la funzionalità di Intelligenza Artificiale per le vendite
+

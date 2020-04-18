@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft Azure Fundamentals
 metadata:
-  title: 'Corso AZ-900T01-A: Microsoft Azure Fundamentals'
-  description: 'Corso AZ-900T01-A: Microsoft Azure Fundamentals'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
@@ -27,12 +27,10 @@ summary: |-
   Questo corso fornisce una conoscenza di base dei servizi cloud e spiega come questi servizi vengano offerti da Microsoft Azure. Il corso può essere considerato come un primo passo facoltativo per imparare a utilizzare i servizi cloud e Microsoft Azure e deve essere sostenuto prima di seguire ulteriori corsi su Microsoft Azure o sui servizi cloud di Microsoft.
   È incentrato sui concetti generali del cloud computing, nonché sui modelli generali e i servizi del cloud computing, come i cloud pubblici, privati e ibridi; IaaS (Infrastructure-as-a-Service); PaaS (Platform-as-a-Service) e SaaS (Software-as-a-Service).
   Verranno affrontati anche argomentii come i servizi e le soluzioni di base di Azure, nonché i servizi pilastro di Azure in termini di sicurezza, privacy, conformità e affidabilità. Infine, verranno illustrati i prezzi e i piani di supporto offerti con Azure.
-  
   #### Profilo dei destinatari
   Non sono previsti pre-requisiti per sostenere questo corso. È pensato per chiunque desideri conoscere meglio Microsoft Azure.
 prerequisitesSection: |-
   Non sono previsti pre-requisiti per sostenere questo corso. Benché non sia richiesta alcuna esperienza IT tecnica, è utile avere conoscenze IT generali.
-
 outlineSection: |-
   ### Modulo 1&#58; Concetti del cloud
   Questo corso mira a illustrare i concetti generali relativi al cloud.
@@ -41,10 +39,8 @@ outlineSection: |-
   - Perché scegliere i servizi cloud
   - Infrastruttura come servizio (IaaS), Piattaforma come servizio (PaaS) e Software come servizio (SaaS)
   - Modelli di cloud pubblici, privati e ibridi
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Dimostrare di conoscere i concetti generali del cloud computing
-
 
   ### Modulo 2&#58; Servizi di base di Azure
   In questo modulo verranno illustrati agli studenti i servizi fondamentali di base offerti con Microsoft Azure.
@@ -54,9 +50,8 @@ outlineSection: |-
   - Soluzioni di Azure
   - Strumenti di gestione di Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Dimostrare di conoscere i servizi di base offerti con
-  Microsoft Azure
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Dimostrare di conoscere i servizi di base offerti con Microsoft Azure
 
   ### Modulo 3&#58; Sicurezza, privacy, conformità e affidabilità
   In questo modulo verranno descritte la sicurezza, la privacy, la conformità e l’affidabilità offerte da Microsoft Azure.
@@ -68,9 +63,8 @@ outlineSection: |-
   - Monitoraggio e creazione di report in Azure
   - Norme relative alla privacy, alla conformità e alla protezione dei dati di Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Dimostrare di conoscere
-  la sicurezza, privacy, conformità e l’affidabilità offerte da Microsoft Azure
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Dimostrare di conoscere la sicurezza, privacy, conformità e l’affidabilità offerte da Microsoft Azure
 
   ### Modulo 4&#58; Prezzi e piani di supporto di Azure
   Questo modulo è incentrato sui modelli dei prezzi e dei piani di supporto offerti da Microsoft.
@@ -80,5 +74,6 @@ outlineSection: |-
   - Opzioni di supporto disponibili per Azure
   - Ciclo di vita dei servizi in Azure
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Dimostrare di comprendere i modelli dei prezzi e dei piani di supporto offerti da Microsoft
+

@@ -1,27 +1,31 @@
-### YamlMime:Examination
+﻿### YamlMime:Examination
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Esame DP-100: Designing and Implementing a Data Science Solution on Azure'
-  description: 'Esame DP-100: Designing and Implementing a Data Science Solution on Azure'
+  title: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
-summary: "I candidati a questo esame applicano rigore scientifico e tecniche di analisi dei dati per ottenere informazioni utili e comunicare i risultati alle parti interessate. I candidati utilizzano le tecniche di apprendimento automatico per testare, valutare e distribuire modelli per costruire soluzioni Al che soddisfino gli obiettivi aziendali. I candidati utilizzano applicazioni che implicano l'elaborazione di un linguaggio naturale, la parola, la visone artificiale e l'analisi predittiva. \n\nI candidati sono parte di un team multidisciplinare che comprende considerazioni etiche, di privacy e di gestione per arrivare alla soluzione. I candidati solitamente hanno un background in scienze matematiche, statistiche e informatiche."
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: definire e preparare l’ambiente di sviluppo; preparare i dati per la modellazione; eseguire la progettazione delle funzionalità; sviluppare modelli.'
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>Phase 1&#58; - Il contenuto di questo esame sarà aggiornato il 22 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  
+  Il Data Scientist Azure applica le proprie conoscenze di scienza dei dati e di machine learning per implementare ed eseguire carichi di lavoro di machine learning su Azure; in particolare, utilizzando Azure Machine Learning Service. Ciò comporta la pianificazione e la creazione di un ambiente di lavoro adatto per i carichi di lavoro di scienza dei dati su Azure, l'esecuzione di esperimenti sui dati e l'addestramento di modelli predittivi, la gestione e l'ottimizzazione dei modelli e l'implementazione di modelli di machine learning in produzione.
+subTitle: 'Questo esame misura la capacità di svolgere i seguenti compiti tecnici: impostare uno spazio di lavoro Azure Machine Learning; eseguire esperimenti e addestrare i modelli; ottimizzare e gestire i modelli; distribuire e consumare i modelli.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-100&examname=Esame%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:
-- Definire e preparare l'ambiente di sviluppo (15-20%)
-- Preparare i dati per la modellizzazione (25-30%)
-- Eseguire la progettazione delle funzionalità (15-20%)
-- Sviluppare modelli (40-45%)
+- Il contenuto di questo esame sarà aggiornato il venerdì 22 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
+- Impostare uno spazio di lavoro Azure Machine Learning (30 -35%) 
+- Eseguire esperimenti e addestrare modelli (25 -30%) 
+- Ottimizzare e gestire i modelli (20 -25%) 
+- Distribuire e consumare i modelli (20 -25%)
 roles:
 - data-scientist
 products:
@@ -30,34 +34,29 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Data Scientist Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Poster della certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi una sistemazione particolare
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md

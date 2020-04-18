@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Abilitare Microsoft Teams for Collaboration
+title: Enabling Microsoft Teams for Collaboration
 metadata:
-  title: 'Course MS-300T03-A: Abilitare Microsoft Teams for Collaboration'
-  description: 'Course MS-300T03-A: Abilitare Microsoft Teams for Collaboration'
+  title: 'Course MS-300T03-A: Enabling Microsoft Teams for Collaboration'
+  description: 'Course MS-300T03-A: Enabling Microsoft Teams for Collaboration'
 uid: course.ms-300t03
 courseNumber: 'MS-300T03-A'
 hoursToComplete: 24
@@ -29,19 +29,7 @@ products:
 - office-yammer
 exams:
 - uid: exam.ms-300
-summary: |-
-  Microsoft Teams è l'hub per il lavoro di squadra in Microsoft 365. In questo corso imparerete a pianificare, a implementare e a gestire i team Microsoft. In particolare, questo corso tratta il rapporto dei Team con i gruppi SharePoint, OneDrive e Office 365. Fornisce le migliori pratiche per l'adozione e la distribuzione dei Team all'interno della vostra organizzazione. Inoltre, illustra anche come stabilire le politiche degli ospiti e la governance dei dati per i dati dei vostri Teams.
-
-  Questo corso è pensato per i professionisti IT che gestiscono e distribuiscono i Team Microsoft all'interno della loro organizzazione. 
-  
-  Questo è il terzoo di una serie di quattro corsi per il ruolo di Amministratore della collaborazione in team. Questi corsi aiutano a prepararsi per l'esame MS-300&#58; Svolgimento del lavoro di squadra di Microsoft 365.
-
-  #### Profilo dei destinatari
-  Questo corso è per il ruolo di amministratore della collaborazione in team di Microsoft 365. Il ruolo è responsabile della configurazione, della distribuzione e della gestione dei carichi di lavoro di Office 365 e Azure che si concentrano su una collaborazione e un'adozione efficiente ed efficace. Gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. L'amministratore è consapevole e può distinguere tra prodotti e servizi, ma non può gestire direttamente ogni prodotto o servizio.
-
-  Questi amministratori devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e i gruppi di lavoro.
-
-  L’amministratore della collaborazione in team ha una conoscenza di base dei punti di integrazione con le app e i servizi seguenti&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business.
+summary: "Microsoft Teams è l'hub per il lavoro di squadra in Microsoft 365. In questo corso imparerete a pianificare, a implementare e a gestire i team Microsoft. In particolare, questo corso tratta il rapporto dei Team con i gruppi SharePoint, OneDrive e Office 365. Fornisce le migliori pratiche per l'adozione e la distribuzione dei Team all'interno della vostra organizzazione. Inoltre, illustra anche come stabilire le politiche degli ospiti e la governance dei dati per i dati dei vostri Teams.\n\nQuesto corso è pensato per i professionisti IT che gestiscono e distribuiscono i Team Microsoft all'interno della loro organizzazione. \n\nQuesto è il terzoo di una serie di quattro corsi per il ruolo di Amministratore della collaborazione in team. Questi corsi aiutano a prepararsi per l'esame MS-300&#58; Svolgimento del lavoro di squadra di Microsoft 365.\n\n#### Profilo dei destinatari\nQuesto corso è per il ruolo di amministratore della collaborazione in team di Microsoft 365. Il ruolo è responsabile della configurazione, della distribuzione e della gestione dei carichi di lavoro di Office 365 e Azure che si concentrano su una collaborazione e un'adozione efficiente ed efficace. Gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. L'amministratore è consapevole e può distinguere tra prodotti e servizi, ma non può gestire direttamente ogni prodotto o servizio.\n\nQuesti amministratori devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e i gruppi di lavoro.\n\nL’amministratore della collaborazione in team ha una conoscenza di base dei punti di integrazione con le app e i servizi seguenti&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business."
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
   - Comprensione di base di Active Directory e Azure AD
@@ -75,10 +63,10 @@ outlineSection: |-
   - Meeting nei team
 
 
-  #### Laboratorio&#58; Configurare i team Microsoft
+  #### Laboratorio &#58; Configurare i team Microsoft
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Impostare i team Microsoft in Office 365
-  - Descrivere e amministrare le applicazioni nei team Microsoft
+  - Descrivere e amministrare le applicazioni nei team MIcrosoft
   - Utilizzare bot e tabelle all’interno dei team
   - Descrivere e utilizzare connettori nei team
   - Descrivere i concetti di incontro nei team
@@ -101,3 +89,4 @@ outlineSection: |-
   - Descrivere l’approccio di Microsoft nei confronti della privacy dei dati in Office 365
   - Visualizzare i report di Office 365 che misurano l’utilizzo dei team
   - Abilitare la qualità del servizio per team Microsoft
+

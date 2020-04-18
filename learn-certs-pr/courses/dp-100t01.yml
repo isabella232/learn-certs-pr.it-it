@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Progettare e implementare una soluzione di Data Science in Azure
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Corso DP-100T01-A: Progettare e implementare una soluzione di Data Science in Azure'
-  description: 'Corso DP-100T01-A: Progettare e implementare una soluzione di Data Science in Azure'
+  title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -25,7 +25,7 @@ summary: |-
   Questo corso è destinato ai data scientist e a chiunque sia significativamente coinvolto nel fornire formazione per i modelli di apprendimento automatico e nella loro distribuzione.
 prerequisitesSection: |-
   Prima di partecipare a queso corso, gli studenti devono&#58;
-  - Aver ottenuto la [certificazione Azure Fundamentals](https://docs.microsoft.com/learn/certifications/azure-fundamentals)
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - Sapere cos’è l’analisi scientifica, tra cui sapere come preparare i dati, addestrare i modelli e scegliere il modello migliore tra quelli offerti da più produttori
   - Saper programmare nel linguaggio di programmazione Python e usare le raccolte Python&#58; pandas, scikit-learn, matplotlib e seaborn
 outlineSection: |-
@@ -35,12 +35,12 @@ outlineSection: |-
   - Presentazione del processo di analisi scientifica
   - Panoramica delle opzioni di Azure Data Science
   - Presentazione di Azure Notebooks
+
   ### Modulo 2&#58; Utilizzare l’analisi scientifica con il servizio Azure Machine Learning
   Gli studenti impareranno a utilizzare il servizio Azure Machine Learning (AML) per automatizzare in modo professionale il processo di analisi scientifica.
   #### Lezioni
   - Presentazione del servizio AML
   - Registrare e distribuire i modelli di apprendimento automatico con il servizio AML
-
 
   ### Modulo 3&#58; Automatizzare l’apprendimento automatico con il servizio AML
   In questo modulo, verrà illustrata agli studenti la pipeline dell’apprendimento automatico e spiegato come AutoML e HyperDrive del servizio AML possono essere utilizzati per automatizzare alcune delle parti più laboriose della pipeline.
@@ -53,3 +53,4 @@ outlineSection: |-
   In questo modulo gli studenti impareranno come gestire e monitorare automaticamente i modelli di apprendimento automatico nel servizio AML.
   #### Lezioni
   - Gestire e monitorare i modelli di apprendimento automatico
+

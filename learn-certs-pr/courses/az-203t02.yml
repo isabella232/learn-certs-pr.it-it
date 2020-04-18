@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Sviluppare soluzioni di calcolo Azure PaaS
+title: Develop Azure Platform as a Service compute solutions
 metadata:
-  title: 'Corso AZ-203T02-A: Sviluppare soluzioni di calcolo Azure PaaS'
-  description: 'Corso AZ-203T02-A: Sviluppare soluzioni di calcolo Azure PaaS'
+  title: 'Course AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
+  description: 'Course AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
 uid: course.az-203t02
 courseNumber: 'AZ-203T02-A'
 hoursToComplete: 24
@@ -42,7 +42,7 @@ outlineSection: |-
   - Concetti di base del Servizio app di Azure
   - Creare un'app Web con il Servizio app di Azure
   - Creare attività in background con i processi Web del Servizio app di Azure
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere i concetti e le funzionalità di base del Servizio app
   - Creare app Web per il Servizio app utilizzando l’interfaccia della riga di comando di Azure, il portale di Azure e PowerShell
   - Creare processi Web continui e attivati
@@ -53,8 +53,7 @@ outlineSection: |-
   - Iniziare a creare app mobili nel Servizio app
   - Abilitare le notifiche push nell’app
   - Abilitare la sincronizzazione offline per l’app
-
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Integrare l’app nel servizio App mobili
   - Registrare app per le notifiche push
 
@@ -65,7 +64,7 @@ outlineSection: |-
   - Creare API
   - Utilizzare Swagger per documentare un API
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Creare un’istanza APIM e creare una nuova API
   - Utilizzare Swashbuckle per creare oggetti Swagger in ASP.NET Core
 
@@ -77,7 +76,8 @@ outlineSection: |-
   - Sviluppare Funzioni di Azure con Visual Studio
   - Implementare funzioni durature
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Descrivere le funzioni e funzionalità di base di Funzioni di Azure
   - Creare funzioni, associazioni e trigger
   - Dimostrare di conoscere i modelli comuni per le funzioni durature e di saperli creare
+

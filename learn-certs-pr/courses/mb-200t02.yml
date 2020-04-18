@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Automazione della Power Platform'
+title: 'Dynamics 365: Power Platform automation'
 metadata:
-  title: 'Course MB-200T02-A: Dynamics 365: Automazione della Power Platform'
-  description: 'Course MB-200T02-A: Dynamics 365: Automazione della Power Platform'
+  title: 'Course MB-200T02-A: Dynamics 365: Power Platform automation'
+  description: 'Course MB-200T02-A: Dynamics 365: Power Platform automation'
 uid: course.mb-200t02
 courseNumber: 'MB-200T02-A'
 hoursToComplete: 24
@@ -97,3 +97,4 @@ outlineSection: |-
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Creare e gestire flussi di processi aziendali
+

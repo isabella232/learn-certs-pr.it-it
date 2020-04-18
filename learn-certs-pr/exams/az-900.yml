@@ -1,13 +1,14 @@
 ### YamlMime:Examination
 title: Microsoft Azure Fundamentals
 metadata:
-  title: 'Esame AZ-900: Microsoft Azure Fundamentals'
-  description: 'Esame AZ-900: Microsoft Azure Fundamentals'
+  title: 'Exam AZ-900: Microsoft Azure Fundamentals'
+  description: 'Exam AZ-900: Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
-summary: >-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il 28 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
+  
   Questo esame è pensato per i candidati che desiderano dimostrare una conoscenza di base dei servizi cloud e di come tali servizi vengano forniti con Microsoft Azure. L'esame è rivolto ai candidati senza un background tecnico, come quelli che sono coinvolti nella vendita o nell'acquisto di soluzioni e servizi basati sul cloud o che sono coinvolti in qualche modo con soluzioni e servizi basati sul cloud, così come a coloro con un background tecnico che hanno la necessità di convalidare le loro conoscenze di base dei servizi cloud. Benché non sia richiesta alcuna esperienza IT tecnica, è utile avere conoscenze IT generali.
-
 
   Questo esame può essere considerato il primo passo per conoscere i servizi cloud e scoprire come questi concetti siano esemplificati da Microsoft Azure. Può essere considerato come anticamera per l'esame per Microsoft Azure o per i servizi cloud di Microsoft. Sebbene convalidare le conoscenze di base sarebbe un primo passo utile, sostenere questo esame non è un pre-requisito per altre certificazioni Azure.
 subTitle: 'Questo esame misura la tua capacità di comprendere i seguenti concetti: concetti del cloud; servizi di base di Azure; sicurezza, privacy, conformità e affidabilità; e prezzi e supporto di Azure.'
@@ -16,9 +17,9 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-900&examname=Esame%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Faz-900
+    examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
   - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -27,6 +28,7 @@ locales:
 levels:
 - beginner
 skills:
+- Il contenuto di questo esame sarà aggiornato il 28 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
 - Comprendere i concetti cloud (15-20%)
 - Conoscere i servizi di base di Azure (30-35%)
 - Conoscere la sicurezza, la privacy, la conformità e l'affidabilità (25-30%)
@@ -49,15 +51,18 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster sulle certificazioni
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
-- title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+- title: Cruscotto delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi un alloggio
   description: Scopri come richiedere un alloggio per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri dell’esame e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell'esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md

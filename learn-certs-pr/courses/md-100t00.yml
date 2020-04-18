@@ -8,18 +8,18 @@ courseNumber: 'MD-100T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Installare e personalizzare Windows 10.
-- skill: Configurare gli aggiornamenti per Windows.
-- skill: Configurare dispositivi e driver per Windows.
-- skill: Configurare l’archiviazione per Windows.
-- skill: Configurare le impostazioni per la rete e la gestione remota in Windows.
-- skill: Configurare e gestire browser e applicazioni in Windows.
-- skill: Configurare l’accesso e l’autenticazione degli account.
-- skill: Configurare le autorizzazioni per file e cartelle.
-- skill: Descrivere i metodi per proteggere Windows 10, le minacce comuni e i metodi per mitigarle.
-- skill: Risolvere i problemi relativi alle installazioni di Window e delle applicazioni.
-- skill: Risolvere i problemi di hardware e driver.
-- skill: Risolvere i problemi relativi ai file ed eseguire operazioni di ripristino.
+- skill: Installare e personalizzare Windows 10
+- skill: Configurare gli aggiornamenti per Windows
+- skill: Configurare dispositivi e driver per Windows
+- skill: Configurare l’archiviazione per Windows
+- skill: Configurare le impostazioni per la rete e la gestione remota in Windows
+- skill: Configurare e gestire browser e applicazioni in Windows
+- skill: Configurare l’accesso e l’autenticazione degli account
+- skill: Configurare le autorizzazioni per file e cartelle
+- skill: Descrivere i metodi per proteggere Windows 10, le minacce comuni e i metodi per mitigarle
+- skill: Risolvere i problemi relativi alle installazioni di Window e delle applicazioni
+- skill: Risolvere i problemi di hardware e driver
+- skill: Risolvere i problemi relativi ai file ed eseguire operazioni di ripristino
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -36,7 +36,7 @@ summary: |-
   In questo corso verrà spiegato agli studenti come supportare e configurare i desktop Windows 10 in un ambiente aziendale. Gli studenti avranno modo di sviluppare competenze quali imparare come installare, personalizzare e aggiornare i sistemi operativi di Windows 10. Inoltre, impareranno come gestire l’archiviazione, i file e i dispositivi, oltre a come configurare la connettività di rete per Windows 10. Agli studenti verrà spiegato anche come proteggere il sistema operativo Windows 10 e i dati su un dispositivo. Infine, apprenderanno come gestire Windows 10 e risolvere gli eventuali problemi.
 
   #### Profilo dei destinatari
-  I candidati idonei a sostenere questo esame sono professionisti IT che si occupano di installare, configurare, gestire localmente ed eseguire la manutenzione dei servizi principali di Windows 10. I candidati hanno talvolta familiarità con scenari aziendali e servizi integrati nel cloud.
+  I candidati per questo esame sono professionisti IT che si occupano di installazioni, configurazioni, gestione locale generale e manutenzione dei servizi principali di Windows 10. I candidati hanno talvolta familiarità con scenari aziendali e servizi integrati nel cloud.
 prerequisitesSection: |-
   - Conoscenza basilare delle reti di computer e dell’hardware
   - Conoscenza basilare dei sistemi operativi e delle applicazioni
@@ -52,14 +52,14 @@ outlineSection: |-
   - Strumenti per la distribuzione
 
 
-  #### Laboratorio&#58;  Eseguire l’aggiornamento sul posto da Windows 7 a Windows 10
+  #### Laboratorio &#58;  Eseguire l’aggiornamento sul posto da Windows 7 a Windows 10
 
-  #### Laboratorio&#58; Eseguire la migrazione delle impostazioni degli utenti con USMT
+  #### Laboratorio &#58; Eseguire la migrazione delle impostazioni degli utenti con USMT
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere le diverse versioni e le funzionalità di Windows 10.
-  - Descrivere le opzioni per l’installazione del client di Windows 10.
-  - Dimostrare di saper installare Windows 10.
-  - Eseguire la migrazione di contenuto con Utilità di migrazione stato utente.
+  - Descrivere le diverse versioni e le funzionalità di Windows 10
+  - Descrivere le opzioni per l’installazione del client di Windows 10
+  - Dimostrare di saper installare Windows 10
+  - Eseguire la migrazione di contenuto con Utilità di migrazione stato utente
 
 
   ### Modulo 2&#58; Eseguire operazioni di configurazione e personalizzazioni dopo l’installazione
@@ -71,21 +71,21 @@ outlineSection: |-
   - Gestire driver e dispositivi
 
 
-  #### Laboratorio&#58; Utilizzare l’app Impostazioni e Pannello di controllo
+  #### Laboratorio &#58; Utilizzare l’app Impostazioni e Pannello di controllo
 
-  #### Laboratorio&#58; Utilizzare oggetti Criteri di gruppo
+  #### Laboratorio &#58; Utilizzare oggetti Criteri di gruppo
 
-  #### Laboratorio&#58; Utilizzare PowerShell per configurare Windows
+  #### Laboratorio &#58; Utilizzare PowerShell per configurare Windows
 
-  #### Laboratorio&#58; Gestire le stampanti locali e di rete
+  #### Laboratorio &#58; Gestire le stampanti locali e di rete
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Personalizzare l’interfaccia utente di Windows 10
-  - Configurare le impostazioni specifiche per dispositivo come le opzioni per la combinazione per il risparmio energetico e i dispositivi mobili.
-  - Utilizzare Pannello di controllo e l’app Impostazioni di Windows per configurare le impostazioni.
-  - Eseguire attività con Windows PowerShell.
-  - Descrivere i concetti correlati ai driver.
-  - Descrivere i concetti alla base della gestione delle stampanti.
-  - Configurare la stampa sul lato client e la gestione delle proprietà del server di stampa.
+  - Configurare le impostazioni specifiche per dispositivo come le opzioni per la combinazione per il risparmio energetico e i dispositivi mobili
+  - Utilizzare Pannello di controllo e l’app Impostazioni di Windows per configurare le impostazioni
+  - Eseguire attività con Windows PowerShell
+  - Descrivere i concetti correlati ai driver
+  - Descrivere i concetti alla base della gestione delle stampanti
+  - Configurare la stampa sul lato client e la gestione delle proprietà del server di stampa
 
 
   ### Modulo 3&#58; Eseguire l’aggiornamento di Windows in Windows 10
@@ -95,13 +95,13 @@ outlineSection: |-
   - Eseguire l'aggiornamento di Windows
 
 
-  #### Laboratorio&#58; Eseguire l'aggiornamento di Windows 10
+  #### Laboratorio &#58; Eseguire l'aggiornamento di Windows 10
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere il modello di servizio di Windows.
+  - Descrivere il modello di servizio di Windows
   - Configurare le impostazioni per l’aggiornamento di Windows.
-  - Descrivere come aggiornare Windows con WSUS.
-  - Descrivere come aggiornare Windows conn Windows Update for Business.
-  - Configurare l’aggiornamento di Windows con i criteri di gruppo.
+  - Descrivere come aggiornare Windows con WSUS
+  - Descrivere come aggiornare Windows conn Windows Update for Business
+  - Configurare l’aggiornamento di Windows con i criteri di gruppo
 
 
   ### Modulo 4&#58; Configurare le reti
@@ -114,16 +114,16 @@ outlineSection: |-
   - Gestione remota
 
 
-  #### Laboratorio&#58; Configurare la connettività delle reti
+  #### Laboratorio &#58; Configurare la connettività delle reti
 
-  #### Laboratorio&#58; Configurare e testare la risoluzione dei nomi
+  #### Laboratorio &#58; Configurare e testare la risoluzione dei nomi
 
-  #### Laboratorio&#58; Gestione remota
+  #### Laboratorio &#58; Gestione remota
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Configurare la connettività delle reti IP.
-  - Descrivere come funziona la risoluzione dei nomi.
-  - Descrivere le tecnologie di accesso remoto come le reti VPN.
-  - Configurare Windows per la gestione remota e l’accesso.
+  - Configurare la connettività delle reti IP
+  - Descrivere come funziona la risoluzione dei nomi
+  - Descrivere le tecnologie di accesso remoto come le reti VPN
+  - Configurare Windows per la gestione remota e l’accesso
 
 
   ### Modulo 5&#58; Configurare l’archiviazione
@@ -135,20 +135,20 @@ outlineSection: |-
   - Gestire gli spazi di archiviazione
 
 
-  #### Laboratorio&#58; Gestire l'archiviazione
+  #### Laboratorio &#58; Gestire l'archiviazione
 
-  #### Laboratorio&#58; Comprimere le cartelle
+  #### Laboratorio &#58; Comprimere le cartelle
 
-  #### Laboratorio&#58; Abilitare le quote disco
+  #### Laboratorio &#58; Abilitare le quote disco
 
-  #### Laboratorio&#58; Creare uno spazio di archiviazione
+  #### Laboratorio &#58; Creare uno spazio di archiviazione
 
-  #### Laboratorio&#58; Sincronizzare i file con OneDrive
+  #### Laboratorio &#58; Sincronizzare i file con OneDrive
 
-  - Descrivere le opzioni e i vantaggi dell’archiviazione locale, nel cloud e virtuale.
-  - Configurare OneDrive.
-  - Configurare le partizioni e i volumi dei dischi locali.
-  - Descrivere le funzionalità e i vantaggi degli spazi di archiviazione.
+  - Descrivere le opzioni e i vantaggi dell’archiviazione locale, nel cloud e virtuale
+  - Configurare OneDrive
+  - Configurare le partizioni e i volumi dei dischi locali
+  - Descrivere le funzionalità e i vantaggi degli spazi di archiviazione
 
 
   ### Modulo 6&#58; Gestire app in Windows 10
@@ -160,16 +160,16 @@ outlineSection: |-
   - Browser Web di Windows 10
 
 
-  #### Laboratorio&#58; Sideload di un’app
+  #### Laboratorio &#58; Sideload di un’app
 
-  #### Laboratorio&#58; Installare e aggiornare le app di Microsoft Store
+  #### Laboratorio &#58; Installare e aggiornare le app di Microsoft Store
 
-  #### Laboratorio&#58; Configurare la modalità Enterprise di Internet Explorer
+  #### Laboratorio &#58; Configurare la modalità Enterprise di Internet Explorer
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere i diversi tipi di applicazioni.
-  - Installare le applicazioni manualmente e tramite metodi automatici.
-  - Gestire la distribuzione delle applicazioni tramite Windows Store.
-  - Descrivere le funzionalità dei browser Web in Windows 10.
+  - Descrivere i diversi tipi di applicazioni
+  - Installare le applicazioni manualmente e tramite metodi automatici
+  - Gestire la distribuzione delle applicazioni tramite Windows Store
+  - Descrivere le funzionalità dei browser Web in Windows 10
 
 
   ### Modulo 7&#58; Configurare le autorizzazioni e l’autenticazione
@@ -180,16 +180,16 @@ outlineSection: |-
   - Implementare la registrazione dei dispositivi
 
 
-  #### Laboratorio&#58; Aggiungere a un dominio
+  #### Laboratorio &#58; Aggiungere a un dominio
 
-  #### Laboratorio&#58; Creare criteri di sicurezza
+  #### Laboratorio &#58; Creare criteri di sicurezza
 
-  #### Laboratorio&#58; Configurare UAC
+  #### Laboratorio &#58; Configurare UAC
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere i vari metodi che possono essere utilizzati per proteggere i dati e il sistema operativo Windows 10.
+  - Descrivere i vari metodi che possono essere utilizzati per proteggere i dati e il sistema operativo Windows 10
   - Descrivere i diversi tipi di account utente e di servizio
-  - Configurare Windows Hello.
-  - Configurare il controllo degli account utente.
+  - Configurare Windows Hello
+  - Configurare il controllo degli account utente
 
 
   ### Modulo 8&#58; Configurare l’accesso ai dati e il loro utilizzo
@@ -200,14 +200,14 @@ outlineSection: |-
   - Configurare e gestire le cartelle condivise
 
 
-  #### Laboratorio&#58; Creare, gestire e condividere una cartella
+  #### Laboratorio &#58; Creare, gestire e condividere una cartella
 
-  #### Laboratorio&#58; Utilizzare le condizioni per controllare l'accesso e le autorizzazioni valide
+  #### Laboratorio &#58; Utilizzare le condizioni per controllare l'accesso e le autorizzazioni valide
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere le differenze e i vantaggi dei file system supportati.
-  - Configurare le autorizzazioni per file e cartelle.
-  - Configurare cartelle condivise.
-  - Proteggere Windows tramite le impostazioni dei criteri locali.
+  - Descrivere le differenze e i vantaggi dei file system supportati
+  - Configurare le autorizzazioni per file e cartelle
+  - Configurare cartelle condivise
+  - Proteggere Windows tramite le impostazioni dei criteri locali
 
 
   ### Modulo 9&#58; Configurare la protezione dalle minacce e la sicurezza avanzata
@@ -219,45 +219,45 @@ outlineSection: |-
   - Metodi di protezione avanzati
 
 
-  #### Laboratorio&#58; Configurare Windows Defender
+  #### Laboratorio &#58; Configurare Windows Defender
 
-  #### Laboratorio&#58; Creare regole per il firewall
+  #### Laboratorio &#58; Creare regole per il firewall
 
-  #### Laboratorio&#58; Creare regole per la protezione delle connessioni
+  #### Laboratorio &#58; Creare regole per la protezione delle connessioni
 
-  #### Laboratorio&#58; Utilizzare EFS
+  #### Laboratorio &#58; Utilizzare EFS
 
-  #### Laboratorio&#58; Utilizzare Bitlocker
+  #### Laboratorio &#58; Utilizzare Bitlocker
 
-  #### Laboratorio&#58; Configurare AppLocker
+  #### Laboratorio &#58; Configurare AppLocker
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Identificare le minacce alla sicurezza più comuni.
-  - Descrivere i metodi che possono essere utilizzati per mitigare le minacce alla sicurezza più comuni.
-  - Descrivere i diversi metodi di crittografia.
-  - Spiegare in che modo il firewall di Window può proteggere un dispositivo.
-  - Descrivere i vantaggi derivanti dall’uso di IPSec.
-  - Descrivere le diverse funzionalità di Windows Defender.
-  - Descrivere i vantaggi derivanti dall’uso di AppLocker.
+  - Identificare le minacce alla sicurezza più comuni
+  - Descrivere i metodi che possono essere utilizzati per mitigare le minacce alla sicurezza più comuni
+  - Descrivere i diversi metodi di crittografia
+  - Spiegare in che modo il firewall di Window può proteggere un dispositivo
+  - Descrivere i vantaggi derivanti dall’uso di IPSec
+  - Descrivere le diverse funzionalità di Windows Defender
+  - Descrivere i vantaggi derivanti dall’uso di AppLocker
 
 
   ### Modulo 10&#58; Supportare l’ambiente di Windows 10
   Questo modulo descrive l’architettura e gli ambienti comuni di Windows 10. Agli studenti verranno presentati i vari strumenti che possono essere utilizzati per eseguire la manutenzione di Windows. Verranno esaminate anche le metodologie che consentono di risolvere efficacemente i problemi e verrà spiegato agli studeti di gestire e ottimizzare in modo proattivo Windows 10.
 
   #### Lezioni
-  - Architettura di Windows
+  - Windows Architecture
   - Strumenti di supporto e diagnostici
   - Monitorare le prestazioni dei computer e risolvere gli eventuali problemi
 
 
-  #### Laboratorio&#58; Monitorare gli eventi
+  #### Laboratorio &#58; Monitorare gli eventi
 
-  #### Laboratorio&#58; Monitorare l’affidabilità e le prestazioni
+  #### Laboratorio &#58; Monitorare l’affidabilità e le prestazioni
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere l’architettura di Windows.
-  - Descrive le fasi principali della procedura di risoluzione dei problemi.
-  - Descrivere lo scopo e i vantaggi dei vari strumenti di Windows.
+  - Descrivere l’architettura di Windows
+  - Descrive le fasi principali della procedura di risoluzione dei problemi
+  - Descrivere lo scopo e i vantaggi dei vari strumenti di Windows
   - Utilizzare gli strumenti di monitoraggio per definire la linea di base per le prestazioni
-  - Ottimizzare le prestazioni dei client di Windows 10.
+  - Ottimizzare le prestazioni dei client di Windows 10
 
 
   ### Modulo 11&#58; Risolvere i problemi relativi a file e applicazioni
@@ -267,19 +267,19 @@ outlineSection: |-
   - Risolvere i problemi relativi alle applicazioni
 
 
-  #### Laboratorio&#58; Utilizzare Cronologia file per ripristinare i file
+  #### Laboratorio &#58; Utilizzare Cronologia file per ripristinare i file
 
-  #### Laboratorio&#58; Risolvere i problemi relativi alle app desktop
+  #### Laboratorio &#58; Risolvere i problemi relativi alle app desktop
 
-  #### Laboratorio&#58; Risolvere i problemi relativi alla compatibilità delle applicazioni
+  #### Laboratorio &#58; Risolvere i problemi relativi alla compatibilità delle applicazioni
 
-  #### Laboratorio&#58; Risolvere i problemi relativi a Microsoft Edge
+  #### Laboratorio &#58; Risolvere i problemi relativi a Microsoft Edge
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere i vari metodi per ripristinare i file.
-  - Configurare Windows 10 per supportare il ripristino del sistema e di singoli file.
-  - Eseguire il ripristino di un dispositivo con la funzione Reimposta il PC.
-  - Risolvere i problemi di compatibilità delle applicazioni con Application Compatibility Toolkit.
-  - Risolvere i problemi comuni dei browser.
+  - Descrivere i vari metodi per ripristinare i file
+  - Configurare Windows 10 per supportare il ripristino del sistema e di singoli file
+  - Eseguire il ripristino di un dispositivo con la funzione Reimposta il PC
+  - Risolvere i problemi di compatibilità delle applicazioni con Application Compatibility Toolkit
+  - Risolvere i problemi comuni dei browser
 
 
   ### Modulo 12&#58; Risolvere i problemi relativi al sistema operativo
@@ -289,14 +289,14 @@ outlineSection: |-
   - Risolvere i problemi relativi al funzionamento del sistema operativo
 
 
-  #### Laboratorio&#58; Eseguire il ripristino con l’opzione Reimposta il PC
+  #### Laboratorio &#58; Eseguire il ripristino con l’opzione Reimposta il PC
 
-  #### Laboratorio&#58; Eseguire il ripristino utilizzando un punto di ripristino
+  #### Laboratorio &#58; Eseguire il ripristino utilizzando un punto di ripristino
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Descrivere i vari metodi per identificare i problemi di avvio ed eseguire il ripristino.
-  - Spiegare quando devono essere utilizzate le varie opzioni di avvio avanzate.
-  - Idetificare e disattivare un servizio in errore.
-  - Identificare e mitigare gli scenari comuni associati ad account bloccati.
+  - Descrivere i vari metodi per identificare i problemi di avvio ed eseguire il ripristino
+  - Spiegare quando devono essere utilizzate le varie opzioni di avvio avanzate
+  - Idetificare e disattivare un servizio in errore
+  - Identificare e mitigare gli scenari comuni associati ad account bloccati
 
 
   ### Modulo 13&#58; Risolvere i problemi relativi ad hardware e driver
@@ -307,8 +307,9 @@ outlineSection: |-
   - Risolvere i problemi relativi ai guasti fisici
 
 
-  #### Laboratorio&#58; Eseguire il ripristino con la funzione di ripristino dei driver
+  #### Laboratorio &#58; Eseguire il ripristino con la funzione di ripristino dei driver
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Risolvere e correggere i problemi relativi ai driver.
+  - Risolvere e correggere i problemi relativi ai driver
   - Risolvere i problemi relativi alle periferiche
-  - Diagnosticare e sostituire l’hardware.
+  - Diagnosticare e sostituire l’hardware
+

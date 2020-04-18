@@ -1,0 +1,530 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Finance
+metadata:
+  title: 'Course MB-310T00-A: Microsoft Dynamics 365 Finance'
+  description: 'Course MB-310T00-A: Microsoft Dynamics 365 Finance'
+uid: course.mb-310t00
+courseNumber: 'MB-310T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendere e svolgere compiti finanziari in Dynamics 365 Finance
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Questo corso tratta gli aspetti finanziari di Dynamics 365: configurare e utilizzare le componenti finanziarie essenziali, i debiti, i crediti, gli incassi, il budgeting, le immobilizzazioni e le funzionalità aggiuntive.
+
+  #### Profilo dei destinatari
+  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+prerequisitesSection: |-
+  Competenze base di contabilità Competenze in Dynamics 365 Core
+outlineSection: |-
+  ### Modulo 1&#58; Gestione finanziaria
+  In questo modulo imparerai alcuni dei vantaggi della gestione finanziaria di Dynamics 365 for Finance and Operations.
+  #### Lezioni
+  - Vantaggi della gestione finanziaria
+  - Gestione finanziaria
+  - Riepilogo del modulo
+
+  Hai familiarizzato con i moduli in Finance and Operations relativi alla gestione finanziaria e alla loro
+
+  ### Modulo 2&#58; Configurare le valute
+  Uno dei primi e più importanti passi per l'implementazione della gestione finanziaria in Dynamics 365 for Finance and Operations è l'impostazione della valuta. L'impostazione della valuta è una fase necessaria nella configurazione del sistema e viene utilizzata per registrare le transazioni finanziarie. Questo modulo spiega la gestione delle valute in Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Impostare le valute e le conversioni per le persone giuridiche
+  - Configurare e importare i tassi di cambio delle valute
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Ora hai imparato a conoscere i diversi tipi di valuta in Finance and Operations. Hai anche fam
+
+  ### Modulo 3&#58; Creare Calendari Fiscali, Anni e Periodi
+  Prima di registrare le transazioni, un nuovo anno fiscale deve essere diviso in periodi. Dipende dal fatto che le transazioni non possono essere registrate a meno che non venga creato un periodo per la data di registrazione e condiviso tra più entità legali. Un vantaggio della condivisione dei calendari fiscali è che questo supporta calendari fiscali multipli per ogni entità giuridica.
+
+  L'anno fiscale in Finance and Operations può essere impostato a qualsiasi lunghezza e suddiviso in un numero qualsiasi di periodi.
+  #### Lezioni
+  - Introduzione
+  - Creare calendari anni e periodi fiscali
+  - Creare intervalli di date
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  In questo modulo hai imparato a&#58; differenziare i calendari contabili e fiscali, configurare e
+
+  ### Modulo 4&#58; Configurare il piano dei conti
+  Un piano dei conti è un insieme di conti principali in Finance and Operations che cattura le informazioni finanziarie al momento della pubblicazione di un libro mastro. Ad ogni conto viene assegnato un numero di conto come identificativo unico.
+  #### Lezioni
+  - Introduzione
+  - Definire e configurare il piano dei conti
+  - Definire e configurare le dimensioni finanziarie
+  - Definire e configurare le strutture e le regole dei conti
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Identificare i componenti necessari per il piano dei conti.
+  - Definire e configurare il piano dei conti.
+  - Definire e configurare le dimensioni finanziarie e i gruppi di dimensioni.
+  - Configurare il piano dei conti, i conti principali, le categorie, i modelli, l'alias del libro mastro e il saldo
+  - Configurare le strutture dei conti e le regole avanzate.
+
+
+  ### Modulo 5&#58; Configurazione di libri mastri e libri giornale
+  Un diario è un foglio di lavoro che si può utilizzare prima di inserire manualmente gli annunci nel sistema. Se impostati correttamente, i diari consentono di gestire gli invii in modo rapido ed efficiente. Per utilizzare un diario, è necessario avere un nome del diario e completare la configurazione del libro mastro, del diario e della pubblicazione del modulo del libro mastro generale.
+
+  Utilizzando il libro giornale del libro mastro direttamente o attraverso l'area di lavoro per l'elaborazione del libro mastro, si possono svolgere le attività quotidiane ad esempio sapere ci à a persona a cui viene assegnato un ruolo di sicurezza adeguato per accedere al libro mastro.
+
+  Il nome di un libro giornale conferisce ai responsabili finanziari la possibilità di controllare la convalida dell'inserimento dei dati e di limitare la pubblicazione del nome di un libro giornale per gli utenti in modo diverso.
+  #### Lezioni
+  - I libri giornale e loro impostazione
+  - Configurare la configurazione del libro mastro e del libro giornale
+  - Libri giornale degli utenti
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Comprendere i diversi tipi di diari e la loro configurazione.
+  - Sapere come configurare la contabilità generale e il posting.
+  - Sapere come configurare e utilizzare i diari.
+
+
+  ### Modulo 6&#58; Configurare la gestione della cassa e della banca
+  In Dynamics 365 for Finance and Operations, le organizzazioni utilizzano il modulo Cash and bank management per creare e gestire i conti bancari. La tabella dei conti bancari contiene un record per ogni conto bancario. Ogni record contiene informazioni sul conto bancario, come ad esempio le&#58;
+  - Numero di registrazione e numero di conto
+  - Indirizzo
+  - Altre informazioni di contatto
+  - Valuta
+  - Configurazione assegni
+  - Conto principale per la pubblicazione
+
+  Finance and Operations utilizza queste informazioni per elaborare tutte le transazioni bancarie, come i pagamenti e i depositi.
+  #### Lezioni
+  - Introduzione
+  - Tipi di transazioni bancarie e gruppi
+  - Impostazione dei parametri di gestione della cassa e della banca
+  - Configurare banche e assegni bancari
+  - Assegni di deposito e di rimborso
+  - Flusso di cassa
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Creare e configurare le banche.
+  - Creare e configurare i layout delle banche.
+  - Configurare i parametri di gestione della cassa e della banca.
+  - Impostare banche fornitori e banche clienti.
+  - Configurare le previsioni di flusso di cassa e i report.
+
+
+  ### Modulo 7&#58; Utilizzare Cash and Bank Management
+  Questo modulo copre le principali procedure del modulo di gestione della liquidità e delle banche in Finance and Operations.
+
+  Impari a lavorare con il contante e con gli spazi di lavoro della gestione bancaria, come la gestione della banca e la panoramica del contante. Gli studenti hanno anche imparato a conoscere i processi e le procedure per la gestione del contante e della banca, come ad esempio come effettuare depositi e annullare i pagamenti (depositi).
+
+  Finance and Operations fornisce funzionalità per la gestione dei pagamenti con assegni, nonché procedure per la risoluzione di situazioni particolari con assegni.
+
+  È possibile cancellare, rimborsare e annullare gli assegni, oltre a generare ed emettere assegni secondo le specifiche dell'azienda.
+
+  Poiché Finance and Operations registra tutte le transazioni finanziarie, le aziende possono utilizzare la funzione di riconciliazione bancaria per confrontare le registrazioni interne delle transazioni con gli estratti conto bancari.
+  #### Lezioni
+  - Effettuare depositi ed effettuare storni di pagamento
+  - Utilizzare gli spazi di lavoro per la gestione della cassa e della banca
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Lavorare con i processi di gestione della cassa e delle banche.
+  - Utilizzare gli spazi di lavoro per la gestione della cassa e della banca.
+  - Effettuare depositi.
+  - Annullare i pagamenti.
+
+
+  ### Modulo 8&#58; Configurazione delle lettere di credito e delle garanzie
+  Ora hai imparato cosa sono le lettere bancarie e come configurare le lettere di credito per creare documenti bancari che vengono comunemente utilizzati per l'acquisto e la vendita di merci oltre i confini nazionali e le lettere di garanzia in cui una banca accetta di pagare una determinata somma di denaro a una persona se uno dei clienti della banca non adempie a un pagamento o a un obbligo nei confronti di tale persona.
+  #### Lezioni
+  - Introduzione
+  - Configurare le lettere di credito
+  - Configurare le lettere di garanzia
+  - Riepilogo del modulo
+
+  Gli studenti comprenderanno le lettere bancarie e le lettere di credito e di garanzia.
+
+  ### Modulo 9&#58; Eseguire le procedure giornaliere
+  Ogni pubblicazione manuale inserita in Finance and Operations viene inserita attraverso un libro giornale. Un libro giornale è un tipo di foglio di lavoro in cui le voci non vengono pubblicate immediatamente. Si possono rivedere, modificare e verificare i libri giornale completate fino a quando non sono pronti per il posting.
+
+  Un modello di voucher è un voucher che può essere utilizzato come base per futuri voucher in altre voci del libro giornale. Si possono utilizzare i modelli di voucher con un libro giornale generale o uno qualsiasi dei libri giornali di contabilità finanziaria come ad esempio i libri giornali dei conti correnti e dei crediti.
+
+  Si possono impostare restrizioni sui valori dell'azienda, del tipo di conto e del segmento.
+  #### Lezioni
+  - Imparare a conoscere i processi di contabilità generale
+  - Creare modelli per i voucher
+  - Impostazione dei controlli del libro giornale
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Ora hai imparato come elaborare le attività quotidiane in contabilità generale e utilizzare il controllo del diuario per ap
+  - Hai lavorato con i conti di controllo del saldo per visualizzare i saldi delle banche o i conti di liquidità.
+  - Hai imparato a beneficiare dei modelli di voucher per Importo, che consiste semplicemente nel copiare l'esatto importo
+
+
+  ### Modulo 10&#58; Contabilità interaziendale
+  La contabilità interaziendale può aiutare le organizzazioni fornendo un punto di ingresso unico per le transazioni che devono essere registrate a più aziende. Effettuare transazioni da una singola azienda consente di risparmiare tempo per l'inserimento dei dati e contribuisce a garantire che le transazioni che interessano più aziende vengano registrate in ogni azienda.
+
+  Finance and Operations aiuta anche a tracciare le voci interaziendali attraverso il sistema. Presenta le funzionalità richieste dalla maggior parte delle aziende che elaborano transazioni interaziendali. Prevede la possibilità di registrare in modo efficiente gli ordini di vendita interaziendali, gli ordini di acquisto e gli esborsi in contanti.
+  #### Lezioni
+  - Impostazione e utilizzo della contabilità interaziendale
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Gli studenti potranno impostare e utilizzare la contabilità interaziendale.
+
+  ### Modulo 11&#58; Configurazione delle assegnazioni e dei ratei e risconti contabili
+  Finance and Operations offre le capacità per sostenere i piani di ratei e risconti.
+  #### Lezioni
+  - Introduzione
+  - Configurare e applicare schemi di attribuzione dei ratei e risconti
+  - Configurare le regole di assegnazione contabili
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Gli studenti avranno imparato a configurare e utilizzare le regole di assegnazione, così come a configurare e utilizzare gli schemi di ratei e risconti.
+
+  ### Modulo 12&#58; Configurare imposte sulle Vendite
+  I requisiti per il calcolo delle imposte e la reporting fiscale differiscono notevolmente a seconda dei paesi o delle regioni. Pertanto, il modulo Tax di Dynamics 365 for Finance and Operations è estremamente completo.
+  #### Lezioni
+  - Comprendere i componenti dei motori fiscali
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Gli studenti hanno imparato a conoscere le capacità di reporting fiscale nazionale e regionale in Finance and Operations
+  - configurare le componenti fiscali, come le autorità fiscali, i periodi di liquidazione e i codici fiscali delle vendite
+  - il codice fiscale è il componente principale per definire i calcoli fiscali e collegare tutti gli altri componenti
+
+
+  ### Modulo 13&#58; Configurare i  debiti
+  Dynamics 365 for Finance and Operations offre ampie funzionalità per l'impostazione di diverse opzioni di pagamento dei fornitori.
+  #### Lezioni
+  - Comprendere la funzionalità del registratore di attività
+  - Configurare i parametri della contabilità fornitori
+  - Creare e gestire i fornitori
+  - Configurare i costi della contabilità fornitori
+  - Configurare e utilizzare la retribuzione positiva
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Configurare i componenti della contabilità fornitori.
+  - Creare e gestire i fornitori.
+  - Configurare i pagamenti dei fornitori.
+  - Impostare i profili di registrazione dei fornitori.
+  - Configurare i costi della contabilità fornitori.
+
+
+  ### Modulo 14&#58; Eseguire le procedure giornaliere relative ai debiti
+  L'acquisto di beni per la rivendita, come materiali per la produzione o servizi è una grande responsabilità. Il monitoraggio di questi acquisti e il pagamento dei fornitori che forniscono la merce è altrettanto impegnativo.
+
+  Le organizzazioni devono monitorare attentamente i conti passivi e implementare procedure che consentano al management di ottenere facilmente le informazioni finanziarie di cui ha bisogno per essere informato sulle variazioni dei costi delle merci. Per dare una visione accurata delle condizioni finanziarie dell'attività, tutte le spese che incidono sull'utile netto sono incluse nei debiti.
+
+  Questo modulo spiega come gestire e applicare i pagamenti anticipati, registrare le fatture ed elaborare i pagamenti.
+  #### Lezioni
+  - Introduzione
+  - Elaborare ordini, fatture e pagamenti
+  - Gestire e applicare i pagamenti anticipati
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  è possibile inserire manualmente le fatture dei fornitori o riceverle elettronicamente attraverso un'entità dati
+  - è possibile rivedere e approvare le fatture utilizzando un registro di approvazione delle fatture o la pagina delle fatture del fornitore
+  - come è possibile utilizzare la corrispondenza delle fatture, le politiche di fatturazione dei fornitori e il flusso di lavoro per automatizzare il processo di revisione
+  - Come gestire i pagamenti anticipati ai propri fornitori
+
+
+  ### Modulo 15&#58; Utilizzare la distribuzione contabile e la convalida delle fatture
+  Questo modulo spiega come regolare le transazioni e annullare il saldo e distribuire i fondi utilizzando le distribuzioni contabili. Gli studenti impareranno anche ad eseguire la corrispondenza delle fatture.
+
+  Le distribuzioni contabili sono utilizzate per definire le modalità di contabilizzazione di un importo, come ad esempio il modo in cui le spese, le tasse o gli oneri saranno contabilizzati su una fattura del fornitore. Ogni importo che deve essere contabilizzato quando la fattura del venditore è stata registrata su supporto cartaceo avrà una o più distribuzioni contabili.
+
+  #### Lezioni
+  - Introduzione
+  - Liquidare le transazioni e annullare i saldi
+  - Distribuire i fondi
+  - Configurare criteri per la convalida delle fatture
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Liquidare le transazioni e annullare i saldi.
+  - Distribuire i fondi utilizzando le distribuzioni contabili.
+  - Configurare criteri per la convalida delle fatture.
+
+
+  ### Modulo 16&#58; Configurare i crediti
+  È necessario configurare il modulo Crediti per poter creare le fatture dei clienti, per l'invio di bolle di accompagnamento, per l'utilizzo di fatture a testo libero non correlate agli ordini di vendita e, infine, per ricevere i pagamenti utilizzando diversi tipi di pagamento, come contanti, assegni, carte di credito e pagamenti elettronici da parte dei clienti.
+
+  Questo modulo fornisce informazioni sulla configurazione dei componenti essenziali del modulo Crediti sulla configurazione del cliente per una gestione efficiente dei clienti e delle transazioni dei clienti in Finance and Operations.
+
+  #### Lezioni
+  - Configurare i crediti
+  - Creare e gestire i clienti
+  - Impostare i profili di registrazione clienti
+  - Configurare i costi della contabilità clienti
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Configurare i componenti della contabilità clienti
+  - Creare e gestire un cliente
+  - Configurare i pagamenti dei clienti.
+  - Impostare i profili di registrazione clienti
+  - Configurare i costi della contabilità clienti
+
+
+  ### Modulo 17&#58; Eseguire le procedure giornaliere di contabilizzazione dei crediti
+  Imparare a creare fatture a testo libero, ricevere pagamenti dai clienti e depositare in banca. Imparare anche come rimborsare un cliente per l'importo eccessivo del pagamento o per qualsiasi altro motivo, come ad esempio lo scenario delle restituzioni ai clienti, al fine di rimborsare il cliente non solo per il pagamento ma anche l'imposta che è stata incassata, utilizzando gli storni e utilizzare gli storni di transazione in Contabilità Crediti. Imparerai anche come distribuire fondi usando le distribuzioni contabili in una fattura a testo libero.
+  #### Lezioni
+  - Creare fatture a testo libero e registrare i pagamenti dei clienti
+  - Liquidare le transazioni e annullare il saldo
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Distribuire i fondi utilizzando le distribuzioni contabili
+  - Creare fatture a testo libero e registrare i pagamenti dei clienti
+  - Configurare le fatture ricorrenti
+  - Utilizzo storni nei Crediti
+  - Elaborare gli ordini, registrare le fatture ed elaborare i pagamenti
+
+
+  ### Modulo 18&#58; Configurazione di crediti e incassi
+  Sebbene la maggior parte dei clienti paghi le fatture in tempo, devi essere in grado di trattare fatture non pagate entro la data di scadenza.
+
+  Questo modulo spiega come gestire i clienti delinquenti configurando il modulo Credito e incassi in Dynamics 365 for Finance and Operations. Per utilizzare il modulo Crediti e incassi, è necessario aver già completato la configurazione dei crediti.
+
+  #### Lezioni
+  - Introduzione
+  - Configurare le componenti di credito e di incasso
+  - Impostazione e gestione degli interessi
+  - Rinunciare, ripristinare o invertire
+  - Impostare e gestire le lettere di incasso
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Configurare le componenti di credito e di incasso.
+  - Configurare rapporti di invecchiamento, pool di clienti, agenti di recupero e definizioni dei periodi di invecchiamento.
+  - Impostare e gestire gli interessi.
+  - Impostare e gestire le lettere di incasso.
+
+
+  ### Modulo 19&#58; Processo di credito e incasso
+  Anche se la maggior parte dei clienti paga le fatture in tempo, bisogna essere in grado di elaborare le fatture non pagate entro la data di scadenza.
+
+  Questo modulo spiega come elaborare il credito e gli incassi.
+  #### Lezioni
+  - Introduzione
+  - Capire come elaborare gli incassi
+  - Gestire il credito ai clienti e gli incassi
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Dichiarazioni dei clienti
+  - Come elaborare l’incasso
+
+
+  ### Modulo 20&#58; Configurazione degli assegni post-datati
+  Gli assegni postdatati sono assegni che vengono emessi per effettuare e ricevere pagamenti in una data futura. Pertanto, l'assegno non può essere incassato fino alla data specificata.
+
+  Microsoft Dynamics 365 for Finance and Operations supporta l'intero ciclo di gestione per gli assegni post-datati sia nei Crediti sia nei Debiti. Questo modulo spiega come impostare ed elaborare gli assegni post-data.
+
+  #### Lezioni
+  - Introduzione
+  - Gestire gli assegni postdatati
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Processare assegni post-datati
+  - Impostare assegni post-datati
+  - Registrare e inviare un assegno post-datato ad un cliente
+  - Saldare un assegno post-datato ricevuto da parte di un cliente
+  - Registrare e inviare un assegno post-datato ad un fornitore
+  - Saldare un assegno post-datato per un fornitore
+
+
+  ### Modulo 21&#58; Configurazione e utilizzo dei processi di budgeting di base e di controllo del budget
+  Ogni organizzazione, sia essa privata o pubblica, stabilisce obiettivi finanziari e operativi attraverso la creazione di budget. Una volta definito il budget, la direzione controlla le attività nel quadro del budget.
+
+  Questo modulo fornisce informazioni su come configurare e utilizzare il budget di base e il controllo del budget.
+  #### Lezioni
+  - Introduzione
+  - Configurare i componenti per la definizione del budget di base
+  - Configurare i componenti di controllo per la definizione del budget
+  - Creare e testare le voci del registro del budget
+  - Utilizzare le richieste e i rapporti
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Configurare i componenti per la definizione del budget di base
+  - Configurare i componenti di controllo per la definizione del budget
+  - Utilizzare le richieste e i rapporti
+  - Creare e utilizzare le voci del registro del budget
+
+
+  ### Modulo 22&#58; Configurare e utilizzare i processi di pianificazione del budget
+  Con la funzionalità di pianificazione del budget si possono consolidare più piani di budget da un livello inferiore in un unico piano di budget originale ad un livello superiore dell'organizzazione. Si tratta di pianificare il budget con approccio dal basso all’alto, che consente a un pianificatore di budget di aggregare altri piani in un piano di alto livello o in un piano aziendale per la pianificazione del budget.
+
+  Si può anche adottare l'approccio dall'alto verso il basso che richiede lo sviluppo di un unico piano di budget a un livello superiore dell'organizzazione e l'assegnazione del budget ai livelli inferiori dell'organizzazione. Utilizza questo metodo quando ti base sulle operazioni finanziarie storiche della tua azienda e crea un piano centralizzato che può essere ripartito in diverse unità operative definite da una gerarchia organizzativa con finalità di pianificazione del budget.
+
+  Il pianificatore del budget, come fase finale della pianificazione del budget, genera la registrazione del registro di bilancio sulla base del piano di bilancio.
+
+  Un'organizzazione può configurare la pianificazione del budget, e quindi impostare processi collaborativi di pianificazione del budget per soddisfare le proprie politiche, procedure e requisiti per la preparazione del budget. Questo modulo spiega come configurare e testare i processi di pianificazione del budget.
+
+  #### Lezioni
+  - Introduzione
+  - Configurare i componenti di Pianificazione del budget
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Configurare i componenti di Pianificazione del budget
+  - Creare un modello per il piano di budget
+  - Configurare i componenti per la definizione del budget
+  - Creare un piano di budget con la procedura guidata Pianificazione budget
+
+
+  ### Modulo 23&#58; Configurare la gestione delle immobilizzazioni
+  Questo modulo inizia con la spiegazione dei concetti del capitale fisso e poi mostra agli studenti come configurare e utilizzare il modulo del capitale fisso in Dynamics 365 for Finance and Operations.
+  #### Lezioni
+  - Introduzione
+  - Configurare i componenti delle immobilizzazioni
+  - Attivare l'integrazione delle immobilizzazioni
+  - Creare immobilizzazioni
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Configurare i componenti delle immobilizzazioni
+  - Configurare i parametri delle immobilizzazioni
+  - Abilitare l'integrazione delle immobilizzazioni con l'acquisto
+  - Creare immobilizzazioni
+
+
+  ### Modulo 24&#58; Gestire le immobilizzazioni
+  Per registrare le transazioni di immobilizzazioni tramite i libri giornali, è necessario creare almeno un nome di libro giornale utilizzando il tipo di libro giornale Post immobilizzazioni nella configurazione del modulo del libro mastro generale. Se fossero necessari budget per le immobilizzazioni, si deve anche creare un nome del libro giornale che utilizzi il tipo di libro giornale Budget per le immobilizzazioni. Questo modulo spiega come elaborare e gestire le immobilizzazioni.
+  #### Lezioni
+  - Introduzione
+  - Eseguire le attività relative alle immobilizzazioni
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Effettuare l'acquisizione di immobilizzazioni
+  - Effettuare l'ammortamento di immobilizzazioni
+  - Effettuare le cessioni di immobilizzazioni
+
+
+  ### Modulo 25&#58; Configurare e utilizzare la contabilità dei costi
+  La contabilità dei costi consente di raccogliere dati da varie fonti, come il libro mastro generale, i libri mastri secondari, i bilanci e le informazioni statistiche. Si possono quindi analizzare, riassumere e valutare i dati dei costi, in modo che il management possa prendere le migliori decisioni possibili per l'aggiornamento dei prezzi, il budget, il controllo dei costi e così via. I dati di partenza utilizzati per l'analisi dei costi sono trattati in modo indipendente nella contabilità analitica. Pertanto, gli aggiornamenti della contabilità analitica non influiscono sui dati di partenza.
+  #### Lezioni
+  - Introduzione
+  - Spazio di lavoro per il controllo dei costi
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Spazio di lavoro per il controllo dei costi
+  - Creare un rapporto di contabilizzazione dei costi con la procedura guidata per iniziare contabilità industriale
+
+
+  ### Modulo 26&#58; Configurazione e utilizzo dei processi periodici
+  Nel libro mastro generale, puoi completare le procedure di chiusura per un periodo o un anno. I processi di chiusura preparano il sistema per un nuovo periodo.
+
+  Ci sono molti compiti come la preparazione delle registrazioni, la chiusura dell'inventario, il consolidamento, e molti altri devono essere completati prima.
+
+  Per preparare il sistema per un nuovo anno, è necessario eseguire il processo di chiusura di fine esercizio. Ogni organizzazione ha diversi processi e fasi che esegue per la fine di un periodo.
+  #### Lezioni
+  - Introduzione
+  - Riconciliazioni bancarie
+  - Configurare la chiusura del periodo finanziario
+  - Preparare le registrazioni periodiche
+  - Attivare i processi di rivalutazione delle valute estere
+  - Eseguire un consolidamento finanziario
+  - Elaborare la chiusura di fine anno
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Configurare la chiusura del periodo finanziario
+  - Riconciliare le banche
+  - Eseguire processi di chiusura periodica e di chiusura dell'anno
+  - Preparare le registrazioni periodiche
+  - Configure and test Vendor 1099s process
+  - Attivare i processi di rivalutazione delle valute estere
+  - Procedere ai processi di consolidamento finanziario ed eliminazione
+  - Utilizzare le relazioni finanziarie per creare le dichiarazioni finanziarie
+  - Elaborare il reporting fiscale di fine anno
+
+
+  ### Modulo 27&#58; Configurazione della struttura di reporting elettronico
+  Il Generic Electronic Reporting (GER) o semplicemente Electronic Reporting (ER) è uno strumento configurabile per il reporting normativo i pagamenti e la fatturazione elettronica.
+
+  Il motore ER è destinato agli utenti aziendali invece che agli sviluppatori. Poiché si configurano i formati invece del codice, i processi per la creazione e l'adeguamento dei formati per i documenti elettronici sono più rapidi e semplici.
+
+  ER attualmente supporta i formati TEXT, XML, PDF, documento Microsoft Word e foglio di lavoro OPENXML. Tuttavia, un'interfaccia di estensione fornisce il supporto per ulteriori formati.
+
+  #### Lezioni
+  - Introduzione
+  - Configurare il reporting elettronico
+  - Progettista di formule nel reporting elettronico
+  - Laboratorio di pratica
+  - Riepilogo del modulo
+
+  Configurare il reporting elettronico (ER)
+  - Creare configurazioni di reporting elettronico (ER)
+  - Eseguire processi di chiusura periodica e di chiusura dell'anno
+  - Progettista di formule nel reporting elettronico (ER)
+
+
+  ### Modulo 28&#58; Configurare caratteristiche localizzate
+  Dynamics 365 for Finance and Operations include funzionalità per i paesi e le regioni documentate nella guida alla localizzazione dei prodotti e alla disponibilità delle traduzioni.
+
+  Questo modulo spiega come configurare alcuni esempi di funzionalità regionali in Finance and Operations. Si prega di leggere le informazioni sulla pagina Localizzazione e caratteristiche normative per rimanere aggiornati sulle funzionalità regionali di Finance and Operations per tutti i paesi/regioni.
+  #### Lezioni
+  - Introduzione
+  - Caratteristiche di  localizzazione e normative
+  - Classificazione delle caratteristiche di localizzazione messicana
+  - Comprendere il motore fiscale globale
+  - Comprendere le caratteristiche delle istituzioni fiscali e dei documenti per la localizzazione brasiliana
+  - Cambiale
+  - Fatture elettroniche
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Caratteristiche di localizzazione e normative
+  - Classificazione delle caratteristiche di localizzazione
+  - Come applicare il contesto nazionale e regionale
+  - Come configurare e dimostrare le caratteristiche degli Stabilimenti Fiscali e dei Documenti Fiscali per il Brasile
+
+
+  ### Modulo 29&#58; Configurare la gestione finanziaria per il settore pubblico
+  Il settore pubblico, chiamato anche settore statale e locale, è prevalentemente un'industria di servizi che gestisce il benessere dei suoi cittadini. L'industria del settore pubblico comprende organizzazioni nei settori dei comuni, dell'istruzione, della sanità, della sicurezza pubblica, dei lavori pubblici e delle infrastrutture, della difesa nazionale, della fiscalità e di vari programmi sociali.
+  #### Lezioni
+  - Introduzione
+  - Istituire fondi per il settore pubblico
+  - Istituire gerarchie finanziarie derivate
+  - Configurare i codici di fatturazione per le fatture a testo libero
+  - Laboratori di pratica
+  - Riepilogo del modulo
+
+  Istituire fondi per il settore pubblico
+  - Comprendere i metodi di riconciliazione bancaria
+  - Istituire le dimensioni derivate
+  - Istituire gerarchie finanziarie derivate per il settore pubblico
+  - Funzionalità avanzate per le voci del libro mastro per il settore pubblico
+  - Configurare i codici di fatturazione per le fatture a testo libero
+
+
+  ### Modulo 30&#58; Conclusione del corso
+  Valutazione finale e riassunto del corso, nonché un'indagine post-corso per il corso.
+  #### Lezioni
+  - Valutazione finale
+  - Riepilogo del corso
+  - Sondaggio post-corso
+
+  Avrete completato il corso.

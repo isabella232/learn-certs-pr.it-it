@@ -1,22 +1,23 @@
 ### YamlMime:Examination
 title: Managing Microsoft SharePoint Server 2016
 metadata:
-  title: 'Esame 70-339: Managing Microsoft SharePoint Server 2016'
-  description: 'Esame 70-339: Managing Microsoft SharePoint Server 2016'
+  title: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
+  description: 'Exam 70-339: Managing Microsoft SharePoint Server 2016'
 uid: exam.70-339
 displayName: 70-339
-summary: >-
+summary: |-
+  <div style='color&#58; red;'>Questo esame sarà ritirato il 30 giugno 2020. Potrebbe essere disponibile un esame sostitutivo. Per saperne di più, visitate il nostro blog: <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> leggete i nostri messaggi sul ritiro dall'esame. Nota: Gli esami vengono ritirati alle 23:59 (CST)<br/><br/></div>
+  
   L'esame è pensato per i professionisti IT che si occupano di installare, configurare, implementare e gestire le installazioni di SharePoint 2016 in un data center e nel cloud. I candidati in genere hanno più di quattro anni di esperienza nella pianificazione e la manutenzione di SharePoint e altre tecnologie di base da cui dipende SharePoint, inclusi Windows Server 2008 R2 o versione successiva, Internet Information Services (IIS), SQL Server 2008 R2 o versione successiva, Active Directory e servizi di infrastruttura di rete.
 
-
   I candidati devono inoltre avere esperienza con la gestione della continuità operativa, tra cui il backup dei dati, il ripristino e l'elevata disponibilità, oltre all'esperienza con l'autenticazione e le tecnologie di sicurezza. L'esperienza con PowerShell è di gran lunga preferibile.
-
 
   I destinatari secondari di questo esame sono i Business Application Administrators (BAA) che sono attivamente impegnati nell'amministrazione di progetti line-of-business (LOB) in collaborazione con i clienti aziendali interni che lavorano con SharePoint 2016.
 subTitle: L'esame è pensato per i professionisti IT che si occupano di installare, configurare, implementare e gestire le installazioni di SharePoint 2016 in un data center e nel cloud. I candidati in genere hanno più di quattro anni di esperienza nella pianificazione e la manutenzione di SharePoint e altre tecnologie di base da cui dipende SharePoint, inclusi Windows Server 2008 R2 o versione successiva, Internet Information Services (IIS), SQL Server 2008 R2 o versione successiva, Active Directory e servizi di infrastruttura di rete.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es
@@ -26,14 +27,14 @@ locales:
 - de
 - ja
 - pt-br
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2F70-339
-levels:
+levels: 
 - intermediate
 skills:
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Progettare l'infrastruttura SharePoint (15-20%)
 - Pianificare l'autenticazione e la sicurezza (15-20%)
 - Pianificare l'ottimizzazione del carico di lavoro (15-20%)
-- Pianificare le soluzioni di produttività (15-20%)
+- Pianificare soluzioni di produttività (15-20%)
 - Gestire le funzionalità di ricerca (10-15%)
 - Pianificare e configurare i servizi cloud (5-10%)
 - Monitorare e configurare un ambiente SharePoint (10-15%)
@@ -48,15 +49,15 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: Exam Reply
-  description: Scopri due offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay [Ripetizione dell’esame]
+  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
-- title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+- title: Cruscotto delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+- title: Richiedi un alloggio
+  description: Scopri come richiedere un alloggio per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell'esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md

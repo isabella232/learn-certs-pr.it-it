@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementare infrastruttura SharePoint 2019
+title: Implementing SharePoint 2019 Infrastructure
 metadata:
-  title: 'Course MS-301T01-A: Implementare infrastruttura SharePoint 2019'
-  description: 'Course MS-301T01-A: Implementare infrastruttura SharePoint 2019'
+  title: 'Course MS-301T01-A: Implementing SharePoint 2019 Infrastructure'
+  description: 'Course MS-301T01-A: Implementing SharePoint 2019 Infrastructure'
 uid: course.ms-301t01
 courseNumber: 'MS-301T01-A'
 hoursToComplete: 48
@@ -30,19 +30,7 @@ products:
 - office-yammer
 exams:
 - uid: exam.ms-301
-summary: |-
-  SharePoint Server 2019 è progettato per soddisfare le esigenze dei moderni stili di lavoro. Fornisce le nuove esperienze moderne per gli utenti, che sono sia intuitive che familiari in SharePoint Online. In questo corso imparerete come implementare e configurare SharePoint Server 2019. Discuteremo anche di come pianificare e configurare SharePoint in base all'autenticazione e alla sicurezza dei locali per proteggere l'ambiente. Imparerete anche a gestire i contenuti di SharePoint per allinearvi alla moderna architettura dell'informazione. 
-  
-  Questo corso è progettato per i professionisti IT che implementano e gestiscono l'infrastruttura di lavoro in team nella loro organizzazione. 
-  
-  Questo è il primo di una serie di quattro corsi per l'amministratore di Teamwork. Questi corsi aiutano a prepararsi per l'esame MS-301&#58; Implementazione di SharePoint Server.
-
-  #### Profilo dei destinatari
-  Questo corso è per il ruolo di amministratore della collaborazione in team di Microsoft 365. Il ruolo è responsabile della configurazione, della distribuzione e della gestione dei carichi di lavoro di Office 365 e Azure che si concentrano su una collaborazione e un'adozione efficiente ed efficace. Gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. L'amministratore è consapevole e può distinguere tra prodotti e servizi ma non può gestire direttamente ogni prodotto o servizio. 
-  
-  Questi amministratori devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e i gruppi di lavoro. 
-  
-  L’amministratore della collaborazione in team ha una conoscenza di base dei punti di integrazione con le app e i servizi seguenti&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business.
+summary: "SharePoint Server 2019 è progettato per soddisfare le esigenze dei moderni stili di lavoro. Fornisce le nuove esperienze moderne per gli utenti, che sono sia intuitive che familiari in SharePoint Online. In questo corso imparerete come implementare e configurare SharePoint Server 2019. Discuteremo anche di come pianificare e configurare SharePoint in base all'autenticazione e alla sicurezza dei locali per proteggere l'ambiente. Imparerete anche a gestire i contenuti di SharePoint per allinearvi alla moderna architettura dell'informazione. \n\nQuesto corso è progettato per i professionisti IT che implementano e gestiscono l'infrastruttura di lavoro in team nella loro organizzazione. \n\nQuesto è il primo di una serie di quattro corsi per l'amministratore di Teamwork. Questi corsi aiutano a prepararsi per l'esame MS-301&#58; Implementazione di SharePoint Server.\n\n#### Profilo dei destinatari\nQuesto corso è per il ruolo di amministratore della collaborazione in team di Microsoft 365. Il ruolo è responsabile della configurazione, della distribuzione e della gestione dei carichi di lavoro di Office 365 e Azure che si concentrano su una collaborazione e un'adozione efficiente ed efficace. Gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. L'amministratore è consapevole e può distinguere tra prodotti e servizi ma non può gestire direttamente ogni prodotto o servizio. \n\nQuesti amministratori devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e i gruppi di lavoro. \n\nL’amministratore della collaborazione in team ha una conoscenza di base dei punti di integrazione con le app e i servizi seguenti&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business."
 prerequisitesSection: |-
   Gli studenti che intendono seguire questo corso devono già possedere le seguenti competenze&#58;
   - Esperienza con Windows PowerShell
@@ -100,6 +88,7 @@ outlineSection: |-
   - Descrivere come gestire i gruppi SharePoint in SharePoint 2019
 
 
-  ### Modulo 4&#58; Fine del corso
+  ### Modulo 4&#58; Conclusione del corso
 
-  #### Laboratorio &#58; Creare e configurare applicazioni Web
+  #### Laboratorio &#58; Creare e configurare applicazioni web
+
