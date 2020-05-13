@@ -6,12 +6,14 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
   I Data Analyst consentono alle aziende di massimizzare il valore del loro patrimonio di dati utilizzando Microsoft Power BI. In qualità di esperti in materia, i Data Analyst sono responsabili della progettazione e della costruzione di modelli di dati scalabili, della pulizia e della trasformazione dei dati e dell'abilitazione di capacità analitiche avanzate che forniscono un valore aziendale significativo grazie a visualizzazioni dati facili da comprendere. I Data Analyst collaborano anche con i principali stakeholder a livello verticale per fornire informazioni rilevanti sulla base dei requisiti di business identificati.
   <br/>
 
   Il Data Analyst deve avere una comprensione fondamentale dei repository di dati e dell'elaborazione dei dati sia nei locali sia nel cloud.
 
-  <div style='color&#58; red;'><br/><strong>Nota&#58; questo esame beta non sarà disponibile fino al 2 aprile 2020.</strong> Queste informazioni non sono definitive e potrebbero esserci dei piccoli cambiamenti una volta che l'esame sarà rilasciato.</div>
+  <div style='font-weight&#58; bold;'><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne <a href="/learn/certifications/certification-exams#participating-in-beta-exams">di più sul valore e l'importanza degli esami beta</a>.</div>
 subTitle: 'Questo esame misura la capacità di svolgere i seguenti compiti tecnici: preparare i dati, modellare i dati, visualizzare i dati, analizzare i dati, distribuire e mantenere i deliverable.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
@@ -37,21 +39,22 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
+- title: Poster della certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Ripetizione dell’esame]
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
-- title: Cruscotto delle certificazioni
+- title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi un alloggio
-  description: Scopri come richiedere un alloggio per il tuo esame.
+- title: Richiedi una sistemazione particolare
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri dell'esame e domande frequenti
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

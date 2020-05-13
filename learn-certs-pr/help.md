@@ -1,4 +1,4 @@
-﻿---
+---
 title: Guida alla formazione e alla certificazione Microsoft | Microsoft Docs
 description: Guida per la formazione e la certificazione Microsoft
 documentationcenter: NA
@@ -11,11 +11,13 @@ ms.author: micsullivan
 ---
 # Guida per la formazione e la certificazione Microsoft
 
+<div style='color&#58; red;'><strong><font color="red"><br/>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>Ulteriori informazioni</a>.</font></strong><br/><br/></div>
+
 Hai delle domande sui prodotti per la formazione e la certificazione Microsoft? Visita [Microsoft Learn](/learn/certifications/) dove puoi trovare risposte alla maggior parte delle domande sulla formazione, le certificazioni, gli esami, i corsi ufficiali di Microsoft (MOC) e molto altro ancora.
 
-Ulteriori domande? Consulta le opzioni sull'assistenza riportate di seguito.
+Ulteriori domande? Consulta le opzioni sull’assistenza riportate di seguito.
 
-Si prega di notare che i tempi di risposta per i clienti che cercano assistenza per la certificazione e la formazione sono più lunghi del previsto. Apprezziamo la vostra pazienza, poiché lavoriamo per gestire tutte le richieste il più rapidamente possibile.
+***Si prega di notare che i tempi di risposta per i clienti che cercano assistenza per la certificazione e la formazione sono più lunghi del previsto. Apprezziamo la vostra pazienza, poiché lavoriamo per gestire tutte le richieste il più rapidamente possibile.***
 
 ## Aiuto per la certificazione
 

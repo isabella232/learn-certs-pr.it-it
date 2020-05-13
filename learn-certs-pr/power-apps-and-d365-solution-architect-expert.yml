@@ -5,11 +5,15 @@ metadata:
   description: Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.  \n\n<div style=\"color:red\"><br/><strong>NOTA&#58; Questa certificazione sarà disponibile solo a partire dal 27 gennaio 2020</strong></div>"
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  
+  Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende. 
 subTitle: Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.
 levels:
 - advanced
 skills:
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Immaginare la soluzione e analizzare i requisiti
 - Progettare una soluzione
 - Implementare la soluzione
@@ -19,6 +23,13 @@ type: role-based
 products:
 - dynamics
 - power-apps
+courses:
+- uid: course.mb-600t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
 prerequisites:
 - uid: certification.power-apps-and-d365-developer-associate
   isOptional: false
@@ -30,22 +41,23 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
-exams:
-- uid: exam.mb-600
 resources:
+- title: Percorso di formazione per ottenere la certificazione
+  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
-  description: Consulta la panoramica delle certificazioni role-based, foundamentals and specialty
+- title: Poster della certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Reply
-  description: Scopri due offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay [Ripetizione dell’esame]
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

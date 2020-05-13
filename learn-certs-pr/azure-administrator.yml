@@ -1,21 +1,23 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.
+  description: 'Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
   Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.
 subTitle: Gli Azure Administrator implementano, monitorano e aggiornano le soluzioni di Microsoft Azure, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.
 levels:
 - intermediate
 skills:
-- Gestire le sottoscrizioni e le risorse di Azure
+- Gestire le identità e la governance Azure
 - Implementare e gestire l'archiviazione
-- Implementare e gestire macchine virtuali (VM)
-- Configurare e gestire reti virtuali
-- Gestire le identità
+- Distribuire e gestire le risorse di calcolo Azure
+- Configurare e gestire la rete virtuale
+- Effettuare il monitoraggio e il backup delle risorse Azure
 roles:
 - administrator
 type: role-based
@@ -27,7 +29,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
-- uid: course.az-103t00
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -42,7 +44,7 @@ paths:
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
-- uid: exam.az-103
+- uid: exam.az-104
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
@@ -50,7 +52,7 @@ resources:
 - title: Poster della certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Exam Replay [Ripetizione dell’esame]
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
@@ -59,3 +61,4 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Microsoft Dynamics 365 Fundamentals
 metadata:
   title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
@@ -6,31 +6,37 @@ metadata:
 uid: exam.mb-901
 displayName: MB-901
 summary: |-
-  Questo esame riguarderà il posizionamento e i vantaggi dell’adozione di Dynamics 365.
-  
+  <div>
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il Aprile 17. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  </div>
+
+  Questo esame riguarderà il posizionamento e i vantaggi dell'adozione di Dynamics 365.
+
   I candidati devono avere una comprensione funzionale delle capacità di Dynamics 365 e del cloud computing di Microsoft.
 
   I candidati idonei a questo esame devono avere una conoscenza generale o un’esperienza di lavoro rilevante in un ambiente IT. Devono inoltre avere una conoscenza di base degli scenari di business ed esperienza nel soddisfare i requisiti aziendali, legali e di sicurezza dei progetti IT.
-subTitle: Questo esame misura la capacità di comprendere Microsoft Dynamics 365, l’intelligenza artificiale (IA), la realtà mista (MR), la Power Platform, i concetti di cloud, la sicurezza del cloud, la sicurezza basata sul ruolo in Dynamics 365, il Common Data Service, il framework di gestione dei dati, la reportistica di Dynamics 365, le integrazioni di Dynamics 365 e l’implementazione del cloud.
+subTitle: Questo esame misura la capacità di comprendere Microsoft Dynamics 365, l'intelligenza artificiale, la realtà mista, la Power Platform, i concetti di cloud, la sicurezza del cloud, la sicurezza basata sul ruolo in Dynamics 365, il Common Data Service, il framework di gestione dei dati, la reportistica di Dynamics 365, le integrazioni di Dynamics 365 e l'implementazione del cloud.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
-- Identificare i componenti della piattaforma Microsoft per Dynamics 365 (30 -35%)
-- Comprendere l'IA e la realtà mista per Dynamics 365 (10 -15%)
-- Comprendere le applicazioni guidate dai modelli (25 -30%)
-- Comprendere le applicazioni di Dynamics 365 Finance and Operations (25 -30%)
+- Il contenuto di questo esame è stato aggiornato il 17 Aprile. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.
+- Identificare i componenti della piattaforma Microsoft per Dynamics 365 (30-35%)
+- Descrivere l'intelligenza artificiale e la realtà mista in Dynamics 365 (10-15%)
+- Descrivere le app basate sul modello (25-30%)
+- Descrivere le app finanziarie e operative (25-30%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-901t00
@@ -61,3 +67,4 @@ resources:
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+
