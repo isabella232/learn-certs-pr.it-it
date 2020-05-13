@@ -6,15 +6,17 @@ metadata:
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Dimostra di comprendere Microsoft Dynamics 365; intelligenza artificiale (AI); realtà mista (MR); la Power Platform; i concetti di cloud; la sicurezza del cloud; la sicurezza di Dynamics 365; il Common Data Service; la reportistica di Dynamics 365; le integrazioni di Dynamics 365 e l'implementazione del cloud.
-subTitle: Dimostra di comprendere Microsoft Dynamics 365; intelligenza artificiale (AI); realtà mista (MR); la Power Platform; i concetti di cloud; la sicurezza del cloud; la sicurezza di Dynamics 365; il Common Data Service; la reportistica di Dynamics 365; le integrazioni di Dynamics 365 e l'implementazione del cloud.
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  Dimostra di comprendere Microsoft Dynamics 365; intelligenza artificiale; realtà mista; la Power Platform; i concetti di cloud; la sicurezza del cloud; la sicurezza di Dynamics 365; il Common Data Service; la reportistica di Dynamics 365; le integrazioni di Dynamics 365 e l'implementazione del cloud.
+subTitle: 'Dimostra di comprendere Microsoft Dynamics 365; intelligenza artificiale (AI); realtà mista (MR); la Power Platform; i concetti di cloud; la sicurezza del cloud; la sicurezza di Dynamics 365; il Common Data Service; la reportistica di Dynamics 365; le integrazioni di Dynamics 365 e l''implementazione del cloud.'
 levels:
 - beginner
 skills:
 - Identificare i componenti della piattaforma Microsoft per Dynamics 365
-- Comprendere l'IA e la realtà mista per Dynamics 365
-- Comprendere le applicazioni guidate dai modelli
-- Comprendere le applicazioni di Dynamics 365 Finance and Operations
+- Descrivere l'intelligenza artificiale e la realtà mista in Dynamics 365
+- Descrivere le app basate sul modello
+- Descrivere le app finanziarie e operative
 roles:
 - functional-consultant
 type: fundamentals
@@ -34,15 +36,16 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
+- title: Poster della certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [Ripetizione dell’esame]
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
-- title: Cruscotto delle certificazioni
+- title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

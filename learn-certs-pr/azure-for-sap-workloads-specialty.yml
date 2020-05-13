@@ -1,4 +1,4 @@
-﻿### YamlMime:Certification
+### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
   Gli architetti di Azure per i carichi di lavoro SAP hanno una vasta conoscenza ed esperienza nell’uso della procedura SAP Landscape Certification e delle normative di settore che si applicano al funzionamento nel lungo termine di una soluzione SAP.
 subTitle: Gli architetti di Azure per i carichi di lavoro SAP hanno una vasta conoscenza ed esperienza nell’uso della procedura SAP Landscape Certification e delle normative di settore che si applicano al funzionamento nel lungo termine di una soluzione SAP.
 levels:
@@ -23,6 +25,7 @@ roles:
 type: specialty
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -39,7 +42,7 @@ resources:
 - title: Poster della certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Exam Replay [Ripetizione dell’esame]
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
@@ -48,3 +51,4 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

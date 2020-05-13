@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: Implementing an Azure Data Solution
 metadata:
   title: 'Exam DP-200: Implementing an Azure Data Solution'
@@ -6,8 +6,11 @@ metadata:
 uid: exam.dp-200
 displayName: DP-200
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il martedì 31 marzo 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 31 marzo 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  </div>
+
   I candidati idonei a questo esame sono Microsoft Azure Data Engineer che collaborano con le parti interessate per identificare e soddisfare i requisiti dei dati al fine di implementare soluzioni di dati che utilizzino i servizi di dati di Azure.
 
   I tecnici dati di Azure sono responsabili di attività correlate ai dati che includono la distribuzione di servizi di archiviazione dati, l’inserimento di dati in streaming e in batch, la trasformazione di dati, l’implementazione di requisiti di sicurezza, l’implementazione di criteri di conservazione dei dati, l’identificazione dei colli di bottiglia relativi alle prestazioni e l’accesso alle origini dati esterne.
@@ -17,7 +20,7 @@ subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attivit�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
@@ -26,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il martedì 31 marzo 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il 31 marzo 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.
 - 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Implementare soluzioni per l'archiviazione dei dati (40-45%)
 - Gestire e sviluppare l'elaborazione dei dati (25-30%)
@@ -67,7 +70,7 @@ resources:
 - title: Poster della certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Exam Replay [Ripetizione dell’esame]
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -82,3 +85,4 @@ resources:
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+
