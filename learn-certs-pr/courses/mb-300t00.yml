@@ -36,16 +36,16 @@ exams:
 - uid: exam.mb-300
 summary: |-
   Questo corso tratta i seguenti argomenti&#58;
-  - Caratteristiche principali comuni di Dynamics 365 for Finance and Operations
-  - Configurazione del core in Dynamics 365 for Finance and Operations
-  - Migrazione dei dati e preparazione per il go-live con Dynamics 365 for Finance and Operations
-  Le organizzazioni utilizzano Dynamics 365 for Finance and Operations per ridurre i costi operativi e rispondere rapidamente alle mutevoli esigenze aziendali. Questa soluzione permette alle organizzazioni di raggiungere questi obiettivi.
-  In questo corso vengono discussi i componenti fondamentali e la configurazione di Microsoft Dynamics 365 for Finance and Operations, nonché la migrazione dei dati e la preparazione per il go -live.
+  - Caratteristiche principali comuni di Dynamics 365 Finance
+  - Configurazione del core in Dynamics 365 Finance
+  - Migrazione dei dati e preparazione per il go-live con Dynamics 365 Finance
+  Le organizzazioni utilizzano Dynamics 365 Finance per ridurre i costi operativi e rispondere rapidamente alle mutevoli esigenze aziendali. Questa soluzione permette alle organizzazioni di raggiungere questi obiettivi.
+  In questo corso vengono discussi i componenti fondamentali e la configurazione di Microsoft Dynamics 365 Finance, nonché la migrazione dei dati e la preparazione per il go-live.
 
   #### Profilo dei destinatari
-  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+  Un Dynamics 365 Finance Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
 prerequisitesSection: |-
-  Prima di seguire questo corso, gli studenti devono avere&#58;
+  Prima di partecipare a queso corso, gli studenti devono&#58;
   - Conoscenza generale di Microsoft Windows
   - La possibilità di utilizzare Dynamics 365 for Finance and Operations per l'elaborazione di base
   - Conoscenza generale delle caratteristiche di base dei dispositivi mobili e della navigazione
@@ -178,7 +178,7 @@ outlineSection: |-
 
 
   ### Modulo 8&#58; Gestire gli utenti e la sicurezza
-  Se conosci l'architettura di sicurezza di Dynamics 365 for Finance and Operations, puoi personalizzarla per adattarla ai requisiti della tua azienda. Usando Finance and Operations, puoi mantenere i tuoi dati sensibili al sicuro e garantire che gli utenti rimangano concentrati sui loro ruoli
+  Se conosci l'architettura di sicurezza di Dynamics 365 for Finance and Operations, puoi personalizzarla per adattarla ai requisiti della tua azienda. Usando Finance and Operations, puoi mantenere i tuoi dati sensibili al sicuro e garantire che gli utenti rimangano concentrati sui loro ruoli.
 
   Microsoft Dynamics 365 for Finance and Operations dispone di una serie di opzioni di sicurezza e configurazione per aiutare a mantenere i tuoi dati sensibili al sicuro. Tutto ciò significa che i tuoi utenti possono rimanere concentrati sui loro ruoli, mentre il sistema rimane il più snello possibile.
 
@@ -235,7 +235,7 @@ outlineSection: |-
   - Come integrare i dati provenienti da più fonti in un servizio dati comune
 
 
-  ### Modulo 11&#58; Preparare i dati per la migrazione ed eseguire la migrazione dei dati
+  ### Modulo 11&# 58; Preparare i dati per la migrazione ed eseguire la migrazione dei dati
   Quando è il momento della migrazione dei dati, più sai più è facile controllare la complessità operativa e ridurre i costi. La continuità operativa del tuo cliente deve essere la tua priorità. Impara a preparare i dati per la migrazione utilizzando il framework di gestione dei dati per gestire le entità di dati e i pacchetti di entità di dati in Dynamics 365 for Finance and Operations.
   #### Lezioni
   - Introduzione
@@ -322,3 +322,4 @@ outlineSection: |-
   - Sondaggio post-corso
 
   Avrete completato il corso.
+

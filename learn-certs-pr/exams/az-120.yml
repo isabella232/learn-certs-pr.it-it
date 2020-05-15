@@ -1,4 +1,4 @@
-﻿### YamlMime:Examination
+### YamlMime:Examination
 title: 'Planning and Administering Microsoft Azure for SAP Workloads'
 metadata:
   title: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
@@ -6,6 +6,8 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
   I candidati idonei a queto esame sono architetti e progettisti che conoscono la procedura SAP Landscape Certification e le normative di settore che si applicano al funzionamento nel lungo termine di una soluzione. I candidati devono essere in grado di fornire raccomandazioni sui servizi; adattare le risorse per ottimizzare resilienza e prestazioni; scalare le risorse, distribuirle, dimensionarle e monitorarle.
 
   Gli architetti di Azure per i carichi di lavoro SAP devono avere una vasta esperienza e una conocenza approfondita delle applicazioni SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, OS Servers per le applicazioni e database SAP, il portale di Azure, dei modelli ARM, dei sistemi operativi, della virtualizzazione, dell’infrastruttura cloud, delle strutture di archiviazione, delle caratteristiche progettuali dell’alta disponibilità, delle caratteristiche progettuali del ripristino di emergenza, dei concetti relativi alla protezione dei dati e delle reti.
@@ -14,9 +16,12 @@ summary: |-
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: Migrare i carichi di lavoro SAP in Azure; progettare una soluzione Azure per supportare i carichi di lavoro SAP; creare e distribuire carichi di lavoro SAP in Azure; convalidare l’infrastruttura Azure per i carichi di lavoro SAP; e rendere operativa l’architettura SAP in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 skills:
@@ -31,6 +36,7 @@ roles:
 - devops-engineer
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -47,7 +53,7 @@ resources:
 - title: Poster della certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: Exam Replay [Ripetizione dell’esame]
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -62,3 +68,4 @@ resources:
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

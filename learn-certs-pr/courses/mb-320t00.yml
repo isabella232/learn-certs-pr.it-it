@@ -22,10 +22,10 @@ products:
 exams:
 - uid: exam.mb-320
 summary: |-
-  Questo corso tratta la produzione nella suite di applicazioni Dynamics 365: produzione discreta, lean manufacturing e produzione
+  Questo corso tratta la produzione nella suite di applicazioni Dynamics 365&#58; produzione discreta, lean manufacturing e produzione
 
   #### Profilo dei destinatari
-  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+  Un Dynamics 365 Finance Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
 prerequisitesSection: |-
   - Competenze di base nella produzione
   - Competenze di base Dynamics 365
@@ -40,7 +40,7 @@ outlineSection: |-
   - Capire la pianificazione della capacità
   - Contabilità generale e modulo di controllo della produzione
   - Laboratori di pratica
-  - Riepilogo del corso
+  - Riepilogo
 
   Le metodologie di produzione discrete, snelle e di processo
   - La produzione unificata
@@ -350,3 +350,4 @@ outlineSection: |-
   - Riepilogo del corso
 
   Hai completato il corso
+

@@ -22,10 +22,10 @@ products:
 exams:
 - uid: exam.mb-310
 summary: |-
-  Questo corso tratta gli aspetti finanziari di Dynamics 365: configurare e utilizzare le componenti finanziarie essenziali, i debiti, i crediti, gli incassi, il budgeting, le immobilizzazioni e le funzionalità aggiuntive.
+  Questo corso tratta gli aspetti finanziari di Dynamics 365&#58; configurare e utilizzare le componenti finanziarie essenziali, i debiti, i crediti, gli incassi, il budgeting, le immobilizzazioni e le funzionalità aggiuntive.
 
   #### Profilo dei destinatari
-  Un Dynamics 365 for Finance and Operations Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+  Un Dynamics 365 Finance Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
 prerequisitesSection: |-
   Competenze base di contabilità Competenze in Dynamics 365 Core
 outlineSection: |-
@@ -208,7 +208,7 @@ outlineSection: |-
   - il codice fiscale è il componente principale per definire i calcoli fiscali e collegare tutti gli altri componenti
 
 
-  ### Modulo 13&#58; Configurare i  debiti
+  ### Modulo 13&#58; Configurare i debiti
   Dynamics 365 for Finance and Operations offre ampie funzionalità per l'impostazione di diverse opzioni di pagamento dei fornitori.
   #### Lezioni
   - Comprendere la funzionalità del registratore di attività
@@ -259,7 +259,7 @@ outlineSection: |-
   - Riepilogo del modulo
 
   Liquidare le transazioni e annullare i saldi.
-  - Distribuire i fondi utilizzando le distribuzioni contabili.
+  Distribuire i fondi utilizzando le distribuzioni contabili.
   - Configurare criteri per la convalida delle fatture.
 
 
@@ -528,3 +528,4 @@ outlineSection: |-
   - Sondaggio post-corso
 
   Avrete completato il corso.
+
