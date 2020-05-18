@@ -53,7 +53,6 @@ outlineSection: |-
   - Eseguire la migrazione delle applicazioni
   - Considerazioni post-migrazione
 
-
   #### Lab&#58; migrazione dei carichi di lavoro MongoDB su Cosmos DB
   - Creare un progetto di migrazione
   - Definire origine e destinazione
@@ -67,7 +66,6 @@ outlineSection: |-
   - Eseguire la migrazione dell'applicazione
   - Affrontare le problematiche post-migrazione
 
-
   ### Modulo 3&#58; Migrare i carichi di lavoro di Cassandra DB su Cosmos DB
   Questo modulo descrive i vantaggi e il processo di migrazione dei carichi di lavoro di Cassandra DB su Cosmos DB.
   #### Lezioni
@@ -76,7 +74,6 @@ outlineSection: |-
   - Migrazione dei dati
   - Eseguire la migrazione delle applicazioni
   - Considerazioni post-migrazione
-
 
   #### Lab&#58; Migrazione dei carichi di lavoro di Cassandra DB su Cosmos DB
   - Esportare lo schema

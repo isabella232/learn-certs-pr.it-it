@@ -41,13 +41,11 @@ outlineSection: |-
   - Azure Active Directory
   - Utenti e gruppi
 
-
   #### Lab&#58; gestire le identità di Azure Active Directory
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Proteggere e gestire le identità con Azure Active Directory.
   - Implementare e gestire utenti e gruppi.
-
 
   ### Modulo 2&#58; Governance e conformità
   In questo modulo imparerai a gestire le tue sottoscrizioni e i tuoi account, implementare le policies di Azure e usare il controllo degli accessi in base al ruolo.
@@ -56,7 +54,6 @@ outlineSection: |-
   - Abbonamenti e account
   - Azure Policy
   - Controllo dell’accesso basato sui ruoli (RBAC)
-
 
   #### Lab&#58; Gestire abbonamenti e RBAC
 
@@ -67,7 +64,6 @@ outlineSection: |-
   - Implementare Azure Policy, incluse le policies personalizzate.
   - Utilizzare RBAC per assegnare le autorizzazioni.
 
-
   ### Modulo 3&#58; Amministrazione di Azure
   In questo modulo imparerai gli strumenti che un Azure Administrator usa per gestire la propria infrastruttura. Ciò include i modelli Azure Portal, Cloud Shell, Azure PowerShell, CLI e Resource Manager. Questo modulo include&#58;
   #### Lezioni
@@ -75,7 +71,6 @@ outlineSection: |-
   - Azure Portal e Cloud Shell
   - Azure PowerShell e CLI
   - Modelli ARM
-
 
   #### Lab&#58; Gestire le risorse di Azure usando Azure Portal
 
@@ -91,7 +86,6 @@ outlineSection: |-
   - Utilizzare Azure PowerShell e CLI.
   - Utilizzare i modelli ARM per distribuire risorse.
 
-
   ### Modulo 4&#58; Rete virtuale
   In questo modulo imparerai i concetti di base della rete virtuale come reti virtuali e subnet, indirizzi IP, gruppi di sicurezza di rete, Azure Firewall e Azure DNS.
   #### Lezioni
@@ -100,7 +94,6 @@ outlineSection: |-
   - Gruppi di sicurezza di rete
   - Azure Firewall
   - Azure DNS
-
 
   #### Lab&#58; Implementare reti virtuali
 
@@ -118,7 +111,6 @@ outlineSection: |-
   - Connessioni gateway VPN
   - ExpressRoute e WAN virtuale
 
-
   #### Lab&#58; Implementare la connettività tra siti
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
@@ -134,7 +126,6 @@ outlineSection: |-
   - Azure Load Balancer
   - Azure Application Gateway
   - Traffic Manager
-
 
   #### Lab&#58; Implementare la gestione del traffico
 
@@ -154,7 +145,6 @@ outlineSection: |-
   - Azure Files e File Sync
   - Gestione dell'archiviazione
 
-
   #### Lab&#58; Gestire l'archiviazione di Azure
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
@@ -173,7 +163,6 @@ outlineSection: |-
   - Disponibilità delle macchine virtuali
   - Estensioni di macchine virtuali
 
-
   #### Lab&#58; Gestire macchine virtuali
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
@@ -190,7 +179,6 @@ outlineSection: |-
   - Azure App Service
   - Servizi di container
   - Azure Kubernetes Service
-
 
   #### Lab&#58; Implementare app Web
 
@@ -210,7 +198,6 @@ outlineSection: |-
   - Backup di file e cartelle
   - Backup di macchine virtuali
 
-
   #### Lab&#58; Implementare la protezione dei dati
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
@@ -225,7 +212,6 @@ outlineSection: |-
   - Avvisi di Azure
   - Log Analytics
   - Network Watcher
-
 
   #### Lab&#58; Implementare il monitoraggio
 

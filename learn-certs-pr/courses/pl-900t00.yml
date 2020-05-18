@@ -33,7 +33,7 @@ summary: |-
 prerequisitesSection: |-
   Nessun prerequisito per questo corso
 outlineSection: |-
-  ### Module  1&#58; Introduction to Power Platform
+  ### Module 1&#58; Introduction to Power Platform
   Scopri i componenti di Power Platform, i modi per connettere i dati e come le organizzazioni possono sfruttare questa tecnologia
   #### Lezioni
   - Panoramica della piattaforma di alimentazione
@@ -43,12 +43,11 @@ outlineSection: |-
   - Identificare quando utilizzare ciascuna applicazione del componente Power Platform per creare soluzioni aziendali
   - Scopri il valore dell'utilizzo di Power Platform per creare soluzioni aziendali
 
-  ### Module  2&#58; Get Started with Power Apps
+  ### Module 2&#58; Get Started with Power Apps
   Scopri il valore e le capacità di PowerApps e i modi in cui altre organizzazioni hanno sfruttato questa tecnologia per creare semplici applicazioni per la loro attività.
   #### Lezioni
   - Panoramica di Power Apps
   - Come creare una soluzione per app
-
 
   #### Lab &#58; come creare una Basic Canvas App 1
   - Creare Staff Canvas App
@@ -61,13 +60,11 @@ outlineSection: |-
   - Scopri come le altre organizzazioni digitalizzano i loro processi utilizzando Power Apps
   - Guarda le Power Apps in azione e scopri le opzioni per creare la tua prima app
 
-
-  ### Module  3&#58; Introduction to Common Data Service
+  ### Module 3&#58; Introduction to Common Data Service
   Common Data Service ti consente di approfondire soluzioni di dati potenti e scalabili nel cloud. Scopri cosa rende tick Common Data Service e come può funzionare con Power Platform per creare soluzioni aziendali uniche ed efficienti.
   #### Lezioni
   - Panoramica del servizio dati comune
   - Riepilogo del modulo
-
 
   #### Lab &#58; modellazione dei dati
   - Creare ambiente e soluzione
@@ -78,13 +75,11 @@ outlineSection: |-
   - Descrivere la differenza tra Common Data Service e Common Data Model
   - Spiegare i casi d'uso e le limitazioni delle regole aziendali e dei flussi di processo
 
-
-  ### Module  4&#58; Get Started with Power Automate
+  ### Module 4&#58; Get Started with Power Automate
   Scopri come gli utenti possono sfruttare Power Automate per migliorare l'efficienza e la produttività dell'azienda.
   #### Lezioni
   - Panoramica di Power Automate
   - Come costruire una soluzione automatizzata
-
 
   #### Lab &#58; creare un flusso semplice
   - Creare flusso di notifica visita
@@ -94,13 +89,11 @@ outlineSection: |-
   - Guarda come Power Automate funziona dal punto di vista dell'utente
   - Crea un flusso semplice
 
-
-  ### Module  5&#58; Get Started with Power BI
+  ### Module 5&#58; Get Started with Power BI
   Scopri come le organizzazioni possono utilizzare Power BI per pulire, visualizzare e comprendere facilmente i dati per garantire decisioni meglio informate.
   #### Lezioni
   - Panoramica di Power BI
   - Come costruire una semplice dashboard
-
 
   #### Lab &#58; Crea un report Power BI
   Descrivere il valore e le funzionalità aziendali di Power BI
