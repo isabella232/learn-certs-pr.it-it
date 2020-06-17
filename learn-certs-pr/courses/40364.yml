@@ -1,0 +1,44 @@
+### YamlMime:Course
+title: 'Database Administration Fundamentals: MTA Exam 98-364'
+metadata:
+  title: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+  description: 'Course 40364-A: Database Administration Fundamentals: MTA Exam 98-364'
+uid: course.40364
+courseNumber: '40364-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Conoscere i concetti di base dei database
+- skill: Creare oggetti di database
+- skill: Manipolare i dati
+- skill: Conoscere l'archiviazione dei dati
+- skill: Amministrare un database
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- sql-server
+exams:
+- uid: exam.98-364
+summary: |-
+  Questo corso di formazione MTA di tre giorni aiuta a prepararsi per l'esame Microsoft Technology Associate 98-364 e a conoscere questi argomenti&#58; concetti fondamentali dei database, creazione di oggetti di database, manipolazione dei dati, archiviazione dei dati e amministrazione di un database. Questo corso affronta gli stessi contenuti del Microsoft Academic Course (MOAC) per questo esame.
+
+  #### Profilo dei destinatari
+  Gli esami Microsoft Technology Associate (MTA) rappresentano la più recente suite di esami di certificazione di Microsoft che convalidano il possesso delle conoscenze necessarie per iniziare a gettare le basi di una carriera basata sulle tecnologie Microsoft. Questo programma è un punto di partenza ideale per intraprendere una carriera in ambito tecnologico. Presuppone che i candidati abbiano una qualche esperienza pratica o conoscenze precedenti, ma non necessariamente un’esperienza a livello professionale.
+prerequisitesSection: |-
+  Non sono previsti pre-requisiti per questo corso.
+outlineSection: |-
+  ### Modulo 1&#58; Conoscere i concetti fondamentali dei database
+
+  ### Modulo 2&#58; Creare oggetti di database
+
+  ### Modulo 3&#58; Manipolare i dati
+
+  ### Modulo 4&#58; Conoscere l’archiviazione dei dati
+
+  ### Modulo 5&#58; Amministrare un database
+

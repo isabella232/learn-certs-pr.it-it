@@ -1,0 +1,282 @@
+### YamlMime:Course
+title: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager
+metadata:
+  title: 'Course 20745-B: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager'
+  description: 'Course 20745-B: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager'
+uid: course.20745
+courseNumber: '20745-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Spiegare le diverse opzioni di virtualizzazione.
+- skill: Installare e gestire Hyper-V su Windows Server 2016.
+- skill: Installare e configurare System Center 2016 Virtual Machine Manager.
+- skill: Gestire la struttura di archiviazione e i relativi aggiornamenti.
+- skill: Configurare e gestire la libreria di Virtual Machine Manager e gli oggetti della libreria.
+- skill: Gestire la struttura di rete.
+- skill: Creare e gestire macchine virtuali utilizzando Virtual Machine Manager.
+- skill: Gestire cloud in Virtual Machine Manager.
+- skill: Gestire i servizi in Virtual Machine Manager.
+- skill: Monitorare un'infrastruttura di virtualizzazione utilizzando System Center Operations Manager.
+- skill: Implementare e gestire Microsoft Hyper-V Replica e Microsoft Azure Site Recovery.
+- skill: Proteggere l'infrastruttura di virtualizzazione utilizzando Data Protection Manager.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-system-center
+exams:
+- uid: exam.70-745
+summary: |-
+  Questo corso di cinque giorni spiega come implementare e gestire l'infrastruttura di virtualizzazione in un data center definito dal software utilizzando Microsoft System Center 2016 Virtual Machine Manager. Inoltre il corso descrive come monitorare l'infrastruttura utilizzando Microsoft System Center Operations Manager e come proteggerla utilizzando Microsoft System Center Data Protection Manager.
+
+  #### Profilo dei destinatari
+  Questo corso è destinato ai professionisti IT e agli amministratori che sono responsabili della progettazione, dell'implementazione e della gestione dell'infrastruttura di virtualizzazione in un data center definito dal software utilizzando System Center 2016 Virtual Machine Manager. L'obiettivo principale di questo corso è la gestione dell'infrastruttura di virtualizzazione Hyper-V in Windows Server 2016, sebbene il corso tratti anche altre piattaforme di virtualizzazione che possono essere gestite utilizzando Virtual Machine Manager 2016. 
+
+  Questo corso è rivolto anche ai decisori IT che vogliano decidere quale prodotto di virtualizzazione implementare nei loro datacenter definiti dal software e che desiderino acquisire familiarità con la soluzione System Center 2016 per la gestione dell'infrastruttura di virtualizzazione.
+prerequisitesSection: |-
+  Oltre alla propria esperienza professionale, i candidati che decidono di seguire questo corso di formazione devono già possedere le seguenti conoscenze tecniche&#58;
+  - Conoscenza dei concetti di TCP/IP e di rete
+  - Conoscenza delle diverse tecnologie e concetti di archiviazione
+  - Familiarità con diversi tipi di virtualizzazioni
+  - Familiarità con Windows Server e l'amministrazione di Windows Server
+  - Conoscenza di Windows PowerShell
+
+  Gli studenti devono avere la capacità di lavorare in un team, anche virtuale, e possedere buone capacità di documentazione e comunicazione.
+  
+  Gli studenti che frequentano questo corso di formazione possono soddisfare i prerequisiti frequentando i seguenti corsi o acquisendo conoscenze e capacità equivalenti&#58;
+  - 20740 - Archiviazione e calcolo con Windows Server 2016
+  - 20741 - Networking with Windows Server 2016
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione alla virtualizzazione del server
+  Questo modulo spiega le diverse soluzioni di virtualizzazione. Descrive anche i concetti di data center definito da software e Microsoft Azure.
+  #### Lezioni
+  - Panoramica di Microsoft Virtualization
+  - Presentazione del data center definito dal software
+  - Estensione della virtualizzazione al cloud
+
+
+  #### Lab&#58; Valutazione delle opzioni di virtualizzazione
+  - Selezione del metodo di virtualizzazione appropriato
+  - Creazione di macchine virtuali di Azure
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le varie tecnologie di virtualizzazione e gli scenari in cui si potrebbero applicare.
+  - Descrivere il funzionamento dei data center definiti dal software e confrontarli con i datacenter tradizionali
+  - Elencare i principali vantaggi di Microsoft Azure e il processo di gestione di Azure.
+
+
+  ### Modulo 2&#58; Panoramica sulla virtualizzazione di Hyper-V
+  Questo modulo spiega come installare e gestire Hyper-V in Windows Server 2016.
+  #### Lezioni
+  - Installazione e configurazione del ruolo di Hyper-V
+  - Creazione e gestione di dischi rigidi virtuali e macchine virtuali
+  - Creazione e utilizzo di switch virtuali Hyper-V
+  - Implementazione del clustering di failover con Hyper-V
+
+
+  #### Lab&#58; Creazione e gestione di dischi rigidi virtuali e macchine virtuali
+  - Installazione e configurazione del ruolo di Hyper-V server
+  - Configurazione di macchine virtuali e dischi rigidi virtuali
+
+
+  #### Lab&#58; Implementazione del clustering di failover con Hyper-V
+  - Creazione di un cluster di failover Hyper-V
+  - Gestione di un cluster di failover Hyper-V
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Installare e configurare il ruolo di Hyper-V.
+  - Creare e gestire dischi rigidi virtuali e macchine virtuali.
+  - Creare e utilizzare switch virtuali Hyper-V.
+  - Implementare il clustering di failover con Hyper-V.
+
+
+  ### Modulo 3&#58; Installazione e configurazione di Virtual Machine Manager
+  Questo modulo spiega come installare e configurare Virtual Machine Manager per la gestione di un ambiente di virtualizzazione.
+  #### Lezioni
+  - Panoramica di Virtual Machine Manager
+  - Installazione di Virtual Machine Manager
+  - Aggiunta di host e gestione di gruppi di host
+
+
+  #### Lab&#58; Installazione e configurazione di Virtual Machine Manager
+  - Installazione e configurazione di Virtual Machine Manager
+  - Gestione di host e di gruppi di host
+  - Gestire una sottoscrizione di Azure usando Virtual Machine Manager
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le funzionalità principali di Virtual Machine Manager.
+  - Spiegare come installare Virtual Machine Manager.
+
+  Aggiungere host di virtualizzazione a Virtual Machine Manager e gestire host di virtualizzazione e un gruppo di host
+
+  ### Modulo 4&#58; Gestire la struttura di archiviazione e i relativi aggiornamenti
+  Questo modulo spiega come gestire la struttura di archiviazione e i relativi aggiornamenti in Virtual Machine Manager.
+  #### Lezioni
+  - Panoramica delle tecnologie di archiviazione della virtualizzazione del server
+  - Gestione della struttura di archiviazione
+  - Gestione degli aggiornamenti della struttura
+
+
+  #### Lab&#58; Gestione della struttura di archiviazione e dei relativi aggiornamenti
+  - Implementazione di un'infrastruttura di archiviazione
+  - Creazione di un cluster di file server e di un criterio QoS di archiviazione
+  - Gestione degli aggiornamenti della struttura
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le tecnologie di archiviazione utilizzate da Virtual Machine Manager.
+  - Distribuire e gestire il tessuto di archiviazione in Virtual Machine Manager.
+  - Gestire gli aggiornamenti di Virtual Machine Manager.
+
+
+  ### Modulo 5&#58; Configurare e gestire la libreria di Virtual Machine Manager e gli oggetti della libreria
+  Questo modulo descrive come configurare e gestire la libreria di Virtual Machine Manager e gli oggetti della libreria. Descrive anche le differenze tra profili e modelli e il modo in cui vengono utilizzati.
+  #### Lezioni
+  - Panoramica della libreria di Virtual Machine Manager
+  - Preparazione di Windows per la distribuzione in Virtual Machine Manager
+  - Lavorare con i profili
+  - Lavorare con i modelli di VM
+
+
+  #### Lab&#58; Configurare e gestire la libreria di Virtual Machine Manager e gli oggetti della libreria
+  - Configurazione e gestione di una libreria di Virtual Machine Manager
+  - Creazione di un'immagine Windows per la libreria di Virtual Machine Manager
+  - Creazione e gestione di profili e modelli
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere la libreria di Virtual Machine Manager e le risorse della libreria.
+  - Preparare Windows per la distribuzione in Virtual Machine Manager.
+  - Spiegare come lavorare con i profili.
+  - Descrivere come lavorare con i modelli di VM.
+
+
+  ### Modulo 6&#58; Gestire la struttura di rete
+  Questo modulo spiega come gestire la struttura di rete in Virtual Machine Manager.
+  #### Lezioni
+  - Concetti di rete in Virtual Machine Manager
+  - Gestione della rete definita dal software
+  - Comprensione della virtualizzazione delle funzioni
+
+
+  #### Lab&#58; Creazione e configurazione della struttura di rete
+  - Associare gli adattatori di rete virtuale degli host Hyper-V alla rete logica di gestione
+  - Distribuzione del controller di rete
+
+
+  #### Lab&#58; Configurazione e test della virtualizzazione di rete Hyper-V
+  - Configurazione della virtualizzazione di rete Hyper-V
+  - Provisioning e test delle reti VM dei tenant
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Spiegare i concetti essenziali di rete in Virtual Machine Manager.
+  - Implementare reti definite dal software utilizzando Virtual Machine Manager.
+  - Descrivere i componenti di virtualizzazione delle funzioni di rete principali (NFV) disponibili in Controller di rete.
+
+
+  ### Modulo 7&#58; Creazione e gestione di macchine virtuali tramite Virtual Machine Manager
+  Questo modulo spiega come creare e gestire macchine virtuali utilizzando Virtual Machine Manager.
+  #### Lezioni
+  - Attività di gestione della VM
+  - Creazione, clonazione e conversione di macchine virtuali
+
+
+  #### Lab&#58; Creazione e gestione di macchine virtuali utilizzando System Center VM Manager
+  - Creazione di una macchina virtuale e modifica delle sue proprietà
+  - Creazione e gestione di checkpoint
+  - Clonazione e migrazione di una VM
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le varie attività di gestione che è possibile eseguire su macchine virtuali.
+  - Creare, clonare e convertire macchine virtuali.
+
+
+  ### Modulo 8&#58; Gestione dei cloud in Microsoft System Center Virtual Machine Manager
+  Questo modulo spiega come creare e gestire cloud utilizzando Virtual Machine Manager.
+  #### Lezioni
+  - Introduzione ai cloud
+  - Creazione e gestione di un cloud
+  - Creazione di ruoli utente in Virtual Machine Manager
+
+
+  #### Lab&#58; Gestire cloud in Virtual Machine Manager
+  - Creazione di un cloud privato
+  - Creazione di ruoli utente
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Spiegare il concetto di cloud e come sia possibile utilizzare Virtual Machine Manager per creare un cloud.
+  - Creare e gestire un cloud.
+  - Creare ruoli utente in Virtual Machine Manager.
+
+
+  ### Modulo 9&#58; Gestire servizi in Virtual Machine Manager
+  Questo modulo spiega come creare e gestire servizi in Virtual Machine Manager.
+  #### Lezioni
+  - Panoramica dei servizi in Virtual Machine Manager
+  - Creazione e gestione di servizi in Virtual Machine Manager
+
+
+  #### Lab&#58; Gestire servizi in Virtual Machine Manager
+  - Creazione di un modello di servizio
+  - Distribuzione di un servizio e aggiornamento del modello di servizio
+  - Ridimensionamento di un servizio e aggiornamento del servizio
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere i servizi di Virtual Machine Manager.
+  - Creare e gestire servizi in Virtual Machine Manager.
+
+
+  ### Modulo 10&#58; Monitorare un'infrastruttura di virtualizzazione utilizzando System Center Operations Manager
+  Questo modulo spiega come utilizzare Operations Manager per il monitoraggio dell'infrastruttura di virtualizzazione.
+  #### Lezioni
+  - Architettura e sicurezza di Operations Manager
+  - Utilizzo di Operations Manager per il monitoraggio e la reportistica
+  - Integrazione di Operations Manager con Virtual Machine Manager e Data Protection Manager
+
+
+  #### Lab&#58; Monitorare un'infrastruttura di virtualizzazione utilizzando Operations Manager
+  - Implementazione di agenti di Operations Manager
+  - Integrazione di Operations Manager con Virtual Machine Manager
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere l'architettura di Operations Manager e spiegare come proteggere l'accesso ai dati di Operations Manager.
+  - Utilizzare Operations Manager per il monitoraggio e la reportistica.
+  - Integrare Operations Manager con Virtual Machine Manager e Data Protection Manager.
+
+
+  ### Modulo 11&#58; Implementazione e gestione di Hyper-V Replica e di Azure Site Recovery
+  Questo modulo spiega come implementare e gestire Hyper-V Replica e Azure Site Recovery.
+  #### Lezioni
+  - Implementazione e gestione di Hyper-V Replica
+  - Implementazione e gestione di Azure Site Recovery
+
+
+  #### Lab&#58; Implementazione e gestione di Hyper-V Replica e di Azure Site Recovery
+  - Configurazione e gestione di Hyper-V Replica
+  - Configurazione e gestione di Azure Site Recovery
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Implementare e gestire Hyper-V Replica.
+  - Implementare e gestire Azure Site Recovery.
+
+
+  ### Modulo 12&#58; Proteggere l'infrastruttura di virtualizzazione utilizzando Data Protection Manager
+  Questo modulo spiega come utilizzare Data Protection Manager per proteggere l'infrastruttura di virtualizzazione.
+  #### Lezioni
+  - Panoramica delle opzioni di backup e ripristino per VM
+  - Configurazione e gestione di Data Protection Manager per la protezione dell'infrastruttura di virtualizzazione
+
+
+  #### Lab&#58; Proteggere l'infrastruttura di virtualizzazione utilizzando Data Protection Manager
+  - Configurazione di un server DPM e installazione degli agenti di protezione DPM
+  - Creazione e configurazione di gruppi di protezione
+  - Ripristino di VM e altri dati
+  - Protezione online con DPM
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le opzioni di backup e ripristino di macchine virtuali.
+  - Configurare e gestire Data Protection Manager per proteggere un'infrastruttura di virtualizzazione.
+

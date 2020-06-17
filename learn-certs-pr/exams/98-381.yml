@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Exam 98-381: Introduction to Programming Using Python'
+  description: 'Exam 98-381: Introduction to Programming Using Python'
+uid: exam.98-381
+displayName: 98-381
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  I candidati per questo esame devono essere capaci di riconoscere e scrivere codici Python sintatticamente corretti, riconoscere i tipi di dati supportati da Python, ed essere capaci di riconoscere e scrivere codici Python che risolveranno logicamente un dato problema.
+
+  I candidati devo aver almeno avuto un’istruzione e/o esperienza pratica di approssimativamente 100 ore con il linguaggio di programmazione Python, essere a conoscenza delle sue caratteristiche e capacità e sapere come scrivere, eseguire debugging e mantenere ben formattati e ben documentati i codici Python.
+subTitle: I candidati per questo esame devono essere capaci di riconoscere e scrivere codici Python sintatticamente corretti, riconoscere i tipi di dati supportati da Python, ed essere capaci di riconoscere e scrivere codici Python che risolveranno logicamente un dato problema.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
+practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Eseguire operazioni utilizzando tipi di dati e operatori (20-25%)
+- Controllare il flusso con decisioni e cicli (25-30%)
+- Eseguire operazioni di input e output (20-25%)
+- Documentare e strutturare il codice (15-20%)
+- Risolvere i problemi e gestire gli errori (5-10%)
+- Eseguire le operazioni utilizzando i moduli e gli strumenti (1-5%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.55264
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-python
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

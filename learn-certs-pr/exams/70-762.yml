@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Developing SQL Databases
+metadata:
+  title: 'Exam 70-762: Developing SQL Databases'
+  description: 'Exam 70-762: Developing SQL Databases'
+uid: exam.70-762
+displayName: 70-762
+summary: |-
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  </div>
+
+  Questo esame è rivolto ai professionisti di database che si occupano di sviluppare e implementare database nelle organizzazioni e assicurare livelli elevati di disponibilità dei dati. Le loro responsabilità includono la creazione di file di database, tipi di dati e tabelle; la pianificazione, la creazione e l'ottimizzazione degli indici; la verifica dell'integrità dei dati; l'implementazione di viste, procedure di salvataggio e funzioni; la gestione di transazioni e blocchi.
+subTitle: Questo esame è rivolto ai professionisti di database che si occupano di sviluppare e implementare database nelle organizzazioni e assicurare livelli elevati di disponibilità dei dati. Le loro responsabilità includono la creazione di file di database, tipi di dati e tabelle; la pianificazione, la creazione e l'ottimizzazione degli indici; la verifica dell'integrità dei dati; l'implementazione di viste, procedure di salvataggio e funzioni; la gestione di transazioni e blocchi.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
+practiceTestUrl: https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-762&examname=Developing%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-762
+locales:
+- en
+levels:
+- advanced
+skills:
+- Progettare e implementare gli oggetti database (25-30%)
+- Implementare oggetti di programmabilità (20-25%)
+- Gestire la concorrenza di database (25-30%)
+- Ottimizzare gli oggetti di database e l'infrastruttura SQL (20-25%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20762
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+- related:
+    uid: certification.mcsa-sql2016-database-development-certification
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

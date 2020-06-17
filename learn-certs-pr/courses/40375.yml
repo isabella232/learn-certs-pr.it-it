@@ -1,0 +1,62 @@
+### YamlMime:Course
+title: 'HTML5 Application Development Fundamentals: MTA Exam 98-375'
+metadata:
+  title: 'Course 40375-A: HTML5 Application Development Fundamentals: MTA Exam 98-375'
+  description: 'Course 40375-A: HTML5 Application Development Fundamentals: MTA Exam 98-375'
+uid: course.40375
+courseNumber: '40375-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Gestire il ciclo di vita delle applicazioni
+- skill: Costruire l'interfaccia utente utilizzando HTML5
+- skill: Formattare l’interfaccia utente utilizzando CSS
+- skill: Codice utilizzando JavaScript
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-375
+summary: |-
+  Questo corso di formazione MTA, della durata di tre giorni, ti aiuta nella preparazione all’Esame Microsoft Technology Associate 98-375 e ad acquisire nozioni sui seguenti argomenti&#58; gestione del ciclo di via delle applicazioni, creazione dell’interfaccia utente con HTML5, formattazione dell’interfaccia utente con CSS, creazione di codici con JavaScript. Questo corso affronta gli stessi contenuti del Microsoft Academic Course (MOAC) per questo esame.
+
+  #### Profilo dei destinatari
+  Gli esami Microsoft Technology Associate (MTA) rappresentano la più recente suite di esami di certificazione di Microsoft che convalidano il possesso delle conoscenze necessarie per iniziare a gettare le basi di una carriera basata sulle tecnologie Microsoft. Questo programma è un punto di partenza ideale per intraprendere una carriera in ambito tecnologico. Presuppone che i candidati abbiano una qualche esperienza pratica o conoscenze precedenti, ma non necessariamente un’esperienza a livello professionale.
+prerequisitesSection: |-
+  Non sono previsti pre-requisiti per questo corso.
+outlineSection: |-
+  ### Modulo 1&#58; Gestire il ciclo di vita delle applicazioni
+
+
+  ### Modulo 2&#58; Creare l’interfaccia utente con HTML5&#58; Testo, elementi grafici e contenuti multimediali
+
+
+  ### Modulo 3&#58; Creare l’interfaccia utente con HTML5&#58; Organizzazione, input e convalida
+
+
+  ### Modulo 4&#58; Dimostrare di conoscere le nozioni di base di CSS&#58; Flusso di contenuto, posizionamento e definizione degli stili
+
+
+  ### Modulo 5&#58; Dimostrare di conoscere le nozioni di base di CSS&#58; Layout
+
+
+  ### Modulo 6&#58; Gestire il flusso di testo con CSS
+
+
+  ### Modulo 7&#58; Gestire l’interfaccia grafica con CSS
+
+
+  ### Modulo 8&#58; Dimostrare di conoscere JavaScript e le nozioni di base sulla codifica
+
+
+  ### Modulo 9&#58; Creare animazioni, usare gli elementi grafici e accedere ai dati
+
+
+  ### Modulo 10&#58; Codificare con JavaScript per l’interfaccia Touch, risorse di sistema per dispositivi e sistemi operativi, e altro ancora
+

@@ -1,0 +1,216 @@
+### YamlMime:Course
+title: Analyzing Data with Power BI
+metadata:
+  title: 'Course 20778-C: Analyzing Data with Power BI'
+  description: 'Course 20778-C: Analyzing Data with Power BI'
+uid: course.20778
+courseNumber: '20778-C'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere BI in modalità self-service.
+- skill: Descrivere la suite di prodotti Power BI.
+- skill: Connettersi alle origini dati e ottimizzare i modelli di dati.
+- skill: Adattare e combinare i dati di origini diverse.
+- skill: Modellare i dati.
+- skill: Creare rapporti e gestire le soluzioni.
+- skill: Descrivere l’API di sviluppo di Power BI.
+- skill: Descrivere l’app mobile Power BI
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+exams:
+- uid: exam.70-778
+summary: |-
+  Questo corso con istruttore della durata di tre giorni permette ai partecipanti di acquisire le conoscenze e le competenze necessarie per
+  analizzare i dati con Power BI.
+
+  #### Profilo dei destinatari
+  Il corso è principalmente destinato ai professionisti BI che hanno l’esigenza di analizzare i dati con Power BI.
+  Possono partecipare al corso anche utenti aziendali con le competenze tecniche necessarie.
+prerequisitesSection: |-
+  Oltre alla propria esperienza professionale, i candidati che decidono di seguire questo corso di formazione devono già possedere le seguenti conoscenze tecniche&#58;
+  - Conoscenze di base del sistema operativo Microsoft Windows e delle sue funzionalità principali.
+  - Una conoscenza di base della topologia degli schemi dei data warehouse (compresi gli schemi star e snowflake).
+  - Una conoscenza minima dei concetti di programmazione di base (come i cicli e le diramazioni).
+  - Preferibilmente, conoscenza delle principali priorità aziendali, come profitti, redditività e contabilizzazione finanziaria.
+  - Familiarità con le applicazioni di Microsoft Office e in particolare con Excel.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione alle soluzioni BI in modalità self-service
+  Business intelligence (BI) è un’espressione che negli ultimi anni è diventata molto popolare. L’espressione BI fa ormai parte del vocabolario aziendale, come big data, data mining, analisi predittiva, data science e data steward. La business intelligence nasce dalla necessità delle aziende di gestire un sempre più crescente numero di set di dati. Oggi è normale che i database contengano milioni di righe e richiedano spazi di archiviazione nell’ordine di gigabyte, terabyte o perfino pentabyte. I dati non risiedono più fisicamente nella sala server, ma sono ospitati nel cloud. I feed vengono acquisiti da fornitori di terze parti. I set di dati pubblici sono accessibili gratuitamente e le interazioni sui social media generano set di dati in costante crescita.
+
+  Rapporti e analisi non sono un concetto nuovo in ambito aziendale, ma le modalità attualmente usate per analizzare i dati sono cambiate drasticamente rispetto a dieci anni fa. Oggi le aziende hanno bisogno della business intelligence non solo per vedere quello che vedevano in passato ma anche per fare previsioni future. Attualmente le aziende hanno l’esigenza di raccogliere incredibili quantità di dati e presentarli sotto forma di rapporti. Inoltre, hanno sempre più l’esigenza di disporre di dati che siano aggiornati ogni minuto in modo da poter reagire più tempestivamente alle tendenze del mercato e dei settori in costante evoluzione. La possibilità di reagire più velocemente e fare previsioni sulle possibili tendenze permette alle aziende di fornire i prodotti e i servizi che i consumatori esigono e di avere una maggiore probabilità di sopravvivere in questa realtà moderna e altamente competitiva. L’aumento dei big data ha evidenziato l’importanza di poter contare su analisti di dati che siano in grado di lavorare su tali dati e identificare gli elementi critici in questa valanga di informazioni.
+  #### Lezioni
+  - Introduzione alla business intelligence
+  - Introduzione all’analisi dei dati
+  - Introduzione alla visualizzazione dei dati
+  - Panoramica sulla BI in modalità self-service
+  - Considerazioni sulla BI in modalità self-service
+  - Strumenti Microsoft per BI in modalità self-service
+
+
+  #### Lab&#58; Esplorare una soluzione BI aziendale
+  - Visualizzare i rapporti
+  - Creare un rapporto Power BI
+  - Creare una dashboard Power BI
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le tendenze in BI.
+  - Descrivere la procedura di analisi dei dati in Power BI.
+  - Usare le principali visualizzazioni in Power BI.
+  - Descrivere la logica di BI in modalità self-service.
+  - Descrivere le considerazioni correlate all’uso di BI in modalità self-service.
+  - Spiegare come usare i prodotti Microsoft per implementare una soluzione BI.
+
+
+  ### Modulo 2&#58; Introduzione a Power BI
+  La soluzione Business intelligence (BI) in modalità self-service è diventata molto popolare grazie al fatto che permette agli utenti di creare rapporti, elaborare i dati, eseguire analisi e altro ancora, senza dover dipendere da un esperto nello sviluppo di rapporti. La popolarità di BI in modalità self-service deriva dal fatto che Microsoft si è impegnata a migliorare sia Excel che Power BI, potenziandoli significativamente negli ultimi anni. Tuttavia, benché Microsoft supporti ora analisi dei dati più approfondite grazie ai quattro straordinari strumenti aggiunti a Excel - Power Pivot, Power View, Power Query e Power Map - questi strumenti non sono ancora stati completamente integrati nell’interfaccia di Excel. Questi strumenti si aprono infatti in finestre separate. Inoltre, pubblicare i rapporti in SharePoint per poterli condividere con i colleghi è un’operazione complessa che rende questa attività ancora molto laboriosa.
+
+  L’uso di Power BI elimina le complicazioni e gli ostacoli grazie a una semplice interfaccia utente integrata che consente di pubblicare velocemente i rapporti su un portale basato su cloud o locale e di condividerli facilmente con i colleghi. Questo modulo descrive Power BI e illustra le funzionalità che permettono di creare e pubblicare rapidamente visualizzazioni di dati sofisticate.
+  #### Lezioni
+  - Power BI
+  - Servizio Power BI
+
+
+  #### Lab&#58; Creare una dashboard Power BI
+  - Collegarsi ai dati di Power BI
+  - Creare una dashboard Power BI
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Sviluppare rapporti usando l’app Power BI Desktop
+  - Usare le voci dei rapporti per creare dashboard nel portale di Power BI.
+  - Conoscere i componenti del servizio Power BI, comprese le licenze e i tenant.
+
+
+  ### Modulo 3&#58; Dati di Power BI
+  Power BI offre un approccio intuitivo per creare rapporti poiché permette di creare e condividere dashboard senza dover dipendere da un esperto nello sviluppo di rapporti o dover fare affidamento a Microsoft SharePoint. Microsoft Excel è da sempre lo strumento preferito dagli analisti di dati che lavorano in modalità self-service. Tuttavia, Excel non offre un metodo semplice e veloce che consenta di condividere rapporti senza SharePoint o che consenta di creare più copie dei fogli di lavoro che diventano rapidamente obsoleti o che esulano dal controllo dell’origine.
+
+  Di recente sono stati aggiunti a Excel degli straordinari strumenti&#58; Power View, Power Query (chiamato Get & Transform in Excel 2016) e Power Pivot. Power BI rende disponibile molta di questa potenza in un ambiente integrato con Power BI Desktop. In passato, gli utenti Excel avevano il problema di dover passare da uno strumento a un altro. Oggi, Power BI Desktop li riunisce tutti insieme. Ciò significa che Power BI si sta rapidamente imponendo come la scelta migliore per analizzare e condividere i dati. Nell’immediato futuro è tuttavia probabile che gli analisti continuino a usare Excel. Power BI si integra facilmente con Excel e con molte altre origini di dati. Ciò che rende Power BI così interessante è il fatto che consente di creare velocemente rapporti con i dati acquisiti da varie origini.
+  #### Lezioni
+  - Usare Excel come origine dati per Power BI
+  - Modello dati di Power BI
+  - Usare i database come origini dati per Power BI
+  - Servizio Power BI
+
+
+  #### Lab&#58; Importare dati in Power BI
+  - Importare i file Excel in Power BI
+  - Visualizzare i rapporti usando i file Excel
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere il modello dati e sapere come ottimizzare i dati all’interno del modello.
+  - Collegarsi ai file Excel e importare i dati.
+  - Usare database di SQL Server locali e nel cloud come origini dati, con il connettore dati dello script R.
+  - Sfruttare le funzionalità del servizio Power BI.
+  - Usare le domande frequenti per rispondere alle domande nel linguaggio comune per le query e creare app.
+
+
+  ### Modulo 4&#58; Adattare e combinare i dati
+  Power BI Desktop offre una soluzione self-service che consente di creare rapporti e dashboard visivi e interattivi. Gli utenti possono collegarsi a numerose origini dati e combinare i dati di database locali, di fornitori SaaS (Software as a Solution), servizi cloud e file locali come file di Microsoft Excel, in un rapporto. L’aspetto più accattivante dei rapporti e delle dashboard di Power BI risiede nella possibilità di creare rapidamente rapporti per presentare i dati in modo immediatamente leggibile, con i cluster, outlier e modelli dei dati visivamente evidenziati. Per ottenere questo risultato, è necessario che ciascun rapporto abbia un set di dati che comprenda tabelle e colonne pronte per essere immediatamente aggiunte alle visualizzazioni. I dati devono essere formattati con la valuta corretta e i numeri devono avere i separatori decimali appropriati. In alcuni casi possono essere necessarie più colonne e misure ed è possibile che sia necessario combinare i dati acquisiti da più tabelle. Power BI Desktop permette di fare tutto questo con straordinari strumenti incorporati pensati per adattare i dati. Questo modulo descrive gli strumenti che è possibile usare per preparare i dati e trasformarli in un formato che ne consenta l’immediato inserimento in rapporti.
+  #### Lezioni
+  - Query di Power BI Desktop
+  - Adattare i dati
+  - Combinare i dati
+
+
+  #### Lab&#58; Adattare e combinare i dati
+  - Adattare i dati in Power BI
+  - Combinare i dati in Power BI
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Eseguire numerose query modificando le attività in Power BI.
+  - Adattare i dati formattandoli e convertendoli.
+  - Combinare i dati provenienti da tabelle del set di dati.
+
+
+  ### Modulo 5&#58; Modellare i dati
+  Microsoft Power BI si sta imponendo nel settore della BI in modalità self-service perché permette di creare rapporti e dashboard visivamente accattivanti e interattive. Power BI offre un modo intuitivo per combinare i dati di più origini in un unico set di dati e per lavorare successivamente su tali dati per creare successivamente rapporti coesi. Questo modulo non si limita a descrivere le visualizzazioni ma esplora le tecniche e le funzionalità disponibili per adattare e migliorare i dati. Grazie alla possibilità di creare automaticamente relazioni, a un’ampia libreria di funzioni DAX e alla possibilità di aggiungere rapidamente colonne, tabelle e misure, è facile vedere come Power BI consenta di creare rapporti accattivanti e trovare informazioni approfondite nascoste nei dati.
+  #### Lezioni
+  - Rapporti
+  - Query DAX
+  - Calcoli e misure
+
+
+  #### Lab&#58; Modellare i dati
+  - Creare relazioni
+  - Calcoli
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le relazioni tra le tabelle di dati.
+  - Sapere descrivere la sintassi DAX e spiegare come usare le funzioni DAX per migliorare il set di dati.
+  - Creare colonne calcolate, tabelle calcolate e misure.
+
+
+  ### Modulo 6&#58; Visualizzazioni dei dati interattive
+  Business intelligence (BI) in modalità self-service sta diventando sempre più popolare in ambito aziendale. Questo approccio permette infatti agli utenti delle aziende di accedere ai dati aziendali e di creare e condividere rapporti e KPI senza doversi affidare a un professionista specializzato nello sviluppo di rapporti. Gli utenti delle aziende possono usare la suite di strumenti di Microsoft Power BI per connettersi a numerose origini dati. Tali origini dati includono i principali database standard di settore, i servizi Microsoft basati su cloud - Microsoft Azure SQL Database, Azure Data Lake e Azure Machine Learning - oltre a Microsoft Excel e altri file, nonché i fornitori di soluzioni SaaS (Software-as-a-Service) come Microsoft Bing, Facebook e MailChimp. La flessibilità della soluzione unita alla possibilità di creare dashboard interattive e visivamente accattivanti rende Power BI la scelta più ovvia per qualsiasi azienda che ha l'esigenza di fornire ai propri utenti una soluzione BI in modalità self-service.
+  #### Lezioni
+  - Creare rapporti Power BI
+  - Gestire una soluzione Power BI
+
+
+  #### Lab&#58; Creare un rapporto Power BI
+  - Collegarsi ai dati di Power BI
+  - Creare rapporti Power BI
+  - Creare una dashboard Power BI
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Usare Power BI Desktop per creare visualizzazioni dei dati interattive.
+  - Gestire una soluzione Power BI.
+
+
+  ### Modulo 7&#58; Connettività diretta
+  Il servizio Power BI supporta connessioni in tempo reale al database SQL di Azure, Azure SQL Data Warehouse, alle origini dati di big data come Spark on Azure HDInsight e a SQL Server Analysis Services. Per DirectQuery si intende l’invio diretto di una nuova query all’origine dati tutte le volte che i dati vengono divisi o viene aggiunto un ulteriore campo a una visualizzazione.
+  Power BI è compatibile con i modelli di SQL Server Analysis Services eseguiti in modalità multidimensionale. Ciò significa che è possibile usare i cubi e modelli OLAP nei rapporti e nelle dashboard. Non importa se si sta utilizzando il servizio Power BI nel cloud e un’implementazione locale di SQL Server Analysis Services&#58; il gateway dei dati locale permette di stabilire connessioni in tempo reale tra i server dati locale e nel cloud.
+  #### Lezioni
+  - Dati nel cloud
+  - Collegamento ad Analysis Services
+
+
+  #### Lab&#58; Connettività diretta
+  - Connessioni dirette a Power BI
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Usare la connettività diretta di Power BI per accedere ai dati nel database SQL di Azure e in Azure SQL Data Warehouse
+  - Usare la connettività diretta di Power BI per accedere ai dati nelle origini dei big data, come Hadoop.
+  - Usare Power BI con i dati di SQL Server Analysis Services.
+  - Usare i modelli di Analysis Services in esecuzione in modalità multidimensionale.
+
+
+  ### Modulo 8&#58; Eseguire attività di sviluppo con Power BI
+  L’API di Power BI è un’API basata su REST che gli sviluppatori usano per accedere in modo programmatico ai set di dati, alle tabelle e alle righe in Power BI. L’uso di questa API permette di trasferire i dati da un’applicazione in Power BI e di integrare le visualizzazioni di Power BI in un’applicazione. È possibile anche aggiungere elementi visivi personalizzati alle applicazioni, alle dashboard e ai rapporti Power BI.
+
+  Questo modulo spiega come usare l’API di Power BI per incorporare contenuti nelle applicazioni e come usare elementi visivi nelle applicazioni.
+
+  #### Lezioni
+  - API di Power BI
+  - Elementi visivi personalizzati
+
+
+  #### Lab&#58; Usare le visualizzazioni Marketplace
+  - Usare una visualizzazione personalizzata
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere l’API di sviluppo di Power BI.
+  - Elencare le fasi necessarie per creare visualizzazioni personalizzate.
+  - Importare elementi visivi personalizzati in Power BI per poterli usare nei rapporti Power BI.
+
+
+  ### Modulo 9&#58; Power BI Mobile
+  Le app mobili di Power BI permettono di accedere e usare le informazioni di Power BI su un dispositivo mobile, come i dispositivi iOS (iPad, iPhone, iPod Touch, Apple Watch), telefoni e tablet Android e dispositivi Windows 10. Ciò significa che, potenzialmente, i rapporti e le dashboard Power BI creati in Power BI Desktop e il servizio Power BI possono essere usati in qualunque luogo e in qualunque momento.
+
+  I rapporti e le dashboard di Power BI sono progettati per essere visualizzati sui dispositivi mobili come tali. Tuttavia, è possibile anche creare rapporti ottimizzati specifici e layout di rapporti che possano essere visualizzati sui dispositivi mobili. Le app mobili di Power BI supportano la condivisione e l’inserimento di annotazioni nelle dashboard. Inoltre, è possibile usare i dati di Power BI sui disponibili mobili anche quando non si è connessi alla rete. Gli avvisi e le notifiche di Power BI vengono generati anche nel servizio Power BI, compresi i dispositivi mobili.
+
+  #### Lezioni
+  - App mobili di Power BI
+  - Usare l’app mobile di Power BI
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Creare dashboard e rapporti per i dispositivi mobili.
+  - Usare l’app mobile di Power BI
+

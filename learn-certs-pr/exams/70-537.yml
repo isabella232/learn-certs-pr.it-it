@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: exam.70-537
+displayName: 70-537
+summary: |-
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  </div>
+
+  I candidati idonei per questo esame sono amministratori Azure e operatori Azure Stack Hub che usano Azure Stack Hub per fornire servizi cloud ai loro utenti finali e clienti dall’interno del proprio centro dati.
+
+  I candidati idonei per questo esame devono avere un'esperienza significativa nella gestione e nell'uso di ambienti Azure Stack Hub. I candidati devono avere conoscenze approfondite di Azure così come alcune nozioni della virtualizzazione delle reti e della gestione delle identità. I candidati devono anche comprendere come Azure Stack Hub abiliti i processi DevOps e il modello di sviluppo ibrido.
+
+  I candidati idonei per questo esame sono tenuti a dimostrare di essere capaci di pianificare, installare, pacchettizzare, aggiornare ed eseguire la manutenzione dell’infrastruttura Azure Stack Hub. I candidati devono anche dimostrare la capacità di proporre risorse ibride cloud e i servizi richiesti, nonché di gestire le infrastrutture come un servizio (laaS) e la piattaforma come un servizio (PaaS).
+
+  <div style='font-weight&#58; bold;'><br/>Il 14 gennaio 2020, questo esame è stato aggiornato. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 70-537.</div>
+subTitle: I candidati idonei per questo esame sono amministratori Azure e operatori Azure Stack Hub che usano Azure Stack Hub per fornire servizi cloud ai loro utenti finali e clienti dall’interno del proprio centro dati.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
+locales:
+- en
+levels:
+- advanced
+skills:
+- Distribuzione e Integrazione di un ambiente di Azure Stack Hub (20-25%)
+- Configurare PaaS e IaaS per un ambiente Azure Stack Hub (25-30%)
+- Fornire servizi e abilitare DevOps per gli utenti di Azure Stack Hub (25-30%)
+- Eseguire la manutenzione e controllare un ambiente Azure Stack Hub (20-25%)
+roles:
+- administrator
+products:
+- azure
+courses:
+- uid: course.20537
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

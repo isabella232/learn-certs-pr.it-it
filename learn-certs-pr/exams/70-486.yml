@@ -1,0 +1,69 @@
+### YamlMime:Examination
+title: Developing ASP.NET MVC Web Applications
+metadata:
+  title: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
+  description: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
+uid: exam.70-486
+displayName: 70-486
+summary: |+
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  </div>
+
+  I candidati idonei per questo esame sono sviluppatori professionisti che utilizzano Microsoft Visual Studio 2017 e ASP.NET per progettare e sviluppare soluzioni Web. I candidati devono avere almeno 3-5 anni di esperienza nello sviluppo di soluzioni Microsoft ASP.NET basate su MVC e conoscere le app Web di Microsoft Azure.
+
+  I candidati devono inoltre avere esperienza in&#58;
+  - Progettazione e sviluppo di applicazioni Web in un modello MVC ASP.NET
+  - Pianificazione e progettazione di soluzioni di interazione utente basate sui requisiti aziendali
+  - Esperienza con il ciclo di vita completo dello sviluppo software delle applicazioni Web
+  - Sviluppo e installazione in ambienti multilivello, tra cui Azure
+  - Progettazione e sviluppo di soluzioni asincrone
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Ci sono aggiornamenti degli esami in vigore dal lunedì 15 gennaio 2018. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 486.</div>
+subTitle: I candidati idonei per questo esame sono sviluppatori professionisti che utilizzano Microsoft Visual Studio 2017 e ASP.NET per progettare e sviluppare soluzioni Web. I candidati devono avere almeno 3-5 anni di esperienza nello sviluppo di soluzioni Microsoft ASP.NET basate su MVC e conoscere le app Web di Microsoft Azure.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
+practiceTestUrl: https://www.mindhub.com/70-486-developing-asppnet-mvc-web-applications/p/MU-70-486?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-486&examname=Developing%20ASP.NET%20MVC%20Web%20Applications&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-486
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Progettare l'architettura dell'applicazione (15-20%)
+- Progettare l'architettura di build e distribuzione (10-15%)
+- Progettare l'esperienza utente (15-20%)
+- Sviluppare l'esperienza utente (15-20%)
+- Risoluzione dei problemi e debugging delle applicazioni Web (20-25%)
+- Progettare e implementare la sicurezza (15-20%)
+roles:
+- developer
+products:
+- aspnet-core
+courses:
+- uid: course.20486
+relatedCertifications:
+- related:
+    uid: certification.mcsa-web-applications-certification
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

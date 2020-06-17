@@ -1,0 +1,282 @@
+### YamlMime:Course
+title: Developing Microsoft SQL Server 2014 Databases
+metadata:
+  title: 'Course 20464-D: Developing Microsoft SQL Server 2014 Databases'
+  description: 'Course 20464-D: Developing Microsoft SQL Server 2014 Databases'
+uid: course.20464
+courseNumber: '20464-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Presentare l'intera piattaforma SQL Server e i suoi strumenti principali. Tratta le edizioni, le versioni, le basi degli ascoltatori di rete e i concetti di servizi e account di servizio.
+- skill: Determinare i tipi di dati appropriati da utilizzare durante la progettazione di tabelle, convertire i dati tra tipi di dati e creare tipi di dati alias.
+- skill: 'Essere consapevoli delle buone pratiche di progettazione relative alle tabelle di SQL Server ed essere in grado di creare tabelle utilizzando T-SQL. (Nota: le tabelle partizionate non sono trattate).'
+- skill: Implementare i vincoli PRIMARY KEY, FOREIGN KEY, DEFAULT, CHECK e UNIQUE e analizzare i vincoli FOREIGN KEY in cascata.
+- skill: Determinare le strategie appropriate per singola colonna e indici compositi.
+- skill: Creare tabelle come heap e tabelle con indici cluster. Considerare anche la progettazione di una tabella e suggerire una struttura appropriata.
+- skill: Leggere e interpretare i dettagli di elementi comuni dai piani di esecuzione.
+- skill: Progettare indici non cluster efficaci.
+- skill: Progettare e implementare le viste
+- skill: Progettare e implementare procedure archiviate.
+- skill: Utilizzare tipi di tabella, parametri con valori di tabella e utilizzare l'istruzione MERGE per creare procedure memorizzate che aggiornino i data warehouse.
+- skill: Progettare e implementare funzioni, sia scalari sia a livello di tabella. (Descrivere anche dove è possibile che portino a problemi di prestazioni).
+- skill: Eseguire un'indagine di base su una situazione di deadlock e scoprire come i livelli di isolamento delle transazioni influiscono sulla concorrenza delle applicazioni.
+- skill: Utilizzare sia il codice di gestione degli errori T-SQL tradizionale sia la gestione delle eccezioni strutturata.
+- skill: Progettare e implementare i trigger DML
+- skill: Scoprire gli usi appropriati per l'integrazione di SQL CLR e implementare un assembly .NET esistente in SQL Server.
+- skill: Archiviare dati e schemi XML in SQL Server.
+- skill: Eseguire query di base sui dati XML in SQL Server.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-464
+summary: |-
+  Questo corso di 5 giorni con istruttore introduce SQL Server 2014 e descrive i piani di progettazione, indicizzazione e query delle tabelle logiche. Si concentra anche sulla creazione di oggetti di database, tra cui viste e procedure memorizzate nonché parametri e funzioni. In questo corso vengono anche trattati altri aspetti comuni della codifica delle procedure, come indici, concorrenza, gestione degli errori e trigger. Anche questo corso ti aiuta a prepararti per l’Esame 70-464.
+
+  Nota&#58; Questo corso è pensato per i clienti che sono interessati ad apprendere SQL Server 2012 o SQL Server 2014. Include le nuove funzionalità di SQL Server 2014, ma descrive anche le funzionalità più importanti della piattaforma dati di SQL Server.
+
+  #### Profilo dei destinatari
+  Il destinatari principali di questo corso sono professionisti IT che desiderino acquisire competenze sulle funzionalità e tecnologie dei prodotti SQL Server 2014 per l'implementazione di un database. 
+  
+  I destinatari secondari di questo corso sono sviluppatori di altre piattaforme di prodotto o versioni precedenti di SQL Server che desiderino diventare esperti nell'implementazione di un database SQL Server 2014.
+prerequisitesSection: |-
+  Per partecipare a questo corso devono soddisfare i seguenti prerequisiti&#58;
+  - Conoscenza della scrittura di query T-SQL.
+  - Conoscenza dei concetti base del database relazionale.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione allo sviluppo di database
+  Questo modulo introduce lo sviluppo del database e le attività principali che uno sviluppatore di database esegue normalmente.
+  #### Lezioni
+  - Introduzione alla piattaforma di SQL Server
+  - Attività di sviluppo del database di SQL Server
+
+
+  #### Lab&#58; Introduzione allo sviluppo di database
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere l'architettura e le edizioni di SQL Server 2012. 
+  - Lavorare con gli strumenti di SQL Server.
+  - Configurare servizi di SQL Server.
+
+
+  ### Modulo 2&#58; Progettare e implementare tabelle
+  Questo modulo spiega come progettare, creare e modificare tabelle. Inoltre, si concentra sul lavoro con gli schemi.
+  #### Lezioni
+  - Progettare tabelle
+  - Tipi di dati
+  - Lavorare con gli schemi
+  - Creare e modificare tabelle
+  - Partizionamento dei dati
+  - Compressione dei dati
+
+
+  #### Lab&#58; progettazione e implementazione di tabelle
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Progettare tabelle.
+  - Lavorare con gli schemi.
+  - Creare e modificare tabelle.
+
+
+  ### Modulo 3&#58; Garantire l'integrità dei dati attraverso vincoli
+  Questo modulo spiega come applicare l'integrità dei dati e implementare l'integrità del dominio per mantenere dati di alta qualità. Si concentra inoltre sull'implementazione di entità e integrità referenziale.
+  #### Lezioni
+  - Applicazione dell'integrità dei dati
+  - Implementazione dell'integrità del dominio
+  - Implementazione dell'entità e integrità referenziale
+
+
+  #### Lab&#58; Garantire l'integrità dei dati attraverso vincoli
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Spiegare le opzioni disponibili per il rispetto dell'integrità dei dati e i livelli ai quali dovrebbero essere applicati.
+  - Implementare l'integrità del dominio.
+  - Implementare l'entità e l'integrità referenziale.
+
+
+  ### Modulo 4&#58; Introduzione all’indicizzazione
+  Questo modulo descrive il concetto di indice e riguarda la selettività, la densità e le statistiche. Tratta le scelte appropriate di tipi di dati e le scelte concernenti le strutture di indici compositi.
+  #### Lezioni
+  - Concetti di indicizzazione di base
+  - Tipi di dati e indici
+  - Indici a colonna singola e compositi
+
+
+  #### Lab&#58; Implementare gli indici
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere i concetti di indicizzazione di base. 
+  - Scegliere i tipi di dati appropriati per gli indici.
+  - Progettare e implementare indici cluster e non cluster.
+
+
+  ### Modulo 5&#58; Progettare strategie per indici ottimizzati
+  Questo modulo spiega come trattare gli indici e la clausola INCLUDE, nonché l'uso di padding, suggerimenti e statistiche. Il modulo tratta anche l'uso dell’ottimizzazione guidata del motore del database e le viste di gestione dinamica relative all'indice per valutare le strategie di indicizzazione.
+  #### Lezioni
+  - Trattare gli indici
+  - Gestire gli indici
+  - Lavorare con i piani di esecuzione
+  - Utilizzo del DTE
+
+
+  #### Lab&#58; Progettazione di strategie per indici ottimizzati
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere gli elementi di un piano di esecuzione. 
+  - Progettare strategie di indicizzazione efficaci.
+  - Monitorare il proprio sistema per valutare le prestazioni della strategia di indicizzazione.
+
+
+  ### Modulo 6&#58; Indici columnstore
+  Questo modulo spiega gli indici columnstore e come usarli per massimizzare le prestazioni e la scalabilità delle applicazioni di database.
+  #### Lezioni
+  - Introduzione agli indici columnstore
+  - Creazione di indici columnstore
+  - Lavorare con gli indici columnstore
+
+
+  #### Lab&#58; Utilizzo degli indici columnstore
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Creare indici columnstore.
+  - Descrivere le considerazioni per l'aggiornamento delle tabelle con indici columnstore non cluster.
+
+
+  ### Modulo 7&#58; Progettare e implementare viste
+  Questo modulo introduce le viste e spiega come crearle e gestirle. Inoltre, si concentra sulla considerazione delle prestazioni per le viste.
+  #### Lezioni
+  - Introduzione alle viste
+  - Creazione e gestione di viste
+  - Considerazioni sulle prestazioni delle viste
+
+
+  #### Lab&#58; Progettazione e implementazione di viste
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Spiegare il ruolo delle viste nello sviluppo del database. 
+  - Implementare le viste.
+  - Descrivere gli impatti delle viste relativi alle prestazioni.
+
+
+  ### Modulo 8&#58; Progettare e implementare procedure memorizzate
+  Questo modulo descrive i potenziali vantaggi dell'uso delle procedure memorizzate insieme alle linee guida per la loro creazione.
+  #### Lezioni
+  - Introduzione alle procedure memorizzate
+  - Lavorare con le procedure memorizzate
+  - Implementare procedure memorizzate con parametri
+  - Controllare il contesto di esecuzione
+
+
+  #### Lab&#58; Progettazione e implementazione di procedure memorizzate
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere il ruolo delle procedure memorizzate e i potenziali vantaggi del loro utilizzo. 
+  - Lavorare con le procedure memorizzate. 
+  - Implementare procedure memorizzate con parametri.
+  - Controllare il contesto di esecuzione di una procedura memorizzata.
+
+
+  ### Modulo 9&#58; Progettare e implementare funzioni definite dall'utente.
+  Questo modulo spiega come progettare e implementare funzioni definite dall'utente che impongano regole aziendali o coerenza dei dati e come modificare e mantenere le funzioni esistenti scritte da altri sviluppatori.
+  #### Lezioni
+  - Panoramica delle funzioni
+  - Progettazione e implementazione di funzioni scalari
+  - Progettazione e implementazione di funzioni con valori di tabella
+  - Considerazioni sull'implementazione delle funzioni
+  - Alternative alle funzioni
+
+
+  #### Lab&#58; Progettazione e implementazione di funzioni definite dall'utente
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Progettare e implementare funzioni scalari. 
+  - Progettare e implementare funzioni con valori di tabella. 
+  - Descrivere le considerazioni sull'implementazione delle funzioni.
+  - Descrivere le alternative alle funzioni.
+
+
+  ### Modulo 10&#58; Rispondere alla manipolazione dei dati tramite trigger
+  Questo modulo spiega cosa sono i trigger DML e come assicurano l'integrità dei dati. Inoltre, si concentra sui diversi tipi di trigger disponibili e su come definire i trigger in un database.
+  #### Lezioni
+  - Progettare trigger DML
+  - Implementare trigger DML
+  - Concetti di trigger avanzati
+
+
+  #### Lab&#58; Risposta alla manipolazione dei dati tramite trigger
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Progettare trigger DML. 
+  - Implementare trigger DML.
+  - Spiegare i concetti avanzati relativi ai trigger DML.
+
+
+  ### Modulo 11&#58; Usare le tabelle in memoria
+  Questo modulo tratta la creazione di tabelle in memoria e procedure memorizzate native e tratta i vantaggi e gli svantaggi dell'utilizzo di tabelle in memoria.
+  #### Lezioni
+  - Tabelle in memoria
+  - Procedure memorizzate native
+
+
+  #### Lab&#58; OLTP in memoria
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Progettare e implementare tabelle ottimizzate in memoria.
+  - Creare procedure native memorizzate.
+
+
+  ### Modulo 12&#58; Implementazione del codice gestito in SQL Server 2014
+  Questo modulo spiega come utilizzare il codice integrato CLR per creare oggetti di database definiti dall'utente gestiti da .NET Framework.
+  #### Lezioni
+  - Introduzione all'integrazione CLR SQL
+  - Importare e configurare assiemi
+  - Implementare l'integrazione CLR SQL
+
+
+  #### Lab&#58; Implementazione del codice gestito in SQL Server 2014
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Spiegare l'importanza dell'integrazione CLR di SQL Server. 
+  - Importare e configurare assiemi.
+  - Implementare oggetti creati all'interno di assiemi .NET.
+
+
+  ### Modulo 13&#58; Archiviazione e query di dati XML in SQL Server
+  Questo modulo introduce XML e mostra come i dati XML possano essere memorizzati in SQL Server e quindi interrogati, incluse le query scritte in un linguaggio chiamato XQuery.
+  #### Lezioni
+  - Introduzione agli schemi XML e XML
+  - Memorizzazione di dati e schemi XML in SQL Server
+  - Implementazione del tipo di dati XML
+  - Utilizzo dell'istruzione T-SQL FOR XML
+  - Introduzione a XQuery
+
+
+  #### Lab&#58; Archiviazione e query di dati XML in SQL Server 2014
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere gli schemi XML e XML.
+  - Archiviare i dati XML e gli schemi XML associati in SQL Server.
+  - Implementare il tipo di dati XML in SQL Server. 
+  - Utilizzare l'istruzione T-SQL FOR XML. 
+  - Lavorare con le query di base di XQuery.
+  - Effettuare lo shredding di XML in una forma relazionale.
+
+
+  ### Modulo 14&#58; Utilizzo dei dati spaziali di SQL Server 2014
+  Questo modulo introduce i dati spaziali e spiega come lavorare con i tipi di dati spaziali di SQL Server.
+  #### Lezioni
+  - Introduzione ai dati spaziali
+  - Lavorare con i tipi di dati spaziali di SQL Server
+  - Utilizzare i dati spaziali nelle applicazioni
+
+
+  #### Lab&#58; Utilizzo dei dati spaziali di SQL Server
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere l'importanza dei dati spaziali e gli standard del settore ad essi correlati. 
+  - Spiegare come archiviare i dati spaziali in SQL Server.
+  - Eseguire calcoli su e interrogare i dati spaziali di SQL Server.
+
+
+  ### Modulo 15&#58; Integrazione dei file di dati nei database
+  #### Lezioni
+  - Effettuare query di dati con procedure memorizzate
+  - Implementare FILESTREAM e tabelle di file
+  - Ricercare file di dati
+
+
+  #### Lab&#58; Implementazione di una soluzione per la memorizzazione di file di dati
+

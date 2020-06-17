@@ -1,0 +1,49 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals: MTA Exam 98-361'
+metadata:
+  title: 'Course 40361-A: Software Development Fundamentals: MTA Exam 98-361'
+  description: 'Course 40361-A: Software Development Fundamentals: MTA Exam 98-361'
+uid: course.40361
+courseNumber: '40361-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Dimostrare di conoscere la programmazione di base
+- skill: Dimostrare di conoscere la programmazione orientata agli oggetti
+- skill: Dimostrare di conoscere lo sviluppo generale del software
+- skill: Dimostrare di conoscere le applicazioni Web
+- skill: Dimostrare di conoscere le applicazioni desktop
+- skill: Dimostrare di conoscere i database
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  Questo corso di formazione MTA di tre giorni aiuta a prepararsi per l'esame Microsoft Technology Associate 98-361 e a conoscere questi argomenti&#58; programmazione di base, programmazione orientata agli oggetti, sviluppo di software generale, applicazioni Web, applicazioni desktop e database. Questo corso affronta gli stessi contenuti del Microsoft Academic Course (MOAC) per questo esame.
+
+  #### Profilo dei destinatari
+  Gli esami Microsoft Technology Associate (MTA) rappresentano la più recente suite di esami di certificazione di Microsoft che convalidano il possesso delle conoscenze necessarie per iniziare a gettare le basi di una carriera basata sulle tecnologie Microsoft. Questo programma è un punto di partenza ideale per intraprendere una carriera in ambito tecnologico. Presuppone che i candidati abbiano una qualche esperienza pratica o conoscenze precedenti, ma non necessariamente un’esperienza a livello professionale.
+prerequisitesSection: |-
+  Non sono previsti pre-requisiti per questo corso.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione alla programmazione orientata agli oggetti
+
+
+  ### Modulo 2&#58; Nozioni sullo sviluppo generale del software
+
+
+  ### Modulo 3&#58; Dimostrare di conoscere le applicazioni Web
+
+
+  ### Modulo 4&#58; Dimostrare di conoscere le applicazioni desktop
+
+
+  ### Modulo 5&#58; Dimostrare di conoscere i database
+

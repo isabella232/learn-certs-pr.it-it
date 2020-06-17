@@ -1,0 +1,144 @@
+### YamlMime:Course
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Course 55264-A: Introduction to Programming Using Python'
+  description: 'Course 55264-A: Introduction to Programming Using Python'
+uid: course.55264
+courseNumber: '55264-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Creare operazioni utilizzando tipi di dati e operatori
+- skill: Creare operazioni per il flusso di controllo
+- skill: Creare operazioni di input e output
+- skill: Scrivere e documentare codice per risolvere un problema specifico
+- skill: Risolvere i problemi e scrivere operazioni per la gestione degli errori
+- skill: Eseguire le operazioni utilizzando i moduli e gli strumenti
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-381
+summary: |-
+  Questo corso con istruttore della durata di cinque giorni è pensato per candidati che desiderino imparare il codice Python, che consente di risolvere un determinato problema in modo logico. I candidati impareranno a compilare, eseguire il debug, la manutenzione e documentare il codice Pyhon. Il materiale del corso preparerà i candidati a sostenere l’Esame di certificazione Microsoft 98-381.
+
+  #### Profilo dei destinatari
+  Il corso è destinato ai programmatori nuovi ed esperti che desiderino imparare a compilare codice e risolvere i problemi relativi al codice Python. Questo è il corso Microsoft consigliato per prepararsi all’Esame 98-381. Avere una precedente esperienza come programmatori è consigliabile, ma non obbligatoria.
+prerequisitesSection: |-
+  Prima di partecipare a questo corso, gli studenti devono avere&#58;
+  - Sapere eseguire operazioni dalla riga di comando su computer Windows, Linux o Mac
+  - Avere sei mesi di esperienza nella compilazione di codice in qualsiasi linguaggio di programmazione (requisito consigliato)
+outlineSection: |-
+  ### Modulo 1&#58; Eseguire operazioni con tipi di dati e operatori
+  Questo modulo spiega come usare gli operatori e i tipi di dati di Python per ottenere un risultato specifico.
+  #### Lezioni
+  - Assegnare tipi di dati alle variabili
+  - Eseguire operazioni con dati e tipi di dati
+  - Eseguire operazioni aritmetiche, comparative e logiche
+  - Eseguire la revisione
+
+
+  #### Lab&#58; Eseguire operazioni utilizzando tipi di dati e operatori
+  - Assegnare tipi di dati alle variabili
+  - Eseguire operazioni con dati e tipi di dati
+  - Eseguire operazioni aritmetiche, comparative e logiche
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Assegnare tipi di dati alle variabili
+  - Gestire le operazioni con i dati e i tipi di dati
+  - Eseguire operazioni aritmetiche, comparative e logiche
+
+
+  ### Modulo 2&#58; Flusso di controllo con decisioni e cicli
+  Questo modulo spiega come usare le operazioni relative al flusso di controllo e ai cicli in Python.
+  #### Lezioni
+  - Creare e analizzare i segmenti codice che usano comandi di ramificazione
+  - Creare e analizzare i segmenti codice che eseguono un’iterazione
+  - Eseguire la revisione
+
+
+  #### Lab&#58; Flusso di controllo con decisioni e cicli
+  - Utilizzare operazioni di diramazione
+  - Utilizzare operazioni di iterazione
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Creare operazioni di diramazione
+  - Creare operazioni di iterazione
+
+
+  ### Modulo 3&#58; Eseguire operazioni di input e output
+  Questo modulo spiega come creare operazioni di input e output con i file o tramite la console.
+  #### Lezioni
+  - Creare segmenti di codice Python che eseguono operazioni per l’input e l’output di file
+  - Creare segmenti di codice Python che eseguono operazioni di input e l’output per la console
+  - Eseguire la revisione
+
+
+  #### Laboratorio&#58; Eseguire operazioni di input e output
+  - Eseguire operazioni di input e output sui file
+  - Eseguire operazioni di input e output dalla console
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Usare i file per le operazioni di input e output
+  - Usare la console per eseguire operazioni di input e output
+
+
+  ### Modulo 4&#58; Documentare e strutturare il codice
+  Questo modulo spiega come strutturare e documentare codice Python ben scritto.
+  #### Lezioni
+  - Costruire e analizzare segmenti di codice
+  - Documentare segmenti di codice utilizzando commenti e stringhe di documentazione
+  - Eseguire la revisione
+
+
+  #### Lab&#58; Documentare e strutturare il codice
+  - Costruire e analizzare segmenti di codice
+  - Documentare segmenti di codice
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Creare segmenti di codice
+  - Documentare segmenti di codice
+
+
+  ### Modulo 5&#58; Eseguire la risoluzione degli errori e gestirli
+  Questo modulo spiega come eseguire la risoluzione degli errori e come gestire le operazioni in Python.
+  #### Lezioni
+  - Analizzare, rilevare e correggere i segmenti di codice che presentano errori
+  - Analizzare e creare i segmenti di codice che gestiscono eccezioni
+  - Eseguire la revisione
+
+
+  #### Lab&#58; Eseguire la risoluzione degli errori e gestire gli errori
+  - Analizzare, rilevare e correggere i segmenti di codice che presentano errori
+  - Analizzare e creare i segmenti di codice che gestiscono eccezioni
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Rilevare e correggere gli errori nel codice
+  - Creare codice per la gestione degli errori
+
+
+  ### Module 6&#58; Eseguire le operazioni utilizzando i moduli e gli strumenti
+  Questo modulo spiega come utilizzare i moduli incorporati.
+  #### Lezioni
+  - Utilizzare i moduli incorporati per eseguire operazioni di base
+  - Utilizzare i moduli incorporati per eseguire operazioni complesse
+  - Eseguire la revisione
+
+
+  #### Lab&#58; Eseguire le operazioni utilizzando i moduli e gli strumenti
+  - Utilizzare i moduli incorporati per eseguire operazioni di base
+  - Utilizzare i moduli incorporati per eseguire operazioni complesse
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Utilizzare i moduli incorporati per eseguire operazioni sul sistema operativo, con le date e matematiche
+
+  #### Per trovare ulteriori 
+  approfondimenti per prepararsi a questo corso, rivedi le seguenti risorse&#58;
+  - Obiettivi del test Microsoft per l’Esame 98-381
+
