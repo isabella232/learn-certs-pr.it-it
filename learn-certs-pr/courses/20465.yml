@@ -1,0 +1,176 @@
+### YamlMime:Course
+title: Designing Solutions for Microsoft SQL Server 2014
+metadata:
+  title: 'Course 20465-D: Designing Solutions for Microsoft SQL Server 2014'
+  description: 'Course 20465-D: Designing Solutions for Microsoft SQL Server 2014'
+uid: course.20465
+courseNumber: '20465-D'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Valutare un ambiente aziendale esistente.
+- skill: Pianificare e implementare la gestione basata sulle politiche.
+- skill: Descrivere le considerazioni per il consolidamento dei carichi di lavoro con SQL Server 2014.
+- skill: Descrivere le considerazioni per l'inclusione di SQL Server 2014 in un cloud privato.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-465
+summary: |-
+  Gli obiettivi di questo corso di tre giorni con istruttore sono la pianificazione e l'implementazione di soluzioni di infrastruttura di database aziendali utilizzando SQL Server 2014 e altre tecnologie Microsoft. Descrive come consolidare i carichi di lavoro di SQL Server e come pianificare e implementare soluzioni ad alta disponibilità e disaster recovery.
+
+  Nota&#58; Questo corso è pensato per i clienti che sono interessati ad apprendere SQL Server 2012 o SQL Server 2014. Include le nuove funzionalità di SQL Server 2014, ma descrive anche le funzionalità più importanti della piattaforma dati di SQL Server.
+
+  #### Profilo dei destinatari
+  Questo corso è rivolto a professionisti del database che necessitano di pianificare, implementare e gestire soluzioni di database. Le responsabilità principali comprendono&#58; 
+  - Pianificare e implementare l'infrastruttura del database. 
+  - Pianificare e attuare strategie di consolidamento. 
+  - Pianificare e implementare soluzioni ad alta disponibilità. 
+  - Pianificare e implementare soluzioni di disaster recovery.
+prerequisitesSection: |-
+  Per partecipare a questo corso devono soddisfare i seguenti prerequisiti&#58;
+  - Esperienza di almeno 2 anni di lavoro con database relazionali, tra cui&#58; 
+    - Pianificazione e implementazione di database
+    - Gestione di database
+    - Esecuzione di query con Transact SQL 
+    - Alcune conoscenze di base sull'alta disponibilità e il disaster recovery
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione all’architettura dei dati aziendali
+  Man mano che le organizzazioni crescono su scala aziendale, i requisiti dell'infrastruttura IT diventano più complessi e l'ambiente di rete spesso include un numero crescente di server, computer client, segmenti di rete e altri componenti. Poiché i dati sono fondamentali per la maggior parte delle operazioni IT, è necessario prestare particolare attenzione al provisioning e alla gestione dei database in tutta l'azienda.
+  #### Lezioni
+  - Considerazioni relative ai dati aziendali
+  - Valutare un'infrastruttura esistente
+
+
+  #### Lab&#58; Valutazione di un'infrastruttura di dati aziendali esistente
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Descrivere le considerazioni relative alla pianificazione dell’infrastruttura dati aziendale. 
+  - Utilizzare MAP Toolkit per valutare un ambiente dati aziendale esistente.
+
+
+  ### Modulo 2&#58; Gestione della configurazione multi-server
+  Quando un'infrastruttura aziendale include più server di database, può essere utile standardizzare e applicare le impostazioni di configurazione al fine di garantire conformità e gestibilità. Questo modulo illustra la gestione basata su criteri in SQL Server e descrive come può essere utilizzato insieme a strumenti di gestione della configurazione aziendale come Microsoft System Center per facilitare la gestione del server di database aziendale.
+  #### Lezioni
+  - Gestione basata su politiche
+  - Microsoft System Center
+
+
+  #### Lab&#58; Pianificazione e implementazione della gestione basata su politiche
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Implementare la gestione basata su politiche 
+  - Descrivere come utilizzare System Center per gestire l'infrastruttura del database
+
+
+  ### Modulo 3&#58; Monitoraggio dell'integrità di SQL Server 2014
+  Questo modulo descrive Data Collector e SQL Server Utility Control Point (UCP), due funzionalità di SQL Server 2014 che consentono di eseguire un monitoraggio approfondito dell'integrità in tutta l'azienda.
+  #### Lezioni
+  - Introduzione al monitoraggio dell’integrità
+  - Data Collector
+  - SQL Server Utility
+
+
+  #### Lab&#58; Monitoraggio dell’integrità di SQL Server
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Descrivere le opzioni per il monitoraggio dell'integrità multi-server in SQL Server 2014. 
+  - Descrivere e configurare Data Collector. 
+  - Descrivere e configurare SQL Server Utility.
+
+
+  ### Modulo 4&#58; Consolidamento dei carichi di lavoro del database con SQL Server 2014
+  Questo modulo offre una panoramica dei vantaggi del consolidamento dei carichi di lavoro del database tramite SQL Server 2014 e descrive le diverse opzioni per l'implementazione di una strategia di consolidamento. Descrive inoltre come è possibile gestire un'infrastruttura consolidata in vari scenari.
+  #### Lezioni
+  - Considerazioni relative al consolidamento di Database Server
+  - Gestione delle risorse in un'infrastruttura di database consolidata
+
+
+  #### Lab&#58; Consolidamento di SQL Server
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Descrivere le considerazioni relative al consolidamento di database e server di database. 
+  - Spiegare le opzioni per la gestione delle risorse in vari scenari di consolidamento.
+
+
+  ### Modulo 5&#58; Introduzione alle soluzioni dei dati in cloud
+  Il cloud computing è salito alla ribalta molto rapidamente nel mondo dell'IT e molte organizzazioni hanno implementato o stanno pianificando di implementare soluzioni basate su cloud che comprendano tutta o parte della loro infrastruttura. Questo modulo descrive alcuni dei concetti fondamentali del cloud computing e illustra come includere SQL Server 2014 in un'infrastruttura cloud privata.
+  #### Lezioni
+  - Panoramica del cloud computing
+  - SQL Server in un cloud privato
+
+
+  #### Lab&#58; Preparazione dell'installazione di SQL Server in un modello di macchina virtuale
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Spiegare i concetti fondamentali alla base del cloud computing e descrivere le tecnologie alla base delle soluzioni cloud Microsoft. 
+  - Descrivere come fornire servizi dati basati su SQL Server in un'infrastruttura cloud privata.
+
+
+  ### Modulo 6&#58; Introduzione all’alta disponibilità in SQL Server 2014
+  Il mantenimento di servizi di database ad alta disponibilità è fondamentale in un ambiente operativo 24 ore su 24. SQL Server 2014 include molte funzionalità che possono aiutare le organizzazioni a fornire i livelli di servizio richiesti per guidare le proprie attività. Questo modulo spiega i diversi modi in cui è possibile implementare l’alta disponibilità utilizzando SQL Server 2014. Descrive inoltre come utilizzare il log shipping per promuovere la resilienza per i database dei singoli utenti.
+  #### Lezioni
+  - Concetti e opzioni di alta disponibilità in SQL Server 2014
+  - Log shipping
+
+
+  #### Lab&#58; Utilizzo del Log Shipping
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Descrivere i concetti e le opzioni principali per l'implementazione dell’alta disponibilità in SQL Server 2014. 
+  - Descrivere come implementare l'alta disponibilità per i singoli database utilizzando il log shipping.
+
+
+  ### Modulo 7&#58; Clustering con Windows Server e SQL Server 2014
+  SQL Server 2014 è strettamente integrato con la funzionalità Clustering di failover di Windows Server in Windows Server 2012 e Windows Server 2012 R2, consentendo di creare soluzioni di clustering a livello aziendale in grado di fornire soluzioni complete di alta disponibilità e disaster recovery. Questo modulo spiega il funzionamento del clustering di failover di Windows Server e delle istanze del cluster di failover AlwaysOn di SQL Server e descrive come implementare il clustering per proteggere la disponibilità del servizio.
+  #### Lezioni
+  - Introduzione al clustering di failover di Windows Server
+  - Istanze del cluster di failover AlwaysOn di SQL Server
+
+
+  #### Lab&#58; Implementazione di un'istanza del cluster di failover AlwaysOn
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Descrivere i principali vantaggi e funzionalità del clustering di failover di Windows Server. 
+  - Descrivere come utilizzare le istanze del cluster di failover AlwaysOn di SQL Server per mantenere l’alta disponibilità per le istanze di SQL Server.
+
+
+  ### Modulo 8&#58; Gruppi di disponibilità AlwaysOn
+  SQL Server 2014 include gruppi di disponibilità AlwaysOn per fornire l’alta disponibilità per gruppi di database. Questo modulo descrive i gruppi di disponibilità AlwaysOn in SQL Server 2014, spiega i concetti chiave dei gruppi di disponibilità AlwaysOn e descrive come utilizzarli per gestire database ad alta disponibilità.
+  #### Lezioni
+  - Introduzione ai gruppi di disponibilità AlwaysOn
+  - Lavorare con i gruppi di disponibilità AlwaysOn
+  - Considerazioni sull'utilizzo dei gruppi di disponibilità AlwaysOn
+
+
+  #### Lab&#58; Implementazione e test di un gruppo di disponibilità AlwaysOn
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Descrivere i concetti e la terminologia fondamentali per i gruppi di disponibilità AlwaysOn. 
+  - Spiegare come lavorare con i gruppi di disponibilità AlwaysOn.
+
+
+  ### Modulo 9&#58; Pianificazione dell’alta disponibilità e del disaster recovery
+  Questo modulo descrive le considerazioni di pianificazione per l'alta disponibilità e il disaster recovery e fornisce scenari di implementazione comuni per ambienti locali, ibridi e Microsoft Azure.
+  #### Lezioni
+  - Alta disponibilità e disaster recovery con SQL Server 2014
+  - Soluzioni per l’alta disponibilità e per il disaster recovery di SQL Server
+
+
+  #### Lab&#58; Pianificazione dell’alta disponibilità e del disaster recovery
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Spiegare le considerazioni per l'implementazione dell’alta disponibilità e del disaster recovery utilizzando SQL Server 2014 e descrivere alcuni scenari comuni. 
+  - Spiegare le considerazioni per l'implementazione dell’alta disponibilità e del disaster recovery utilizzando SQL Server 2014 e i servizi di Microsoft Azure e descrivere alcuni scenari comuni.
+
+
+  ### Modulo 10&#58; Repliche dei dati
+  La replica di SQL Server consente di copiare e distribuire dati e oggetti di database su altri computer e posizioni dell'azienda, migliorando la disponibilità e la scalabilità. Questo modulo offre una panoramica della replica di SQL Server e spiega gli agenti utilizzati per implementare la replica. Descrive inoltre alcuni scenari di replica comuni, come progettare un sistema di replica adeguato alle proprie esigenze e come monitorare e risolvere i problemi di replica.
+  #### Lezioni
+  - Replica di SQL Server
+  - Pianificazione della replica
+
+
+  #### Lab&#58; Progettazione e implementazione di una replica
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
+  - Descrivere la replica di SQL Server. 
+  - Identificare una soluzione di replica appropriata per uno scenario particolare.
+

@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Security Fundamentals: MTA Exam 98-367'
+metadata:
+  title: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+  description: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+uid: course.40367
+courseNumber: '40367-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Dimostrare di conoscere i livelli di sicurezza
+- skill: Dimostrare di conoscere la sicurezza dei sistemi operativi
+- skill: Dimostrare di conoscere la sicurezza delle reti
+- skill: Dimostrare di conoscere il software di protezione
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-367
+summary: |-
+  Questo corso di formazione MTA di tre giorni aiuta a prepararsi per l'esame Microsoft Technology Associate 98-367 e a conoscere questi argomenti&#58; livelli di sicurezza, sicurezza del sistema operativo, sicurezza della rete, software per la sicurezza. Questo corso affronta gli stessi contenuti del Microsoft Academic Course (MOAC) per questo esame. Questo corso è aggiornato a supporto di Windows 10.
+
+  #### Profilo dei destinatari
+  Gli esami Microsoft Technology Associate (MTA) rappresentano la più recente suite di esami di certificazione di Microsoft che convalidano il possesso delle conoscenze necessarie per iniziare a gettare le basi di una carriera basata sulle tecnologie Microsoft. Questo programma è un punto di partenza ideale per intraprendere una carriera in ambito tecnologico. Presuppone che i candidati abbiano una qualche esperienza pratica o conoscenze precedenti, ma non necessariamente un’esperienza a livello professionale.
+prerequisitesSection: |-
+  Non sono previsti pre-requisiti per questo corso.
+outlineSection: |-
+  ### Modulo 1&#58; Dimostrare di sapere cosa sono i livelli di sicurezza
+
+  ### Modulo 2&#58; Conoscere l’autenticazione, l’autorizzazione e l’accounting
+
+  ### Modulo 3&#58; Conoscere le politiche di sicurezza
+
+  ### Modulo 4&#58; Dimostrare di sapere cos’è la sicurezza della rete
+
+  ### Modulo 5&#58; Proteggere il server e il client
+

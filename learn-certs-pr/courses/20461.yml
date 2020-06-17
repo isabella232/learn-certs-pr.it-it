@@ -1,0 +1,357 @@
+### YamlMime:Course
+title: Querying Microsoft SQL Server® 2014
+metadata:
+  title: 'Course 20461-D: Querying Microsoft SQL Server® 2014'
+  description: 'Course 20461-D: Querying Microsoft SQL Server® 2014'
+uid: course.20461
+courseNumber: '20461-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere l’architettura e i concetti di base di Microsoft SQL Server 2014.
+- skill: Comprendere le somiglianze e le differenze tra Transact-SQL e gli altri linguaggi computer.
+- skill: Scrivere query SELECT
+- skill: Eseguire query in più tabelle
+- skill: Ordinare e filtrare i dati
+- skill: Descrivere l’uso dei tipi di dati in SQL Server
+- skill: Modificare i dati con Transact-SQL
+- skill: Usare le funzioni incorporate
+- skill: Raggruppare e aggregare i dati
+- skill: Usare le sottoquery
+- skill: Usare le espressioni delle tabelle
+- skill: Usare gli operatori set
+- skill: Usare le funzioni di classificazione delle finestre, per gli offset e gli aggregati
+- skill: Implementare i set di pivot e raggruppamento
+- skill: Eseguire procedure archiviate
+- skill: Programmare con T-SQL
+- skill: Implementare la gestione degli errori
+- skill: Implementare le transazioni
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-461
+summary: |-
+  Questo corso di 5 giorni gestito da un istruttore fornisce ai partecipanti la possibilità di acquisire le competenze tecniche per eseguire query Transact-SQL di base per Microsoft SQL Server 2014. Questo è il corso di base per tutte le discipline correlate a SQL Server come l’amministrazione dei database, lo sviluppo di database e l’acquisizione di business intelligence. Lo scopo principale di questo corso è preparare i partecipanti all’esame "70-461&#58; Writing Queries Using Microsoft® SQL Server® 2014 Transact-SQL." Questo è il primo esame che è necessario sostenere per tutte le altre discipline correlate a SDQ Server, come l’amministrazione dei database, lo sviluppo di database e l’acquisizione di business intelligence. Pertanto, i destinatari principali di questo corso sono&#58; amministratori di database, sviluppatori di database e professionisti BI.
+
+  Nota&#58; Questo corso è pensato per i clienti che sono interessati ad apprendere SQL Server 2012 o SQL Server 2014. Include le nuove funzionalità di SQL Server 2014, ma descrive anche le funzionalità più importanti della piattaforma dati di SQL Server.
+
+  #### Profilo dei destinatari
+  Questo corso è pensato per gli amministratori di database, gli sviluppatori di database e i professionisti che si occupano di Business Intelligence. È probabile che questo corso venga frequentato anche da utenti esperti di SQL che non si occupano necessariamente di database o che prevedono di sostenere l’esame, come redattori di rapporti, analisti di business e sviluppatori di applicazioni client.
+prerequisitesSection: |-
+  - Conoscenza lavorativa dei database relazionali.
+  - Possedere conoscenze di base del sistema operativo Microsoft Windows e delle sue funzionalità di base
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione a Microsoft SQL Server 2014
+  Questo modulo introduce la piattaforma SQL Server e i suoi principali strumenti. Esamina le edizioni, le versioni e gli strumenti usati per eseguire query su fonti di documentazione e la struttura logica dei database.
+  #### Lezioni
+  - Architettura di base di SQL Server
+  - Edizioni e versioni di SQL Server
+  - Operazioni preliminari per iniziare a usare SQL Server Management Studio
+
+
+  #### Lab&#58; Usare SQL Server 2014 Tools
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere l'architettura e le edizioni di SQL Server 2012.
+  - Usare SQL Server Management Studio.
+
+
+  ### Modulo 2&#58; Introduzione a T-SQL Querying
+  Questo modulo introduce Transact SQL, utilizzato come principale linguaggio di query in SQL Server. Esamina la struttura di base delle query T-SQL, il flusso logico dell’istruzione SELECT ed introduce concetti come i predicati e le operazioni basate sui set.
+  #### Lezioni
+  - Introduzione a T-SQL
+  - Comprendere i set
+  - Comprendere la logica dei predicati
+  - Comprendere l’ordine logico delle operazioni nelle istruzioni SELECT
+
+
+  #### Lab&#58; Introduzione alle query Transact-SQL
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere gli elementi di T-SQL e il loro ruolo nella compilazione di query
+  - Descrivere l’uso dei set in SQL Server
+  - Descrivere l’uso della logica dei predicati in SQL Server
+  - Descrivere l’ordine logico delle operazioni nelle istruzioni SELECT
+
+
+  ### Modulo 3&#58; Compilare query SELECT
+  Questo modulo fornisce cenni preliminari sull’istruzione SELECT e si sofferma in particolare sulle query eseguite su una singola tabella.
+  #### Lezioni
+  - Compilare istruzioni SELECT semplici
+  - Eliminare i doppioni con DISTINCT
+  - Usare gli alias per le colonne e le tabelle
+  - Compilare espressioni CASE semplici
+
+
+  #### Lab&#58; Compilare istruzioni SELECT di base
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Compilare istruzioni SELECT semplici.
+  - Eliminare i doppioni con la clausola DISTINCT.
+  - Usare alias per le colonne e le tabelle.
+  - Compilare espressioni CASE semplici.
+
+
+  ### Modulo4&#58; Eseguire query su più tabelle
+  Questo modulo spiega come compilare query che combinino dati con varie origini in SQL Server. Il modulo introduce l’uso di JOIN nelle query T-SQL e spiega come usarli come meccanismo per il recupero di dati da più tabelle.
+  #### Lezioni
+  - Comprendere i Join
+  - Eseguire query con join interni
+  - Eseguire query con join esterni
+  - Eseguire query con Cross Join e Self Join
+
+
+  #### Lab&#58; Eseguire query su più tabelle
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere come eseguire query su più tabelle con un’istruzione SELECT utilizzando join
+  - Compilare query con join interni.
+  - Compilare query con join esterni.
+  - Compilare query con self join e cross join.
+
+
+  ### Modulo 5&#58; Ordinare e filtrare i dati
+  Questo modulo spiega come ottimizzare le query in modo da limitare le righe restituite e controllare l’ordine in cui vengono visualizzate le righe. Il modulo spiega anche come risolvere i problemi relativi a risultati mancanti e sconosciuti.
+  #### Lezioni
+  - Ordinare i dati
+  - Filtrare i dati con i predicati
+  - Filtrare i dati con TOP e OFFSET-FETCH
+  - Usare i valori sconosciuti
+
+
+  #### Lab&#58; Ordinare e filtrare i dati
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Filtrare i dati con i predicati nelle clausole WHERE.
+  - Ordinare i dati con ORDER BY.
+  - Filtrare i dati in una clausola SELECT con TOP.
+  - Filtrare i dati con OFFSET e FETCH.
+
+
+  ### Modulo 6&#58; Usare i tipi di dati di SQL Server 2014
+  Questo modulo illustra i tipi di dati utilizzati da SQL Server per archiviare i dati. Introduce molti tipi di dati numerici e speciali. Descrive anche le conversioni tra i tipi di dati e l’importanza della precedenza dei tipi di dati.
+  #### Lezioni
+  - Introduzione ai tipi di dati di SQL Server 2014
+  - Usare dati di tipo carattere
+  - Usare dati di tipo data e ora
+
+
+  #### Lab&#58; Usare i tipi di dati di SQL Server 2014
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere i tipi di dati numerici, la precedenza dei tipi e le conversioni dei tipi.
+  - Compilare query con dati di tipo carattere
+  - Compilare query con dati di tipo data e ora.
+
+
+  ### Modulo 7&#58; Usare DML per modificare i dati
+  Questo modulo spiega come usare il linguaggio di manipolazione dei dati di Transact-SQL per inserire, aggiornare ed eliminare i dati.
+  #### Lezioni
+  - Inserire dati
+  - Modificare ed eliminare dati
+
+
+  #### Lab&#58; Usare DML per modificare i dati
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Inserire nuovi dati nelle tabelle
+  - Aggiornare ed eliminare record esistenti nelle tabelle
+
+
+  ### Modulo 8&#58; Usare le funzioni incorporate
+  Questo modulo descrive le funzioni incorporate in SQL Server Denali e fornisce informazioni su alcuni degli usi più comuni, tra cui la conversione di tipi di dati, il testing di risultati logici e l’annullabilità.
+  #### Lezioni
+  - Compilare query con funzioni incorporate
+  - Usare le funzioni di conversione
+  - Usare le funzioni logiche
+  - Usare le funzioni da utilizzare con NULL
+
+
+  #### Lab&#58; Usare le funzioni incorporate
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Compilare query con le funzioni scalari incorporate.
+  - Usare le funzioni di conversione.
+  - Usare le funzioni logiche.
+  - Usare le funzioni da utilizzare con NULL.
+
+
+  ### Modulo 9&#58; Raggruppamento e aggregazione dei dati
+  Questo modulo descrive i metodi che possono essere utilizzati per raggruppare i dati all’interno di una query, per aggregare i dati raggruppati e per filtrare i gruppi con HAVING. Lo scopo del modulo è aiutare il candidato a comprendere perché una clausola SELECT presenti limitazioni relativamente all’assegnazione dei nomi delle colonne nella clausola GROUP BY e fornire istruzioni su quali colonne possano essere elencate nella clausola SELECT.
+  #### Lezioni
+  - Usare le funzioni aggregate
+  - Usare la clausola GROUP BY
+  - Filtrare i gruppi con HAVING
+
+
+  #### Lab&#58; Raggruppamento e aggregazione dei dati
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Compilare query che riepilogano i dati utilizzando funzioni aggregate incorporate.
+  - Usare la clausola GROUP BY per disporre le righe in gruppi.
+  - Usare la clausola HAVING per filtrare i gruppi in base alle condizioni di ricerca.
+
+
+  ### Modulo 10&#58; Usare le sottoquery
+  Questo modulo descrive come usare le sottoquery in varie parti dell’istruzione SELECT. Include informazioni sull’uso delle sottoquery scalari e con più risultati, e sull’uso degli operatori IN ed EXISTS.
+  #### Lezioni
+  - Compilare sottoquery autonome
+  - Compilare sottoquery correlate
+  - Usare il predicato EXISTS con le sottoquery
+
+
+  #### Lab&#58; Usare le sottoquery
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere l’uso delle query nidificate in altre query.
+  - Compilare sottoquery autonome che restituiscano risultati scalari o con più valori.
+  - Compilare sottoquery correlate che restituiscano risultati scalari o con più valori.
+  - Usare il predicato EXISTS per controllare in modo efficiente l’esistenza di righe in una sottoquery.
+
+
+  ### Modulo 11&#58; Usare le espressioni delle tabelle
+  Questo modulo descrive le espressioni T-SQL che restituiscono una tabella relazionale valida, generalmente utilizzabile in ulteriori query. Il modulo illustra le viste, le tabelle derivate, le espressioni di tabella comuni e le funzioni con valori di tabella inline.
+  #### Lezioni
+  - Usare le viste
+  - Usare le funzioni con valori di tabella inline
+  - Usare tabelle derivate
+  - Usare espressioni tabulari comuni
+
+
+  #### Lab&#58; Usare espressioni di tabella
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Compilare query che utilizzino tabelle derivate.
+  - Compilare query che utilizzino espressioni di tabella comuni
+  - Creare viste semplici e compilare query per le stesse.
+  - Creare funzioni con valori di tabella inline e compilare query per le stesse.
+
+
+  ### Modulo 12&#58; Usare gli operatori Set
+  Questo modulo descrive gli operatori Set, come UNION, INTERSECT ed EXCEPT, che possono essere usati per confrontare le righe tra due set di input
+  #### Lezioni
+  - Compilare query con l’operatore UNION
+  - Usare EXCEPT e INTERSECT
+  - Usare APPLY
+
+
+  #### Lab&#58; Usare gli operatori Set
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Compilare query che combinino i dati utilizzando l’operatore UNION
+  - Compilare query che confrontino i set utilizzando gli operatori INTERSECT ed EXCEPT
+  - Compilare le query che manipolino le righe di una tabella utilizzando APPLY con i risultati di una tabella o funzione derivata
+
+
+  ### Modulo 13&#58; Usare la classificazione delle finestre, l’offset e le funzioni aggregate
+  Questo modulo descrive le funzioni della finestra, come le funzioni di classificazione, aggregazione e scostamento. Molte di queste funzionalità sono state introdotte per la prima volta in SQL Server 2012. In particolare, verranno fornite informazioni sull’uso delle funzioni T-SQL come ROW_NUMBER, RANK, DENSE_RANK, NTILE, LAG, LEAD, FIRST_VALUE e LAST_VALUE per eseguire calcoli su set, finestre e righe.
+  #### Lezioni
+  - Creare finestre con OVER
+  - Esplorare le funzioni delle finestre
+
+
+  #### Lab&#58; Usare le funzioni di classificazione, scostamento e aggregazione delle finestre
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere i vantaggi derivanti dalle funzioni delle finestre
+  - Limitare le funzioni delle finestre alle righe definite in una clausola OVER, comprese le partizioni e i riquadri.
+  - Compilare query che utilizzino le funzioni delle finestre per lavorare su una finestra di righe per ottenere risultati di confronto delle classificazioni, aggregazioni e degli scostamenti.
+
+
+  ### Modulo 14&#58; Rotazione e raggruppamento dei set
+  Questo modulo descrive le tecniche usate per ruotare i dati in T-SQL e verranno forniti cenni di base sulla clausola GROUPING SETS. Verranno fornite informazioni anche sull’uso della sintassi GROUP BY ROLLUP e GROUP BY CUBE in SQL Server.
+  #### Lezioni
+  - Compilare query con PIVOT e UNPIVOT
+  - Uso dei set di raggruppamento
+
+
+  #### Lab&#58; Rotazione e raggruppamento dei set
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Compilare query con set di risultati pivot e unpivot.
+  - Compilare query che specifichino più raggruppamenti con set di raggruppamenti.
+
+
+  ### Modulo 15&#58; Eseguire query sui dati con procedure memorizzate
+  Questo modulo spiega come usare le procedure memorizzate esistenti in un ambiente di query T-SQL. Spiega come usare EXECUTE, come passare i parametri di input e output a una procedura e come richiamare le procedure memorizzate nel sistema.
+  #### Lezioni
+  - Compilare query con PIVOT e UNPIVOT
+  - Passare parametri alle procedure memorizzate
+  - Creare procedure memorizzate semplici
+  - Usare Dynamic SQL
+
+
+  #### Lab&#58; Eseguire procedure memorizzate
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Restituire risultati eseguendo procedure memorizzate.
+  - Passare parametri alle procedure.
+  - Creare procedure memorizzate semplici che incapsulino un’istruzione SELECT.
+  - Creare ed eseguire query SQL dinamiche con EXEC e sp_executesql.
+
+
+  ### Modulo 16&#58; Programmare con T-SQL
+  Questo modulo fornisce un’introduzione di base ai concetti e agli oggetti impiegati nella programmazione di T-SQL. Esamina concetti come batch, variabili, controllo degli elementi del flusso come loop e condizionali. Spiega anche come creare ed eseguire istruzioni SQL dinamiche e come usare i sinonimi.
+  #### Lezioni
+  - Elementi della programmazione T-SQL
+  - Controllare il flusso del programma
+
+
+  #### Lab&#58; Programmare con T-SQL
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere gli elementi del linguaggio T-SQL usato per le attività di programmazione semplici.
+  - Descrivere i batch e spiegare come vengano gestiti da SQL Server.
+  - Dichiarare e assegnare variabili e sinonimi.
+  - Usare i blocchi IF e WHILE per controllare il flusso del programma.
+
+
+  ### Modulo 17&#58; Implementare la gestione degli errori
+  Questo modulo descrive l’uso delle funzioni di gestione degli errori nel codice T-SQL. Verranno spiegate le differenze tra gli errori di compilazione e gli errori di runtime e verranno fornite informazioni anche sull’effetto degli errori sui batch. Nel modulo verrà spiegato anche come controllare la gestione degli errori con i blocchi TRY/CATCH, come usare la classe ERROR delle funzioni e come usare la nuova istruzione THROW.
+  #### Lezioni
+  - Usare i blocchi TRY / CATCH
+  - Usare le informazioni relative agli errori
+
+
+  #### Lab&#58; Implementare la gestione degli errori
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere il comportamento di SQL Server nel caso in cui si verifichino errori nel codice T-SQL.
+  - Implementare la gestione delle eccezioni strutturate in T-SQL.
+  - Restituire informazioni sugli errori dagli oggetti di sistema.
+  - Individuare gli errori definiti dagli utenti e passare gli errori di sistema al codice T-SQL.
+
+
+  ### Modulo 18&#58; Implementare le transazioni
+  Questo modulo descrive i concetti della gestione delle transazioni in SQL Server. Fornisce una panoramica di alto livello delle proprietà delle transazioni e fornisce informazioni di base su come contrassegnare le transazioni con BEGIN, COMMIT e ROLLBACK.
+  #### Lezioni
+  - Transazioni e motore del database
+  - Controllare le transazioni
+
+
+  #### Lab&#58; Implementare le transazioni
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le transazioni e le differenze tra i batch e le transazioni.
+  - Descrivere i batch e spiegare come vengano gestiti da SQL Server.
+  - Creare e gestire le transazioni con le istruzioni per il controllo delle transazioni.
+  - Usare SET XACT_ABORT per definire la gestione delle transazioni esterne ai blocchi TRY / CATCH da parte di SQL Server
+  - Descrivere gli effetti dei livelli di isolamento sulle transazioni.
+
+
+  ### Modulo 19&#58; Appendice 1&#58; Migliorare le prestazioni delle query
+  Questo modulo fornisce numerose linee guida chiave per la compilazione di query efficaci, ma anche per monitorare l’esecuzione delle query e valutare il loro impatto su Microsoft SQL Server
+  #### Lezioni
+  - Fattori che influiscono sulle prestazioni delle query
+  - Visualizzare i dati relativi alle prestazioni delle query
+
+
+  #### Lab&#58; Migliorare le prestazioni delle query
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere i componenti di query efficaci
+  - Visualizzare e interpretare dati relativi alle prestazioni delle query
+
+
+  ### Modulo 20&#58; Appendice 2&#58; Eseguire query sui metadati di SQL Server
+  SQL Server fornisce accesso a metadati strutturati grazie a numerosi meccanismi come viste dei cataloghi di sistema, funzioni di sistema, oggetti dinamici di gestione e procedure memorizzate di sistema. In questo modulo i candidati impareranno a compilare query che restituiscano i metadati di sistema grazie all’uso di questi meccanismi.
+  #### Lezioni
+  - Creare query su viste dei cataloghi e funzioni di sistema
+  - Eseguire le procedure memorizzate di sistema
+  - Creare query su oggetti dinamici di gestione
+
+
+  #### Lab&#58; Eseguire query sui metadati di SQL
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Creare query che recuperino i metadati di sistema utilizzando le viste e le funzioni di sistema.
+  - Eseguire procedure memorizzate di sistema che restituiscano informazioni di sistema.
+  - Compilare query che recuperino metadati di sistema e informazioni sullo stato grazie all’uso di viste di gestione dinamiche e funzioni di sistema.
+

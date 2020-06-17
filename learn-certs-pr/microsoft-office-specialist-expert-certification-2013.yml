@@ -1,0 +1,51 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2016 Expert Specialist'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2016 Expert Specialist'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016 Expert Specialist'
+uid: certification.microsoft-office-specialist-expert-certification-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  Questa certificazione ti permette di ottenere una certificazione Microsoft Office Specialist Expert e di dimostrare così che possiedi competenze avanzate nell’uso dei programmi principali di Office. Office 2013 combina il cloud e le tecnologie Web per estendere le modalità di creazione e utilizzo delle informazioni, e introduce un nuovo modello di app cloud per lo sviluppo di app sicure e flessibili, tutte individuabili dalla familiare interfaccia di Office.
+
+  Per ottenere la certificazione Microsoft Office Specialist Expert, devi superare ENTRAMBI gli esami richiesti per ciascun programma&#58;
+
+  - Devi superare entrambi gli esami per la certificazione Microsoft Word 2013 Expert&#58;
+    - [77-425&#58; Microsoft Word 2013 Expert Part One](/learn/certifications/exams/77-425)
+    - [77-426&#58; Microsoft Word 2013 Expert Part Two](/learn/certifications/exams/77-426)
+  - Devi superare entrambi gli esami per la certificazione Microsoft Excel 2013 Expert&#58;
+    - [77-728&#58; Microsoft Excel 2013 Expert Part One](/learn/certifications/exams/77-728)
+    - [77-428&#58; Microsoft Excel 2013 Expert Part Two](/learn/certifications/exams/77-428)
+subTitle: Questa certificazione ti permette di ottenere una certificazione Microsoft Office Specialist Expert e di dimostrare così che possiedi competenze avanzate nell’uso dei programmi principali di Office. Office 2013 combina il cloud e le tecnologie Web per estendere le modalità di creazione e utilizzo delle informazioni, e introduce un nuovo modello di app cloud per lo sviluppo di app sicure e flessibili, tutte individuabili dalla familiare interfaccia di Office.
+levels:
+- beginner
+skills:
+- none
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-425
+- uid: exam.77-426
+- uid: exam.77-728
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster della certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [Ripetizione dell’esame]
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

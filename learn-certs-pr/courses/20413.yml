@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Designing and Implementing a Server Infrastructure
+metadata:
+  title: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+  description: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+uid: course.20413
+courseNumber: '20413-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Pianificare l’aggiornamento e la migrazione dei server.
+- skill: Pianificare e implementare una strategia per la distribuzione dei server.
+- skill: Pianificare e distribuire i server con System Center 2012 R2 Virtual Machine Manager (VMM).
+- skill: Progettare ed eseguire la manutenzione di una soluzione per la gestione della configurazione e degli indirizzi IP.
+- skill: Progettare e implementare la risoluzione dei nomi.
+- skill: Progettare e implementare un’infrastruttura AD DS con foreste e domini.
+- skill: Progettare e implementare un’infrastruttura Organizational Unit (OU) AD DS.
+- skill: Progettare e implementare una strategia Global Policy Object (GPO).
+- skill: Progettare e implementare una topologia fisica AD DS.
+- skill: Pianificare e implementare servizi di archiviazione e file.
+- skill: Progettare e implementare la protezione della rete.
+- skill: Progettare e implementare servizi di accesso remoto.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-413
+summary: |-
+  Questo corso Microsoft ufficiale, di cinque giorni, permette di acquisire le nozioni teoriche e pratiche necessarie per pianificare, progettare e distribuire un’infrastruttura fisica e logica di Windows Server® 2012 R2 a livello aziendale. Questo corso è il secondo di una serie di due corsi che consentono di acquisire le competenze e le conoscenze necessarie per progettare e implementare un'infrastruttura Windows Server 2012 R2 in un ambiente aziendale. Complessivamente i due corsi includono tutto ciò che è necessario sapere per progettare, pianificare, distribuire, proteggere, monitorare, automatizzare e virtualizzare un’infrastruttura server aziendale. Fornisce le nozioni e le competenze necessarie per fornire una soluzione aziendale che supporti installazioni server manuali e automatiche in un ambiente fisico e virtuale, che includano servizi che supportino servizi file e di archiviazione. I partecipanti apprenderanno anche le competenze necessarie per fornire soluzioni di rete aziendali come DHCP, IPAM, VPN e DirectAccess. I partecipanti apprenderanno inoltre le competenze necessarie per progettare e implementare un’infrastruttura con foreste e domini che includano scenari con più domini/foreste e filiali. Questo corso è direttamente associato ed è la scelta ideale per acquisire le nozioni pratiche per ottenere la qualifica Microsoft Certified Solutions Expert (MCSE)&#58; Esame 413&#58; Designing and Implementing and Server Infrastructure, che è il quinto dei cinque esami necessari per conseguire la certificazione MCSE&#58; Server Infrastructure. 
+
+  NOTA&#58; i laboratori inclusi in questo corso sono basati su Windows Server 2012 R2 e System Center 2012 R2. Questo corso è pensato per i professionisti IT esperti che forniscono supporto ad aziende di medie e grandi dimensioni, che hanno acquisito esperienza nell’amministrazione di Windows Server 2012 R2 e che hanno una certificazione MCSA&#58; Windows Server 2012 o competenze equivalenti.
+
+  #### Profilo dei destinatari
+  Questo corso è pensato per i professionisti IT responsabili della pianificazione, progettazione e distribuzione di infrastrutture fisiche e logiche di Windows Server 2012 a livello aziendale e di Active Directory® Domain Services (AD DS) che includano i servizi di rete necessari. I candidati devono generalmente avere lavorato con i sistemi operativi Windows Server precedenti e devono avere una certificazione relativa a Windows Server 2012 (MCSA) o competenze equivalenti. Il corso è indicato anche per i professionisti IT che prevedono di sostenere l’Esame 70-413&#58; Designing and Implementing a Server Infrastructure, sia come esame a sé stante che per potere successivamente sostenere l’esame di certificazione Microsoft Certified Solutions Expert (MCSE)&#58; Server Infrastructure.
+prerequisitesSection: |-
+  I candidati che intendono partecipare a questo corso devono avere una buona conoscenza dei sistemi operativi client e server di Windows ed un’esperienza di base nella realizzazione di AD DS e delle reti in un ambiente aziendale/per piccole aziende (SMB) oltre a essere esperti nella configurazione di applicazioni.
+
+  Oltre alla propria esperienza professionale, i candidati che decidono di seguire questo corso di formazione devono già possedere le seguenti conoscenze tecniche&#58;
+  - Una buona conoscenza delle basi di Transmission Control Protocol/Internet Protocol (TCP/IP) e dei concetti di rete.
+  - Una buona conoscenza a livello lavorativo di Windows Server 2012 R2 e Active Directory® Domain Services (AD DS). Ad esempio, degli account degli utenti dei domini, delle differenze tra gli account di dominio e gli account utente e delle appartenenze ai gruppi.
+  - Avere una buona conoscenza degli script e dei file batch.
+  - Conoscere bene i concetti alla base della sicurezza, come l’autenticazione e l’autorizzazione.
+  - Acquisire familiarità con gli strumenti utilizzati per la distribuzione, la creazione di pacchetti e l’imaging.
+  - Poter lavorare in un team fisico o virtuale.
+  - Essere in grado di produrre documentazione valida e possedere capacità di comunicazione appropriate tali da consentire loro di creare proposte e fornire suggerimenti a livello di budget.
+  - Possedere conoscenze equivalenti a quelle dei candidati che possiedono una certificazione MCSA in Windows 2012 R2.
+
+  I candidati che partecipano a questo corso di formazione possono soddisfare questi pre-requisiti seguendo i seguenti corsi o ottenendo competenze e nozioni equivalenti&#58;
+  - 20410D&#58; Installare e configurare Windows Server 2012
+  - 20411D&#58; Amministrare Windows Server 2012
+  - 20412D&#58; Configurare i servizi avanzati di Windows Server 2012
+
+  OPPURE
+
+  - 20417D&#58; Aggiornare le competenze a quelle richieste per la certificazione MCSA Windows Server 2012
+outlineSection: |-
+  ### Modulo 1&#58; Pianificare l’aggiornamento e la migrazione dei server
+  Questo modulo spiega come pianificare una strategia per l’aggiornamento e la migrazione dei server.
+  #### Lezioni
+  - Considerazioni sugli aggiornamenti e le migrazioni
+  - Creare un piano per l’aggiornamento e la migrazione dei server
+  - Pianificare la virtualizzazione
+
+
+  #### Lab&#58; Pianificare l’aggiornamento e la migrazione dei server
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere i fattori da prendere in considerazione durante l’esecuzione di un aggiornamento e di una migrazione di server.
+  - Creare un piano per l’aggiornamento e la migrazione dei server.
+  - Pianificare la virtualizzazione dei server.
+
+
+  ### Modulo 2&#58; Pianificare e implementare una strategia per la distribuzione dei server
+  Questo modulo spiega come progettare una strategia per l’installazione dei server, nonché come pianificare e implementare un’infrastruttura per la distribuzione di server.
+  #### Lezioni
+  - Selezionare una strategia appropriata per la distribuzione dei server
+  - Implementare una strategia di distribuzione automatica
+
+
+  #### Lab&#58; Pianificare e implementare un’infrastruttura per la distribuzione dei server
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Scegliere un’appropriata strategia per la strategia di distribuzione dei server.
+  - Implementare una strategia di distribuzione automatica.
+
+
+  ### Modulo 3&#58; Pianificare e distribuire server con Virtual Machine Manager
+  Questo modulo spiega come pianificare e distribuire un’infrastruttura Virtual Machine Manager (VMM) per la distribuzione dei server.
+  #### Lezioni
+  - Panoramica di System Center 2012 R2 Virtual Machine Manager
+  - Implementare la libreria e i profili di Virtual Machine Manager
+  - Pianificare e distribuire servizi Virtual Machine Manager
+
+
+  #### Lab&#58; Pianificare e distribuire macchine virtuali con Virtual Machine Manager
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere l’architettura e i componenti di base di VMM.
+  - Implementare librerie e profili VMM.
+  - Pianificare e distribuire servizi VMM
+
+
+  ### Modulo 4&#58; Progettare ed eseguire la manutenzione di una soluzione per la gestione della configurazione e degli indirizzi IP
+  Questo modulo spiega come progettare ed eseguire la manutenzione di una soluzione per la gestione degli indirizzi IP (IPAM) e Dynamic Host Configuration Protocol (DHCP).
+  #### Lezioni
+  - Progettare server DHCP
+  - Progettare ambiti DHCP
+  - Progettare una strategia di distribuzione IPAM
+  - Gestire server e spazi di indirizzi con IPAM
+
+
+  #### Lab&#58; Progettare ed eseguire la manutenzione di una soluzione per la gestione della configurazione e degli indirizzi IP
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare un’implementazione server DHCP.
+  - Pianificare la configurazione e le opzioni dell’ambito di DHCP.
+  - Progettare una strategia di distribuzione IPAM.
+  - Gestire i server e gli spazi di indirizzi con IPAM.
+
+
+  ### Modulo 5&#58; Progettare e implementare la risoluzione dei nomi
+  Questo modulo spiega come progettare una strategia per la risoluzione dei nomi.
+  #### Lezioni
+  - Progettare una strategia per l’implementazione del server DNS
+  - Progettare uno spazio di nomi DNS
+  - Progettare le zone DNS
+  - Progettare la replica e la delega delle zone DNS
+  - Ottimizzare i server DNS
+  - Progettare DNS per l’alta disponibilità e la sicurezza
+
+
+  #### Lab&#58; Progettare e implementare la risoluzione dei nomi
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare una strategia per l’implementazione di server Domain Name System (DNS).
+  - Progettare uno spazio di nomi DNS.
+  - Progettare e implementare una strategia per le zone DNS.
+  - Progettare e configurare la replica e la delega delle zone DNS.
+  - Ottimizzare la configurazione dei server DNS.
+  - Progettare DNS per l’alta disponibilità e la sicurezza.
+
+
+  ### Modulo 6&#58; Progettare e implementare un’infrastruttura per i servizi Active Directory Domain con foreste e domini
+  Questo modulo spiega come progettare e implementare un’infrastruttura AD DS con foreste e domini.
+  #### Lezioni
+  - Progettare una foresta Active Directory
+  - Progettare e implementare trust tra foreste Active Directory
+  - Progettare l’integrazione di Active Directory con Windows Azure Active Directory
+  - Progettare e implementare domini Active Directory
+  - Progettare spazi di nomi DNS in ambienti Active Directory
+  - Progettare trust tra i domini Active Trust
+
+
+  #### Lab&#58; Progettare e implementare un’infrastruttura foresta per i servizi di dominio Active Directory
+
+  #### Lab&#58; Progettare e implementare un’infrastruttura dominio Active Directory
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare una foresta Active Directory.
+  - Progettare e implementare trust tra foreste Active Directory
+  - Progettare l’integrazione di Active Directory con Windows Azure Active Directory.
+  - Progettare e implementare domini Active Directory.
+  - Progettare spazi di nomi DNS in un ambiente Active Directory.
+  - Progettare e implementare trust tra i domini Active Directory.
+
+
+  ### Modulo 7&#58; Progettare e implementare un’infrastruttura Organizational Unit AD DS
+  Questo modulo spiega come progettare e implementare un’infrastruttura OU e un modello di autorizzazioni AD DS.
+  #### Lezioni
+  - Pianificare il modello per la delega delle attività amministrative in Active Directory
+  - Progettare una struttura OU
+  - Progettare e implementare una strategia per i gruppi AD DS
+
+
+  #### Lab&#58; Progettare e implementare un’infrastruttura OU in Active Directory e un modello di delega
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Pianificare un modello per la delega delle attività amministrative in Active Directory.
+  - Progettare una struttura OU.
+  - Progettare e implementare una strategia per i gruppi AD DS.
+
+
+  ### Modulo 8&#58; Progettare e implementare una strategia GPO
+  Questo modulo spiega come progettare e implementare una strategia Group Policy Object (GPO).
+  #### Lezioni
+  - Raccogliere le informazioni necessarie per progettare la strategia GPO
+  - Progettare e implementare i GPO
+  - Progettare l’elaborazione dei GPO
+  - Pianificare la gestione dei criteri di gruppo
+
+
+  #### Lab&#58; Progettare e implementare una strategia GPO
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Raccogliere e analizzare le informazioni richieste per creare un progetto GPO.
+  - Creare un progetto GPO e implementarlo.
+  - Creare un progetto per l’elaborazione dei GPO.
+  - Pianificare la gestione dei GPO.
+
+
+  ### Modulo 9&#58; Progettare e implementare una topologia fisica AD DS
+  Questo modulo spiega come progettare una topologia di siti AD DS e una strategia di collocamento dei controller di dominio.
+  #### Lezioni
+  - Progettare e implementare siti Active Directory
+  - Progettare una replica di Active Directory
+  - Progettare il posizionamento dei controller di dominio
+  - Considerazioni sulla virtualizzazione dei controller di dominio
+  - Progettare controller di dominio ad alta disponibilità
+
+
+  #### Lab&#58; Progettare e implementare una topologia fisica Active Directory Domain Services
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Progettare e implementare siti Active Directory.
+  - Progettare e configurare la replica di Active Directory.
+  - Progettare il posizionamento dei controller di dominio.
+  - Pianificare la virtualizzazione del ruolo di controller di dominio.
+  - Progettare distribuzioni di controller di dominio per l'alta disponibilità.
+
+
+  ### Modulo 10&#58; Pianificare e implementare servizi di archiviazione e file
+  Questo modulo spiega come pianificare e implementare servizi di archiviazione e file.
+  #### Lezioni
+  - Pianificare e implementare SAN iSCSI
+  - Pianificare e implementare spazi di archiviazione
+  - Ottimizzare i servizi file per le filiali
+
+
+  #### Lab&#58; Pianificare e implementare l’archiviazione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Pianificare e implementare una SAN Internet Small Computer System Interface (iSCSI).
+  - Pianificare e implementare spazi di archiviazione
+  - Ottimizzare i servizi file per le filiali.
+
+
+  ### Modulo 11&#58; Progettare e implementare la protezione della rete
+  Questo modulo spiega come progettare e implementare la protezione della rete.
+  #### Lezioni
+  - Panoramica della progettazione della sicurezza della rete
+  - Progettare e implementare una strategia firewall di Windows
+  - Progettare e implementare un’infrastruttura NAP
+
+
+  #### Lab&#58; Progettare e implementare la protezione della rete
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+
+  - Descrivere il processo di progettazione per la sicurezza della rete
+  - Progettare e implementare una strategia firewall in Windows
+  - Progettare e implementare una soluzione Network Access Protection (NAP)
+
+
+  ### Modulo 12&#58; Progettare e implementare servizi di accesso remoto
+  Questo modulo spiega come progettare e implementare servizi di accesso remoto.
+  #### Lezioni
+  - Pianificare e implementare DirectAccess
+  - Pianificare e implementare una VPN
+  - Pianificare e implementare un proxy applicazione Web
+  - Pianificare un’infrastruttura complessa per l'accesso remoto
+
+
+  #### Lab&#58; Progettare e implementare servizi per l’accesso remoto alla rete
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Pianificare e implementare DirectAccess
+  - Pianificare e implementare una rete VPN (Virtual Private Network)
+  - Pianificare e implementare un proxy applicazione Web
+  - Pianificare un’infrastruttura complessa per l’accesso remoto
+

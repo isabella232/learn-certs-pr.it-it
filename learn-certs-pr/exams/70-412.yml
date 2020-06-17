@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Configuring Advanced Windows Server 2012 Services
+metadata:
+  title: 'Exam 70-412: Configuring Advanced Windows Server 2012 Services'
+  description: 'Exam 70-412: Configuring Advanced Windows Server 2012 Services'
+uid: exam.70-412
+displayName: 70-412
+summary: |-
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  </div>
+
+  Questo esame è la terza parte di una serie di tre esami incentrati sulle competenze e le conoscenze necessarie ad amministrare un'infrastruttura di base Windows Server 2012 in un ambiente aziendale. Il superamento dell'esame convalida la capacità di un candidato di eseguire le attività di configurazione avanzate necessarie per distribuire, gestire ed eseguire la manutenzione di un'infrastruttura di Windows Server 2012, come tolleranza agli errori, servizi di certificazione e federazione delle identità. Il superamento di questo esame e degli altri due esami conferma che un candidato dispone delle competenze e delle conoscenze necessarie per implementare, gestire, eseguire la manutenzione e distribuire servizi e infrastrutture in un ambiente Windows Server 2012.
+
+  <div style='font-weight&#58; bold;'><br/>Ci sono aggiornamenti degli esami in vigore dal 19 aprile 2018. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 412.</div>
+subTitle: Questo esame è la terza parte di una serie di tre esami incentrati sulle competenze e le conoscenze necessarie ad amministrare un'infrastruttura di base Windows Server 2012 in un ambiente aziendale. Il superamento dell'esame convalida la capacità di un candidato di eseguire le attività di configurazione avanzate necessarie per distribuire, gestire ed eseguire la manutenzione di un'infrastruttura di Windows Server 2012, come tolleranza agli errori, servizi di certificazione e federazione delle identità. Il superamento di questo esame e degli altri due esami conferma che un candidato dispone delle competenze e delle conoscenze necessarie per implementare, gestire, eseguire la manutenzione e distribuire servizi e infrastrutture in un ambiente Windows Server 2012.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixW
+practiceTestUrl: https://www.mindhub.com/70-412-Configuring-Advanced-Windows-Server-2012-Se-p/mu-70-412_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-412&examname=Configuring%20Advanced%20Windows%20Server%202012%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-412
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Configurare e gestire la disponibilità elevata
+- Configurare soluzioni per la gestione di file e dell'archiviazione
+- Implementare Business Continuity e Disaster Recovery
+- Configurare i servizi di rete
+- Configurare l'infrastruttura di Active Directory
+- Configurare le soluzioni di accesso e protezione delle informazioni
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20412
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-certification
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

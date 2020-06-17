@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Installation, Storage, and Compute with Windows Server 2016
+metadata:
+  title: 'Exam 70-740: Installation, Storage, and Compute with Windows Server 2016'
+  description: 'Exam 70-740: Installation, Storage, and Compute with Windows Server 2016'
+uid: exam.70-740
+displayName: 70-740
+summary: |-
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  </div>
+
+  I candidati idonei per questo esame si occupano delle funzionalità di installazione, archiviazione e calcolo disponibili in Windows Server 2016. I candidati eseguono operazioni di installazione generali, oltre ad occuparsi di creare e gestire immagini per l'installazione.
+
+  I candidati devono avere esperienza con soluzioni di archiviazione locali e su server, tra cui la configurazione di dischi e volumi, la deduplicazione dati, l’elevata disponibilità, il ripristino di emergenza, Storage Spaces Direct e le soluzioni di clustering di failover. I candidati devono anche avere familiarità con la gestione di Hyper-V e contenitori, nonché con la manutenzione e il monitoraggio dei server in ambienti fisici e di calcolo.
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Ci sono aggiornamenti degli esami in vigore dal 13 marzo 2019. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 740.</div>
+subTitle: I candidati idonei per questo esame si occupano delle funzionalità di installazione, archiviazione e calcolo disponibili in Windows Server 2016. I candidati eseguono operazioni di installazione generali, oltre ad occuparsi di creare e gestire immagini per l'installazione.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IGlV
+practiceTestUrl: https://www.mindhub.com/70-740-Windows-Server-2016-p/mu-70-740_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-740&examname=Installation,%20Storage,%20and%20Compute%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-740
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Installare i server Windows in ambienti host e di calcolo (10-15%)
+- Implementare soluzioni di archiviazione (15-20%)
+- Implementare Hyper-V (20-25%)
+- Implementare i contenitori di Windows (5-10%)
+- Implementare l'elevata disponibilità (30-35%)
+- Gestire e monitorare gli ambienti server (10-15%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20740
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-2016-certification
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

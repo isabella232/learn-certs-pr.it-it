@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Analyzing and Visualizing Data with Microsoft Power BI
+metadata:
+  title: 'Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI'
+  description: 'Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI'
+uid: exam.70-778
+displayName: 70-778
+summary: |-
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  </div>
+
+  I candidati idonei a questo esame devono avere una buona comprensione di come usare Power BI per eseguire analisi dei dati. I candidati devono essere esperti nel connettere le sorgenti di dati ed eseguire le trasformazioni dei dati, modellando e visualizzando i dati tramite Microsoft Power BI Desktop e configurando i pannelli di controllo tramite il servizio Power BI. I candidati devono anche essere esperti nell'implementare una connettività diretta a Microsoft SQL Azure e SQL Server Analysis Services (SSAS) e nell'implementare l’analisi dei dati in Microsoft Excel. I candidati potrebbero includere professionisti BI, analisti di dati e altri ruoli responsabili per la creazione di report tramite Power BI.
+subTitle: I candidati idonei a questo esame devono avere una buona comprensione di come usare Power BI per eseguire analisi dei dati. I candidati devono essere esperti nel connettere le sorgenti di dati ed eseguire le trasformazioni dei dati, modellando e visualizzando i dati tramite Microsoft Power BI Desktop e configurando i pannelli di controllo tramite il servizio Power BI. I candidati devono anche essere esperti nell'implementare una connettività diretta a Microsoft SQL Azure e SQL Server Analysis Services (SSAS) e nell'implementare l’analisi dei dati in Microsoft Excel. I candidati potrebbero includere professionisti BI, analisti di dati e altri ruoli responsabili per la creazione di report tramite Power BI.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Consumare e trasformare i dati con Power BI Desktop (20-25%)
+- Modellare e visualizzare i dati (45-50%)
+- Configurare i pannelli di controllo in Power BI Service (25-35%)
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20778
+relatedCertifications:
+- related:
+    uid: certification.mcsa-bi-reporting
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

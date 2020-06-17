@@ -1,0 +1,51 @@
+### YamlMime:Course
+title: 'Windows Operating System Fundamentals: MTA Exam 98-349'
+metadata:
+  title: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+  description: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+uid: course.40349
+courseNumber: '40349-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Conoscere le configurazioni del sistema operativo
+- skill: Installare e aggiornare i sistemi client
+- skill: Gestire le applicazioni
+- skill: Gestire file e cartelle
+- skill: Gestire i dispositivi
+- skill: Conoscere la manutenzione del sistema operativo
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-349
+summary: |-
+  Questo corso di formazione MTA di tre giorni aiuta a prepararsi per Microsoft Technology Associate Exam 98-349 e a conoscere questi argomenti&#58; configurazioni del sistema operativo, installazione e aggiornamento dei sistemi client, gestione delle applicazioni, gestione di file e cartelle, gestione dei dispositivi e manutenzione del sistema operativo. Questo corso affronta gli stessi contenuti del Microsoft Academic Course (MOAC) per questo esame. Questo corso è aggiornato a supporto di Windows 10.
+
+  #### Profilo dei destinatari
+  Gli esami Microsoft Technology Associate (MTA) rappresentano la più recente suite di esami di certificazione di Microsoft che convalidano il possesso delle conoscenze necessarie per iniziare a gettare le basi di una carriera basata sulle tecnologie Microsoft. Questo programma è un punto di partenza ideale per intraprendere una carriera in ambito tecnologico. Presuppone che i candidati abbiano una qualche esperienza pratica o conoscenze precedenti, ma non necessariamente un’esperienza a livello professionale.
+prerequisitesSection: |-
+  Non sono previsti pre-requisiti per questo corso.
+outlineSection: |-
+  ### Modulo 1&#58; Installare e aggiornare i sistemi client
+
+  ### Modulo 2&#58; Conoscere le configurazioni del sistema operativo
+
+  ### Modulo 3&#58; Conoscere applicazioni native, strumenti, mobilità e gestione e assistenza in remoto
+
+  ### Modulo 4&#58; Gestire applicazioni, servizi e dischi
+
+  ### Modulo 5&#58; Gestire dispositivi
+
+  ### Modulo 6&#58; Conoscere la condivisione di file e funzioni di stampa
+
+  ### Modulo 7&#58; Manutenzione, aggiornamento e protezione di Windows 10
+
+  ### Modulo 8&#58; Conoscere i metodi di backup e ripristino
+
