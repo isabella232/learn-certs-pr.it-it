@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Administering Windows Server 2012
+metadata:
+  title: 'Exam 70-411: Administering Windows Server 2012'
+  description: 'Exam 70-411: Administering Windows Server 2012'
+uid: exam.70-411
+displayName: 70-411
+summary: |-
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  </div>
+
+  Questo esame è la seconda parte di una serie di tre esami è incentrato sulle competenze e le conoscenze necessarie ad amministrare un'infrastruttura di base Windows Server 2012 in un ambiente aziendale. Il superamento di questo esame convalida la capacità di un candidato di amministrare le attività richieste per mantenere un'infrastruttura di Windows Server 2012, come la gestione di utenti e gruppi, l'accesso alla rete e la sicurezza dei dati. Il superamento di questo esame e degli altri due esami conferma che un candidato dispone delle competenze e delle conoscenze necessarie per implementare, gestire, eseguire la manutenzione e distribuire servizi e infrastrutture in un ambiente Windows Server 2012.
+
+  <div style='font-weight&#58; bold;'><br/>Ci sono aggiornamenti degli esami in vigore dal 19 aprile 2018. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 411.</div>
+subTitle: Questo esame è la seconda parte di una serie di tre esami è incentrato sulle competenze e le conoscenze necessarie ad amministrare un'infrastruttura di base Windows Server 2012 in un ambiente aziendale. Il superamento di questo esame convalida la capacità di un candidato di amministrare le attività richieste per mantenere un'infrastruttura di Windows Server 2012, come la gestione di utenti e gruppi, l'accesso alla rete e la sicurezza dei dati. Il superamento di questo esame e degli altri due esami conferma che un candidato dispone delle competenze e delle conoscenze necessarie per implementare, gestire, eseguire la manutenzione e distribuire servizi e infrastrutture in un ambiente Windows Server 2012.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7jV
+practiceTestUrl: https://www.mindhub.com/70-411-Administering-Windows-Server-2012-p/mu-70-411_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-411&examname=Administering%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-411
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Distribuire, gestire ed eseguire la manutenzione dei server
+- Configurare servizi di stampa e file
+- Configurare servizi e accessi di rete
+- Configurare Server Infrastructure dei criteri di rete
+- Configurare e gestire Active Directory
+- Configurare e gestire i Criteri di gruppo
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20411
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-certification
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,413 @@
+### YamlMime:Course
+title: Developing SQL Databases
+metadata:
+  title: 'Course 20762-C: Developing SQL Databases'
+  description: 'Course 20762-C: Developing SQL Databases'
+uid: course.20762
+courseNumber: '20762-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Strutturare e implementare tabelle.
+- skill: Descrivere le strutture avanzate delle tabelle
+- skill: Verificare l'integrità dei dati tramite i vincoli.
+- skill: Descrivere gli indici, compresi gli indici Optimized e Columnstore
+- skill: Progettare e implementare viste.
+- skill: Progettare e implementare procedure archiviate.
+- skill: Progettare e implementare le funzioni definite dall’utente.
+- skill: Evitare la manipolazione dei dati con i trigger.
+- skill: Progettare e implementare tabelle in memoria.
+- skill: Implementare il codice gestito in SQL Server.
+- skill: Archiviare ed eseguire query sui dati XML.
+- skill: Usare i dati spaziali.
+- skill: Archiviare ed eseguire query su documenti Blob e di testo.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-762
+summary: |-
+  Questo corso con istruttore della durata di cinque giorni permette ai partecipanti di acquisire le conoscenze e le competenze necessarie per sviluppare un database di Microsoft SQL Server. Il corso mira a spiegare ai candidati come usare le funzionalità e gli strumenti di SQL Server per sviluppare un database.
+
+  #### Profilo dei destinatari
+  Il corso è principalmente rivolto ai professionisti IT che desiderino imparare a usare in modo professionale le funzionalità e le tecnologie di SQL Server per implementare un database. 
+  
+  Può essere frequentato anche da candidati che abbiano acquisito esperienza come sviluppatori su altre piattaforme di prodotti e che desiderino diventare esperti nell’implementazione di un database di SQL Server.
+prerequisitesSection: |-
+  - Conoscenze di base del sistema operativo Microsoft Windows e delle sue funzionalità principali.
+  - Una conoscenza lavorativa di Transact-SQL. 
+  - Una conoscenza lavorativa dei database relazionali.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione allo sviluppo di database
+  Prima di iniziare a lavorare con Microsoft SQL Server come sviluppatori o amministratori è importante comprendere bene la portata della piattaforma SQL Server. In particolare, è importante capire che SQL Server non è semplicemente un motore di database, ma una piattaforma completa per la gestione dei dati aziendali.
+
+  SQL Server offre una solida piattaforma dati per le aziende di tutte le dimensioni, oltre a un set completo di strumenti che semplificano e rendono più robusto lo sviluppo.
+  #### Lezioni
+  - Introduzione alla piattaforma di SQL Server
+  - Attività per lo sviluppo di database di SQL Server
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere la piattaforma di SQL Server. 
+  - Usare gli strumenti di amministrazione di SQL Server.
+
+
+  ### Modulo 2&#58; Progettare e implementare tabelle
+  Nei sistemi di gestione dei database relazionali (RDBMS) i dati degli utenti e del sistema vengono archiviati nelle tabelle. Ogni tabella è costituita da un set di righe che descrivono le entità e da un set di colonne che contengono gli attributi di un’entità. Ad esempio, una tabella Cliente può contenere delle colonne denominate NomeCliente e LimiteCredito, e una riga per ciascun cliente. In Microsoft SQL Server, le tabelle software per la gestione dei dati sono contenute all’interno di schemi che sono concettualmente molto simili alle cartelle che contengono i file del sistema operativo. Strutturare le tabelle è una delle attività più importanti che uno sviluppatore di database deve eseguire. Se una tabella non è strutturata correttamente, potrebbe essere successivamente impossibile eseguire query efficienti sui dati.
+
+  Dopo aver creato una struttura appropriata, è importante sapere come implementarla correttamente.
+  #### Lezioni
+  - Strutturare le tabelle
+  - Tipi di dati
+  - Usare gli schemi
+  - Creare e modificare tabelle
+
+
+  #### Lab&#58; Progettare e implementare tabelle
+  - Strutturare le tabelle
+  - Creare schemi
+  - Creare tabelle
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Strutturare le tabelle utilizzando chiavi di normalizzazione, primarie ed esterne.
+  - Usare le colonne identità.
+  - Comprendere i tipi di dati incorporati e utente.
+  - Usare gli schemi delle strutture del database per organizzare i dati e gestire la sicurezza degli oggetti.
+  - Usare le colonne calcolate e le tabelle temporanee.
+
+
+  ### Modulo 3&#58; Strutture tabelle avanzate
+  La struttura fisica di un database può influire significativamente sulla capacità del database di soddisfare i requisiti di archiviazione e prestazioni definiti dalle parti interessate. Progettare un’implementazione fisica di un database comporta pianificare i gruppi di file, stabilire come usare la suddivisione in partizioni per gestire le tabelle di grandi dimensioni e usare la funzione di compressione per migliorare l'archiviazione e le prestazioni. Le tabelle temporali sono una nuova funzionalità di SQL Server. Offrono una soluzione semplice per acquisire le modifiche apportate ai dati.
+  #### Lezioni
+  - Suddividere i dati in partizioni
+  - Comprimere i dati
+  - Tabelle temporali
+
+
+  #### Lab&#58; Usare le strutture avanzate delle tabelle
+  - Suddividere i dati in partizioni
+  - Comprimere i dati
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere le considerazioni relative all’uso di tabelle divise in partizioni in un database di SQL Server.
+  - Pianificare l’uso della compressione dei dati in un database di SQL Server.
+  - Usare le tabelle temporali per archiviare ed eseguire query sulle modifiche apportate ai dati.
+
+
+  ### Modulo 4&#58; Verificare l’integrità dei dati tramite i vincoli
+  La qualità dei dati contenuti nel database influisce significativamente sull’utilità e l’efficacia delle applicazioni a cui fanno riferimento e in ultima analisi incide sul successo o sul fallimento di un’azienda o un’iniziativa commerciale. Verificare l’integrità dei dati è essenziale per mantenere dati di alta qualità.
+
+  L’integrità dei dati deve essere verificata a tutti i livelli dell’applicazione, dall’inserimento o la raccolta iniziali fino all’archiviazione. Il software di gestione dei dati di Microsoft SQL Server offre numerose funzionalità che semplificano il processo.
+  #### Lezioni
+  - Imporre l’integrità dei dati
+  - Implementare l’integrità del dominio dei dati
+  - Implementare l’integrità delle entità e dei riferimenti
+
+
+  #### Lab&#58; Usare l’integrità dei dati tramite i vincoli
+  - Aggiungere vincoli
+  - Testare i vincoli
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere le opzioni per l’imposizione dell’integrità dei dati e i livelli a cui devono essere applicate.
+  - Implementare l’integrità dei domini utilizzando opzioni come i vincoli di controllo, univoci e predefiniti.
+  - Implementare l’integrità referenziale tramite i vincoli delle chiavi primarie ed esterne.
+
+
+  ### Modulo 5&#58; Introduzione agli indici
+  Un indice è una raccolta di pagine associate a una tabella. Vengono usati per migliorare le prestazioni delle query o per imporre l’univocità. Prima di imparare a implementare gli indici è consigliabile capire come funzionano, quanto è efficace utilizzare i diversi tipi di dati all’interno degli indici e come è possibile creare indici da più colonne. Questo modulo descrive le strutture delle tabelle che non hanno indici e illustra i diversi tipi di indici disponibili in Microsoft SQL Server.
+  #### Lezioni
+  - Principi di indicizzazione di base
+  - Tipi e indici di dati
+  - Indici Heap, Cluster e Non cluster
+  - Indici a colonna singola e compositi
+
+
+  #### Lab&#58; Implementare gli indici
+  - Creare un heap
+  - Creare un indice cluster
+  - Creare un indice covered
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere i concetti di indicizzazione di base.
+  - Determinare quale indice usare per i diversi tipi di dati.
+  - Descrivere le differenze tra gli indici di colonne singole e composite.
+
+
+  ### Modulo 6&#58; Progettare strategie di indicizzazione ottimizzate
+  Gli indici influenzano significativamente la capacità di SQL Server di recuperare i dati da un database in modo rapido ed efficiente. Questo modulo è incentrato su argomenti di indicizzazione avanzati tra cui indici inclusivi, istruzione INCLUDE, suggerimenti per le query, spaziatura e fattore di riempimento, statistiche, uso dei DMO, Database Tuning Advisor e Archivio query.
+  #### Lezioni
+  - Strategie di indicizzazione
+  - Gestire gli indici
+  - Piani di esecuzione
+  - Database Engine Tuning Advisor
+  - Archivio query
+
+
+  #### Lab&#58; Ottimizzare gli indici
+  - Usare l’Archivio query
+  - Indici Heap e Cluster
+  - Creare un indice covered
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Spiegare cos’è un indice inclusivo e quando usarlo.
+  - Descrivere i problemi associati alla gestione degli indici.
+  - Descrivere i piani di esecuzione effettivi e stimati.
+  - Spiegare in che modo Database Tuning Advisor può migliorare le prestazioni delle query.
+  - Spiegare come usare Archivio query per migliorare le prestazioni delle query.
+
+
+  ### Modulo 7&#58; Indici Columnstore
+  Introdotti con Microsoft SQL Server 2012, gli indici Columnstore vengono utilizzati dalle grandi aziende per le soluzioni con data warehouse di grandi dimensioni. Questo modulo mette in evidenza i vantaggi derivanti dall’uso di questi indici su set di dati di grandi dimensioni, i miglioramenti apportati agli indici Columnstore in SQL Server 2016 e spiega ciò che è necessario tenere conto per usare in modo efficace gli indici Columnstore nelle proprie soluzioni.
+
+  #### Lezioni
+  - Introduzione agli indici Columnstore
+  - Creare indici Columnstore
+  - Usare gli indici Columnstore
+
+
+  #### Lab&#58; Usare gli indici Columnstore
+  - Creare un indice Columnstore
+  - Creare una tabella Columnstore ottimizzata per la memoria
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere gli indici Columnstore e identificare scenari adatti per il loro uso.
+  - Creare indici Columnstore con o senza cluster.
+  - Illustrare le considerazioni da tener presente durante l’uso di indici Columstore.
+
+
+  ### Modulo 8&#58; Progettare e implementare viste
+  Questo modulo spiega come progettare e implementare le viste. Una vista è uno speciale tipo di query che viene archiviato e può essere usato in altre query, proprio come le tabelle. Nel caso di una vista, sul disco viene archiviata solo la definizione della query, non il set di risultati. L’unica eccezione è rappresentata dalle viste indicizzate in cui anche il set di risultati viene archiviato sul disco, proprio come una tabella.
+
+  Le viste semplificano la progettazione di un database offrendo uno strato di astrazione e nascondendo la complessità dei join delle tabelle. Le viste offrono anche un modo per proteggere i dati perché consentono di assegnare agli utenti autorizzazioni per usare una vista senza autorizzarli ad accedere agli oggetti sottostanti. Ciò significa che i dati possono essere mantenuti privati e visualizzati solo dagli utenti appropriati.
+  #### Lezioni
+  - Introduzione alle viste
+  - Creare e gestire le viste
+  - Considerazioni sulle prestazioni delle viste
+
+
+  #### Lab&#58; Progettare e implementare viste
+  - Creare viste standard
+  - Creare una vista aggiornabile
+  
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Sapere illustrare il ruolo delle viste nella progettazione dei database.
+  - Creare e gestire le viste.
+  - Sapere illustrare le considerazioni relative alle prestazioni delle viste.
+
+
+  ### Modulo 9&#58; Progettare e implementare procedure archiviate
+  Questo modulo spiega come progettare e implementare procedure archiviate.
+  #### Lezioni
+  - Introduzione alle procedure archiviate
+  - Usare le procedure archiviate
+  - Implementare le procedure archiviate parametrizzate
+  - Controllare il contesto di esecuzione
+
+
+  #### Lab&#58; Progettare e implementare procedure archiviate
+  - Creare procedure archiviate
+  - Creare procedure archiviate parametrizzate
+  - Cambiare il contesto di esecuzione delle procedure archiviate
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Spiegare cosa sono le procedure archiviate e illustrare i vantaggi che offrono.
+  - Progettare, creare e modificare procedure archiviate.
+  - Controllare il contesto di esecuzione delle procedure archiviate.
+  - Implementare procedure archiviate che usano parametri.
+
+
+  ### Modulo 10&#58; Progettare e implementare funzioni definite dall’utente
+  Le funzioni sono routine che vengono usate per incapsulare la logica utilizzata frequentemente. Il codice permette di richiamare la funzione anziché di ripetere la logica della funzione in più posizioni. Ciò semplifica la manutenzione del codice e il debugging.
+
+  Questo modulo spiega come progettare e implementare funzioni definite dall’utente (UDF) che impongono le regole aziendali o la coerenza dei dati. I partecipanti impareranno anche a modificare e aggiornare le funzioni esistenti.
+  #### Lezioni
+  - Panoramica delle funzioni
+  - Progettare e implementare funzioni scalari
+  - Progettare e implementare funzioni con valori di tabella
+  - Considerazioni sull’implementazione delle funzioni
+  - Alternative alle funzioni
+
+
+  #### Lab&#58; Progettare e implementare funzioni definite dall’utente
+  - Formattare i numeri telefonici
+  - Modificare una funzione esistente
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere i diversi tipi di funzioni.
+  - Progettare e implementare funzioni scalari.
+  - Progettare e implementare funzioni con valori di tabella (TVF).
+  - Descrivere le considerazioni relative all’implementazione delle funzioni.
+  - Descrivere le alternative alle funzioni.
+
+
+  ### Modulo 11&#58; Evitare la manipolazione dei dati con i trigger
+  I trigger DML (Data Manipulation Language) sono strumenti potenti che è possibile usare per imporre un dominio, un’entità, l’integrità dei dati di riferimento e una logica aziendale. L’imposizione dell’integrità aiuta a creare applicazioni affidabili. Questo modulo spiega cosa sono i trigger DML, come vengono usati per imporre l’integrità dei dati, illustra i diversi tipi di trigger disponibili e spiega come definirli in un database.
+
+
+  #### Lezioni
+  - Progettare trigger DML
+  - Implementare trigger DML
+  - Concetti avanzati sui trigger
+
+
+  #### Lab&#58; Evitare la manipolazione dei dati con i trigger
+  - Creare e testare i trigger di controllo
+  - Migliorare i trigger di controllo
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Progettare trigger DML
+  - Implementare trigger DML
+  - Descrivere i concetti avanzati dei trigger DML, come la nidificazione e la ricorrenza.
+
+
+  ### Modulo 12&#58; Usare le tabelle in memoria
+  Nel software di gestione dei dati Microsoft SQL Server 2014 sono state introdotte funzionalità per l’elaborazione delle transazioni online in memoria (OLTP) per migliorare i carichi di lavoro OLTP. In SQL Server sono stati aggiunti molti miglioramenti come la possibilità di modificare una tabella ottimizzata per la memoria senza ricrearla. Poiché le tabelle ottimizzate per la memoria sono principalmente archiviate nella memoria, le prestazioni risultano significativamente migliori perché è richiesto un minor numero di accessi al disco rigido.
+
+  Le procedure archiviate compilate in modo nativo migliorano significativamente le prestazioni rispetto alle procedure Transact-SQL interpretate in modo tradizionale.
+  #### Lezioni
+  - Tabelle ottimizzate per la memoria
+  - Procedure archiviate compilate in modo nativo
+
+
+  #### Lab&#58; Usare le funzionalità dei database in memoria
+  - Usare le tabelle ottimizzate per la memoria
+  - Usare le procedure archiviate compilate in modo nativo
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Usare le tabelle ottimizzate per la memoria per migliorare le prestazioni dei carichi di lavoro vincolati a blocchi.
+  - Usare le procedure archiviate compilate in modo nativo.
+
+
+  ### Modulo 13&#58; Implementare codice gestito in SQL Server
+  Ai professionisti esperti in SQL Server viene spesso chiesto di creare database che soddisfino specifici requisiti aziendali. La maggior parte di questi requisiti possono essere soddisfatti con Transact-SQL. Tuttavia, in alcuni casi è possibile che sia necessario aggiungere funzionalità che possano essere soddisfatte solo usando codice runtime in linguaggio comune (CLR).
+
+  Poiché in ogni nuova versione di SQL Server vengono aggiunte funzionalità è diminuita la necessità di usare codice gestito. Tuttavia, in alcuni casi può essere necessario creare aggregati, procedure archiviate, trigger, funzioni definite dall’utente o tipi definiti dall’utente. Per sviluppare questi oggetti è possibile usare il linguaggio .NET Framework.
+
+  Questo modulo spiega come usare il codice gestito CLR per creare oggetti database definiti dall’utente per SQL Server.
+  #### Lezioni
+  - Introduzione all’integrazione di CLR in SQL Server
+  - Implementare e pubblicare assembly CLR
+
+
+  #### Lab&#58; Implementare codice gestito in SQL Server
+  - Valutare il codice CLR proposto
+  - Creare una funzione CLR con valori scalari
+  - Creare una funzione CLR con i valori delle tabelle
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Spiegare l’importanza di integrare CLR in SQL Server. 
+  - Implementare e pubblicare gli assembly CLR con gli strumenti dati di SQL Server (SSDT).
+
+
+  ### Modulo 14&#58; Archiviare ed eseguire query sui dati XML in SQL Server
+  XML fornisce regole per codificare i documenti in un formato macchina. È diventato lo standard più diffuso per rappresentare le strutture dei dati perché evita la necessità di inviare documenti non strutturati. I server su cui è in esecuzione il software per la gestione dei dati di Microsoft SQL Server hanno talvolta la necessità di usare XML per scambiare i dati con altri sistemi. Molti strumenti di SQL Server offrono un’interfaccia basata su XML.
+  SQL Server offre un’ampia gamma di opzioni per la gestione di XML, sia per l'archiviazione che per l’esecuzione di query. Questo modulo descrive XML e mostra come archiviare i dati XML in SQL Server e come eseguire query sui dati XML.
+  La possibilità di eseguire direttamente query sui dati XML evita che sia necessario estrarre i dati in un formato relazionale prima di eseguire query SQL (Structured Query Language). Per elaborare in modo efficace i dati XML è necessario potere essere in grado di eseguire le query sui dati XML in molti modi&#58; restituendo i dati relazionali esistenti in formato XML ed eseguire query sui dati che sono già in formato XML.
+  #### Lezioni
+  - Introduzione a XML e agli schemi XML
+  - Archiviare i dati e gli schemi XML in SQL Server
+  - Implementare i tipi di dati XML
+  - Usare l’istruzione FOR XML di Transact-SQL
+  - Iniziare a usare XQuery
+  - Eseguire lo shredding di XML
+
+
+  #### Lab&#58; Archiviare ed eseguire query sui dati XML in SQL Server
+  - Stabilire quando usare XML
+  - Testare l’archiviazione dei dati XML nelle variabili
+  - Usare gli schemi XML
+  - Usare le query FOR XML
+  - Creare una procedura archiviata che restituisca dati XML
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere XML e gli schemi XML.
+  - Archiviare i dati XML e gli schemi XML associati in SQL Server.
+  - Implementare gli indici XML in SQL Server.
+  - Usare l’istruzione FOR XML di Transact-SQL.
+  - Usare le query XQuery di base.
+
+
+  ### Modulo 15&#58; Archiviare ed eseguire query sui dati spaziali in SQL Server
+  Questo modello descrive i dati spaziali e spiega come implementare questi dati in SQL Server.
+  #### Lezioni
+  - Introduzione ai dati spaziali
+  - Usare i tipi di dati spaziali con SQL Server
+  - Usare i dati spaziali nelle applicazioni
+
+
+  #### Lab&#58; Usare i dati spaziali con SQL Server
+  - Acquisire familiarità con i tipi di dati geometrici
+  - Aggiungere dati spaziali a una tabella esistente
+  - Trovare posizioni vicine
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere come archiviare i dati spaziali in SQL Server
+  - Usare i metodi di base dei tipi di dati GEOMETRY e GEOGRAPHY
+  - Eseguire query su database che contengano dati spaziali
+
+
+  ### Modulo 16&#58; Archiviare ed eseguire query su documenti BLOB e di testo in SQL Server
+  Tradizionalmente i database sono stati usati per archiviare le informazioni sotto forma di valori semplici - come valori interi, date e stringhe - diversi dai formati di dati più complessi come i documenti, i fogli di calcolo, i file di immagine e i file video. Poiché i sistemi supportati dai database sono diventati più complessi, gli amministratori hanno avuto la necessità di integrare questi dati di file più complessi con i dati strutturati nelle tabelle dei database. Ad esempio, in un database di prodotti può essere utile associare il record di un prodotto al manuale dell’assistenza o a un video contenente le istruzioni sul prodotto. SQL Server offre molti modi per integrare questi file - spesso chiamati BLOB (Binary Large Objects) - e consente di indicizzare i loro contenuti e includerli nei risultati delle ricerche. Questo modulo spiega come progettare e ottimizzare un database che includa BLOB.
+  #### Lezioni
+  - Considerazioni sui dati BLOB
+  - Usare FILESTREAM
+  - Usare ricerche full-text
+
+
+  #### Lab&#58; Archiviare ed eseguire query su documenti BLOB e di testo in SQL Server
+  - Abilitare e usare le colonne FILESTREAM
+  - Abilitare e usare le tabelle di file
+  - Usare un indice full-text
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere le considerazioni relative alla progettazione di database che includano dati BLOB.
+  - Descrivere i vantaggi e le considerazioni progettuali relativi all’uso di FILESTREAM per archiviare i dati BLOB in un file system Windows.
+  - Descrivere i vantaggi derivanti dall’uso dell’indicizzazione full-text e delle ricerche semantiche e spiegare come usare queste funzionalità per eseguire ricerche di dati, compresi quelli non strutturati, in SQL Server
+
+
+  ### Modulo 17&#58; Concorrenza di SQL Server
+  Questo modulo spiega come assegnare un nome, dichiarare, assegnare valori e usare le variabili. Spiega inoltre come archiviare i dati in un array.
+  Il controllo della concorrenza è una funzionalità critica dei sistemi di database multi-utente perché permette di mantenere l’uniformità dei dati nel caso in cui più utenti li modifichino contemporaneamente. Il modulo spiega anche come implementare la concorrenza in Microsoft SQL Server. Ai partecipanti verrà spiegato come SQL Server implementi i controlli di concorrenza e come possano usare le diverse modalità per configurare e usare le impostazioni di concorrenza.
+
+  #### Lezioni
+  - Concorrenza e transazioni
+  - Bloccare gli elementi interni
+
+
+  #### Lab&#58; Concorrenza di SQL Server
+  - Implementare l’isolamento delle istantanee
+  - Implementare il blocco a livello di partizione
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Descrivere la concorrenza e le transazioni in SQL Server.
+  - Descrivere il blocco di SQL Server.
+
+
+  ### Modulo 18&#58; Prestazioni e monitoraggio
+  Questo modulo spiega come assegnare un nome, dichiarare, assegnare valori e usare le variabili. Spiega inoltre come archiviare i dati in un array.
+  Fornisce inoltre informazioni su come misurare e monitorare le prestazioni dei database di SQL Server. Le prime due lezioni sono incentrate su Eventi estesi di SQL Server, ovvero su un sistema per la gestione degli eventi flessibile e agile incorporato nel motore dei database di Microsoft SQL Server. Queste lezioni sono dedicate ai concetti dell’architettura, alle strategie per la risoluzione dei problemi e agli scenari di utilizzo.
+  #### Lezioni
+  - Eventi estesi
+  - Usare gli eventi estesi
+  - Statistiche sulle query in tempo reale
+  - Ottimizzare la configurazione dei file dei database
+  - Metriche
+
+
+  #### Lab&#58; Monitorare, tracciare e creare baseline
+  - Raccogliere e analizzare i dati con Eventi estesi
+  - Implementare la metodologia baseline
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Sapere descrivere Eventi estesi e spiegare come usarli.
+  - Usare Eventi estesi.
+  - Sapere descrivere le statistiche sulle query in tempo reale.
+  - Ottimizzare la configurazione dei file dei database.
+  - Usare DMV e Monitoraggio delle prestazioni per creare baseline e raccogliere metriche sulle prestazioni.
+

@@ -1,0 +1,104 @@
+### YamlMime:Course
+title: 'Mobility & Devices Fundamentals: MTA Exam 98-368'
+metadata:
+  title: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+  description: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+uid: course.40368
+courseNumber: '40368-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Comprendere le configurazioni del dispositivo
+- skill: Conoscere l’accesso ai dati e la loro gestione
+- skill: Comprendere la sicurezza del dispositivo
+- skill: Conoscere i servizi cloud
+- skill: Conoscere l’Enterprise Mobility
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-368
+summary: |-
+  Questo corso di formazione MTA, della durata di tre giorni, è utile per prepararsi all’Esame Microsoft Technology Associate 98-368 e per acquisire nozioni sui seguenti argomenti&#58; configurazioni dei dispositivi, accesso e gestione dei dati, sicurezza dei dispositivi, servizi cloud ed Enterprise Mobiliy.
+
+  #### Profilo dei destinatari
+  Gli esami Microsoft Technology Associate (MTA) rappresentano la più recente suite di esami di certificazione di Microsoft che convalidano il possesso delle conoscenze necessarie per iniziare a gettare le basi di una carriera basata sulle tecnologie Microsoft. Questo programma è un punto di partenza ideale per intraprendere una carriera in ambito tecnologico. Presuppone che i candidati abbiano una qualche esperienza pratica o conoscenze precedenti, ma non necessariamente un’esperienza a livello professionale.
+outlineSection: |-
+  ### Modulo 1&#58; Conoscere le configurazioni dei dispositivi
+  #### Lezioni
+  - Configurare le opzioni dei dispositivi
+  - Configurare le impostazioni dei desktop
+  - Configurare la crittografia dei desktop
+  - Configurare gli aggiornamenti
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Configurare le opzioni del dispositivo
+  - Configurare le impostazioni del desktop
+  - Configurare la crittografia delle unità
+  - Configurare gli aggiornamenti
+
+
+  ### Modulo 2&#58; Conoscere l’accesso e la gestione dei dati
+  #### Lezioni
+  - Conoscere i servizi di archiviazione nel cloud
+  - Conoscere l’area di archiviazione locale
+  - Conoscere i file system
+  - Conoscere la condivisione di file e stampe
+  - Conoscere la crittografia dei dati
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Conoscere i servizi di archiviazione nel cloud
+  - Conoscere l’archiviazione locale
+  - Conoscere i file system
+  - Conoscere la condivisione di file e stampe
+  - Conoscere la crittografia dei dati
+
+
+  ### Modulo 3&#58; Conoscere la sicurezza dei dispositivi
+  #### Lezioni
+  - Conoscere le differenze tra Internet, intranet ed extranet
+  - Conoscere l’autenticazione degli utenti
+  - Conoscere le autorizzazioni
+  - Conoscere il malware
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Conoscere le differenze tra Internet, intranet e extranet
+  - Comprendere l'autenticazione dell'utente
+  - Comprendere le autorizzazioni
+  - Comprendere i malware
+
+
+  ### Modulo 4&#58; Conoscere i servizi cloud
+  #### Lezioni
+  - Conoscere i tipi di servizi cloud
+  - Conoscere Microsoft Intune
+  - Conoscere le funzionalità di Microsoft Intune
+  - Conoscere Microsoft Azure
+  - Conoscere le macchine virtuali
+  - Conoscere il ripristino di emergenza, l’alta disponibilità, la ridondanza e la tolleranza agli errori
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Conoscere i tipi di servizi cloud
+  - Conoscere Microsoft Intune e le sue funzionalità
+  - Conoscere Microsoft Azure
+  - Conoscere le macchine virtuali
+  - Conoscere il ripristino di emergenza, l’alta disponibilità, la ridondanza e la tolleranza agli errori
+
+
+  ### Modulo 5&#58; Conoscere l’Enterprise Mobility
+  #### Lezioni
+  - Conoscere ii servizi di identità
+  - Conoscere l’accesso ai dati aziendali
+  - Conoscere Bring Your Own Devices (BYOD)
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Conoscere i servizi di identità
+  - Conoscere l’accesso ai dati aziendali
+  - Conoscere Bring Your Own Devices (BYOD)
+

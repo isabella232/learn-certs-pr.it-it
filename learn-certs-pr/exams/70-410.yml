@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Installing and Configuring Windows Server 2012
+metadata:
+  title: 'Exam 70-410: Installing and Configuring Windows Server 2012'
+  description: 'Exam 70-410: Installing and Configuring Windows Server 2012'
+uid: exam.70-410
+displayName: 70-410
+summary: |-
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  </div>
+
+  Questo esame è la prima parte di una serie di tre esami incentrate sulle competenze e le conoscenze necessarie a implementare un'infrastruttura di base Windows Server 2012 in un ambiente aziendale esistente. Il superamento dell'esame convalida la capacità di un candidato di implementare e configurare i servizi di base di Windows Server 2012, come Active Directory e i servizi di rete. Il superamento di questo esame e degli altri due esami conferma che un candidato dispone delle competenze e delle conoscenze necessarie per implementare, gestire, eseguire la manutenzione e distribuire servizi e infrastrutture in un ambiente Windows Server 2012.
+
+  <div style='font-weight&#58; bold;'><br/>A partire da gennaio 2014, questo esame include contenuti riguardanti <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLTr">Windows Server 2012 R2</a>.</div>
+subTitle: Questo esame è la prima parte di una serie di tre esami incentrate sulle competenze e le conoscenze necessarie a implementare un'infrastruttura di base Windows Server 2012 in un ambiente aziendale esistente. Il superamento dell'esame convalida la capacità di un candidato di implementare e configurare i servizi di base di Windows Server 2012, come Active Directory e i servizi di rete. Il superamento di questo esame e degli altri due esami conferma che un candidato dispone delle competenze e delle conoscenze necessarie per implementare, gestire, eseguire la manutenzione e distribuire servizi e infrastrutture in un ambiente Windows Server 2012.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJk
+practiceTestUrl: https://www.mindhub.com/70-410-Installing-and-Configuring-Windows-Server-p/mu-70-410_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-410&examname=Installing%20and%20Configuring%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-410
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Installare e configurare server (15-20%)
+- Configurare ruoli e funzionalità dei server (15-20%)
+- Configurare Hyper-V (15-20%)
+- Distribuire e configurare i servizi di rete di base (15-20%)
+- Installare e amministrare Active Directory (15-20%)
+- Creare e gestire i Criteri di gruppo (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20410
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-certification
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedere una sistemazione
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

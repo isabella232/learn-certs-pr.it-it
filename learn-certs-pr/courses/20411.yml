@@ -1,0 +1,295 @@
+### YamlMime:Course
+title: Administering Windows Server® 2012
+metadata:
+  title: 'Course 20411-D: Administering Windows Server® 2012'
+  description: 'Course 20411-D: Administering Windows Server® 2012'
+uid: course.20411
+courseNumber: '20411-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurare e risolvere i problemi relativi a Domain Name System (DNS)
+- skill: Eseguire la manutenzione dei servizi di Domain Name System
+- skill: Gestire utenti e account di servizio
+- skill: Implementare un’infrastruttura criteri di gruppo
+- skill: Gestire i desktop utenti con i criteri di gruppo
+- skill: Installare, configurare e risolvere i problemi relativi ai server dei criteri di rete
+- skill: Implementare la protezione per l’accesso alla rete
+- skill: Implementare l’accesso remoto
+- skill: Ottimizzare i servizi file
+- skill: Configurare la crittografia e il controllo avanzato
+- skill: Distribuire e gestire le immagini del server
+- skill: Implementare le gestione degli aggiornamenti
+- skill: Monitorare Windows Server 2012
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-411
+summary: |-
+  Questo corso Microsoft ufficiale, della durata di cinque giorni, è la soluzione ideale per acquisire nozioni teoriche e pratiche per amministrare Windows Server 2012, tra cui Windows Server 2012 R2. Questo corso è la prima parte di una serie di tre corsi che consentono di acquisire le competenze e le conoscenze pratiche necessarie per implementare un'infrastruttura di base di Windows Server 2012 in un ambiente aziendale esistente. 
+
+  Complessivamente, i tre corsi spiegano come implementare, gestire, eseguire la manutenzione e distribuire i servizi e l’infrastruttura in un ambiente Windows Server 2012. Benché le competenze e le attività di questo corso siano citate anche negli altri corsi, questo corso in particolare è incentrato sulle attività amministrative necessarie per eseguire la manutenzione dell’infrastruttura di Windows Server 2012, come la configurazione e la risoluzione dei problemi relativi alla risoluzione dei nomi, la gestione di utenti e dei gruppi di utenti con Active Directory Domain Services (AD DS) e i criteri di gruppo, l’implementazione dell’accesso remoto come DirectAccess, le reti VPN e il proxy applicazione Web, l’implementazione di criteri di rete e della protezione per l’accesso alla rete, la sicurezza dei dati, la distribuzione e la manutenzione delle immagini dei server e sulla gestione e sul monitoraggio degli ambienti Windows Server 2012. 
+
+  Questo corso è direttamente associato ed è la scelta ideale per acquisire le competenze pratiche per sostenere l’Esame Microsoft Certified Solutions Associate (MCSA)&#58; [411&#58; Amministrare Windows Server 2012](https://www.microsoft.com/learning/exam-70-411.aspx) che è il primo dei tre esami richiesti per sostenere per ottenere la qualifica [MCSA&#58; Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx). 
+
+  Nei laboratori di questo corso vengono usati Windows Server 2012 R2 e Windows 8.1.
+
+  #### Profilo dei destinatari
+  Questo corso è pensato per i professionisti IT che hanno esperienza pratica nell’uso di ambienti Windows Server 2008 o Windows Server 2012 e che desiderano acquisire le nozioni e le competenze necessarie per poter gestire ed eseguire la manutenzione dell’infrastruttura di base richiesta per gli ambienti Windows Server 2012 e Windows Server 2012 R2. Lo scopo principale è consentire ai partecipanti di espandere la distribuzione iniziale dei servizi e dell’infrastruttura di Windows Server 2012 e di permettere loro di acquisire le competenze necessarie per gestire ed eseguire la manutenzione di un dominio basato su un ambiente Windows Server 2012, oltre a competenze in aree quali la gestione di utenti e gruppi, l’accesso alla rete e la sicurezza dei dati. I partecipanti generalmente interessati a prendere parte a questi corso includono
+  - Amministratori di Windows Server esperti nell’uso di Windows Server 2008 o Windows Server 2012 che desiderino acquisire le competenze necessarie per eseguire le attività di gestione e manutenzione giornaliere in un ambiente Windows Server 2012 o Windows Server 2012 R2.
+  - Professionisti IT che desiderino sostenere l’Esame [411&#58; Administering Windows Server 2012](https://www.microsoft.com/learning/exam-70-411.aspx)-
+  - Professionisti IT che desiderino sostenere gli esami Microsoft Certified Solutions Expert (MCSE) relativi ai DataCenter, all’infrastruttura desktop, alla messaggistica, alla collaborazione e alle comunicazioni e che potrebbero essere interessati a questo esame per prepararsi agli esami Microsoft Certified Solutions Associate (MCSA), che sono considerati pre-requisiti per determinate specializzazioni.
+prerequisitesSection: |-
+  Prima di partecipare a questo corso, i partecipanti devono&#58;
+  - Avere competenze e conoscenze relativamente all’implementazione e alla configurazione iniziali dei servizi di base di Windows Server, tra cui Active Directory Domain Services (AD DS), i servizi di rete e Microsoft Hyper-V. 
+
+  I pre-requisiti per questo corso possono essere soddisfatti dimostrando di avere le conoscenze equivalenti a quelle del corso [20410D&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20410D) o frequentando il corso stesso, che è appunto incentrato sulle conoscenze e le competenze richieste.
+outlineSection: |-
+  ### Modulo 1&#58; Configurare e risolvere i problemi relativi a Domain Name System
+  Questo modulo spiega come configurare e risolvere i problemi relativi a DNS, oltre che come replicare e memorizzare DNS nella cache.
+  #### Lezioni
+  - Configurare il ruolo server di DNS
+  - Configurare le zone DNS
+  - Configurare i trasferimenti delle zone DNS
+  - Gestire e risolvere i problemi relativi a DNS
+
+
+  #### Lab&#58; Configurare e risolvere i problemi di DNS
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+
+  - Installare e configurare il ruolo server di DNS
+  - Creare e configurare le zone DNS
+  - Configurare i trasferimenti delle zone DNS
+  - Gestire e risolvere i problemi relativi a DNS
+
+
+  ### Modulo 2&#58; Eseguire la manutenzione dei servizi Active Directory Domain
+  Questo modulo spiega come implementare controller di dominio virtualizzati e un controller di dominio di sola lettura (RODC). Spiega anche come eseguire le attività più comuni di AD DS e come gestire il database di AD DS.
+  #### Lezioni
+  - Panoramica di AD DS
+  - Implementare controller di dominio virtualizzati
+  - Implementare RODC
+  - Amministrazione AD DS
+  - Gestire il database di AD DS
+
+
+  #### Lab&#58; Eseguire la manutenzione di AD DS
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Implementare controller di dominio virtualizzati
+  - Implementare RODC
+  - Amministrare AD DS
+  - Gestire il database di AD DS
+
+
+  ### Modulo 3&#58; Gestire utenti e account di servizio
+  Questo modulo spiega come creare, configurare e automatizzare la creazione di account utente. Spiega anche come configurare le proprietà correlate agli account degli oggetti utente. Spiega infine come creare e amministrare gli account di servizio gestiti.
+  #### Lezioni
+  - Configurare i criteri per le password e le impostazioni di blocco degli account utenti
+  - Configurare gli account di servizio gestiti
+
+
+  #### Lab&#58; Gestire gli utenti e gli account di servizio
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare i criteri per le password e le impostazioni di blocco per gli account utente
+  - Configurare gli account di servizio gestiti
+
+
+  ### Modulo 4&#58; Implementare un’infrastruttura GPO
+  Questo modulo spiega come implementare un’infrastruttura GPO. Spiega anche come eseguire attività di gestione GPO comuni e come gestire GPO con Windows PowerShell. Vengono fornite anche spiegazioni su come risolvere i problemi relativi a GPO.
+  #### Lezioni
+  - Introduzione a GPO
+  - Implementare e amministrare GPO
+  - Ambito dei criteri di gruppo ed elaborazione dei criteri di gruppo
+  - Risoluzione dei problemi relativi all’applicazione dei criteri di gruppo
+
+
+  #### Lab&#58; Implementare un'infrastruttura GPO
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+
+  - Spiegare in che cosa consiste un criterio di gruppo
+  - Implementare e amministrare i criteri di gruppo (GPO)
+  - Gestire l’ambito di GPO ed elaborare i criteri di gruppo
+  - Risolvere i problemi relativi all’applicazione dei criteri di gruppo
+
+
+  ### Modulo 5&#58; Gestire i desktop utente con i criteri di gruppo
+  Questo modulo spiega come utilizzare gli oggetti GPO per implementare gli ambienti desktop a livello aziendale usando modelli amministrativi, il reindirizzamento delle cartelle, le preferenze dei criteri di gruppo e, laddove è possibile, usando la distribuzione del software per installare e aggiornare i programmi dell’applicazione. È importante sapere come usare le varie funzioni GPO in modo da saper configurare le impostazioni dei computer degli utenti in modo corretto.
+  #### Lezioni
+  - Implementare i modelli amministrativi
+  - Configurare il reindirizzamento delle cartelle e gli script
+  - Configurare le preferenze per i criteri di gruppo
+  - Gestire il software con i criteri di gruppo
+
+
+  #### Lab&#58; Gestire i desktop degli utenti con i criteri di gruppo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare il reindirizzamento delle cartelle e gli script con GPO
+  - Descrivere e implementare i modelli amministrativi
+  - Configurare le preferenze di GPO
+  - Distribuire il software con i criteri di gruppo
+
+
+  ### Modulo 6&#58; Installare, configurare e risolvere i problemi relativi al ruolo server dei criteri di rete
+  Questo modulo spiega come installare e configurare NPS e i client e i server RADIUS. Illustra anche i metodi di autenticazione NPS. Descrive i metodi di autenticazione NPS e spiega come monitorare e risolvere i problemi di NPS.
+  #### Lezioni
+  - Installare e configurare il server dei criteri di rete
+  - Configurare i client e i server RADIUS
+  - Metodi di autenticazione NPS
+  - Monitorare e risolvere i problemi relativi al server dei criteri di rete
+
+
+  #### Lab&#58; Installare e configurare un server dei criteri di rete
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Installare e configurare un server di criteri di rete
+  - Configurare client e server con il protocollo Remote Authentication Dial-In User Service (RADIUS)
+  - Illustrare i metodi di autenticazione NPS
+  - Monitorare e risolvere i problemi relativi a NPS
+
+
+  ### Modulo 7&#58; Implementare l’accesso di rete
+  Questo modulo spiega come configurare, monitorare e risolvere i problemi relativi a NAP. Spiega anche come NAP possa essere utile per proteggere la rete e illustra i diversi processi di applicazione NAP.
+  #### Lezioni
+  - Panoramica della protezione all'accesso alla rete
+  - Panoramica dei processi di applicazione NAP
+  - Configurare NAP
+  - Configurare l’applicazione IPSec per NAP
+  - Monitorare e risolvere i problemi relativi a NAP
+
+
+  #### Lab&#58; Implementare la protezione dell’accesso alla rete
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere come NAP possa essere utile per proteggere la rete
+  - Descrivere i diversi processi di applicazione di NAP
+  - Configurare NAP
+  - Monitorare e risolvere i problemi relativi a NAP
+
+
+  ### Modulo 8&#58; Implementare l’accesso remoto
+  In questo modulo i partecipanti impareranno come implementare e gestire l'accesso remoto in Windows Server 2012. Verrà spiegato anche come implementare DirectAccess tramite Attività iniziali guidate, come implementare e gestire un’infrastruttura DirectAccess avanzata e come implementare una VPN.
+  #### Lezioni
+  - Panoramica dell’accesso remoto
+  - Implementare DirectAccess tramite le Attività iniziali guidate
+  - Implementare e gestire un’infrastruttura DirectAccess avanzata
+  - Implementare una VPN
+  - Implementare un proxy applicazione Web
+
+
+  #### Lab&#58; Implementare DirectAccess con le Attività iniziali guidate
+
+  #### Lab&#58; Distribuire una soluzione DirectAccess avanzata
+
+  #### Lab&#58; Implementare una VPN
+
+  #### Lab&#58; Implementare un proxy applicazione Web
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Installare e gestire un ruolo Accesso remoto nel sistema operativo Windows Server 2012
+  - Implementare DirectAccess tramite le Attività iniziali guidate
+  - Implementare e gestire un’infrastruttura DirectAccess avanzata
+  - Implementare un accesso VPN
+  - Implementare un proxy applicazione Web
+
+
+  ### Modulo 9&#58; Ottimizzare i servizi file
+  Questo modulo illustra le quote di configurazione FSRM, lo screening dei file e i rapporti di archiviazione, oltre a spiegare come implementare la gestione delle classificazioni e le attività di gestione dei file. Illustra anche i componenti di DFS. Spiega infine come configurare gli spazi di nome DFS e la replica DFS.
+  #### Lezioni
+  - Panoramica di FSRM
+  - Usare FSRM per gestire le quote, eseguire lo screening dei file, creare rapporti di archiviazione
+  - Implementare attività di classificazione e gestione dei file
+  - Panoramica di DFS
+  - Configurare gli spazi di nome DFS
+  - Configurare e risolvere i problemi relativi alla replica DFS
+
+
+  #### Lab&#58; Configurare le quote e lo screening dei file con File Server Resource Manager (FSRM)
+
+  #### Lab&#58; Implementare il file system distribuito
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere File Server Resource Manager (FSRM) nel sistema operativo Windows Server 2012
+  - Usare FRSM per gestire le quote, eseguire lo screening dei file e creare rapporti di archiviazione
+  - Implementare attività di classificazione e gestione dei file
+  - Descrivere il file system distribuito (DFS)
+  - Configurare gli spazi di nomi DFS
+  - Configurare e risolvere i problemi relativi alla replica di DFS
+
+
+  ### Modulo 10&#58; Configurare la crittografia e il controllo avanzato
+  Questo modulo spiega come crittografare i file con EFS e come configurare le funzioni di controllo avanzato.
+  #### Lezioni
+  - Crittografare le unità con BitLocker
+  - Crittografare i file con EFS
+  - Configurare il controllo avanzato
+
+
+  #### Lab&#58; Configurare la crittografia e il controllo avanzato
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Proteggere i dati con la crittografia delle unità BitLocker
+  - Crittografare i file con Encrypting File System (EFS)
+  - Configurare il controllo avanzato
+
+
+  ### Modulo 11&#58; Distribuire ed eseguire la manutenzione delle immagini dei server
+  Questo modulo spiega come creare e gestire le immagini dei server con Servizi di distribuzione di Windows
+  #### Lezioni
+  - Panoramica di Servizi di distribuzione di Windows
+  - Gestire le immagini
+  - Implementare la distribuzione con Servizi di distribuzione di Windows
+  - Amministrare Servizi di distribuzione di Windows
+
+
+  #### Lab&#58; Usare Servizi di distribuzione di Windows per distribuire Windows Server 2012
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le funzioni e funzionalità più importanti di Servizi di distribuzione di Windows
+  - Gestire le immagini con gli strumenti di Windows Assessment and Deployment Kit (Windows ADK)
+  - Configurare i Servizi di distribuzione di Windows in Windows Server 2012
+  - Eseguire distribuzioni con Servizi di distribuzione di Windows
+
+
+  ### Modulo 12&#58; Implementare la gestione degli aggiornamenti
+  Questo modulo spiega come usare Windows Server Update Services (WSUS) per distribuire aggiornamenti ai server e client Windows.
+  #### Lezioni
+  - Panoramica di WSUS
+  - Distribuire aggiornamenti con WSUS
+
+
+  #### Lab&#58; Implementare la gestione degli aggiornamenti
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere il ruolo di WSUS
+  - Descrivere il processo di gestione degli aggiornamenti con WSUS
+  - Distribuire gli aggiornamenti con WSUS
+
+
+  ### Modulo 13&#58; Monitorare Windows Server 2012
+  Questo modulo illustra gli strumenti di monitoraggio disponibili in Windows Server 2012 e spiega come usare Monitor di prestazioni e monitorare gli eventi.
+  #### Lezioni
+  - Strumenti di monitoraggio
+  - Usare Monitor di prestazioni
+  - Monitorare i registri eventi
+
+
+  #### Lab&#58; Monitorare Windows Server 2012
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+
+  - Descrivere gli strumenti di monitoraggio per il sistema operativo Windows Server 2012
+  - Usare Monitor di prestazioni per visualizzare e analizzare le statistiche delle prestazioni dei programmi in esecuzione sui server
+  - Monitorare i registri degli eventi per visualizzare e interpretare gli eventi registrati
+

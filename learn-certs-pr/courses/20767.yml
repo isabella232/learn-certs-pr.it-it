@@ -1,0 +1,337 @@
+### YamlMime:Course
+title: Implementing a SQL Data Warehouse
+metadata:
+  title: 'Course 20767-C: Implementing a SQL Data Warehouse'
+  description: 'Course 20767-C: Implementing a SQL Data Warehouse'
+uid: course.20767
+courseNumber: '20767-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere gli elementi principali di una soluzione di data warehouse
+- skill: Descrivere i principali elementi hardware di cui tenere conto per creare un data warehouse
+- skill: Implementare una struttura logica per un data warehouse
+- skill: Implementare una struttura fisica per un data warehouse
+- skill: Creare indici Columnstore
+- skill: Implementare un data warehouse in Azure SQL Data Warehouse
+- skill: Descrivere le funzionalità principali di SSIS
+- skill: Implementare un flusso dati con SSIS
+- skill: Implementare un flusso di controllo utilizzando vincoli per le attività e la precedenza
+- skill: Creare pacchetti dinamici che includano variabili e parametri
+- skill: Eseguire il debugging dei pacchetti SSIS
+- skill: Descrivere le considerazioni di cui tenere conto nell’implementare una soluzione ETL
+- skill: Implementare Data Quality Services
+- skill: Implementare un modello Master Data Services
+- skill: Spiegare come usare i componenti personalizzati per estendere SSIS
+- skill: Distribuire progetti SSIS
+- skill: Descrivere BI e gli scenari BI più comuni
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-767
+summary: |-
+  Questo corso con istruttore della durata di cinque giorni permette ai partecipanti di acquisire le conoscenze e le competenze necessarie per provisioning un database di Microsoft SQL Server. Il corso spiega come eseguire il provisioning di SQL Server sia localmente che in Azure e descrive in particolare come eseguire una nuova installazione e una migrazione da un’installazione esistente.
+
+  #### Profilo dei destinatari
+  Il corso è principalmente destinato ai professionisti che si occupano di database e che desiderino diventare sviluppatori BI. I candidati dovranno effettuare una serie di attività pratiche per creare soluzioni BI, come implementare un data warehouse, ETL e pulire i dati.
+prerequisitesSection: |-
+  Oltre alla propria esperienza professionale, i candidati che decidono di seguire questo corso di formazione devono già possedere le seguenti conoscenze tecniche&#58;
+  - Conoscenze di base del sistema operativo Microsoft Windows e delle sue funzionalità principali.
+  - Una conoscenza lavorativa dei database relazionali.
+  - Una certa esperienza nella progettazione di database.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione ai data warehouse
+  Questo modulo illustra i concetti alla base dei data warehouse e fornisce alcune considerazioni a livello di architettura.
+  #### Lezioni
+  - Panoramica dei data warehouse
+  - Elementi di cui tenere conto per creare una soluzione di data warehouse
+
+
+  #### Lab&#58; Esplorare una soluzione di data warehouse
+  - Esplorare le origini dati
+  - Esplorare un processo ETL
+  - Esplorare un data warehouse
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere gli elementi principali di una soluzione di data warehouse
+  - Descrivere le considerazioni principali di cui tenere conto per sviluppare una soluzione di data warehouse
+
+
+  ### Modulo 2&#58; Pianificare l’infrastruttura di un data warehouse
+  Questo modulo descrive gli elementi hardware di cui è necessario tenere conto al momento della creazione di un data warehouse.
+  #### Lezioni
+  - Considerazioni relative all’infrastruttura di un data warehouse.
+  - Pianificare l’hardware per un data warehouse.
+
+
+  #### Lab&#58; Pianificare l’infrastruttura di un data warehouse
+  - Pianificare l’hardware per un data warehouse
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere i principali elementi hardware di cui tenere conto per creare un data warehouse
+  - Spiegare come usare le architetture di riferimento e le appliance dei data warehouse per creare un data warehouse
+
+
+  ### Modulo 3&#58; Progettare e implementare un data warehouse
+  Questo modulo spiega come progettare e implementare uno schema per un data warehouse.
+  #### Lezioni
+  - Panoramica della struttura di un data warehouse
+  - Progettare tabelle delle dimensioni
+  - Progettare tabelle dei fatti
+  - Struttura fisica di un data warehouse
+
+
+  #### Lab&#58; Implementare lo schema di un data warehouse
+  - Implementare uno schema star
+  - Implementare uno schema snowflake
+  - Implementare una tabelle delle dimensioni temporali
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Implementare una struttura logica per un data warehouse
+  - Implementare una struttura fisica per un data warehouse
+
+
+  ### Modulo 4&#58; Indici Columnstore
+  Questo modulo descrive gli indici Columnstore.
+  #### Lezioni
+  - Introduzione agli indici Columnstore
+  - Creare indici Columnstore
+  - Usare gli indici Columnstore
+
+
+  #### Lab&#58; Usare gli indici Columnstore
+  - Creare un indice Columnstore nella tabella FactProductInventory
+  - Creare un indice Columnstore nella tabella FactInternetSales
+  - Creare una tabella Columnstore ottimizzata per la memoria
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Creare indici Columnstore
+  - Usare gli indici Columnstore
+
+
+  ### Modulo 5&#58; Implementare un data warehouse in Azure SQL Data Warehouse
+  Questo modulo descrive le istanze di Azure SQL Data Warehouse e spiega come implementarle.
+  #### Lezioni
+  - Vantaggi d Azure SQL Data Warehouse
+  - Implementare un data warehouse in Azure SQL Data Warehouse
+  - Sviluppare un’istanza di Azure SQL Data Warehouse
+  - Eseguire la migrazione ad Azure SQ Data Warehouse
+  - Copiare i dati con Azure Data Factory
+
+
+  #### Lab&#58; Implementare un data warehouse in Azure SQL Data Warehouse
+  - Creare un database Azure SQL Data Warehouse
+  - Eseguire la migrazione a un database Azure SQL Data Warehouse
+  - Copiare i dati con Azure Data Factory
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere i vantaggi di Azure SQL Data Warehouse
+  - Implementare Azure SQL Data Warehouse
+  - Descrivere le considerazioni di cui tenere presente nello sviluppare un’istanza di Azure SQL Data Warehouse
+  - Pianificare la migrazione ad Azure SQL Data Warehouse
+
+
+  ### Modulo 6&#58; Creare una soluzione ETL
+  Al termine di questo modulo i partecipanti dovrebbero essere in grado di implementare un flusso dati in un pacchetto SSIS.
+  #### Lezioni
+  - Introduzione a ETL con SSIS
+  - Esplorare i dati di origine
+  - Implementare un flusso dati
+
+
+  #### Lab&#58; Implementare un flusso dati in un pacchetto SSIS
+  - Esplorare i dati di origine
+  - Trasferire i dati con un’attività riga di dati
+  - Usare i componenti di trasformazione in una riga di dati
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere ETL con SSIS
+  - Esplorare i dati di origine
+  - Implementare un flusso di dati
+
+
+  ### Modulo 7&#58; Implementare un flusso di controllo in un pacchetto SSIS
+  Questo modulo spiega come implementare un flusso di controllo in un pacchetto SSIS.
+  #### Lezioni
+  - Introduzione al flusso di controllo
+  - Creare pacchetti dinamici
+  - Usare i contenitori
+  - Gestire la coerenza.
+
+
+  #### Lab&#58; Implementare un flusso di controllo in un pacchetto SSIS
+  - Usare le attività e la precedenza in un flusso di controllo
+  - Usare variabili e parametri
+  - Usare i contenitori
+
+
+  #### Lab&#58; Usare transazioni e punti di controllo
+  - Usare le transazioni
+  - Usare i checkpoint
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere il flusso di controllo
+  - Creare pacchetti dinamici
+  - Usare i contenitori
+
+
+  ### Modulo 8&#58; Eseguire il debug e risolvere i problemi relativi ai pacchetti SSIS
+  Questo modulo spiega come eseguire il debug e risolvere i problemi relativi ai pacchetti SSIS.
+  #### Lezioni
+  - Eseguire il debug di un pacchetto SSIS
+  - Accedere agli eventi dei pacchetti SSIS
+  - Gestire gli errori in un pacchetto SSIS
+
+
+  #### Lab&#58; Eseguire il debug e risolvere i problemi relativi a un pacchetto SSIS
+  - Eseguire il debug di un pacchetto SSIS
+  - Registrare l’esecuzione di un pacchetto SSIS
+  - Implementare un gestore eventi
+  - Gestire gli errori in un flusso dati
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Eseguire il debug di un pacchetto SSIS
+  - Registrare gli eventi di un pacchetto SSIS
+  - Gestire gli errori in un pacchetto SSIS
+
+
+  ### Modulo 9&#58; Implementare un’estrazione dei dati
+  Questo modulo spiega come implementare una soluzione SSIS che supporti carichi DW incrementali e la modifica dei dati.
+  #### Lezioni
+  - Introduzione al processo ETL incrementale
+  - Estrarre i dati modificati
+  - Caricare i dati modificati
+  - Tabelle temporali
+
+
+  #### Lab&#58; Estrarre i dati modificati
+  - Usare una colonna Datetime per estrarre i dati in modo incrementale
+  - Usare Change Data Capture
+  - Usare l’attività di controllo CDC
+  - Usare il rilevamento delle modifiche
+
+
+  #### Lab&#58; Caricare un data warehouse
+  - Caricare i dati dalle tabelle CDC di output
+  - Usare la trasformazione di ricerca per inserire o aggiornare i dati della dimensione
+  - Implementare dimensioni che cambiano lentamente
+  - Usare l’istruzione Merge
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere una soluzione ETL incrementale
+  - Estrarre i dati modificati
+  - Caricare i dati modificati
+  - Descrivere le tabelle temporali
+
+
+  ### Modulo 10&#58; Imporre la qualità dei dati
+  Questo modulo spiega come implementare la pulizia dei dati con Microsoft Data Quality Services.
+  #### Lezioni
+  - Introduzione a Quality Data Services
+  - Usare Data Quality Services per pulire i dati
+  - Usare Data Quality Services per abbinare i dati
+
+
+  #### Lab&#58; Pulire i dati
+  - Creare una Knowledge Base DQS
+  - Usare un progetto DQS per pulire i dati
+  - Usare DQS in un pacchetto SSIS
+
+
+  #### Lab&#58; Deduplicare i dati
+  - Creare criteri di abbinamento
+  - Usare un progetto DS per abbinare i dati
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere Data Quality Services
+  - Pulire i dati con Data Quality Services
+  - Abbinare i dati con Data Quality Services
+  - Deduplicare i dati con Data Quality Services
+
+
+  ### Modulo 11&#58; Usare Master Data Services
+  Questo modulo spiega come implementare Master Data Services per imporre l’integrità dei dati all’origine.
+  #### Lezioni
+  - Introduzione a Master Data Services
+  - Implementare un modello Master Data Services
+  - Gerarchie e raccolte
+  - Creare un hub dati master
+
+
+  #### Lab&#58; Implementare Master Data Services
+  - Creare un modello Master Data Services
+  - Usare il modulo aggiuntivo Master Data Services per Excel
+  - Imporre le regole aziendali
+  - Caricare i dati in un modello
+  - Usare i dati di Master Data Services
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere i concetti principali di Master Data Services
+  - Implementare un modello Master Data Services
+  - Gestire i dati master
+  - Creare un hub dati master
+
+
+  ### Modulo 12&#58; Estendere SQL Server Integration Services (SSIS)
+  Questo modulo spiega come estendere SSIS con script e componenti personalizzati.
+  #### Lezioni
+  - Usare gli script in SSIS
+  - Usare componenti personalizzati in SSIS
+
+  
+  #### Lab&#58; Usare gli script
+  - Usare un’attività di scripting
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Usare componenti personalizzati in SSIS
+  - Usare gli script in SSIS
+
+
+  ### Modulo 13&#58; Distribuire e configurare pacchetti SSIS
+  Questo modulo spiega come distribuire e configurare i pacchetti SSIS.
+  #### Lezioni
+  - Panoramica di una distribuzione SSIS
+  - Distribuire i progetti SSIS
+  - Pianificare l’esecuzione dei pacchetti SSIS
+
+
+  #### Lab&#58; Distribuire e configurare i pacchetti SSIS
+  - Creare un catalogo SSIS
+  - Distribuire un progetto SSIS
+  - Creare ambienti per una soluzione SSIS
+  - Eseguire un pacchetto SSIS in SQL Server Management Studio
+  - Pianificare i pacchetti SSIS con Agente SQL Server
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Descrivere una distribuzione SSIS
+  - Distribuire un pacchetto SSIS
+  - Pianificare l’esecuzione di un pacchetto SSIS
+
+
+  ### Modulo 14&#58; Usare i dati di un data warehouse
+  Questo modulo spiega come eseguire il debug e risolvere i problemi relativi ai pacchetti SSIS.
+  #### Lezioni
+  - Introduzione alla business intelligence
+  - Introduzione all’analisi dei dati
+  - Introduzione ai rapporti
+  - Analizzare i dati con Azure SQL Data Warehouse
+
+
+  #### Lab&#58; Usare un data warehouse
+  - Esplorare la creazione di rapporti sui servizi
+  - Esplorare una cartella di lavoro PowerPivot
+  - Esplorare un rapporto Power View
+
+  Al termine di questo modulo gli si saranno in grado di&#58; 
+  - Fornire una descrizione di alto livello della business intelligence
+  - Dimostrare di comprendere i rapporti
+  - Dimostrare di comprendere l’analisi dei dati
+  - Analizzare i dati con Azure SQL Data Warehouse
+

@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Networking Fundamentals: MTA Exam 98-366'
+metadata:
+  title: 'Course 40366-B: Networking Fundamentals: MTA Exam 98-366'
+  description: 'Course 40366-B: Networking Fundamentals: MTA Exam 98-366'
+uid: course.40366
+courseNumber: '40366-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Dimostrare di conoscere le infrastrutture di rete
+- skill: Dimostrare di conoscere l’hardware di rete
+- skill: Dimostrare di conoscere i protocolli e i servizi
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-361
+summary: |-
+  Questo corso di formazione MTA di tre giorni aiuta a prepararsi per l'esame Microsoft Technology Associate 98-366 e a conoscere questi argomenti&#58; infrastrutture di rete, hardware di rete, protocolli e servizi. Questo corso affronta gli stessi contenuti del Microsoft Academic Course (MOAC) per questo esame. Questo corso è aggiornato a supporto di Windows 10.
+
+  #### Profilo dei destinatari
+  Gli esami Microsoft Technology Associate (MTA) rappresentano la più recente suite di esami di certificazione di Microsoft che convalidano il possesso delle conoscenze necessarie per iniziare a gettare le basi di una carriera basata sulle tecnologie Microsoft. Questo programma è un punto di partenza ideale per intraprendere una carriera in ambito tecnologico. Presuppone che i candidati abbiano una qualche esperienza pratica o conoscenze precedenti, ma non necessariamente un’esperienza a livello professionale.
+prerequisitesSection: |-
+  Non sono previsti pre-requisiti per questo corso.
+outlineSection: |-
+  ### Modulo 1&#58; Dimostrare di sapere cos’è una rete LAN
+
+  ### Modulo 2&#58; Definire le reti con il modello OSI
+
+  ### Modulo 3&#58; Dimostrare di conoscere le differenze tra le reti cablate e wireless
+
+  ### Modulo 4&#58; Dimostrare di conoscere il protocollo Internet
+
+  ### Modulo 5&#58; Implementare TCP/IP nella riga di comando
+
+  ### Modulo 6&#58; Usare i servizi di rete
+
+  ### Modulo 7&#58; Dimostrare di sapere cosa sono le reti WAN
+
+  ### Modulo 8&#58; Definire le infrastrutture di rete e la sicurezza delle reti
+

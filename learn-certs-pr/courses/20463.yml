@@ -1,0 +1,244 @@
+### YamlMime:Course
+title: Implementing a Data Warehouse with Microsoft® SQL Server® 2014
+metadata:
+  title: 'Course 20463-D: Implementing a Data Warehouse with Microsoft® SQL Server® 2014'
+  description: 'Course 20463-D: Implementing a Data Warehouse with Microsoft® SQL Server® 2014'
+uid: course.20463
+courseNumber: '20463-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere i concetti del data warehouse e le considerazioni sull'architettura
+- skill: Selezionare una piattaforma hardware appropriata per un data warehouse
+- skill: Progettare e implementare un data warehouse
+- skill: Implementare un flusso di dati in un pacchetto SSIS
+- skill: Implementare un controllo del flusso in un pacchetto SSIS
+- skill: Debug e risoluzione dei problemi dei pacchetti SSIS
+- skill: Implementare una soluzione ETL che supporti l'estrazione incrementale di dati
+- skill: Implementare una soluzione ETL che supporti il caricamento incrementale dei dati
+- skill: Implementare la pulizia dei dati utilizzando Microsoft Data Quality Services
+- skill: Implementare Master Data Services per assicurare l'integrità dei dati
+- skill: Estendere SSIS con script e componenti personalizzati
+- skill: Distribuire e configurare pacchetti SSIS
+- skill: Descrivere come le soluzioni BI possono utilizzare i dati dal data warehouse
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-463
+summary: |-
+  Questo corso descrive come implementare una piattaforma di data warehouse per supportare una soluzione BI. Gli studenti impareranno come creare un data warehouse con Microsoft® SQL Server® 2014, implementare ETL con SQL Server Integration Services e convalidare e pulire i dati con SQL Server Data Quality Services e SQL Server
+  Master Data Services.
+
+  Nota&#58; Questo corso è pensato per i clienti che sono interessati ad apprendere SQL Server 2012 o SQL Server 2014. Include le nuove funzionalità di SQL Server 2014, ma descrive anche le funzionalità più importanti della piattaforma dati di SQL Server.
+
+  #### Profilo dei destinatari
+  Questo corso è destinato ai professionisti di database con un ruolo di Business Intelligence Developer. Dovranno concentrarsi sul lavoro pratico creando soluzioni BI tra cui l'implementazione di Data Warehouse, ETL e la pulizia dei dati. Le responsabilità principali comprendono&#58;
+  - Implementare un data warehouse.
+  - Sviluppare pacchetti SSIS per l'estrazione, la trasformazione e il caricamento dei dati.
+  - Assicurare l'integrità dei dati mediante Master Data Services.
+  - Pulire i dati utilizzando Data Quality Services.
+prerequisitesSection: |-
+  Per partecipare a questo corso devono soddisfare i seguenti prerequisiti&#58;
+  - Esperienza di almeno 2 anni di lavoro con database relazionali, tra cui&#58; 
+    - Progettare un database normalizzato. 
+    - Creare tabelle e relazioni. Esecuzione di query con Transact SQL. 
+    - Qualche esperienza di costrutti di programmazione di base (come loop e branching).
+    
+  È auspicabile conoscere le priorità aziendali principali come entrate, redditività e contabilità finanziaria.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione al Data Warehousing
+  Questo modulo fornisce un'introduzione ai componenti chiave di una soluzione di data warehousing e le considerazioni di alto livello che è necessario tenere presenti quando si intraprende un progetto di data warehousing.
+  #### Lezioni
+  - Panoramica del data warehousing
+  - Considerazioni per una soluzione di data warehouse
+
+
+  #### Lab&#58; Esplorazione di una soluzione di data warehousing
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere gli elementi chiave di una soluzione di data warehousing
+  - Descrivere le considerazioni chiave per un progetto di data warehousing
+
+
+  ### Modulo 2&#58; Considerazioni sull'hardware del data warehouse
+  Questo modulo illustra le considerazioni per la selezione dell'hardware e la distribuzione delle strutture di SQL Server tra server.
+  #### Lezioni
+  - Considerazioni per la creazione di un data warehouse
+  - Architetture e appliance di riferimento del data warehouse
+
+
+  #### Lab&#58; Pianificazione dell’infrastruttura del data warehouse
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le considerazioni chiave per l'infrastruttura BI.
+  - Pianificare l'infrastruttura di data warehouse.
+
+
+  ### Modulo 3&#58; Progettare e implementare un data warehouse
+  Questo modulo descrive le considerazioni chiave per la progettazione logica di un data warehouse e quindi tratta le migliori pratiche per la sua implementazione fisica.
+  #### Lezioni
+  - Progettazione logica per un data warehouse
+  - Progettazione fisica per un data warehouse
+
+
+  #### Lab&#58; Implementare uno schema di data warehouse
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere un processo per la progettazione di un modello dimensionale per un data warehouse 
+  - Progettare tabelle dimensionali per un data warehouse
+  - Progettare tabelle fattuali per un data warehouse
+  - Progettare e implementare strutture di dati fisici efficaci per un data warehouse
+
+
+  ### Modulo 4&#58; Creazione di una soluzione ETL con SSIS
+  Questo modulo tratta le considerazioni per l'implementazione di un processo ETL, quindi si concentra su Microsoft SQL Server Integration Services (SSIS) come piattaforma per la creazione di soluzioni ETL.
+  #### Lezioni
+  - Introduzione a ETL con SSIS
+  - Esplorazione delle fonti dei dati
+  - Implementare un flusso di dati
+
+
+  #### Lab&#58; Implementazione del flusso di dati in un pacchetto SSIS
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le funzionalità principali di SSIS. 
+  - Esplorare i dati di origine per una soluzione ETL. 
+  - Implementare un flusso di dati utilizzando SSIS
+
+
+  ### Modulo 5&#58; Implementare il flusso di controllo in un pacchetto SSIS
+  Questo modulo descrive come implementare soluzioni ETL che combinino più attività e una logica del flusso di lavoro.
+  #### Lezioni
+  - Introduzione a Control Flow
+  - Creazione di pacchetti dinamici
+  - Utilizzo di container
+  - Gestire la coerenza
+
+
+  #### Laab&#58; Implementazione del flusso di controllo in un pacchetto SSIS
+
+  #### Lab&#58; Utilizzo di transazioni e checkpoint
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Implementare il flusso di controllo con compiti e vincoli di precedenza 
+  - Creare pacchetti dinamici che includano variabili e parametri 
+  - Utilizzare i container in un flusso di controllo del pacchetto
+  - Applicare la coerenza con transazioni e checkpoint
+
+
+  ### Modulo 6&#58; Debug e risoluzione dei problemi dei pacchetti SSIS
+  Questo modulo descrive come è possibile eseguire il debug dei pacchetti per trovare la causa degli errori che si verificano durante l'esecuzione. Descrive quindi le funzionalità di registrazione integrate in SSIS che è possibile utilizzare per registrare gli eventi al fine di risolvere i problemi. Infine, il modulo descrive approcci comuni per la gestione degli errori nel flusso di controllo e nel flusso di dati.
+  #### Lezioni
+  - Eseguire il debug di un pacchetto SSIS
+  - Registrare gli eventi del pacchetto SSIS
+  - Gestire gli errori in un pacchetto SSIS
+
+
+  #### Lab&#58; Debug e risoluzione dei problemi di un pacchetto SSIS
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Eseguire il debug di un pacchetto SSIS
+  - Implementare la registrazione per un pacchetto SSIS
+  - Gestire gli errori in un pacchetto SSIS
+
+
+  ### Modulo 7&#58; Implementare una soluzione di estrazione dei dati
+  Questo modulo descrive le tecniche che è possibile utilizzare per implementare un processo di aggiornamento incrementale del data warehouse.
+  #### Lezioni
+  - Pianificare l’estrazione dei dati
+  - Estrarre i dati modificati
+
+
+  #### Lab&#58; Estrarre i dati modificati
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Pianificare l'estrazione dei dati
+  - Estrarre i dati modificati
+
+
+  ### Modulo 8&#58; Caricamento dei dati in un data warehouse
+  Questo modulo descrive le tecniche che è possibile utilizzare per implementare un processo di caricamento del data warehouse.
+  #### Lezioni
+  - Pianificazione dei carichi di dati
+  - Utilizzo di SSIS per carichi incrementali
+  - Utilizzo delle tecniche di caricamento Transact-SQL
+
+
+  #### Lab&#58; Caricamento di un data warehouse
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le considerazioni per la pianificazione dei carichi di dati.
+  - Utilizzare SQL Server Integration Services (SSIS) per caricare dati nuovi e modificati in un data warehouse.
+  - Utilizzare le tecniche Transact-SQL per caricare i dati in un data warehouse.
+
+  ### Modulo 9&#58; Garantire la qualità dei dati
+  Garantire l'elevata qualità dei dati è essenziale per garantire l'affidabilità dei risultati dell'analisi dei dati. SQL Server 2014 include Data Quality Services (DQS) per fornire un processo assistito da computer per la pulizia dei valori dei dati, nonché per identificare e rimuovere entità di dati duplicate. Questo processo riduce al minimo il carico di lavoro dell'amministratore dei dati mantenendo l'interazione umana per garantire risultati accurati.
+  #### Lezioni
+  - Introduzione alla qualità dei dati
+  - Utilizzo dei servizi di qualità dei dati per la pulizia dei dati
+  - Utilizzo dei servizi di qualità dei dati per confrontare la corrispondenza dei dati
+
+
+  #### Lab&#58; Pulire i dati
+
+  #### Lab&#58; Deduplicare i dati
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere come DQS può aiutare a gestire la qualità dei dati.
+  - Usare DQS per pulire i propri dati.
+  - Usare DQS per confrontare i dati.
+
+  ### Modulo 10&#58; Master Data Services
+  Master Data Services offre alle organizzazioni un modo per standardizzare e migliorare la qualità, la coerenza e l'affidabilità dei dati che guidano le decisioni aziendali più importanti. Questo modulo introduce Master Data Services e spiega i vantaggi del suo utilizzo.
+  #### Lezioni
+  - Introduzione a Master Data Services
+  - Implementare un modello Master Data Services
+  - Gestire i dati anagrafici
+  - Creare un hub di dati anagrafici
+
+
+  #### Lab&#58; Implementare i Master Data Services
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere i concetti chiave di Master Data Services.
+  - Implementare un modello di Master Data Services.
+  - Utilizzare gli strumenti Master Data Services per gestire i dati anagrafici.
+  - Utilizzare gli strumenti Master Data Services per creare un hub di dati anagrafici.
+
+  ### Modulo 11&#58; Estensione di SQL Server Integration Services
+  Questo modulo descrive le tecniche che è possibile utilizzare per estendere SSIS. Il modulo non è progettato per essere una guida completa allo sviluppo di soluzioni SSIS personalizzate, ma per fornire una consapevolezza delle fasi fondamentali richieste per utilizzare componenti e script personalizzati in un processo ETL, basato su SSIS.
+  #### Lezioni
+  - Utilizzo degli script in SSIS
+  - Utilizzo di componenti personalizzati in SSIS
+
+
+  #### Lab&#58; Utilizzo di script personalizzati
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Includere script personalizzati in un pacchetto SSIS.
+  - Descrivere come utilizzare i componenti personalizzati per estendere SSIS.
+
+  ### Modulo 12&#58; Distribuzione e configurazione dei pacchetti SSIS
+  Microsoft SQL Server Integration Services (SSIS) offre strumenti che semplificano la distribuzione di pacchetti su un altro computer. Gli strumenti di distribuzione gestiscono anche qualsiasi dipendenza, come configurazioni e file necessari per il pacchetto. In questo modulo, si imparerà come utilizzare questi strumenti per installare i pacchetti e le loro dipendenze su un computer di destinazione.
+  #### Lezioni
+  - Panoramica sulla distribuzione di SSIS
+  - Distribuire progetti SSIS
+  - Pianificare l’esecuzione di pacchetti SSIS
+
+
+  #### Lab&#58; distribuzione e configurazione di pacchetti SSIS
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere le considerazioni per la distribuzione di SSIS.
+  - Distribuire progetti SSIS.
+  - Pianificare l’esecuzione di pacchetti SSIS.
+
+  ### Modulo 13&#58; Consumo di dati in un data warehouse
+  Questo modulo introduce BI, descrivendo i componenti di Microsoft SQL Server che è possibile utilizzare per creare una soluzione BI e gli strumenti client con cui gli utenti possono creare report e analizzare i dati.
+  #### Lezioni
+  - Introduzione alla Business Intelligence
+  - Enterprise Business Intelligence
+  - BI Self-Service e Big Data
+
+
+  #### Lab&#58; Utilizzo di un data warehouse
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Descrivere BI e gli scenari BI comuni.
+  - Descrivere come un data warehouse possa essere utilizzato negli scenari BI aziendali.
+  - Descrivere come un data warehouse possa essere utilizzato in scenari di BI self-service.
+
