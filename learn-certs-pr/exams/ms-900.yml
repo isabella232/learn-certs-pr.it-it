@@ -8,7 +8,7 @@ displayName: MS-900
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 14 Aprile 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il mercoledì 8 luglio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
   </div>
 
   Questo esame è pensato per i candidati che hanno l’esigenza di dimostrare una conoscenza di base degli elementi e dei vantaggi derivanti dall’adozione di servizi cloud e del modello Software as a Service (SaaS). L’esame include argomenti quali le opzioni disponibili e i vantaggi derivanti dall’implementazione delle offerte dei servizi cloud di Microsoft 365.
@@ -29,7 +29,7 @@ providers:
 levels:
 - beginner
 skills:
-- Il contenuto di questo esame è stato aggiornato il 14 Aprile 2020. Si prega di scaricare il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame sarà aggiornato il mercoledì 8 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
 - Descrivere i concetti del cloud (15-20%)
 - Descrivere i principali servizi e concetti di Microsoft 365 (30-35%)
 - Descrivere le opzioni di sicurezza, conformità, privacy e affidabilità in Microsoft 365 (25-30%)
@@ -54,7 +54,7 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Assistenza per gli esami di certificazione
@@ -63,7 +63,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

@@ -1,6 +1,6 @@
 ---
-title: Guida alla formazione e alla certificazione Microsoft | Microsoft Docs
-description: Guida per la formazione e la certificazione Microsoft
+title: Microsoft training and certification help | Microsoft Docs
+description: Microsoft training and certification help
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Guida per la formazione e la certificazione Microsoft
+# Microsoft training and certification help
 
 <div style='color&#58; red;'><strong><font color="red"><br/>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>Ulteriori informazioni</a>.</font></strong><br/><br/></div>
 
@@ -23,8 +23,8 @@ Ulteriori domande? Consulta le opzioni sull’assistenza riportate di seguito.
 
 | Area del supporto | Informazioni di contatto |
 | ------------- | --- |
-| **Certificazione Microsoft** | È possibile che tu riesca a trovare la risposta alla tua domanda nella nostra [Panoramica sulle certificazioni tecniche](https://www.microsoft.com/learning/certification-overview.aspx) <br/><br/>  **Forum di supporto per le certificazioni:** <br/>Richiedi assistenza ai nostri [forum di supporto per le certificazioni](https://aka.ms/MCPForum) monitorati da un moderatore.<br/><br/>  Un moderatore del forum ti risponderà in un giorno lavorativo. |
-| **Programma Microsoft Certified Trainer (MCT)** | È possibile che tu possa trovare una risposta alla tua domanda nella nostra [Panoramica sul programma MCT](https://www.microsoft.com/learning/mct-certification.aspx)<br/><br/>  **Forum di supporto per il programma MCT:** <br/> Richiedi assitenza ai nostri [forum di supporto per il programma MCT](https://aka.ms/MCTForum) monitorati da un moderatore.<br/><br/> Uno dei moderatori del forum ti risponderà entro un giorno lavorativo. |
+| **Certificazione Microsoft** | È possibile che tu riesca a trovare la risposta alla tua domanda nella nostra [Panoramica sulle certificazioni tecniche](/learn/certifications/) <br/><br/>  **Forum di supporto per le certificazioni:** <br/>Richiedi assistenza ai nostri [forum di supporto per le certificazioni](https://aka.ms/MCPForum) monitorati da un moderatore.<br/><br/>  Un moderatore del forum ti risponderà in un giorno lavorativo. |
+| **Programma Microsoft Certified Trainer (MCT)** | È possibile che tu possa trovare una risposta alla tua domanda nella nostra [Panoramica sul programma MCT](/learn/certifications/mct-certification)<br/><br/>  **Forum di supporto per il programma MCT:** <br/> Richiedi assitenza ai nostri [forum di supporto per il programma MCT](https://aka.ms/MCTForum) monitorati da un moderatore.<br/><br/> Uno dei moderatori del forum ti risponderà entro un giorno lavorativo. |
 
 ## Aiuto per la formazione
 
