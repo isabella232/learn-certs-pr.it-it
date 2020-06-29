@@ -46,8 +46,7 @@ Approfitta degli sconti sugli esami Microsoft Certified Professional quando veri
 
 [**Ulteriori informazioni**](/learn/certifications/certification-exam-policies)
 
-<a name="frequently-asked-questions"></a>
-## Domande frequenti
+## <a name="frequently-asked-questions"></a>Domande frequenti
 
 **D. Cos’è la ripetizione di un esame?**
 
