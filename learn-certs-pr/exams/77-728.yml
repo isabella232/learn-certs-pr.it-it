@@ -1,28 +1,26 @@
 ### YamlMime:Examination
 title: 'Excel 2016 Expert: Interpreting Data for Insights'
 metadata:
-  title: 'Esame 77-728: Excel 2016 Expert: Interpreting Data for Insights'
-  description: 'Esame 77-728: Excel 2016 Expert: Interpreting Data for Insights'
+  title: 'Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights'
+  description: 'Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights'
 uid: exam.77-728
 displayName: 77-728
-summary: >
-  I candidati di livello Esperto che sostengono l'esame Excel 2016 devono avere una conoscenza avanzata dell'ambiente Excel ed essere in grado di spiegare ad altri utenti come utilizzare correttamente le funzionalità del programma.
+summary: |+
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
 
+  I candidati di livello Expert per l'esame Excel 2016 devono avere una conoscenza avanzata dell'ambiente Excel ed essere in grado di aiutare gli altri a utilizzare correttamente le funzionalità del programma.
 
-  I candidati devono essere in grado di creare, gestire e distribuire documenti professionali per numerosi scopi e in situazioni diverse. Devono essere in grado di personalizzare gli ambienti Excel in base alle esigenze di progetto e per migliorare la produttività. Esempi di cartelle di lavoro includono modelli aziendali personalizzati, grafici finanziari con più assi, tabelle di ammortamento e pianificazioni dell'inventario. I ruoli dei candidati possono includere contabili, analisti finanziari, analisti dei dati, operatori di banche commerciali e altri.
+  I candidati devono essere in grado di creare, gestire e distribuire documenti professionali per più situazioni e obiettivi specifici. Devono essere in grado di personalizzare gli ambienti Excel in base alle necessità del progetto e per migliorare la produttività. Esempi di cartelle di lavoro di livello Expert includono modelli aziendali personalizzati, grafici finanziari con più assi, tabelle di ammortamento e pianificazioni dell'inventario. I ruoli dei candidati possono comprendere contabili, analisti finanziari, analisti dei dati, operatori di banche commerciali e altri.
 
-
-  Gli esami di certificazione come Specialista di Microsoft Office 2016 (MOS) introducono un nuovo formato basato sulle prestazioni per migliorare la valutazione delle conoscenze, capacità e abilità di un candidato relativamente all’utilizzo dei programmi MOS 2016&#58;
-
-  - Le istruzioni per l’Esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò ha lo scopo di stimolare i candidati a comprendere l'obiettivo e l'utilizzo comune della funzionalità del programma, consentendo loro di completare le attività di ciascun progetto.
-
-  - Il formato dell'Esame MOS 2016 comprende più progetti.
-subTitle: I candidati di livello Esperto che sostengono l'esame Excel 2016 devono avere una conoscenza avanzata dell'ambiente Excel ed essere in grado di spiegare ad altri utenti come utilizzare correttamente le funzionalità del programma.
+  Negli esami di certificazione Microsoft Office Specialist (MOS) 2016 è stato introdotto un nuovo formato basato sulle prestazioni che permette di valutare meglio le conoscenze, le competenze e le capacità del candidato relativamente ai programmi MOS 2016&#58;
+  - le istruzioni per l’esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò significa che i candidati devono capire l'obiettivo e il normale utilizzo della funzionalità del programma per poter portare a termine le attività di ciascun progetto.
+  - Il formato dell'esame MOS 2016 include più progetti.
+subTitle: I candidati di livello Expert per l'esame Excel 2016 devono avere una conoscenza avanzata dell'ambiente Excel ed essere in grado di aiutare gli altri a utilizzare correttamente le funzionalità del programma.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -36,7 +34,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Gestire le opzioni e le impostazioni della cartella di lavoro (10-15%)
+- Gestire le opzioni e le impostazioni delle cartelle di lavoro (10-15%)
 - Applicare formati e layout dati personalizzati (20-25%)
 - Creare formule avanzate (35-40%)
 - Creare tabelle e grafici avanzati (25-30%)
@@ -52,11 +50,12 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+
