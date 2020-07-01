@@ -16,7 +16,7 @@ summary: |-
 subTitle: Questo esame è rivolto ai professionisti esperti in database che progettano e sviluppano soluzioni database all’interno dell'azienda. Sono responsabili della creazione di piani e progettazioni per la struttura del database, l'archiviazione, gli oggetti e i server. Creano il piano per l'ambiente in cui viene eseguita la soluzione database.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t560
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
 locales:
 - en
 - zh-cn
