@@ -16,7 +16,7 @@ summary: |-
 subTitle: I candidati idonei per questo esame sono sviluppatori e architetti che utilizzano il Azure Cosmos DB. I candidati devono avere una conoscenza approfondita di come suddividere in partizioni, eseguire repliche e gestire le risorse per la creazione e configurazione di applicazioni scalabili che sono agnostiche delle API Cosmos DB. I candidati devono inoltre avere una conoscenza di base delle API Cosmos DB SQL.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=70-777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
 locales:
 - en
 levels:
