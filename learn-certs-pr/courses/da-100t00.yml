@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Analyzing Data with Power BI
+title: Analyzing Data with Microsoft Power BI
 metadata:
-  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
-  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  title: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
 uid: course.da-100t00
 courseNumber: 'DA-100T00-A'
 hoursToComplete: 120
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.da-100
 summary: |-
-  Questo corso discuterà i vari metodi e le migliori pratiche in linea con i requisiti aziendali e tecnici per la modellazione, la visualizzazione e l'analisi dei dati con Power BI. Il corso mostrerà anche come accedere ed elaborare i dati da una serie di fonti di dati, inclusi dati relazionali e non relazionali. Questo corso esplorerà anche come implementare standard e politiche di sicurezza adeguati in tutto lo spettro di Power BI, inclusi set di dati e gruppi. Il corso discuterà anche come gestire e distribuire report e dashboard per la condivisione e la distribuzione dei contenuti. Infine, questo corso mostrerà come creare report impaginati all'interno del servizio Power BI e pubblicarli in un'area di lavoro per l'inclusione in Power BI.
+  Questo Corso sarà disponibile il 24 luglio 2020. Questo corso discuterà i vari metodi e le migliori pratiche in linea con i requisiti aziendali e tecnici per la modellazione, la visualizzazione e l'analisi dei dati con Power BI. Il corso mostrerà anche come accedere ed elaborare i dati da una serie di fonti di dati, inclusi dati relazionali e non relazionali. Questo corso esplorerà anche come implementare standard e politiche di sicurezza adeguati in tutto lo spettro di Power BI, inclusi set di dati e gruppi. Il corso discuterà anche come gestire e distribuire report e dashboard per la condivisione e la distribuzione dei contenuti. Infine, questo corso mostrerà come creare report impaginati all'interno del servizio Power BI e pubblicarli in un'area di lavoro per l'inclusione in Power BI.
 
   #### Profilo dei destinatari
   I partecipanti a questo corso sono professionisti dei dati e professionisti della business intelligence che vogliono imparare a eseguire analisi dei dati con precisione usando Power BI. Questo corso è rivolto anche a coloro che sviluppano report che visualizzano i dati dalle tecnologie della piattaforma dati esistenti sia nel cloud che in locale.
@@ -40,7 +40,7 @@ outlineSection: |-
   - Identificazione delle attività del Data Analyst
 
 
-  #### Lab &#58; Guida introduttiva
+  #### Lab&#58; Guida introduttiva
   - Guida introduttiva
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
@@ -58,7 +58,7 @@ outlineSection: |-
   - Profilazione dei dati
 
 
-  #### Lab &#58; preparazione dei dati in Power BI Desktop
+  #### Lab&#58; preparazione dei dati in Power BI Desktop
   - Preparare dati
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
@@ -79,7 +79,7 @@ outlineSection: |-
   - Configurazione del caricamento dei dati e risoluzione degli errori
 
 
-  #### Lab &#58; caricamento dei dati in Power BI Desktop
+  #### Lab&#58; caricamento dei dati in Power BI Desktop
   - Caricare i dati
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
@@ -97,7 +97,7 @@ outlineSection: |-
   - Performance del modello
 
 
-  #### Lab &#58; modellazione dei dati in Power BI Desktop
+  #### Lab&#58; modellazione dei dati in Power BI Desktop
   - Creare relazioni modello
   - Configurare le tabelle
   - Rivedere l'interfaccia del modello
@@ -119,7 +119,7 @@ outlineSection: |-
   - Considerazioni sulle Q&A
 
 
-  #### Lab &#58; Data Modeling avanzato
+  #### Lab&#58; Data Modeling avanzato
   - Creare una relazione da uno a molti
   - Applicare la sicurezza a livello di riga
 
@@ -139,11 +139,11 @@ outlineSection: |-
   - Funzioni Time-Intelligence
 
 
-  #### Lab &#58; utilizzo di DAX in Power BI - Parte 1
+  #### Lab&#58; utilizzo di DAX in Power BI - Parte 1
   - Creare tabelle calcolate
   - Creare misure
 
-  #### Lab &#58; utilizzo di DAX in Power BI - Parte 2
+  #### Lab&#58; utilizzo di DAX in Power BI - Parte 2
   - Lavorare con il contenuto del filtro
   - Lavorare con Time-Intelligence
   - Pubblicare il file di Power BI Desktop
@@ -178,7 +178,7 @@ outlineSection: |-
   - Miglioramento del rapporto
 
 
-  #### Lab &#58; progettazione di un report in Power BI Desktop - Parte 1
+  #### Lab&#58; progettazione di un report in Power BI Desktop - Parte 1
   - Creare un prospetto
   - Accedere al servizio Power BI
 
@@ -197,7 +197,7 @@ outlineSection: |-
   - Miglioramento dei rapporti
 
 
-  #### Lab &#58; progettazione di un report in Power BI Desktop - Parte 2
+  #### Lab&#58; progettazione di un report in Power BI Desktop - Parte 2
   - Configurare Slicer di sincronizzazione
   - Configurare Drill-through
   - Aggiungere formattazione condizionale
@@ -219,7 +219,7 @@ outlineSection: |-
   - Miglioramenti del dashboard
 
 
-  #### Lab &#58; Creare una dashboard Power BI
+  #### Lab&#58; Creare una dashboard Power BI
   - Creare un dashboard
   - Aggiornare il set di dati
   - Controllare il dashboard
@@ -241,7 +241,7 @@ outlineSection: |-
   - Analisi avanzata&#58;
 
 
-  #### Lab &#58; analisi dei dati in Power BI Desktop
+  #### Lab&#58; analisi dei dati in Power BI Desktop
   - Creare un prospetto
   - Creare un grafico a dispersione
   - Creare una previsione
@@ -266,7 +266,7 @@ outlineSection: |-
   - Condivisione e distribuzione di contenuti
 
 
-  #### Lab &#58; pubblicazione e condivisione di contenuti Power BI
+  #### Lab&#58; pubblicazione e condivisione di contenuti Power BI
   - Configurare la sicurezza del set di dati
   - Condividere un dashboard
   - Pubblicare un'APP
@@ -288,7 +288,7 @@ outlineSection: |-
   - Miglioramento e pubblicazione di report
 
 
-  #### Lab &#58; creazione di un report impaginato
+  #### Lab&#58; creazione di un report impaginato
   - Guida introduttiva
   - Sviluppare il report
 

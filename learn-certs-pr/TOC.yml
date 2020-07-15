@@ -1,9 +1,11 @@
 - name: Certificazioni Microsoft
   href: index.yml
-- name: Offerte
+- name: Offers
   href: deals.md
-- name: Licenze a volume
+- name: Contratti multilicenza
   href: volume-licensing-program.md
+- name: Microsoft Learning Partners
+  href: partners.md
 - name: Certificazioni, esami e corsi ritirati
   expanded: false
   items:
@@ -11,15 +13,21 @@
     href: retired-certifications.md
   - name: Esami ritirati
     href: retired-certification-exams.md 
-  - name: Corsi in pensione
+  - name: Corsi ritirati
     href: retired-courses.md
 - name: Diventa un Microsoft Certified Trainer
   href: mct-certification.md
 - name: Informazioni sugli esami di certificazione Microsoft
   href: certification-exams.md
-- name: Informazioni sugli esami on-line
+- name: Badge di esame e certificazione Microsoft
+  href: badges.md
+- name: Informazioni sugli esami online
   href: online-exams.md
-- name: Criteri degli esami e domande frequenti
+- name: Criteri dell'esame e domande frequenti
   href: certification-exam-policies.md
 - name: Guida alla certificazione
   href: help.md
+- name: Microsoft Certification Program FAQs 
+  href: microsoft-certification-program-faqs.md
+- name: Accedi a Microsoft Learning.
+  href: learnfaq.md
