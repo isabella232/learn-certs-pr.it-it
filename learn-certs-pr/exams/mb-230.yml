@@ -8,7 +8,7 @@ displayName: MB-230
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il venerdì 1 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il mercoledì 1 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
   </div>
 
   I candidati idonei a questo esame sono consulenti funzionali di Dynamics 365 esperti nell’assistenza ai clienti. I candidati sono responsabili dell'implementazione di soluzioni multicanale focalizzate su assistenza, qualità, affidabilità, efficienza e soddisfazione del cliente.
@@ -19,7 +19,7 @@ summary: |-
   I candidati devono possedere una solida conoscenza pratica che soddisfi le esigenze degli utenti attraverso il Servizio clienti Dynamics 365, compresa la comprensione approfondita di casi, della knowledge base, delle code, delle autorizzazioni, degli SLA (Service Level Agreement), delle visualizzazioni e del Service Desk unificato.
 
   Devono comprendere la terminologia del settore, le priorità, gli standard, le metodologie, l'operatività del servizio clienti e le migliori prassi. I candidati devono avere una conoscenza completa del ruolo dell'applicazione del servizio clienti in relazione alla suite di applicazioni Dynamics 365 insieme a una conoscenza di base dell'architettura della soluzione e della garanzia della qualità.
-subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: eseguire la configurazione, gestire i casi e la base di conoscenze, gestire le code, i diritti e gli SLA e configurare Forms Pro.'
+subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: eseguire la configurazione, gestire i casi e la base di conoscenze, gestire le code, i diritti e gli SLA e configurare Forms Pro. '
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
@@ -28,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il venerdì 1 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame è stato aggiornato il mercoledì 1 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Eseguire la configurazione (25-30%)
 - Gestire i casi e la Knowledge Base (30-35%)
 - Gestire code, titolarità e SLA (25-30%)
@@ -46,7 +46,7 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
+- uid: learn-dynamics.create-forms
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service

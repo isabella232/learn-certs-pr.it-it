@@ -10,7 +10,7 @@ subTitle: Azure Data Fundamentals convalida le conoscenze di base sui concetti d
 levels:
 - beginner
 skills:
-- Descrivere i concetti di base dei dati
+- Descrivere i concetti di dati di base
 - Descrivere come lavorare con i dati relazionali in Azure
 - Descrivere come lavorare con dati non relazionali in Azure
 - Descrivere un carico di lavoro analitico in Azure
@@ -20,6 +20,8 @@ roles:
 type: fundamentals
 products:
 - azure
+paths:
+- uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
 exams:
 - uid: exam.dp-900

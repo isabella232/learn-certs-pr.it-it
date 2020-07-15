@@ -21,38 +21,34 @@ L'esame di certificazione gratuito è disponibile per il riscatto a partire dall
 
 Di seguito sono riportate le istruzioni passo per passo su come richiedere il tuo esame gratuito.
 
-**Passaggio 1:** Seleziona uno degli [eligible exams](#eligible-exams) e fai clic sul pulsante "Pianifica esame" per iniziare il processo di registrazione online.
-<br/><br/> 
-
+**Passaggio 1:** Seleziona uno dei [qualifying exam](#eligible-exams-for-this-offer) e fai clic sul pulsante "Schedule exam" (pianifica un esame) per iniziare il processo di registrazione online.  
 ![Pianifica un esame](images/step1.png)
 
 **Passaggio 2:** Accedi al tuo profilo di certificazione Microsoft esistente o creane uno utilizzando un account Microsoft.  
-<br/><br/>
-
 ![Accedi con l'account Microsoft](images/step-2-2x.png)
 
-**Passaggio 3:** Una volta effettuato l'accesso, conferma che i dettagli nel tuo profilo di certificazione siano corretti.
-<br/><br/>
-
+**Passaggio 3:** Una volta effettuato l'accesso, conferma che i dettagli nel tuo profilo di certificazione siano corretti.  
 ![Conferma dei dettagli nel profilo di certificazione Microsoft](images/step3.png)
 
-**Passaggio 4:** Fai clic sul pulsante “Save & continue” (Salva e continua) in fondo alla pagina del profilo di certificazione per passare alla pagina ‘Exam Discounts’ (Sconti sugli esami).
-<br/><br/> 
- 
+**Passaggio 4:** Fai clic sul pulsante “Save & continue” (Salva e continua) in fondo alla pagina del profilo di certificazione per passare alla pagina ‘Exam Discounts’ (Sconti sugli esami).  
 ![Fai clic sul pulsante Save & continue nella parte inferiore della pagina Profilo di certificazione](images/step-4-2x.png)
 
-**Passaggio 5:** Nella pagina ‘Exam Discounts’ (Sconti sugli esami), seleziona l’evento a cui hai partecipato e fai clic sul pulsante “Verify account” (Verifica account).
-<br/><br/> 
+**Passaggio 5:** Nella pagina "Sconti esame", inserisci l'e-mail che hai utilizzato per registrarti a un evento (ad esempio alias@company.com o alias@outlook.com).  
+![Inserisci l'e-mail utilizzata per registrarti a un evento](images/step5-1-enter-email.png)
 
-![Fai clic sul pulsante Verify Account nella pagina Exam Discounts](images/step5.png)
+**Passaggio 6:** Se hai diritto a uno sconto per l'esame, riceverai un'e-mail di verifica all'indirizzo che hai inserito. Devi inserire il codice di accesso che ricevi nell'e-mail per procedere. Se non ricevi un'e-mail, puoi inviare di nuovo il codice.  
+![Inserisci il codice di accesso ricevuto via e-mail](images/step6-enter-passcode.png)
 
-**Passaggio 6:** Per verificare il tuo account, devi eseguire l’autenticazione usando lo account che hai usato per registrarti all’evento (NOTA: Se hai usato un account Microsoft per registrarti all’evento, dovrai usare questo account Microsoft per accedere al tuo profilo di certificazione e programmare la partecipazione all’esame. Se scopri di avere due profili di certificazione, contatta i [di supporto per le Microsoft Certification](https://trainingsupport.microsoft.com/en-us/mcp/forum) per unire i tuoi profili dopo che avrai sostenuto l’esame di certificazione).
-<br/><br/>
-![Autenticati utilizzando lo stesso account social per verificare l'account](images/step6.png)
+**Passaggio 7:** Dopo aver inserito il codice di accesso corretto, ti verrà chiesto di collegare i tuoi account. DEVI accettare di collegare i tuoi account per ricevere uno sconto.  
+![Collega i tuoi account per ricevere lo sconto](images/step7-linkmodal.png)
 
-**Passaggio 7:** Per pianificare l'esame, seguire i passaggi nelle schermate successive e fornire i dettagli richiesti. Nella pagina del pagamento, verifica che il totale sia pari a $0,00 e invia l’ordine.
-<br/><br/>
-![Fornisci i dettagli richiesti per programmare l'esame](images/step7.png)
+Al successivo accesso, se sei idoneo per gli sconti per l'esame per uno di questi account, gli sconti verranno visualizzati automaticamente. Per rimuovere un account, vai su [Certification Dashboard](https://aka.ms/certdashboard) e fai clic su "Modifica il tuo profilo di certificazione”.
+
+**Passaggio 8:** Nella parte superiore viene visualizzato uno sconto. Scegli lo sconto che vuoi richiedere e poi continua con il checkout facendo clic sul pulsante dell'esame programmato.  
+![Scegli lo sconto e continua facendo clic sul pulsante dell'esame programmato](images/step8-coupon.png)
+
+**Passaggio 9:** Per pianificare l'esame, seguire i passaggi nelle schermate successive e fornire i dettagli richiesti. Nella pagina del pagamento, verifica che il totale sia pari a $0,00 e invia l’ordine.  
+![Collega i tuoi account per ricevere lo sconto](images/step9.png)
 
 ### Supporto per le certificazioni:
 

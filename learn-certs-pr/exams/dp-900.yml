@@ -9,6 +9,7 @@ summary: "<div style='color&#58; red;'><strong>In risposta alla situazione del C
 subTitle: 'Dimostrare che puoi descrivere quanto segue: concetti di dati di base; come lavorare con i dati relazionali in Azure; come lavorare con dati non relazionali in Azure e un carico di lavoro analitico su Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 locales:
 - en
 levels:
@@ -17,12 +18,14 @@ skills:
 - Descrivere i concetti di dati di base (15-20%)
 - Descrivere come lavorare con i dati relazionali in Azure (25-30%)
 - Descrivere come lavorare con dati non relazionali in Azure (25-30%)
-- Descrivere un carico di lavoro di analisi in Azure (25-30%)
+- Descrivere un carico di lavoro analitico in Azure (25-30%)
 roles:
 - data-engineer
 - database-administrator
 products:
 - azure
+paths:
+- uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals

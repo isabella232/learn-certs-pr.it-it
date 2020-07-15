@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Ignite and Microsoft Ignite The Tour: Offerta di esami di certificazione gratuiti | Microsoft Docs'
-description: 'Microsoft Ignite and Microsoft Ignite The Tour: Offerta di esami di certificazione gratuiti' 
+title: 'Microsoft Ignite and Microsoft Ignite The Tour: Free Certification Exam Offer | Microsoft Docs'
+description: 'Microsoft Ignite and Microsoft Ignite The Tour: Free Certification Exam Offer' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,9 +9,9 @@ ms.workload: NA
 ms.date: 11/04/2019
 ms.author: micsullivan
 ---
-# Microsoft Ignite and Microsoft Ignite The Tour: Offerta di esami di certificazione gratuiti
+# Microsoft Ignite and Microsoft Ignite The Tour: Free Certification Exam Offer
 
-<div style='color&#58; red;'><font color="red"><em><strong>Aggiornato il 26 marzo 2020: </strong>In risposta al Coronavirus (COVID-19), Microsoft estende le offerte d'esame al 31 gennaio 2021. Ciò significa che l'offerta di esami di certificazione per questi eventi, inizialmente valida per 180 giorni, è ora valida fino al 31 gennaio 2021. <a href="https://aka.ms/covid-19certannoucement">Ulteriori informazioni</a>. Questa modifica si riflette come segue.</em></font></div>
+<div style='color&#58; red;'><font color="red"><em><strong>Aggiornato il 26 marzo 2020:</strong>In risposta al Coronavirus (COVID-19), Microsoft estende le offerte d'esame al 31 gennaio 2021. Ciò significa che l'offerta di esami di certificazione per questi eventi, inizialmente valida per 180 giorni, è ora valida fino al 31 gennaio 2021. <a href="https://aka.ms/covid-19certannoucement">Ulteriori informazioni</a>. Questa modifica si riflette come segue.</em></font></div>
 
 ![Banner di Offerta di esami di certificazione gratuiti](images/free-certification-exam-offer-banner.png "Banner di Offerta di esami di certificazione gratuiti")
 
@@ -23,28 +23,36 @@ Se hai partecipato di persona a Microsoft Ignite 2019 o a un evento di Microsoft
 
 ## <a name="how-to-claim-your-free-exam"></a> Come richiedere il tuo esame gratuito
 
-Di seguito sono riportate le istruzioni passo per passo su come richiedere il tuo esame gratuito. Nota che se sei stato registrato in gruppo all'evento, assicurati che il tuo profilo di registrazione all'evento sia completo. Per accedere al profilo di registrazione del tuo evento, vai su [https://register.ignite.microsoft.com](https://register.ignite.microsoft.com) se sei un partecipante di Microsoft Ignite 2019 o vai su [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/) nome della città, ad esempio [https://reigster.msignite-the-tour.microsoft.com/london](https://reigster.msignite-the-tour.microsoft.com/london) se sei un partecipante di MS Ignite The Tour London.
+Di seguito sono riportate le istruzioni passo per passo su come richiedere il tuo esame gratuito.
 
 **Passaggio 1:** Seleziona uno dei [qualifying exam](#eligible-exams-for-this-offer) e fai clic sul pulsante "Schedule exam" (pianifica un esame) per iniziare il processo di registrazione online.  
-![Pianifica un esame](images/step-1-2x.png)
+![Pianifica un esame](images/step1.png)
 
 **Passaggio 2:** Accedi al tuo profilo di certificazione Microsoft esistente o creane uno utilizzando un account Microsoft.  
 ![Accedi con l'account Microsoft](images/step-2-2x.png)
 
 **Passaggio 3:** Una volta effettuato l'accesso, conferma che i dettagli nel tuo profilo di certificazione siano corretti.  
-![Conferma dei dettagli nel profilo di certificazione Microsoft](images/step-3-2x.png)
+![Conferma dei dettagli nel profilo di certificazione Microsoft](images/step3.png)
 
 **Passaggio 4:** Fai clic sul pulsante “Save & continue” (Salva e continua) in fondo alla pagina del profilo di certificazione per passare alla pagina ‘Exam Discounts’ (Sconti sugli esami).  
 ![Fai clic sul pulsante Save & continue nella parte inferiore della pagina Profilo di certificazione](images/step-4-2x.png)
 
-**Passaggio 5:** Nella pagina ‘Exam Discounts’ (Sconti sugli esami), seleziona l’evento a cui hai partecipato e fai clic sul pulsante “Verify account” (Verifica account).  
-![Fai clic sul pulsante Verify Account nella pagina Exam Discounts](images/step-5-2x.png)
+**Passaggio 5:** Nella pagina "Sconti esame", inserisci l'e-mail che hai utilizzato per registrarti a un evento (ad esempio alias@company.com o alias@outlook.com).  
+![Inserisci l'e-mail utilizzata per registrarti a un evento](images/step5-1-enter-email.png)
 
-**Passaggio 6:** Per verificare il tuo account, devi eseguire l’autenticazione usando lo account social che hai usato per registrarti all’evento (NOTA: Se hai usato un account Microsoft per registrarti all’evento, dovrai usare questo account Microsoft per accedere al tuo profilo di certificazione e programmare la partecipazione all’esame. Se risulta che hai due profili di certificazione, [contatta il supporto nel Microsoft Certification Support Forums](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) per unire i tuoi profili, dopo aver completato l'esame).  
-![Autenticati utilizzando lo stesso account social per verificare l'account](images/step-6-2x.png)
+**Passaggio 6:** Se hai diritto a uno sconto per l'esame, riceverai un'e-mail di verifica all'indirizzo che hai inserito. Devi inserire il codice di accesso che ricevi nell'e-mail per procedere. Se non ricevi un'e-mail, puoi inviare di nuovo il codice.  
+![Inserisci il codice di accesso ricevuto via e-mail](images/step6-enter-passcode.png)
 
-**Passaggio 7:** Segui la procedura descritta nelle seguenti schermate e inserisci i dati richiesti per programmare l’esame. Nella pagina del pagamento, verifica che il totale sia pari a $ 0,00 e invia l’ordine.  
-![Fornisci i dettagli richiesti per programmare l'esame](images/step-7-2x.png)
+**Passaggio 7:** Dopo aver inserito il codice di accesso corretto, ti verrà chiesto di collegare i tuoi account. DEVI accettare di collegare i tuoi account per ricevere uno sconto.  
+![Collega i tuoi account per ricevere lo sconto](images/step7-linkmodal.png)
+
+Al successivo accesso, se sei idoneo per gli sconti per l'esame per uno di questi account, gli sconti verranno visualizzati automaticamente. Per rimuovere un account, vai su [Certification Dashboard](https://aka.ms/certdashboard) e fai clic su "Modifica il tuo profilo di certificazione”.
+
+**Passaggio 8:** Nella parte superiore viene visualizzato uno sconto. Scegli lo sconto che vuoi richiedere e poi continua con il checkout facendo clic sul pulsante dell'esame programmato.  
+![Scegli lo sconto e continua facendo clic sul pulsante dell'esame programmato](images/step8-coupon.png)
+
+**Passaggio 9:** Per pianificare l'esame, seguire i passaggi nelle schermate successive e fornire i dettagli richiesti. Nella pagina del pagamento, verifica che il totale sia pari a $0,00 e invia l’ordine.  
+![Collega i tuoi account per ricevere lo sconto](images/step9.png)
 
 **Supporto per le certificazioni:**
 
@@ -88,7 +96,7 @@ Quest'offerta include tutti gli esami di certificazione Microsoft di base, basat
 
 **D: Devo programmare la mia partecipazione gratuita all’esame _durante_ l’evento a cui ho preso parte o a cui prevedo di partecipare?**
 
-**R:** No, non è necessario programmare la partecipazione gratuita all’esame prevista da quest'offerta durante l’evento a cui hai partecipato. È possibile pianificare l'esame durante  o dopo l'evento; l'offerta per sostenere un esame gratuito scade il 31 gennaio 2021.
+**R:** No, non è necessario programmare la partecipazione gratuita all’esame prevista da quest'offerta durante l’evento a cui hai partecipato. È possibile pianificare l'esame durante o dopo l'evento; l'offerta per sostenere un esame gratuito scade il 31 gennaio 2021.
 
 **D: Devo sostenere l'esame entro o il 31 gennaio 2021?**
 

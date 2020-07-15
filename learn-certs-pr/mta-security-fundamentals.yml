@@ -1,32 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+title: 'MTA: Security Fundamentals'
 metadata:
-  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: 'I Microsoft 365 Messaging Administrator distribuiscono, configurano, gestiscono, risolvono e monitorano destinatari, autorizzazioni, protezione della posta, flusso di posta e cartelle pubbliche in ambienti ibridi e cloud aziendali.'
-uid: certification.m365-messaging-administrator
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+  title: 'MTA: Security Fundamentals'
+  description: 'MTA: Security Fundamentals'
+uid: certification.mta-security-fundamentals
+iconUrl: /media/learn/certification/badges/mta-badge.svg
 summary: |-
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-
-  I Microsoft 365 Messaging Administrator distribuiscono, configurano, gestiscono, risolvono e monitorano destinatari, autorizzazioni, protezione della posta, flusso di posta e cartelle pubbliche in ambienti ibridi e cloud aziendali.
-subTitle: I Microsoft 365 Messaging Administrator distribuiscono, configurano, gestiscono, risolvono e monitorano destinatari, autorizzazioni, protezione della posta, flusso di posta e cartelle pubbliche in ambienti ibridi e cloud aziendali.
+  
+  Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrare nel campo della tecnologia. Le certificazioni MTA riguardano un'ampia gamma di concetti tecnici fondamentali, valutano e convalidano le conoscenze tecniche di base e migliorano la credibilità tecnica. Nota&#58; Gli esami MTA non sono validi per la certificazione MCP e non sono un prerequisito per la certificazione MCSA o MCSD.
+subTitle: "Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrare nel campo della tecnologia. Le certificazioni MTA riguardano un'ampia gamma di concetti tecnici fondamentali, valutano e convalidano le conoscenze tecniche di base e migliorano la credibilità tecnica. Nota: Gli esami MTA non sono validi per la certificazione MCP e non sono un prerequisito per la certificazione MCSA o MCSD."
 levels:
-- intermediate
+- beginner
 skills:
-- Gestire le impostazioni e le risorse dell'organizzazione
-- Pianificare e gestire l'architettura della posta
-- Pianificare e implementare una configurazione e una migrazione ibride
-- Mettere in sicurezza l'ambiente di messaggistica
+- nessuna
 roles:
 - administrator
-type: role-based
+type: mta
 products:
-- m365
+- windows-server
 courses:
-- uid: course.ms-203t00
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
+- uid: course.40032
+- uid: course.40367
 exams:
-- uid: exam.ms-203
+- uid: exam.98-367
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
@@ -43,4 +40,3 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-
