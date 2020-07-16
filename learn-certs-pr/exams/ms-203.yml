@@ -26,12 +26,14 @@ levels:
 skills:
 - Gestire le impostazioni e le risorse dell'organizzazione (30-35%)
 - Pianificare e gestire l'architettura della posta (20-25%)
-- Pianificare e implementare una configurazione ibrida e una migrazione (20-25%)
+- Pianificare e implementare una configurazione e una migrazione ibride (20-25%)
 - Mettere in sicurezza l'ambiente di messaggistica (20-25%)
 roles:
 - administrator
 products:
 - m365
+courses:
+- uid: course.ms-203t00
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
