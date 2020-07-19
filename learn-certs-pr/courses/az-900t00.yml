@@ -57,27 +57,27 @@ outlineSection: |-
   - Strumenti di gestione di Azure
 
 
-  #### Lab &#58; Passo passo&#58; Creare una macchina virtuale
+  #### Lab&#58; Passo passo&#58; Creare una macchina virtuale
 
-  #### Lab &#58; Passo passo&#58; Effettuare il deployment delle istanze del contenitore Azure
+  #### Lab&#58; Passo passo&#58; Effettuare il deployment delle istanze del contenitore Azure
 
-  #### Lab &#58; Passo passo&#58; Creare una rete virtuale
+  #### Lab&#58; Passo passo&#58; Creare una rete virtuale
 
-  #### Lab &#58; Passo passo&#58; Creare un archivio blob
+  #### Lab&#58; Passo passo&#58; Creare un archivio blob
 
-  #### Lab &#58; Passo passo&#58; Creare un database SQL
+  #### Lab&#58; Passo passo&#58; Creare un database SQL
 
-  #### Lab &#58; Passo passo&#58; Implementare un Azure IoT Hub
+  #### Lab&#58; Passo passo&#58; Implementare un Azure IoT Hub
 
-  #### Lab &#58; Passo passo&#58; Implementazione delle funzioni Azure
+  #### Lab&#58; Passo passo&#58; Implementazione delle funzioni Azure
 
-  #### Lab &#58; Passo passo&#58; Creare un'applicazione web
+  #### Lab&#58; Passo passo&#58; Creare un'applicazione web
 
-  #### Lab &#58; Passo passo&#58; Creare una VM con un Template
+  #### Lab&#58; Passo passo&#58; Creare una VM con un Template
 
-  #### Lab &#58; Passo passo&#58; Creare una VM con PowerShell
+  #### Lab&#58; Passo passo&#58; Creare una VM con PowerShell
 
-  #### Lab &#58; Passo passo&#58; Creare una VM con CLI
+  #### Lab&#58; Passo passo&#58; Creare una VM con CLI
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Identificare i componenti architettonici di base azzurri, come le regioni, le geografie e i gruppi di risorse.
   - Identificare i casi d'uso per i servizi e i prodotti core Azure, come le macchine virtuali e lo storage.
@@ -96,19 +96,19 @@ outlineSection: |-
   - Privacy, conformità e standard di protezione dei dati
 
 
-  #### Lab &#58; Passo passo&#58; Traffico di rete sicuro
+  #### Lab&#58; Passo passo&#58; Traffico di rete sicuro
 
-  #### Lab &#58; Passo passo&#58; Implementare il Azure Key Vault
+  #### Lab&#58; Passo passo&#58; Implementare il Azure Key Vault
 
-  #### Lab &#58; Passo passo&#58; Creare una politica Azure
+  #### Lab&#58; Passo passo&#58; Creare una politica Azure
 
-  #### Lab &#58; Passo passo&#58; Gestire l'accesso con RBAC
+  #### Lab&#58; Passo passo&#58; Gestire l'accesso con RBAC
 
-  #### Lab &#58; Passo passo&#58; Gestire i blocchi delle risorse
+  #### Lab&#58; Passo passo&#58; Gestire i blocchi delle risorse
 
-  #### Lab &#58; Passo passo&#58; Implementare l'etichettatura delle risorse
+  #### Lab&#58; Passo passo&#58; Implementare l'etichettatura delle risorse
 
-  #### Lab &#58; Passo passo&#58; Esplorare il Trust Center
+  #### Lab&#58; Passo passo&#58; Esplorare il Trust Center
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Descrivere le opzioni di connettività di sicurezza della rete virtuale come Network Security Groups.
   - Descrivere le opzioni di autenticazione e autorizzazione dell'identità Azure.
@@ -118,29 +118,26 @@ outlineSection: |-
   - Descrivere gli standard di privacy, conformità e protezione dei dati.
 
 
-  ### Modulo 4&#58; Prezzi e piani di supporto di Azure
+  ### Modulo 4&#58; Prezzi di Azure, SLA (Service Level Agreement) e ciclo di vita
   In questo modulo, imparerai a conoscere gli abbonamenti Azure, la pianificazione e la gestione dei costi, le opzioni di supporto, gli SLA e i cicli di vita del servizio.
   #### Lezioni
   - Sottoscrizioni di Azure
   - Pianificare e gestire i costi
-  - Opzioni di supporto Azure
   - Accordi sui livelli di servizio di Azure (SLA)
   - Ciclo di vita dei servizi in Azure
 
 
-  #### Lab &#58; Passo passo&#58; Utilizzare il calcolatore dei prezzi Azure
+  #### Lab&#58; Passo passo&#58; Utilizzare il calcolatore dei prezzi Azure
 
-  #### Lab &#58; Passo passo&#58; Utilizzare il calcolatore TCO Azure
+  #### Lab&#58; Passo passo&#58; Utilizzare il calcolatore TCO Azure
 
-  #### Lab &#58; Passo passo&#58; Aprire una richiesta di supporto
+  #### Lab&#58; Passo passo&#58; Calcolare SLA compositi
 
-  #### Lab &#58; Passo passo&#58; Calcolare SLA compositi
+  #### Lab&#58; Passo passo&#58; Accesso alle funzioni di Anteprima Azure
 
-  #### Lab &#58; Passo passo&#58; Accesso alle funzioni di Anteprima Azure
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Utilizzare un abbonamento Azure.
   - Pianificare e gestire i costi.
-  - Spiegare le opzioni di supporto Azure.
   - Descrivere gli SLA Azure.
   - Spiegare i cicli di vita del servizio Azure.
 

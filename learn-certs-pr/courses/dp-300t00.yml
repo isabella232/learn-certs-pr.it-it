@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Administering Relational Databases on Microsoft Azure
+metadata:
+  title: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+  description: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+uid: course.dp-300t00
+courseNumber: 'DP-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Pianificare, distribuire e configurare le offerte SQL di Azure
+- skill: Monitorare le prestazioni e l’ottimizzazione di un database e delle query per prestazioni ottimali
+- skill: Progettare e configurare una soluzione ad alta disponibilità
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+exams:
+- uid: exam.dp-300
+summary: |-
+  Questo corso fornisce agli studenti le conoscenze e le competenze per amministrare un'infrastruttura di database SQL Server per database relazionali, ibridi, on-premise e cloud, e che lavorano con le offerte di database relazionali Microsoft PaaS. Inoltre, sarà utile per gli individui che sviluppano applicazioni che forniscono contenuto da database relazionali basati su SQL.
+
+  #### Profilo dei destinatari
+  I destinatari di questo corso sono professionisti dei dati che gestiscono dati e database e che desiderano informazioni sull'amministrazione delle tecnologie della piattaforma dati disponibili in Microsoft Azure. Questo corso è utile anche per gli architetti di dati e gli sviluppatori di applicazioni che devono comprendere quali tecnologie sono disponibili per la piattaforma dati con Azure e come utilizzare tali tecnologie tramite le applicazioni.
+prerequisitesSection: |-
+  Oltre ad avere un’esperienza a livello professionale, gli studenti che decidono di seguire questo corso devono possedere le conoscenze tecniche che si acquisiscono tramite i seguenti corsi&#58;
+  - Azure Fundamentals
+  - Azure Data Fundamentals
+outlineSection: |-
+  ### Modulo 1&#58; Il ruolo di amministratore del database di Azure
+  Questo modulo esamina il ruolo di un amministratore di database nel mondo di Azure. Fornisce inoltre alcune informazioni fondamentali rilevanti per il contenuto generale. É prevista una revisione delle varie opzioni basate su SQL Server (SQL Server in una VM, Istanze gestite e Database SQL di Azure.) Gli studenti apprenderanno perché il livello di compatibilità è un concetto fondamentale quando si utilizzano database SQL in Azure. Gli studenti vengono inoltre introdotti ad altre piattaforme di database disponibili su Azure oltre a quelle basate su SQL Server, in particolare PostgreSQL e MySQL
+  #### Lezioni
+  - Ruoli della piattaforma dati di Azure
+  - Piattaforme e opzioni di database di Azure
+  - Livelli di compatibilità del Server SQL
+  - Funzioni di anteprima di Azure
+
+
+  #### Lab &#58; Utilizzo del portale di Azure e del Server SQL Management Studio
+  - Effettuare il provisioning di un Server SQL su macchine virtuali di Azure
+  - Connettersi al Server SQL e ripristinare un backup
+
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Comprendere il ruolo di amministratore del database di Azure in relazione ad altri ruoli della piattaforma dati
+  - Saper descrivere le differenze chiave tra l'operazione di database basata sul Server SQL
+  - Saper descrivere la differenza tra versioni e livelli di compatibilità
+  - Saper abilitare e disabilitare le funzionalità di anteprima 
+
+
+  ### Modulo 2&#58; Pianificare e implementare le risorse della piattaforma dati 
+  Questo modulo introduce i metodi per distribuire le risorse della piattaforma dati in Azure. Conoscerai le opzioni per l'aggiornamento e la migrazione dei database SQL esistenti in Azure. Imparerai come impostare le risorse di Azure per ospitare il Server SQL su una macchina virtuale, un'istanza gestita, un database SQL di Azure e PostgreSQL o MySQL. Imparerai come determinare quali sono le opzioni migliori in base a requisiti specifici, tra cui le esigenze di High Availability and Disaster Recovery (HADR). Impareranno a calcolare i fabbisogni di risorse e a creare modelli per le loro implementazioni.
+  #### Lezioni
+  - Distribuzione del Server SQL mediante IaaS
+  - Distribuzione del Server SQL mediante PaaS
+  - Distribuzione di soluzioni di database open source in Azure
+
+  #### Lab &#58; Implementare un database SQL di Azure
+  - Implementare una VU utilizzando un modello ARM
+  - Configurare le risorse necessarie prima di creare un database
+  - Distribuire un database SQL in Azure.
+  - Registrare l'istanza del database SQL di Azure in Azure Data Studio e convalidare la connettività
+  - Implementare PostgreSQL o MySQL utilizzando uno strumento client per convalidare la connettività
+
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Implementare le risorse utilizzando metodi manuali
+  - Consigliare un'offerta di database appropriata in base ai requisiti
+  - Configurare le risorse del database
+  - Valutare e implementare una strategia per lo spostamento di un database in Azure
+
+
+  ### Modulo 3&#58; Implementare un ambiente sicuro
+  Questo modulo esamina le pratiche per proteggere il database del Server SQL e un database SQL di Azure. È prevista una revisione delle varie opzioni basate sul Server SQL, nonché delle varie opzioni di Azure per la protezione del database SQL di Azure e dei database che risiedono nel database SQL di Azure. . Gli studenti apprenderanno perché la sicurezza è fondamentale quando si utilizzano i database. . Gli studenti vengono inoltre introdotti ad altre piattaforme di database disponibili su Azure oltre a quelle basate sul Server SQL, in particolare, il Database di Azure per MariaDB//MySQL/PostgreSQL
+  #### Lezioni
+  - Configurare l’autenticazione del database
+  - Configurare l’autorizzazione del database
+  - Implementare la sicurezza per i dati a riposo
+  - Implementare la sicurezza per i dati in transito
+  - Implementare controlli di conformità per i dati sensibili
+
+  #### Lab &#58; Implementare un ambiente sicuro
+  - Configurare una regola firewall basata su server utilizzando il portale di Azure
+  - Autorizzare l'accesso al database SQL di Azure con l'Active Directory di Azure
+  - Abilitare la sicurezza dei dati avanzata e la classificazione dei dati
+  - Gestire l'accesso agli oggetti di database
+
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Comprendere le differenze tra l'autenticazione di Windows, il Server SQL e la Directory attiva di Azure
+  - Descrivere e configurare sia le soluzioni di crittografia dei dati a riposo sia la crittografia dei dati in transito
+  - Implementare soluzioni  di sensibilità dei dati
+
+
+  ### Modulo 4&#58; Monitorare e ottimizzare le risorse operative
+  Questo modulo ti insegnerà come ottimizzare le risorse per i tuoi database creati utilizzando i servizi IaaS o PaaS. Il modulo copre anche le risorse hardware e i server di monitoraggio. Ti aiuterà a familiarizzare con i vari strumenti disponibili per monitorare le prestazioni e definire una linea di base. Imparerai come interpretare le metriche delle prestazioni per le risorse più critiche. Imparerai anche come risolvere i problemi relativi alle prestazioni del database utilizzando Informazioni intelligenti sul database SQL di Azure.
+  #### Lezioni
+  - Monitoraggio della linea di base e delle prestazioni
+  - Principali cause dei problemi di prestazione
+  - Configurazione delle risorse per prestazioni ottimali
+  - Configurazione del database utente
+  - Attività di manutenzione correlate alle prestazioni
+
+  #### Lab &#58; Monitorare ed ottimizzare le risorse
+  - Isolare i problemi della CPU
+  - Utilizzare Query Store per osservare i problemi di blocco
+  - Rilevare e correggere i problemi di frammentazione
+
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Monitorare l'attività e confrontarla con una linea di base
+  - Definire le attività di manutenzione relative alle prestazioni
+  - Identificare le principali cause dei problemi di prestazioni
+  - Configurazione delle risorse per prestazioni ottimali
+  - Configurare un database utente per prestazioni ottimali
+
+
+  ### Modulo 5&#58; Ottimizzare le prestazioni della rete
+  I piani di esecuzione delle query sono potenzialmente l'aspetto più importante delle prestazioni del database. Migliorare i piani sbagliati è certamente un ambito in cui un piccolo sforzo può portare enormi miglioramenti. Sebbene i problemi hardware possano limitare le prestazioni delle query, il miglioramento dell'hardware di solito produce miglioramenti delle prestazioni dell’ordine del 10-20%, al massimo. La maggior parte degli amministratori di database incontrano query non ottimizzate, con statistiche obsolete o mancanti, con indici mancanti o scelte di progettazione di database inadeguate che portano il modulo di gestione di database a eseguire una quantità di lavoro superiore a quella necessaria per restituire i risultati per una determinata query. Il miglioramento dei piani a volte può produrre miglioramenti delle prestazioni dell’ordine del 100-200% o anche di più, il che significa che dopo aver migliorato un piano con indici o statistiche migliori, una query potrebbe essere eseguita due o tre volte più velocemente! Questo modulo fornisce dettagli su come analizzare le prestazioni delle singole query e determinare dove è possibile apportare miglioramenti.
+  #### Lezioni
+  - Capire i piani di query del Server SQL
+  - Esplorare la progettazione di database basata sulle prestazioni
+  - Valutare i miglioramenti delle prestazioni
+
+  #### Lab &#58; Risoluzione dei problemi relativi alle prestazioni delle query
+  - Identificare i problemi con la progettazione del database AdventureWorks2017
+  - Isolare le aree problematiche nelle query con scarse prestazioni in AdventureWorks2017
+  - Utilizzare Query Store per rilevare e gestire la regressione in AdventureWorks2017
+  - Utilizzare i suggerimenti per le query per influire sulle prestazioni in AdventureWorks2017
+
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Analizzare i piani di query e identificare le aree problematiche
+  - Valutare i potenziali miglioramenti delle query
+  - Rivedere la struttura della tabella e dell'indice
+  - Determinare se le modifiche apportate alle query o alla struttura hanno avuto un effetto positivo
+
+
+  ### Modulo 6&#58; Automazione delle attività
+  Un obiettivo comune per gli amministratori di database in molti ambienti è automatizzare il maggior numero di attività ripetitive. Può essere semplice come utilizzare script per automatizzare un processo di backup e complesso come creare un sistema di avviso completamente automatizzato. Questo modulo fornisce dettagli sulle attività di automazione per semplificare il lavoro del DBA. I metodi includono la pianificazione delle attività per i lavori di manutenzione regolari, nonché l'amministrazione e la configurazione di più istanze delle notifiche per l'esito positivo o negativo dell'attività o il mancato completamento.
+  #### Lezioni
+  - Impostazione della distribuzione automatica
+  - Definizione delle attività pianificate
+  - Configurazione degli eventi estesi
+  - Gestione delle risorse PaaS di Azure mediante metodi automatici
+
+  #### Lab &#58; Automazione delle attività
+  - Implementare un modello di Azure da un modello Quickstart in GitHub
+  - Configurare le notifiche in base alle metriche delle prestazioni
+  - Implementare un Runbook di automazione di Azure (o un processo elastico) per ricreare gli indici in un database SQL di Azure 
+
+  Al termine di questo modulo, gli studenti saranno in grado di&#58;
+  - Implementare le risorse utilizzando script di implementazione automatizzati
+  - Creare attività programmate
+  - Creare notifiche e avvisi
+  - Configurare l'automazione per i servizi PaaS
+
+
+  ### Modulo 7&#58; Pianificare e implementare scenari con l’alta disponibilità e il ripristino di emergenza
+  I dati devono essere disponibili quando l'azienda ne ha bisogno. Ciò significa che le soluzioni che ospitano i dati devono essere progettate tenendo presente la disponibilità e la recuperabilità. Supponiamo di lavorare per una società che vende widget sia nei negozi sia online. L'applicazione principale utilizza un database altamente transazionale per gli ordini. Cosa succederebbe se il server o la piattaforma che ospita il database transazionale avesse un problema che lo rendesse non disponibile o inaccessibile per qualche motivo? Che impatto avrebbe sul business? Se venisse messa in atto la soluzione giusta, il database sarebbe online in un lasso di tempo ragionevole con il minimo sforzo, consentendo così alle aziende di continuare con un impatto minimo o nullo. Questo modulo e il laboratorio associato coprono la configurazione, il test e la gestione di una soluzione per high availability and disaster recovery (HADR) in Azure, sia per le distribuzioni Infrastructure-as-a-Service (IaaS) sia Platform-as-a-Service (PaaS). Questo modulo non riguarderà solo i requisiti di base, ma anche le varie opzioni disponibili per ottenere HADR.
+  #### Lezioni
+  - Strategie per l’alta disponibilità e il ripristino di emergenza
+  - Piattaforma IaaS e strumenti di database per HADR
+  - Piattaforma PaaS e strumenti di database per HADR
+  - Backup e ripristino del database
+
+  #### Lab &#58; Pianificare e implementare scenari con l’alta disponibilità e il ripristino di emergenza
+  - Creare un Always On Availability Group
+  - Abilitare la replica geografica per il database SQL di Azure
+  - Backup all'URL e ripristino dall'URL
+
+  Al termine di questo modulo, gli studenti saranno in grado di capire&#58;
+  - La differenza tra tempo di recupero e obiettivi del punto di recupero
+  - Le opzioni HADR disponibili per IaaS e PaaS
+  - Le considerazioni per la pianificazione e la configurazione delle soluzioni HADR, tra cui le modalità di backup e ripristino fi
+  - I fattori che compongono una strategia HADR
+  - Come configurare una soluzione ad alta disponibilità tramite un laboratorio pratico

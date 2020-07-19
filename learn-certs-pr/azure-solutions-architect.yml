@@ -12,24 +12,22 @@ summary: |-
 
   Le responsabilità di questo ruolo includono la consulenza alle parti interessate e la traduzione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
 
-  Un Azure Solutions Architect collabora con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
+  Un Azure Solution Architect collabora con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
 
-  Un candidato a questa certificazione dovrebbe avere esperienza e conoscenza avanzate in vari aspetti delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, gestione dei dati, budget e governance - questo ruolo dovrebbe gestire il modo in cui le decisioni in ogni area influiscano su una soluzione globale. Inoltre, per questo ruolo si dovrebbe essere competenti in almeno uno di questi domini di Azure&#58; amministrazione, sviluppo o DevOps.
+  Un candidato a questa certificazione deve avere esperienza avanzata e conoscenza delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, ripristino di emergenza, piattaforma dati, budgeting e governance&#58; questo ruolo deve gestire in che modo le decisioni in ogni area influiscono su una soluzione globale. Inoltre, questo ruolo deve avere di competenze di livello esperto nell'amministrazione di Azure ed esperienza nei processi di sviluppo di Azure e DevOps.
 subTitle: L'Azure Solution Architects progetta e implementa soluzioni in esecuzione su Microsoft Azure, inclusi aspetti come elaborazione, rete, archiviazione e sicurezza.
 levels:
 - advanced
 skills:
-- Installare e configurare un’infrastruttura
-- Implementare carichi di lavoro e sicurezza
-- Creare e installare app
-- Implementare l’autenticazione e mettere in sicurezza i dati
-- Sviluppare l’archiviazione nel cloud e in Azure
-- Determinare i requisiti per i carichi di lavoro
+- Implementare e monitorare un'infrastruttura Azure
+- Implementare soluzioni di gestione e sicurezza
+- Implementare soluzioni per le app
+- Implementare e gestire piattaforme dati
+- Progettare il monitoraggio
 - Progettare identità e sicurezza
-- Progettare una soluzione per una piattaforma dati
-- Progettare una strategia di business continuity
-- Progettare soluzioni per l'installazione, migrazione e integrazione
-- Progettare una strategia per l’infrastruttura
+- Progettare l'archiviazione dei dati
+- Progettare la continuità aziendale
+- Progettare l’infrastruttura
 roles:
 - solution-architect
 type: role-based
@@ -77,11 +75,11 @@ paths:
 - uid: learn.architect-migration-bcdr
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUW
 exams:
-- uid: exam.az-300
-- uid: exam.az-301
+- uid: exam.az-303
+- uid: exam.az-304
 resources:
 - title: Poster delle certificazioni di Azure
-  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.

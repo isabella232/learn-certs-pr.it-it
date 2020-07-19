@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: micsullivan
 ---
-# Diventa un Microsoft Certified Trainer
+# Become a Microsoft Certified Trainer
 
 I Microsoft Certified Trainer (MCT) sono i docenti più preparati in termini tecnici e didattici sulle tecnologie Microsoft. Diventa parte di questo gruppo esclusivo di esperti mondiali in formazione tecnica di Microsoft e cogli i vantaggi della certificazione e dell’appartenza al programma MCT.
 
@@ -37,6 +37,7 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
 
 
 ### Requisiti per la partecipazione al programma MCT
+
 - Disporre di una certificazione o qualifica Microsoft idonea per il programma MCT. 
 (Vedi l’elenco seguente per le certificazioni idonee)
 - Dimostrare di possedere le competenze didattiche convalidate mediante una delle seguenti certificazioni:
@@ -79,16 +80,17 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
 - [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
+- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
+- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
+- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(verrà ritirato il 31 agosto 2020)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (verrà ritirato il 31 agosto 2020)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
-- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
-- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -135,9 +137,9 @@ Se sei un Microsoft Office Specialist e non hai un Microsoft Certification ID (M
 Puoi utilizzare lo strumento per l’adesione al programma MCT per:
 
 - **Rivedere i requisiti del programma MCT e sottoscrivere la Guida e il Contratto del programma MCT.** La tua firma elettronica attesta che hai accettato i termini e le condizioni del Contratto MCT.
-**Aggiornare le informazioni del tuo profilo.** Le informazioni di contatto che fornisci vengono utilizzate per le comunicazioni relative al programma MCT.
-**Specificare il tuo stato occupazionale.** Se sei dipendente di un partner per la formazione o di una Microsoft Imagine Academy, dovra inserire l'ID del tuo datore di lavoro o della Microsoft Imagine Academy.
-**Selezionare il metodo di pagamento.** I costi del programma variano a seconda del paese/regione e dello stato occupazionale. Per informazioni sulle quote di adesione per i programmi MCT e MCT Alumni del tuo paese/regione, utilizza lo strumento di ricerca disponibile in fondo alla pagina.
+- **Aggiornare le informazioni del tuo profilo.** Le informazioni di contatto che fornisci vengono utilizzate per le comunicazioni relative al programma MCT.
+- **Specificare il tuo stato occupazionale.** Se sei dipendente di un partner per la formazione o di una Microsoft Imagine Academy, dovra inserire l'ID del tuo datore di lavoro o della Microsoft Imagine Academy.
+- **Selezionare il metodo di pagamento.** I costi del programma variano a seconda del paese/regione e dello stato occupazionale. Per informazioni sulle quote di adesione per i programmi MCT e MCT Alumni del tuo paese/regione, utilizza lo strumento di ricerca disponibile in fondo alla pagina.
 
 ## Programma MCT Alumni
 

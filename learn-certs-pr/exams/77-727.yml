@@ -8,12 +8,12 @@ displayName: 77-727
 summary: |+
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
 
-  I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2016. I candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine e utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
+  I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2016. Ai candidati viene chiesto di creare e modificare una cartella di lavoro con più pagine e di utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
 
   Negli esami di certificazione Microsoft Office Specialist (MOS) 2016 è stato introdotto un nuovo formato basato sulle prestazioni che permette di valutare meglio le conoscenze, le competenze e le capacità del candidato relativamente ai programmi MOS 2016&#58;
   - le istruzioni per l’esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò significa che i candidati devono capire l'obiettivo e il normale utilizzo della funzionalità del programma per poter portare a termine le attività di ciascun progetto.
   - Il formato dell'esame MOS 2016 include più progetti.
-subTitle: I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2016. I candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine e utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
+subTitle: I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2016. Ai candidati viene chiesto di creare e modificare una cartella di lavoro con più pagine e di utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
 providers:
@@ -31,7 +31,6 @@ locales:
 - it
 - ja
 - ko
-- nb
 - nl
 - pl
 - pt-br

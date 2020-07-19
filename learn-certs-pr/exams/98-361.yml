@@ -12,7 +12,11 @@ summary: |-
 subTitle: Candidati che desiderano dimostrare le proprie competenze nell’ambito dello sviluppo di software di base. È consigliabile che i candidati acquisiscano familiarità ed esperienza pratica con i concetti e le tecnologie qui descritti, seguendo i relativi corsi di formazione oppure mediante le esercitazioni e gli esempi disponibili in MSDN e Microsoft Visual Studio. I candidati devono possedere una certa esperienza di C# o Microsoft Visual Basic .NET.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIO
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -31,7 +35,7 @@ levels:
 skills:
 - Comprendere la manutenzione dei server (15-20%)
 - Comprendere la programmazione orientata agli oggetti (20-25%)
-- Comprendere lo sviluppo di software a livello generale (15-20%)
+- Comprendere lo sviluppo di software a livello generale (15- 20%)
 - Comprendere Web Applications (15-20%)
 - Comprendere le applicazioni desktop (15-20%)
 - Comprendere i database (15-20%)
@@ -53,7 +57,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedere una sistemazione
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
