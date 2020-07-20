@@ -12,7 +12,7 @@ summary: |-
 subTitle: I candidati di livello base per l'esame su Microsoft Excel 2013 devono conoscere i concetti di base dell'ambiente Excel ed essere in grado di completare le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2013. Questi candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine per vari scopi e in diverse situazioni. Gli esempi includono budget professionali, grafici relativi alle prestazioni dei team, fatture commerciali e registri di esercizi. I ruoli dei candidati possono includere studenti, impiegati, contabili, istruttori e altri.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-420&examname=Excel%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-420
 locales:
 - en
 - zh-cn
@@ -28,6 +28,8 @@ locales:
 - pl
 - pt-br
 - ru
+- ar-sa
+- el-gr
 levels:
 - beginner
 skills:

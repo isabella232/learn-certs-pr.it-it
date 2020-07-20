@@ -12,7 +12,7 @@ summary: |-
 subTitle: I candidati sono in grado di formattare i contenuti dei messaggi di posta elettronica formattando caratteri e paragrafi, nonché di creare o inserire elementi grafici nei messaggi, come grafici, tabelle ed elementi grafici SmartArt. Sono inoltre in grado di inviare messaggi a destinatari privati utilizzando il campo Ccn. I candidati devono essere in grado di creare record contatti, attività e appuntamenti a partire dai messaggi in arrivo, nonché di configurare gruppi di contatti per facilitare la comunicazione con altri utenti di Outlook. Possono inoltre condividere le informazioni di pianificazione con altri utenti di Outlook. I candidati pianificano inoltre le riunioni coinvolgendo persone e risorse di sistema e delegano attività a terzi. Gli utenti principali personalizzano la finestra del programma Outlook e la barra di accesso rapido per ottenere la massima efficienza. Organizzano i messaggi e gli altri elementi di Outlook e visualizzano viste diverse delle cartelle di posta, del calendario, della rubrica e dell’elenco attività. Possono anche visualizzare diversi calendari e condividere i calendari con altri utenti di Outlook.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-423&examname=Outlook%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-423
 locales:
 - en
 - zh-tw
@@ -22,6 +22,8 @@ locales:
 - ko
 - nb
 - nl
+- ar-sa
+- el-gr
 levels:
 - beginner
 skills:

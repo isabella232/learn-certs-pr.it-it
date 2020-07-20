@@ -10,12 +10,16 @@ summary: |-
 
   I candidati per questo esame hanno familiarità con i concetti generali e le tecnologie di rete. I candidati devono avere una esperienza pratica di Windows Server, reti Windows, strumenti di gestione delle reti, DNS, TCP/IP, procedimento di risoluzione dei nomi e protocolli e tipologie di rete.
 
-  <div style='font-weight&#58; bold;'><br/>Ci sono aggiornamenti degli esami in vigore dal 31 gennaio 2018. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 98-366.</div>
+  <div style='font-weight&#58; bold;'><br/>Ci sono aggiornamenti degli esami in vigore dal mercoledì 31 gennaio 2018. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 98-366.</div>
 subTitle: I candidati per questo esame hanno familiarità con i concetti generali e le tecnologie di rete. I candidati devono avere una esperienza pratica di Windows Server, reti Windows, strumenti di gestione delle reti, DNS, TCP/IP, procedimento di risoluzione dei nomi e protocolli e tipologie di rete.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
 practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -52,7 +56,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedere una sistemazione
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

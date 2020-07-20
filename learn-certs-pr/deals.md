@@ -42,11 +42,11 @@ Convalida le tue competenze acquisisci un vantaggio professionale e diventa più
 
 
 ## Risparmia con lo sconto riservato agli studenti
-Approfitta degli sconti sugli esami Microsoft Certified Professional quando verifichi il tuo stato di studente prima di registrarti per un esame. Se la tua scuola partecipa al programma Microsoft Imagine Academy, è possibile che tu abbia diritto a ulteriori sconti. *Nota Gli sconti per gli studenti per gli esami Microsoft Certified non sono disponibili in India e Cina.*
+Approfitta degli sconti sugli esami Microsoft Certified Professional quando verifichi il tuo stato di studente prima di registrarti per un esame. *Nota Gli sconti per gli studenti per gli esami Microsoft Certified non sono disponibili in India e Cina.*
 
 [**Ulteriori informazioni**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-asked-questions"></a>Domande frequenti
+## Domande frequenti
 
 **D. Cos’è la ripetizione di un esame?**
 
