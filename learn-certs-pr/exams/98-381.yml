@@ -10,12 +10,16 @@ summary: |-
 
   I candidati per questo esame devono essere capaci di riconoscere e scrivere codici Python sintatticamente corretti, riconoscere i tipi di dati supportati da Python, ed essere capaci di riconoscere e scrivere codici Python che risolveranno logicamente un dato problema.
 
-  I candidati devo aver almeno avuto un’istruzione e/o esperienza pratica di approssimativamente 100 ore con il linguaggio di programmazione Python, essere a conoscenza delle sue caratteristiche e capacità e sapere come scrivere, eseguire debugging e mantenere ben formattati e ben documentati i codici Python.
+  I candidati devono aver almeno avuto una formazione e/o esperienza pratica di approssimativamente 100 ore con il linguaggio di programmazione Python, essere a conoscenza delle sue caratteristiche e capacità e capire come scrivere, eseguire debug e mantenere ben formattati e ben documentati i codici Python.
 subTitle: I candidati per questo esame devono essere capaci di riconoscere e scrivere codici Python sintatticamente corretti, riconoscere i tipi di dati supportati da Python, ed essere capaci di riconoscere e scrivere codici Python che risolveranno logicamente un dato problema.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
 practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -51,7 +55,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedere una sistemazione
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

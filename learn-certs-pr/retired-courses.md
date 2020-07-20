@@ -13,6 +13,8 @@ ms.author: micsullivan
 
 Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Dopo la data di ritiro, i corsi non vengono più venduti.
 
+Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+
 ## Corsi ritirati: Corsi di formazione con istruttori
 
 * Corsi ritirati il 30 giugno 2020
@@ -44,7 +46,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 6419 | B | Configuring, Managing and Maintaining Windows Server® 2008-based Servers | Inglese | 30/06/2020 |
     | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | Inglese | 30/06/2020 |
     | 6425 | C | Configuring and Troubleshooting Windows Server® 2008 Active Directory® Domain Services | Inglese | 30/06/2020 |
-    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | Inglese| 30/06/2020 |
+    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | Inglese | 30/06/2020 |
     | 6433 | A | Planning and Implementing Windows Server® 2008 | Inglese | 30/06/2020 |
     | 6435 | B | Designing a Windows Server® 2008 Network Infrastructure | Inglese | 30/06/2020 |
     | 6436 | B | Designing a Windows Server® 2008 Active Directory® Infrastructure and Services | Inglese | 30/06/2020 |
@@ -164,7 +166,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | Inglese | 28/02/2020 |
     | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | Inglese | 28/02/2020 |
     | 6425 | C | Configuring and Troubleshooting Windows Server® 2008 Active Directory® Domain Services | Inglese | 28/02/2020 |
-    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | Inglese| 28/02/2020 |
+    | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | Inglese | 28/02/2020 |
     | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | Inglese | 28/02/2020 |
     | 10135 | B | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | Inglese | 28/02/2020 |
     | 10174 | B | Configuring and Administering Microsoft® SharePoint® 2010 | Inglese | 28/02/2020 |
@@ -519,7 +521,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | Tedesco | 30/6/2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | Francese | 30/6/2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | Tedesco | 30/6/2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | Francese | 30/6/2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | Francese | 30/6/2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | Tedesco | 30/6/2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | Francese | 30/6/2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | Portoghese | 30/6/2018
@@ -706,7 +708,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | Francese | 30/6/2018
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Giapponese) | Giapponese | 30/6/2018
 
-* Corsi ritirati il venerdì 30 marzo 2018
+* Corsi ritirati il 30 marzo 2018
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -721,7 +723,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | Inglese | 31/1/2018
     | 40442 | A | MOC Workshop: Architecting Microsoft Azure Solutions | Inglese | 31/1/2018
 
-* Corsi ritirati il venerdì 30 giugno 2017
+* Corsi ritirati il 30 giugno 2017
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -765,7 +767,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | --- | --- | --- | --- | --- |
     | 10978 | A | Introduction to Azure for Developers | Inglese | 15/4/2017
 
-* Corsi ritirati il venerdì 31 marzo 2017
+* Corsi ritirati il 31 marzo 2017
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -855,26 +857,26 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 80565 | A | Microsoft Dynamics AX 2012 中的供应链基础 | Cinese semplificato | 31/12/2016
     | 80569 | A | Microsoft Dynamics AX 2012 中的财务 I | Cinese semplificato | 31/12/2016
 
-* Corsi ritirati il lunedì 31 ottobre 2016
+* Corsi ritirati il 31 ottobre 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10983 | A | Upgrading Your Skills to Windows Server 2016 | Inglese | 31/10/2016
     | 20497 | A | Software Testing with Visual Studio 2013 | Inglese | 31/10/2016
 
-* Corsi ritirati il lunedì 15 agosto 2016
+* Corsi ritirati il 15 agosto 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10968 | B | Designing for Office 365 Infrastructure | Inglese | 15/8/2016
 
-* Corsi ritirati il lunedì 1 agosto 2016
+* Corsi ritirati il 1 agosto 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | Inglese | 1/8/2016
 
-* Corsi ritirati il venerdì 24 giugno 2016
+* Corsi ritirati il 24 giugno 2016
 
   [Scarica l’elenco completo dei corsi di e-learning programmati per il ritiro](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
@@ -884,7 +886,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | --- | --- | --- | --- | --- |
     | 20346 | D | Managing Office 365 Identities and Services | Inglese | 15/6/2016
 
-* Corsi ritirati il lunedì 18 aprile 2016
+* Corsi ritirati il 18 aprile 2016
 
     | Numero di corso | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -914,7 +916,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
 
   [Scarica l’elenco completo di corsi con istruttore programmati per il ritiro](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
-* Corsi ritirati il lunedì 31 agosto 2015
+* Corsi ritirati il 31 agosto 2015
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -944,14 +946,14 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | Inglese | 31/1/2015
     | 10778 | A | Implementing Data Models and Reports with Microsoft SQL Server 2012 | Inglese | 31/1/2015
 
-* Corsi ritirati il venerdì 31 ottobre 2014
+* Corsi ritirati il 31 ottobre 2014
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10750 | A | Monitoring and Operating a Private Cloud with System Center 2012 | Inglese | 31/10/2014
     | 10751 | A | Configuring and Deploying a Private Cloud with System Center 2012 | Inglese | 31/10/2014
 
-* Corsi ritirati il lunedì 25 agosto 2014
+* Corsi ritirati il 25 agosto 2014
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -1002,7 +1004,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | 40005 | B | First Look Clinic: Windows Server 2012 | Inglese | 31/12/2013
     | 40006 | B | Hands On Lab: Windows Server 2012 | Inglese | 31/12/2013
 
-* Corsi ritirati il lunedì 30 settembre 2013
+* Corsi ritirati il 30 settembre 2013
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -1024,7 +1026,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
 
 ## Corsi ritirati: Corsi online
 
-* Corsi ritirati il venerdì 29 dicembre 2017
+* Corsi ritirati il 29 dicembre 2017
 
   * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Scarica l’elenco completo di corsi di e-learning MSIA programmati per il ritiro](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
@@ -1035,7 +1037,7 @@ Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Do
     | --- | --- | --- | --- |
     | 47003 | Windows Server 2012 Jumpstart | Inglese | 15/8/2017 |
 
-* Corsi ritirati il venerdì 30 giugno 2017
+* Corsi ritirati il 30 giugno 2017
 
   * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Scarica l'elenco completo di corsi di e-learning MSIA programmati per il ritiro](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)

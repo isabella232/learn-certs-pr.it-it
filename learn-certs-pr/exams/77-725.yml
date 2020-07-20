@@ -31,7 +31,6 @@ locales:
 - it
 - ja
 - ko
-- nb
 - nl
 - pl
 - pt-br
@@ -46,7 +45,7 @@ skills:
 - Formattare testo, paragrafi e sezioni (25-30%)
 - Creare tabelle ed elenchi (20-25%)
 - Creare e gestire riferimenti (5-10%)
-- Inserire e formattare elementi grafici (20-25%)
+- Inserire e formattare elementi grafici /20-25%)
 roles:
 - developer
 products:

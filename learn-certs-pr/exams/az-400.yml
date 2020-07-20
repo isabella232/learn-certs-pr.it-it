@@ -7,13 +7,15 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il 15 giugno 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 15 giugno 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
   </div>
 
-  I candidati a questo esame sono professionisti DevOps che gestiscono persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino le necessità degli utenti e gli obiettivi dell'azienda. I professionisti DevOps velocizzano la consegna ottimizzando le prassi, migliorando la comunicazione e collaborazione e creando automatismi. Progettano e implementano strategie per i codici delle applicazioni e le infrastrutture in modo da permettere un'integrazione continua, un test continuo, una consegna continua e un continuo monitoraggio e feedback.
+  I candidati a questo esame devono avere esperienza in materia lavorando con persone, processi e tecnologie per fornire continuamente valore aziendale.
 
-  I candidati devono essere esperti nell’uso delle pratiche Agile. Devono avere familiarità sia con l'amministrazione di Azure sia con lo sviluppo di Azure ed essere esperti in almeno una di queste aree. I professionisti DevOps devono essere in grado di progettare e implementare le prassi DevOps per il controllo delle versioni, della conformità, del codice infrastruttura, della gestione della configurazione, delle build, delle release e dei test utilizzando le tecnologie Azure.
-subTitle: 'Questo esame misura la tua capacità di progettare una strategia DevOps e implementare: Processi di sviluppo DevOps; gestione delle dipendenze; infrastruttura delle applicazioni; e integrazione, consegna e feedback continui.'
+  Le responsabilità per questo ruolo includono la progettazione e l'implementazione di strategie di collaborazione, codice, infrastruttura, controllo del codice sorgente, sicurezza, conformità, integrazione continua, test, consegna, monitoraggio e feedback.
+
+  Il candidato deve avere familiarità sia con l'amministrazione sia con lo sviluppo di Azure ed essere esperto in almeno una di queste aree.
+subTitle: "Questo esame misura la tua capacità di svolgere i seguenti compiti tecnici: sviluppare una strategia di strumentazione; sviluppare una strategia di Site Reliability Engineering (SRE); sviluppare un piano di sicurezza e conformità; gestire il controllo del codice sorgente; facilitare la comunicazione e la collaborazione; definire e implementare l'integrazione continua; e definire e implementare una strategia di consegna e gestione del rilascio continua."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,14 +28,14 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame sarà aggiornato il 15 giugno 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
-- Progettare una strategia DevOps (20-25%)
-- Implementare processi di sviluppo DevOps (20-25%)
-- Implementare l’integrazione continua (10-15%)
-- Implementare una consegna continua (10-15%)
-- Implementare la gestione delle dipendenze (5-10%)
-- Implementare un’infrastruttura per le applicazioni (15-20%)
-- Implementare un feedback continuo (10-15%)
+- Il contenuto di questo esame è stato aggiornato il 15 giugno 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Sviluppare una strategia di strumentazione (5-10%)
+- Sviluppare una strategia di Site Reliability Engineering (SRE) (5-10%)
+- Sviluppare un piano di sicurezza e conformità (10-15%)
+- Gestire il controllo delle fonti (10-15%)
+- Facilitare la comunicazione e la collaborazione (10-15%)
+- Definire e implementare l’integrazione continua (20-25%)
+- Definire e implementare una strategia di consegna e gestione del rilascio continua (10-15%)
 roles:
 - devops-engineer
 products:

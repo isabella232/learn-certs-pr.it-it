@@ -12,7 +12,11 @@ summary: |-
 subTitle: I candidati di questo esame desiderano dimostrare conoscenze introduttive e competenze relative ai database, inclusi i database relazionali come Microsoft SQL Server. È consigliabile che i candidati acquisiscano familiarità ed esperienza pratica con i concetti e le tecnologie qui descritti, seguendo i relativi corsi di formazione oppure mediante le esercitazioni e gli esempi disponibili in MSDN e Microsoft Visual Studio. Nonostante si consigli una minima esperienza pratica con le tecnologie, per questi esami non è obbligatoria un'esperienza di lavoro.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJq
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -31,7 +35,7 @@ levels:
 skills:
 - Comprensione dei concetti di base del database (20-25%)
 - Creare oggetti database (20-25%)
-- Manipola i dati (25-30%)
+- Manipolare i dati (25-30%)
 - Comprensione dell'archiviazione dei dati (15-20%)
 - Somministrare una banca datii (10-15%)
 roles:
@@ -42,7 +46,7 @@ courses:
 - uid: course.40364
 relatedCertifications:
 - related:
-    uid: certification.mta-database-fundamentals
+    uid: none
 resources:
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
@@ -50,7 +54,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedere una sistemazione
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

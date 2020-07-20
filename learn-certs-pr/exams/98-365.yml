@@ -10,11 +10,15 @@ summary: |-
 
   I candidati per questo esame hanno familiarità con i concetti e le tecnologie dell'amministrazione di Windows Server. I candidati devono avere una esperienza pratica di Windows Server, reti Windows, Active Directory, gestione degli account e strumenti e concetti di ripristino del sistema.
 
-  <div style='font-weight&#58; bold;'><br/>Ci sono aggiornamenti degli esami in vigore dal 31 gennaio 2018. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 98-365.</div>
+  <div style='font-weight&#58; bold;'><br/>Ci sono aggiornamenti degli esami in vigore dal mercoledì 31 gennaio 2018. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 98-365.</div>
 subTitle: I candidati per questo esame hanno familiarità con i concetti e le tecnologie dell'amministrazione di Windows Server. I candidati devono avere una esperienza pratica di Windows Server, reti Windows, Active Directory, gestione degli account e strumenti e concetti di ripristino del sistema.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjL
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -31,12 +35,12 @@ locales:
 levels:
 - beginner
 skills:
-- Comprensione dell'installazione del server (10-15%)
-- Comprensione dei ruoli del server (25-30%)
-- Comprensione di Active Directory (20-25%)
+- Comprensione dell'installazione di un server (10-15%)
+- Comprensione dei ruoli server (25-30%)
+- Comprendere l'infrastruttura di Active Directory (20-25%)
 - Comprensione dell'archiviazione (10-15%)
 - Comprensione della gestione delle prestazioni del server (10-15%)
-- Comprensione della manutenzione del server (15-20%)
+- Comprensione della manutenzione server (15-20%)
 roles:
 - administrator
 products:
@@ -51,7 +55,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedere una sistemazione
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
