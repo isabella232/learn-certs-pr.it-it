@@ -8,12 +8,14 @@ displayName: MS-900
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il mercoledì 8 luglio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il mercoledì 8 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
   </div>
 
-  Questo esame è pensato per i candidati che hanno l’esigenza di dimostrare una conoscenza di base degli elementi e dei vantaggi derivanti dall’adozione di servizi cloud e del modello Software as a Service (SaaS). L’esame include argomenti quali le opzioni disponibili e i vantaggi derivanti dall’implementazione delle offerte dei servizi cloud di Microsoft 365.
+  Questo esame è pensato per i candidati che hanno l’esigenza di dimostrare una conoscenza di base degli elementi e dei vantaggi derivanti dall’adozione di servizi cloud e del modello Software as a Service (SaaS). I candidati devono avere la conoscenza delle opzioni disponibili e dei vantaggi derivanti dall’implementazione delle offerte dei servizi cloud di Microsoft 365.
 
-  Questo esame può essere sostenuto in anticipazione agli esami sul cloud computing e le relative tecnologie, come quelli relativi a Office 365, Microsoft Intune, Azure Information Protection (AIP) e Windows 10.
+  I candidati devono avere le conoscenze necessarie per consigliare soluzioni che affrontino le sfide IT organizzative comuni e per differenziare le soluzioni Microsoft 365 dalla concorrenza sul mercato. I candidati devono inoltre avere una conoscenza fondamentale delle offerte, ottimizzare le licenze per un miglior rapporto costo/efficacia e offrire opzioni di supporto alle organizzazioni.
+
+  I candidati devono essere in grado di distinguere tra i servizi e i prodotti Microsoft (Microsoft 365, Azure e Dynamics 365).
 subTitle: Dimostra di comprendere i concetti del cloud; i servizi e i concetti di base di Microsoft 365; la sicurezza, la conformità, la privacy e l’attendibilità di Microsoft 365; e i prezzi e il supporto di Microsoft 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
@@ -31,11 +33,11 @@ providers:
 levels:
 - beginner
 skills:
-- Il contenuto di questo esame sarà aggiornato il mercoledì 8 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
-- Descrivere i concetti del cloud (15-20%)
+- Il contenuto di questo esame è stato aggiornato il mercoledì 8 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Descrivere i concetti del cloud (10-15%)
 - Descrivere i principali servizi e concetti di Microsoft 365 (30-35%)
-- Descrivere le opzioni di sicurezza, conformità, privacy e affidabilità in Microsoft 365 (25-30%)
-- Descrivere le opzioni di supporto e prezzi di Microsoft 365 (25-30%)
+- Spiegare la sicurezza, la conformità, la privacy e l’attendibilità di Microsoft 365 (30-35%)
+- Descrivere i prezzi ed assistenza per Microsoft 365 (20-25%)
 roles:
 - administrator
 products:

@@ -14,31 +14,69 @@ ms.author: micsullivan
 Puoi sostenere qualsiasi esame basato sui ruoli o sui fondamenti della certificazione Microsoft presso Pearson VUE online e comodamente da casa o dall'ufficio. La consegna dell'esame online supervisionato consente l'integrità dei risultati dell'esame con il monitoraggio dell'esame da parte di un supervisore tramite webcam e microfono. Se sei interessato a sostenere un esame online tramite Pearson VUE e vuoi capire meglio cosa aspettarti prima di registrarti, questa pagina spiegherà i dettagli. Guarda [YouTube video](https://youtu.be/Gm1PqdbwBP0) di Pearson VUE per saperne di più su come sostenere esami online supervisionati. (Questa sezione non riguarda gli esami erogati da Certiport.)
 
 
-## <a name="take-a-system-test"></a> Fai un test di sistema
+## <a name="take-a-system-test"></a> Esegui un test di sistema
 
-Fai un test di sistema ora per vedere se il tuo computer e il luogo sono compatibili con il software di monitoraggio online e poi fissa la data del tuo esame.
+Eseguire un [test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) sullo stesso computer e nella stessa posizione da cui si effettuerà il test, per verificare se il computer, la posizione e la connessione Internet sono compatibili con il software Pearson VUE OnVUE e le linee guida per il test.
 
 [Avvia ora il test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)
 
 Gli esami online sono disponibili nella maggior parte dei paesi. Tiei presete che il supporto di benvenuto, il supporto per supervisore e il software di supervisione sono disponibili in un numero limitato di lingue. Selezionerai questa lingua durante il processo di registrazione all'esame; potrebbe essere diversa dalla lingua sosterrai l'esame. La maggior parte dei candidati avrà la possibilità di sostenere un esame online soltanto con supporto di benvenuto, supporto per supervisore e software di supervisione in lingua inglese, indipendentemente dalla lingua dell'esame.
 
-**ATTENZIONE! Prima di registrarti per un esame on-line:**
+### ATTENZIONE! Prima di effettuare la registrazione a un esame online:
 
-1. **Completa il [test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) richiesto sullo stesso computer e nella stessa postazione da cui effettuerai il test.**  
-2. **Conferma che il tuo ID è conforme (leggi i [requisiti](https://home.pearsonvue.com/Policies/1S/English)) e che il nome sul tuo profilo di certificazione Microsoft corrisponda esattamente al nome sul documento identificativo che dovrai utilizzare per inserire l'appuntamento per l'esame.**  
-3. **Controlla i requisiti tecnici, di sistema, ambientali e di protocollo di prova riportati di seguito.**
+1. Completa il [test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) richiesto sullo stesso computer e nella stessa posizione in cui eseguirai il test.
+2. Conferma che il tuo documento d'identità è conforme alle [Regole ID](https://home.pearsonvue.com/Policies/1S/English) di Pearson VUE  e che il nome sul tuo profilo di certificazione Microsoft corrisponde ESATTAMENTE al nome sul documento d'identità rilasciato dal governo che presenterai per partecipare all'esame. Se devi modificare il nome del profilo di certificazione Microsoft, contattare [Servizio Supporto Tecnico Clienti Microsoft](https://aka.ms/mcpforum) e un moderatore del forum fornirà assistenza.
+3. Aggiorna il tuo profilo di certificazione Microsoft con il tuo numero di cellulare, incluso il prefisso internazionale, nel caso Pearson VUE debba contattarti durante l'esame. Se perdi la connessione durante l'esame, è l'unico modo con cui Pearson VUE può contattarti.
+4. Leggi il Non-Disclosure Agreement ([NDA](/learn/certifications/certification-exam-policies#non-dlosure-agreement)). All'inizio dell'esame, è necessario leggere e accettare l’NDA e le Condizioni generali d'uso per gli esami di certificazione Microsoft. Ti saranno concessi solo 5 minuti per leggerlo. Leggilo prima dell'esame per assicurarti di comprendere appieno i requisiti e di accettarli senza esaurire il tempo. Se non accetti l'NDA nel tempo assegnato non potrai sostenere l'esame.
+5. Rivedi i requisiti tecnici, di sistema, dell'ambiente e del protocollo di test qui sotto.
+6. Configura l'accesso dell'amministratore locale al tuo computer.
+
+### Microsoft Windows
+<div>
+<table style="border:0px;">
+    <tbody>
+        <tr>
+            <td>
+<ul>
+<li>Fai clic con il pulsante destro del mouse sul pulsante Start - Avvio</li>
+<li>Seleziona Gestione computer > Utenti e gruppi locali > Utenti > Fai clic con il pulsante destro del mouse su Amministratore ></li>
+<li>Seleziona Imposta password > Fai clic con il tasto destro del mouse su Amministratore > Crea nome utente/password</li>
+<li>Deseleziona account disabilitato > Deseleziona utente deve cambiare password al prossimo avvio ></li>
+<li>Seleziona OK</li></ul>
+            </td>
+        </tr>
+        <tr><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+Visita il sito [Supporto tecnico Microsoft](https://support.microsoft.com/allproducts) all'indirizzo (informazioni in lingua inglese) per informazioni sulla configurazione dei diritti di amministratore locale su un computer Microsoft e seleziona la categoria di prodotti del dispositivo.
+<br/>
+
+### Apple Mac
+<div>
+<table style="border:0px;">
+    <tbody>
+        <tr>
+            <td>
+<ul>
+<li>Avvia Preferenze di sistema dal menu Apple o dalla cartella Applicazioni</li>
+<li>Seleziona utenti e gruppi</li>
+<li>Seleziona l'icona del lucchetto e inserisci la password. Seleziona OK</li>
+<li>Seleziona il pulsante più (+) che si trova sotto l'elenco degli account utente</li>
+<li>Seleziona Amministratore dal menu a discesa dei tipi di account</li>
+<li>Inserisci le informazioni richieste: nome completo, nome account, password e suggerimento password del nuovo titolare dell'account</li>
+<li>Seleziona Crea Utente</li></ul>
+            </td>
+        </tr>
+        <tr><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+Visita [Supporto Apple](https://support.apple.com/) per informazioni sulla configurazione dei diritti di amministratore locale sul tuo computer Apple.
 
 ## Requisiti di sistema
-
-Gli esami online possono essere disattivati da server proxy, da pacchetti di rete di ispezione/filtro o da rigorose configurazioni di sicurezza della rete.
-
-L'account utente Windows collegato nella workstation di fruizione deve avere le autorizzazioni amministrative locali adeguate.
-
-Alcuni software antivirus possono causare problemi di prestazioni. Disabilita eventuali ricerche di virus durante l'esame.
-
-Potrebbe essere necessario verificare che il software di protezione non blocchi l'esecuzione di JavaScript, applicazioni Adobe Air o estensioni Adobe Flash Player.
-
-Potrebbe essere necessario configurare il software di protezione e antivirus di Internet affinché ignori il file eseguibile di Pearson Secure Browser.
 
 ### Requisiti minimi
 
@@ -60,7 +98,7 @@ Potrebbe essere necessario configurare il software di protezione e antivirus di 
         </tr>
         <tr>
             <td>
-                <p><strong>Firewall</strong></p></td><td><p>Non sostenere l'esame in un ambiente con un firewall aziendale (inclusa la VPN) o avvisa il tuo amministratore di rete sui requisiti di configurazione della rete.</p>
+                <p><strong>Firewall</strong></p></td><td><p>Non eseguire l'esame in un'impostazione con un firewall aziendale (inclusa VPN) o avvisa l'amministratore di rete dei requisiti di configurazione della rete.</p>
             </td>
         </tr>
         <tr>
@@ -106,7 +144,7 @@ Potrebbe essere necessario configurare il software di protezione e antivirus di 
                 <p><strong>Suono & microfono</strong></p>
             </td>
             <td>
-                <p>Su Windows verifica che l'audio e il microfono non siano disattivati.</p><p class="">Gli utenti Mac potrebbero dover morire l'autorizzazione a OnVUE all'interno di "Preferenze di Sistema: Sicurezza & Privacy: Privacy" per il microfono, la telecamera, l'automazione e il monitoraggio degli input.</p>
+                <p>Su Windows verifica che l'audio e il microfono non siano disattivati.</p><p class="">Gli utenti Mac potrebbero dover morire l'autorizzazione a OnVUE all'interno di "Preferenze di Sistema: Sicurezza & Privacy: Impostazioni privacy per microfono, fotocamera, automazione e monitoraggio degli ingressi.</p>
             </td>
         </tr>
         <tr>
@@ -145,9 +183,19 @@ Potrebbe essere necessario configurare il software di protezione e antivirus di 
 </table>
 </div>
 
-[Leggi i requisiti per la risoluzione dei problemi a livello di amministratore di rete](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements)
+### Altre note e suggerimenti:
 
-Prima di registrarti e acquistare il tuo esame, completa il [test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) richiesto sullo stesso computer e nella stessa postazione da cui effettuerai il test.
+- Prima di registrarti e di acquistare l'esame, completa il [test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) richiesto sullo stesso computer e nella stessa posizione in cui eseguirai il test..
+- Gli esami online possono essere disattivati da server proxy, da pacchetti di rete di ispezione/filtro o da rigorose configurazioni di sicurezza della rete.
+- L'account utente Windows collegato nella workstation di fruizione **deve avere le autorizzazioni amministrative locali adeguate**.
+- Alcuni software antivirus possono causare problemi di prestazioni. Disabilita eventuali ricerche di virus durante l'esame.
+- Potrebbe essere necessario verificare che il software di protezione non blocchi l'esecuzione di JavaScript, applicazioni Adobe Air o estensioni Adobe Flash Player.
+- Esegui il test su un personal computer anziché su un computer di lavoro, in quanto nei computer di lavoro è installato un software che impedisce l'avvio del software OnVUE.
+- Utilizza un computer desktop anziché un computer portatile, se possibile.
+- Potrebbe essere necessario configurare il software di protezione e antivirus di Internet affinché ignori il file eseguibile del Browser Pearson Secure.
+- Per sostenere un esame online proctored utilizza, se possibile, una connessione internet cablata.
+- Non collegarti a un hotspot mobile; è esplicitamente vietato.
+- [Leggere i requisiti per la risoluzione dei problemi a livello di amministratore di rete](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements).
 
 ## Paesi partecipanti
 
@@ -180,9 +228,9 @@ L'impostazione per ufficio o casa deve soddisfare i seguenti requisiti:
   - Passaporto
   - Carta d'identità (carta d'identità nazionale/statale/provinciale)
   - Carta di registrazione per stranieri (carta verde, residenza permanente, visto)
-  - ID lingua locale rilasciato dal governo (non in caratteri romani) —_ accettato solo se rilasciato dal paese in cui il candidato sta effettuando il test_
+  - ID lingua locale rilasciato dal governo (non in caratteri romani) — _ accettato solo se rilasciato dal paese in cui il candidato sta effettuando il test_
 - Verrà scattata una foto con la webcam a te e al tuo documento di identità con fotografia.
-- Il nome sull'ID deve corrispondere esattamente al nome nei profili Certificazione Microsoft e Pearson VUE.
+- Il nome sul documento d'identità rilasciato dal governo che presenti per partecipare all'esame deve corrispondere esattamente al nome sul tuo profilo di certificazione Microsoft. Se devi modificare il nome del profilo di certificazione Microsoft Esame contatta [Servizio Supporto Tecnico Clienti Microsoft](https://aka.ms/mcpforum) prima dell'esame e un moderatore del forum fornirà assistenza.
 - I minori che non hanno ancora compiuto 18 anni possono presentare un tesserino di studente valido come documento di identità. Anche il tutore del candidato deve presentare un documento di identità valido e fornire il proprio consenso verbale durante il processo di check-in.
 
 ### Scansione dell'area di lavoro:
@@ -202,7 +250,7 @@ L'impostazione per ufficio o casa deve soddisfare i seguenti requisiti:
 - Se indossi una cravatta, ti viene chiesto di sollevare la cravatta per mostrare che non vi sia nulla nascosto sotto.
 - Se hai i capelli lunghi che coprono le orecchie, ti viene chiesto di tirare indietro i capelli per mostrare che non hai nulla attaccato all'orecchio (come ad esempio un auricolare Bluetooth).
 
-### Nessuna pausa / cibo / bevande
+### Nessuna pausa/cibo/bevande
 
 - Non sono consentite pause durante l'esame per alcun motivo. Dichiari di comprendere e accettare che, se fai una pausa, il punteggio ottenuto fino al quel momento viene invalidato e non puoi riprendere l'esame.
 - Durante l'esame è vietato mangiare, bere, fumare e masticare chewing-gum.
@@ -224,7 +272,8 @@ L'impostazione per ufficio o casa deve soddisfare i seguenti requisiti:
 
 ### Altre informazioni importanti
 
-- Come con qualsiasi altro esame di certificazione Microsoft, devi leggere e accettare i termini indicati nel nostro [Non-Disclosure Agreement](/learn/certifications/certification-exam-policies#non-disclosure-agreement) (NDA) e devi rispettare i requisiti di condotta del candidato. Senza limitazione alcuna è previsto quanto segue:
+- Come per qualsiasi altro esame di certificazione Microsoft, è necessario leggere e accettare i termini del [Contratto di non divulgazione](/learn/certifications/certification-exam-policies#non-dlosure-agreement) (NDA). Ti saranno concessi 5 minuti per leggerlo per cui leggilo prima dell'esame per assicurarti di comprendere appieno i requisiti e di accettarli senza esaurire il tempo. Se non accetti l'NDA nel tempo assegnato non potrai sostenere l'esame.
+- Devi anche rispettare i requisiti di condotta del candidato. Senza limitazione alcuna è previsto quanto segue:
   - Non è possibile copiare o registrare domande o risposte dall'esame con alcun mezzo.
   - Non è possibile condividere o discutere con gli altri le domande o le risposte visualizzate nell'esame.
 - Se non segui il [Contratto sulle regole del candidato](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf) o si sospetta tu abbia ingannato o manomesso il software di Pearson VUE o del suo subappaltatore o se un terzo viene rilevato nella stanza in cui sostieni l'esame, il supervisore interromperà immediatamente l'esame e segnalerà l'infrazione a Pearson VUE e a Microsoft, insieme alle prove audio e/o video. L'esame potrebbe essere invalidato e Microsoft potrebbe adottare altre misure, ad esempio annullare la tua certificazione e vietare la tua partecipazione ad altri programmi di certificazione Microsoft in futuro.
@@ -232,35 +281,36 @@ L'impostazione per ufficio o casa deve soddisfare i seguenti requisiti:
 ## Registrati per un esame online
 
 - Nella maggior parte dei paesi sono disponibili gli esami online erogati tramite Pearson VUE relativi agli esami basati sui ruoli o sugli elemeti di base. Se gli esami online sono disponibili nel tuo Paese, sono disponibili nelle stesse lingue disponibili nei centri di test del tuo Paese. Tieni presente che il supporto di benvenuto, il supporto per il supervisore e il software di supervisione sono disponibili in un numero limitato di lingue. Selezionerai questa lingua durante il processo di registrazione all'esame; potrebbe essere diversa dalla lingua sosterrai l'esame. La maggior parte dei candidati avrà la possibilità di sostenere un esame online soltanto con supporto di benvenuto, supporto per supervisore e software di supervisione in lingua inglese, indipendentemente dalla lingua dell'esame.
-- Per registrarti, seleziona l'esame on-line Microsoft che desideri sostenere dall' [elenco degli esami](/learn/certifications/browse/), quindi seleziona il pulsante **Pianifica esame**. Se nel tuo paese sono disponibili gli esami online, potrai selezionare tale opzione durante il processo di registrazione all'esame. Selezionerai anche la lingua del software di benvenuto, del supervisore e del software di supervisione.
+- Per registrarti, accedi prima al tuo Microsoft [dashboard di certificazione](https://aka.ms/certdashboard) utilizzando l'e-mail associata al tuo profilo di certificazione Microsoft. Seleziona il pulsante **Programma esame**, quindi seleziona l'esame Microsoft che desideri sostenere da [elenco esami](/learn/certifications/browse/). Se nel tuo paese sono disponibili gli esami online, potrai selezionare tale opzione durante il processo di registrazione all'esame. Selezionerai anche la lingua del software di benvenuto, del supervisore e del software di supervisione.
 
 ## Avvio dell'esame e processo di check-in del candidato
 
 Il processo di inizio e check-in deve durare circa 15 minuti.
 
 - Prima di iniziare l'esame, consulta le [FAQs](https://home.pearsonvue.com/microsoft/onvue) su OnVUE per suggerimenti sulla risoluzione dei problemi.
-- Assicurati di avere il tuo telefono cellulare vicino a te, con lo schermo visibile, nel caso in cui il supervisore dovesse contattarti.
+- **Il giorno dell'esame, esegui nuovamente il [system test](/learn/certifications/online-exams#take-a-system-test)** sull'apparecchiatura e sulla connessione Internet che utilizzerai durante l'esame. La larghezza di banda di Internet può variare a seconda dell'ora del giorno.
+- Accedi al computer come amministratore in modo da poter determinare se sono in esecuzione processi in background e arrestarli.
 - Disattiva i blocchi popup del browser.
-- Assicurati di disporre dei diritti amministrativi sul computer in modo da poter scaricare il software della prova.
+- Assicurati di avere il telefono cellulare al di fuori dello spazio di prova immediato, ma cerca con le braccia tese di afferrarlo ma rimanendo sempre ben visibile, nel caso in cui il responsabile dell'esame abbia bisogno di contattarti.
+  - Assicurati il tuo profilo di certificazione Microsoft sia aggiornato con il tuo numero di cellulare, incluso il prefisso internazionale, nel caso Pearson VUE debba contattarti durante l'esame.
 
 Per iniziare la sessione di testing ed entrare in contatto con un presentatore:
 
-1. Accedi al tuo [certification dashboard](https://aka.ms/certdashboard) con l'e-mail associata al tuo profilo di certificazione Microsoft.
-2. Nella sezione **Appuntamenti** sulla destra, seleziona **Avvia un esame certificato on-line precedentemente programmato**.
-3. Seleziona l'esame in **Esami online acquistati**.
-4. Seleziona **Inizia esame** e procedi attraverso il processo di auto-controllo e attendi che un supervisore si connetta a te. (Nota: È necessario selezionare Inizia esame per avviare l'esame; in caso contrario, l'esame non verrà avviato.)
+1. Accedi al tuo [certification dashboard](https://aka.ms/certdashboard) con l'e-mail associata al tuo profilo di certificazione Microsoft. (Se non riesci ad accedere al dashboard di certificazione Microsoft in questo passaggio, riprova utilizzando un browser InCognito o InPrivate. Se ancora non riesci ad accedere alla tua dashboard di certificazione, apri un caso con [Supporto certificazione](https://aka.ms/mcpforum) e un moderatore del forum
+ti assisterà).
+2. Ti consigliamo di collegarti con 15 minuti di anticipo per iniziare il processo di check-in. HAI A DISPOSIZIONE SOLO 15 minuti dopo l'orario pianificato.
+3. Nella sezione **Appuntamenti** sulla destra, seleziona **Avvia un esame certificato on-line precedentemente programmato**.
+4. Seleziona l'esame in **Esami online acquistati**.
+5. Seleziona **Inizia esame** e procedi attraverso il processo di auto-controllo e attendi che un supervisore si connetta a te. (Nota: È necessario selezionare Inizia esame per avviare l'esame; in caso contrario, l'esame non verrà avviato.)
 
 **Nota** È possibile attendere fino a 30 minuti prima di connettersi con un addetto (necessario per riconfermare i requisiti di identità o di locale) o con il supervisore dopo aver completato il processo di autocontrollo.
 
-Se non si è connessi a un supervisore 30 minuti **dopo l'orario di esame programmato**, contattare [Pearson VUE](https://home.pearsonvue.com/contact).
+Se non sei connesso a un responsabile 30 minuti **dopo l'orario previsto per l'esame** la connessione è stata persa. Puoi riprogrammare l'esame da 24 a 30 ore dopo l'appuntamento originale. Accedi prima al tuo [dashboard di certificazione](https://www.microsoft.com/learning/dashboard.aspx) utilizzando l'e-mail associata al tuo profilo di certificazione Microsoft. Ti consigliamo di fare da solo il più possibile, ma puoi anche contattare Pearson VUE [support](https://home.pearsonvue.com/microsoft/contact) per chiedere aiuto nella riprogrammazione di un esame. Ti preghiamo di essere paziente in quanto le risposte sono più lente del normale a causa del COVID-19 (fino a cinque giorni).
 
 - La verifica dell'identità e le scansioni della stanza vengono eseguite dall'addetto al autocontrollo. Se durante questo controllo non vengono identificati problemi o dubbi, verrai inseriti nella coda del supervisore. Non appena sarà disponibile un supervisore, potrai iniziare l'esame. Nei casi in cui l'addetto al controllo avesse dubbi su alcuni aspetti del controllo, questi collaborerà con te per risolverli.
-
-L'esame avrà inizio al termine del processo. Il supervisore non interverrà durante l'esame a meno che non vi sia un problema.
-
-Se si verifica un problema tecnico durante l'esame, il supervisore tenterà di contattarti prima tramite chat. Se la chat non funziona, il supervisore ti contatterà al telefono.
-
-In caso di problemi dopo l'esame, contattare l'assistenza [Pearson VUE](https://home.pearsonvue.com/contact). Tieni a portata di mano il numero del report eventi imprevisti fornito dal supervisore.
+- L'esame avrà inizio al termine del processo. Il supervisore non interverrà durante l'esame a meno che non vi sia un problema.
+- Se si verificasse un problema tecnico durante l'esame, il supervisore tenterà di contattarti prima tramite chat. Se la chat non funziona, il supervisore ti contatterà al telefono.
+- Se a seguito dell'esame si verificasse un problema tecnico, puoi contattare l’assistenza [Pearson VUE](https://home.pearsonvue.com/contact). Tieni a portata di mano il numero del report eventi imprevisti fornito dal supervisore.
 
 ### Recupera il report sul punteggio e rimuovi il software del supervisore
 
@@ -283,7 +333,7 @@ Inizia assicurandoti che il tuo computer soddisfi i [system requirements](/learn
 No. Non dovresti registrarti per un esame online se il tuo sistema non supera il [system test](/learn/certifications/online-exams#take-a-system-test), né programmare un esame online se non sei in grado di scattare una foto chiara della tuo documento identificativo.
 
 ### Come posso registrarmi per un esame on-line?
-Per registrarti, seleziona l'esame che desideri sostenere dall' [elenco degli esami](/learn/certifications/browse/), quindi seleziona il pulsante **Pianifica esame**. Se nel tuo paese sono disponibili gli esami online, potrai selezionare tale opzione durante il processo di registrazione all'esame.
+Per registrarti, accedi prima al tuo Microsoft [dashboard di certificazione](https://aka.ms/certdashboard) utilizzando l'e-mail associata al tuo profilo di certificazione Microsoft. Seleziona il pulsante **Programma esame**, quindi seleziona l'esame Microsoft che desideri sostenere da [elenco esami](/learn/certifications/browse/). Se nel tuo paese sono disponibili gli esami online, potrai selezionare tale opzione durante il processo di registrazione all'esame. Selezionerai anche la lingua del software di benvenuto, del supervisore e del software di supervisione.
 
 ### Potrebbe sembrare che sia molto più facile imbrogliare se non sono in un centro di test. Gli esami online sono sicuri?
 Facciamo del nostro meglio per proteggere l'integrità dei nostri esami, a prescindere da dove vengono sostenuti. Quando si sostiene un esame online, è necessario prima installare un browser sicuro che applica misure di sicurezza molto rigorose durante l'intero processo di testing. Inoltre, un supervisore di Pearson VUE ti monitora durante l'esame tramite una webcam e un microfono. Inoltre visioniamo anche il filmato registrato delle sessioni di esame nel caso in cui sospettiamo si sia verificata un'irregolarità. Siamo piuttosto esperti nel rilevamento di irregolarità, quindi ti consigliamo di rispettare i regolamenti. Per chi commette irregolarità è previsto l'annullamento della certificazione, la rimozione delle certificazioni già conseguite e il divieto a sostenere altri esami in futuro.

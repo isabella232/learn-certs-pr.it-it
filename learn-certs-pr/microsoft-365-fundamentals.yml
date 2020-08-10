@@ -6,7 +6,7 @@ metadata:
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   Dimostra di comprendere le opzioni disponibili in Microsoft 365 e i vantaggi dell'adozione dei servizi cloud, del modello di cloud SaaS (Software as a Service) e dell'implementazione del servizio cloud Microsoft 365.
 subTitle: Dimostra di comprendere le opzioni disponibili in Microsoft 365 e i vantaggi dell'adozione dei servizi cloud, del modello di cloud SaaS (Software as a Service) e dell'implementazione del servizio cloud Microsoft 365.
@@ -15,8 +15,8 @@ levels:
 skills:
 - Descrivere i concetti del cloud
 - Descrivere i principali servizi e concetti di Microsoft 365
-- Descrivere le opzioni di sicurezza, conformità, privacy e affidabilità in Microsoft 365
-- Descrivere le opzioni di supporto e prezzi di Microsoft 365
+- Comprendere i concetti di sicurezza, conformità, privacy e affidabilità in Microsoft 365
+- Descrivere i prezzi ed assistenza per Microsoft 365
 roles:
 - business-user
 - administrator
@@ -39,10 +39,10 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni

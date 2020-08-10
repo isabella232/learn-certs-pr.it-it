@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame è stato aggiornato il 15 giugno 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- "Il contenuto di questo esame è stato aggiornato il 15 giugno 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato."
 - Sviluppare una strategia di strumentazione (5-10%)
 - Sviluppare una strategia di Site Reliability Engineering (SRE) (5-10%)
 - Sviluppare un piano di sicurezza e conformità (10-15%)
@@ -45,11 +45,12 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
-- uid: learn.azdo.capture-feedback-monitoring
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
 courses:
 - uid: course.az-400t00
 relatedCertifications:
