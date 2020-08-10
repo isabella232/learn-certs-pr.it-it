@@ -10,10 +10,10 @@ subTitle: "Dimostra di poter descrivere quanto segue: Carichi di lavoro e consid
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -21,7 +21,7 @@ levels:
 skills:
 - Descrivere i carichi di lavoro e le considerazioni sull'IA (15-20%)
 - Descrivere i principi fondamentali del machine learning in Azure (30-35%)
-- Descrivere le funzionalità dei carichi di lavoro di computer vision su Azure (15-20%)
+- Descrivere le funzionalità della visione dei carichi di lavoro del computer in Azure (15-20%)
 - Descrive le funzionalità dei carichi di Lavoro di Natural Language Processing (NLP) su Azure (15-20%)
 - Descrivere le funzionalità dei carichi di lavoro di IA conversazionale in Azure (15-20%)
 roles:
@@ -45,10 +45,21 @@ products:
 - azure-text-speech
 - azure-translator-speech
 - azure-translator-text
+courses:
+- uid: course.ai-900t00
+paths:
+- uid: learn.wwl.get-started-with-artificial-intelligence-on-azure
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.wwl.explore-computer-vision-microsoft-azure
+- uid: learn.wwl.explore-natural-language-processing
+- uid: learn.wwl.explore-conversational-ai
 relatedCertifications:
 - related:
     uid: certification.azure-ai-fundamentals
 resources:
+- title: Viaggio verso la certificazione
+  description: Scopri i passaggi per ottenere la certificazione Azure AI Fundamentals e le risorse disponibili per aiutare a prepararti.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

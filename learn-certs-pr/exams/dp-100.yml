@@ -8,7 +8,7 @@ displayName: DP-100
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 22 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il venerdì 22 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
   </div>
 
   Il Data Scientist Azure applica le proprie conoscenze di scienza dei dati e di machine learning per implementare ed eseguire carichi di lavoro di machine learning su Azure; in particolare, utilizzando Azure Machine Learning Service. Ciò comporta la pianificazione e la creazione di un ambiente di lavoro adatto per i carichi di lavoro di scienza dei dati su Azure, l'esecuzione di esperimenti sui dati e l'addestramento di modelli predittivi, la gestione e l'ottimizzazione dei modelli e l'implementazione di modelli di machine learning in produzione.
@@ -24,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 22 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame è stato aggiornato il venerdì 22 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Impostare uno spazio di lavoro Azure Machine Learning (30-35%)
 - Eseguire esperimenti e addestrare modelli (25-30%)
 - Ottimizzare e gestire i modelli (20-25%)
@@ -46,6 +46,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
+- title: Viaggio verso la certificazione
+  description: Scopri i passaggi per essere certificato Azure Data Scientist Associate e le risorse disponibili per aiutare a prepararti.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

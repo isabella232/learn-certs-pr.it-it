@@ -35,7 +35,7 @@ summary: |-
   Questo corso esamina gli elementi chiave dell'amministrazione della messaggistica di Microsoft 365, tra cui il trasporto dei messaggi e il flusso di posta, la sicurezza della messaggistica, la protezione attiva e la conformità, l'infrastruttura di messaggistica e la messaggistica ibrida. Questo corso è pensato per i professionisti IT che distribuiscono e gestiscono l'infrastruttura di messaggistica per Microsoft 365 nella loro azienda.
 
   #### Profilo dei destinatari
-  Gli amministratori dei sistemi di messaggistica distribuiscono, configurano, gestiscono, risolvono i problemi relativi ai destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali. Le loro responsabilità includono la gestione della protezione attiva dei messaggi, dell'infrastruttura di messaggistica, della configurazione ibrida e della migrazione. Per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'organizzazione moderna, l'amministratore di messaggistica deve collaborare con l'amministratore della sicurezza e con Microsoft 365 Enterprise Administrator. L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
+  Gli amministratori dei sistemi di messaggistica distribuiscono, configurano, gestiscono, risolvono i problemi relativi ai destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali. Le loro responsabilità includono la gestione della protezione attiva dei messaggi, dell'infrastruttura di messaggistica, della configurazione ibrida e della migrazione. Per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'organizzazione moderna, l'amministratore dei sistemi di messaggistica deve collaborare con l'amministratore della sicurezza e con Microsoft 365 Enterprise Administrator. L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
 prerequisitesSection: |-
   Questo corso è destinato a persone che aspirano al ruolo di Microsoft 365 Messaging Administrator.
 outlineSection: |-
@@ -51,18 +51,18 @@ outlineSection: |-
   - Creazione dei connettori
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione dei componenti di Exchange relativi al trasporto
-  - Pianificazione di un instradamento efficace dei messaggi aziendali
-  - Modifica del flusso di messaggi per la tua azienda
-  - Descrizione di quali agenti di trasporto esistono e cosa fanno
-  - Configurazione delle diverse opzioni di trasporto
-  - Pianificazione e impostazione dei domini aziendali
-  - Comprensione di come funzionano i connettori di ricezione e invio
-  - Descrizione di come funziona la moderazione dei messaggi per i diversi destinatari
-  - Comprensione di quali sono le regole di trasporto
-  - Descrizione del funzionamento delle norme di trasporto
-  - Configurazione di una regola di trasporto personalizzata
-  - Descrizione di come le regole di trasporto possono essere utilizzate per la prevenzione della perdita di dati
+  - Descrizione dei componenti di Exchange relativi al trasporto.
+  - Pianificazione di un instradamento efficace dei messaggi aziendali.
+  - Modifica del flusso di messaggi aziendali.
+  - Descrizione di quali agenti di trasporto esistono e cosa fanno.
+  - Configurazione delle diverse opzioni di trasporto.
+  - Pianificazione e impostazione dei domini aziendali.
+  - Comprensione di come funzionano i connettori di ricezione e invio.
+  - Descrizione di come funziona la moderazione dei messaggi per i diversi destinatari.
+  - Comprensione di quali sono le regole di trasporto.
+  - Descrizione del funzionamento delle norme di trasporto.
+  - Configurazione di una regola di trasporto personalizzata.
+  - Descrizione di come le regole di trasporto possono essere utilizzate per la prevenzione della perdita di dati.
 
 
   ### Modulo 2&#58; Gestione e risoluzione dei problemi relativi al flusso di posta
@@ -78,20 +78,20 @@ outlineSection: |-
   - Creazione delle regole di flusso della posta
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Gestione della topologia dei flussi della posta elettronica
-  - Comprensione del flusso di posta per i server Exchange
-  - Gestione del flusso di posta per Exchange Online
-  - Descrizione e gestione del flusso di posta in ambienti ibridi
-  - Comprensione di come risolvere i problemi del flusso di posta SMTP
-  - Descrizione di come risolvere i problemi relativi a uno spazio dei nomi condiviso
-  - Descrizione di come risolvere i problemi di crittografia con TLS
-  - Esecuzione della risoluzione dei problemi relativi alla rete
-  - Descrizione delle procedure di risoluzione dei problemi relativi ai connettori e agli agenti
-  - Pianificazione della risoluzione dei problemi relativi all'architettura
-  - Comprensione di come eseguire la risoluzione dei problemi in coesistenza
-  - Creazione delle ricerche per il registro di monitoraggio dei messaggi
-  - Descrizione di come risolvere i problemi utilizzando i log del protocollo
-  - Comprensione di come utilizzare la registrazione eventi per Exchange
+  - Gestione della topologia dei flussi della posta elettronica.
+  - Comprensione del flusso di posta per i server Exchange.
+  - Gestione del flusso di posta per Exchange Online.
+  - Descrizione e gestione del flusso di posta in ambienti ibridi.
+  - Comprensione di come risolvere i problemi del flusso di posta SMTP.
+  - Descrizione di come risolvere i problemi relativi a uno spazio dei nomi condiviso.
+  - Descrizione di come risolvere i problemi di crittografia con TLS.
+  - Esecuzione della risoluzione dei problemi relativi alla rete.
+  - Descrizione delle procedure di risoluzione dei problemi relativi ai connettori e agli agenti.
+  - Pianificazione della risoluzione dei problemi relativi all'architettura.
+  - Comprensione di come eseguire la risoluzione dei problemi in coesistenza.
+  - Creazione delle ricerche per il registro di monitoraggio dei messaggi.
+  - Descrizione di come risolvere i problemi utilizzando i log del protocollo.
+  - Comprensione di come utilizzare la registrazione eventi per Exchange.
 
 
   ### Modulo 3&#58; Gestire la protezione attiva dei messaggi
@@ -106,18 +106,18 @@ outlineSection: |-
   - Creazione di filtri di igiene
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Spiegazione dell'uso e delle funzionalità di Exchange Online Protection
-  - Pianificazione del routing dei messaggi per Exchange Online Protection
-  - Esame dei rapporti e dei registri EOP disponibili
-  - Comprensione dei diversi campi dell'intestazione messaggi rilevanti per la protezione da spam e spoofing
-  - Configurazione dei filtri anti-spam e anti-malware in Exchange Server
-  - Utilizzo di funzionalità aggiuntive per il filtraggio e la quarantena dello spam in uscita
-  - Implementazione di funzionalità di protezione contro phishing e spoofing
-  - Creazione di regole di trasporto per requisiti personalizzati
-  - Descrizione delle funzionalità di Advanced Threat Protection
-  - Descrizione della protezione fornita dai criteri Safe Attachment e Safe Links
-  - Comprensione delle funzionalità di spoof intelligence
-  - Conoscenza di come funzionano i criteri anti-phishing ATP
+  - Spiegazione dell'uso e delle funzionalità di Exchange Online Protection.
+  - Pianificazione del routing dei messaggi per Exchange Online Protection.
+  - Esame dei rapporti e dei registri EOP disponibili.
+  - Comprensione dei diversi campi dell'intestazione messaggi rilevanti per la protezione da spam e spoofing.
+  - Configurazione dei filtri anti-spam e anti-malware in Exchange Server.
+  - Utilizzo di funzionalità aggiuntive per il filtraggio e la quarantena dello spam in uscita.
+  - Implementazione di funzionalità di protezione contro phishing e spoofing.
+  - Creazione di regole di trasporto per requisiti personalizzati.
+  - Descrizione delle funzionalità di Advanced Threat Protection.
+  - Descrizione della protezione fornita dai criteri Safe Attachment e Safe Links.
+  - Comprensione delle funzionalità di spoof intelligence.
+  - Conoscenza di come funzionano i criteri anti-phishing ATP.
 
 
   ### Modulo 4&#58; Gestire la conformità
@@ -129,24 +129,24 @@ outlineSection: |-
   - Gestione della ricerca dei contenuti
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione dei diversi criteri e delle funzionalità di conformità per la messaggistica
-  - Valutazione dei diversi ruoli nel Security & Compliance Center
-  - Pianificazione dei criteri di conservazione per le cassette postali di Exchange Online
-  - Configurazione dei criteri di prevenzione della perdita di dati (DLP) per i dati in Microsoft 365
-  - Creazione di tracce di messaggi per comprendere il flusso di posta nell'organizzazione Exchange Online
-  - Descrizione dei contenziosi e dei blocchi sul posto in Exchange Server
-  - Pianificazione della conservazione e cancellazione con Message Records Management (MRM)
-  - Protezione del flusso di posta con i criteri di prevenzione della perdita di dati in Exchange Server
-  - Esame del registro di registrazione dei messaggi nell'organizzazione di Exchange
-  - Descrizione dell'archiviazione in loco in Exchange e del suo funzionamento
-  - Conoscenza della differenza tra inserimento di journal e archiviazione
-  - Conoscenza dell'uso delle cassette postale e dei log di controllo dell'amministratore
-  - Compresione delle ricerche di contenuto nei messaggi aziendali
-  - Descrizione di casi di eDiscovery e di eDiscovery sul posto per Exchange
-  - Gestione dei casi di eDiscovery avanzato nel Centro sicurezza e conformità
+  - Descrizione dei diversi criteri e delle funzionalità di conformità per la messaggistica.
+  - Valutazione dei diversi ruoli nel Security & Compliance Center.
+  - Pianificazione dei criteri di conservazione per le cassette postali di Exchange Online.
+  - Configurazione dei criteri di prevenzione della perdita di dati (DLP) per i dati in Microsoft 365.
+  - Creazione di tracce di messaggi per comprendere il flusso di posta nell'organizzazione Exchange Online.
+  - Descrizione dei contenziosi e dei blocchi sul posto in Exchange Server.
+  - Pianificazione della conservazione e cancellazione con Message Records Management (MRM).
+  - Protezione del flusso di posta con i criteri di prevenzione della perdita di dati in Exchange Server.
+  - Esame del registro di registrazione dei messaggi nell'organizzazione di Exchange.
+  - Descrizione dell'archiviazione in loco in Exchange e del suo funzionamento.
+  - Conoscenza della differenza tra inserimento di journal e archiviazione.
+  - Conoscenza dell'uso delle cassette postale e dei log di controllo dell'amministratore.
+  - Compresione delle ricerche di contenuto nei messaggi aziendali.
+  - Descrizione di casi di eDiscovery e di eDiscovery sul posto per Exchange.
+  - Gestione dei casi di eDiscovery avanzato nel Centro sicurezza e conformità.
 
 
-  ### Modulo 5&#58; Gestire le impostazioni aziendali
+  ### Modulo 5&#58; Gestione delle impostazioni aziendali
   Questo modulo inizia con un esame su come gestire l'autenticazione per la messaggistica. Questo modulo si concentra su come garantire che gli account utente siano ben protetti e sicuri e su come implementare più funzionalità di sicurezza che non introducano inutili complessità nel lavoro quotidiano degli utenti, che può comportare una minore produttività aziendale e nuovi rischi per la sicurezza. Passerai quindi dall'autenticazione della messaggistica alle impostazioni aziendali, dove imparerai a configurare le impostazioni che si applicano all'intera azienda o a molti utenti dell'azienda. Infine, scoprirai come configurare la condivisione a livello aziendale. 
   #### Lezioni
   - Gestione dell'autenticazione per la messaggistica
@@ -154,19 +154,19 @@ outlineSection: |-
   - Configurazione della condivisione a livello aziendale
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Configurazione delle opzioni dei criteri per le password
-  - Configurazione della gestione delle password self-service
-  - Implementazione dell'autenticazione a più fattori
-  - Pianificazione dei criteri delle password
-  - Configurazione dei criteri per i carichi di lavoro e le limitazioni
-  - Configurazione delle configurazioni delle quote
-  - Configurazione di Exchange Server e integrazione di Skype for Business
-  - Implementazione dei componenti aggiuntivi di Office 365
-  - Descrizione di una panoramica delle funzionalità di condivisione delle deleghe federate di Exchange
-  - Descrizione dei componenti di condivisione federati
-  - Descrizione delle considerazioni per la progettazione e l'implementazione di trust federativi e certificati
-  - Implementazione delle relazioni tra le entità
-  - Implementazione dei criteri di condivisione
+  - Configurazione delle opzioni dei criteri per le password.
+  - Configurazione della gestione delle password self-service.
+  - Implementazione dell'autenticazione a più fattori.
+  - Pianificazione dei criteri delle password.
+  - Configurazione dei criteri per i carichi di lavoro e le limitazioni.
+  - Configurazione delle configurazioni delle quote.
+  - Configurazione di Exchange Server e integrazione di Skype for Business.
+  - Implementazione dei componenti aggiuntivi di Office 365.
+  - Descrizione di una panoramica delle funzionalità di condivisione delle deleghe federate di Exchange.
+  - Descrizione dei componenti di condivisione federati.
+  - Descrizione delle considerazioni per la progettazione e l'implementazione di trust federativi e certificati.
+  - Implementazione delle relazioni tra le entità.
+  - Implementazione dei criteri di condivisione.
 
 
   ### Modulo 6&#58; Gestione dei dispositivi mobili
@@ -180,14 +180,14 @@ outlineSection: |-
   - Implementazione di Active Sync per cassette postali singole e multiple
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione del funzionamento di Exchange ActiveSync
-  - Configurare i criteri delle cassette postali dei dispositivi mobili
-  - Comprensione della gestione dei dispositivi mobili in Microsoft 365
-  - Configurazione della sicurezza per i dispositivi mobili
-  - Comprensione dei componenti dell'infrastruttura dei dispositivi mobili
-  - Descrizione del funzionamento della pulizia remota di un dispositivo mobile
-  - Descrizione delle alternative per la gestione dei dispositivi mobili
-  - Risoluzione dei problemi di accesso dei dispositivi mobili
+  - Descrizione del funzionamento di Exchange ActiveSync.
+  - Configurare i criteri delle cassette postali dei dispositivi mobili.
+  - Comprensione della gestione dei dispositivi mobili in Microsoft 365.
+  - Configurazione della sicurezza per i dispositivi mobili.
+  - Comprensione dei componenti dell'infrastruttura dei dispositivi mobili.
+  - Descrizione del funzionamento della pulizia remota di un dispositivo mobile.
+  - Descrizione delle alternative per la gestione dei dispositivi mobili.
+  - Risoluzione dei problemi di accesso dei dispositivi mobili.
 
 
   ### Modulo 7&#58; Gestione delle autorizzazioni basate sui ruoli
@@ -201,17 +201,17 @@ outlineSection: |-
   - Gestione dei ruoli e criteri di autorizzazione
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione di come RBAC viene utilizzato per assegnare ruoli agli utenti
-  - Descrizione dei gruppi di ruoli di gestione delle attività amministrative
-  - Assegnazione dei ruoli di gestione amministrativi incorporati
-  - Creazione di ruoli di gestione personalizzati e loro assegnazione agli utenti tramite criteri di assegnazione ruoli
-  - Risoluzione dei problemi relativi ai ruoli di gestione RBAC
-  - Descrizione dei ruoli utente finale incorporati
-  - Configurazione dei criteri di assegnazione dei ruoli
-  - Creazione di nuovi ruoli personalizzati e criteri di assegnazione dei ruoli
-  - Comprensione delle differenze tra autorizzazioni condivise e autorizzazioni suddivise
-  - Descrizione delle autorizzazioni multi-foresta
-  - Identificazione delle differenze tra i modelli di autorizzazione
+  - Descrizione di come RBAC viene utilizzato per assegnare ruoli agli utenti.
+  - Descrizione dei gruppi di ruoli di gestione delle attività amministrative.
+  - Assegnazione dei ruoli di gestione amministrativi incorporati.
+  - Creazione di ruoli di gestione personalizzati e loro assegnazione agli utenti tramite criteri di assegnazione ruoli.
+  - Risoluzione dei problemi relativi ai ruoli di gestione RBAC.
+  - Descrizione dei ruoli utente finale incorporati.
+  - Configurazione dei criteri di assegnazione dei ruoli.
+  - Creazione di nuovi ruoli personalizzati e criteri di assegnazione dei ruoli.
+  - Comprensione delle differenze tra autorizzazioni condivise e autorizzazioni suddivise.
+  - Descrizione delle autorizzazioni multi-foresta.
+  - Identificazione delle differenze tra i modelli di autorizzazione.
 
 
   ### Modulo 8&#58; Gestione di oggetti e risorse del destinatario
@@ -226,21 +226,21 @@ outlineSection: |-
   - Creazione di gruppi
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione dei diversi oggetti destinatari in Exchange
-  - Descrizione delle cassette postali delle risorse
-  - Descrizione delle cassette postali condivise
-  - Descrizione delle casette postali collegate e delle cassette postali del sito
-  - Descrizione dei gruppi
-  - Creazione e gestione delle impostazioni delle cassette postali
-  - Creazione e gestione delle casette postali Risorse e Condivise
-  - Creazione e gestione dei contatti di posta e gli utenti di posta
-  - Creazione e gestione delle autorizzazioni ai destinatari
-  - Creazione e gestione dei gruppi
-  - Descrizione dell'elenco degli indirizzi
-  - Descrizione di come configurare gli elenchi di indirizzi
-  - Descrizione dei criteri relativi alle rubriche
-  - Descrizione di come configurare gli elenchi di indirizzi
-  - Descrizione dei criteri per gli indirizzi di posta elettronica
+  - Descrizione dei diversi oggetti destinatari in Exchange.
+  - Descrizione delle cassette postali delle risorse.
+  - Descrizione delle cassette postali condivisione.
+  - Descrizione delle casette postali collegate e delle cassette postali del sito.
+  - Descrizione dei gruppi.
+  - Creazione e gestione delle impostazioni delle cassette postali.
+  - Creazione e gestione delle casette postali Risorse e Condivise.
+  - Creazione e gestione dei contatti di posta e gli utenti di posta.
+  - Creazione e gestione delle autorizzazioni ai destinatari.
+  - Creazione e gestione dei gruppi.
+  - Descrizione dell'elenco degli indirizzi.
+  - Descrizione di come configurare gli elenchi di indirizzi.
+  - Descrizione dei criteri relativi alle rubriche.
+  - Descrizione di come configurare gli elenchi degli indirizzi offline.
+  - Descrizione dei criteri per gli indirizzi di posta elettronica.
 
 
   ### Modulo 9&#58; Gestione delle cartelle pubbliche
@@ -255,39 +255,39 @@ outlineSection: |-
   - Gestione delle cartelle pubbliche
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione delle cartelle pubbliche in Exchange
-  - Pianificazione di una gerarchia di cartelle pubbliche
-  - Pianificazione delle cassette postali delle cartelle pubbliche
-  - Descrizione delle quote delle cartelle pubbliche
-  - Valutazione delle alternative alle cartelle pubbliche
-  - Descrizione delle considerazioni per l'implementazione delle cartelle pubbliche
-  - Implementazione delle cassette postali delle cartelle pubbliche
-  - Gestione delle cassette postali delle cartelle pubbliche
-  - Creazione e gestione delle cartelle pubbliche abilitate alla posta
-  - Monitoraggio delle cartelle pubbliche
-  - Risoluzione dei problemi relativi alle cartelle pubbliche
-  - Risoluzione dei problemi relativi all'accesso alle cartelle pubbliche
+  - Descrizione delle cartelle pubbliche in Exchange.
+  - Pianificazione di una gerarchia di cartelle pubbliche.
+  - Pianificazione delle cassette postali delle cartelle pubbliche.
+  - Descrizione delle quote delle cartelle pubbliche.
+  - Valutazione delle alternative alle cartelle pubbliche.
+  - Descrizione delle considerazioni per l'implementazione delle cartelle pubbliche.
+  - Implementazione delle cassette postali delle cartelle pubbliche.
+  - Gestione delle cassette postali delle cartelle pubbliche.
+  - Creazione e gestione delle cartelle pubbliche abilitate alla posta.
+  - Monitoraggio delle cartelle pubbliche.
+  - Risoluzione dei problemi relativi alle cartelle pubbliche.
+  - Risoluzione dei problemi relativi all'accesso alle cartelle pubbliche.
 
 
   ### Modulo 10&#58; Pianificazione di un ambiente ibrido
-  In questo modulo, esaminerai i requisiti necessari per implementare una distribuzione ibrida e ti verranno fornite informazioni sulle funzionalità e i componenti necessari per implementare una distribuzione ibrida. Questo modulo esamina tutti gli aspetti relativi alla pianificazione di cui è necessario tenere conto prima di eseguire la  necessari prima di eseguire la Configurazione ibrida guidata. Vengono fornite informazioni sulle opzioni di configurazione dell'HCW, nonché dettagli sul trasferimento della configurazione dell'organizzazione (OCT) e sull'agente ibrido. Il modulo si conclude con una revisione delle opzioni di flusso di posta per un’implementazione ibrida. 
+  In questo modulo esaminerai i requisiti necessari per implementare una distribuzione ibrida e ti verranno fornite informazioni sulle funzionalità e i componenti necessari per implementare una distribuzione ibrida. Questo modulo esamina tutti gli aspetti relativi alla pianificazione di cui è necessario tenere conto prima di eseguire la  necessari prima di eseguire la Configurazione ibrida guidata. Vengono fornite informazioni sulle opzioni di configurazione dell'HCW, nonché dettagli sul trasferimento della configurazione dell'organizzazione (OCT) e sull'agente ibrido. Il modulo si conclude con una revisione delle opzioni di flusso di posta per un’implementazione ibrida. 
   #### Lezioni
-  - Requisiti di distribuzione ibrida di Exchange
+  - Requisiti per la distribuzione ibrida di Exchange
   - Pianificazione dell'esecuzione della Configurazione ibrida guidata
 
   #### Lab&#58; Preparazione di Azure AD per la sincronizzazione ibrida
   - Preparazione di Azure AD per la sincronizzazione ibrida
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione delle opzioni di connessione disponibili per la connessione locale di Exchange a Microsoft 365
-  - Elenco e descrizione dei componenti di un’implementazione ibrida
-  - Descrizione di Azure Active Directory Connect (Azure AD Connect)
-  - Identificazione delle opzioni di identità di Microsoft 365 per Exchange Hybrid
-  - Confronto della federazione delegata Exchange con OAuth
-  - Pianificazione della configurazione di Exchange Hybrid
-  - Descrizione del trasferimento della configurazione aziendale
-  - Descrizione di Exchange Modern Hybrid e Hybrid Agent
-  - Pianificazione delle opzioni di flusso della posta per una distribuzione ibrida
+  - Descrizione delle opzioni di connessione disponibili per la connessione locale di Exchange a Microsoft 365.
+  - Elenco e descrizione dei componenti di un’implementazione ibrida.
+  - Descrizione di Azure Active Directory Connect (Azure AD Connect).
+  - Identificazione delle opzioni di identità di Microsoft 365 per Exchange Hybrid.
+  - Confronto della federazione delegata Exchange con OAuth.
+  - Pianificazione della configurazione di Exchange Hybrid.
+  - Descrizione del trasferimento della configurazione aziendale.
+  - Descrizione di Exchange Modern Hybrid e Hybrid agenti.
+  - Pianificazione delle opzioni di flusso della posta per una distribuzione ibrida.
 
 
   ### Modulo 11&#58; Esecuzione delle migrazione delle cassette postali
@@ -299,14 +299,14 @@ outlineSection: |-
   - Esecuzione di migrazioni avanzate
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione delle strategie di migrazione e coesistenza con Exchange Online
-  - Utilizzo di FastTrack per spostare le cassette postali
-  - Descrizione dei requisiti per una migrazione IMAP e della modalità di esecuzione
-  - Spostamento dei dati delle cassette postali tramite una migrazione IMAP
-  - Descrizione dei requisiti per le migrazioni complete e a fasi
-  - Esecuzione di una migrazione e spostamento delle casette postali con una migrazione completa o a fasi
-  - Importazione di file PST nelle cassette postali di Exchange Online
-  - Migrazione di cartelle pubbliche a Exchange Online
+  - Descrizione delle strategie di migrazione e coesistenza con Exchange Online.
+  - Utilizzo di FastTrack per spostare le cassette postali.
+  - Descrizione dei requisiti per una migrazione IMAP e della modalità di esecuzione.
+  - Spostamento dei dati delle cassette postali tramite una migrazione IMAP.
+  - Descrizione dei requisiti per le migrazioni complete e a fasi.
+  - Esecuzione di una migrazione e spostamento delle casette postali con una migrazione completa o a fasi.
+  - Importazione di file PST nelle cassette postali di Exchange Online.
+  - Migrazione di cartelle pubbliche a Exchange Online.
 
 
   ### Modulo 12&#58; Distribuzione e risoluzione dei problemi di un ambiente ibrido
@@ -322,19 +322,19 @@ outlineSection: |-
   - Verifica dell’implementazione ibrida
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione dello scopo e delle funzionalità dei server Edge Transport
-  - Descrizione dei requisiti infrastrutturali dei server Edge Transport
-  - Descrizione di EdgeSync
-  - Pianificazione del flusso di messaggi con un server Edge Transport
-  - Descrizione dei prerequisiti per eseguire la Configurazione guidata ibrida di Office 365
-  - Descrizione delle migliori pratiche per l'implementazione di una distribuzione ibrida
-  - Gestione di un’implementazione ibrida
-  - Descrizione di quando è necessario configurare la coesistenza delle cartelle pubbliche con Office 365
-  - Spiegazione di come configurare Oauth per un ambiente Exchange misto
-  - Descrizione di come configurare gli allegati di OneDrive for Business per le cassette postali locali
-  - Risoluzione dei problemi relativi alla sincronizzazione della directory
-  - Risoluzione dei problemi relativi all'autenticazione pass-through e al servizio Single Sign-On
-  - Risoluzione dei problemi relativi al trasporto con Exchange Online
-  - Risoluzione dei problemi relativi ai server di accesso client
-  - Risoluzione dei problemi relativi al servizio Replica cassette postali
+  - Descrizione dello scopo e delle funzionalità dei server Edge Transport.
+  - Descrizione dei requisiti infrastrutturali dei server Edge Transport.
+  - Descrizione di EdgeSync.
+  - Pianificazione del flusso di messaggi con un server Edge Transport.
+  - Descrizione dei prerequisiti per eseguire la Configurazione guidata ibrida di Office 365.
+  - Descrizione delle migliori pratiche per l'implementazione di una distribuzione ibrida.
+  - Gestione di un’implementazione ibrida.
+  - Descrizione di quando è necessario configurare la coesistenza delle cartelle pubbliche con Office 365.
+  - Spiegazione di come configurare Oauth per un ambiente Exchange misto.
+  - Descrizione di come configurare gli allegati di OneDrive for Business per le cassette postali locali.
+  - Risoluzione dei problemi relativi alla sincronizzazione della Directory.
+  - Risoluzione dei problemi relativi all'autenticazione pass-through e al servizio Single Sign-On.
+  - Risoluzione dei problemi relativi al trasporto con Exchange Online.
+  - Risoluzione dei problemi relativi ai server di accesso client.
+  - Risoluzione dei problemi relativi al servizio Replica cassette postali.
 
