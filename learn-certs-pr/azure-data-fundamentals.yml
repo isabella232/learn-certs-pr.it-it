@@ -5,12 +5,12 @@ metadata:
   description: Azure Data Fundamentals convalida le conoscenze di base sui concetti di dati di base e su come vengano implementati usando i servizi dati di Microsoft Azure.
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><strong><font color='red'>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</font></strong><br/><br/></div>\r\n\r\nI candidati alla certificazione Azure Data Fundamentals dovrebbero avere una conoscenza di base dei concetti di dati di base e di come vengano implementati usando i servizi dati di Microsoft Azure.  \r\n\r\nQuesta certificazione è destinata ai candidati che iniziano a lavorare con i dati nel cloud.  \r\n\r\nI candidati devono avere familiarità con i concetti di dati relazionali e non relazionali e con diversi tipi di carichi di lavoro di dati come transazionali o analitici.  \r\n\r\nAzure Data Fundamentals può essere usato per preparare altre certificazioni basate sul ruolo di Azure come Azure Database Administrator Associate o Azure Data Engineer Associate, ma non è un prerequisito per alcuna di esse."
+summary: "<div><strong><font color='red'>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</font></strong><br/><br/></div>\r\n\r\nI candidati alla certificazione Azure Data Fundamentals dovrebbero avere una conoscenza di base dei concetti di dati di base e di come vengano implementati usando i servizi dati di Microsoft Azure. \r\n\r\nQuesta certificazione è destinata ai candidati che iniziano a lavorare con i dati nel cloud. \r\n\r\nI candidati devono avere familiarità con i concetti di dati relazionali e non relazionali e con diversi tipi di carichi di lavoro di dati come transazionali o analitici. \r\n\r\nAzure Data Fundamentals può essere usato per preparare altre certificazioni basate sul ruolo di Azure come Azure Database Administrator Associate o Azure Data Engineer Associate, ma non è un prerequisito per alcuna di esse."
 subTitle: Azure Data Fundamentals convalida le conoscenze di base sui concetti di dati di base e su come vengano implementati usando i servizi dati di Microsoft Azure.
 levels:
 - beginner
 skills:
-- Descrivere i concetti di dati di base
+- Descrivere i concetti di base dei dati
 - Descrivere come lavorare con i dati relazionali in Azure
 - Descrivere come lavorare con dati non relazionali in Azure
 - Descrivere un carico di lavoro analitico in Azure
@@ -22,6 +22,9 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wqeZ
 exams:
 - uid: exam.dp-900
@@ -29,6 +32,9 @@ resources:
 - title: Poster delle certificazioni di Azure
   description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Viaggio verso la certificazione
+  description: Scopri i passaggi per ottenere la certificazione Azure Data Fundamentals e le risorse disponibili per aiutare a prepararti.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

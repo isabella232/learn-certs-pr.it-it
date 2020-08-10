@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Developer Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform Developer Associate'
+  description: Tale Certificazione sarà disponibile ad Ottobre 2020. I candidati per Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform.
+uid: certification.power-platform-developer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
+
+  I candidati per Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform. I candidati implementano componenti della soluzione che comprendono l’aumento delle applicazioni, esperienza dell’utente personalizzata, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
+
+  I candidati devono avere una solida conoscenza applicata dei servizi Power Platform. I candidati hanno una comprensione approfondita delle loro capacità, confini e vincoli. Devono avere una comprensione di base delle prassi delle soluzioni DevOps per Power Platform.
+
+  La loro esperienza nello sviluppo per questo ruolo deve comprendere i servizi Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET e Power BI.
+
+  <div><br/><strong>Nota&#58; Tale Certificazione sarà disponibile ad Ottobre 2020.</strong></div>
+subTitle: Tale Certificazione sarà disponibile ad Ottobre 2020. I candidati per Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform.
+levels:
+- intermediate
+skills:
+- Creare un progetto tecnico
+- Configurare Common Data Service
+- Creare e configurare Power Apps
+- Configurare l’automazione dei processi aziendali
+- Estendere l’esperienza utente
+- Estendere la piattaforma
+- Sviluppare integrazioni
+roles:
+- developer
+type: role-based
+products:
+- power-platform
+- power-apps
+- common-data-service
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
+exams:
+- uid: exam.pl-400
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

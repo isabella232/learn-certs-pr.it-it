@@ -31,28 +31,29 @@ exams:
 summary: |-
   Questo corso fornisce un'ampia panoramica delle applicazioni di Dynamics 365. Ti introdurremo alle applicazioni, all'articolazione del loro valore aziendale e discuteremo sulle demo delle funzionalità di base. Comprenderemo la sicurezza e il reporting Dynamics 365 e familiarizzerai con le integrazioni di dati e prodotti disponibili.
 
+  #### Profilo dei destinatari
+  Questo corso è rivolto agli studenti che desiderano acquisire solidi fondamentali per Dynamics 365.
 prerequisitesSection: |-
   None
 outlineSection: |-
-  ### Modulo 1&#58; Introduction to Microsoft Dynamics 365
+  ### Modulo 1&#58; Introduzione a Microsoft Dynamics 365
   Ti aiutiamo ad analizzare e valutare le applicazioni Dynamics 365 che migliorano il lavoro, coinvolgono i clienti e ottimizzano le operazioni. Sarai introdotto a Dynamics 365 con una visione olistica dell'intera applicazione.
   #### Lezioni
   - Introduzione
   - Applicazioni Dynamics 365
-  - Che cosa è l'intelligenza artificiale (IA)?
+  - Cos' è l'intelligenza artificiale (AI)?
   - Che cosa è la realtà mista (RM)?
   - Trasformazione digitale
-  - Metti a prova la tua conoscenza
-  - Riepilogo del corso
+  - Riepilogo
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Identificare le applicazioni business di Dynamics 365
-  - Comprendere il ruolo dell'intelligenza artificiale (IA) e della realtà mista (RM) in Dynamics 365
-  - Spiegare la trasformazione digitale
-  - Riconoscere come le app Dynamics 365 supportino la trasformazione digitale
+  - Identificare le applicazioni business di Dynamics 365.
+  - Comprendere il ruolo dell'intelligenza artificiale (AI) e della realtà mista (MR) in Dynamics 365.
+  - Spiegare la trasformazione digitale.
+  - Riconoscere come le app Dynamics 365 supportino la trasformazione digitale.
 
 
-  ### Modulo 2&#58; Principles of cloud computing and deployment
+  ### Modulo 2&#58; Principi del cloud computing
   In questo modulo ti aiutiamo a comprendere il principio del cloud computing e ad analizzare le opzioni di installazione per le applicazioni business di Dynamics 365.
   #### Lezioni
   - Introduzione
@@ -63,86 +64,43 @@ outlineSection: |-
   - Installazione
   - Azure DevOps
   - Microsoft Dynamics Lifecycle Services (LCS)
-  - Esplorare Pwer Platform Admin Center
-  - Metti a prova la tua conoscenza
-  - Riepilogo del corso
-  
+  - Esplorare Power Platform Admin Center
+  - Riepilogo
+
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Descrivere il cloud computing e i suoi vantaggi
-  - Comprendere le opzioni di installazione per le applicazioni Dynamics 365
-  - Articolare i servizi cloud e i requisiti di conformità
-  - Descrivere i tipi di servizi cloud
-  - Spiegare i Azure DevOps e Lifecycle Services (LCS)
+  - Descrivere il cloud computing e i suoi vantaggi.
+  - Comprendere le opzioni di installazione per le applicazioni Dynamics 365.
+  - Articolare i servizi cloud e i requisiti di conformità.
+  - Descrivere i tipi di servizi cloud.
+  - Spiegare i Azure DevOps e Lifecycle Services (LCS).
 
 
-  ### Modulo 3&#58; Recognize Dynamics 365 Security
-  Dynamics 365 e la Power Platform sono costruiti tenendo a mente sicurezza, privacy, conformità. Microsoft Cloud security mette al sicuro le tue risorse in cloud. Aiuta a rendere sicura infrastructure as a service (IaaS), platform as a service (PaaS) e software as a service (SaaS). Trova rapidamente la vulnerabilità nelle tue app per fornirti una migliore difesa. In questo modulo ti aiutiamo a comprendere e imparare la prevenzione nella perdita dei dati che è parte del livello generale di sicurezza offerto dalla piattaforma in Dynamics 365.
-  #### Lezioni
-  - Introduzione
-  - Sicurezza del cloud Dynamics 365
-  - Comprendere la sicurezza basata sui ruoli
-  - Metti a prova la tua conoscenza
-  - Riepilogo del corso
-  
-  
-  #### Lab&#58; esplora i ruoli di sicurezza nelle app basate sul modello di Dynamics 365
-  
-  #### Lab&#58; esplora i ruoli di sicurezza nelle app Finance and Operations
-  
-  #### Lab&#58; migliora la sicurezza crittografando i tuoi dati
-  
-  Al termine di questo modulo gli si saranno in grado di&#58;
-  - Descrivi la sicurezza cloud di Dynamics 365
-  - Descrivi la sicurezza basata sui ruoli di Dynamics 365
-
-
-  ### Modulo 4&#58; Connect and analyze your Dynamics 365 data
-  In che modo i manager aziendali possono prendere decisioni importanti e corrette nella propria attività senza le informazioni accurate sui dati finanziari e operativi sottostanti della propria attività? Senza visibilità sarebbe impossibile! In questo modulo ti aiuteremo a comprendere i report e le analisi nelle applicazioni aziendali di Dynamics 365.
-  #### Lezioni
-  - Introduzione
-  - Uso di Power Platform in Dynamics 365
-  - Vantaggi del Common Data Service
-  - Report Dynamics 365
-  - Verifica delle conoscenze
-  - Riepilogo del corso
-  
-  
-  #### Lab&#58; esplora Power Platform Admin Center
-  
-  Al termine di questo modulo gli si saranno in grado di&#58;
-  - Descrivere l'utilizzo di Power Platform in Dynamics 365
-  - Articolare i vantaggi del Common Data Service
-  - Spiegare i report di Dynamics 365
-
-
-  ### Module 5&#58; Introduction to Dynamics 365 Sales
+  ### Module 3&#58; Introduction to Dynamics 365 Sales
   In questo modulo, ti presenteremo Dynamics 365 Sales che consente agli addetti alle vendite di stabilire solide relazioni con i propri clienti, intraprendere azioni basate su approfondimenti e concludere più rapidamente le vendite.
   #### Lezioni
   - Introduzione
-  - Automazione delle vendite di Dynamics 365
+  - Automazione dei processi aziendali con Dynamics 365 Sales
   - Gestire il processo di vendita e la pipeline
-  - Gestione contratti
-  - Scoprire Microsoft Relationship Sales solution
+  - Vantaggi di Microsoft Relationship Sales Solution (MRSS)
   - Dynamics 365 Sales Insights
-  - Sondaggi sulle vendite
-  - Metti a prova la tua conoscenza
-  - Riepilogo del corso
+  - Microsoft Forms Pro
+  - Dynamics 365 Product Visualize
+  - Riepilogo
 
-  
   #### Lab&#58; esplora Dynamics 365 Sales
   - Creare o modificare preventivi
   - Creare o modificare ordini
   - Creare o modificare fatture
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Descrivere Dynamics 365 sales automation
-  - Descrivi come gestire il processo di vendita in Dynamics 365 Sales
-  - Scoprire Microsoft Relationship Sales Solution (MRSS)
-  - Spiegare il valore commerciale di Dynamiocs 365 Sales Insights
-  - Spiegare il valore aziendale di Microsoft Forms Pro
+  - Descrivere Dynamics 365 sales automation.
+  - Descrivi come gestire il processo di vendita in Dynamics 365 Sales.
+  - Scoprire Microsoft Relationship Sales Solution (MRSS).
+  - Spiegare il valore aziendale di Dynamics 365 Sales Insights.
+  - Spiegare il valore aziendale di Microsoft Forms Pro.
 
-  
-  ### Module 6&#58; Introduction to Dynamics 365 Marketing
+
+  ### Module 4&#58; Introduction to Dynamics 365 Marketing
   In questo modulo, ti presenteremo Dynamics 365 Marketing e mostreremo come Dynamics 365 Marketing è progettato per aiutarti a trovare e coltivare i contatti giusti. È possibile eseguire campagne di marketing multicanale per attirare le giuste possibilità. Ciò significa e-mail, web, eventi, messaggi di testo e canali personalizzati.
   #### Lezioni
   - Introduzione
@@ -152,46 +110,42 @@ outlineSection: |-
   - Visite ai clienti
   - Segmentazione
   - Gestione eventi
-  - Verifica delle conoscenze
-  - Riepilogo del corso
+  - Riepilogo
 
-  
   #### Lab&#58; esplora Dynamics 365 Marketing
   - Creare e-mail coinvolgenti
   - Individuare il tuo pubblico
   - Creare una campagna
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Descrivere i vantaggi dell'utilizzo di Dynamics 365 Marketing
-  - Descrivere le caratteristiche e le funzionalità di Dynamics 365 Marketing
-  - Descrivere un percorso del cliente
+  - Descrivere i vantaggi dell'utilizzo di Dynamics 365 Marketing.
+  - Descrivere le caratteristiche e le funzionalità di Dynamics 365 Marketing.
+  - Descrivere un percorso del cliente.
 
-  
-  ### Module 7&#58; Introduction to Dynamics 365 Customer Service
+
+  ### Module 5&#58; Introduction to Dynamics 365 Customer Service
   Un eccellente servizio clienti crea clienti felici. L'intelligenza integrata del servizio clienti di Dynamics 365 offre un supporto più rapido e personalizzato che aggiunge valore a ogni interazione. In questo modulo ti illustreremo come il marketing gestisca le aspettative dei clienti e fornisca gli strumenti necessari affinché le organizzazioni possano soddisfare i propri clienti, soprattutto quando qualcosa non va esattamente come previsto.
   #### Lezioni
   - Introduzione
   - Panoramica del servizio clienti di Dynamics 365
-  - Gestione Account
+  - Gestire il proprio Account
   - Gestione del ciclo di vita del caso
   - Articoli della conoscenza
   - Omnichannel per il servizio clienti di Dynamics 365
-  - Portali
+  - Portali Power Apps
   - Informazioni sul servizio clienti di Dynamics 365
-  - Metti a prova la tua conoscenza
-  - Riepilogo del corso
+  - Riepilogo
 
-  
   #### Lab&#58; esplora il servizio clienti di Dynamics 365
   - Creare e gestire un caso
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Presentare una panoramica del servizio clienti di Dynamics 365
-  - Discutere le funzionalità principali del servizio clienti di Dynamics 365
-  - Spiegare il valore di Dynamics 365 Customer Service Insights
+  - Presentare una panoramica del servizio clienti di Dynamics 365.
+  - Discutere le funzionalità principali del servizio clienti di Dynamics 365.
+  - Spiegare il valore di Dynamics 365 Customer Service Insights.
 
-  
-  ### Module 8&#58; Introduction to Dynamics 365 Field Service
+
+  ### Module 6&#58; Introduction to Dynamics 365 Field Service
   In questo modulo, ti presenteremo Dynamics 365 Field Service. Imparerai come Field Service aiuta le organizzazioni a offrire un'esperienza di servizio end-to-end senza soluzione di continuità, in cui le funzionalità di CRM (Customer Relationship Management) di livello mondiale convergono con potente machine learning, realtà mista e tecnologia IoT per creare un'unica soluzione integrata che sta trasformando gestione dell'assistenza sul campo.
   #### Lezioni
   - Introduzione
@@ -199,115 +153,73 @@ outlineSection: |-
   - Assistenza connessa sul campo
   - Pianificazione delle risorse di servizio
   - Ottimizzazione della pianificazione delle risorse (RSO)
-  - Servizio clienti proattivo
   - Field Service Mobile
   - Assistenza remota Dynamics 365
   - Dynamics 365 Guides
-  - Verifica delle conoscenze
-  - Riepilogo del corso
+  - Riepilogo
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Descrivere i vantaggi di Dynamics 365 Field Service
-  - Spiegare Connected Field Service
-  - Scoprire Dynamics 365 Remote Assist
-  - Scoprire Dynamics 365 Guides
+  - Descrivere i vantaggi di Dynamics 365 Field Service.
+  - Spiegare Connected Field Service.
+  - Scoprire Dynamics 365 Remote Assist.
+  - Scoprire Dynamics 365 Guides.
 
-  
-  ### Module 9&#58; Explore model -driven app integrations and Dynamics 365 Customer Insights
-  Le app guidate dal modello si integrano nello stack del prodotto Microsoft. Utilizzando i connettori, è anche possibile integrarsi con centinaia di altre offerte software disponibili in AppSource. In questo modulo ti presenteremo le integrazioni disponibili per le app basate su modelli.
-  #### Lezioni
-  - Introduzione
-  - Integrazione tra applicazioni Dynamics 365
-  - Integrazione con i prodotti Microsoft
-  - Integrazione con applicazioni di terze parti
-  - Integrazione dei dati dei clienti tra applicazioni di prima e terza parte con Dynamics 365 Customer Insig
-  - Metti a prova la tua conoscenza
-  - Riepilogo del corso
 
-  Al termine di questo modulo gli si saranno in grado di&#58;
-  - Spiegare come si integra l'app basata sul modello Dynamics 365
-  - Descrivere le integrazioni di Office 365
-  - Integrazioni di terze parti
-  - Descrivere le opinioni dei clienti di Dynamics 365
-  - Riconoscere Adobe Experience Cloud
-
-  
-  ### Module 10&#58; Introduction to Dynamics 354 Finance
-  Per avere successo nell'attuale ambiente degli affari è necessario sfruttare la tecnologia per gestire le finanze in tutto il mondo, monitorare le prestazioni in tempo reale, automatizzare e semplificare le funzioni, proteggere i futuri risultati aziendali e massimizzare la produttività. In questo modulo ti presenteremo Dynamics 365 Finance, l'applicazione aziendale di gestione finanziaria di Microsoft che consente alle organizzazioni aziendali di monitorare le prestazioni delle operazioni finanziarie globali in tempo reale, prevedere esiti futuri e prendere decisioni basate sui dati per favorire la crescita.
+  ### Module 7&#58; Introduction to Dynamics 365 Finance
+  Per avere successo nell'attuale ambiente degli affari è necessario sfruttare la tecnologia per gestire le finanze in tutto il mondo, monitorare le prestazioni in tempo reale, automatizzare e semplificare le funzioni, proteggere i futuri risultati aziendali e massimizzare la produttività. In questo modulo ti presenteremo Dynamics 365 Finance, l'applicazione aziendale di gestione finanziaria di Microsoft che consente alle organizzazioni aziendali di monitorare le prestazioni delle operazioni finanziarie globali in tempo reale, prevedere esiti futuri e prendere decisioni basate sui dati per favorire la crescita. 
   #### Lezioni
   - Introduzione
   - Panoramica di Dynamics 365 Finance
-  - Attributi globali
-  - Libro mastro
-  - Contabilità fornitori
-  - Contabilità clienti
-  - Credito e incassi
-  - Pianificazione delle spese
-  - Gestione del progetto e contabilità
-  - Visibilità del flusso di cassa in tempo reale
-  - Periodo e chiusura di fine anno
-  - Verifica delle conoscenze
-  - Riepilogo del corso
+  - Funzionalità fondamentali di Dynamics 365 Finance
+  - Riepilogo
 
-  
   #### Lab&#58; esplora Dynamics 365 Finance
-  
+
   Al termine di questo modulo gli si saranno in grado di&#58;
   - Descrivere i vantaggi di Dynamics 365 Finance
   - Fornire una panoramica di alto livello di Dynamics 365 Finance
   - Spiegare le funzioni di contabilità clienti e fornitori in Dynamics 365 Finance
 
-  
-  ### Module 11&#58; Introduction to Dynamics 365 Supply Chain Management
+
+  ### Module 8&#58; Introduction to Dynamics 365 Supply Chain Management
   La produzione e i distributori si stanno trasformando in fabbriche e magazzini intelligenti, dove l'intelligenza umana potenziata dall'intelligenza artificiale (AI), la robotica avanzata, l'internet delle cose (IoT) e il Machine Learning (ML) consente un'accelerazione della produzione con una riduzione dei difetti. In questo modulo ti presenteremo Dynamics 365 Supply Chain Management che consente ai dipendenti di un'azienda di ottenere una visione unificata di inventario, magazzino, produzione, servizio e logistica con analisi predittive che trasformano i dati in approfondimenti per supportare migliori decisioni strategiche.
   #### Lezioni
   - Introduzione
   - Panoramica di Dynamics 365 Supply Chain Management
-  - Informazioni sui prodotti
-  - Acquisizione e approvvigionamento
-  - Gestione del magazzino
-  - Gestione degli ordini di vendita
-  - Produzione
-  - Pianificazione generale
-  - Modernizzare le operazioni
-  - Contabilità del progetto
-  - Gestione degli asset
+  - Funzionalità fondamentali di Dynamics 365 Supply Chain Management
   - Layout di Dynamics 365
-  - Verifica delle conoscenze
-  - Riepilogo del corso
+  - Riepilogo
 
-  
   #### Lab&#58; esplora Dynamics 365 Supply Chain Management
   - Creare un prodotto
   - Creare master di prodotto
-  - Creare un ordine d'acquisto
-  - Creare ordini di vendita
+  - Creare un ordine di acquisto
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Descrivere i vantaggi di Dynamics 365 Supply Chain Management
-  - Fornire una panoramica di alto livello di Dynamics 365 Supply Chain Management
-  - Presentare il valore della gestione patrimoniale
-  - Discutere sul layout di Dynamics 365
+  - Descrivere i vantaggi di Dynamics 365 Supply Chain Management.
+  - Fornire una panoramica di alto livello di Dynamics 365 Supply Chain Management.
+  - Presentare il valore della gestione patrimoniale.
+  - Discutere sul layout di Dynamics 365.
 
-  
-  ### Module 12&#58; Introduction to Dynamics 365 Business Central
+
+  ### Module 9&#58; Introduction to Dynamics 365 Business Central
   Dynamics 365 Business Central è una soluzione di gestione aziendale completa che consente di connettere dati, persone e processi. È progettato per le piccole e medie imprese che hanno superato i loro strumenti di gestione esistenti e devono semplificare e migliorare le loro operazioni. In questo modulo ti presenteremo come Dynamics 365 Business Central riunisce automaticamente sistemi e processi, consentendo agli utenti di gestire operazioni finanziarie, vendite, assistenza e operazioni integrate.
   #### Lezioni
   - Introduzione
+  - Panoramica di Dynamics 365 Business Central
   - Finanza e budget
   - Gestione della catena di approvvigionamento
   - Project Management
   - Vendita e assistenza
   - Quando utilizzare Business Central rispetto ad altre applicazioni Dynamics 365?
-  - Verifica delle conoscenze
-  - Riepilogo del corso
+  - Riepilogo
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Esplora i casi d'uso comuni per Dynamics 365 Business Central
-  - Scopri quando sfruttare Business Central rispetto ad altri prodotti Dynamics 365
+  - Esplora i casi d'uso comuni per Dynamics 365 Business Central.
+  - Scopri quando sfruttare Business Central rispetto ad altri prodotti Dynamics 365.
 
-  
-  ### Module 13&#58; Introduction to Dynamics 365 Human Resources
+
+  ### Module 10&#58; Introduction to Dynamics 365 Human Resources
   La forza lavoro sta cambiando e la concorrenza per i migliori talenti è accanita! I leader delle risorse umane stanno lottando per trovare e assumere i candidati giusti per il lavoro e il processo di assunzione è più complicato che mai. In questo modulo ti presenteremo Dynamics 365 Human Resources.
   #### Lezioni
   - Introduzione
@@ -316,51 +228,105 @@ outlineSection: |-
   - Gestione del personale
   - Gestione dei benefit
   - Sviluppo dei dipendenti
-  - Metti a prova la tua conoscenza
-  - Riepilogo del corso
+  - Riepilogo
 
   #### Lab&#58; esplora  Dynamics 365 Human Resources
   - Creare un lavoro
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Scopri gli strumenti delle risorse umane che aiutano a rendere efficienti le operazioni
-  - Esplora le caratteristiche e le funzionalità delle risorse umane
+  - Scopri gli strumenti delle risorse umane che aiutano a rendere efficienti le operazioni.
+  - Esplora le caratteristiche e le funzionalità delle risorse umane.
 
-  
-  ### Module 14&#58; Introduction to Dynamics 365 Commerce
+
+  ### Module 11&#58; Introduction to Dynamics 365 Commerce
   Lo shopping dei clienti non è più limitato a un momento nel tempo. Il coinvolgimento inizia molto prima che i clienti raggiungano il tuo negozio o sito Web e anche la natura della nostra interazione con i clienti è cambiata. I clienti non stanno più cercando collaboratori di vendita per i dettagli del prodotto, ma piuttosto coinvolgono i rivenditori quando sono già significativamente sulla strada del percorso di acquisto. Insieme a questo passaggio, i clienti si aspettano che la loro esperienza di acquisto debba essere personalizzata, coinvolgente e priva di attriti. Questa esperienza è possibile solo riunendo canali di acquisto fisici e digitali per offrire esperienze personalizzate e differenziate che consentano un vantaggio competitivo e fidelizzino il marchio. In questo modulo ti presenteremo Dynamics 365 Commerce.
   #### Lezioni
   - Introduzione
-  - Funzionalità di vendita al dettaglio di base
-  - Punti di vendita (POS)
+  - Panoramica di Dynamics 365 Commerce
+  - Gestione omnicanale e canale
+  - Aree funzionali fondamentali di Dynamics 365 Commerce
   - Vendita assistita
   - Merchandising e inventario
-  - Gestione del canale
-  - E-commerce
-  - Distribuzione al dettaglio
+  - Opzioni di distribuzione di Dynamics 365 Commerce
   - Dynamics 365 Fraud Protection
-  - Verifica delle conoscenze
-  - Riepilogo del corso
-  
-  Al termine di questo modulo gli si saranno in grado di&#58;
-  - Fornire una panoramica di alto livello di Dynamics 365 Commerce
-  - Scoprire le opzioni di implementazione
-  - Descrivere Dynamics 365 Fraud Protection
-  - Esplorare omnicanale
+  - Riepilogo
 
-  
-  ### Module 15&#58; Explore Finance and Operations cross -app integrations
-  In questo modulo ti aiutiamo a prendere la giusta decisione di progettazione quando si implementano scenari di integrazione in Microsoft Dynamics 365 Finance and Supply Chain Management. 
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Fornire una panoramica di alto livello di Dynamics 365 Commerce.
+  - Scoprire le opzioni di implementazione.
+  - Descrivere Dynamics 365 Fraud Protection.
+  - Esplorare omnicanale.
+
+
+  ### Modulo 12&#58; Riconoscere Dynamics 365 Security
+  Dynamics 365 e la Power Platform sono costruiti tenendo a mente sicurezza, privacy, conformità. Microsoft Cloud security mette al sicuro le tue risorse in cloud. Aiuta a rendere sicura infrastructure as a service (IaaS), platform as a service (PaaS) e software as a service (SaaS). Trova rapidamente la vulnerabilità nelle tue app per fornirti una migliore difesa. In questo modulo ti aiutiamo a comprendere e imparare la prevenzione nella perdita dei dati che è parte del livello generale di sicurezza offerto dalla piattaforma in Dynamics 365.
+  #### Lezioni
+  - Introduzione
+  - Sicurezza del cloud Dynamics 365
+  - Nozioni di base sulla sicurezza cloud
+  - Capire la sicurezza basata sui ruoli
+  - App Security in Finance and Operations
+  - Riepilogo
+
+  #### Lab&#58; esplora i ruoli di sicurezza nelle app basate sul modello di Dynamics 365
+
+  #### Lab&#58; esplora i ruoli di sicurezza nelle app Finance and Operations
+
+  #### Lab&#58; migliora la sicurezza crittografando i tuoi dati
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Descrivi la sicurezza cloud di Dynamics 365.
+  - Descrivi la sicurezza basata sui ruoli di Dynamics 365.
+
+
+  ### Modulo 13&#58; Collegare e analizzare i dati di Dynamics 365
+  In che modo i manager aziendali possono prendere decisioni importanti e corrette nella propria attività senza le informazioni accurate sui dati finanziari e operativi sottostanti della propria attività? Senza visibilità sarebbe impossibile! In questo modulo ti aiuteremo a comprendere i report e le analisi nelle applicazioni aziendali di Dynamics 365.
+  #### Lezioni
+  - Introduzione
+  - L'uso di Microsoft Power Platform in Dynamics 365
+  - Vantaggi del Common Data Service
+  - Report Dynamics 365
+  - Riepilogo
+
+  #### Lab&#58; esplora Power Platform Admin Center
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Descrivere l'utilizzo di Power Platform in Dynamics 365.
+  - Articolare i vantaggi del Common Data Service.
+  - Spiegare i report di Dynamics 365.
+
+
+  ### Module 14&#58; Explore model -driven app integrations and Dynamics 365 Customer Insights
+  Le app guidate dal modello si integrano nello stack del prodotto Microsoft. Utilizzando i connettori, è anche possibile integrarsi con centinaia di altre offerte software disponibili in AppSource. In questo modulo ti presenteremo le integrazioni disponibili per le app basate su modelli.
   #### Lezioni
   - Introduzione
   - Integrazione tra applicazioni Dynamics 365
   - Integrazione con i prodotti Microsoft
   - Integrazione con applicazioni di terze parti
-  - Esplorare le capacità di integrazione del sistema esterno
-  - Verifica delle conoscenze
-  - Riepilogo del corso
+  - Dynamics 365 Customer Insights
+  - Riepilogo
 
   Al termine di questo modulo gli si saranno in grado di&#58;
-  - Descrivere il quadro di gestione dei dati
-  - Spiegare le integrazioni di Office 3565
-  - Esplorare le capacità di integrazione del sistema esterno 
+  - Spiegare come si integra l'app basata sul modello Dynamics 365.
+  - Descrivere le integrazioni di Office 365.
+  - Integrazioni di terze parti.
+  - Descrivere le opinioni dei clienti di Dynamics 365.
+  - Riconoscere Adobe Experience Cloud.
+
+
+  ### Module 15&#58; Explore Finance and Operations cross -app integrations
+  In questo modulo ti aiutiamo a prendere la giusta decisione di progettazione quando si implementano scenari di integrazione in Microsoft Dynamics 365 Finance and Supply Chain Management. 
+  #### Lezioni
+  - Introduzione
+  - Integrazione tra le app Dynamics 365
+  - Scoprire il Data Management Framework
+  - Integrazioni tra i prodotti Microsoft
+  - Integrazioni con applicazioni di terze parti
+  - Esplorare le capacità di integrazione del sistema esterno
+  - Riepilogo
+
+  Al termine di questo modulo gli si saranno in grado di&#58;
+  - Descrivere il quadro di gestione dei dati.
+  - Spiegare le integrazioni di Office 365.
+  - Esplorare le capacità di integrazione del sistema esterno.
+

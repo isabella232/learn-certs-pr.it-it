@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
-  description: 'I consulenti funzionali di Sales di Microsoft Dynamics 365 implementano soluzioni che anticipano e pianificano le connessioni con i clienti, gestiscono gli accordi dall’elaborazione alla chiusura e accelerano le prestazioni dei team di vendita utilizzando l''analisi dei dati.'
+  description: "I consulenti funzionali di Sales di Microsoft Dynamics 365 implementano soluzioni che anticipano e pianificano le connessioni con i clienti, gestiscono gli accordi dall’elaborazione alla chiusura e accelerano le prestazioni dei team di vendita utilizzando l'analisi dei dati."
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -37,14 +37,10 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-dynamics.dynamics-365-for-sales
 - uid: learn-bizapps.applying-goal-management
-- uid: learn-bizapps.customer-service-hub-cases-slas
-- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
-- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6I
 exams:
 - uid: exam.mb-200

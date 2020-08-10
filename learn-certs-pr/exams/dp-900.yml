@@ -9,7 +9,11 @@ summary: "<div style='color&#58; red;'><strong>In risposta alla situazione del C
 subTitle: 'Dimostrare che puoi descrivere quanto segue: concetti di dati di base; come lavorare con i dati relazionali in Azure; come lavorare con dati non relazionali in Azure e un carico di lavoro analitico su Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -18,7 +22,7 @@ skills:
 - Descrivere i concetti di dati di base (15-20%)
 - Descrivere come lavorare con i dati relazionali in Azure (25-30%)
 - Descrivere come lavorare con dati non relazionali in Azure (25-30%)
-- Descrivere un carico di lavoro analitico in Azure (25-30%)
+- Descrivere un carico di lavoro di analisi in Azure (25-30%)
 roles:
 - data-engineer
 - database-administrator
@@ -26,10 +30,16 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals
 resources:
+- title: Viaggio verso la certificazione
+  description: Scopri i passaggi per ottenere la certificazione Azure Data Fundamentals e le risorse disponibili per aiutare a prepararti.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -45,24 +45,47 @@ Di seguito sono riportati alcuni esempi, non limitativi, di frode, comportamenti
 
     Microsoft Worldwide Learning Security Team  
     One Microsoft Way  
-    Redmond, WA 98052 
+    Redmond, WA 98052
 
 3. Il Microsoft Worldwide Learning Security Team esaminerà tutte le contestazioni inviate effettuando un’indagine approfondita su ciascun caso specifico e comunicherà direttamente al candidato le conclusioni risultanti dall’indagine e la decisione definitiva in merito alla contestazione.
 
 ### Criteri per la ripetizione degli esami
 
 1. Criteri di ripetizione degli esami di certificazione Microsoft generali
-    1. Se non si raggiunge il punteggio sufficiente in un esame la prima volta, è necessario attendere almeno 24 ore per sostenere nuovamente l'esame.
+    1. Se non si raggiunge il punteggio sufficiente in un esame la prima volta, è necessario attendere dalle 24 alle 30 ore per sostenere nuovamente l'esame. Dopo questo periodo di tempo, i candidati possono accedere alla loro [dashboard di certificazione](https://aka.ms/certdashboard) e riprogrammare l'esame.
     2. Se non si raggiunge il punteggio sufficiente in un esame la seconda volta, è necessario attendere almeno 14 giorni per sostenere l'esame per la terza volta.
-    3. Anche per sostenere l'esame per la quarta volta e la quinta volta successiva, è necessario attendere 14 giorni. Non è possibile sostenere un determinato esame più di cinque volte in un anno (12 mesi). Questo periodo di 12 mesi inizia dal primo tentativo. È possibile sostenere nuovamente l'esame 12 mesi dopo tale data. Per sostenere nuovamente un determinato esame per più di cinque volte in un anno oppure per non dover attendere il tempo di intervallo previsto per la ripetizione degli esami, è necessario inviare un’apposita richiesta e ottenere la preventiva approvazione di Microsoft. Le richieste devono essere inviate a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Queste richieste devono contenere le seguenti informazioni:
-        - MCID
-        - Nome
-        - Indirizzo di posta elettronica
+    3. Anche per sostenere l'esame per la quarta volta e la quinta volta successiva, è necessario attendere 14 giorni.
+    4. Non è possibile sostenere un determinato esame più di cinque volte in un anno (12 mesi). Questo periodo di 12 mesi inizia dal primo tentativo. È possibile sostenere nuovamente l'esame 12 mesi dopo tale data. Per sostenere nuovamente un determinato esame per più di cinque volte in un anno oppure per non dover attendere il tempo di intervallo previsto per la ripetizione degli esami, è necessario inviare un’apposita richiesta e ottenere la preventiva approvazione di Microsoft. Le richieste devono essere inviate a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Queste richieste devono contenere le seguenti informazioni:
+        - ID candidato
+        - Nome/Cognome
+        - Email associata al tuo ID candidato
+        - ID registrazione esame
         - Numero dell’esame
+        - Descrizione dell'errore
+        - Numero del caso Pearson VUE
 
-2. Criteri per la ripetizione degli esami di certificazione Microsoft Technology Associate (MTA) e Microsoft Certified Educator (MCE)
+    **Le eccezioni alla ripetizione dell'esame saranno accettate per i seguenti scenari:**
+      - Mancata partecipazione per incidente di laboratorio
+      - Mancata partecipazione dovuto a problemi di connettività internet
+      - Mancata partecipazione per guasto dell'apparecchiatura
+      - Richieste che includono un numero di caso Pearson VUE
+
+    **Le eccezioni alla ripetizione dell'esame non saranno accettate per i seguenti scenari:**
+      - Mancata partecipazione dovuto alla mancanza di preparazione, conoscenza, abilità o abilità di un candidato
+      - Richieste che non includono un numero di caso Pearson VUE
+
+    Le richieste di ripetizione dell’esame devono essere inviate a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Queste richieste devono contenere le seguenti informazioni:
+      - ID candidato
+      - Nome/Cognome
+      - Email associata al tuo ID candidato
+      - ID registrazione esame
+      - Numero dell’esame
+      - Descrizione dell'errore
+      - Numero del caso Pearson VUE
+
+2. Criteri per la ripetizione degli esami di certificazione Microsoft Technology Associate (MTA) e Microsoft Certified Educator (MCE):
     1. Se non si raggiunge il punteggio sufficiente in un esame la prima volta, è necessario attendere 24 ore per sostenere nuovamente l'esame.
-    2. Se non si raggiunge il punteggio sufficiente in un esame la seconda volta, è necessario attendere 7 giorni per sostenere l'esame per la terza volta.
+    2. Se non si raggiunge il punteggio sufficiente in un esame la seconda volta, è necessario attendere sette giorni per sostenere l'esame per la terza volta.
     3. Per sostenere nuovamente un esame, è necessario un periodo di attesa di sette giorni.
     4. Non è possibile sostenere un determinato esame più di cinque volte in un anno (12 mesi). Questo periodo di 12 mesi inizia dal primo tentativo. È possibile sostenere nuovamente l'esame 12 mesi dopo tale data.
 
@@ -249,7 +272,6 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
    4. "***Certificazione Microsoft***" indica il superamento degli esami necessari e il rispetto e il mantenimento della conformità a tutti i requisiti per la certificazione o il rinnovo della certificazione necessari per avere il diritto di utilizzare la Credenziale corrispondente. L'elenco attuale di certificazioni Microsoft è disponibile alla pagina [Microsoft Certifications](https://docs.microsoft.com/learn/certifications/browse/?type=role-based).
    5. Per "***Credenziale di certificazione Microsoft***" o "***Credenziale***" si intende il titolo, completo o abbreviato, di una specifica Certificazione Microsoft utilizzata per attestare la conformità di un candidato ai requisiti previsti per una specifica Certificazione Microsoft.
    6. "***Esame di certificazione Microsoft***" o "***Esame***" indica un esame di certificazione Microsoft progettato per attestare le competenze di un candidato relative a una particolare tecnologia Microsoft che è oggetto dell'esame.
-   
 
 2. CERTIFICAZIONE MICROSOFT
    1. *Come ottenere e mantenere una certificazione Microsoft*: Per ottenere e mantenere una certificazione Microsoft, è necessario:
@@ -329,7 +351,6 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
         5. Qualora il candidato sia responsabile di attività illecite.
         6. Oppure, qualora un'agenzia governativa o un tribunale scopra che i servizi forniti, che prevedono l'utilizzo di tecnologie Microsoft relative alla Certificazione Microsoft, siano in qualche modo difettosi.
         7. Qualora il candidato rilasci false dichiarazioni sullo stato della sua certificazione, sulla sua associazione con i Microsoft Partner o su qualsiasi altro rapporto con Microsoft. A seconda della gravità della non conformità, Microsoft può decidere di annullare definitivamente la certificazione o annullare la sua adesione al programma di certificazione Microsoft. In tal caso, il candidato perderà tutte le credenziale relative alle certificazioni Microsoft.
-        
 
     3. *Risoluzione automatica*. Il presente Contratto si risolverà automaticamente se il candidato perde lo stato di MCP o qualora Microsoft annulli il Programma.
 
@@ -845,7 +866,7 @@ Quando ci si senti pronti per sostenere nuovamente l'esame, è possibile fissare
 
 **Dove posso trovare ulteriori informazioni sulle mie aree di debolezza?**
 
-Nonostante gli esami di certificazione Microsoft forniscano commenti relativi alle aree di debolezza in cui candidati devono sviluppare ulteriormente le proprie competenze, gli esami non sono progettati per fornire commenti dettagliati o diagnostici. È consigliabile consultare la sezione "Skills Measured” (Competenze misurate) nella pagina dei dettagli dell'esame e valutare in modo obiettivo le competenze confrontandole con gli elementi valutati nell'esame. Il modo migliore per farlo è eseguire realmente; attività elencate e individuare le difficoltà riscontrate. È necessario esercitarsi fino a non incontrare più tali difficoltà. Può essere utile chiedere agli altri candidati in che modo eseguono tali attività. Hanno eseguito l'attività in modo diverso? È importante capire perché lo fanno. Per ulteriori informazioni sulle attività incluse nell'esame, consulta i white paper, i documenti, ecc. per ottenere maggiori informazioni sulle attività incluse nell'esame. Esplora le risorse fornite nella sezione "Preparation options” (Opzioni di preparazione) nella pagina dei dettagli dell'esame e i gruppi di studio, disponibili nella parte inferiore della pagina dei dettagli dell'esame.
+Nonostante gli esami di certificazione Microsoft forniscano commenti relativi alle aree di debolezza in cui candidati devono sviluppare ulteriormente le proprie competenze, gli esami non sono progettati per fornire commenti dettagliati o diagnostici. È consigliabile consultare la sezione "Skills Measured” (Competenze misurate) nella pagina dei dettagli dell'esame e valutare in modo obiettivo le competenze confrontandole con gli elementi valutati nell'esame. Il modo migliore per farlo è eseguire realmente; attività elencate e individuare le difficoltà riscontrate. È necessario esercitarsi fino a non incontrare più tali difficoltà. Può essere utile chiedere agli altri candidati in che modo eseguono tali attività. Hanno eseguito l'attività in modo diverso? È importante capire perché lo fanno. Per ulteriori informazioni sulle attività incluse nell'esame, consulta i white paper, i documenti, ecc. per ottenere maggiori informazioni sulle attività incluse nell'esame. Esplora le risorse fornite in "Opzioni di preparazione" nei dettagli dell’esame.
 
 Infine, per alcuni dei nostri esami di certificazione sono disponibili [test pratici Microsoft ufficiali](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx). Questi test possono fornire ulteriori informazioni relative alle specifiche aree di forza e debolezza. Tuttavia, superare un test di valutazione non garantisce il superamento di un esame di certificazione.
 
@@ -980,7 +1001,7 @@ Per una serie di motivi, non possiamo valutare tutte le abilità critiche con i 
 
 **Quanti laboratori ci sono in un esame? Quante attività ci sono in ogni laboratorio?**
 
-Per gli esami che prevedono laboratori, c’è sempre almeno un laboratorio. Ogni laboratorio prevede 7-15 attività. Una delle pagine introduttive dell'esame mostrerà il numero di laboratori e le attività.
+Per gli esami che prevedono laboratori, c’è sempre almeno 1 laboratorio. Ogni laboratorio prevede 7-15 attività. Una delle pagine introduttive dell'esame mostrerà il numero di laboratori e le attività.
 
 **Come vengono assegnati i punteggi alle attività?**
 
@@ -994,7 +1015,7 @@ La maggior parte delle attività vale un punto; se l'attività vale più di un p
 
 **Quanto tempo ho a disposizione per completare i laboratori?**
 
- I laboratori non sono cronometrati separatamente dall'esame. All'inizio dell'esame vengono indicati il numero di laboratori, i casi di studio, le domande e la durata dell'esame. Il candidato deve rispondere a tutte le domande, compreso il completamento delle attività associate a qualsiasi laboratorio, nel tempo previsto. Gestire il tempo in modo da riuscire completare tutte le attività previste.
+I laboratori non sono cronometrati separatamente dall'esame. All'inizio dell'esame vengono indicati il numero di laboratori, i casi di studio, le domande e la durata dell'esame. Il candidato deve rispondere a tutte le domande, compreso il completamento delle attività associate a qualsiasi laboratorio, nel tempo previsto. Gestire il tempo in modo da riuscire completare tutte le attività previste.
 
 **Avrò abbastanza tempo per completare i laboratori?**
 

@@ -62,6 +62,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-security-engineer
 resources:
+- title: Viaggio verso la certificazione
+  description: Scopri i passaggi per essere certificato Azure Security Engineer Associate e le risorse disponibili per aiutare a prepararti.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
