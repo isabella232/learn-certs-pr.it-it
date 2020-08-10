@@ -2,16 +2,14 @@
 title: 'Microsoft Certified: Power Platform App Maker Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform App Maker Associate'
-  description: Questa certificazione sarà disponibile dal 17 luglio 2020 o intorno a tale data. Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
+  description: Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
 
   Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
-
-  <div><strong><br/>Nota&#58; Questa certificazione sarà disponibile dal 17 luglio 2020 o intorno a tale data.</strong></div>
-subTitle: Questa certificazione sarà disponibile dal 17 luglio 2020 o intorno a tale data. Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
+subTitle: Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
 levels:
 - intermediate
 skills:
@@ -60,6 +58,18 @@ products:
 - power-apps
 - power-virtual-agents
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-bizapps.understand-advanced-topics
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.ui-controls-canvas-app-powerapps
+- uid: learn-bizapps.create-business-process-flow
 exams:
 - uid: exam.pl-100
 resources:

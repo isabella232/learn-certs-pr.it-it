@@ -25,13 +25,23 @@ products:
 - power-bi
 courses:
 - uid: course.da-100t00
+paths:
+- uid: learn-bizapps.get-started-data-analytics
+- uid: learn-bizapps.data-preparation-in-power-bi
+- uid: learn-bizapps.model-power-bi
+- uid: learn-bizapps.visual-data-power-bi
+- uid: learn-bizapps.data-analysis-power-bi
+- uid: learn-bizapps.manage-workspaces-datasets-power-bi
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6
 exams:
 - uid: exam.da-100
 resources:
 - title: Poster delle certificazioni di Azure
-  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Viaggio verso la certificazione
+  description: Scopri i passaggi per ottenere la certificazione come Data Analyst Associate e le risorse disponibili per aiutare a prepararti.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

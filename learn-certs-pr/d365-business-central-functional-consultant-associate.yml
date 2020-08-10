@@ -1,32 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: 'I Microsoft 365 Messaging Administrator distribuiscono, configurano, gestiscono, risolvono e monitorano destinatari, autorizzazioni, protezione della posta, flusso di posta e cartelle pubbliche in ambienti ibridi e cloud aziendali.'
-uid: certification.m365-messaging-administrator
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+  description: Tale certificazione sarà disponibile a Settembre 2020. I Dynamics 365 Business Central Functional Consultants sono responsabili dell'implementazione dei processi di configurazione delle applicazioni principali per le piccole e medie imprese.
+uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  I Microsoft 365 Messaging Administrator distribuiscono, configurano, gestiscono, risolvono e monitorano destinatari, autorizzazioni, protezione della posta, flusso di posta e cartelle pubbliche in ambienti ibridi e cloud aziendali.
-subTitle: I Microsoft 365 Messaging Administrator distribuiscono, configurano, gestiscono, risolvono e monitorano destinatari, autorizzazioni, protezione della posta, flusso di posta e cartelle pubbliche in ambienti ibridi e cloud aziendali.
+  I Dynamics 365 Business Central Functional Consultants sono responsabili dell'implementazione dei processi di configurazione delle applicazioni principali per le piccole e medie imprese.
+
+  <div><br/><strong>Nota&#58; Tale certificazione sarà disponibile a Settembre 2020.</strong></div>
+subTitle: Tale certificazione sarà disponibile a Settembre 2020. I Dynamics 365 Business Central Functional Consultants sono responsabili dell'implementazione dei processi di configurazione delle applicazioni principali per le piccole e medie imprese.
 levels:
 - intermediate
 skills:
-- Gestire le impostazioni e le risorse dell'organizzazione
-- Pianificare e gestire l'architettura della posta
-- Pianificare e implementare una configurazione e una migrazione ibride
-- Proteggere l’ambiente di messaggistica
+- Non ancora disponibile
 roles:
-- administrator
+- functional-consultant
 type: role-based
 products:
-- m365
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
-courses:
-- uid: course.ms-203t00
+- business-central
+- power-platform
 exams:
-- uid: exam.ms-203
+- uid: exam.mb-800
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
