@@ -17,7 +17,7 @@ summary: |-
   - Ottenere una certificazione indicata come pre-requisito
     - Pre-requisito opzionale 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - Pre-requisito opzionale 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
-  - E superare uno degli esami facoltativi
+  - E superare uno degli esami a scelta&#58;
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
@@ -29,7 +29,7 @@ skills:
 - none
 roles:
 - administrator
-type: role-based
+type: mcse
 products:
 - m365
 courses:

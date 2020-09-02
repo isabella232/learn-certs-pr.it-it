@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # Accesso a Microsoft Learning Azure Pass per studenti di Microsoft Learning Partner autorizzati
 
-<div style='color&#58; red;'><font color="red">Microsoft WWL ha ripristinato l'accesso ai pass di Azure. Si prega di notare che questa è una soluzione non SLA e alcune aree potrebbero ancora essere soggette a restrizioni delle risorse.<br/><br/>L'interfaccia di Azure fornirà feedback su quali aree e dimensioni sono supportate e se ci siano richieste particolari per la regione selezionata. Prendi in considerazione l'idea di utilizzare un'altra regione supportata dall'abbonamento che non presenti richieste particolari o restrizioni sulle dimensioni.<br/><br/>Per ulteriori informazioni su soluzioni alternative supportate da SLA, contattare uno degli Hoster di laboratorio autorizzati (ALH) che attualmente forniscono l'accesso ad Azure.</font></div>
+<div>Di seguito sono riportate le informazioni relative ai Pass di Azure forniti da Microsoft per supportare soluzioni di laboratorio per corsi specifici sulle tecnologie cloud Microsoft.  Per ulteriori informazioni sulle soluzioni alternative supportate da SLA, contattare uno degli Authorised Lab Hosters (ALH) che attualmente forniscono l'accesso ad Azure.</div>
 
-Ultimo aggiornamento: **5 giugno 2020**
+Ultimo aggiornamento: **giovedì 6 agosto 2020**
 
 Microsoft offre ai tuoi studenti l'accesso a un Microsoft Azure Pass gratuito di 30 giorni quando si registrano per un corso idoneo relativo ad Azure usando i corsi ufficiali Microsoft. I pass per gli studenti possono essere ottenuti solo dal Microsoft Learning Partner autorizzato tramite il Marketplace dei corsi ed è direttamente collegato all'acquisto di un corso MOC, con il limite di un pass per ciascun corso MOC ordinato. Non saranno disponibili altri meccanismi per ottenere i pass per gli studenti. Se un Learning Partner ordina un corso MOC ma non seleziona il Pass Azure che è disponibile con il corso al momento dell'acquisto, il Partner avrà la possibilità di tornare al Marketplace dei corsi e, se necessario, ordinare successivamente quel Pass.
 
@@ -60,7 +60,6 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
-- 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
@@ -74,6 +73,7 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - 40573 Microsoft Cloud Workshop: Hybrid identity
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
+- 55188 Lizenzierung und Verwaltung Virtueller Umgebungen und Cloud Services
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
@@ -82,6 +82,7 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
+- AZ-030T00 Tecnologie Microsoft Azure per architetti AWS
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -103,6 +104,7 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - DP-201T01 Designing an Azure Data Solution
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
+- MS-600T00 Costruire applicazioni e soluzioni con i servizi di base di Microsoft 365
 - WS-050T00 Migrating Application Workloads to Azure
 
 Nota: Questo elenco è soggetto a modifiche e i titoli possono essere aggiunti o rimossi da questo elenco quando vengono rilasciate nuove versioni o corsi e le versioni e i corsi precedenti vengono ritirati.

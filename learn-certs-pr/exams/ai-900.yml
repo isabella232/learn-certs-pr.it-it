@@ -1,12 +1,12 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure AI Fundamentals (beta)'
+title: 'Microsoft Azure AI Fundamentals'
 metadata:
-  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
-  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>\r\n\r\nI candidati a questo esame dovrebbero avere una conoscenza di base dei concetti di machine learning (ML) e intelligenza artificiale (IA) e dei relativi servizi di Microsoft Azure.\r\n\r\nQuesto esame è un'opportunità per dimostrare la conoscenza dei comuni carichi di lavoro ML e AI e su come implementarli in Azure.  \r\n\r\nQuesto esame è destinato a candidati con background sia tecnici sia non. Non è richiesta esperienza di ingegneria dei dati e di scienza dei dati; tuttavia, sarebbero utili alcune conoscenze o esperienze di programmazione generale.  \r\n\r\nI principi fondamentali di Azure AI possono essere usati per preparare altre certificazioni basate sul ruolo di Azure come Azure Data Scientist Associate o Azure AI Engineer Associate, ma non è un prerequisito per alcuno di essi.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">di più sul valore e l'importanza degli esami beta</a>.</div>"
-subTitle: "Dimostra di poter descrivere quanto segue: Carichi di lavoro e considerazioni sull'IA; principi fondamentali di machine learning su Azure; funzionalità dei carichi di lavoro di visione artificiale in Azure; funzionalità dei carichi di lavoro di Natural Language Processing (NLP) su Azure; e funzionalità dei carichi di lavoro di intelligenza artificiale conversazionale su Azure."
+summary: "<div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>\r\n\r\nI candidati a questo esame dovrebbero avere una conoscenza di base dei concetti di machine learning (ML) e intelligenza artificiale (IA) e dei relativi servizi di Microsoft Azure.\r\n\r\nQuesto esame è un'opportunità per dimostrare la conoscenza dei comuni carichi di lavoro ML e AI e su come implementarli in Azure.  \r\n\r\nQuesto esame è destinato a candidati con background sia tecnici sia non. Non è richiesta esperienza di ingegneria dei dati e di scienza dei dati; tuttavia, sarebbero utili alcune conoscenze o esperienze di programmazione generale.  \r\n\r\nI principi fondamentali di Azure AI possono essere usati per preparare altre certificazioni basate sul ruolo di Azure come Azure Data Scientist Associate o Azure AI Engineer Associate, ma non è un prerequisito per alcuno di essi."
+subTitle: 'Dimostra di poter descrivere quanto segue: Carichi di lavoro e considerazioni sull''IA; principi fondamentali di machine learning su Azure; funzionalità dei carichi di lavoro di visione artificiale in Azure; funzionalità dei carichi di lavoro di Natural Language Processing (NLP) su Azure; e funzionalità dei carichi di lavoro di intelligenza artificiale conversazionale su Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
 providers:
@@ -21,7 +21,7 @@ levels:
 skills:
 - Descrivere i carichi di lavoro e le considerazioni sull'IA (15-20%)
 - Descrivere i principi fondamentali del machine learning in Azure (30-35%)
-- Descrivere le funzionalità della visione dei carichi di lavoro del computer in Azure (15-20%)
+- Descrivere le funzionalità dei carichi di lavoro di computer vision su Azure (15-20%)
 - Descrive le funzionalità dei carichi di Lavoro di Natural Language Processing (NLP) su Azure (15-20%)
 - Descrivere le funzionalità dei carichi di lavoro di IA conversazionale in Azure (15-20%)
 roles:

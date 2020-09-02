@@ -2,7 +2,7 @@
 title: 'Microsoft 365 Certified: Fundamentals'
 metadata:
   title: 'Microsoft 365 Certified: Fundamentals'
-  description: "Dimostra di comprendere le opzioni disponibili in Microsoft 365 e i vantaggi dell'adozione dei servizi cloud, del modello di cloud SaaS (Software as a Service) e dell'implementazione del servizio cloud Microsoft 365."
+  description: 'Dimostra di comprendere le opzioni disponibili in Microsoft 365 e i vantaggi dell''adozione dei servizi cloud, del modello di cloud SaaS (Software as a Service) e dell''implementazione del servizio cloud Microsoft 365.'
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -28,7 +28,10 @@ products:
 courses:
 - uid: course.ms-900t01
 paths:
-- uid: learn-m365.microsoft-365-fundamentals
+- uid: learn.wwl.m365-productivity-teamwork-solutions
+- uid: learn.wwl.m365-business-management-solutions
+- uid: learn.wwl.m365-security-compliance-capabilities
+- uid: learn.wwl.m365-licensing-service-support
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
 exams:
 - uid: exam.ms-900

@@ -26,14 +26,14 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Scoprire il valore aziendale e le capacità del prodotto di Power Platform. Creare una semplice PowerApp, collegare i dati con CDS, creare un Power BI Dashboard e automatizzare un processo con Microsoft Flow.
+  Scoprire il valore aziendale e le capacità del prodotto di Power Platform. Creare una semplice Power App, collegare i dati con Common Data Service, costruire una Dashboard Power BI e automatizzare un processo con Power Automate.
 
   #### Profilo dei destinatari
   I candidati idonei a questo esame sono utenti che aspirano a migliorare la produttività automatizzando i processi aziendali, analizzando i dati per ottenere informazioni commerciali e lavorando in modo più efficiente grazie alla creazione di app semplici da usare.
 prerequisitesSection: |-
   Nessun prerequisito per questo corso
 outlineSection: |-
-  ### Module 1&#58; Introduction to Power Platform
+  ### Modulo 1&#58; Introduzione a Power Platform
   Informazioni sui componenti di Power Platform, sui modi per connettere i dati e su come le organizzazioni possono sfruttare questa tecnologia per creare soluzioni aziendali.
   #### Lezioni
   - Panoramica della piattaforma di alimentazione
@@ -44,31 +44,14 @@ outlineSection: |-
   - Scopri il valore dell'utilizzo di Power Platform per creare soluzioni aziendali
   - Scopri i componenti e le funzionalità di Power Platform
 
-  ### Module 2&#58; Get Started with Power Apps
-  Scopri il valore e le capacità di PowerApps e i modi in cui altre organizzazioni hanno sfruttato questa tecnologia per creare semplici applicazioni per la loro attività.
-  #### Lezioni
-  - Panoramica di Power Apps
-  - Come creare una soluzione per app
-  - Creare Staff Canvas App
-  - Completa l'app
 
-  #### Lab &#58; come creare una Basic Canvas App 2
-  - Creare la Security Canvas App
-
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Scopri come le altre organizzazioni digitalizzano i loro processi utilizzando Power Apps
-  - Guarda le Power Apps in azione e scopri le opzioni per creare la tua prima app
-  - Scopri cos'è Power Apps e il suo valore commerciale
-
-
-  ### Module 3&#58; Introduction to Common Data Service
+  ### Modulo 2&#58; Introduzione a Common Data Service
   Common Data Service ti consente di approfondire soluzioni di dati potenti e scalabili nel cloud. Scopri cosa rende tick Common Data Service e come può funzionare con Power Platform per creare soluzioni aziendali uniche ed efficienti.
   #### Lezioni
   - Panoramica del servizio dati comune
   - Riepilogo del modulo
 
-
-  #### Lab &#58; modellazione dei dati
+  #### Lab&#58; modellazione dei dati
   - Creare ambiente e soluzione
   - Creare entità e relazioni
   - Importare dati
@@ -79,14 +62,36 @@ outlineSection: |-
   - Spiegare quali ambienti, entità, campi e relazioni sono nel common data service
 
 
-  ### Module 4&#58; Get Started with Power Automate
+  ### Modulo 3&#58; Inizia con Power Apps
+  Informazioni sul valore e sulle funzionalità di Power Apps e sui modi in cui altre organizzazioni abbiano sfruttato questa tecnologia per creare applicazioni semplici per la propria azienda.
+  #### Lezioni
+  - Panoramica di Power Apps
+  - Come creare una soluzione per app
+
+  #### Lab&#58;  Applicazione canvas, parte 1
+  - Creare Staff Canvas App
+  - Completa l'app
+
+  #### Lab&#58;  Applicazione canvas, parte 2
+  - Creare la Security Canvas App
+
+  #### Lab&#58; Applicazioni guidate da modellizzazione
+  - Personalizzare viste e moduli
+  - Creare applicazioni basate su modelli
+
+  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  - Scopri come le altre organizzazioni digitalizzano i loro processi utilizzando Power Apps
+  - Guarda le Power Apps in azione e scopri le opzioni per creare la tua prima app
+  - Scopri cos'è Power Apps e il suo valore commerciale
+
+
+  ### Modulo 4&#58; Inizia con Power Automate
   Scopri come gli utenti possono sfruttare Power Automate per migliorare l'efficienza e la produttività dell'azienda.
   #### Lezioni
   - Panoramica di Power Automate
   - Come costruire una soluzione automatizzata
 
-
-  #### Lab &#58; creare un flusso semplice
+  #### Lab&#58; Power Automate
   - Creare flusso di notifica visita
   - Creare Security Sweep Flow
 
@@ -96,14 +101,15 @@ outlineSection: |-
   - Scoprrei il valore e le funzionalità aziendali di Power Automate
 
 
-  ### Module 5&#58; Get Started with Power BI
+  ### Modulo 5&#58; Inizia con Power BI
   Scopri come le organizzazioni possono utilizzare Power BI per pulire, visualizzare e comprendere facilmente i dati per garantire decisioni meglio informate.
   #### Lezioni
   - Panoramica di Power BI
   - Come costruire una semplice dashboard
 
-
-  #### Lab &#58; Crea un report Power BI
+  #### Lab&#58; Power BI
+  - Creare un report Power BI
+  - Creare una dashboard Power BI
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Scopri come funziona Power BI e l'aspetto dal punto di vista dell'utente
