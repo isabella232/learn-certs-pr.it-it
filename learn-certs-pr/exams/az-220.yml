@@ -7,8 +7,8 @@ uid: exam.az-220
 displayName: AZ-220
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il martedì 21 luglio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il martedì 21 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame dovrebbero avere esperienza in materia di sviluppo di componenti cloud ed edge di una soluzione IoT di Azure.
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il martedì 21 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il martedì 21 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Implementare l'infrastruttura della soluzione IoT (15-20%)
 - Fornire e gestire i dispositivi (20-25%)
 - Implementare Edge (15-20%)

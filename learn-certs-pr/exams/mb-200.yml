@@ -7,13 +7,14 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il mercoledì 1 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il 1 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>QUESTO ESAME SARA’ RITIRATO IL 31 DICEMBRE 2020. Per maggiori informazioni, <a href="https://aka.ms/microsoftlearncommunity">visitare il nostro blog</a> e rivedere i nostri post di ritiro esame. Nota&#58; Ritiro esame alle 11&#58;59 Central Standard Time.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame sono consulenti funzionali che hanno accesso alle caratteristiche e alle funzionalità del prodotto con licenza aziendale. In qualità di consulenti funzionali, i candidati sono a conoscenza delle versioni bundle delle funzionalità, ma solitamente non lavorano con questi prodotti in bundle.
 
-  I candidati sono principalmente responsabili della configurazione del sistema in base alle esigenze dei clienti, l'esecuzione di attività di progettazione relative all'implementazione di nuove caratteristiche e funzionalità, e dell'implementazione e della verifica delle modifiche del sistema.
+  I candidati sono principalmente i responsabili della configurazione del sistema per soddisfare le esigenze dei clienti, l'esecuzione delle attività di progettazione relative all'implementazione di nuove caratteristiche e funzionalità e l'implementazione e il test delle modifiche del sistema.
 
   I candidati pianificano la progettazione funzionale delle soluzioni, implementano un processo ALM (Application Lifecycle Management), migrano dati e oggetti da sistemi legacy ed esterni, integrano Power Platform con altri sistemi e gestiscono l'ambiente Power Platform.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire operazioni di rilevamento, pianificazione ed analisi; gestire la progettazione dell’esperienza utente; gestire entità e dati; implementare la sicurezza; implementare l’integrazione; ed eseguire la distribuzione e il testing di soluzioni.'
@@ -27,17 +28,18 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il mercoledì 1 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame è stato aggiornato il 1 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Eseguire operazioni di rilevamento, pianificazione e analisi (5-10%)
 - Gestire la progettazione dell'esperienza utente (20-25%)
 - Gestire entità e dati (15-20%)
 - Implementare la sicurezza (5-10%)
 - Implementare l'integrazione (15-20%)
 - Eseguire la distribuzione e il testing di soluzioni (25-30%)
+retirementDate: 12/31/2020
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service

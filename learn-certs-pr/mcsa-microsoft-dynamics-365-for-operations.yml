@@ -4,14 +4,20 @@ metadata:
   title: 'MCSA: Microsoft Dynamics 365 for Operations'
   description: 'MCSA: Microsoft Dynamics 365 for Operations'
 uid: certification.mcsa-microsoft-dynamics-365-for-operations
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
   <div><strong>Questa certificazione verrà ritirata il 31 gennaio 2021. Non sarai più in grado di ottenere questa certificazione dopo tale data. Eventuali certificazioni ottenute prima della loro data di ritiro continueranno ad apparire nel tuo report nel <a href='https://www.microsoft.com/learning/dashboard.aspx'>Dashboard di certificazione</a>. Puoi anche <a href='/learn/certifications/retired-certifications'>consultare tutte le certificazioni ritirate</a>.</strong><br/><br/></div>
   </div>
 
   Questa certificazione dimostra le tue competenze relative alle tecnologie Microsoft Dynamics 365 per l'implementazione di attività tecniche e di sviluppo base richieste per personalizzare Microsoft Dynamics 365 for Operations. I professionisti interessati in genere operano come consulenti tecnici, programmatori e personale IT.
+
+  Per ottenere la certificazione MCSA&#58; Microsoft Dynamics 365 for Operations, completare i seguenti requisiti&#58;
+  - Superare l’esame [MB6-894&#58; Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb6-894)
+  - E superare uno dei seguenti esami&#58;
+    - [70-764&#58; Administering a SQL Database Infrastructure](/learn/certifications/exams/70-764)
+    - [70-765&#58; Provisioning SQL Databases](/learn/certifications/exams/70-765)
 subTitle: Questa certificazione dimostra le tue competenze relative alle tecnologie Microsoft Dynamics 365 per l'implementazione di attività tecniche e di sviluppo base richieste per personalizzare Microsoft Dynamics 365 for Operations. I professionisti interessati in genere operano come consulenti tecnici, programmatori e personale IT.
 levels:
 - intermediate

@@ -6,25 +6,28 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  Un Power Platform Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione delle soluzioni e delle applicazioni Power Platform.
+  I candidati a questo esame procedono alla scoperta, all'acquisizione dei requisiti, al coinvolgimento di esperti e stakeholder, traducono requisiti e configurano soluzioni e applicazioni Power Platform. Creano miglioramenti all’applicazione, esperienze dell’utente personalizzate, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
 
-  Il Functional Consultant implementa i componenti della soluzione che prevedono il miglioramento delle applicazioni, esperienze dell’utente personalizzate, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
+  I candidati implementano il progetto fornito da e in collaborazione con un solution architect e gli standard, il branding e gli artefatti stabiliti dallo User Experience Designer. Progettano integrazioni per fornire un'integrazione senza soluzione di continuità con applicazioni e servizi di terze parti.
 
-  <div style='font-weight&#58; bold;'><br/>Nota&#58; Tale Esame sarà disponibile ad Ottobre 2020.</div>
-subTitle: 'Tale Esame sarà disponibile ad Ottobre 2020. Questo esame misura la tua capacità di svolgere i seguenti compiti tecnici: configurare il Common Data Service; costruire una Power App; creare automazioni con Power Automate; configurare Power Virtual Agent; e creare visualizzazioni con Power BI.'
+  I candidati collaborano attivamente con i membri del team di garanzia della qualità per garantire che le soluzioni soddisfino i requisiti funzionali e non funzionali. Identificano, generano e distribuiscono artefatti per l’imballaggio e la distribuzione agli ingegneri DevOps e forniscono formazione operativa e di manutenzione agli amministratori della piattaforma Power.
+
+  <div><strong><br/>Nota&#58; Tale Esame sarà disponibile a Settembre 2020.</strong></div>
+subTitle: 'Tale Esame sarà disponibile a Settembre 2020. Questo esame misura la tua capacità di completare le seguenti attività: configurare il Common Data Service, creare app utilizzando Power Apps, creare e gestire Power Automate, implementare chatbot Power Virtual Agents e integrare Power Apps con altre app e servizi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Configurare il Common Data Service
-- Costruire una Power App
-- Creare automazioni con Power Automate
-- Configurare Power Virtual Agent
-- Creare visualizzazioni con Power BI
+- Configurare il Common Data Service (25-30%)
+- Creare app utilizzando Power Apps (20-25%)
+- Creare e gestire Power Automate (15-20%)
+- Implementare chatbot Power Virtual Agents (10-15%)
+- Integrare Power Apps con altre app e servizi (15-20%)
 roles:
 - business-analyst
 - developer
@@ -46,8 +49,8 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

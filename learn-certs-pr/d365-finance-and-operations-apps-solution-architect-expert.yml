@@ -21,7 +21,7 @@ roles:
 - solution-architect
 type: role-based
 products:
-- dynamics
+- dynamics-365
 courses:
 - uid: course.mb-700t00
 paths:
@@ -39,22 +39,25 @@ prerequisites:
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
+- title: Poster di certificazione
+  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Viaggio verso la certificazione
+  description: Scoprire i passaggi per ottenere la certificazione e le risorse disponibili per aiutare a prepararsi.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRK
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Percorso di formazione per ottenere la certificazione
+  description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
-- title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
-  href: help.md
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: help.md
 

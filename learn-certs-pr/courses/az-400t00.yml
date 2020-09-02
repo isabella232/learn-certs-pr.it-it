@@ -138,6 +138,7 @@ outlineSection: |-
   - Descrivere Azure Repos e GitHub
   - Migrare da TFVC a Git 
 
+
   ### Modulo 3&#58; Ridimensionamento di Git per DevOps aziendali
   #### Lezioni
   - Come strutturare il proprio Git Repo
@@ -155,6 +156,7 @@ outlineSection: |-
   - Sfruttare i Git hooks per l'automazione 
   - Usare git per favorire la fonte interna in tutta l'organizzazione
 
+
   ### Modulo 4&#58; Consolidamento di manufatti e progettazione di una strategia di gestione delle dipendenze 
   #### Lezioni
   - Dipendenze dei pacchetti
@@ -168,6 +170,7 @@ outlineSection: |-
   - Astrarre pacchetti comuni per consentire la condivisione e il riutilizzo
   - Migrare e consolidare artefatti
   - Migrare e integrare misure di controllo del codice sorgente 
+
 
   ### Modulo 5&#58; Implementazione dell'integrazione continua con Azure Pipelines
   #### Lezioni
@@ -189,10 +192,6 @@ outlineSection: |-
 
   #### Lab&#58; Integrazione del controllo del codice sorgente esterno con Azure Pipelines
 
-  #### Lab&#58; Integrare Jenkins con Azure Pipelines
-
-  #### Lab&#58; Installazione di un'applicazione multi-contenitore
-
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Implementare e gestire la costruzione di infrastrutture
   - Spiegare perché è importante l'integrazione continua
@@ -211,6 +210,8 @@ outlineSection: |-
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Gestire la configurazione dell'applicazione e dei segreti
+  - Implementare strumenti per la gestione della sicurezza e della conformità in pipeline
+
 
   ### Modulo 7&#58; Gestione delle politiche di qualità e sicurezza del codice
   #### Lezioni
@@ -223,6 +224,7 @@ outlineSection: |-
   - Gestire la qualità del codice, inclusi&#58; debito tecnico, SonarCloud e altre soluzioni di lavoro
   - Gestire le politiche di sicurezza con open source e OWASP
 
+
   ### Modulo 8&#58; Implementazione di una strategia di costruzione di container
   #### Lezioni
   - Implementare una strategia di costruzione di container
@@ -233,12 +235,13 @@ outlineSection: |-
   - Implementare una strategia di container, incluso il modo in cui i container sono diversi dalle macchine virtuali e come i microservizi utilizzano i container
   - Implementare i container utilizzando Docker
 
+
   ### Modulo 9&#58; Gestire la versione, la sicurezza e la conformità di Artifact
   #### Lezioni
   - Sicurezza del pacchetto
   - Software open source
   - Integrare scansioni di licenze e vulnerabilità
-  - Implementare una strategia di versioning (versione git) 
+  - Implementare una strategia di migrazione 
 
   #### Lab&#58; Gestire la sicurezza e la licenza Open Source con WhiteSource
 
@@ -250,6 +253,7 @@ outlineSection: |-
   - Identificare e suggerire tipi e versioni di pacchetti standardizzati nella soluzione
   - Effettuare il refactoring di pipeline di build esistenti per implementare la strategia delle versioni usata per pubblicare i pacchetti
   - Gestire la sicurezza e la conformità
+
 
   ### Modulo 10&#58; Progettare una strategia di rilascio
   #### Lezioni
@@ -267,6 +271,7 @@ outlineSection: |-
   - Descrivere il principio delle porte di rilascio e come gestire le note di rilascio e la documentazione
   - Spiegare i modelli di distribuzione, sia in senso tradizionale sia in senso moderno
   - Scegliere uno strumento di gestione dei rilasci
+
 
   ### Modulo 11&#58; Impostare un flusso di lavoro per la gestione delle versioni
   #### Lezioni
@@ -299,6 +304,7 @@ outlineSection: |-
   - Elencare i diversi modi per ispezionare lo stato della pipeline e il rilascio utilizzando avvisi, hook di servizio e report
   - Creare un gate di rilascio
 
+
   ### Modulo 12&#58; Implementare un appropriato modello di installazione
   #### Lezioni
   - Introduzione ai modelli di distribuzione
@@ -317,6 +323,7 @@ outlineSection: |-
   - Implementare il rilascio di Canary
   - Implementare la distribuzione progressiva di Exposure
 
+
   ### Modulo 13&#58; Implementare il processo per inviare il feedback del sistema ai team di sviluppo
   #### Lezioni
   - Implementare strumenti per tenere traccia dell’uso del sistema, dell’uso delle funzionalità e del flusso
@@ -333,19 +340,8 @@ outlineSection: |-
   - Implementare strumenti per tenere traccia dell’uso del sistema, dell’uso delle funzionalità e del flusso
   - Integrare e configurare i sistemi di ticketing con la gestione del lavoro del team di sviluppo
 
-  ### Modulo 14&#58; Implementare una strategia DevOps mobile
-  #### Lezioni
-  - Introduzione a Mobile DevOps
-  - Introduzione al Visual Studio App Center
-  - Gestire set di obiettivo di dispositivi mobili e di gruppi di distribuzione
-  - Gestire set di obiettivo di test di dispositivi UI
-  - Effettuare il provisioning di dispositivi di test per l'impiego
-  - Creare gruppi di distribuzione pubblici e privati 
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Implementare una strategia mobile DevOps
-
-  ### Modulo 15&#58; Infrastruttura e configurazione Azure Tools
+  ### Modulo 14&#58; Infrastruttura e configurazione Azure Tools
   #### Lezioni
   - Infrastruttura come codice e gestione della configurazione
   - Creare risorse di Azure usando i modelli ARM
@@ -361,7 +357,8 @@ outlineSection: |-
   - Applicare l'infrastruttura e la configurazione come principi di codice
   - Distribuire e gestire l'infrastruttura usando le tecnologie di automazione Microsoft come modelli ARM, PowerShell e Azure CLI
 
-  ### Modulo 16&#58; Modelli e servizi di installazione di Azure
+
+  ### Modulo 15&#58; Modelli e servizi di installazione di Azure
   #### Lezioni
   - Moduli e opzioni di distribuzione
   - Azure Infrastructure-as-a-Service (IaaS) Services
@@ -369,13 +366,13 @@ outlineSection: |-
   - Serverless e HPC Computer Services
   - Azure Service Fabric 
 
-  #### Lab&#58; Automazione di Azure - installazione IaaS o PaaS
+  #### Lab&#58; Distribuire un'app Dockerized Java in Azure Web App for Contenitori
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Descrivere modelli e servizi di distribuzione disponibili in Azure
 
 
-  ### Modulo 17&#58; Creare e gestire l'infrastruttura del servizio Kubernetes
+  ### Modulo 16&#58; Creare e gestire l'infrastruttura del servizio Kubernetes
   #### Lezioni
   - Azure Kubernetes Service
 
@@ -385,7 +382,7 @@ outlineSection: |-
   - Installare e configurare un cluster Kubernetes gestito
 
 
-  ### Modulo 18&#58; Infrastruttura di terze parti come strumenti di codice disponibili con Azure
+  ### Modulo 17&#58; Infrastruttura di terze parti come strumenti di codice disponibili con Azure
   #### Lezioni
   - Chef
   - Puppet
@@ -397,10 +394,10 @@ outlineSection: |-
   #### Lab&#58; Automazione delle implementazioni dell'infrastruttura nel cloud con Terraform e Azure Pipelines
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Installare e configurare l'infrastruttura usando strumenti e servizi di terzi con Azure, come Chef, Puppet, Ansible, SaltStack e Terraform
+  - Installare e configurare l'infrastruttura usando strumenti e servizi di terzi con Azure, come Chef, Puppet, Ansible, e Terraform
 
 
-  ### Modulo 19&#58; Implementare conformità e sicurezza nella tua infrastruttura
+  ### Modulo 18&#58; Implementare conformità e sicurezza nella tua infrastruttura
   #### Lezioni
   - Principi di sicurezza e conformità con DevOps
   - Centro sicurezza di Azure 
@@ -411,7 +408,8 @@ outlineSection: |-
   - Definire una strategia di infrastruttura e configurazione e un set di strumenti appropriato per una pipeline di rilascio e l'infrastruttura dell'applicazione
   - Implementare conformità e sicurezza nella propria infrastruttura applicativa
 
-  ### Modulo 20&#58; Consigliare e progettare meccanismi di feedback del sistema
+
+  ### Modulo 19&#58; Consigliare e progettare meccanismi di feedback del sistema
   #### Lezioni
   - Ciclo interno
   - Mentalità di sperimentazione continua
@@ -428,7 +426,8 @@ outlineSection: |-
   - Suggerire strumenti e tecnologie di monitoraggio
   - Suggerire strumenti per il tracciamento dell’utilizzo del sistema e delle funzionalità
 
-  ### Modulo 21&#58; Ottimizzazione dei meccanismi di feedback
+
+  ### Modulo 20&#58; Ottimizzazione dei meccanismi di feedback
   #### Lezioni
   - Ingegneria dell'affidabilita
   - Analizzare la telemetria per stabilire una linea di base

@@ -34,10 +34,13 @@ locales:
 - ja
 - zh-cn
 - ko
+- es
+- de
+- fr
 levels:
 - beginner
 skills:
-- ‘Il contenuto di questo esame è stato aggiornato il 28 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.’
+- Il contenuto di questo esame è stato aggiornato il 28 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Descrivere i concetti del cloud (15-20%)
 - Descrivere i principali servizi di Azure (30-35%)
 - Descrivere sicurezza, privacy, conformità e affidabilità (25-30%)

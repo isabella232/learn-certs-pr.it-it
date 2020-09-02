@@ -1,11 +1,20 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure Data Fundamentals (beta)'
+title: 'Microsoft Azure Data Fundamentals'
 metadata:
-  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
-  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals'
 uid: exam.dp-900
 displayName: DP-900
-summary: "<div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>\r\n\r\nI candidati a questo esame devono avere una conoscenza di base dei concetti di dati fondamentali e di come vengano implementati usando i servizi dati di Microsoft Azure.\r\n\r\nQuesto esame è destinato ai candidati che iniziano a lavorare con i dati nel cloud.\r\n\r\nI candidati devono avere familiarità con i concetti di dati relazionali e non relazionali e con diversi tipi di carichi di lavoro di dati come transazionali o analitici.\r\n\r\nAzure Data Fundamentals può essere usato per preparare altre certificazioni basate sul ruolo di Azure come Azure Database Administrator Associate o Azure Data Engineer Associate, ma non è un prerequisito per alcuna di esse.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">di più sul valore e l'importanza degli esami beta</a>.</div>"
+summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  I candidati a questo esame devono avere una conoscenza di base dei concetti di dati fondamentali e di come vengano implementati usando i servizi dati di Microsoft Azure.
+
+  Questo esame è destinato ai candidati che iniziano a lavorare con i dati nel cloud.
+
+  I candidati devono avere familiarità con i concetti di dati relazionali e non relazionali e con diversi tipi di carichi di lavoro di dati come transazionali o analitici.
+
+  Azure Data Fundamentals può essere usato per preparare altre certificazioni basate sul ruolo di Azure come Azure Database Administrator Associate o Azure Data Engineer Associate, ma non è un prerequisito per alcuna di esse.
 subTitle: 'Dimostrare che puoi descrivere quanto segue: concetti di dati di base; come lavorare con i dati relazionali in Azure; come lavorare con dati non relazionali in Azure e un carico di lavoro analitico su Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
@@ -28,6 +37,8 @@ roles:
 - database-administrator
 products:
 - azure
+courses:
+- uid: course.dp-900t00
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 - uid: learn.wwl.azure-data-fundamentals-explore-relational-data

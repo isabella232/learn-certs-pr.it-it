@@ -7,8 +7,8 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il giovedì 30 luglio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il giovedì 30 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
@@ -25,14 +25,14 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame sarà aggiornato il giovedì 30 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il giovedì 30 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Immaginare la soluzione e analizzare i requisiti (30-35%)
 - Progettare una soluzione (45-50%)
 - Implementare la soluzione (20-25%)
 roles:
 - solution-architect
 products:
-- dynamics
+- dynamics-365
 - power-apps
 courses:
 - uid: course.mb-600t00
@@ -43,14 +43,14 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
+  description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7FB
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

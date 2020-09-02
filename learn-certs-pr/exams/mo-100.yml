@@ -6,7 +6,7 @@ metadata:
 uid: exam.mo-100
 displayName: MO-100
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale. I candidati devono dimostrare la corretta applicazione delle principali caratteristiche di Word e completare le attività in modo indipendente.
 subTitle: Questo esame valuta la tua capacità di sapere applicare correttamente le principali funzionalità di Word creando e modificando documenti di due o tre pagine per vari obiettivi e in più situazioni. L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale.
@@ -28,6 +28,10 @@ locales:
 - fr
 - it
 - pt-br
+- pl
+- el-gr
+- zh-cn
+- zh-tw
 levels:
 - intermediate
 skills:
@@ -35,7 +39,7 @@ skills:
 - Inserire e formattare testo, paragrafi e sezioni (20-25%)
 - Gestire tabelle ed elenchi (15-20%)
 - Creare e gestire riferimenti (5-10%)
-- Inserire e formattare elementi grafici /15-20%)
+- Inserire e formattare elementi grafici (15-20%)
 - Gestire la collaborazione dei documenti (5-10%)
 roles:
 - developer
