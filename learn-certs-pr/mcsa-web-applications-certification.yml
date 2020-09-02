@@ -4,14 +4,20 @@ metadata:
   title: 'MCSA: Web Applications'
   description: 'MCSA: Web Applications'
 uid: certification.mcsa-web-applications-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
   <div><strong>Questa certificazione verrà ritirata il 31 gennaio 2021. Non sarai più in grado di ottenere questa certificazione dopo tale data. Eventuali certificazioni ottenute prima della loro data di ritiro continueranno ad apparire nel tuo report nel <a href='https://www.microsoft.com/learning/dashboard.aspx'>Dashboard di certificazione</a>. Puoi anche <a href='/learn/certifications/retired-certifications'>consultare tutte le certificazioni ritirate</a>.</strong><br/><br/></div>
   </div>
 
   Dimostra le tue competenze relative all'implementazione di app Web moderne.
+
+  Per ottenere MCSA&#58; la certificazione Web Application, completare i seguenti requisiti&#58;
+  - Superare l'esame [70-486&#58; Developing ASP.NET MVC Web Applications](/learn/certifications/exams/70-486)
+  - E superare uno dei seguenti esami&#58;
+    - [70-480&#58; Programming in HTML5 with JavaScript and CSS3](/learn/certifications/exams/70-480)
+    - [70-483&#58; Programming in C#](/learn/certifications/exams/70-483)
 subTitle: Dimostra le tue competenze relative all'implementazione di app Web moderne.
 levels:
 - intermediate

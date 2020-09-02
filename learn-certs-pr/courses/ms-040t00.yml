@@ -24,7 +24,7 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - m365
 summary: |-
@@ -89,7 +89,7 @@ outlineSection: |-
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Descrivere come configurare le proprietà del profilo utente.
-  - Descrivere come gestire i gruppi di destinatari.
+  - Descrivere come gestire i gruppi di destinatari
   - Descrivere come utilizzare il catalogo app per gestire le app personalizzate.
 
 

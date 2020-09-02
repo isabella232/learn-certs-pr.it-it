@@ -7,8 +7,8 @@ uid: exam.ms-900
 displayName: MS-900
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il mercoledì 8 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il mercoledì 8 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   Questo esame è pensato per i candidati che hanno l’esigenza di dimostrare una conoscenza di base degli elementi e dei vantaggi derivanti dall’adozione di servizi cloud e del modello Software as a Service (SaaS). I candidati devono avere la conoscenza delle opzioni disponibili e dei vantaggi derivanti dall’implementazione delle offerte dei servizi cloud di Microsoft 365.
@@ -23,6 +23,11 @@ practiceTestUrl: https://us.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_med
 locales:
 - en
 - ja
+- es
+- de
+- zh-cn
+- fr
+- ko
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-900&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
@@ -47,7 +52,10 @@ products:
 courses:
 - uid: course.ms-900t01
 paths:
-- uid: learn-m365.microsoft-365-fundamentals
+- uid: learn.wwl.m365-productivity-teamwork-solutions
+- uid: learn.wwl.m365-business-management-solutions
+- uid: learn.wwl.m365-security-compliance-capabilities
+- uid: learn.wwl.m365-licensing-service-support
 relatedCertifications:
 - related:
     uid: certification.microsoft-365-fundamentals

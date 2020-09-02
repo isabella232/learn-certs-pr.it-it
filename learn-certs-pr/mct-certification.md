@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: micsullivan
 ---
-# Become a Microsoft Certified Trainer
+# Diventa un Microsoft Certified Trainer
 
 I Microsoft Certified Trainer (MCT) sono i docenti più preparati in termini tecnici e didattici sulle tecnologie Microsoft. Diventa parte di questo gruppo esclusivo di esperti mondiali in formazione tecnica di Microsoft e cogli i vantaggi della certificazione e dell’appartenza al programma MCT.
 
@@ -31,20 +31,19 @@ Inoltre, potrai accedere a [MCT Central](https://www.microsoft.com/en-us/learnin
 
 ## Requisiti
 
-Il programma MCT è pensato per i docenti di tutto il mondo che svolgono attivamente attività di formazione sulle tecnologie Microsoft. L'iscrizione a questo programma è consigliata a tutti i professionisti già in possesso di una certificazione o qualifica, con la passione per la formazione sulle tecnologie Microsoft.
+Il programma MCT è pensato per i docenti di tutto il mondo che svolgono attivamente attività di formazione sulle tecnologie Microsoft. L'iscrizione a questo corso è consigliata a tutti i professionisti già in possesso di una certificazione o qualifica, con la passione per la formazione sulle tecnologie Microsoft.
 
 Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guida al programma MCT e il contratto del programma MCT nella sezione [Procedura di registrazione](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) di questa pagina.
 
 
 ### Requisiti per la partecipazione al programma MCT
-
 - Disporre di una certificazione o qualifica Microsoft idonea per il programma MCT. 
 (Vedi l’elenco seguente per le certificazioni idonee)
 - Dimostrare di possedere le competenze didattiche convalidate mediante una delle seguenti certificazioni:
   - Certificazione delle competenze didattiche
     - CompTIA CTT+
     Essential Educate Trainer (certificazione interna Microsoft)
-	- Fourth Dimension Technologies, Inc.
+    - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge Instructional Skills Certification
     - IAMCT Approved Technical Trainer (IAMCT ATT)
@@ -58,7 +57,7 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
   
   OPPURE<br/><br/>
 
-  - Fornire referenze che attestino almeno un anno di esperienza in campo didattico 
+  - Fornire referenze che attestino almeno un anno di esperienza in campo didattico
 
 **Nota** Per rinnovare la certificazione MCT, è necessario soddisfare i requisiti del rinnovo del programma MCT entro la data di scadenza.
 
@@ -100,12 +99,11 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/--and-d365-developer-associate)(verrà ritirato il 31 dicembre 2020)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
-- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (verrà ritirato dal domenica 31 gennaio 2021), Microsoft Dynamics 365 for Operations (verrà ritirato dal domenica 31 gennaio 2021), SQL 2016 BI Development (verrà ritirato dal domenica 31 gennaio 2021), SQL 2016 Database Administration (verrà ritirato dal domenica 31 gennaio 2021), SQL 2016 Database Development (verrà ritirato dal domenica 31 gennaio 2021), SQL Server 2012/2014 (verrà ritirato dal domenica 31 gennaio 2021), Universal Windows Platform (verrà ritirato dal domenica 31 gennaio 2021), Web Applications (verrà ritirato dal domenica 31 gennaio 2021), Windows Server 2012 (verrà ritirato dal domenica 31 gennaio 2021), or Windows Server 2016 (verrà ritirato dal domenica 31 gennaio 2021)
+- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (verrà ritirato il 31 gennaio 2021), Microsoft Dynamics 365 for Operations (verrà ritirato il 31 gennaio 2021; [vedere qui per i requisiti associati a ciascuna qualifica e certificazione Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)), SQL 2016 BI Development (verrà ritirato il 31 gennaio 2021), SQL 2016 Database Administration (verrà ritirato il 31 gennaio 2021), SQL 2016 Database Development (verrà ritirato il 31 gennaio 2021), SQL Server 2012/2014 (verrà ritirato il 31 gennaio 2021), Universal Windows Platform (verrà ritirato il 31 gennaio 2021), Web Applications (verrà ritirato il 31 gennaio 2021), Windows Server 2012 (verrà ritirato il 31 gennaio 2021) o Windows Server 2016 (verrà ritirato il 31 gennaio 2021)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (verrà ritirato dal domenica 31 gennaio 2021), Data Management and Analytics (verrà ritirato dal domenica 31 gennaio 2021), Productivity (verrà ritirato dal domenica 31 gennaio 2021), or Core Infrastructure (verrà ritirato dal domenica 31 gennaio 2021)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder (verrà ritirato dal domenica 31 gennaio 2021)
-- Dynamics CRM Dynamics Technical (Ritirata il 31 dicembre 2019) - [Comprendere i requisiti associati a ciascuna qualifica e certificazione Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) o [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **Nota** Le certificazioni Microsoft valide e le qualifiche idonee per il programma MCT sono soggette a modifiche. Tutte le nuove certificazioni basate sui ruoli diventeranno idonee per il programma MCT dopo il loro rilascio. Le certificazioni ritirate saranno idonee per il programma MCT fino a 6 mesi prima della data di ritiro. [Scopri di più sulle certificazioni programmate per il ritiro](https://www.microsoft.com/learning/retired-certifications.aspx).
@@ -137,20 +135,20 @@ Se sei un Microsoft Office Specialist e non hai un Microsoft Certification ID (M
 Puoi utilizzare lo strumento per l’adesione al programma MCT per:
 
 - **Rivedere i requisiti del programma MCT e sottoscrivere la Guida e il Contratto del programma MCT.** La tua firma elettronica attesta che hai accettato i termini e le condizioni del Contratto MCT.
-- **Aggiornare le informazioni del tuo profilo.** Le informazioni di contatto che fornisci vengono utilizzate per le comunicazioni relative al programma MCT.
-- **Specificare il tuo stato occupazionale.** Se sei dipendente di un partner per la formazione o di una Microsoft Imagine Academy, dovra inserire l'ID del tuo datore di lavoro o della Microsoft Imagine Academy.
-- **Selezionare il metodo di pagamento.** I costi del programma variano a seconda del paese/regione e dello stato occupazionale. Per informazioni sulle quote di adesione per i programmi MCT e MCT Alumni del tuo paese/regione, utilizza lo strumento di ricerca disponibile in fondo alla pagina.
+**Aggiornare le informazioni del tuo profilo.** Le informazioni di contatto che fornisci vengono utilizzate per le comunicazioni relative al programma MCT.
+**Specificare il tuo stato occupazionale.** Se sei dipendente di un partner per la formazione o di una Microsoft Imagine Academy, dovra inserire l'ID del tuo datore di lavoro o della Microsoft Imagine Academy.
+**Selezionare il metodo di pagamento.** I costi del programma variano a seconda del paese/regione e dello stato occupazionale. Per trovare le quote di adesione per MCT e MCT Alumni nel tuo paese/regione, utilizza lo strumento di ricerca disponibile in fondo alla pagina.
 
 ## Programma MCT Alumni
 
-Da più di vent'anni gli MCT sono all'avanguardia nella formazione e nell'utilizzo delle tecnologie Microsoft. Consapevoli del loro contributo significativo, offriamo il MCT Alumni program. Questo programma è aperto a tutti gli MCT certificati da Microsoft che non seguono più i corsi di formazione nell'ambito del programma MCT e che desiderano mantenere il proprio rapporto con la community MCT.
+Da più di vent'anni gli MCT sono all'avanguardia nella formazione e nell'utilizzo delle tecnologie Microsoft. Consapevoli del loro contributo significativo, offriamo il programma MCT Alumni. Questo programma è aperto a tutti gli MCT certificati da Microsoft che non seguono più i corsi di formazione nell'ambito del programma MCT e che desiderano mantenere il proprio rapporto con la community MCT.
 
 Requisiti per il programma MCT Alumni:
 
 - Partecipazione corrente o pregressa al programma MCT
 - Rispetto dei requisiti di certificazione Microsoft
 
-I costi del programma variano a seconda del paese/regione e dello stato occupazionale. Per informazioni sulle quote di adesione per i programmi MCT e MCT Alumni del tuo paese/regione, utilizza lo strumento di ricerca disponibile in fondo alla pagina.
+I costi del programma variano a seconda del paese/regione e dello stato occupazionale. Per trovare le quote di adesione per MCT e MCT Alumni nel tuo paese/regione, utilizza lo strumento di ricerca disponibile in fondo alla pagina.
 
 ### Vantaggi del programma MCT Alumni
 
@@ -164,7 +162,6 @@ I vantaggi del programma MCT Alumni includono:
 ### Procedura per l’adesione al programma MCT Alumni
 
 Se sei interessato a diventare un membro del programma MCT Alumni, consulta il Contratto del programma MCT Alumni per leggere le condizioni di adesione.<br/>
-
 
 [Contratto del programma MCT Alumni](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 
