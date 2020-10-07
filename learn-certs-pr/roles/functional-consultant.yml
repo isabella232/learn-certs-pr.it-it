@@ -1,12 +1,12 @@
 ### YamlMime:Role 
-title: Consulente funzionale 
+title: Functional Consultant 
 metadata: 
-  title: Consulente funzionale 
-  description: I consulenti funzionali usano Microsoft Dynamics 365 per anticipare e pianificare le necessità dei clienti.  
+  title: Functional Consultant 
+  description: I Functional Consultant sfruttano Microsoft Dynamics 365 e Microsoft Power Platform per anticipare e pianificare le necessità dei clienti. 
 uid: role.functional-consultant 
 summary: | 
-  I consulenti funzionali usano Microsoft Dynamics 365 per anticipare e pianificare le necessità dei clienti.
-subTitle: I consulenti funzionali usano Microsoft Dynamics 365 per anticipare e pianificare le necessità dei clienti.
+  I Functional Consultant sfruttano Microsoft Dynamics 365 e Microsoft Power Platform per anticipare e pianificare le necessità dei clienti.
+subTitle: I Functional Consultant sfruttano Microsoft Dynamics 365 e Microsoft Power Platform per anticipare e pianificare le necessità dei clienti.
 certificationPaths: 
 - title: Dynamics 365 Customer Service Functional Consultant
   linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
@@ -129,6 +129,12 @@ certifications:
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-330  
+- uid: certification.power-platform-functional-consultant-associate
+  requiredExams:
+  - uid: exam.pl-200  
+- uid: certification.d365-business-central-functional-consultant-associate
+  requiredExams:
+  - uid: exam.mb-800
 resources:
 - title: Guida alla formazione e alle certificazioni Microsoft
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
@@ -138,4 +144,4 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Assistenza per le certificazioni
   href: ../help.md
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

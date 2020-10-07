@@ -1,7 +1,7 @@
 ### YamlMime:Role 
-title: Amministratore 
+title: Administrator 
 metadata: 
-  title: Amministratore 
+  title: Administrator 
   description: Gli amministratori implementano, monitorano e aggiornano le soluzioni di Microsoft, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.
 uid: role.administrator 
 summary: | 
@@ -19,7 +19,7 @@ certificationPaths:
   - uid: certification.azure-administrator
     levels:
     - intermediate
-  - uid: certification.azure-devops
+  - uid: certification.devops-engineer
     levels:
     - advanced      
 - title: Microsoft 365 Certified Messaging Administrator Associate
@@ -92,14 +92,13 @@ certificationPaths:
 certifications:
 - uid: certification.azure-administrator
   requiredExams:
-  - uid: exam.az-103 
-- uid: certification.azure-devops
+  - uid: exam.az-104
+- uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
-  - uid: exam.az-400
+  - uid: exam.az-120
 - uid: certification.m365-messaging-administrator
   requiredExams:
-  - uid: exam.ms-200
-  - uid: exam.ms-201
+  - uid: exam.ms-203
 - uid: certification.modern-desktop
   requiredExams:
   - uid: exam.md-100
@@ -107,10 +106,6 @@ certifications:
 - uid: certification.m365-security-administrator
   requiredExams:
   - uid: exam.ms-500
-- uid: certification.m365-teamwork-administrator
-  requiredExams:
-  - uid: exam.ms-300
-  - uid: exam.ms-301
 - uid: certification.m365-enterprise-administrator
   requiredExams:
   - uid: exam.ms-100
@@ -127,4 +122,4 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Assistenza per le certificazioni
   href: ../help.md
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

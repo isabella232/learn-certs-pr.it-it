@@ -140,7 +140,14 @@ Gli esami Beta possono essere sostenuti a costi ridotti da circa 400 persone. Pe
 
 Si noti che i posti sono limitati e disponibili in base all'ordine di arrivo e che, per motivi di sicurezza, gli esami beta non sono disponibili in Cina, India, Pakistan o Turchia.
 
-Come ringraziamento per aver partecipato al processo beta, riceverai un buono sconto del 25% dal fornitore dell'esame circa 6 settimane dopo che l'esame è attivo. Questi buoni vengono forniti dal fornitore dell'esame e vengono inviati all'indirizzo e-mail utilizzato al momento della registrazione all'esame. Se non ricevi il tuo buono sconto del 25% entro 6 settimane dalla data di inizio dell'esame, contatta l'assistenza clienti del fornitore dell'esame.
+Come ringraziamento per aver partecipato all’esame beta utilizzando il codice di sconto 80%, riceverai un buono sconto del 25% dal fornitore dell'esame circa 6 settimane dopo che l'esame è attivo. Questi buoni vengono forniti dal fornitore dell'esame e vengono inviati all'indirizzo e-mail utilizzato al momento della registrazione all'esame. Se non ricevi il tuo buono sconto del 25% entro 6 settimane dalla data di inizio dell'esame, contatta l'assistenza clienti del fornitore dell'esame. _Questo sconto NON è generalmente disponibile per tutti i partecipanti agli esami beta. Se paghi l'esame beta utilizzando qualsiasi altro metodo, non hai diritto al buono sconto del 25%._
+<br/><br/>
+<div><font color='red'><em>
+Nota che: Al termine di un esame beta, non si riceve immediatamente un punteggio perché il modello di punteggio per l'esame non risulta ancora finalizzato. <strong>In genere il punteggio dell'esame viene inviato entro 2-3 settimane a partire da quando l'esame diventa disponibile in tutto il mondo (fino a 16 settimane la partecipazione all'esame</strong>, a seconda del periodo beta nel quale hai sostenuto tale esame). Questo lasso di tempo riflette il processo completo utilizzato per valutare i risultati dell'esame beta, che comprende l'analisi statistica dei dati per valutare le prestazioni di ogni domanda e la lettura e la valutazione di tutti i commenti forniti durante l'esame beta.</em></font></div>
+<br/>
+<div><font color='red'><em>Il processo di valutazione inizia il giorno effettivo dell'esame e i punteggi finali saranno disponibili circa 10 giorni dopo. Tuttavia, una volta annunciato il risultato, lo studente riceverà la mail indicante il risultato.</em></font></div>
+
+Per saperne di più sugli esami beta, vai [qui](/learn/certifications/certification-exams#participating-in-beta-exams).
 
 ## Prezzi accademici degli esami
 
@@ -195,7 +202,7 @@ Il presente accordo entrerà in vigore a partire dalla data di accettazione tra 
 
     - Fornire accesso a, divulgare, distribuire, copiare, fotografare, registrare, scaricare, pubblicare, visualizzare, fare un post con o trasmettere qualsiasi esame o informazioni relative agli esami in qualsiasi forma o con qualsivoglia mezzo.
     - Rappresentare in modo errato la propria identità o impersonare un’altra persona.
-    - Dichiarare non correttamente il proprio paese di residenza o il paese in cui l’esame online con supervisore sarà sostenuto
+    - Dichiarare non correttamente il proprio paese di residenza o il paese in cui l’esame online con supervisore sarà sostenuto.
 	- Modificare o alterare l'esame, il punteggio dell'esame o qualsiasi registrazione relativa all'esame.
     - Inviare qualsiasi lavoro o risposta non elaborati direttamente.
     - Fornire o ricevere assistenza impropria durante l'esame.
@@ -245,9 +252,10 @@ Il presente accordo entrerà in vigore a partire dalla data di accettazione tra 
 
 7. **PROPRIETÀ E TUTTI I DIRITTI RISERVATI**
 
-    7.1. **Proprietà**. Microsoft possiede e mantieni tutti i diritti, titoli e interessi relativamente agli esami di certificazione Microsoft.
+    7,1. **Proprietà**. Microsoft possiede e mantieni tutti i diritti, titoli e interessi relativamente agli esami di certificazione Microsoft.
 
-    7.2. **Rimedi**. Oltre a tutti i diritti e i rimedi previsti dalle leggi vigenti e dal presente Accordo, Microsoft si riserva espressamente tutti i diritti e i diritti in caso di violazione del presente Accordo e/o di violazione di uno qualsiasi dei diritti di proprietà intellettuale di Microsoft.
+    7,2. **Rimedi**. Oltre a tutti i diritti e i rimedi previsti dalle leggi vigenti e dal presente Accordo, Microsoft si riserva espressamente tutti i diritti e i diritti in caso di violazione del presente Accordo e/o di violazione di uno qualsiasi dei diritti di proprietà intellettuale di Microsoft.
+
 
 ## Contratto del programma di certificazione Microsoft
 
@@ -261,7 +269,8 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
    4. "***Certificazione Microsoft***" indica il superamento degli esami necessari e il rispetto e il mantenimento della conformità a tutti i requisiti per la certificazione o il rinnovo della certificazione necessari per avere il diritto di utilizzare la Credenziale corrispondente. L'elenco attuale di certificazioni Microsoft è disponibile alla pagina [Microsoft Certifications](https://docs.microsoft.com/learn/certifications/browse/?type=role-based).
    5. Per "***Credenziale di certificazione Microsoft***" o "***Credenziale***" si intende il titolo, completo o abbreviato, di una specifica Certificazione Microsoft utilizzata per attestare la conformità di un candidato ai requisiti previsti per una specifica Certificazione Microsoft.
    6. "***Esame di certificazione Microsoft***" o "***Esame***" indica un esame di certificazione Microsoft progettato per attestare le competenze di un candidato relative a una particolare tecnologia Microsoft che è oggetto dell'esame.
-  
+   
+
 2. CERTIFICAZIONE MICROSOFT
    1. *Come ottenere e mantenere una certificazione Microsoft*: Per ottenere e mantenere una certificazione Microsoft, è necessario:
           
@@ -305,7 +314,7 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
         1. Il candidato accetta di (i) astenersi da comportamenti che possano nuocere alla reputazione di Microsoft; (ii) evitare pratiche ingannevoli, fuorvianti o disoneste; (iii) evitare qualsivoglia rappresentazione o garanzia nei confronti dei clienti per conto di Microsoft; (iv) rispettare tutte le norme vigenti in materia di esportazione degli Stati Uniti, nonché altre leggi e regolamenti regionali in vigore; e (v) rispettare copyright e altre protezioni relative a diritti di proprietà e proprietà intellettuale.
         2. Il candidato è tenuto a non pubblicizzare, promuovere, sottintendere o suggerire in alcun modo di essere dipendente, affiliato, supportato o sponsorizzato da Microsoft, se non per indicare che ha conseguito tutti i requisiti specifici per la credenziale o le credenziali ottenute. Durante il periodo di validità del presente Contratto, sarà necessario inserire la seguente frase in ciascun contratto volto a fornire servizi che prevedono l'utilizzo di tecnologie Microsoft:
     
-             "*Microsoft non è parte nel presente contratto e non sarà in alcun modo responsabile dei servizi oggetto del presente contratto. La Credenziale di certificazione Microsoft indica che sono stati conseguiti tutti i requisiti per la credenziale di certificazione Microsoft corrispondente. I servizi forniti non sono supportati o sponsorizzati da Microsoft*".
+             "*Microsoft non è parte nel presente contratto e non sarà in alcun modo responsabile dei servizi oggetto del presente contratto. La Credenziale di certificazione Microsoft indica che sono stati conseguiti tutti i requisiti per la credenziale di certificazione Microsoft corrispondente. I servizi forniti non sono supportati o sponsorizzati da Microsoft*’.
         3. Alcuni stati e paesi regolano l'utilizzo del termine "engineer". Nel caso in cui venga utilizzata una Credenziale contenente la dicitura "Microsoft Certified Systems Engineer", sarà quindi necessario rispettare le leggi vigenti in materia.
 
    2. *Transcripts*: Il candidato è responsabile della revisione della versione digitale della Certificazione Microsoft per garantire che rispecchi fedelmente le credenziali di cui è attualmente in possesso. Se il candidato ritiene che la versione digitale sia imprecisa, avrà a disposizione fino a un (1) anno dalla data in cui è stato superato l'ultimo esame necessario per ottenere o mantenere la credenziale in questione per presentare una richiesta a Microsoft al fine di valutare il soddisfacimento di qualsiasi credenziale di cui il candidato ritenga di essere attualmente in possesso che non appare nella versione digitale.
@@ -321,6 +330,7 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
 9. LIMITAZIONE DI RESPONSABILITÀ
 
    NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, IN NESSUN CASO MICROSOFT O LE RELATIVE CONSOCIATE SARANNO RESPONSABILI PER DANNI DIRETTI, INDIRETTI, SPECIALI, ACCIDENTALI, CONSEQUENZIALI, PUNITIVI O ESEMPLARI DERIVANTI O RELATIVI AL PROGRAMMA (CHE SI TRATTI DI VANTAGGI DEL PROGRAMMA, RISOLUZIONE O ALTRO), ALLA CERTIFICAZIONE MICROSOFT, AL MANCATO OTTENIMENTO DELLA CERTIFICAZIONE MICROSOFT, ALL'UTILIZZO O ALL'IMPOSSIBILITÀ DI UTILIZZO DELLE CREDENZIALI. LA PRESENTE ESCLUSIONE SI APPLICA INDIPENDENTEMENTE DALLE IMPUTAZIONI LEGALI SU CUI SI BASA IL RECLAMO PER TALI DANNI E ANCHE NEL CASO IN CUI LE PARTI SIANO STATE INFORMATE DELLA POSSIBILITÀ DEL VERIFICARSI DI TALI DANNI.
+
 
 10. INDENNIZZO
 
@@ -340,6 +350,7 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
         6. Oppure, qualora un'agenzia governativa o un tribunale scopra che i servizi forniti, che prevedono l'utilizzo di tecnologie Microsoft relative alla Certificazione Microsoft, siano in qualche modo difettosi.
         7. Qualora il candidato rilasci false dichiarazioni sullo stato della sua certificazione, sulla sua associazione con i Microsoft Partner o su qualsiasi altro rapporto con Microsoft. A seconda della gravità della non conformità, Microsoft può decidere di annullare definitivamente la certificazione o annullare la sua adesione al programma di certificazione Microsoft. In tal caso, il candidato perderà tutte le credenziale relative alle certificazioni Microsoft.
         
+
     3. *Risoluzione automatica*. Il presente Contratto si risolverà automaticamente se il candidato perde lo stato di MCP o qualora Microsoft annulli il Programma.
 
     4. *Effetti della risoluzione*. In tutti i casi di risoluzione del presente Contratto, tutti i diritti concessi al candidato in virtù del Programma vengono immediatamente rescissi. Di seguito sono indicati gli effetti immediati della risoluzione:
@@ -368,46 +379,46 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
 
        2. Di seguito è indicata l'entità Microsoft per i seguenti paesi o aree geografiche: Afghanistan, Albania, Algeria, Andorra, Angola, Armenia, Austria, Azerbaijan, Bahrein, Bielorussia, Belgio, Benin, Bosnia ed Erzegovina, Botswana, Isola Bouvet, Bulgaria, Burkina Faso, Burundi, Camerun, Repubblica Centrafricana, Ciad, Comoros, Congo, Costa d’Avorio, Croazia, Cipro, Repubblica Ceca, Repubblica Democratica di Sao Tome e Principe, Repubblica Democratica del Congo, Danimarca, Djibouti, Egitto, Estonia, Etiopia, Isole Faeroe, Finlandia, Francia, Gabon, Gambia, Georgia, Germania, Ghana, Gibilterra, Grecia, Groenlandia, Guadalupa, Guinea-Bissau, Ungheria, Islanda, Irlanda, Israele, Italia, Giordania, Kazakistan, Kenya, Kossovo, Kuwait, Kyrgyzstan, Lettonia, Libano, Lesoto, Liberia, Liechtenstein, Lituania, Lussemburgo, Libia, Macedonia, Madagascar, Malawi, Mali, Malta, Mauritania, Mauritius, Moldavia, Monaco, Mongolia, Montenegro, Marocco, Mozambico, Namibia, Paesi Bassi, Nuova Caledonia, Niger, Nigeria, Norvegia, Oman, Pakistan, Polonia, Portogallo, Qatar, Repubblica di Capo Verde, Repubblica della Guinea Equatoriale, Repubblica di Guinea, Repubblica del Senegal, Reunion, Romania, Federazione russa, Repubblica di Ruanda, Sant’Elena, San Marino, Arabia saudita, Serbia, Seychelles, Sierra Leone, Slovacchia, Slovenia, Somalia, Sudafrica, Spagna, Svalbard e Jan Mayen, Swaziland, Svezia, Svizzera, Tagikistan, Tanzania, Togo, Tunisia, Turchia, Turkmenistan, Uganda, Ucraina, Emirati Arab Uniti, Regno Unito, Uzbekistan, Città del Vaticano e Zimbabwe:  
 
-           Microsoft Ireland Operations Limited  
-           The Atrium, Block B, Carmenhall Road  
-           Sandyford Industrial Estate  
-           Dublin, 18, Ireland  
+           Microsoft Ireland Operations Limited   
+           The Atrium, Block B, Carmenhall Road   
+           Sandyford Industrial Estate   
+           Dublin, 18, Ireland   
 
        3. Di seguito è indicata l'entità Microsoft per i seguenti paesi o aree geografiche: Australia e relativi territori esterni, Bangladesh, Bhutan, Brunei Darussalam, Cambogia, Isole Cook, Figi, Polinesia francese, Territori Meridionali Francesi, Hong Kong, India, Indonesia, Kiribati, Repubblica Popolare Democratica del Laos, Macao, Malesia, Maldive, Isole Marshall, Mayotte, Micronesia, Nauru, Nepal, Nuova Zelanda, Niue, Isole Marianne Settentrionali, Palau, Papua Nuova Guinea, Filippine, Pitcairn, Samoa, Singapore, Isole Solomon, Sri Lanka, Thailandia, Timor Leste, Tokelau, Tonga, Tuvalu, Isole Wallis e Futuna, Vanuatu e Vietnam: 
 
-           Microsoft Regional Sales Corporation  
-           438B Alexandra Road #04-09/12  
-           Block B, Alexandra Technopark  
-           Singapore 119968  
+           Microsoft Regional Sales Corporation   
+           438B Alexandra Road #04-09/12   
+           Block B, Alexandra Technopark   
+           Singapore 119968   
 
-       4. L'entità Microsoft per il Giappone è la seguente:
+       4. L'entità Microsoft per il Giappone è la seguente:   
 
-           Microsoft Japan Company, Limited  
-           Shinagawa Grand Central Tower  
-           2-16-3, 2 Konan, Minato-ku,  
-           Tokyo 108-0075  
+           Microsoft Japan Company, Limited   
+           Shinagawa Grand Central Tower   
+           2-16-3, 2 Konan, Minato-ku,   
+           Tokyo 108-0075   
            Japan
 
-       5. L'entità Microsoft per Taiwan è la seguente:
+       5. L'entità Microsoft per Taiwan è la seguente:   
 
-           Microsoft Taiwan Corporation  
-           8F, No 7, Sungren Rd.  
-           Shinyi Chiu, Taipei  
+           Microsoft Taiwan Corporation   
+           8F, No 7, Sungren Rd.   
+           Shinyi Chiu, Taipei   
            Taiwan 110  
 
-       6. L'entità Microsoft per la Repubblica Popolare Cinese è la seguente:
+       6. L'entità Microsoft per la Repubblica Popolare Cinese è la seguente:   
 
-           Microsoft (China) Company Limited6F Sigma Center  
-           No. 49 Zhichun Road Haidian District  
-           Beijing 100080, P.R.C  
+           Microsoft (China) Company Limited6F Sigma Center   
+           No. 49 Zhichun Road Haidian District   
+           Beijing 100080, P.R.C   
 
-       7. L'entità Microsoft per la Repubblica di Corea è la seguente:
+       7. L'entità Microsoft per la Repubblica di Corea è la seguente:   
 
-           Microsoft Korea, Inc.  
-           5th Floor, West Wing  
-           POSCO Center  
-           892 Daechi-Dong Gangnam-Gu  
-           Seoul, 135-777, Korea
+           Microsoft Korea, Inc.   
+           5th Floor, West Wing   
+           POSCO Center   
+           892 Daechi-Dong Gangnam-Gu   
+           Seoul, 135-777, Korea 
 
     5. *Legge applicabile*. La legge applicabile la giurisdizione e la competenza territoriale per il presente Contratto sono identificate di seguito. La scelta del foro competente non impedisce ad alcuna delle controparti di ottenere un provvedimento dell'autorità giudiziaria in caso di violazione dei diritti di proprietà intellettuale e degli obblighi di riservatezza o l'esecuzione del riconoscimento di qualsivoglia sentenza o ordine. È possibile ottenere un provvedimento dell'autorità giudiziaria o l'esecuzione del riconoscimento in qualsiasi giurisdizione competente.
         1. **Condizioni generali**. Ad eccezione di quanto previsto nella sezione 12.5 (b), il presente Contratto è disciplinato dalla legge dello stato di Washington (Stati Uniti). Qualora esistesse una giurisdizione federale in materia, le parti acconsentono alla giurisdizione e alla competenza territoriale esclusiva delle corti federali con sede in King County, Washington. In caso contrario, le parti acconsentono alla giurisdizione e alla competenza territoriale esclusiva della corte superiore di King County, Washington.
@@ -425,7 +436,7 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
             Il presente Contratto sarà interpretato e regolato in base alle leggi della Repubblica Popolare Cinese. Il candidato acconsente a sottoporre ad arbitrato vincolante qualsivoglia controversia relativa al Contratto o a un eventuale addendum. Il collegio arbitrale si terrà presso la Commissione Arbitrale Internazionale Cinese per l'Economia e il Commercio di Pechino ("CIETAC") secondo le normative attualmente vigenti.
 
             5. Se la sede principale dell'attività del candidato si trova in Colombia o Uruguay, sono applicabili le seguenti disposizioni:  
-            Tutte le controversie, i reclami o le azioni legali tra le parti relativamente alla validità, all'interpretazione o all'esecuzione del presente Contratto saranno risolte mediante arbitrato. L'arbitrato sarà condotto secondo le Regole arbitrali UNCITRAL attualmente in vigore. L'autorità con potere di nomina sarà la Camera di Commercio Internazionale ("ICC") che agisce in base alle normative adottate dalla stessa per questo scopo. La sede dell'arbitrato sarà Seattle, Washington, U. S. A. Sarà presente solo un arbitro. La sentenza sarà basata sulla legge consuetudinaria e sarà definitiva e vincolante per le parti. Le parti acconsentono irrevocabilmente a sottoporre tutte le questioni e le controversie che dovessero insorgere in relazione al presente Contratto ad arbitrato a Seattle, Washington, U. S. A.
+            Tutte le controversie, i reclami o le azioni legali tra le parti relativamente alla validità, all'interpretazione o all'esecuzione del presente Contratto saranno risolte mediante arbitrato. L'arbitrato sarà condotto secondo le Regole arbitrali UNCITRAL attualmente in vigore. L'autorità con potere di nomina sarà la Camera di Commercio Internazionale ("ICC") che agisce in base alle normative adottate dalla stessa per questo scopo. La sede dell'arbitrato sarà Seattle, Washington, U. S. A. Sarà presente solo un arbitro. La sentenza sarà basata sulla legge consuetudinaria e sarà definitiva e vincolante per le parti. Le parti acconsentono irrevocabilmente a sottoporre tutte le questioni e le controversie che dovessero insorgere in relazione al presente Contratto ad arbitrato a Seattle, Washington, U.S.A.
 
             6. Se la sede principale dell'attività del candidato si trova nella Repubblica di Corea, sono applicabili le seguenti disposizioni: Il presente Contratto sarà interpretato e regolato in base alle leggi della Repubblica di Corea. Il candidato acconsente alla giurisdizione e alla competenza territoriale originale esclusiva della Corte distrettuale centrale di Seoul. La parte non soccombente in qualsivoglia azione giudiziaria, atta ad applicare un diritto o una tutela ai sensi del presente Contratto o a interpretare una disposizione del presente Contratto, sarà autorizzata a ottenere il risarcimento dei costi sostenuti, ivi incluse spese legali di importo ragionevole.
 
@@ -451,17 +462,17 @@ AZ-100: Microsoft Azure Infrastructure and Deployment
 
 AZ-101: Microsoft Azure Integration and Security
 
-[AZ-103: Microsoft Azure Administrator](https://docs.microsoft.com/learn/certifications/exams/az-103)
+AZ-103: Microsoft Azure Administrator
 
 AZ-200: Microsoft Azure Developer Core Solutions
 
 AZ-201: Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/learn/certifications/exams/az-203)
+AZ-203: Developing Solutions for Microsoft Azure
 
-[AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/learn/certifications/exams/az-300)
+AZ-300: Microsoft Azure Architect Technologies
 
-[AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/learn/certifications/exams/az-301)
+AZ-301: Microsoft Azure Architect Design
 
 [AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/learn/certifications/exams/az-400)
 
@@ -497,7 +508,7 @@ Passaggio 1: Completa la [domanda](https://query.prod.cms.rt.microsoft.com/cms/a
 
 - Passaggio 6: Copia le informazioni in un messaggio di posta elettronica e inviale a [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu).
 
-Consultare la sezione delle domande frequenti relativa ai crediti dei corsi riportate su questa pagina per eventuali domande sulla procedura applicabile alle certificazioni Microsoft.
+Consultare la sezione delle domande frequenti relativa ai “crediti dei corsi” riportate su questa pagina per eventuali domande sulla procedura applicabile alle certificazioni Microsoft.
 
 Per ulteriori informazioni, visita: [Credito NCCRS per le certificazioni Microsoft](http://www.nationalccrs.org/organizations/microsoft).
 
@@ -523,7 +534,7 @@ Gli esami di certificazione Microsoft sono progettati per garantire che i candid
 - Obiezioni che non vengono presentate tramite questo modulo.
 - Obiezioni sulle metodologie di punteggio (ad esempio, Il grafico a barre non rappresenta il mio punteggio effettivo).
 - Obiezioni relative al formato dell'esame (standard, ordinamento, adattivo).
-- Obiezioni relative agli esami beta. Eventuali suggerimenti aggiuntivi su esami Beta che non è stato possibile fornire durante la fase di feedback, possono essere inviati a [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Obiezioni relative agli esami beta. Eventuali suggerimenti aggiuntivi su esami Beta che non è stato possibile fornire durante la fase di feedback, possono essere inviati a [mslcd@microsoft.com](mailto:mslcd@microsoft.com). 
 
 ### Processo di obiezione agli elementi d'esame:
 
@@ -540,7 +551,7 @@ Grazie per l'interesse dimostrato nel rendere gli esami di Certificazione Micros
 
 ### Per gli esami erogati da Pearson VUE:
 
-Se hai bisogno di più tempo perché l’esame non è disponibile nella tua lingua natale, puoi richiedere di sostenerlo nella tua lingua inviando il [modulo Inglese come seconda lingua](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Segui le istruzioni riportate sul modulo.
+Se hai bisogno di più tempo perché l’esame non è disponibile nella tua lingua natale, puoi richiedere di sostenerlo nella tua lingua inviando il [modulo Inglese come seconda lingua](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Segui le istruzioni riportate sul modulo. 
 
 Se necessiti di attrezzature particolari o di una sistemazione speciale per sostenere l’esame, puoi inviare la tua richiesta tramite [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizzando il sistema “Reasonable Adjustments Request System” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Questo è un sistema online sicuro tramite cui è possibile richiedere sistemazioni e inviare la documentazione di supporto.
 
@@ -621,8 +632,8 @@ Il modo migliore per prepararsi a un esame è esercitarsi sulle competenze elenc
 I formatori certificati Microsoft lavorano con molti candidati mentre si preparano per le certificazioni. Spesso raccomandano i seguenti passaggi per aiutare i candidati a focalizzare i loro studi:
 
 - [Visualizza tutti gli esami](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) per trovare l'esame che ti interessa.
-- Stampare la sezione Skills Measured (Misurazioni delle competenze) nella pagina.
-- Scorrere l'intero elenco. Riflettere su ogni argomento. Se si è molto esperti su un argomento specifico, evidenziare l'argomento o cancellarlo.
+- Stampare la sezione Skills Measured (Misurazioni delle competenze) nella pagina. 
+- Scorrere l'intero elenco. Riflettere su ogni argomento. Se si è molto esperti su un argomento specifico, evidenziare l'argomento o cancellarlo. 
 - Individuare gli argomenti che devono ancora essere completati. Quindi, iniziare alcune ricerche mirate. Per ogni argomento non evidenziato, cercare sul web articoli specifici.
     - Utilizzare fonti autorevoli come docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com e il centro di supporto di Office 365.
 
@@ -791,7 +802,7 @@ No, non forniamo un livello di dettaglio inferiore relativamente alle prestazion
 
 Ogni sezione dell'esame contiene un numero diverso di domande. Di conseguenza i risultati delle singole sezioni potrebbero non riflettere il risultato finale dell'esame. In altre parole, non esiste una relazione uno-a-uno tra la lunghezza delle barre e il superamento/mancato superamento dell'esame.
 
-Inoltre, spesso si ritiene che rispondendo correttamente al 70% delle domande si superi l'esame perché il punteggio minimo da ottenere è 700. Tuttavia, si tratta di un punteggio scalato. La percentuale effettiva di domande a cui bisogna rispondere correttamente varia da esame a esame e può essere superiore o inferiore al 70%, a seconda dell'input fornito dagli esperti del settore che hanno contribuito all'impostazione del punteggio minimo durante lo sviluppo dell'esame e il supporto in itinere nonché la difficoltà delle domande dell'esame.
+Inoltre, spesso si ritiene che rispondendo correttamente al 70% delle domande si superi l'esame perché il punteggio minimo da ottenere è 700. Tuttavia, si tratta di un punteggio scalato. La percentuale effettiva di domande a cui bisogna rispondere correttamente varia da esame a esame e può essere superiore o inferiore al 70% a seconda dell'input fornito dagli esperti del settore che hanno contribuito all'impostazione del punteggio minimo durante lo sviluppo dell'esame e il supporto in itinere, nonché dalla difficoltà delle domande dell'esame.
 
 **Come vengono valutate le domande? Quanti punti vale ogni domanda? Si viene penalizzati se si risponde in modo errato a una domanda?**
 
@@ -919,7 +930,7 @@ I candidati che ricorrono a esami tramite intermediari verranno permanentemente 
 
 Se si ritiene che un sito Web o un'azienda fornisca servizi di esame tramite intermediari, è necessario informare subito Microsoft inviando un messaggio di posta elettronica a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-**Cosa si intende per "brain dump"? Sono legali?**
+**Cosa si intende per "discariche cerebrali," e sono legali?**
 
 Un "brain dump", in relazione a esami per certificazioni, è una fonte, ad esempio un sito Web, che raccoglie contenuti degli esami di certificazione ottenuti in modo fraudolento allo scopo di condividerli o venderli ai candidati. Il contenuto presente nei "brain dump" è esattamente lo stesso o molto simile a quello dell'esame. Poiché il contenuto dell'esame è stato ottenuto in modo fraudolento, l'utilizzo di questo tipo di materiale per la preparazione o durante un esame è considerato una violazione. Chi fornisce "brain dump" viola i diritti di proprietà intellettuale e gli accordi di non divulgazione di Microsoft.
 
@@ -931,6 +942,7 @@ I siti o le organizzazioni di "brain dump" sono ben riconoscibili dai messaggi p
 
 Se si ritiene di aver scoperto un sito di "brain dump" con contenuto Microsoft, è necessario informare Microsoft inviando un messaggio e-mail a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
+
 **Che misure di sicurezza deve adottare un centro di testing?**
 
 I centri di testing adottano criteri di sicurezza che devono essere applicati per acquisire e mantenere lo stato di centro di testing. Ispezioni regolari garantiscono che ogni centro di testing mantenga il livello di sicurezza indicato da Microsoft e dal centro di valutazione. Inoltre, i supervisori nei centri di testing sono autorizzati a intervenire immediatamente se i candidati violano le regole di testing. Per informazioni specifiche sulle aspettative per i candidati, contattare il centro di valutazione. In caso di dubbi sulla sicurezza durante un esame, inviare un messaggio all'indirizzo e-mail a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
@@ -938,6 +950,7 @@ I centri di testing adottano criteri di sicurezza che devono essere applicati pe
 **Quali tipi di comportamenti illeciti possono verificarsi da parte del centro di testing?**
 
 Gli amministratori dei centri di testing si comportano in modo inappropriato se non seguono i criteri di sicurezza di Microsoft o del centro di valutazione. Alcuni esempi includono: non prestare la dovuta attenzione all'identificazione appropriata di un candidato, non chiedere il documento di identità a ciascun candidato, non controllare periodicamente i candidati durante l'esame; non mantenere una separazione tra le postazioni d'esame; sottovalutare la presenza di bigliettini o dispositivi elettronici; fornire risposte o aiuto di qualsiasi tipo su un elemento dell'esame; consentire il rilascio di proprietà intellettuale di Microsoft in qualsiasi forma.
+
 
 **Cosa accade ai centri di testing che dimostrano un comportamento illecito?**
 
@@ -966,6 +979,7 @@ Il riquadro **Tasks** (Attività) elenca le attività che è necessario eseguire
 
 Dopo essere usciti da un laboratorio, non è possibile tornarvi perché il punteggio scatta (in background) appena si esce dal laboratorio. Quando si seleziona **Next** (Avanti), è necessario confermare che si desidera uscire dal laboratorio. Quando si fa clic su **Yes** (Sì) la sezione di laboratorio termina e le attività vengono valutate.
 
+
 **Come è strutturato l'esame che prevede laboratori?**
 
 Quando inizi l'esame, vedrai una schermata che ti dice quanti elementi, case study e laboratori, incluso il numero di attività, saranno presenti nell'esame. Si prega di prendere nota di queste informazioni in modo da poter pianificare il momento dell'esame.
@@ -980,6 +994,7 @@ Dopo aver iniziato l'esame, risponderai a tutte le domande tradizionali dell'esa
 
 - NON aspettare che le attività siano state eseguite prima di passare all’attività successiva. In alcuni casi, prima di completare un'attività è necessario fare qualcosa, ma questo verrà indicato nell'attività e si potrà lavorare su altre attività mentre tale attività viene eseguita. **Non perdere tempo ad aspettare che le attività vengano** eseguite. Passare a qualcosa che non è associato all’attività in esecuzione per sfruttare al meglio il tempo a disposizione durante l'esame. In alcuni casi è sufficiente iniziare un’attività per ottenere un punteggio (ad es. creare una risorsa in Azure). In questo caso è possibile lasciare questa attività in esecuzione in background mentre si lavora su altre attività. L’elenco di attività include una nota che informa semplicemente il candidato che deve iniziare l’attività. Puoi passare ad altre attività o persino lasciare la sezione (passare al laboratorio successivo, se possibile, o terminare l'esame) senza essere penalizzato. **Leggi attentamente l'attività. Fai ciò che è necessario per risolvere il problema posto nell'attività.**
 
+
 **Perché un esame con laboratori contiene tipi di domande tradizionali (ad esempio scelta multipla, trascinamento della selezione, elenco di compilazione, ecc.)?**
 
 Per una serie di motivi, non possiamo valutare tutte le abilità critiche con i laboratori. Ad esempio, Non possiamo chiedere al candidato di completare attività che richiedono più di qualche minuto o che richiedono risorse significative. Di conseguenza, continueremo a valutare tali competenze utilizzando tipi di domande più appropriati all'esperienza d'esame.
@@ -992,7 +1007,7 @@ Per gli esami che prevedono laboratori, c’è sempre almeno 1 laboratorio. Ogni
 
 Le attività sono valutate in base al risultato finale. Non ci interessa come il candidato esegue le attività (ad esempio tramite l'interfaccia utente (UI) o utilizzando i comandi di PowerShell), solo che l'attività venga completata correttamente. Completare l'attività come si farebbe normalmente; lo script di calcolo del punteggio valuta il risultato finale rispetto alle caratteristiche chiave per determinare se è stata eseguita correttamente. Ad esempio, se l'attività consiste nell'aggiungere un utente, lo script di calcolo del punteggio si assicura che l'utente sia stato aggiunto.
 
-Al candidato NON verrà richiesto di usare un metodo specifico per completare le attività. Se il candidato preferisce usare PowerShell o CLI anziché un’interfaccia utente (GUI), può usare ciò che preferisce. Valutiamo solo il risultato finale dell’attività che il candidato ha svolto, ossia se il candidato l’ha svolta correttamente o meno. Il metodo che ha usato non ci interessa.
+Al candidato NON verrà richiesto di usare un metodo specifico per completare le attività. Se il candidato preferisce usare PowerShell o CLI anziché un’interfaccia utente (GUI), può usare ciò che preferisce. Valutiamo solo il risultato finale dell’attività che il candidato ha svolto, ossia se il candidato l’ha svolta correttamente o meno? Il metodo che ha usato non ci interessa.
 
 **Quanti punti vale ogni attività?**
 
@@ -1052,6 +1067,7 @@ Poiché stiamo apportando modifiche significative al nostro programma di certifi
 
 Questi cambiamenti non avranno alcun effetto sulle certificazioni MCSA, MCSD e MCSE che il candidato ha già acquisito. Rimarranno nella versione digitale. L’importanza di queste certificazioni dipende dalle mansioni attuali e future dei candidati e dal valore che viene loro attribuito dai loro responsabili, dall'azienda per la quale lavorano e dal tipo di lavoro che svolgono.
 
+
 **È possibile ancora ottenere alcune certificazioni MCSA, MCSD e MCSE. Cosa accadrà a queste certificazioni?**
 
 È possibile continuare a ottenere le certificazioni MCSA, MCSD e MCSE fintanto che gli esami continuano a essere disponibili. Quando gli esami saranno ritirati dai percorsi di certificazione, non sarà più possibile ottenere queste certificazioni.
@@ -1065,6 +1081,7 @@ Prima che gli esami vengano effettivamente ritirati, è opportuno assicurarsi di
 
 No. Non prevediamo di modificare i requisiti relativi all’esperienza che i candidati devono possedere per superare gli esami o conseguire le nostre certificazioni. La formazione è concepita per preparare i candidati agli esami, ma non è di per sé sufficiente. Nei nostri esami basati sui ruoli si chiede al candidato di applicare le competenze e le conoscenze acquisite durante la formazione in situazioni del mondo reale.
 
+
 ### Prezzi accademici degli esami
 
 **Posso ottenere un rimborso se ho inizialmente effettuato la registrazione e il pagamento per un esame senza verificare la possibilità di sconti accademici, che ho verificato successivamente?**
@@ -1075,9 +1092,11 @@ No. Se si decide di registrarsi e di pagare un esame prima di aver verificato lo
 
 Sì. La verifica accademica è valida solo per 12 mesi. Dopo 12 mesi, è necessario ripetere la procedura di verifica.
 
+
 **Sono un docente. Posso ancora ricevere uno sconto accademico (nei paesi applicabili) sul mio esame di certificazione Microsoft consegnato nel canale commerciale?**
 
 Sì. È seguire la stessa procedura applicabile agli studenti. In altre parole, è necessario selezionare l'opzione "Student” (Studente) come mansione lavorativa nel profilo dell’account Microsoft e verificare lo stato utilizzando la stessa procedura applicabile agli studenti.
+
 
 **Chi posso contattare per domande sulla procedura di verifica accademica per gli esami di certificazione Microsoft?**
 
@@ -1091,7 +1110,7 @@ Se si necessita di attrezzature particolari o di una sistemazione speciale per s
 
 **Perché devo presentare della documentazione?**
 
-La documentazione che chiediamo serve a far capire al team di Pearson responsabile delle sistemazioni speciali la natura della tua disabilità. Pearson dispone di esperti in grado di determinare la sistemazione appropriata. La documentazione che fornisci ci permette di essere certi che la tua esperienza durante l’esame sia ottimale. Nel caso di dislessia, ad esempio, il disturbo può essere più o meno grave. Di conseguenza, la sistemazione viene adeguata in base al grado di gravità del disturbo descritto nella documentazione. La documentazione è fondamentalmente costituita da una valutazione ufficiale effettuata da un medico negli ultimi 5 anni. Un candidato che soffre di una lieve dislessia può aver bisogno di un tempo pari a 1,5 volte più lungo di quello della durata dell’esame, mentre a un candidato con un dislessia grave può essere concesso il doppio del tempo per completare l’esame oppure permesso di essere assistito da un’altra persona che legga per lui. L’obiettivo è far sì che la sessione di esame tenga conto delle necessità del candidato senza che ciò comprometta la validità e affidabilità della procedura di valutazione.
+La documentazione che chiediamo serve a far capire al team di Pearson responsabile delle sistemazioni speciali la natura della tua disabilità. Pearson dispone di esperti in grado di determinare la sistemazione appropriata. La documentazione che fornisci ci permette di essere certi che la tua esperienza durante l’esame sia ottimale. Nel caso di dislessia, ad esempio, il disturbo può essere più o meno grave. Di conseguenza, la sistemazione viene adeguata in base al grado di gravità del disturbo descritto nella documentazione. La documentazione è fondamentalmente costituita da una valutazione ufficiale effettuata da un medico negli ultimi 5 anni. Un candidato che soffre di una lieve dislessia può aver bisogno di un tempo pari a 1,5 volte più lungo di quello della durata dell’esame, mentre a un candidato con un dislessia grave può essere concesso il doppio del tempo per completare l’esame oppure gli potrebbe essere concesso di essere assistito da un’altra persona che legga per lui. L’obiettivo è far sì che la sessione di esame tenga conto delle necessità del candidato senza che ciò comprometta la validità e affidabilità della procedura di valutazione.
 
 **La mia documentazione risale a più di 5 anni fa. Perché non la posso utilizzare per soddisfare i requisiti della documentazione?**
 
@@ -1104,3 +1123,4 @@ Questi dispositivi sono considerati ausili di sostegno e **non** richiedono un�
 **Ho una domanda per la quale non trovo una risposta in questa sezione. Dove posso trovare la risposta?**
 
 Se non si riesce a trovare la risposta alla propria domanda in questa sezione, è possibile per posta elettronica all’indirizzo: [accommodationspearsonvue@pearson.com](mailto:accommodationspearsonvue@pearson.com).
+

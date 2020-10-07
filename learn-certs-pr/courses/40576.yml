@@ -1,0 +1,47 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+metadata:
+  title: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+  description: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+uid: course.40576
+courseNumber: '40576-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Progettare e realizzare una soluzione analitica avanzata completa end-to-end utilizzando Azure Synapse Analytics.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |
+  In questa sessione di progettazione alla lavagna, avrai l'opportunità di lavorare in un gruppo per valutare il processo di progettazione di una soluzione end-to-end utilizzando Azure Synapse Analytics. La sessione di progettazione tratterà il caricamento, la preparazione, la trasformazione e la messa a disposizione dei dati, unitamente al machine learning e alla gestione di dati in batch e in real time.
+
+  #### Profilo dell'audience
+  Questo workshop è rivolto agli architetti del cloud e ai professionisti dell'IT che già posseggono esperienza architettonica nella progettazione di infrastrutture e soluzioni con tecnologie cloud e desiderano accrescere le loro competenze su Azure e Azure Services come descritto nelle sezioni "Informazioni su questo corso" e "Al completamento del corso. Si presuppone che coloro che frequentano questo workshop abbiano anche esperienza su altre tecnologie cloud non Microsoft, posseggano i prerequisiti del corso e desiderino effettuare un cross-training su Azure.
+prerequisitesSection: |-
+  Il contenuto del workshop presuppone un livello 300 di competenze architettoniche nella progettazione di infrastrutture e soluzioni. Suggeriamo ai partecipanti di conseguire questo prerequisito prima di partecipare a questo seminario.
+  - Corso Microsoft Azure Essentials, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di progettazione alla lavagna - Analisi sinapsi di Azure e AI
+  #### Lezioni
+  - Riesaminare il case study del cliente
+  - Progettare una soluzione di proof of concept
+  - Presentare la soluzione
+
+
+  ### Modulo 2&#58; Laboratorio pratico&#58; analisi delle sinapsi di Azure e AI
+  #### Lezioni
+  - Accedere al workspace di Azure Synapse Analytics
+  - Creare e popolare le tabelle di supporto nel Pool SQL
+  - Esplorazione del raw parquet
+  - Esplorazione con Azure Synapse SQL Serverless di dati basati su testo non elaborato
+  - Synapse Pipelines e Cognitive Search
+  - Sicurezza
+  - Machine Learning
+  - Controllo
+

@@ -6,12 +6,14 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2020. Scaricare il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  </div>
 
-  I Data Analyst consentono alle aziende di massimizzare il valore del loro patrimonio di dati utilizzando Microsoft Power BI. In qualità di esperti in materia, i Data Analyst sono responsabili della progettazione e della costruzione di modelli di dati scalabili, della pulizia e della trasformazione dei dati e dell'abilitazione di capacità analitiche avanzate che forniscono un valore aziendale significativo grazie a visualizzazioni di dati facili da comprendere. I Data Analyst collaborano anche con i principali stakeholder a livello verticale per fornire informazioni rilevanti sulla base dei requisiti di business identificati.
+  I Data Analyst consentono alle aziende di massimizzare il valore del loro patrimonio di dati utilizzando Microsoft Power BI. In qualità di esperti in materia, i Data Analyst sono responsabili della progettazione e della costruzione di modelli di dati scalabili, della pulizia e della trasformazione dei dati e dell'abilitazione di capacità analitiche avanzate che forniscono un valore aziendale significativo grazie a visualizzazioni dati facili da comprendere. I Data Analyst collaborano anche con i principali stakeholder a livello verticale per fornire informazioni rilevanti sulla base dei requisiti di business identificati.
   <br/>
 
-  Il Data Analyst deve avere una comprensione di base dei repository di dati e dell'elaborazione dei dati sia locali sia nel cloud.
+  Il Data Analyst deve avere una comprensione fondamentale dei repository di dati e dell'elaborazione dei dati sia nei locali sia nel cloud.
 subTitle: 'Questo esame misura la capacità di svolgere i seguenti compiti tecnici: preparare i dati, modellare i dati, visualizzare i dati, analizzare i dati, distribuire e mantenere i deliverable.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
@@ -19,7 +21,7 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 - providerType: gsi
-  examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DA-100&provider=psi&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 - zh-cn
@@ -28,11 +30,12 @@ locales:
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
 - Preparare i dati (20-25%)
 - Modellare i dati (25-30%)
 - Visualizzare i dati (20-25%)
 - Analizzare i dati (10-15%)
-- Distribuire e mantenere i deliverable (10-15%)
+- Diastribuire e mantenere i deliverable (10-15%)
 roles:
 - data-analyst
 products:
@@ -51,7 +54,7 @@ relatedCertifications:
     uid: certification.data-analyst-associate
 resources:
 - title: Viaggio verso la certificazione
-  description: Scopri i passaggi per ottenere la certificazione come Data Analyst Associate e le risorse disponibili per aiutarti nella preparazione.
+  description: Scopri i passaggi per ottenere la certificazione come Data Analyst Associate e le risorse disponibili per aiutare a prepararti.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
@@ -72,6 +75,6 @@ resources:
   description: Scopri come richiedere un alloggio per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
-  description: Controlla i criteri dell’esame e le domande frequenti.
+  description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

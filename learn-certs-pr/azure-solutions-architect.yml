@@ -2,20 +2,27 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: "L'Azure Solution Architects progetta e implementa soluzioni in esecuzione su Microsoft Azure, inclusi aspetti come elaborazione, rete, archiviazione e sicurezza."
+  description: "L'Azure Solution Architects progetta e implementa soluzioni su Microsoft Azure, inclusi aspetti come elaborazione, rete, archiviazione e sicurezza."
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  I candidati alla certificazione Azure Solutions Architect Expert dovrebbero avere competenze specifiche nella progettazione e nell'implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
+  I candidati alla certificazione Azure Solutions Architect Expert dovrebbero avere competenze specifiche nella progettazione e nell'implementazione di soluzioni su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
 
-  Le responsabilità di questo ruolo includono la consulenza alle parti interessate e la traduzione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
+  Le responsabilità di questo ruolo includono la consulenza alle parti interessate e la realizzazione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
 
   Un Azure Solution Architect collabora con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
 
   Un candidato a questa certificazione deve avere esperienza avanzata e conoscenza delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, ripristino di emergenza, piattaforma dati, budgeting e governance&#58; questo ruolo deve gestire in che modo le decisioni in ogni area influiscono su una soluzione globale. Inoltre, questo ruolo deve avere di competenze di livello esperto nell'amministrazione di Azure ed esperienza nei processi di sviluppo di Azure e DevOps.
-subTitle: L'Azure Solution Architects progetta e implementa soluzioni in esecuzione su Microsoft Azure, inclusi aspetti come elaborazione, rete, archiviazione e sicurezza.
+
+  <div><strong><br/>NOTA&#58; Otterrai la certificazione se supererai una delle seguenti combinazioni di esami&#58; <ul>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> e <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> e <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> e <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> e <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  </ul></strong></div>
+subTitle: L'Azure Solution Architects progetta e implementa soluzioni su Microsoft Azure, inclusi aspetti come elaborazione, rete, archiviazione e sicurezza.
 levels:
 - advanced
 skills:
@@ -73,10 +80,10 @@ exams:
 - uid: exam.az-304
 resources:
 - title: Poster delle certificazioni di Azure
-  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Viaggio verso la certificazione
-  description: Scopri i passaggi per essere certificato Azure Solutions Architect Expert e le risorse disponibili per aiutare a prepararti.
+  description: Scopri i passaggi per essere certificato Azure Solutions Architect Expert e le risorse disponibili per aiutarti nella preparazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
@@ -85,7 +92,7 @@ resources:
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

@@ -2,16 +2,16 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: Tale certificazione sarà disponibile a Settembre 2020. Il Power Platform Functional Consultant deve avere un'ampia conoscenza applicata della Power Platform, compresa la comprensione pratica delle capacità, dei confini e dei vincoli.
+  description: Questa certificazione sarà disponibile dal 25 settembre 2020 o intorno a tale data. Il Power Platform Functional Consultant deve avere un'ampia conoscenza applicata della Power Platform, compresa la comprensione pratica delle capacità, dei confini e dei vincoli.
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
 
   Il Power Platform Functional Consultant deve avere un'ampia conoscenza applicata della Power Platform, compresa la comprensione pratica delle capacità, dei confini e dei vincoli. Dovrebbero avere esperienza nell'utilizzo degli strumenti Power Platform Maker per creare soluzioni che utilizzano Power Platform e Microsoft 365. I Functional Consultant certificati devono avere competenza nella modellazione dei dati, nella progettazione dell'esperienza utente, nell'analisi dei requisiti e nell'analisi dei processi.
 
-  <div><br/><strong>Nota&#58; Tale certificazione sarà disponibile a Settembre 2020.</strong></div>
-subTitle: Tale certificazione sarà disponibile a Settembre 2020. Il Power Platform Functional Consultant deve avere un'ampia conoscenza applicata della Power Platform, compresa la comprensione pratica delle capacità, dei confini e dei vincoli.
+  <div><br/><strong>Nota&#58; Questa certificazione sarà disponibile dal 25 settembre 2020 o intorno a tale data.</strong></div>
+subTitle: Questa certificazione sarà disponibile dal 25 settembre 2020 o intorno a tale data. Il Power Platform Functional Consultant deve avere un'ampia conoscenza applicata della Power Platform, compresa la comprensione pratica delle capacità, dei confini e dei vincoli.
 levels:
 - intermediate
 skills:
@@ -48,7 +48,7 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
