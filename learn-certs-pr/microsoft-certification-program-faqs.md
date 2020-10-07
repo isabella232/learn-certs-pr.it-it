@@ -74,7 +74,7 @@ Per mantenere attivo il tuo account, accedi al tuo profilo di certificazione Mic
 
 **D: Come accedere al mio profilo di certificazione Microsoft?**<a name="a5"></a>
 
-**R:** Per accedere al tuo profilo di certificazione Microsoft, procedi nel seguente modo:
+**R:** Per loggarti al tuo profilo di certificazione Microsoft, procedi nel seguente modo:
  
 1. Visita [Microsoft Learning](https://www.microsoft.com/learning/)
 2. Seleziona il tuo [Dashboard](https://aka.ms/certdashboard) che trovi nella barra di navigazione in alto
@@ -99,13 +99,13 @@ Per mantenere attivo il tuo account, accedi al tuo profilo di certificazione Mic
 
 **D: Ho perso le credenziali del mio profilo di certificazione Microsoft (nome utente/email/password). Cosa devo fare?**<a name="a7"></a>
 
-**R:** Se non ricordi le credenziali per il tuo profilo di certificazione Microsoft, contatta [Certification Support](https://aka.ms/mcpforum). Un moderatore del forum ti risponderà entro 24 ore lavorative e ti chiederà alcune informazioni per verificare di essere il proprietario del profilo, quindi potrà aiutarti ad accedere al tuo profilo.
+**R:** Se non ricordi le credenziali per il tuo profilo di certificazione Microsoft, contatta [Certification Support](https://aka.ms/mcpforum). Un moderatore del forum ti risponderà entro 24 ore lavorative e ti chiederà alcune informazioni per verificare di essere il proprietario del profilo, dopodiché potrà aiutarti ad accedere al tuo profilo.
 
 <br/>
 
 **D: Come posso cambiare il mio nome sul mio profilo di certificazione Microsoft?**<a name="a8"></a>
 
-**R:** Se devi modificare il nome sul proprio profilo di certificazione Microsoft, contatta [Certification Support](https://aka.ms/mcpforum). Un moderatore del forum ti risponderà entro 24 ore lavorative. Prima di eseguire la richiesta di modifica del nome, ti verrà chiesto di verificare le informazioni contenute nel tuo profilo di certificazione Microsoft. Ricorda, il nome sul tuo profilo di certificazione Microsoft deve corrispondere esattamente al tuo nome come appare sull'identificazione rilasciata dal governo che utilizzerai per sostenere un esame di certificazione Microsoft.
+**R:** Se devi modificare il nome sul profilo di certificazione Microsoft, puoi inviare la richiesta di modifica del nome direttamente al nostro team di supporto utilizzando il nostro nuovo [modulo Web](https://aka.ms/MSCertificationLegalNamechange). **Nota:** questo modulo è attualmente disponibile solo in inglese. Per le richieste non in inglese, pubblica sul [Forum di supporto alla certificazione](https://aka.ms/mcpforum), un membro del team ti risponderà entro 24 ore lavorative. Prima di eseguire la richiesta di modifica del nome, ti verrà chiesto di verificare le informazioni contenute nel tuo profilo di certificazione Microsoft. Ricorda, il nome sul tuo profilo di certificazione Microsoft deve corrispondere esattamente al tuo nome come appare sul documento identificativo rilasciato dall’autorità preposta che utilizzerai per sostenere un esame di certificazione Microsoft.
 
 <br/>
 
@@ -115,7 +115,7 @@ Per mantenere attivo il tuo account, accedi al tuo profilo di certificazione Mic
 1. Per accedere al tuo registro delle trascrizioni sul tuo [certification dashboard](https://aka.ms/certdashboard)
 2. Fai clic sull'icona **Trascrizioni** sul dashboard<br/><br/>
 ![Certifications Tile Image](images/certifications-tile.jpg)<br/>
-3. Fai clic su **Download** in basso a destra sotto l'icona Trascrizioni per scaricare
+3. Per scaricare fai clic su **Scarica** in basso a destra sotto l'icona Trascrizioni
 4. Se non vedi un certificato che hai ottenuto, contatta [Certification Support](https://aka.ms/mcpforum). Un moderatore del forum ti risponderà entro 24 ore lavorative per aiutarti.
 
 <br/>
@@ -143,7 +143,7 @@ Per mantenere attivo il tuo account, accedi al tuo profilo di certificazione Mic
 
 **D: Che cos'è il programma di certificazione Microsoft?**<a name="c1"></a>
 
-**R:** Le certificazioni Microsoft ti offrono un vantaggio professionale fornendo prove riconosciute a livello mondiale di abilità acquisite, dimostrando le tue capacità tecniche. I percorsi di certificazione Microsoft riflettono i lavori attuali incentrati sul cloud aiutandoti a essere assunto, ad avanzare, a essere più veloce e ricevere il riconoscimento che meriti. Superando un esame di certificazione Microsoft, avrai accesso al tuo Badge Microsoft; condividi la tua certificazione online con il tuo network professionale e apri la strada a un potenziale aumento di stipendio.
+**R:** Le certificazioni Microsoft ti offrono un vantaggio professionale fornendo prove riconosciute a livello mondiale di abilità acquisite, per dimostrare le tue capacità tecniche. I percorsi di certificazione Microsoft riflettono i lavori attuali incentrati sul cloud aiutandoti a essere assunto, ad avanzare, a essere più veloce e ricevere il riconoscimento che meriti. Superando un esame di certificazione Microsoft, avrai accesso al tuo Badge Microsoft; condividi la tua certificazione online con il tuo network professionale e apri la strada a un potenziale aumento di stipendio.
 
 <br/>
 
@@ -151,4 +151,4 @@ Per mantenere attivo il tuo account, accedi al tuo profilo di certificazione Mic
 
 **D: Come posso contattare il supporto per la certificazione Microsoft?**<a name="d1"></a>
 
-**R:** Se hai bisogno di aiuto con il tuo profilo di certificazione Microsoft, per visualizzare il  report dei punteggi, accedere ai tuoi risultati o se hai bisogno di altro aiuto con il programma, contatta [Certification Support](https://aka.ms/mcpforum). Un moderatore del forum ti risponderà entro 24 ore lavorative per aiutarti.
+**R:** Se hai bisogno di aiuto con il tuo profilo di certificazione Microsoft, per visualizzare il report dei punteggi, accedere ai tuoi risultati o se hai bisogno di altro aiuto con il programma, contatta [Certification Support](https://aka.ms/mcpforum). Un moderatore del forum ti risponderà entro 24 ore lavorative per aiutarti.

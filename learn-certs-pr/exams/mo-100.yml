@@ -6,9 +6,9 @@ metadata:
 uid: exam.mo-100
 displayName: MO-100
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale. I candidati devono dimostrare la corretta applicazione delle principali caratteristiche di Word e completare le attività in modo indipendente.
+  Questo esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale. I candidati devono dimostrare la corretta applicazione delle principali caratteristiche di Word e completare le attività in modo indipendente.
 subTitle: Questo esame valuta la tua capacità di sapere applicare correttamente le principali funzionalità di Word creando e modificando documenti di due o tre pagine per vari obiettivi e in più situazioni. L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
@@ -57,7 +57,7 @@ resources:
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.

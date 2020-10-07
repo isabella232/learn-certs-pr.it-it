@@ -7,20 +7,25 @@ uid: exam.az-301
 displayName: AZ-301
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href="/learn/certifications/exams/az-304">AZ-304</a>, È STATA RESA DISPONIBILE IL 29 giugno 2020. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il mercoledì 30 settembre 2020 o intorno a tale data. Nota&#58; Gli esami vengono ritirati alle 23&#58;59 (CST).<br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href="/learn/certifications/exams/az-304">AZ-304</a>, È STATA RESA DISPONIBILE IL 29 GIUGNO 2020. Potrai sostenere questo esame fino a quando non sarà ritirato il 30 settembre 2020 o intorno a tale data. Nota&#58; Ritiro esame alle 23&#58;59 Central Standard Time.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
 
-  Le responsabilità di un Azure Solution Architect includono la consulenza alle parti interessate e la traduzione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
+  Le responsabilità di un Azure Solution Architect includono la consulenza alle parti interessate e la realizzazione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
 
   Un Azure Solution Architect collabora con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
 
   Un candidato a questo esame dovrebbe avere esperienza e conoscenza avanzate in vari aspetti delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, gestione dei dati, budget e governance - questo ruolo dovrebbe gestire il modo in cui le decisioni in ogni area abbiano influenza su di una soluzione globale. Inoltre, per questo ruolo si dovrebbe essere competenti in almeno uno di questi domini di Azure&#58; amministrazione, sviluppo o DevOps.
 
-  <div style='font-weight&#58; bold;'><br/>NOTA&#58; Otterrai la seguente certificazione se superi questo esame&#58; <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Azure Solutions Architect Expert</a>.</div>
-subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: determinare i carichi di lavoro; progettare l’identità e la sicurezza; progettare una soluzione per la piattaforma dati; progettare una strategia di business continuity; progettare l'installazione, la migrazione e l’integrazione; e progettare una strategia per l’infrastruttura."
+  <div><strong><br/>NOTA&#58; Otterrai il <a href="/learn/certifications/azure-solutions-architect">certificato Microsoft&#58; Azure Solutions Architect Expert</a> se supererai una delle seguenti combinazioni di esami&#58; <ul>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> e <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> e <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> e <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> e <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  </ul></strong></div>
+subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: determinare i carichi di lavoro, progettare l’identità e la sicurezza, progettare una soluzione per la piattaforma dati, progettare una strategia di continuità aziendale, progettare l''installazione, la migrazione e l’integrazione, progettare una strategia per l’infrastruttura.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -33,11 +38,11 @@ locales:
 levels:
 - advanced
 skills:
-- UNA NUOVA VERSIONE DI QUESTO ESAME, AZ-304, È STATA RESA DISPONIBILE IL 29 giugno 2020. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il mercoledì 30 settembre 2020 o intorno a tale data. Scarica il documento delle competenze misurate qui sotto per avere informazioni dettagliate sulle modifiche.
+- UNA NUOVA VERSIONE DI QUESTO ESAME, AZ-304, È STATA RESA DISPONIBILE IL 29 GIUGNO 2020. Potrai sostenere questo esame fino a quando non sarà ritirato il 30 settembre 2020 o intorno a tale data. Scarica il documento delle competenze misurate qui di seguito per avere informazioni dettagliate sulle modifiche.
 - Determinare i requisiti per i carichi di lavoro (10-15%)
 - Progettare identità e sicurezza (20-25%)
 - Progettare una soluzione per la piattaforma dati (15-20%)
-- Progettare una strategia di business continuity (15-20%)
+- Progettare una strategia di continuità aziendale (15-20%)
 - Progettare l’installazione, la migrazione e l’integrazione (10-15%)
 - Progettare una strategia per l’infrastruttura (15-20%)
 retirementDate: 09/30/2020
@@ -93,7 +98,7 @@ resources:
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
@@ -102,7 +107,7 @@ resources:
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.

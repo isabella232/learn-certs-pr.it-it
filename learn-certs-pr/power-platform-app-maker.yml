@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
 
   Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
 subTitle: Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
@@ -56,6 +56,8 @@ products:
 - power-bi
 - power-apps
 - power-virtual-agents
+courses:
+- uid: course.pl-100t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -85,7 +87,7 @@ resources:
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.

@@ -1,11 +1,11 @@
 ### YamlMime:Role 
-title: Sviluppatore 
+title: Developer 
 metadata: 
-  title: Sviluppatore 
-  description: Gli sviluppatori progettano, creano, testano e aggiornano le soluzioni. Inoltre, implementano applicazioni e servizi in collaborazione con i progettisti di soluzioni e i clienti.
+  title: Developer 
+  description: Gli sviluppatori progettano, creano, testano e aggiornano le soluzioni. Gli sviluppatori implementano applicazioni e servizi in collaborazione con i progettisti di soluzioni e i clienti.
 uid: role.developer 
 summary: | 
-  Gli sviluppatori progettano, creano, testano e aggiornano le soluzioni. Inoltre, implementano applicazioni e servizi in collaborazione con i progettisti di soluzioni e i clienti. 
+  Gli sviluppatori progettano, creano, testano e aggiornano le soluzioni. Gli sviluppatori implementano applicazioni e servizi in collaborazione con i progettisti di soluzioni e i clienti. 
 subTitle: Gli sviluppatori progettano, creano, testano e aggiornano le soluzioni cloud.
 certificationPaths: 
 - title: Azure Developer
@@ -55,7 +55,7 @@ certificationPaths:
 certifications:
 - uid: certification.azure-developer
   requiredExams:
-  - uid: exam.az-203
+  - uid: exam.az-204
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   requiredExams:
   - uid: exam.mb-300
@@ -65,7 +65,13 @@ certifications:
   - uid: exam.ms-600
 - uid: certification.power-apps-and-d365-developer-associate
   requiredExams:
-  - uid: exam.pl-900
+  - uid: exam.mb-400
+- uid: certification.power-platform-developer-associate
+  requiredExams:
+  - uid: exam.pl-400
+- uid: certification.azure-iot-developer-specialty
+  requiredExams:
+  - uid: exam.az-220
 resources:
 - title: Guida alla formazione e alle certificazioni Microsoft
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
@@ -75,4 +81,4 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Assistenza per le certificazioni
   href: ../help.md
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

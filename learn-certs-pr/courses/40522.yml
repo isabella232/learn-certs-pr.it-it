@@ -1,0 +1,56 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Stack'
+metadata:
+  title: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+  description: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+uid: course.40522
+courseNumber: '40522-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Consigliare e progettare sistemi cloud ibridi che sfruttano un'applicazione e un modello di implementazione, Azure
+- skill: Comprendere quando il cloud pubblico di Azure è appropriato in base ai requisiti del cliente rispetto a Azure Stack
+- skill: Illustrare le possibili integrazioni tra le soluzioni di cloud pubblico di Azure e Azure Stack
+- skill: Comprendere la tassonomia di Azure Stack (tenant, aree, sottoscrizioni, offerte, piani, servizi e quote)
+- skill: Descrivere i provider di risorse disponibili che possono essere utilizzati con Azure Stack
+- skill: Progettare e implementare la connettività ibrida tra il cloud pubblico di Azure e Azure Stack
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Grazie a questo workshop imparerai come progettare un'architettura cloud ibrida combinando il cloud pubblico di Azure e Azure Stack. Tale architettura funzionale consentirà ai clienti di sfruttare al meglio i loro investimenti in Azure utilizzandola come "piattaforma cloud" anziché intendere Azure come "luogo". Imparerai a determinare quali sistemi sono i migliori per il cloud pubblico di Azure e quali invece sono più adatti su Azure Stack.
+
+  #### Profilo dell'audience
+  Questo workshop è rivolto agli architetti del cloud e ai professionisti dell'IT che già posseggono esperienza architettonica nella progettazione di infrastrutture e soluzioni con tecnologie cloud e desiderano accrescere le loro competenze su Azure e Azure Services come descritto nelle sezioni "Informazioni su questo corso" e "Al completamento del corso". Si presuppone che coloro che frequentano questo workshop abbiano anche esperienza su altre tecnologie cloud non Microsoft, posseggano i prerequisiti del corso e desiderino effettuare un cross-training su Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di progettazione alla lavagna - Azure Stack Migrate o Azure Stack Operate
+  #### Lezioni
+  - Riesaminare il case study del cliente
+  - Progettare una soluzione di proof of concept
+  - Presentare la soluzione
+
+  ### Modulo 2&#58; Laboratorio pratico - Azure Stack
+
+  #### Laboratorio&#58; Azure Stack Migrate
+
+  - Creare la tassonomia di implementazione di Azure Stack Hub per i tenant
+  - Implementare l'applicazione Web Contoso Financial
+  - Implementare le offerte Web API per il cliente 
+  - Automatizzare i processi di backend con le funzioni di Azure
+  - Lanciare il sito Web Contoso Finance Admin
+
+  #### Laboratorio&#58; Azure Stack Operate
+
+  - Creare e pubblicare un prodotto di Azure Stack Hub Marketplace
+  - Implementare l'utenza multi-tenancy
+  - Implementare la gestione delegata di piani, offerte e abbonamenti
+  - Configurare il controllo accessi basato sui ruoli RBAC
+  - Connettersi e operare con Privileged Endpoint
+  - Implementare il backup dell'infrastruttura Azure Stack Hub
+

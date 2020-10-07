@@ -11,26 +11,26 @@ ms.author: micsullivan
 ---
 # Informazioni sugli esami di certificazione Microsoft
 
-La certificazione Microsoft ti accompagna dall'inizio all'apice della tua carriera. Una certificazione può consentirti di aumentare la tua visibilità, di distinguerti dai colleghi e di convalidare le competenze e conoscenze acquisite.
+La certificazione Microsoft ti accompagna dall'inizio all'apice della tua carriera. Una certificazione può consentirti di aumentare la visibilità, di distinguerti dai colleghi e di convalidare le competenze e conoscenze acquisite.
 
 
 ## Registrati per un Microsoft Certification exam
 
-Per gli esami Microsoft Office Specialist (MOS) e qualsiasi altro esame erogato presso punti vendita accademici, [register at Certiport](https://www.certiport.com/portal/Pages/Registration.aspx).
+Per gli esami Microsoft Office Specialist (MOS) e qualsiasi altro esame erogato presso punti vendita accademici, [registrati su Certiport](https://www.certiport.com/portal/Pages/Registration.aspx).
 
-Per gli esami erogati presso punti commerciali, [select your exam, sign in with Microsoft, and follow the prompts to register](/learn/certifications/browse/?resource_type=examination).
+Per gli esami erogati presso punti commerciali, [seleziona il tuo esame, accedi con Microsoft e segui il percorso per registrarti](/learn/certifications/browse/?resource_type=examination).
 
 ## Preparati per l'esame
 
-La pagina dei dettagli degli esami contiene una sezione "Skills measured” (Competenze pesate) in cui sono elencate le competenze che verranno valutate durante l'esame, oltre ad eventuali risorse e strumenti di preparazione forniti da Microsoft.
+La pagina dei dettagli degli esami contiene per ciascun esame una sezione “Competenze pesate” in cui sono elencate le competenze che verranno valutate durante l'esame, oltre ad eventuali risorse e strumenti di preparazione forniti da Microsoft.
 
-### Di seguito sono riportate alcune risorse aggiuntive per iniziare.
+### Per iniziare, qui di seguito sono riportate alcune risorse aggiuntive:
 
-#### Corsi guidati da un istruttore
+#### Corsi tenuti da un istruttore
 
 [Scopri i corsi in aula e on-demand sulle tecnologie Microsoft, offerti dai Microsoft Certified Trainer.](https://www.microsoft.com/learning/find-partner.aspx)
 
-#### Esplora i corsi di formazione gratuiti online
+#### Consulta i corsi di formazione gratuiti online
 
 Scopri nuove competenze e scopri la potenza dei prodotti Microsoft con una guida passo-passo.  
 [Inizia oggi il tuo viaggio esplorando i nostri percorsi e moduli di apprendimento.](/learn/browse/)
@@ -41,11 +41,11 @@ Scopri nuove competenze e scopri la potenza dei prodotti Microsoft con una guida
 
 #### Microsoft Press Books
 
-[Esplora i libri scritti dagli esperti di Microsoft Press.](https://www.microsoftpressstore.com/)
+[Consulta i libri scritti dagli esperti di Microsoft Press.](https://www.microsoftpressstore.com/)
 
 ## Formati di esame e tipi di domande
 
-Per proteggere la sicurezza dell'esame e il valore delle certificazioni, non vengono fornite informazioni sui formati di esame o i tipi di domande prima dell'esame. Microsoft introduce regolarmente tipi di domande e tecnologie di testing innovativi e si riserva il diritto di incorporarli negli esami in qualsiasi momento senza preavviso. L'esame può contenere quanto segue:
+Per proteggere la sicurezza dell'esame e il valore delle certificazioni, prima dell’esame non vengono fornite informazioni sui formati di esame o i tipi di domande. Microsoft introduce regolarmente tipi di domande e tecnologie di testing innovativi e si riserva il diritto di incorporarli negli esami in qualsiasi momento senza preavviso. L'esame può contenere quanto segue:
 
 ### Esempi di esami e domande
 #### Schermate attive (0:44)
@@ -72,7 +72,7 @@ Per proteggere la sicurezza dell'esame e il valore delle certificazioni, non ven
 </div>
 
 
-#### Case studi (1:13)
+#### Studio di casi (1:13)
 
 <div>
 	<a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
@@ -96,7 +96,7 @@ Per proteggere la sicurezza dell'esame e il valore delle certificazioni, non ven
 </div>
 
 
-#### Risposta a scelta multipla (0:37)
+#### Scelta multipla (0:37)
 
 <div>
 	<a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
@@ -104,7 +104,7 @@ Per proteggere la sicurezza dell'esame e il valore delle certificazioni, non ven
 </div>
 
 
-#### Risposte ripetute (0:20)
+#### Scelta di risposte ripetute (0:20)
 
 <div>
 	<a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
@@ -136,7 +136,7 @@ Per proteggere la sicurezza dell'esame e il valore delle certificazioni, non ven
 </div>
 
 
-#### Schermata revisione (01:36)
+#### Schermata revisione (1:36)
 
 <div>
 	<a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
@@ -147,9 +147,9 @@ Per proteggere la sicurezza dell'esame e il valore delle certificazioni, non ven
 
 ## Sviluppo degli esami
 
-Gli esami di Microsoft Certification vengono sviluppati con cura a partire dall'input di professionisti del settore, per riflettere l'utilizzo dei prodotti Microsoft nelle organizzazioni di tutto il mondo.
+Gli esami di Microsoft Certification vengono sviluppati con cura con input di professionisti del settore, per riflettere l'utilizzo dei prodotti Microsoft nelle organizzazioni di tutto il mondo.
 
-1. Definizione del dominio di competenze:
+1. Definizione del dominio di competenze.
 Gli esperti identificano le attività critiche svolte nell'ambito di ruoli o funzioni specifici che sfruttano le tecnologie e le soluzioni Microsoft.
 
 2. Definire la distribuzione delle competenze all'esame.
@@ -159,7 +159,7 @@ Le competenze individuate nel passaggio 1 vengono valutate da altri professionis
 Gli esperti del settore (SMEs) scrivono le domande di un esame per misurare le competenze fondamentali, in base alla distribuzione definita dal punto di partenza creato nel passaggio 2.
 
 4. Valutare l'accuratezza, la chiarezza, l'adeguatezza, ecc. di ogni domanda.
-Un comitato di esperti che non ha preso parte alla scrittura si occupa della revisione delle domande per verificare la precisione tecnica, la rilevanza, le competenze necessarie e l'allineamento agli obiettivi durante la revisione alfa.
+Un comitato di esperti che non ha preso parte alla scrittura si occupa della revisione delle domande per verificarne la precisione tecnica, la rilevanza, le competenze necessarie e l'allineamento agli obiettivi durante la revisione alfa.
 
 5. Eseguire il beta test delle domande.
 Gli elementi rivisti nell'alfa test vengono quindi testati in una situazione di esame nota come "esame beta". Ciò consente di includere nell'esame reale solo i contenuti più appropriati.
@@ -167,14 +167,14 @@ Gli elementi rivisti nell'alfa test vengono quindi testati in una situazione di 
 6. Finalizzare il gruppo di domande.
 I risultati dell'esame beta vengono analizzati psicometricamente in base a fattori quali difficoltà, capacità di differenziare prestazioni elevate e prestazioni scarse, affidabilità e così via. Solo le domande che rispondono ai criteri psicometrici di Microsoft verranno poi inserite nell'esame reale.
 
-7. Impostare il punteggio di superanento.
-Il punteggio di superamento viene determinato da un gruppo di esperti in collaborazione con un espero in psicometria di Microsoft. Tale punteggio si basa sulle competenze necessarie per essere considerati competenti nel dominio di pertinenza in relazione alle difficoltà delle domande incluse nell'esame.
+7. Impostare il punteggio di superamento.
+Il punteggio di superamento viene determinato da un gruppo di esperti in collaborazione con un esperto in psicometria di Microsoft. Tale punteggio si basa sulle competenze necessarie per essere considerati competenti nel dominio di pertinenza in relazione alle difficoltà delle domande dell'esame.
 
 8. L'esame è disponibile in tutto il mondo.
 I fornitori indipendenti degli esami gestiscono l'esame di certificazione. L'esame è disponibile presso i centri di test in tutto il mondo o tramite supervisione online (la supervisione online non è attualmente disponibile per le consegne accademiche).
 
 9. Sostenere/mantenere per tutta la durata dell'esame.
-Microsoft monitora le prestazioni psicometriche degli esami per tutta la loro durata per verificare che continuino ad essere misure valide ed affidabili del dominio di competenze. Le domande che non risultano essere più psicometriche vengono rimosse, e vengono aggiunti nuovi elementi man mano che le funzioni e funzionalità vengono aggiornate e/o in sostituzione degli elementi rimossi per ragioni psicometriche o a causa di modifiche tecnologiche.
+Microsoft monitora le prestazioni psicometriche degli esami per tutta la loro durata per verificare che continuino ad essere misure valide ed affidabili del dominio di competenze. Le domande che non risultano essere più psicometriche vengono rimosse e vengono aggiunti nuovi elementi man mano che le funzioni e funzionalità vengono aggiornate e/o in sostituzione degli elementi rimossi per ragioni psicometriche o a causa di modifiche tecnologiche.
 
 
 ## Partecipazione a esami beta
@@ -183,27 +183,27 @@ Una parte fondamentale del processo di sviluppo di un esame è l'esame beta. L'e
 
 ### Come partecipare
 
-Gli esami beta Microsoft sono offerti con uno sconto dell’80% (è richiesto un codice). I candidati che sostengono l'esame ricevono uno sconto del 25% sul loro prossimo esame dopo che il ripristino è stato completato, come spiegato qui [Updates](/learn/certifications/posts/updates-on-microsoft-beta-exam-program) su Microsoft Beta Exam Program.
+Gli esami beta Microsoft sono offerti con uno sconto dell’80% (è richiesto un codice). I candidati che usufruiscono dello sconto dell'80% per sostenere l'esame beta ricevono uno sconto del 25% sul loro esame successivo dopo che il rescoring è completo, come spiegato qui: [Aggiornamenti sul programma Microsoft Beta Exam](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Questo sconto NON è generalmente disponibile per tutti i partecipanti agli esami beta. Se paghi l'esame beta utilizzando qualsiasi altro metodo, non hai diritto al buono sconto del 25%._
 
-Per ottenere il codice, si può essere membri del nostro database del SME Profile, oppure è possibile ottenerlo dalla sezione Annunci a sinistra della nostra pagina [Exam policies and FAQs page](/learn/certifications/certification-exam-policies). I partecipanti qualificati nel programma di database dei profili SME ricevono un unico codice sconto per prendere parte agli esami beta ed hanno pertanto maggiori probabilità di ottenere un posto agli esami beta.
+Il codice si può ottenere essendo membri del nostro database del SME Profile, oppure è possibile ottenerlo dalla sezione Annunci a sinistra della nostra pagina [pagina delle politiche degli esami e delle FAQ](/learn/certifications/certification-exam-policies). I partecipanti qualificati nel programma di database dei profili SME ricevono un unico codice sconto per prendere parte agli esami beta ed hanno pertanto maggiori probabilità di ottenere un posto agli esami beta.
 
-Il programma di database SME Profile è ora ospitato su [Microsoft Collaborate](https://aka.ms/collaborate). Consultare il blog della comunità [Aiutaci a creare esami e contenuti didattici! Iscriviti al nostro database SME oggi stesso](/learn/certifications/posts/help-us-create-exams-and-learning-content) per avere istruzioni su come aderire al programma su Collaborate.
+Il programma di database SME Profile è ora ospitato su [Microsoft Collaborate](https://aka.ms/collaborate). Consultare il blog della comunità [Aiutaci a creare esami e contenuti didattici! Unisciti al nostro database SME oggi!](/learn/certifications/posts/help-us-create-exams-and-learning-content) per avere istruzioni su come aderire al programma su Collaborate.
 
-Per alcuni ruoli lavorativi abbiamo un numero di candidati significativamente più qualificato nel database dei profili PMI rispetto ai posti disponibili. In questi casi, viene selezionato in modo casuale un certo numero di candidati qualificati, a cui viene inviato l'invito. Se non sei stato selezionato, puoi ancora partecipare guardando la pagina degli annunci in cui inseriamo un codice diverso il giorno dell’apertura della registrazione all’esame beta.
+Per alcuni ruoli lavorativi abbiamo un numero di candidati significativamente più qualificato nel database dei profili SME rispetto ai posti disponibili. In questi casi, viene selezionato in modo casuale un certo numero di candidati qualificati, a cui viene inviato l'invito. Se non sei stato selezionato, puoi ancora partecipare consultando la pagina degli annunci in cui inseriamo un codice diverso il giorno dell’apertura della registrazione all’esame beta.
 
-Per partecipare a un esame beta non avendo ricevuto un invito o non essendo stati in grado di procedere con la registrazione per i posti scontati disponibili, è possibile sostenere l'esame nella stessa sessione registrandosi e pagando la quota secondo le modalità standard. Alcuni candidati desiderano sostenere l'esame il prima possibile per rispondere a requisiti professionali o aziendali o per dimostrare di avere competenze consolidate nella tecnologia oggetto dell’esame.
+Se non si ha ricevuto un invito o non si è stati in grado di procedere con la registrazione per i posti scontati disponibili, è possibile sostenere l'esame beta nella stessa sessione registrandosi e pagando la quota secondo le modalità standard. Alcuni candidati desiderano sostenere l'esame il prima possibile per rispondere a requisiti professionali o aziendali o per dimostrare di avere competenze consolidate nella tecnologia oggetto dell’esame.
 
 Solo i candidati con esperienza professionale in una determinata tecnologia possono partecipare agli esami beta.
 
 **Nota** La partecipazione agli esami beta è possibile fino a esaurimento dei posti disponibili. Poiché la richiesta è elevata, è consigliabile registrarsi all'inizio del periodo di registrazione agli esami beta.
 
-I candidati che si trovano in Cina, India, Pakistan o Turchia non possono partecipare agli esami beta per motivi di sicurezza.
+Per motivi di sicurezza i candidati che si trovano in Cina, India, Pakistan o Turchia non possono partecipare agli esami beta.
 
 ### Preparazione a un esame beta
 
-Avrai accesso alla pagina dei dettagli dell’esame che elenca le competenze che saranno valutate durante l’esame. Sebbene il nostro obiettivo è assicurare che ci sia un po’ di formazione prima del lancio dell’esame beta, non sempre ciò è possibile. Chi è interessato agli esami beta in genere ha accesso ad altre risorse, ha esperienza nella tecnologia di riferimento o lavora con il prodotto beta. Qualora fosse necessario altro materiale di preparazione, è consigliabile consultare colleghi, risorse della community e articoli di chi ha già esperienza.
+Avrai accesso alla pagina dei dettagli dell’esame che elenca le competenze che saranno valutate durante l’esame. Sebbene il nostro obiettivo è assicurare che ci sia un po’ di formazione prima del lancio dell’esame beta, non sempre ciò è possibile. Chi è interessato agli esami beta in genere ha accesso ad altre risorse, ha esperienza nella tecnologia di riferimento o lavora con il prodotto beta. Qualora fosse necessario altro materiale di preparazione è consigliabile consultare colleghi, risorse della community e articoli di chi ha già esperienza.
 
-Per ulteriori suggerimenti e idee su come prepararti agli esami beta senza i materiali di preparazione, consulta la sezione: [Come ci si prepara per gli esami beta senza materiali di preparazione?](/learn/certifications/posts/just-how-does-one-prepare-for-beta-exams-without-preparation-materials)
+Per ulteriori suggerimenti e idee su come prepararti agli esami beta senza i materiali di preparazione consulta la sezione: [Come ci si prepara agli esami beta senza materiali di preparazione?](/learn/certifications/posts/just-how-does-one-prepare-for-beta-exams-without-preparation-materials)
 
 ### Punteggio e risultati degli esami beta
 
@@ -211,18 +211,18 @@ Al termine di un esame beta, non si riceve immediatamente un punteggio perché i
 
 In genere il punteggio dell'esame viene inviato entro 2-3 settimane a partire da quando l'esame diventa disponibile in tutto il mondo (fino a 16 settimane la partecipazione all'esame, a seconda del periodo beta nel quale hai sostenuto tale esame). Questo lasso di tempo riflette il processo completo utilizzato per valutare i risultati dell'esame beta, che comprende l'analisi statistica dei dati per valutare le prestazioni di ogni domanda e la lettura e la valutazione di tutti i commenti forniti durante l'esame beta. Il processo di valutazione inizia il giorno effettivo dell'esame e i punteggi finali saranno disponibili circa 10 giorni dopo.
 
-**Nota** La partecipazione agli esami beta è volontaria e Microsoft non fornisce alcune garanzia in merito al processo di esami beta, la disponibilità dei punteggi ottenuti o la tempestività di invio dei risultati.
+**Nota** La partecipazione agli esami beta è volontaria e Microsoft non fornisce alcuna garanzia in merito al processo di esami beta, la disponibilità dei punteggi ottenuti o la tempestività di invio dei risultati.
 
 ### Superamento dell'esame beta
 
-Il superamento di un esame beta viene tenuto in considerazione ai fini dell'ottenimento della certificazione. Non è necessario ripetere l'esame nella versione finale. Assicurati di sostenere un altro esame entro un anno in modo da usufruire dello sconto del 25% ottenuto per aver sostenuto un esame beta.
+Il superamento di un esame beta viene tenuto in considerazione ai fini dell'ottenimento della certificazione. Non è necessario ripetere l'esame nella versione finale. Assicurati di sostenere un altro esame entro un anno in modo da usufruire dello sconto del 25% ottenuto per aver sostenuto un esame beta attraverso il nostro programma di sconti per esami beta.
 
-Se non si supera l'esame beta, non è possibile ripeterlo. Se sei interessato ad ottenere una certificazione che richiede il completamento di tale esame, è necessario aspettare per sostenere nuovamente l'esame al prezzo standard non appena disponibile nella versione finale o è possibile applicare lo sconto del 25% ricevuto per aver partecipato all'esame beta.
+Non è possibile ripetere un esame beta se non lo si è superato. Se sei interessato ad ottenere una certificazione che richiede il completamento di tale esame, è necessario aspettare per sostenere nuovamente l'esame al prezzo standard non appena disponibile nella versione finale o è possibile applicare lo sconto del 25% ricevuto per aver partecipato all'esame beta attraverso il nostro programma di sconti per esami beta.
 
-Se ritieni che il punteggio dell'esame beta debba essere disponibile (in quanto l'esame è disponibile o hai visto un tweet in merito), controlla prima che il centro di valutazione lo abbia pubblicato online. Se non è stato pubblicato, contattare il centro di valutazione. È utile ricordare che occorrono fino a due settimane da quando la versione finale dell'esame viene resa disponibile per visualizzare online il punteggio dell'esame beta. Se il fornitore dell'esame ha pubblicato un punteggio, ma non lo vedi sulla tua trascrizione Microsoft, contatta [Certification Support](https://aka.ms/mcpforum).
+Se ritieni che il punteggio dell'esame beta debba essere disponibile (in quanto l'esame è disponibile o hai visto un tweet in merito), controlla prima che il centro di valutazione lo abbia pubblicato online. Se non è stato pubblicato, contattare il centro di valutazione. (È utile ricordare che per visualizzare online il punteggio dell'esame beta occorrono fino a due settimane da quando la versione finale dell'esame viene resa disponibile.) Se il fornitore dell'esame ha pubblicato un punteggio, ma non lo vedi sulla tua trascrizione Microsoft, contatta [Certification Support](https://aka.ms/mcpforum).
 
 ## Ottieni il riconoscimento delle tue conoscenze e competenze. 
-[Esplora tutti gli esami di certificazione.](/learn/certifications/browse/?resource_type=examination)
+[Consulta tutti gli esami di certificazione.](/learn/certifications/browse/?resource_type=examination)
 
 
 

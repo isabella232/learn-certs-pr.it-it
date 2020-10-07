@@ -3,7 +3,6 @@ title: Microsoft Azure Administrator
 metadata:
   title: 'Course AZ-104T00-A: Microsoft Azure Administrator'
   description: 'Course AZ-104T00-A: Microsoft Azure Administrator'
-  iltScheduling: true
 uid: course.az-104t00
 courseNumber: 'AZ-104T00-A'
 hoursToComplete: 96
@@ -25,16 +24,18 @@ products:
 exams:
 - uid: exam.az-104
 summary: |-
-  Questo corso insegna agli IT Professionals IT come gestire le proprie sottoscrizioni di Azure, proteggere le identità, amministrare l'infrastruttura, configurare la rete virtuale, connettere siti di Azure e locali, gestire il traffico di rete, implementare soluzioni di archiviazione, creare e ridimensionare macchine virtuali, implementare app e contenitori Web, eseguire il backup e condividere i dati e monitorare la soluzione.
+  Questo corso insegna ai professionisti IT come gestire le proprie sottoscrizioni di Azure, proteggere le identità, amministrare l'infrastruttura, configurare la rete virtuale, connettere siti di Azure e locali, gestire il traffico di rete, implementare soluzioni di archiviazione, creare e ridimensionare macchine virtuali, implementare app e contenitori Web, eseguire il backup e condividere i dati e monitorare la soluzione.
 
   #### Profilo dei destinatari
-  Questo corso è per Azure Administrators. L'Amministratore Azure implementa, gestisce e monitora l'identità, la governance, la memorizzazione dei dati, il calcolo e le reti virtuali in un ambiente cloud. L'amministratore Azure effettuerà il provisioning, dimensionerà, monitorerà e modificherà le risorse come appropriato.
+  Questo corso è per Azure Administrators. L'Azure Administrator implementa, gestisce e monitora l'identità, la governance, la memorizzazione dei dati, il calcolo e le reti virtuali in un ambiente cloud. L'Azure Administrator effettuerà il provisioning, dimensionerà, monitorerà e modificherà le risorse in modo appropriato.
 prerequisitesSection: |-
-  Gli Azure Administrators di successo iniziano questo ruolo con esperienza su sistemi operativi, virtualizzazione, infrastruttura cloud, strutture di archiviazione e reti.
-  - Comprensione delle tecnologie di virtualizzazione locali, tra cui&#58; VM, reti virtuali e hard disk virtuali.
-  - Comprensione della configurazione di rete, inclusi TCP/IP, Domain Name System (DNS), reti private virtuali (VPN), firewall e tecnologie di crittografia.
-  - Comprensione dei concetti di Active Directory, inclusi domini, foreste, controller di dominio, replica, protocollo Kerberos e Lightweight Directory Access Protocol (LDAP).
-  - Comprensione della resilienza e del disaster recovery, comprese le operazioni di backup e ripristino.
+  Gli Azure Administrator di successo iniziano questo ruolo con esperienza a livello di virtualizzazione, networking, identità e archiviazione.
+  - Conoscenza delle tecnologie di virtualizzazione in sito, tra cui&#58; VM, reti virtuali e dischi rigidi virtuali.
+  - Conoscenza della configurazione di rete, inclusi TCP/IP, Domain Name System (DNS), reti private virtuali (VPN), firewall e tecnologie di crittografia.
+  - Conoscenza dei concetti di Active Directory, inclusi utenti, gruppi e controllo dell'accesso basato sui ruoli.
+  - Conoscenza della resilienza e del disaster recovery, comprese le operazioni di backup e ripristino.
+
+  È possibile ottenere i prerequisiti e una migliore conoscenza di Azure seguendo [AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/). Questa formazione online gratuita ti darà l'esperienza di cui hai bisogno per avere successo in questo corso.
 outlineSection: |-
   ### Modulo 1&#58; Identità
   In questo modulo imparerai come proteggere le identità con Azure Active Directory e implementare utenti e gruppi.
@@ -48,9 +49,9 @@ outlineSection: |-
   - Proteggere e gestire le identità con Azure Active Directory.
   - Implementare e gestire utenti e gruppi.
 
+
   ### Modulo 2&#58; Governance e conformità
   In questo modulo imparerai a gestire le tue sottoscrizioni e i tuoi account, implementare le policies di Azure e usare il controllo degli accessi in base al ruolo.
-
   #### Lezioni
   - Abbonamenti e account
   - Azure Policy
@@ -60,10 +61,11 @@ outlineSection: |-
 
   #### Lab&#58; Gestire la governance tramite Azure Policy
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Implementare e gestire abbonamenti e account di Azure.
   - Implementare Azure Policy, incluse le policies personalizzate.
   - Utilizzare RBAC per assegnare le autorizzazioni.
+
 
   ### Modulo 3&#58; Amministrazione di Azure
   In questo modulo imparerai gli strumenti che un Azure Administrator usa per gestire la propria infrastruttura. Ciò include i modelli Azure Portal, Cloud Shell, Azure PowerShell, CLI e Resource Manager. Questo modulo include&#58;
@@ -77,15 +79,16 @@ outlineSection: |-
 
   #### Lab&#58; Gestire le risorse di Azure usando i modelli ARM
 
-  #### Lab&#58; Gestire le risorse di Azure usando Azure PowerShell
+  #### Lab&#58; Gestire le risorse di Azure usando Azure PowerShell (opzionale)
 
-  #### Lab&#58; Gestire le risorse di Azure usando Azure CLI
+  #### Lab&#58; Gestire le risorse di Azure usando Azure CLI (opzionale)
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Sfruttare Azure Resource Manager per organizzare le risorse.
   - Utilizzare Azure Portal e Cloud Shell.
   - Utilizzare Azure PowerShell e CLI.
   - Utilizzare i modelli ARM per distribuire risorse.
+
 
   ### Modulo 4&#58; Rete virtuale
   In questo modulo imparerai i concetti di base della rete virtuale come reti virtuali e subnet, indirizzi IP, gruppi di sicurezza di rete, Azure Firewall e Azure DNS.
@@ -98,12 +101,13 @@ outlineSection: |-
 
   #### Lab&#58; Implementare reti virtuali
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Implementare reti virtuali e sottoreti.
   - Configurare l'indirizzamento IP pubblico e privato.
   - Configurare gruppi di sicurezza di rete.
   - Configurare Azure Firewall.
   - Configurare zone DNS private e pubbliche.
+
 
   ### Modulo 5&#58; Connettività tra siti
   In questo modulo, imparerai le funzionalità di connettività tra siti, tra cui VNet Peering, gateway di rete virtuale e connessioni da sito a sito.
@@ -114,31 +118,29 @@ outlineSection: |-
 
   #### Lab&#58; Implementare la connettività tra siti
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Configurare il VNet Peering.
   - Configurare il gateway VPN.
-  - Scegliere la soluzione di connettività intersite appropriata.
+  - Scegliere la soluzione di connettività tra siti appropriata.
+
 
   ### Modulo 6&#58; Gestione del traffico di rete
-  In questo modulo imparerai a conoscere le strategie del traffico di rete, inclusi routing di rete ed endpoint di servizio, Azure Load Balancer, Azure Application Gateway e Traffic Manager.
-
+  In questo modulo imparerai a conoscere le strategie del traffico di rete, inclusi routing di rete ed endpoint di servizio, Azure Load Balancer e Azure Application Gateway.
   #### Lezioni
   - Routing di rete ed endpoint
   - Azure Load Balancer
   - Azure Application Gateway
-  - Traffic Manager
 
   #### Lab&#58; Implementare la gestione del traffico
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Configurare il routing di rete, compresi i percorsi personalizzati e gli endpoint di servizio.
   - Configurare un Azure Load Balancer.
   - Configurare Azure Application Gateway.
-  - Sceglere la soluzione del traffico di rete appropriata.
 
-  ### Modulo 7&#58; Azure Storage
+
+  ### Modulo 7&#58; Archiviazione Azure
   In questo modulo imparerai le funzionalità di archiviazione di base tra cui account di archiviazione, blob storage, Azure files e File Sync, sicurezza dell'archiviazione e strumenti di archiviazione.
-
   #### Lezioni
   - Account di archiviazione
   - Blob storage
@@ -148,16 +150,16 @@ outlineSection: |-
 
   #### Lab&#58; Gestire l'archiviazione di Azure
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Creare account di archiviazione di Azure.
   - Configurare blob containers.
   - Assicurare l'archiviazione di Azure.
   - Configurare condivisioni di file di Azure e sincronizzazione dei file.
   - Gestire l'archiviazione con strumenti come Storage Explorer.
 
+
   ### Modulo 8&#58; Macchine virtuali di Azure
   In questo modulo imparerai aspetti delle macchine virtuali di Azure tra cui pianificazione, creazione, disponibilità ed estensioni.
-
   #### Lezioni
   - Pianificazione della macchina virtuale
   - Creazione di macchine virtuali
@@ -166,15 +168,15 @@ outlineSection: |-
 
   #### Lab&#58; Gestire macchine virtuali
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Pianificare implementazioni di macchine virtuali.
   - Creare macchine virtuali.
   - Configurare la disponibilità di macchine virtuali, inclusi i set di scalabilità.
   - Utilizzare estensioni di macchine virtuali.
 
+
   ### Modulo 9&#58; Elaborazione senza server
   In questo modulo imparerai ad amministrare le funzionalità di elaborazione senza server come Azure App Service, Azure Container Instances e Kubernetes.
-
   #### Lezioni
   - Piani di Azure App Service
   - Azure App Service
@@ -187,11 +189,12 @@ outlineSection: |-
 
   #### Lab&#58; Implementare il servizio Kubernetes di Azure
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Creare un piano di servizio app.
   - Creare un'app Web.
   - Implementare le Azure Container Instances.
   - Implementare il servizio Azure Kubernetes.
+
 
   ### Modulo 10&#58; Protezione dei dati
   In questo modulo, imparerai come eseguire il backup di file e cartelle e backup di macchine virtuali.
@@ -201,13 +204,13 @@ outlineSection: |-
 
   #### Lab&#58; Implementare la protezione dei dati
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Effettuare il backup e il ripristino di file e cartelle.
   - Effettuare il backup e il ripristino di macchine virtuali.
 
+
   ### Modulo 11&#58; Monitoraggio
   In questo modulo imparerai a monitorare la tua infrastruttura di Azure tra cui Azure Monitor, avvisi e log analytics.
-
   #### Lezioni
   - Azure Monitor
   - Avvisi di Azure
@@ -216,7 +219,7 @@ outlineSection: |-
 
   #### Lab&#58; Implementare il monitoraggio
 
-  Al termine di questo modulo gli studenti saranno in grado di&#58;
+  Al termine di questo modulo gli studenti saranno in grado di&#58; 
   - Usare Azure Monitor.
   - Creare avvisi di Azure.
   - Fare interrogazioni tramite Log Analytics.

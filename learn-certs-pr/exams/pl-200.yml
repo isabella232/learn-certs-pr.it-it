@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   I candidati a questo esame procedono alla scoperta, all'acquisizione dei requisiti, al coinvolgimento di esperti e stakeholder, traducono requisiti e configurano soluzioni e applicazioni Power Platform. Creano miglioramenti all’applicazione, esperienze dell’utente personalizzate, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
 
@@ -14,8 +14,8 @@ summary: |-
 
   I candidati collaborano attivamente con i membri del team di garanzia della qualità per garantire che le soluzioni soddisfino i requisiti funzionali e non funzionali. Identificano, generano e distribuiscono artefatti per l’imballaggio e la distribuzione agli ingegneri DevOps e forniscono formazione operativa e di manutenzione agli amministratori della piattaforma Power.
 
-  <div><strong><br/>Nota&#58; Tale Esame sarà disponibile a Settembre 2020.</strong></div>
-subTitle: 'Tale Esame sarà disponibile a Settembre 2020. Questo esame misura la tua capacità di completare le seguenti attività: configurare il Common Data Service, creare app utilizzando Power Apps, creare e gestire Power Automate, implementare chatbot Power Virtual Agents e integrare Power Apps con altre app e servizi.'
+  <div><strong><br/>Nota&#58; Questo esame sarà disponibile dal 25 settembre 2020 o intorno a tale data.</strong></div>
+subTitle: 'Questo esame sarà disponibile dal 25 settembre 2020 o intorno a tale data. Questo esame misura la tua capacità di completare le seguenti attività: configurare il Common Data Service, creare app utilizzando Power Apps, creare e gestire Power Automate, implementare chatbot Power Virtual Agents e integrare Power Apps con altre app e servizi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 locales:
@@ -52,7 +52,7 @@ resources:
   description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
@@ -61,7 +61,7 @@ resources:
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
