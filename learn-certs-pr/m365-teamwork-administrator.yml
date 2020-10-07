@@ -7,8 +7,8 @@ uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>QUESTA CERTIFICAZIONE VERRÀ RITIRATA IL 31 AGOSTO 2020. Non sarai più in grado di ottenere questa certificazione dopo tale data. Eventuali certificazioni ottenute prima della loro data di ritiro continueranno ad apparire nel tuo report nel <a href="https://www.microsoft.com/learning/dashboard.aspx">Dashboard di certificazione</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Questa certificazione verrà ritirata il lunedì 31 agosto 2020. Eventuali certificazioni ottenute prima della loro data di ritiro continueranno ad apparire nel tuo report nel <a href="https://www.microsoft.com/learning/dashboard.aspx">Dashboard di certificazione</a>.</strong><br/><br/></div>
   </div>
 
   Gli amministratori di Microsoft 365 Teamwork configurano, installano e gestiscono carichi di lavoro di Office 365 incentrati su collaborazioni efficienti ed efficaci, come SharePoint (online, locale e ibrido), OneDrive e Teams.
@@ -58,7 +58,7 @@ resources:
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

@@ -2,18 +2,18 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'I professionisti Azure DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.'
+  description: 'I professionisti Microsoft DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.'
 uid: certification.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   I candidati alla certificazione DevOps Engineer Expert devono avere esperienza in materia di lavoro con persone, processi e tecnologie per fornire continuamente valore aziendale.
 
   Le responsabilità per questo ruolo includono la progettazione e l'implementazione di strategie di collaborazione, codice, infrastruttura, controllo del codice sorgente, sicurezza, conformità, integrazione continua, test, consegna, monitoraggio e feedback.
 
   Il candidato a questa certificazione deve avere familiarità sia con l'amministrazione sia con lo sviluppo di Azure ed essere esperto in almeno una di queste aree.
-subTitle: I professionisti Azure DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.
+subTitle: I professionisti Microsoft DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.
 levels:
 - advanced
 skills:
@@ -52,7 +52,7 @@ exams:
 - uid: exam.az-400
 resources:
 - title: Poster delle certificazioni di Azure
-  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Viaggio verso la certificazione
   description: Analizza i passaggi per ottenere la certificazione di DevOps Engineer Expert e le risorse disponibili per aiutarti nella preparazione.
@@ -64,7 +64,7 @@ resources:
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

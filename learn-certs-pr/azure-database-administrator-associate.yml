@@ -6,7 +6,7 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati nativa e ibrida cloud, basate su servizi dati Microsoft Azure e Microsoft SQL Server. L'Azure Database Administrator utilizza una varietà di metodi e strumenti per eseguire le operazioni quotidiane, compresa l'applicazione delle conoscenze sull'uso del T-SQL per la gestione amministrativa.
 subTitle: L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati nativa e ibrida cloud, basate su servizi dati Microsoft Azure e Microsoft SQL Server.
@@ -47,7 +47,7 @@ exams:
 - uid: exam.dp-300
 resources:
 - title: Poster delle certificazioni di Azure
-  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Viaggio verso la certificazione
   description: Scopri i passaggi per essere certificato Azure Database Administrator Associate e le risorse disponibili per aiutare a prepararti.
@@ -59,7 +59,7 @@ resources:
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

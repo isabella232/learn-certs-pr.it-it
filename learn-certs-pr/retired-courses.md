@@ -17,6 +17,111 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
 ## Corsi ritirati: Corsi di formazione con istruttori
 
+* Corsi ritirati il 31 dicembre 2020
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | Inglese | 31/12/2020 |
+    | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | Inglese | 31/12/2020 |
+
+* Corsi ritirati il 30 novembre 2020
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | 40512 | G | App modernization | Inglese | 30/11/2020 |
+    | 40528 | G | Business continuity and disaster recovery | Inglese | 30/11/2020 |
+    | 40503 | G | Enterprise-ready cloud | Inglese | 30/11/2020 |
+    | 40565 | G | Modernizing Data Analytics with SQL Server 2019 | Inglese | 30/11/2020 |
+    | 40533 | G | OSS PaaS and DevOps | Inglese | 30/11/2020 |
+    | 40563 | G | Real-time data with Azure Database for PostgreSQL Hyperscale | Inglese | 30/11/2020 |
+
+* Corsi ritirati il 30 settembre 2020 e ritido dei relativi corsi localizzati il 30 ottobre 2020
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | AZ-300T01 | A | Deploying and Configuring Infrastructure | Inglese | 30/09/2020 |
+    | AZ-300T01ZH | A | Deploying and Configuring Infrastructure | Cinese semplificato | 30/10/2020 |
+    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | Coreano | 30/10/2020 |
+    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | Giapponese | 30/10/2020 |
+    | AZ-300T02 | A | Implementing Workloads and Security | Inglese | 30/09/2020 |
+    | AZ-300T02ZH | A | Implementing Workloads and Security | Cinese semplificato | 30/10/2020 |
+    | AZ-300T02KO | A | Implementing Workloads and Security | Coreano | 30/10/2020 |
+    | AZ-300T02JA | A | Implementing Workloads and Security | Giapponese | 30/10/2020 |
+    | AZ-300T03 | A | Understanding Cloud Architect Technology Solutions | Inglese | 30/09/2020 |
+    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | Cinese semplificato | 30/10/2020 |
+    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | Coreano | 30/10/2020 |
+    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | Giapponese | 30/10/2020 |
+    | AZ-300T04 | A | Creating and Deploying Apps | Inglese | 30/09/2020 |
+    | AZ-300T04ZH | A | Creating and Deploying Apps | Cinese semplificato | 30/10/2020 |
+    | AZ-300T04KO | A | Creating and Deploying Apps | Coreano | 30/10/2020 |
+    | AZ-300T04JA | A | Creating and Deploying Apps | Giapponese | 30/10/2020 |
+    | AZ-300T06 | A | Developing for the Cloud | Inglese | 30/09/2020 |
+    | AZ-300T06ZH | A | Developing for the Cloud | Cinese semplificato | 30/10/2020 |
+    | AZ-300T06KO | A | Developing for the Cloud | Coreano | 30/10/2020 |
+    | AZ-300T06JA | A | Developing for the Cloud | Giapponese | 30/10/2020 |
+    | AZ-301T01 | A | Designing for Identity and Security | Inglese | 30/09/2020 |
+    | AZ-301T01ZH | A | Designing for Identity and Security | Cinese semplificato | 30/10/2020 |
+    | AZ-301T01KO | A | Designing for Identity and Security | Coreano | 30/10/2020 |
+    | AZ-301T01JA | A | Designing for Identity and Security | Giapponese | 30/10/2020 |
+    | AZ-301T02 | A | Designing a Data Platform Solution | Inglese | 30/09/2020 |
+    | AZ-301T02ZH | A | Designing a Data Platform Solution | Cinese semplificato | 30/10/2020 |
+    | AZ-301T02KO | A | Designing a Data Platform Solution | Coreano | 30/10/2020 |
+    | AZ-301T02JA | A | Designing a Data Platform Solution | Giapponese | 30/10/2020 |
+    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | Inglese | 30/09/2020 |
+    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | Cinese semplificato | 30/10/2020 |
+    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | Coreano | 30/10/2020 |
+    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | Giapponese | 30/10/2020 |
+    | AZ-301T04 | A | Designing an Infrastructure Strategy | Inglese | 30/09/2020 |
+    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | Cinese semplificato | 30/10/2020 |
+    | AZ-301T04KO | A | Designing an Infrastructure Strategy | Coreano | 30/10/2020 |
+    | AZ-301T04JA | A | Designing an Infrastructure Strategy | Giapponese | 30/10/2020 |
+
+* Corsi ritirati il 31 agosto 2020
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | AZ-103T00 | A | Microsoft Azure Administrator | Inglese | 31/08/2020 |
+    | AZ-103T00ZH | A | Microsoft Azure Administrator | Cinese semplificato | 31/08/2020 |
+    | AZ-103T00KO | A | Microsoft Azure Administrator | Coreano | 31/08/2020 |
+    | AZ-103T00JA | A | Microsoft Azure Administrator | Giapponese | 31/08/2020 |
+    | AZ-203T01 | A | Develop Azure Infrastructure as a Service compute solutions | Inglese | 31/08/2020 |
+    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | Cinese semplificato | 31/08/2020 |
+    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | Coreano | 31/08/2020 |
+    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | Giapponese | 31/08/2020 |
+    | AZ-203T02 | A | Develop Azure Platform as a Service compute solutions | Inglese | 31/08/2020 |
+    | AZ-203T02ZH | A | Develop Azure Platform as a Service compute solutions | Cinese semplificato | 31/08/2020 |
+    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | Coreano | 31/08/2020 |
+    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | Giapponese | 31/08/2020 |
+    | AZ-203T03 | A | Develop for Azure storage | Inglese | 31/08/2020 |
+    | AZ-203T03ZH | A | Develop for Azure storage | Cinese semplificato | 31/08/2020 |
+    | AZ-203T03KO | A | Develop for Azure storage | Coreano | 31/08/2020 |
+    | AZ-203T03JA | A | Develop for Azure storage | Giapponese | 31/08/2020 |
+    | AZ-203T04 | A | Implement Azure security | Inglese | 31/08/2020 |
+    | AZ-203T04ZH | A | Implement Azure security | Cinese semplificato | 31/08/2020 |
+    | AZ-203T04KO | A | Implement Azure security | Coreano | 31/08/2020 |
+    | AZ-203T04JA | A | Implement Azure security | Giapponese | 31/08/2020 |
+    | AZ-203T05 | A | Monitor, troubleshoot, and optimize Azure solutions | Inglese | 31/08/2020 |
+    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | Cinese semplificato | 31/08/2020 |
+    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | Coreano | 31/08/2020 |
+    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | Giapponese | 31/08/2020 |
+    | AZ-203T06 | A | Connect to and consume Azure and third-party services | Inglese | 31/08/2020 |
+    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | Cinese semplificato | 31/08/2020 |
+    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | Coreano | 31/08/2020 |
+    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | Giapponese | 31/08/2020 |
+    | MS-200T01 | A | Understanding the Modern Messaging Infrastructure | Inglese | 31/08/2020 |
+    | MS-200T02 | A | Managing Client Access and Mail Flow | Inglese | 31/08/2020 |
+    | MS-200T03 | A | Managing Messaging High Availability and Disaster Recovery | Inglese | 31/08/2020 |
+    | MS-201T01 | A | Defining a Hybrid Messaging Strategy | Inglese | 31/08/2020 |
+    | MS-201T02 | A | Managing Messaging Security, Hygiene, and Compliance | Inglese | 31/08/2020 |
+    | MS-300T01 | A | Managing Office 365 Content Services | Inglese | 31/08/2020 |
+    | MS-300T02 | A | Managing SharePoint Online | Inglese | 31/08/2020 |
+    | MS-300T03 | A | Enabling Microsoft Teams for Collaboration | Inglese | 31/08/2020 |
+    | MS-300T04 | A | Enabling Office 365 Workloads for Collaboration | Inglese | 31/08/2020 |
+    | MS-301T01 | A | Implementing SharePoint 2019 Infrastructure | Inglese | 31/08/2020 |
+    | MS-301T02 | A | Implementing SharePoint 2019 Service Applications | Inglese | 31/08/2020 |
+    | MS-301T03 | A | Implementing SharePoint Hybrid Scenarios | Inglese | 31/08/2020 |
+    | MS-301T04 | A | Migrating to SharePoint Online | Inglese | 31/08/2020 |
+
 * Corsi ritirati il 30 giugno 2020
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
@@ -40,7 +145,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | 6294 | A | Planning and Managing Windows® 7 Desktop Deployments and Environments | Inglese | 30/06/2020 |
     | 6317 | A | Upgrading Your SQL Server® 2000 Database Administration (DBA) Skills to SQL Server 2008 DBA Skills | Inglese | 30/06/2020 |
     | 6367 | A | Introduction to Object Oriented Programming using Microsoft® Visual Studio® 2008 | Inglese | 30/06/2020 |
-    | 6368 | A | Programming with the Microsoft® .NET Framework using Microsoft® Visual Studio® 2008 | Inglese | 30/06/2020 |
+    | 6368 | A | Programming with the Microsoft® .NET Framework Using Microsoft® Visual Studio® 2008 | Inglese | 30/06/2020 |
     | 6416 | D | Updating Your Windows Server® 2003 Technology Skills to Windows Server® 2008 | Inglese | 30/06/2020 |
     | 6418 | C | Deploying Windows Server® 2008 | Inglese | 30/06/2020 |
     | 6419 | B | Configuring, Managing and Maintaining Windows Server® 2008-based Servers | Inglese | 30/06/2020 |
@@ -708,7 +813,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | Francese | 30/6/2018
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Giapponese) | Giapponese | 30/6/2018
 
-* Corsi ritirati il 30 marzo 2018
+* Corsi ritirati il venerdì 30 marzo 2018
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -723,7 +828,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | Inglese | 31/1/2018
     | 40442 | A | MOC Workshop: Architecting Microsoft Azure Solutions | Inglese | 31/1/2018
 
-* Corsi ritirati il 30 giugno 2017
+* Corsi ritirati il venerdì 30 giugno 2017
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -767,7 +872,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | --- | --- | --- | --- | --- |
     | 10978 | A | Introduction to Azure for Developers | Inglese | 15/4/2017
 
-* Corsi ritirati il 31 marzo 2017
+* Corsi ritirati il venerdì 31 marzo 2017
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -857,26 +962,26 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | 80565 | A | Microsoft Dynamics AX 2012 中的供应链基础 | Cinese semplificato | 31/12/2016
     | 80569 | A | Microsoft Dynamics AX 2012 中的财务 I | Cinese semplificato | 31/12/2016
 
-* Corsi ritirati il 31 ottobre 2016
+* Corsi ritirati il lunedì 31 ottobre 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10983 | A | Upgrading Your Skills to Windows Server 2016 | Inglese | 31/10/2016
     | 20497 | A | Software Testing with Visual Studio 2013 | Inglese | 31/10/2016
 
-* Corsi ritirati il 15 agosto 2016
+* Corsi ritirati il lunedì 15 agosto 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10968 | B | Designing for Office 365 Infrastructure | Inglese | 15/8/2016
 
-* Corsi ritirati il 1 agosto 2016
+* Corsi ritirati il lunedì 1 agosto 2016
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | Inglese | 1/8/2016
 
-* Corsi ritirati il 24 giugno 2016
+* Corsi ritirati il venerdì 24 giugno 2016
 
   [Scarica l’elenco completo dei corsi di e-learning programmati per il ritiro](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
@@ -886,7 +991,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | --- | --- | --- | --- | --- |
     | 20346 | D | Managing Office 365 Identities and Services | Inglese | 15/6/2016
 
-* Corsi ritirati il 18 aprile 2016
+* Corsi ritirati il lunedì 18 aprile 2016
 
     | Numero di corso | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -916,7 +1021,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
   [Scarica l’elenco completo di corsi con istruttore programmati per il ritiro](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
-* Corsi ritirati il 31 agosto 2015
+* Corsi ritirati il lunedì 31 agosto 2015
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -946,14 +1051,14 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | Inglese | 31/1/2015
     | 10778 | A | Implementing Data Models and Reports with Microsoft SQL Server 2012 | Inglese | 31/1/2015
 
-* Corsi ritirati il 31 ottobre 2014
+* Corsi ritirati il venerdì 31 ottobre 2014
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 10750 | A | Monitoring and Operating a Private Cloud with System Center 2012 | Inglese | 31/10/2014
     | 10751 | A | Configuring and Deploying a Private Cloud with System Center 2012 | Inglese | 31/10/2014
 
-* Corsi ritirati il 25 agosto 2014
+* Corsi ritirati il lunedì 25 agosto 2014
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -1004,7 +1109,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | 40005 | B | First Look Clinic: Windows Server 2012 | Inglese | 31/12/2013
     | 40006 | B | Hands On Lab: Windows Server 2012 | Inglese | 31/12/2013
 
-* Corsi ritirati il 30 settembre 2013
+* Corsi ritirati il lunedì 30 settembre 2013
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
@@ -1026,7 +1131,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
 ## Corsi ritirati: Corsi online
 
-* Corsi ritirati il 29 dicembre 2017
+* Corsi ritirati il venerdì 29 dicembre 2017
 
   * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Scarica l’elenco completo di corsi di e-learning MSIA programmati per il ritiro](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
@@ -1037,7 +1142,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
     | --- | --- | --- | --- |
     | 47003 | Windows Server 2012 Jumpstart | Inglese | 15/8/2017 |
 
-* Corsi ritirati il 30 giugno 2017
+* Corsi ritirati il venerdì 30 giugno 2017
 
   * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Scarica l'elenco completo di corsi di e-learning MSIA programmati per il ritiro](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)

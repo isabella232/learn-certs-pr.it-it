@@ -2,19 +2,18 @@
 title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
 description: 'Microsoft Learning Partners and Providers'
 documentationcenter: NA
-author: micsullivan
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
-ms.prod: non-product-specific
+ms.author: micsullivan
 ---
 # Microsoft Learning Partners: Insegnare oggi le competenze di domani.
 
 ![Microsoft Learning Partners banner](images/partners-banner.jpg "Microsoft Learning Partners banner")
 
-Se sei un singolo che cerca di sviluppare le sue competenze per avere un nuovo ruolo o se sei un manager che ha bisogno di incoraggiare le competenze del tuo team in cloud, Microsoft Learning Partner offre un'ampia varietà di soluzioni formative che soddisfino i tuoi bisogni formativi, incluse formazioni miste, di persona e on-line. Perfeziona le tue competenze tecniche con soluzioni formative approfondite che combinano video, laboratori pratici e Microsoft
+Se sei un singolo che cerca di sviluppare le sue competenze per avere un nuovo ruolo o se sei un manager che ha bisogno di incoraggiare le competenze del tuo team in cloud, Microsoft Learning Partner offre un'ampia varietà di soluzioni formative che soddisfino i tuoi bisogni formativi, incluse formazioni miste, di persona e on-line. Perfeziona le tue competenze tecniche con soluzioni formative approfondite che combinano video, laboratori pratici e la preparazione per la Certificazione Microsoft ti aiuterà a portare le tue capacità tecnologiche al livello successivo.
 
 ## Trova un Microsoft Learning Partner per nazione
 
@@ -22,90 +21,90 @@ La nostra rete mondiale di partner fornisce formazione e certificazioni Microsof
 
 Seleziona una nazione:
 > [!div class="op_single_selector"]
-> - [Stati Uniti d'America](#united-states-of-america)
+> - [United States of America](#united-states-of-america)
 > - [Albanie](#albania)
 > - [Angola](#angola)
 > - [Argentine](#argentina)
 > - [Australie](#australia)
 > - [Autriche](#austria)
-> - [Azerbaïdjan](#azerbaijan)
-> - [Bahreïn](#bahrain)
+> - [Azerbaijan](#azerbaijan)
+> - [Bahrain](#bahrain)
 > - [Bangladesh](#bangladesh)
-> - [Biélorussie](#belarus)
-> - [Belgique](#belgium)
-> - [Bosnie-Herzégovine](#bosnia-and-herzegovina)
-> - [Brésil](#brazil)
-> - [Bulgarie](#bulgaria)
-> - [Cap-Vert](#cabo-verde)
+> - [Belarus](#belarus)
+> - [Belgium](#belgium)
+> - [Bosnia and Herzegovina](#bosnia-and-herzegovina)
+> - [Brazil](#brazil)
+> - [Bulgaria](#bulgaria)
+> - [Cabo Verde](#cabo-verde)
 > - [Canada](#canada)
-> - [Chili](#chile)
-> - [Chine](#china)
-> - [Colombie](#colombia)
+> - [Chile](#chile)
+> - [China](#china)
+> - [Colombia](#colombia)
 > - [Costa Rica](#costa-rica)
-> - [Croatie](#croatia)
-> - [République Tchèque](#czech-republic)
-> - [Danemark](#denmark)
-> - [République Dominicaine](#dominican-republic)
-> - [Équateur](#ecuador)
-> - [Égypte](#egypt)
-> - [Estonie](#estonia)
-> - [Finlande](#finland)
+> - [Croatia](#croatia)
+> - [Czech Republic](#czech-republic)
+> - [Denmark](#denmark)
+> - [Dominican Republic](#dominican-republic)
+> - [Ecuador](#ecuador)
+> - [Egypt](#egypt)
+> - [Estonia](#estonia)
+> - [Finland](#finland)
 > - [France](#france)
 > - [Allemagne](#germany)
-> - [Grèce](#greece)
+> - [Greece](#greece)
 > - [Hong Kong](#hong-kong)
-> - [Hongrie](#hungary)
-> - [Islande](#iceland)
-> - [Inde](#india)
-> - [Indonésie](#indonesia)
+> - [Hungary](#hungary)
+> - [Iceland](#iceland)
+> - [India](#india)
+> - [Indonesia](#indonesia)
 > - [Irlande](#ireland)
-> - [Israël](#israel)
-> - [Italie](#italy)
-> - [Japon](#japan)
-> - [Kazakhstan](#kazakhstan)
-> - [Corée](#korea)
+> - [Israel](#israel)
+> - [Italy](#italy)
+> - [Japan](#japan)
+> - [Kazakhstan ](#kazakhstan)
+> - [Korea](#korea)
 > - [Kosovo](#kosovo)
-> - [Koweït](#kuwait)
-> - [Liban](#lebanon)
-> - [Macao](#macau)
-> - [Macédoine](#macedonia)
-> - [Malaisie](#malaysia)
-> - [Mexique](#mexico)
-> - [Maroc](#morocco)
-> - [Namibie](#namibia)
-> - [Népal](#nepal)
-> - [Pays-Bas](#netherlands)
-> - [Nouvelle-Zélande](#new-zealand)
+> - [Kuwait](#kuwait)
+> - [Lebanon](#lebanon)
+> - [Macau](#macau)
+> - [Macedonia](#macedonia)
+> - [Malaysia](#malaysia)
+> - [Mexico](#mexico)
+> - [Morocco](#morocco)
+> - [Namibia](#namibia)
+> - [Nepal](#nepal)
+> - [Netherlands](#netherlands)
+> - [New Zealand](#new-zealand)
 > - [Nicaragua](#nicaragua)
-> - [Norvège](#norway)
+> - [Norway](#norway)
 > - [Oman](#oman)
 > - [Panama](#panama)
-> - [Pérou](#peru)
+> - [Peru](#peru)
 > - [Philippines](#philippines)
-> - [Pologne](#poland)
+> - [Poland](#poland)
 > - [Portugal](#portugal)
-> - [Porto Rico](#puerto-rico)
+> - [Puerto Rico](#puerto-rico)
 > - [Qatar](#qatar)
-> - [Roumanie](#romania)
-> - [Russie](#russia)
-> - [Arabie Saoudite](#saudi-arabia)
-> - [Serbie](#serbia)
-> - [Singapour](#singapore)
-> - [Slovaquie](#slovakia)
+> - [Romania](#romania)
+> - [Russia](#russia)
+> - [Saudi Arabia](#saudi-arabia)
+> - [Serbia](#serbia)
+> - [Singapore](#singapore)
+> - [Slovakia](#slovakia)
 > - [Slovénie](#slovenia)
 > - [Afrique du Sud](#south-africa)
 > - [Espagne](#spain)
 > - [Sri Lanka](#sri-lanka)
 > - [Suède](#sweden)
 > - [Suisse](#switzerland)
-> - [Taïwan](#taiwan)
-> - [Thaïlande](#thailand)
+> - [Taiwan](#taiwan)
+> - [Thailand](#thailand)
 > - [Turquie](#turkey)
 > - [Ukraine](#ukraine)
 > - [Émirats Arabes Unis](#united-arab-emirates)
 > - [Royaume-Uni](#united-kingdom)
 > - [Uruguay](#uruguay)
-> - [Viêt-Nam](#vietnam)
+> - [Vietnam](#vietnam)
 
 </br>
 
@@ -133,11 +132,11 @@ Seleziona una nazione:
 |-----------|
 | [EGOS THE EDUCATION COMPANY](https://www.egos.co.at/msrolebased)</br>[ETC - Enterprise Training Center](http://thellpa.com/members/etc/microsoft)</br>[Firebrand Training Limited](https://firebrand.training/at/courses/microsoft)</br>[ITLS Training und Consulting GmbH](https://www.itls.at/microsoft)</br>[New Horizons Hamburg GmbH](https://www.newhorizons.com/mspartner)</br>[ppedv AG](https://ppedv.at)</br>[Tech Data Corporation](https://academy.techdata.com/de/vendor/microsoft/training/) |
 
-| <a name="azerbaijan"></a>Azerbaïdjan |
+| <a name="azerbaijan"></a>Azerbaijan |
 |-----------|
 | [Fast Lane Russia](https://www.flane.ru/microsoft) |
 
-| <a name="bahrain"></a>Bahreïn |
+| <a name="bahrain"></a>Bahrain |
 |-----------|
 | [Thinksmart for Training and Development W.L.L.](http://thinksmart.bh/all_programs?cat=Forsati) |
 
@@ -257,7 +256,7 @@ Seleziona una nazione:
 |-----------|
 | [Global Knowledge](https://www.globalknowledge.com/en-ie/training/courses/technology-providers/microsoft?OrderBy=ASC&PerPage=20&Page=1&Classes=&Keyword=&CurrentItemId=%7B4567342A-4F50-4FDE-99C2-5C7F608CB4ED%7D)</br>[New Horizons Ireland](https://www.newhorizons.com/mspartner)</br>[Tech Data Corporation](https://academy.techdata.com/uk/vendor/microsoft/training/) |
 
-| <a name="israel"></a> Israël |
+| <a name="israel"></a>Israel |
 |-----------|
 | [Carmel Training Ltd.](https://www.ctraining.co.il/)</br>[John Bryce](https://www.johnbryce.co.il/content/microsoft-azure-training)</br>[SELA Group](http://www.selagroup.com/mscourses/list) |
 
@@ -265,7 +264,7 @@ Seleziona una nazione:
 |-----------|
 | [Fast Lane – GKI S.r.l](https://www.flane.it/microsoft)</br>[PCSNET](https://www.pcsnet.it/categoria/60/azure)</br>[Tech Data Corporation](https://academy.techdata.com/it/vendor/microsoft/training/)</br>[PIPELINE COURSEWARE & SOFTWARE HOUSE SRL](http://thellpa.com/members/pipeline/microsoft)</br>[R&S Management Academy](https://www.rsmanagement.it/catalogo-corsi/) |
 
-| <a name="japan"></a>Japon |
+| <a name="japan"></a>Japan |
 |-----------|
 | [NECマネジメントパートナー株式会社](https://www.neclearning.jp/co_recommend/mcp_qualification_training.html)</br>[エディフィストラーニング株式会社](https://www.edifist.co.jp/it/class/microsoft_training/)</br>[トレノケート株式会社](https://www.trainocate.co.jp/reference/ms/index.html)</br>[株式会社ISA](https://www.isa-school.net/seminar/cpls.html)</br>[株式会社富士通ラーニングメディア](https://www.knowledgewing.com/kw/shikaku_nintei/sikaku/msu.html) |
 
@@ -281,7 +280,7 @@ Seleziona una nazione:
 |-----------|
 | [Semos Education](http://thellpa.com/members/semos/microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
 
-| <a name="kuwait"></a>Koweït |
+| <a name="kuwait"></a>Kuwait |
 |-----------|
 | [New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner) |
 
@@ -305,7 +304,7 @@ Seleziona una nazione:
 |-----------|
 | [CompuEducacion](http://thellpa.com/members/computeducacion/microsoft)   </br>[Executrain Capacitación Profesional de Informática, SA de CV](https://www.executrain.com.mx/cursos/microsoft)   </br>[Fast Lane LATAM](https://www.flane.com.pa/microsoft)   </br>[Mentori Learning Center](http://www.mentori.mx/cursos-microsoft/)   </br>[Net Capacitaciones, S.A. de C.V.](http://www.ked.com.mx/Paginas/Microsoft.aspx)   </br>[NETEC Digital](https://www.netec-microsoft.com/)   </br>[Tech Data Academy](https://academy.techdata.com/mx/vendor/microsoft/training/) |
 
-| <a name="morocco"></a>Maroc |
+| <a name="morocco"></a>Morocco |
 |-----------|
 | [Dyn IT Maroc](https://azureacademy.ma/guide-azure-solutions) |
 
@@ -413,11 +412,11 @@ Seleziona una nazione:
 |-----------|
 | [Addon Schweiz AG](https://www.addon.de/ch/training/seminar/microsoft)   </br>[Digicomp Academy AG](https://www.digicomp.ch/courses/trainings-for-it-professionals/microsoft)   </br>[Fast Lane Institute for Knowledge Transfer (Switzerland) AG](https://www.flane.ch/microsoft)   </br>[Firebrand Training Limited](https://firebrand.training/ch/courses/microsoft)   </br>  [Microwin AG](https://www.microwin.com/pages/microsoft.aspx)</br>[New Horizons Training (Schweiz) AG](https://www.newhorizons.com/mspartner)   </br>[Tech Data Corporation](https://academy.techdata.com/ch/vendor/microsoft/training/) |
 
-| <a name="taiwan"></a>Taïwan |
+| <a name="taiwan"></a>Taiwan |
 |-----------|
 | [BestCom Infotech Corporation](https://www.bestcom.com.tw/content.aspx?CH_ID=803&RID=)   </br>[Systex](https://www.uuu.com.tw/Course/Partner/Microsoft微軟/系列課程Courses)   </br>[Trainocate](https://www.trainocate.com.tw/microsoft.html) |
 
-| <a name="thailand"></a>Thaïlande |
+| <a name="thailand"></a>Thailand |
 |-----------|
 | [Trainocate](https://trainocate.com/courses/Microsoft) |
 
@@ -429,7 +428,7 @@ Seleziona una nazione:
 |-----------|
 | [Fast Lane Ukraine](https://www.flane.com.ua/microsoft)   </br>[Techexpert](https://nt.ua/tag/microsoft) |
 
-| <a name="united-arab-emirates"></a> Émirats Arabes Unis |
+| <a name="united-arab-emirates"></a>Émirats Arabes Unis |
 |-----------|
 | [Exceed IT Services](https://www.exceeders.com/azure-training)   </br>[Firebrand Training Limited](https://firebrand.training/ae/courses/microsoft)   </br>[Global Knowledge](https://www.globalknowledge.com/en-ae/training/courses/technology-providers/microsoft?OrderBy=ASC&PerPage=20&Page=1&Classes=&Keyword=&CurrentItemId=%7B4567342A-4F50-4FDE-99C2-5C7F608CB4ED%7D)   </br>[IT Learning Solutions Training Services](https://www.itls.ae/microsoft)   </br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)   </br>[New Horizons Computer Learning Center](https://www.newhorizons.com/mspartner)   </br>[Spectrum Networks DMCC](http://specnt.com/) |
 
@@ -441,18 +440,20 @@ Seleziona una nazione:
 |-----------|
 | [IT College S.A.](http://thellpa.com/members/itcollege/microsoft) |
 
-| <a name="vietnam"></a>Viêt-Nam |
+| <a name="vietnam"></a>Vietnam |
 |-----------|
 | [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
+
 
 ## Esamina oltre 1000 fornitori di soluzioni
 
 > [!div class="nextstepaction"]
 > [TROVA UN FORNITORE DI SOLUZIONI MICROSOFT](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
+
 ## Benefici per i professionisti e gli sviluppatori informatici
 
-**Impara una nuova tecnologia**. Con un solo corso, puoi sviluppare competenze pratiche che coprono il ciclo vitale dell’adozione della tecnologia, dalla pianificazione al supporto. E guadagni un livello di competenza che può essere appresa soltanto con esercizi pratici, simulazioni e applicazione delle competenze nel mondo reale. </br ></br> **Preparazione per la certificazione**. [Le certificazioni Microsoft](https://www.microsoft.com/learning/certification-overview.aspx) sono disponibili per le tecnologie di base di Microsoft e per i livelli di competenza. Microsoft Official Courses sono costruiti a misura della certificazione Microsoft e sono tenuti da istruttori qualificati del settore.</br ></br>**Inizia una nuova carriera**. Gli istruttori del settore che insegnano ai corsi ufficiali Microsoft possono aiutarti ad acquisire competenze informatiche che puoi trasferire direttamente dall’aula al posto di lavoro. I corsi offrono l’accesso a valide risorse digitali che rimangono disponibili per te dopo aver completato un corso.</br ></br> I professionisti che in passato hanno seguito la formazione informatica o relativa al business hanno guadagnato in media circa $ 3.400 di più di chi non l’ha fatto. (Global Knowledge, *Competenze informatiche e indagine sullo stipendio*, marzo 2011)
+**Impara una nuova tecnologia**. Con un solo corso, puoi sviluppare competenze pratiche che coprono il ciclo vitale dell’adozione della tecnologia, dalla pianificazione al supporto. E guadagni un livello di competenza che può essere appresa soltanto con esercizi pratici, simulazioni e applicazione delle competenze nel mondo reale. </br ></br> **Preparazione per la certificazione**. [Certificazioni Microsoft](https://www.microsoft.com/learning/certification-overview.aspx) sono disponibili per le tecnologie di base di Microsoft e per i livelli di competenza. Microsoft Official Courses sono costruiti a misura della certificazione Microsoft e sono tenuti da istruttori qualificati del settore.</br ></br>**Inizia una nuova carriera**. Gli istruttori del settore che insegnano ai corsi ufficiali Microsoft possono aiutarti ad acquisire competenze informatiche che puoi trasferire direttamente dall’aula al posto di lavoro. I corsi offrono l’accesso a valide risorse digitali che rimangono disponibili per te dopo aver completato un corso.</br ></br> I professionisti che in passato hanno seguito la formazione informatica o relativa al business hanno guadagnato in media circa $ 3.400 di più di chi non l’ha fatto. (Global Knowledge, *Competenze informatiche e indagine sullo stipendio*, marzo 2011)
 
 ## Benefici per i manager informatici
 

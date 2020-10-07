@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Microsoft Power Platform App Maker
+metadata:
+  title: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+  description: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+uid: course.pl-100t00
+courseNumber: 'PL-100T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Progettare app e automatizzare i flussi di lavoro
+- skill: Creare app e automatizzare i flussi di lavoro
+- skill: Analizzare e visualizzare i dati nel contesto di un'app o di un flusso di lavoro automatizzato
+- skill: Implementare e gestire app e flussi di lavoro automatizzati
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-100
+summary: |-
+  Questo corso ti insegnerà come creare app con tecniche low-code per semplificare, automatizzare e trasformare attività e processi aziendali utilizzando Microsoft Power Platform.
+
+  #### Profilo dei destinatari
+  L'App Maker crea soluzioni per semplificare, automatizzare e trasformare attività e processi per sé stesso e il suo team dove ha una profonda esperienza nel campo della soluzione. Dispone competenze di modellazione dei dati di base, della progettazione dell'esperienza utente, dell'analisi dei requisiti e delle capacità di analisi dei processi. L'App Maker crea e applica processi aziendali, struttura la raccolta digitale di informazioni, migliora l'efficienza delle attività ripetibili e automatizza i processi aziendali. L'App Maker utilizza gli strumenti di creazione di Power Platform per risolvere i problemi aziendali. Può utilizzare funzionalità avanzate di app Microsoft e strumenti di produttività di terzi. L'App Maker è a conoscenza delle capacità e dei limiti degli strumenti disponibili e sa come applicarli. L'App Maker è autonomo ed è focalizzato sulla soluzione. Potrebbe non avere una preparazione IT formale ma è a suo agio nell'usare la tecnologia per risolvere i problemi aziendali con una mentalità di crescita personale. Conosce le necessità operative e ha una visione del risultato desiderato. Affrontano i problemi con strategie graduali e iterative.
+prerequisitesSection: |-
+  - Modellazione dei dati di base, progettazione dell'esperienza utente, analisi dei requisiti e capacità di analisi dei processi.
+  - Una mentalità di crescita personale e l’essere a proprio agio nell'utilizzare la tecnologia per risolvere i problemi aziendali.
+  - Una comprensione delle necessità operative con una visione del risultato desiderato. Affrontano i problemi con strategie graduali e iterative.
+outlineSection: |-
+  ### Modulo 1&#58; Creare un’applicazione basata su modelli in Power Apps
+  In questo modulo viene illustrata la creazione di un'applicazione basata su modelli in Power Apps che utilizza Common Data Service.
+
+  ### Modulo 2&#58; Creare un’app canvas in Power Apps
+  Questo modulo ti presenta Power Apps, ti aiuta a creare e personalizzare un'app e quindi a gestirla e distribuirla.
+
+  ### Modulo 3&#58; Utilizzare l'interfaccia utente e i controlli in un'app canvas in Power Apps
+  Questo modulo si concentrerà su come fornire la migliore navigazione delle app e costruire la migliore interfaccia utente utilizzando temi, icone, immagini, personalizzazione, diversi fattori di forma e controlli.
+
+  ### Modulo 4&#58; Automatizzare un processo di business utilizzando Power Automate
+  Questo modulo ti presenta Power Automate, ti insegna come creare flussi di lavoro e come amministrare i flussi.
+
+  ### Modulo 5&#58; Creare e utilizzare reporting Power BI
+  Imparare cos'è Power BI, inclusi i suoi componenti e come questi funzionino insieme.
+
+  ### Modulo 6&#58; Introduzione preliminare ad AI Builder
+  Questo modulo consente di creare un modello di intelligenza artificiale fin dall'inizio e mostra come sia possibile utilizzarlo nella propria azienda senza scrivere una singola riga di codice.
+

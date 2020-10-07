@@ -3,23 +3,21 @@ title: Microsoft 365 Fundamentals
 metadata:
   title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
   description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
-  iltScheduling: true
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Differenziare tra i vari modelli di servizio di cloud.
-- skill: Identificare le differenze chiave tra Microsoft 365 e Office 365.
+- skill: Differenziare tra i vari modelli di servizio cloud.
+- skill: Identificare le differenze chiave tra gli abbonamenti Microsoft 365.
 - skill: Pianificare la migrazione ai servizi Microsoft 365.
-- skill: Identificare le differenze chiave tra i servizi in loco di Microsoft e i servizi cloud di Microsoft 365.
-- skill: Definire la mobilità aziendale in Microsoft 365.
+- skill: Identificare le differenze chiave tra i servizi locali Microsoft e i servizi cloud Microsoft 365.
 - skill: Identificare come i servizi Microsoft 365 supportano il lavoro di squadra.
-- skill: Descrivere le identità tra cui le identità ibride, locali e di cloud.
+- skill: Descrivere le identità, tra cui cloud, locali e ibride.
 - skill: Descrivere la gestione e la protezione dei dispositivi cloud, compreso l'uso di Intune.
-- skill: Descrivere la protezione dei dati, compreso l'uso della protezione delle informazioni di Azure
-- skill: Descrivere la conformità in generale e le caratteristiche di conformità in Microsoft 365.
-- skill: Descrivere gli abbonamenti, le licenze, la fatturazione e il supporto di Microsoft 365.
+- skill: Descrivere la protezione dei dati, compreso l'utilizzo di Azure Information Protection.
+- skill: Descrivere la conformità in generale e le funzioni di conformità in Microsoft 365.
+- skill: Descrivere gli abbonamenti, le licenze, la fatturazione e il supporto Microsoft 365
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,6 +26,7 @@ levels:
 roles:
 - business-user
 - administrator
+- maker
 products:
 - m365
 - windows
@@ -35,65 +34,56 @@ products:
 exams:
 - uid: exam.ms-900
 summary: |-
-  Questo corso fornisce conoscenze fondamentali sulle considerazioni e i vantaggi dell'adozione dei servizi cloud e del modello cloud Software as a Service (SaaS), con un focus specifico sulle offerte di servizi cloud di Microsoft 365. Si inizierà con l'apprendere i fondamenti del cloud computing, compresa una panoramica del cloud computing e in particolare dei servizi cloud di Microsoft. Verrete introdotti a Microsoft Azure ed esaminerete le differenze tra Microsoft 365 e Office 365. Eseguirete quindi un esame approfondito di Microsoft 365, compreso un confronto tra i servizi locali di Microsoft e i servizi cloud di Microsoft 365, un esame della mobilità aziendale in Microsoft 365 e un'analisi del modo in cui i servizi Microsoft 365 offrono la collaborazione. Il corso analizza poi come vengono gestite la sicurezza, la conformità, la privacy e la fiducia in Microsoft 365 e si conclude con una revisione degli abbonamenti, delle licenze, della fatturazione e del supporto di Microsoft 365.
+  Questo corso fornisce le conoscenze di base sulle considerazioni e i vantaggi dell'adozione dei servizi cloud e del modello cloud Software as a Service (SaaS), con particolare attenzione alle offerte di servizi cloud Microsoft 365. Inizierai imparando le nozioni fondamentali del cloud, tra cui una panoramica del cloud computing e in particolare dei servizi cloud Microsoft. Ti verrà presentato Microsoft Azure ed esaminerai le differenze tra Microsoft 365 e Office 365. Eseguirai quindi una revisione approfondita di Microsoft 365, incluso un confronto tra i servizi locali Microsoft e i servizi cloud Microsoft 365, una revisione della mobilità aziendale in Microsoft 365 e un'analisi di come i servizi Microsoft 365 forniscano collaborazione. Il corso analizza quindi come vengono gestiti la sicurezza, la conformità, la privacy e la fiducia in Microsoft 365 e si conclude con una revisione degli abbonamenti, delle licenze, della fatturazione e del supporto Microsoft 365.
 
   #### Profilo dei destinatari
-  Questo corso è pensato per i professionisti IT che aspirano a implementare e gestire servizi cloud nella loro organizzazione, o che cercano semplicemente di acquisire conoscenze fondamentali sui fondamenti del cloud. Ciò include le considerazioni e i vantaggi dell'adozione dei servizi cloud e del modello cloud Software as a Service (SaaS), con un focus specifico sulle offerte di servizi di cloud di Microsoft 365.
+  Questo corso è rivolto ai Business Decision Maker e ai Professionisti IT che aspirano a implementare servizi cloud nella loro organizzazione o che stanno semplicemente cercando di acquisire conoscenze fondamentali sul cloud. Sono incluse le conoscenze di base sulle considerazioni e i vantaggi dell'adozione dei servizi cloud e del modello cloud Software as a Service (SaaS), con particolare attenzione alle offerte di servizi cloud Microsoft 365.
 prerequisitesSection: |-
-  Questo corso è stato progettato per i professionisti IT che aspirano a implementare e a gestire servizi di cloud nella loro
-  organizzazione. Gli studenti devono avere il seguente background&#58;
-  - Conoscenze generali di informatica o qualsiasi esperienza generale di lavoro in un ambiente informatico
-  - Esperienza generale (a livello di vendite) sui prodotti locali corrispondenti di Microsoft, come Exchange Server, SharePoint, Office Professional, AD RMS e altri.
-  - Esperienza nell'affrontare i requisiti di business, legali e di sicurezza per l'IT.
+  Questo corso è pensato per i Business Decision Maker e i professionisti IT che aspirano a implementare servizi cloud nella loro organizzazione. Gli studenti dovrebbero avere il seguente background&#58;
+  - Conoscenza generale dei concetti di networking, computing e cloud
 outlineSection: |-
   ### Modulo 1&#58; Concetti del Cloud
-  #### Lezioni
+  Analizzare i concetti fondamentali del cloud computing e come ciò possa aiutare la tua azienda.
+  #### Lezioni 
   - Principi del cloud computing
-  - Servizi di cloud di Microsoft
-  - Migrazione ai servizi di cloud
+  - Cos’è Microsoft 365?
+  - Selezionare una distribuzione cloud
 
 
-  #### Laboratorio &#58; Cloud Fundamentals
-  - Esercizio 1&#58; Determinare il modello di cloud appropriato (laboratorio cartaceo)
+  ### Modulo 2&#58; Soluzioni Microsoft 365 per la produttività e il lavoro di squadra
+  Scoprirai le soluzioni di produttività e lavoro di squadra in Microsoft 365 e le funzionalità che aiutano le persone a essere più produttive utilizzando Microsoft 365 - The World' s Productivity Cloud.
+  #### Lezioni 
+  - Soluzioni Microsoft 365 per la produttività e il lavoro di squadra
+  - Coinvolgere i dipendenti con Microsoft Stream, Teams e Yammer
+  - Ottenere maggiori informazioni con Office su tutti i dispositivi
+  - Archiviazione e condivisione di file con OneDrive e SharePoint
 
 
-  ### Modulo 2&#58; Servizi principali di Microsoft 365
-  #### Lezioni
-  - Servizi principali di Microsoft 365
-  - Servizi locali di Microsoft e servizi di cloud in Microsoft 365
-  - Gestione unificata degli endpoint in Microsoft 365
-  - Teamwork in Microsoft 365
+  ### Modulo 3&#58; Capacità di gestione commerciale di Microsoft 365
+  Scoprirai le soluzioni di gestione commerciale di Microsoft 365 e le funzionalità che aiutano le Organizzazioni a essere più produttive utilizzando Microsoft 365 - The World' s Productivity Cloud.
+  #### Lezioni 
+  - Gestire la tua attività con Microsoft 365
+  - Semplificare la gestione dei dispositivi con Microsoft Endpoint Manager
+  - Ottenere maggiori informazioni e rimanere al sicuro con Windows 10
+  - Sfruttare la business intelligence con analisi e reporting Microsoft 365
 
 
-  #### Laboratorio &#58; Abilitazione e configurazione di un tenant di Microsoft 365
-  - Esercizio 1&#58; Attivazione e configurazione di un tenant di Microsoft 365
-  - Esercizio 2&#58; Esplorazione del portale per utenti e amministratori di Microsoft 365
-  - Esercizio 3&#58; Configurazione di nuovi account utente e di gruppo
-
-
-  ### Modulo 3&#58; Conformità, privacy e affidabilità in Microsoft 365
-  #### Lezioni
-  - Nozioni di base della sicurezza organizzativa
-  - Caratteristiche della sicurezza in Microsoft 365
+  ### Modulo 4&#58; Sicurezza e compliance di Microsoft 365
+  Scoprirai le aree delle soluzioni di sicurezza e conformità di Microsoft 365 e le funzionalità disponibili per aiutare le aziende a proteggere la propria azienda e soddisfare i requisiti normativi.
+  #### Lezioni 
+  - Principi di sicurezza e aree di soluzione
   - Gestione dell'identità e degli accessi
-  - Protezione dei dispositivi e dei dati in Microsoft 365
-  - Conformità in Microsoft 365
+  - Protezione dalle minacce
+  - Sicurezza cloud
+  - Protezione delle informazioni e governance
+  - Compliance management
+  - Gestire il rischio, il discovery e l'audit
 
 
-  #### Laboratorio &#58; Sicurezza in Microsoft 365
-  - Esercizio 1&#58; Gestione degli utenti e dei dispositivi in Azure Active Directory
-  Esercizio 2&#58; Valutare la protezione dell'identità
-  Esercizio 3&#58; Esplorare gli strumenti per la conformità
-
-
-  ### Modulo 4&#58; Prezzi e assistenza di Microsoft 365
-  #### Lezioni
-  - Microsoft 365 Abbonamenti, licenze e fatturazione
-  - Supporto in Microsoft 365
-
-
-  #### Laboratorio &#58; Gestione abbonamenti, licenze e supporto in M365
-  - Esercizio 1&#58; Esplorare le interfacce per la fatturazione e gli abbonamenti
-  - Esercizio 2&#58; Aggiungere le licenze di prova al tenant
-  - Esercizio 3&#58; Rivedere le opzioni di supporto
+  ### Modulo 5&#58; Licenze e Supporto di Microsoft 365
+  Ulteriori informazioni sulle opzioni di licenza, servizio e supporto Microsoft 365.
+  #### Lezioni 
+  - Identificare le opzioni di licenza disponibili per Microsoft 365
+  - Descrivere le offerte di assistenza per i servizi Microsoft 365
+  - Descrivere il ciclo di vita del servizio in Microsoft 365
 

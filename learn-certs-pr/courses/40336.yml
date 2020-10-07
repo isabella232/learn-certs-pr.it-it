@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: 'First Look Clinic: Windows 10 for IT Professionals'
+metadata:
+  title: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+  description: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+uid: course.40336
+courseNumber: '40336-A'
+hoursToComplete: 12
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Elencare e illustrare le nuove funzionalità di Windows 10
+- skill: Comprendere appieno le funzionalità che sono disponibili ad oggi e in quale versione.
+- skill: Utilizzare e personalizzare la nuova interfaccia di Windows 10
+- skill: Illustrare i passaggi necessari per implementare e gestire Windows 10
+- skill: Comprendere le Scelte relative all'implementazione
+- skill: Comprendere le Opzioni di Gestione
+- skill: Comprendere le funzionalità generali di sicurezza di Windows 10
+- skill: Elencare le funzionalità di Device Guard
+- skill: Comprendere una metodologia per implementare Device Guard
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows
+summary: |-
+  La Microsoft First Look Clinic presenta le nuove funzionalità e potenzialità di Windows 10 ai professionisti dell'IT, utilizzando l'edizione Enterprise di Windows 10. Tratta anche gli ecosistemi chiave di Windows 10 relativi all'Identity Management, i servizi cloud, come Azure Active Directory (AAD), gli strumenti di implementazione/gestione e la nuova interfaccia. Nessuno di questi argomenti viene trattato in modo approfondito, ma, alla fine della formazione, i partecipanti conosceranno le nuove funzionalità e potenzialità di Windows 10, dei servizi correlati e degli strumenti di amministrazione.
+
+  #### Profilo dell'audience
+  La Clinic è destinata ai professionisti dell'IT interessati a conoscere le nuove caratteristiche e potenzialità di Windows 10. In generale, frequentando questa First Look Clinic, ne trarranno vantaggio coloro che vogliono adottare nuove tecnologie o che cercano di ottenere informazioni in anteprima sulle funzionalità di Windows 10, sui servizi e sugli strumenti cloud correlati. Possono partecipare a questa Clinic anche gli influencer tecnici di primo piano e i responsabili delle scelte tecnologiche in un'organizzazione IT che trarranno beneficio dall'acquisizione di informazioni in anteprima su alcune delle funzionalità e tecnologie più recenti all'interno di Windows 10.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione a Windows 10
+  Windows 10 è la versione più recente del sistema operativo client Windows. Include le stesse funzionalità di base di Windows 8.1, oltre a numerosi importanti potenziamenti e miglioramenti delle funzionalità che impattano direttamente sull'azienda, in particolare sulla sicurezza. Lo stile di Windows 10 soddisfa molteplici esigenze di lavoro e consente agli utenti di svolgere le loro attività in modo efficiente. Questo modulo presenta le nuove funzionalità chiave di Windows 10.
+  #### Lezioni
+  - Nuove funzionalità di Windows 10
+  - Funzionalità di Windows 10 non Disponibili con la Release Iniziale
+  - Esplorazione della nuova Interfaccia Utente (UI) di Windows 10
+  - Edizioni desktop e tablet di Windows 10
+  - Requisiti hardware di Windows 10
+
+  Dopo aver completato questa lezione, sarai in grado di&#58;
+  - Elencare e illustrare le nuove funzionalità di Windows 10.
+  - Elencare le funzionalità disponibili ad oggi e in quale versione.
+  - Utilizzare la nuova interfaccia utente in Windows 10.
+  - Elencare e descrivere i dispositivi su cui può essere installato Windows 10.
+  - Elencare i requisiti hardware di Windows 10.
+  - Illustrare le varie edizioni di Windows 10
+
+  ### Modulo 2&#58; Implementazione e gestione di Windows 10
+  La valutazione dei requisiti di implementazione di un'azienda inizia dalla conoscenza del suo ambiente hardware e infrastrutturale e con la verifica della capacità di tale hardware di supportare Windows 10 e le sue funzionalità ritenute importanti per l'azienda stessa. Il passaggio a Windows 10 nella maggior parte dei casi sarà molto semplice e richiederà dei minimi aggiornamenti di un eventuale processo di implementazione già esistente in azienda, sebbene ora saranno possibili più opzioni. La strategia consigliata è di implementare Windows 10 come piattaforma standard, poi, tramite Windows come Servizio, verranno rese disponibili nuove funzionalità. Passare a Windows 10, come accennato in precedenza, non sarà costoso o dispendioso in termini di tempo come l'aggiornamento da Windows XP a Windows 7. Nella maggior parte dei casi, l'hardware e il software esistenti saranno già compatibili con Windows 10. In questo modulo comprenderemo le potenzialità degli strumenti di gestione e implementazione per affrontare serenamente questa evoluzione.
+  #### Lezioni
+  - Implementare Windows 10
+  - Approvvigionamento di Windows 10
+  - Gestire Windows 10
+  - Supportare Windows 10
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Illustrare quanto necessario per implementare e gestire Windows 10
+  - Comprendere le scelte di implementazione
+  - Comprendere le opzioni di gestione
+
+
+  ### Modulo 3&#58; Funzionalità di sicurezza di Windows 10
+  Windows 10 è stato concepito per garantire una maggiore protezione dalle più recenti minacce alla sicurezza e per strutturare i nostri sforzi intorno ai seguenti pilastri; dispositivo/hardware sicuro, identità sicura, protezione delle informazioni e resistenza alle minacce.
+
+  In questo modulo presenteremo una panoramica sulle funzionalità di sicurezza di Windows 10 e approfondiremo gli aspetti di Device Guard.
+  #### Lezioni
+  - Panoramica sulla sicurezza di Windows 10
+  - Panoramica su Device Guard
+  - Integrità del codice configurabile
+  - Programmazione per Device Guard
+  - File Catalog di Device Guard
+  - Utilizzo di Device Guard
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Comprendere le funzionalità di sicurezza generali di Windows 10
+  - Comprendere le funzionalità di Device Guard
+
