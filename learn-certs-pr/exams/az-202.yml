@@ -39,7 +39,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi una sistemazione particolare
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: ../request-accommodations.md
 - title: Criteri degli esami e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
