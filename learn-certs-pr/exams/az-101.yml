@@ -54,7 +54,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi un alloggio
   description: Scopri come richiedere un alloggio per il tuo esame.
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: ../request-accommodations.md
 - title: Criteri dell'esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
