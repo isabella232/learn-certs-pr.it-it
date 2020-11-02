@@ -6,7 +6,7 @@ metadata:
 uid: exam.mo-101
 displayName: MO-101
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   In sede di esame verrà valutata la tua capacità di personalizzare gli ambienti Word per soddisfare le necessità di un progetto e migliorare la produttività. Esempi di documenti di livello Esperto includono piani aziendali, documenti di ricerca, un libro, una brochure specializzata e mailing di massa. I candidati devono dimostrare la corretta applicazione delle principali funzionalità di Word a livello di esperti e completare le attività in modo indipendente.
 subTitle: Questo esame misura la tua capacità di creare e gestire documenti professionali per più situazioni e scopi specifici. In sede di esame verrà valutata la tua capacità di personalizzare gli ambienti Word per soddisfare le necessità di un progetto e migliorare la produttività. Esempi di documenti di livello Esperto includono piani aziendali, documenti di ricerca, un libro, una brochure specializzata e mailing di massa.
@@ -18,15 +18,17 @@ providers:
 locales:
 - en
 - es-mx
+- fr
+- de
 levels:
 - intermediate
 skills:
-- Gestire le opzioni e le impostazioni dei documenti
+- Gestire le opzioni e le impostazioni del documento
 - Usare le funzionalità di modifica e formattazione avanzate
 - Creare elementi personalizzati per i documenti
 - Usare le funzionalità avanzate di Word
 roles:
-- developer
+- business-user
 products:
 - office
 - office-word
@@ -35,15 +37,15 @@ relatedCertifications:
     uid: certification.mos-word-expert-2019
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

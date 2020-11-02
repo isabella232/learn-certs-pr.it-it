@@ -5,12 +5,18 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Word 2016 Expert'
 uid: certification.mos-word-2016-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Questa certificazione ti permette di ottenere una certificazione Microsoft Office Specialist Expert e di dimostrare così che possiedi competenze avanzate nell’uso dei programmi principali di Office.
-subTitle: Questa certificazione ti permette di ottenere una certificazione Microsoft Office Specialist Expert e di dimostrare così che possiedi competenze avanzate nell’uso dei programmi principali di Office.
+summary: |-
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  Dimostra che hai le competenze avanzate di Word 2016 ottenendo una certificazione Microsoft Office Specialist Expert. I candidati di livello Expert idonei per questa certificazione devono sapere utilizzare le funzionalità avanzate di Word 2016 per gestire i documenti e contenuti nonché per la formattazione avanzata.
+subTitle: Questa certificazione dimostra che possiedi competenze avanzate nei programmi fondamentali di Office ottenendo una certificazione Microsoft Office Specialist Expert.
 levels:
 - advanced
 skills:
-- nessuna
+- Gestire le opzioni e le impostazioni dei documenti
+- Progettare documenti avanzati
+- Creare riferimenti avanzati
+- Creare elementi Word personalizzati
 roles:
 - business-user
 type: mos
@@ -20,14 +26,15 @@ exams:
 - uid: exam.77-726
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

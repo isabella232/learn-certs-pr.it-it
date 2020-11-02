@@ -2,20 +2,18 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: Questa certificazione sarà disponibile dal 25 settembre 2020 o intorno a tale data. I candidati per Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform.
+  description: I candidati a Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform.
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
 
-  I candidati per Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform. Implementano componenti della soluzione che comprendono l’aumento delle applicazioni, esperienza dell’utente personalizzata, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
+  I candidati a Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform. Implementano componenti della soluzione che comprendono aumento delle applicazioni, esperienza dell’utente personalizzata, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
 
-  I candidati devono avere una solida conoscenza applicata dei servizi Power Platform. I candidati hanno una comprensione approfondita delle loro capacità, confini e vincoli. Devono avere una comprensione di base delle prassi delle soluzioni DevOps per Power Platform.
+  I candidati devono avere una solida conoscenza applicata dei servizi Power Platform. I candidati hanno una comprensione approfondita delle loro capacità, dei loro confini e vincoli. Devono avere una comprensione di base delle prassi delle soluzioni DevOps per Power Platform.
 
   La loro esperienza nello sviluppo per questo ruolo deve comprendere i servizi Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET e Power BI.
-
-  <div><br/><strong>Nota&#58; Questa certificazione sarà disponibile dal 25 settembre 2020 o intorno a tale data.</strong></div>
-subTitle: Questa certificazione sarà disponibile dal 25 settembre 2020 o intorno a tale data. I candidati per Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform.
+subTitle: I candidati a Microsoft Power Platform Developer Associate progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform.
 levels:
 - intermediate
 skills:
@@ -23,7 +21,7 @@ skills:
 - Configurare Common Data Service
 - Creare e configurare Power Apps
 - Configurare l’automazione dei processi aziendali
-- Estendere l’esperienza utente
+- Accrescere l'esperienza degli utenti
 - Estendere la piattaforma
 - Sviluppare integrazioni
 roles:
@@ -33,26 +31,36 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
 exams:
 - uid: exam.pl-400
 resources:
 - title: Poster di certificazione
-  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Viaggio verso la certificazione
-  description: Scoprire i passaggi per ottenere la certificazione e le risorse disponibili per aiutare a prepararsi.
+  description: Consulta i passaggi per ottenere la certificazione e le risorse disponibili per aiutarti nella preparazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 

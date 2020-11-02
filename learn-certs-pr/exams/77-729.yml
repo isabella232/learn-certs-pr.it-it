@@ -5,15 +5,15 @@ metadata:
   description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: |+
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  I candidati idonei dovranno conoscere i concetti di base dell'ambiente PowerPoint e dimostrare di sapere applicare correttamente PowerPoint 2016. Ai candidati viene chiesto di creare, modificare e migliorare le presentazioni. Esempi di presentazioni includono presentazioni professionali per le vendite, formazione dei dipendenti, materiale didattico e presentazioni per punti informativi.
+  I candidati ideali dovranno possedere una comprensione di base dell'ambiente PowerPoint e dimostrare la corretta applicazione di PowerPoint 2016. Ai candidati viene chiesto di creare, modificare e migliorare le presentazioni. Esempi di presentazioni sono le presentazioni professionali per le vendite, formazione dei dipendenti, materiale didattico e presentazioni per punti informativi.
 
-  Negli esami di certificazione Microsoft Office Specialist (MOS) 2016 è stato introdotto un nuovo formato basato sulle prestazioni che permette di valutare meglio le conoscenze, le competenze e le capacità del candidato relativamente ai programmi MOS 2016&#58;
-  - le istruzioni per l’esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò significa che i candidati devono capire l'obiettivo e il normale utilizzo della funzionalità del programma per poter portare a termine le attività di ciascun progetto.
+  Negli esami di certificazione Microsoft Office Specialist (MOS) 2016 è stato introdotto un nuovo formato basato sulle prestazioni che permette di valutare meglio le conoscenze, le competenze e le capacità del candidato relativamente ai programmi MOS 2016:
+  - le istruzioni per l’esame MOS 2016, come nelle versioni precedenti, solitamente non includono il nome del comando. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò significa che i candidati devono capire l'obiettivo e il normale utilizzo della funzionalità del programma per poter portare a termine le attività di ciascun progetto.
   - Il formato dell'esame MOS 2016 include più progetti.
-subTitle: I candidati idonei dovranno conoscere i concetti di base dell'ambiente PowerPoint e dimostrare di sapere applicare correttamente PowerPoint 2016. Ai candidati viene chiesto di creare, modificare e migliorare le presentazioni. Esempi di presentazioni includono presentazioni professionali per le vendite, formazione dei dipendenti, materiale didattico e presentazioni per punti informativi.
+subTitle: I candidati idonei dovranno conoscere i concetti di base dell'ambiente PowerPoint e dimostrare di sapere applicare correttamente PowerPoint 2016. Ai candidati viene chiesto di creare, modificare e migliorare le presentazioni. Esempi di presentazioni sono le presentazioni professionali per le vendite, formazione dei dipendenti, materiale didattico e presentazioni per punti informativi.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
 providers:
@@ -43,27 +43,29 @@ levels:
 skills:
 - Creare e gestire presentazioni (30-35%)
 - Inserire e formattare testo, forme e immagini (20-25%)
-- Inserire tabelle, grafici, SmartArt e contenuti multimediali (20-25%)
+- Inserire tabelle, grafici, SmartArt e supporti (20-25%)
 - Applicare transizioni e animazioni (10-15%)
-- Gestire presentazioni multiple (5-10%)
+- Gestire più presentazioni (5-10%)
 roles:
-- developer
+- business-user
 products:
 - office-powerpoint
 relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2016
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

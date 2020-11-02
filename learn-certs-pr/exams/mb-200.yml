@@ -7,9 +7,8 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame è stato aggiornato il 1 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
-  <div><strong>QUESTO ESAME SARA’ RITIRATO IL 31 DICEMBRE 2020. Un nuovo esame, <a href="/learn/certifications/exams/pl-200">PL-200</a>, sarà disponibile a settembre 2020. Per maggiori informazioni, <a href="https://aka.ms/microsoftlearncommunity">visitare il nostro blog</a> e rivedere i nostri post di ritiro esame. Nota&#58; Ritiro esame alle 23&#58;59 Central Standard Time.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame è stato aggiornato il mercoledì 1 luglio 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>QUESTO ESAME SARÀ RITIRATO IL 31 DICEMBRE 2020. Un nuovo esame <a href="/learn/certifications/exams/pl-200">PL-200</a> sarà disponibile a settembre 2020. Nota&#58; Ritiro esame alle 23&#58;59 Central Standard Time.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame sono consulenti funzionali che hanno accesso alle caratteristiche e alle funzionalità del prodotto con licenza aziendale. In qualità di consulenti funzionali, i candidati sono a conoscenza delle versioni bundle delle funzionalità, ma solitamente non lavorano con questi prodotti in bundle.
@@ -17,7 +16,7 @@ summary: |-
   I candidati sono principalmente i responsabili della configurazione del sistema per soddisfare le esigenze dei clienti, l'esecuzione delle attività di progettazione relative all'implementazione di nuove caratteristiche e funzionalità e l'implementazione e il test delle modifiche del sistema.
 
   I candidati pianificano la progettazione funzionale delle soluzioni, implementano un processo ALM (Application Lifecycle Management), migrano dati e oggetti da sistemi legacy ed esterni, integrano Power Platform con altri sistemi e gestiscono l'ambiente Power Platform.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire operazioni di rilevamento, pianificazione ed analisi, gestire la progettazione dell’esperienza utente, gestire entità e dati, implementare la sicurezza, implementare l’integrazione ed eseguire la distribuzione e il testing di soluzioni.'
+subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire operazioni di rilevamento, pianificazione ed analisi, gestire la progettazione dell’esperienza utente, gestire entità e dati, implementare la sicurezza, implementare l’integrazione ed eseguire l''installazione e il testing di soluzioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -28,13 +27,13 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 1 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
-- Eseguire operazioni di rilevamento, pianificazione e analisi (5-10%)
+- Il contenuto di questo esame è stato aggiornato il mercoledì 1 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Eseguire l'individuazione, la pianificazione e l'analisi (5-10%)
 - Gestire la progettazione dell'esperienza utente (20-25%)
 - Gestire entità e dati (15-20%)
 - Implementare la sicurezza (5-10%)
 - Implementare l'integrazione (15-20%)
-- Eseguire la distribuzione e il testing di soluzioni (25-30%)
+- Eseguire l'implementazione e il test delle soluzioni (25-30%)
 retirementDate: 12/31/2020
 roles:
 - functional-consultant
@@ -66,24 +65,24 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
   description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

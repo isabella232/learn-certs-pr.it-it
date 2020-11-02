@@ -7,11 +7,10 @@ uid: exam.az-500
 displayName: AZ-500
 summary: |-
   <div>
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2020. Si prega di scaricare il documento relativo alle competenze misurate qui di seguito per vedere che cosa cambierà.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame è stato aggiornato il giovedì 24 settembre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
 
-  I candidati a questo esame devono disporre di competenze specifiche in materia di implementazione di controlli di sicurezza e protezione dalle minacce, gestione dell'identità e dell'accesso e protezione di dati, applicazioni e reti in ambienti cloud e ibridi come parte di un'infrastruttura end-to-end.
+  I candidati a questo esame dovrebbero disporre di competenze specifiche in materia di implementazione di controlli di sicurezza e protezione dalle minacce, gestione dell'identità e dell'accesso e protezione di dati, applicazioni e reti in ambienti cloud e ibridi come parte di un'infrastruttura end-to-end.
 
   Le responsabilità di un Azure Security Engineer includono il mantenimento della posizione di sicurezza, l'identificazione e la correzione delle vulnerabilità usando una varietà di strumenti di sicurezza, implementando la protezione dalle minacce e rispondendo alla crescita degli incidenti di sicurezza.
 
@@ -35,7 +34,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 24 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere che cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il giovedì 24 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Gestire le identità e l’accesso (30-35%)
 - Implementare la protezione della piattaforma (15-20%)
 - Gestire le operazioni di sicurezza (25-30%)
@@ -66,24 +65,24 @@ resources:
   description: Scopri i passaggi per essere certificato Azure Security Engineer Associate e le risorse disponibili per aiutarti nella preparazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
   description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Controlla i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

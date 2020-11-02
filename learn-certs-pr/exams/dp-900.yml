@@ -6,7 +6,10 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame sarà aggiornato il 22 ottobre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  </div>
 
   I candidati a questo esame devono avere una conoscenza di base dei concetti di dati fondamentali e di come vengano implementati usando i servizi dati di Microsoft Azure.
 
@@ -15,23 +18,33 @@ summary: |-
   I candidati devono avere familiarità con i concetti di dati relazionali e non relazionali e con diversi tipi di carichi di lavoro di dati come transazionali o analitici.
 
   Azure Data Fundamentals può essere usato per preparare altre certificazioni basate sul ruolo di Azure come Azure Database Administrator Associate o Azure Data Engineer Associate, ma non è un prerequisito per alcuna di esse.
-subTitle: 'Dimostrare che puoi descrivere quanto segue: concetti di dati di base; come lavorare con i dati relazionali in Azure; come lavorare con dati non relazionali in Azure e un carico di lavoro analitico su Azure.'
+subTitle: 'Dimostra che puoi descrivere quanto segue: concetti di dati di base, come lavorare con i dati relazionali in Azure, come lavorare con dati non relazionali in Azure e un carico di lavoro analitico su Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+practiceTestUrl: https://in.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
   examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-900&provider=psi&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
 levels:
 - beginner
 skills:
-- Descrivere i concetti di dati di base (15-20%)
+- Il contenuto di questo esame sarà aggiornato il 22 ottobre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
+- Descrivere i concetti di base dei dati (15-20%)
 - Descrivere come lavorare con i dati relazionali in Azure (25-30%)
 - Descrivere come lavorare con dati non relazionali in Azure (25-30%)
-- Descrivere un carico di lavoro di analisi in Azure (25-30%)
+- Descrivere un carico di lavoro analitico in Azure (25-30%)
 roles:
 - data-engineer
 - database-administrator
@@ -49,27 +62,27 @@ relatedCertifications:
     uid: certification.azure-data-fundamentals
 resources:
 - title: Viaggio verso la certificazione
-  description: Scopri i passaggi per ottenere la certificazione Azure Data Fundamentals e le risorse disponibili per aiutare a prepararti.
+  description: Scopri i passaggi per ottenere la certificazione Azure Data Fundamentals e le risorse disponibili per aiutarti nella preparazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

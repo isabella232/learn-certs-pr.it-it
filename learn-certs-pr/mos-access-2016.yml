@@ -5,14 +5,21 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Access 2016'
 uid: certification.mos-access-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Questa certificazione ti permette di dimostrare che hai le competenze necessarie per ottenere il massimo da Office ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico.
-subTitle: Questa certificazione ti permette di dimostrare che hai le competenze necessarie per ottenere il massimo da Office ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico.
+summary: |-
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  Dimostra che hai le competenze necessarie per sfruttare al massimo Access ottenendo una certificazione Microsoft Office Specialist (MOS) 2016. I candidati ideali per la certificazione per Access 2016 devono conoscere i concetti di base dell'ambiente dell'applicazione.
+subTitle: Questa certificazione ti permette di dimostrare che hai le competenze necessarie per sfruttare al meglio Office, ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico.
 levels:
 - intermediate
 skills:
-- nessuna
+- Creare e gestire un database
+- Creare tabelle
+- Creare query
+- Creare moduli
+- Creare rapporti
 roles:
-- developer
+- business-user
 type: mos
 products:
 - office-access
@@ -20,14 +27,15 @@ exams:
 - uid: exam.77-730
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

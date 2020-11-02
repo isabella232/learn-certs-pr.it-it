@@ -5,15 +5,15 @@ metadata:
   description: 'Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation'
 uid: exam.77-727
 displayName: 77-727
-summary: |+
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2016. Ai candidati viene chiesto di creare e modificare una cartella di lavoro con più pagine e di utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
+  I candidati ideali che sostengono l'esame di certificazione come Microsoft Office Specialist Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2016. Ai candidati viene chiesto di creare e modificare una cartella di lavoro con più pagine e di utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
 
-  Negli esami di certificazione Microsoft Office Specialist (MOS) 2016 è stato introdotto un nuovo formato basato sulle prestazioni che permette di valutare meglio le conoscenze, le competenze e le capacità del candidato relativamente ai programmi MOS 2016&#58;
-  - le istruzioni per l’esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò significa che i candidati devono capire l'obiettivo e il normale utilizzo della funzionalità del programma per poter portare a termine le attività di ciascun progetto.
+  Negli esami di certificazione Microsoft Office Specialist (MOS) 2016 è stato introdotto un nuovo formato basato sulle prestazioni che permette di valutare meglio le conoscenze, le competenze e le capacità del candidato relativamente ai programmi MOS 2016:
+  - le istruzioni per l’esame MOS 2016, come nelle versioni precedenti, solitamente non includono il nome del comando. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò significa che i candidati devono capire l'obiettivo e il normale utilizzo della funzionalità del programma per poter portare a termine le attività di ciascun progetto.
   - Il formato dell'esame MOS 2016 include più progetti.
-subTitle: I candidati ideali che sostengono l'esame di certificazione come Specialista di Microsoft Office Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2016. Ai candidati viene chiesto di creare e modificare una cartella di lavoro con più pagine e di utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
+subTitle: I candidati ideali che sostengono l'esame di certificazione come Microsoft Office Specialist Excel 2016 conoscono i concetti di base dell'ambiente Excel e sono in grado di portare a termine le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2016. Ai candidati viene chiesto di creare e modificare una cartella di lavoro con più pagine e di utilizzare un elemento grafico per rappresentare visivamente i dati. Esempi di cartelle di lavoro includono budget professionali, rendiconti economici, grafici relativi alle prestazioni del team, fatture commerciali e registri di inserimento dati.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
 providers:
@@ -45,9 +45,9 @@ skills:
 - Gestire celle e intervalli di dati (15-20%)
 - Creare tabelle (15-20%)
 - Eseguire operazioni con formule e funzioni (10-15%)
-- Crea grafici e oggetti (15-20%)
+- Creare grafici e oggetti (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office-excel
 relatedCertifications:
@@ -55,15 +55,15 @@ relatedCertifications:
     uid: certification.mos-excel-2016
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

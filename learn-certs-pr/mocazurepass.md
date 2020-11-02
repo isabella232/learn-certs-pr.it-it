@@ -1,26 +1,25 @@
 ---
 title: Microsoft Learning Azure Passes | Microsoft Docs
 description: Microsoft Learning Azure Passes
-documentationcenter: NA
-author: bipach
+documentationcenter: NA 
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 04/01/2020
-ms.author: micsullivan
+ms.date: 09/01/2020
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 
 # Accesso a Microsoft Learning Azure Pass per studenti di Microsoft Learning Partner autorizzati
 
 <div>Di seguito sono riportate le informazioni relative ai Pass di Azure forniti da Microsoft per supportare soluzioni di laboratorio per corsi specifici sulle tecnologie cloud Microsoft.  Per ulteriori informazioni sulle soluzioni alternative supportate da SLA, contattare uno degli Authorised Lab Hosters (ALH) che attualmente forniscono l'accesso ad Azure.</div>
 
-Ultimo aggiornamento: **giovedì 6 agosto 2020**
+Ultimo aggiornamento: **06 agosto 2020**
 
 Microsoft offre ai tuoi studenti l'accesso a un Microsoft Azure Pass gratuito di 30 giorni quando si registrano per un corso idoneo relativo ad Azure usando i corsi ufficiali Microsoft. I pass per gli studenti possono essere ottenuti solo dal Microsoft Learning Partner autorizzato tramite il Marketplace dei corsi ed è direttamente collegato all'acquisto di un corso MOC, con il limite di un pass per ciascun corso MOC ordinato. Non saranno disponibili altri meccanismi per ottenere i pass per gli studenti. Se un Learning Partner ordina un corso MOC ma non seleziona il Pass Azure che è disponibile con il corso al momento dell'acquisto, il Partner avrà la possibilità di tornare al Marketplace dei corsi e, se necessario, ordinare successivamente quel Pass.
 
 I Partner sono pregati di fare riferimento ai termini e condizioni per Azure Pass distribuiti attraverso il Marketplace dei corsi [qui](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions). I pass saranno validi per 90 giorni dall'assegnazione nel marketplace dei corsi. I pass scaduti non possono essere riemessi
-
-I pass non possono essere ottenuti o utilizzati per corsi o training tenuti da partner non-learning o da MCT non affiliati con un attuale Learning Partner. I pass non possono essere ottenuti o utilizzati per corsi non idonei come i corsi per community.
 
 Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di preparazione del corso di Azure. Ciò continua ad essere valido e gli MCT possono richiedere il pass di preparazione del corso Azure idoneo [qui](https://vouchers.cloudapp.net/AzurePass/), tuttavia questa offerta può terminare in qualsiasi momento.
 
@@ -117,7 +116,7 @@ Sei un Microsoft Certified Trainer che insegna per conto di un Microsoft Learnin
 
 ## Dettagli su Microsoft Learning Azure Pass
 
-Questo pass per studenti disponibile per Microsoft Learning Partners funziona in modo efficace allo stesso modo dell'[abbonamento di prova di Microsoft Azure disponibile al pubblico](https://azure.microsoft.com/pricing/free-trial/) con simili limitazioni. Questo pass non richiede uno strumento di pagamento, ovvero non sono richiesti i dettagli della carta di credito per attivare il pass. Di seguito è riportato uno schema della funzionalità del Microsoft Learning Azure Pass per l'utilizzo da parte dei nostri Microsoft Learning Partners  e istruttori:
+Questo pass per studenti disponibile per Microsoft Learning Partners funziona in modo efficace allo stesso modo dell'[abbonamento di prova di Microsoft Azure disponibile al pubblico](https://azure.microsoft.com/pricing/free-trial/) con simili limitazioni. Questo pass non richiede uno strumento di pagamento, ovvero non sono richiesti i dettagli della carta di credito per attivare il pass. Di seguito è riportato uno schema della funzionalità del Microsoft Learning Azure Pass per l'utilizzo da parte dei nostri Microsoft Learning Partners e istruttori:
 
 | Learning Partner Microsoft Student Azure Pass |
 | --- |

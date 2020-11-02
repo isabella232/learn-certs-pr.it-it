@@ -8,16 +8,17 @@ displayName: PL-200
 summary: |-
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  I candidati a questo esame procedono alla scoperta, all'acquisizione dei requisiti, al coinvolgimento di esperti e stakeholder, traducono requisiti e configurano soluzioni e applicazioni Power Platform. Creano miglioramenti all’applicazione, esperienze dell’utente personalizzate, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
+  I candidati a questo esame procedono alla scoperta, all'acquisizione dei requisiti, al coinvolgimento di esperti e stakeholder, traducono requisiti e configurano soluzioni e applicazioni Power Platform. Creano miglioramenti all’applicazione, esperienze dell’utente personalizzate, integrazioni dei sistemi, conversioni dei dati, automazione dei processi e visualizzazioni personalizzate.
 
   I candidati implementano il progetto fornito da e in collaborazione con un solution architect e gli standard, il branding e gli artefatti stabiliti dallo User Experience Designer. Progettano integrazioni per fornire un'integrazione senza soluzione di continuità con applicazioni e servizi di terze parti.
 
   I candidati collaborano attivamente con i membri del team di garanzia della qualità per garantire che le soluzioni soddisfino i requisiti funzionali e non funzionali. Identificano, generano e distribuiscono artefatti per l’imballaggio e la distribuzione agli ingegneri DevOps e forniscono formazione operativa e di manutenzione agli amministratori della piattaforma Power.
 
-  <div><strong><br/>Nota&#58; Questo esame sarà disponibile dal 25 settembre 2020 o intorno a tale data.</strong></div>
-subTitle: 'Questo esame sarà disponibile dal 25 settembre 2020 o intorno a tale data. Questo esame misura la tua capacità di completare le seguenti attività: configurare il Common Data Service, creare app utilizzando Power Apps, creare e gestire Power Automate, implementare chatbot Power Virtual Agents e integrare Power Apps con altre app e servizi.'
+  <div><strong><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne di più <a href="/learn/certifications/certification-exams#participating-in-beta-exams"> sul valore e l'importanza degli esami beta</a>.</strong></div>
+subTitle: 'Questo esame misura la tua capacità di completare le seguenti attività: configurare il Common Data Service, creare app utilizzando Power Apps, creare e gestire Power Automate, implementare chatbot Power Virtual Agents e integrare Power Apps con altre app e servizi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 levels:
@@ -41,29 +42,43 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
   description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 
