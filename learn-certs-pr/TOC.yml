@@ -2,7 +2,7 @@
   href: index.yml
 - name: Offers
   href: deals.md
-- name: Contratti multilicenza
+- name: Licenze a volume
   href: volume-licensing-program.md
 - name: Microsoft Learning Partners
   href: partners.md
@@ -19,15 +19,40 @@
   href: mct-certification.md
 - name: Informazioni sugli esami di certificazione Microsoft
   href: certification-exams.md
-- name: Badge di esame e certificazione Microsoft
+- name: Esami Microsoft e badge di certificazione
   href: badges.md
-- name: Informazioni sugli esami online
+- name: Sugli esami online con Pearson VUE
   href: online-exams.md
-- name: Criteri dell'esame e domande frequenti
-  href: certification-exam-policies.md
+- name: Informazioni sugli esami online con PSI
+  href: online-exams-psi.md
+- name: Criteri dell’esame e domande frequenti
+  expanded: false
+  items:
+  - name: Panoramica del processo d'esame
+    href: exam-process-overview.md  
+  - name: Criteri di sicurezza e di ripetizione degli esami
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name: Riprogrammazione dell'esame e politica di cancellazione
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Accordo del programma di certificazione Microsoft
+    href: microsoft-certification-program-agreement.md
+  - name: Accordo di non divulgazione degli esami Microsoft
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: Richiedi alloggi
+    href: request-accommodations.md
+  - name: Processo di obiezione agli elementi d'esame
+    href: exam-item-challenge-process.md
+  - name: Esami beta
+    href: beta-exams.md
+  - name: Credito universitario per esami di certificazione
+    href: college-credit-for-certification-exams.md
+  - name: Sconti per gli studenti
+    href: student-discounts.md
 - name: Guida alla certificazione
   href: help.md
-- name: Microsoft Certification Program FAQs 
+- name: Guida Microsoft Official Courseware (MOC)
+  href: certification-and-training-help.md
+- name: Microsoft Certification program FAQs 
   href: microsoft-certification-program-faqs.md
-- name: Accedi a Microsoft Learning.
+- name: Accedi a Microsoft Learning ...
   href: learnfaq.md

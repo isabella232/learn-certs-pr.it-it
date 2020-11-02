@@ -2,12 +2,13 @@
 title: Guida alla certificazione Microsoft | Microsoft Docs
 description: Guida alla certificazione Microsoft
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/20/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Guida alla certificazione Microsoft
 

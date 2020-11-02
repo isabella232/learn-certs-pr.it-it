@@ -2,16 +2,17 @@
 title: Informazioni sugli esami online con PSI | Microsoft Docs
 description: Informazioni sugli esami online con PSI 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 09/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Informazioni sugli esami online con PSI
 
-Gli esami di base e basati sui ruoli che sono parte dell'[offerta di esami per le persone in cerca di lavoro](https://aka.ms/skillscert) devono essere sostenuti online tramite PSI. Sostenere un esame online è un'esperienza completamente digitale nel comfort di casa o dell'ufficio, mantenendo l'integrità dei risultati dell'esame grazie al monitoraggio da parte di un responsabile tramite webcam e microfono. Per capire com'è l'esperienza, [guarda il video su YouTube di PSI](https://www.youtube.com/watch?v=FvqONzwF2nM) ed impara come sostenere esami online supervisionati con PSI.
+Gli esami di certificazione di base e basati sui ruoli dell'[offerta a USD 15 per esami per le persone in cerca di lavoro](https://aka.ms/skillscert) devono essere sostenuti online attraverso PSI, il partner responsabile della fornitura degli esami Microsoft per questa offerta. Sostenere un esame online è un'esperienza completamente digitale nel comfort di casa o dell'ufficio, mantenendo l'integrità dei risultati dell'esame grazie al monitoraggio da parte di un responsabile tramite webcam e microfono. Per capire com'è l'esperienza, [guarda il video su YouTube di PSI](https://www.youtube.com/watch?v=FvqONzwF2nM) ed impara come sostenere esami online supervisionati con PSI.
 
 ## <a name="participating-countries-and-supported-languages"></a> Paesi partecipanti e lingue supportate
 
@@ -23,7 +24,7 @@ Gli esami online con PSI sono disponibili nella maggior parte dei paesi e posson
 2. Completa il [controllo del sistema](#run-a-system-check) richiesto sullo stesso computer e presso la stessa location in cui si effettuerai il test per garantire la compatibilità con il software di sorveglianza online.
 3. Conferma che l’ID sia conforme (leggi i [requisiti di verifica dell'identità](/learn/certifications/online-exams-psi#identity-verification-requirements) di seguito) e che il nome sul tuo profilo di certificazione Microsoft, utilizzato al momento della registrazione per l'appuntamento di esame, sia aggiornato. Per sostenere l'esame, il nome utilizzato per prendere l'appuntamento dell'esame deve corrispondere a quello suo documento identificativo che presenterai.
 
-Se desideri richiedere un alloggio per un esame, [invia una richiesta di alloggio con PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532) prima di programmare un esame; PSI risponderà entro 24-48 ore lavorative.
+Se desideri richiedere un alloggio per un esame, [invia una richiesta di alloggio con PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) prima di programmare un esame; PSI risponderà entro 24-48 ore lavorative.
 
 ## <a name="system-requirements"></a> Requisiti di sistema
 
@@ -154,7 +155,7 @@ L'impostazione per ufficio o casa deve soddisfare i seguenti requisiti:
   - Passaporto
   - Carta d'identità (carta d'identità nazionale/statale/provinciale)
   - Carta di registrazione per stranieri (carta verde, residenza permanente, visto)
-  - Documento di identità in lingua locale rilasciato dall’autorità preposta (non in caratteri romani) — _accettato solo se rilasciato dal paese in cui il candidato sta effettuando il test_
+  - Documento di identità in lingua locale rilasciato dall’autorità preposta (non in caratteri romani) —_accettato solo se rilasciato dal paese in cui il candidato sta effettuando il test_
 - Verrà scattata una foto con la webcam a te e al tuo documento di identità con fotografia.
 - Il nome sull'ID deve corrispondere esattamente al nome nella certificazione Microsoft e nei profili PSI.
 - Se stai effettuando l'aggiornamento o il rinnovo del tuo documento di riconoscimento, tieni presente che per gli esami online non sono accettate modifiche alla ragione sociale incluso i moduli di rinnovo del documento identificativo.
@@ -209,7 +210,7 @@ Prima di registrarti e di acquistare l'esame, [completare il controllo del siste
 
 ## <a name="schedule-for-an-online-exam"></a> Programmare un esame online
 
-- Per programmare un esame online con PSI, fai clic sull'esame di certificazione Microsoft che desideri sostenere da [lista degli esami che potrai sostenere](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer), quindi seleziona il pulsante "**Programma USD15**".
+- Per programmare un esame online con PSI, fai clic sull'esame di certificazione Microsoft che desideri sostenere da [lista degli esami che potrai sostenere](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer), quindi seleziona il pulsante "**Programma per USD 15**".
 - Se nel tuo paese sono disponibili esami online, potrai selezionare tale opzione durante il processo di registrazione all'esame. Verrai trasferito al sito di programmazione PSI dove selezionerai il tuo paese e fuso orario, una lingua e una data e un'ora per sostenere l'esame.
 - Al termine, dovrai pagare l'esame.
 
@@ -242,101 +243,126 @@ Una volta completato l'esame con PSI, **disinstalla il file eseguibile per PSI S
 Trova le risposte alle domande frequenti sugli esami supervisionati online resi disponibili da PSI.
 
 ### Come faccio a sapere se un esame on-line è adatto a me?
-
 Inizia assicurandoti che gli esami online siano disponibili in base a [paesi partecipanti e lingue supportate](/learn/certifications/online-exams-psi#participating-countries-and-supported-languages), che tu soddisfi [requisiti di sistema](/learn/certifications/online-exams-psi#system-requirements) e [requisiti del protocollo di test](/learn/certifications/online-exams-psi#testing-protocol-requirements). Potresti anche voler [completare un controllo del sistema](https://syscheck.bridge.psiexams.com/) per assicurarti che il tuo computer soddisfi i requisiti.
 
 ### Posso ancora sostenere il mio esame on-line se il mio sistema non supera il test di sistema?
+
 No, non dovresti iscriverti a un esame online con PSI se il tuo sistema non supera il test del sistema.
 
 ### Cosa devo fare per richiedere un alloggio per l’esame?
-Per richiedere un alloggio per l’esame, [invia una richiesta di alloggio con PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532) prima di programmare un esame. PSI risponderà alla tua richiesta entro 24-48 ore lavorative.
+
+Per richiedere un alloggio per l’esame, [invia una richiesta di alloggio con PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) prima di programmare un esame. PSI risponderà alla tua richiesta entro 24-48 ore lavorative.
 
 ### Come posso programmare con PSI un esame online?
+
 Vedi la sezione "**[Registrati per un esame online](/learn/certifications/online-exams-psi#schedule-for-an-online-exam)**" in questa pagina.
 
 ### Posso riprogrammare o annullare l'esame?
-Sì, ma devi farlo almeno 24 ore prima dell'appuntamento dell'esame. Accedi alla [dashboard Certificazione Microsoft](https://aka.ms/CertDashboard) e seleziona il pulsante "**Annulla/Riprogramma**" nella sezione **Appuntamenti**. Sarai poi reindirizzato al sito PSI per annullare o riprogrammare l'esame.  
 
-Nota: L'offerta di esame a 15 USD per chi cerca lavoro deve essere richiesta entro il 31 dicembre 2020 e l'esame deve essere sostenuto entro il 31 marzo 2021. La riprogrammazione dell'esame può essere effettuata in qualsiasi momento prima del 31 dicembre 2020; tuttavia, se si annulla l'appuntamento per l’esame dopo il 31 dicembre 2020, non sarà possibile programmarlo di nuovo utilizzando l'offerta scontata.
+Sì, ma devi farlo almeno 24 ore prima dell'appuntamento dell'esame. Accedi alla [dashboard Certificazione Microsoft](https://aka.ms/CertDashboard) e seleziona il pulsante "**Annulla/Riprogramma**" nella sezione **Appuntamenti**. Sarai poi reindirizzato al sito PSI per annullare o riprogrammare l'esame.
 
-### Posso ripetere l'esame al prezzo scontato di 15 USD? 
-No, l'offerta per l'esame dà il diritto a registrarti e ad essere accettato per (1) esame di certificazione Microsoft al prezzo scontato di 15 USD in base ai [Termini e condizioni](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions) dell’offerta. Tuttavia, puoi ripetere un esame di certificazione al prezzo standard andando alla pagina Seleziona esame di certificazione e facendo clic sul pulsante “Programma con Pearson VUE”.  
+Nota: L'offerta di esame a USD 15 per chi cerca lavoro deve essere richiesta entro il 31 dicembre 2020 e l'esame deve essere sostenuto entro il 31 marzo 2021. La riprogrammazione dell'esame può essere effettuata in qualsiasi momento prima del 31 dicembre 2020; tuttavia, se si annulla l'appuntamento per l’esame dopo il 31 dicembre 2020, non sarà possibile programmarlo di nuovo utilizzando l'offerta scontata.
+
+### Posso ripetere l'esame al prezzo scontato di USD 15?
+
+No, l'offerta per l'esame dà il diritto a registrarti e ad essere accettato per (1) esame di certificazione Microsoft al prezzo scontato di USD 15 in base ai [Termini e condizioni](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions) dell’offerta. Tuttavia, puoi ripetere un esame di certificazione al prezzo standard andando alla pagina Seleziona esame di certificazione e facendo clic sul pulsante “Programma con Pearson VUE”.
 
 ### Potrebbe sembrare che sia molto più facile imbrogliare se non sono in un centro di test. Gli esami online sono sicuri?
+
 Facciamo del nostro meglio per proteggere l'integrità dei nostri esami di Certificazione, a prescindere da dove vengono sostenuti. Quando sostieni un esame online, devi innanzitutto installare un browser sicuro che applichi rigorose misure di sicurezza durante l'intero processo di test e devi soddisfare i [requisiti di sistema](/learn/certifications/online-exams-psi#system-requirements) e i [requisiti del protocollo di test](/learn/certifications/online-exams-psi#testing-protocol-requirements).
 
 ### Gli esami on-line sono più difficili degli esami sostenuti nei centri di test?
+
 No. Gli esami sono equivalenti in termini di difficoltà.
 
 ### Posso prendere appunti durante il mio esame on-line?
+
 No. Questa funzione non è disponibile con la consegna online dell'esame con PSI. Vedi [requisiti protocollo per il test](/learn/certifications/online-exams-psi#testing-protocol-requirements).
 
 ### Gli esami on-line sono disponibili in più lingue?
+
 Sì. Gli esami online con PSI sono disponibili nelle seguenti lingue: Inglese, giapponese, coreano, cinese semplificato, francese, spagnolo e tedesco. La possibilità di selezionare la lingua dell'esame sarà messa a disposizione durante il processo di iscrizione all'esame. Tieni presente che il supporto da parte di un supervisore e il software di supervisione sono disponibili in un numero limitato di lingue.
 
 ### A chi devo rivolgermi se ho problemi tecnici prima, durante o dopo l'esame on-line?
+
 Per domande sulla registrazione, utilizza i collegamenti ‘Contattaci’ di PSI forniti durante la registrazione. Se si verifica un problema tecnico durante l'esame, il supervisore ti aiuterà a risolverlo. Se necessario, il supervisore si collegherà direttamente con il supporto PSI tramite chat.
 
 Per supporto prima o dopo l'esame online, [contatta il supporto PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112).
 
 ### Quale tipo di identificazione è richiesta durante il processo di check-in?
+
 Controlla la sezione [requisiti di verifica dell'identità](/learn/certifications/online-exams-psi#identity-verification-requirements).
 
 ### Come faccio a cambiare il mio nome?
+
 Il nome deve corrispondere esattamente a quanto riportato sul documento di riconoscimento emesso dall’autorità preposta fornito durante il processo di check-in. Se è necessario aggiornare il nome nel profilo di certificazione Microsoft, vedi la pagina [Guida alla certificazione](https://aka.ms/certhelp).
 
 ### Dove posso trovare un elenco delle politiche per gli esami?
+
 Fai riferimento alle [politiche e domande frequenti sugli esami](/learn/certifications/certification-exam-policies) che si applicano a tutti gli esami di certificazione Microsoft.
 
 ## Domande frequenti sulla risoluzione dei problemi di supervisione a distanza.
 
 ### Cosa devo fare se riscontro problemi nella condivisione della mia webcam?
+
 - Controlla eventuali applicazioni di terzi che utilizzino la fotocamere  e che siano in esecuzione in background e chiudile.
 - Assicurati che alle applicazioni sia consentito l'accesso alla webcam controllando le impostazioni sulla privacy.
 - Consenti Win32WebViewHost nelle impostazioni sulla privacy della fotocamera.
 
 ### Come faccio a tornare all'esame se il browser si chiude improvvisamente, se chiudo accidentalmente il browser o vengo espulso dall'esame?
+
 Riavvia il PSI Secure Browser per tornare all'esame.
 
 ### Cosa devo fare se non supero il controllo di compatibilità per i requisiti di sistema?
+
 Chiudi tutte le applicazioni in esecuzione identificate dal PSI Secure Browser.
 
 ### Cosa devo fare se non riesco ad accedere all'esame o se il link dell'esame non viene visualizzato?
+
 Esci dalla dashboard Certificazione Microsoft e riavvia il processo di accesso utilizzando un browser basato su Chrome. Fai clic sul pulsante **Lancia esame**. *Tieni presente che il pulsante sarà attivo solo 15 minuti prima dell'orario dell'appuntamento programmato.*
 
 ### Cosa devo fare se un supervisore non si è unito alla mia sessione?
+
 Fai clic con il pulsante destro del mouse in un punto qualsiasi della pagina PSI Secure Browser e seleziona “Ricarica” o seleziona dall'angolo in alto a sinistra “Visualizza” e poi “Ricarica”. Se non funziona, chiudi il PSI Secure Browser e riavvia. Tieni presente che **non** potrai accedere o avviare l'esame se non 15 minuti prima dell'orario dell'appuntamento programmato.
 
 ## Domande frequenti sul rapporto di valutazione
 
 ### Come e quando otterrò i risultati dell'esame?
+
 Il superamento o il mancato superamento dell'esame viene comunicato ai candidati entro pochi minuti dalla fine dell'esame. Inoltre riceverai un messaggio di posta elettronica da PSI con il punteggio dell'esame e i commenti sulle prestazioni nelle aree di competenza valutate. Il centro di valutazione inoltra la valutazione a Microsoft entro 24 ore.
 
 ### Che formato ha il rapporto di valutazone?
-Il rapporto di valutazione è un’E-Mail che riporta un punteggio numerico riferito alle prestazioni complessive dell'esame, lo stato superato/non superato e informazioni sulle prestazioni in ciascuna area di competenza valutata durante l’esame nonché dettagli su come interpretare i risultati e sui passaggi successivi. 
+
+Il rapporto di valutazione è un’E-Mail che riporta un punteggio numerico riferito alle prestazioni complessive dell'esame, lo stato superato/non superato e informazioni sulle prestazioni in ciascuna area di competenza valutata durante l’esame nonché dettagli su come interpretare i risultati e sui passaggi successivi.
 
 ### Cosa significano le percentuali nel rapporto di valutazione?
+
 Le percentuali mostrano le prestazioni in ogni sezione o area di competenza valutata durante l'esame. Queste percentuali forniscono informazioni sulle prestazioni a livello di sezione. Percentuali più elevate riflettono prestazioni più elevate.
 
 Poiché ogni sezione può contenere un numero diverso di domande, come rappresentato dalle percentuali fornite dopo il nome della sezione, le percentuali ottenute non possono essere combinate per determinare la percentuale di domande a cui si è risposto correttamente durante l'esame. Queste informazioni hanno lo scopo di aiutare i candidati a individuare le proprie aree di forza e di debolezza relativamente a competenze misurate durante l'esame in modo che possano dare priorità a quelle da migliorare.
 
-### Cosa è incluso nella barra “ voci del sondaggio non valutate”?
+### Cosa è incluso nella barra “voci del sondaggio non valutate”?
+
 Ignora la barra “voci del sondaggio non valutate” se compare nei risultati della sezione dell'esame di cui sopra. Non è inclusa nella valutazione dell'esame e non fornisce alcuna informazione sulle tue prestazioni in questo esame o sulle tue competenze in questo dominio di contenuti. È un elemento del sistema di segnalazione PSI che in questo momento non può essere soppresso.
 
 ### Posso visualizzare un livello di dettaglio inferiore relativo alle mie prestazioni?
+
 No, non forniamo un livello di dettaglio inferiore relativamente alle prestazioni rispetto a quanto precisato nel rapporto di valutazione.
 
 ### Le percentuali nel rapporto di valutazione mostrano un risultato superiore al 70%. Perché non ho superato l'esame?
+
 Ogni sezione dell'esame contiene un numero diverso di domande. Di conseguenza i risultati delle singole sezioni potrebbero non riflettere il risultato finale dell'esame. In altre parole, non esiste una relazione uno-a-uno tra le percentuali risultanti e il superamento/mancato superamento dell'esame.
 
 Inoltre, spesso si ritiene che rispondendo correttamente al 70% delle domande si superi l'esame perché il punteggio minimo da ottenere è 700. Tuttavia, si tratta di un punteggio scalato. La percentuale effettiva di domande a cui bisogna rispondere correttamente varia da esame a esame e può essere superiore o inferiore al 70% a seconda dell'input fornito dagli esperti del settore che hanno contribuito all'impostazione del punteggio minimo durante lo sviluppo dell'esame e il supporto in itinere, nonché dalla difficoltà delle domande dell'esame.
 
 ### Dove posso trovare ulteriori informazioni sulle mie aree di debolezza?
-Nonostante gli esami di certificazione Microsoft forniscano commenti relativi alle aree di debolezza in cui candidati devono sviluppare ulteriormente le proprie competenze, gli esami non sono progettati per fornire commenti dettagliati o diagnostici. Ti consigliamo di consultare la sezione “Competenze misurate” della pagina [Microsoft Learn](https://microsoft.com/learn?WT.mc_id=gsi), utilizzando le risorse di apprendimento in fondo alla pagina dell’esame  così da valutare in modo obiettivo le competenze confrontandole con gli elementi valutati durante l'esame. Il modo migliore per farlo è eseguire realmente le attività elencate e individuare le difficoltà riscontrate. È necessario esercitarsi fino a non incontrare più tali difficoltà. 
 
-Può essere utile chiedere agli altri candidati in che modo eseguono tali attività. Hanno eseguito l'attività in modo diverso? É importante capire perché lo fanno. Consulta i white paper, visita [Microsoft Docs](https://docs.microsoft.com?WT.mc_id=gsi) e [Microsoft Learn](https://microsoft.com/learn?WT.mc_id=gsi) per ulteriori informazioni sulle attività incluse nell’esame. 
+Nonostante gli esami di certificazione Microsoft forniscano commenti relativi alle aree di debolezza in cui candidati devono sviluppare ulteriormente le proprie competenze, gli esami non sono progettati per fornire commenti dettagliati o diagnostici. Ti consigliamo di consultare la sezione “Competenze misurate” della pagina [Microsoft Learn](https://microsoft.com/learn?WT.mc_id=gsi), utilizzando le risorse di apprendimento in fondo alla pagina dell’esame  così da valutare in modo obiettivo le competenze confrontandole con gli elementi valutati durante l'esame. Il modo migliore per farlo è eseguire realmente le attività elencate e individuare le difficoltà riscontrate. È necessario esercitarsi fino a non incontrare più tali difficoltà.
+
+Può essere utile chiedere agli altri candidati in che modo eseguono tali attività. Hanno eseguito l'attività in modo diverso? É importante capire perché lo fanno. Consulta i white paper, visita [Microsoft Docs](https://docs.microsoft.com?WT.mc_id=gsi) e [Microsoft Learn](https://microsoft.com/learn?WT.mc_id=gsi) per ulteriori informazioni sulle attività incluse nell’esame.
 
 Infine, per alcuni dei nostri esami di certificazione sono disponibili [test pratici Microsoft ufficiali](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx). Questi test possono fornire ulteriori informazioni relative alle specifiche aree di forza e debolezza. Tuttavia, superare un test di valutazione non garantisce il superamento di un esame di certificazione.
 
 ### Non trovo più la email con il rapporto di valutazione. Come posso richiederne un altro?
+
 [Contatta il supporto PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112).

@@ -1,25 +1,24 @@
 ### YamlMime:Examination
-title: Microsoft Azure Architect Technologies (beta)
+title: Microsoft Azure Architect Technologies
 metadata:
-  title: 'Exam AZ-303: Microsoft Azure Architect Technologies (beta)'
-  description: 'Exam AZ-303: Microsoft Azure Architect Technologies (beta)'
+  title: 'Exam AZ-303: Microsoft Azure Architect Technologies'
+  description: 'Exam AZ-303: Microsoft Azure Architect Technologies'
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
 
-  Le responsabilità di un Azure Solution Architect includono la consulenza alle parti interessate e la traduzione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
+  Le responsabilità di un Azure Solution Architect includono la consulenza alle parti interessate e la realizzazione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
 
   Un Azure Solution Architect collabora con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
 
-  Un candidato a questo esame deve avere esperienza avanzata e conoscenza delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, piattaforma dati, budgeting e governance&#58; questo ruolo deve gestire in che modo le decisioni in ogni area influiscono su una soluzione globale. Inoltre, questo ruolo deve avere di competenze di livello esperto nell'amministrazione di Azure ed esperienza nei processi di sviluppo di Azure e DevOps.
-
-  <div style='font-weight&#58; bold;'><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne <a href="/learn/certifications/certification-exams#participating-in-beta-exams">di più sul valore e l'importanza degli esami beta</a>.</div>
-subTitle: "Questo esame misura la capacità di svolgere i seguenti compiti tecnici: implementare e monitorare un'infrastruttura Azure; implementare soluzioni di gestione e sicurezza; implementare soluzioni per app; implementare e gestire piattaforme dati."
+  Un candidato a questo esame deve avere esperienza avanzata e conoscenza delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, piattaforma dati, budgeting e governance&#58; questo ruolo deve gestire in che modo le decisioni in ogni area influiscono su una soluzione globale. Inoltre, questo ruolo deve avere di competenze a livello di esperto nell'amministrazione di Azure ed esperienza nei processi di sviluppo di Azure e DevOps.
+subTitle: 'Questo esame misura la capacità di svolgere i seguenti compiti tecnici: implementare e monitorare un''infrastruttura Azure, implementare soluzioni di gestione e sicurezza, implementare soluzioni per app, implementare e gestire piattaforme dati.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-303?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
 locales:
 - en
@@ -54,27 +53,27 @@ relatedCertifications:
     uid: certification.azure-solutions-architect
 resources:
 - title: Viaggio verso la certificazione
-  description: Scopri i passaggi per essere certificato Azure Solutions Architect Expert e le risorse disponibili per aiutare a prepararti.
+  description: Scopri i passaggi per essere certificato Azure Solutions Architect Expert e le risorse disponibili per aiutarti nella preparazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

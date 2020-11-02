@@ -1,20 +1,42 @@
 ### YamlMime:Certification
-title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+title: 'Microsoft Office Specialist 2016 Master'
 metadata:
-  title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
-  description: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+  title: 'Microsoft Office Specialist 2016 Master'
+  description: 'Microsoft Office Specialist 2016 Master'
 uid: certification.microsoft-office-specialist-master-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "Questa certificazione ti permette di dimostrare il possesso del massimo livello delle competenze richieste per utilizzare i programmi di Office ottenendo una certificazione Microsoft Office Specialist Master.\n\nPer ottenere la certificazione Microsoft Office 2016 Master Specialist, bisogna completare i seguenti requisiti&#58;\n\n- Superare ciascuno dei tre esami richiesti\n  - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams/77-726)\n  - [77-728&#58; Excel 2016 Expert&#58; Interpreting Data for Insights](/learn/certifications/exams/77-728)\n  - [77-729&#58; PowerPoint 2016&#58; Core Presentation Design and Delivery Skills](/learn/certifications/exams/77-729)\n- Superare uno degli esami elettivi \n  - [77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)\n  - [77-731&#58; Outlook 2016&#58; Core Communication, Collaboration and Email Skills](/learn/certifications/exams/77-731)"
-subTitle: Questa certificazione ti permette di dimostrare il possesso del massimo livello delle competenze richieste per utilizzare i programmi di Office ottenendo una certificazione Microsoft Office Specialist Master.
+summary: |-
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  Questa certificazione dimostra che possiedi competenze estremamente approfondite per l'utilizzo dei programmi di Office ottenendo una certificazione Microsoft Office Specialist Master.
+
+  Per ottenere la certificazione Microsoft Office Specialist 2016 Master, completare i seguenti requisiti&#58;
+
+  - Superare ciascuno dei tre esami obbligatori&#58;
+    - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams/77-726)
+    - [77-728&#58; Excel 2016 Expert&#58; Interpreting Data for Insights](/learn/certifications/exams/77-728)
+    - [77-729&#58; PowerPoint 2016&#58; Core Presentation Design and Delivery Skills](/learn/certifications/exams/77-729)
+  - Superare uno degli esami facoltativi&#58;
+    - [77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)
+    - [77-731&#58; Outlook 2016&#58; Core Communication, Collaboration, and Email Skills](/learn/certifications/exams/77-731)
+subTitle: Questa certificazione dimostra che possiedi competenze estremamente approfondite per l'utilizzo dei programmi di Office ottenendo una certificazione Microsoft Office Specialist Master.
 levels:
 - advanced
 skills:
-- Microsoft Office Excel 2016 (richiesto)
-- Microsoft Office PowerPoint 2016 (richiesto)
-- Microsoft Office Word 2016 (richiesto)
-- Microsoft Office Access 2016 (sceglierne uno)
-- Microsoft Office Outlook 2016 (sceglierne uno)
+- Gestire le opzioni e le impostazioni del documento
+- Progettare documenti avanzati
+- Creare riferimenti avanzati
+- Creare elementi Word personalizzati
+- Gestire opzioni e impostazioni della cartella di lavoro
+- Applicare formati e layout di dati personalizzati
+- Creare formule avanzate
+- Creare grafici e tabelle avanzati
+- Creare e gestire presentazioni
+- Inserire e formattare testo, forme e immagini
+- Inserire tabelle, grafici, SmartArt e supporti
+- Applicare transizioni e animazioni
+- Gestire presentazioni multiple
+- Altro da determinare in base all'esame obbligatorio scelto
 roles:
 - business-user
 type: mos
@@ -26,14 +48,15 @@ exams:
 - uid: exam.77-729
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+
