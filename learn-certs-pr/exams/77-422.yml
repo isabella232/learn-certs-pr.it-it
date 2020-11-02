@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: PowerPoint 2013
+title: Microsoft PowerPoint 2013
 metadata:
-  title: 'Exam 77-422: PowerPoint 2013'
-  description: 'Exam 77-422: PowerPoint 2013'
+  title: 'Exam 77-422: Microsoft PowerPoint 2013'
+  description: 'Exam 77-422: Microsoft PowerPoint 2013'
 uid: exam.77-422
 displayName: 77-422
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  Impara a dimostrare di sapere usare bene PowerPoint. Preparati e metti in pratica le tue competenze per l’esame come Specialista di 2013 PowerPoint Microsoft Office (MOS) con questa guida completa. La guida contiene tutti gli argomenti, suddivisi per obiettivo, trattati nell'esame, oltre a procedure facili da seguire e figure che ti permetteranno di rivedere le competenze essenziali. Sono disponibili anche attività pratiche per consentirti di mettere in pratica ciò che hai appreso. La guida include anche file scaricabili per le valutazioni pratiche.
-subTitle: 'I candidati per questo esame sono professionisti IT che utilizzano Office per creare applicazioni flessibili e sicure.'
+  I candidati per l'esame a Microsoft Office Specialist (MOS) PowerPoint 2013 devono conoscere i concetti di base dell'ambiente PowerPoint e saper completare le attività in maniera autonoma. I candidati possono gestire le presentazioni, inserire e applicare la formattazione a formati e diapositive, creare contenuti per le diapositive, applicare transizioni e animazioni e gestire più presentazioni.
+subTitle: "I candidati per l'esame a Microsoft Office Specialist (MOS) PowerPoint 2013 devono conoscere i concetti di base dell'ambiente PowerPoint e saper completare le attività in maniera autonoma."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -36,27 +36,27 @@ skills:
 - Inserire e formattare forme e diapositive
 - Creare i contenuti delle diapositive
 - Applicare transizioni e animazioni
-- Gestire più presentazioni
+- Gestire presentazioni multiple
 roles:
 - business-user
 products:
 - office-powerpoint
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-powerpoint-2013
 - related:
     uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: ../certification-exam-policies.md
 

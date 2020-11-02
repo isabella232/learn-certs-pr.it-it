@@ -8,8 +8,8 @@ displayName: MO-100
 summary: |-
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  Questo esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale. I candidati devono dimostrare la corretta applicazione delle principali caratteristiche di Word e completare le attività in modo indipendente.
-subTitle: Questo esame valuta la tua capacità di sapere applicare correttamente le principali funzionalità di Word creando e modificando documenti di due o tre pagine per vari obiettivi e in più situazioni. L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale.
+  Questo esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale. I candidati devono dimostrare la corretta applicazione delle principali funzionalità di Word e completare le attività in modo indipendente.
+subTitle: Questo esame valuta la tua capacità di sapere dimostrare di sapere applicare correttamente le principali funzionalità di Word creando e modificando documenti di due o tre pagine per vari obiettivi e in più situazioni. L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
 providers:
@@ -35,14 +35,14 @@ locales:
 levels:
 - intermediate
 skills:
-- Gestire i documenti (20-25%)
+- Gestire documenti (20-25%)
 - Inserire e formattare testo, paragrafi e sezioni (20-25%)
 - Gestire tabelle ed elenchi (15-20%)
 - Creare e gestire riferimenti (5-10%)
 - Inserire e formattare elementi grafici (15-20%)
 - Gestire la collaborazione dei documenti (5-10%)
 roles:
-- developer
+- business-user
 products:
 - office
 - office-word
@@ -51,15 +51,15 @@ relatedCertifications:
     uid: certification.mos-word-2019
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
   description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

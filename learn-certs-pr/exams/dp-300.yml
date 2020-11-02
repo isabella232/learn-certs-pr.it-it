@@ -7,31 +7,33 @@ uid: exam.dp-300
 displayName: DP-300
 summary: |-
   <div>
-  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2020. Scaricare il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame è stato aggiornato il giovedì 24 settembre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
 
-  I candidati a questo esame sono amministratori di database e specialisti di gestione dei dati che gestiscono database relazionali on -premise e cloud costruiti su database relazionali basati su Microsoft SQL Server e servizi dati Microsoft Azure.
+  I candidati a questo esame sono amministratori di database e specialisti di gestione dei dati che gestiscono database relazionali in sito e cloud costruiti su database relazionali basati su Microsoft SQL Server e servizi dati Microsoft Azure.
 
-  L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati nativa e ibrida cloud, basate su servizi dati Microsoft Azure e Microsoft SQL Server. L'Azure Database Administrator utilizza una varietà di metodi e strumenti per eseguire le operazioni quotidiane, compresa l'applicazione delle conoscenze sull'uso del T-SQL per la gestione amministrativa.
+  L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati cloud native e ibride che sfruttano Azure Data Services e SQL Server. L'Azure Database Administrator utilizza una varietà di metodi e strumenti per eseguire le operazioni quotidiane, compresa l'applicazione delle conoscenze sull'uso del T-SQL per la gestione amministrativa.
 
-  Questo ruolo è responsabile della gestione, della disponibilità, della sicurezza e del monitoraggio delle prestazioni e dell'ottimizzazione delle moderne soluzioni di database relazionali. Questo ruolo collabora con il ruolo di Azure Data Engineer per gestire gli aspetti operativi delle soluzioni di piattaforma dati.
-subTitle: 'Questo esame misura la capacità di realizzare i seguenti compiti tecnici: pianificare e implementare le risorse della piattaforma dati; implementare un ambiente sicuro; monitorare e ottimizzare le risorse operative; ottimizzare le prestazioni delle query; eseguire l''automazione dei compiti; pianificare e implementare un ambiente HADR (High Availability and Disaster Recovery); ed eseguire l''amministrazione utilizzando T-SQL.'
+  Questo ruolo è responsabile della gestione, della disponibilità, della sicurezza e del monitoraggio delle prestazioni e dell'ottimizzazione delle moderne soluzioni di database relazionali. Questo ruolo collabora con il ruolo di Azure Data Engineer per gestire gli aspetti operativi delle soluzioni di piattaforme dati.
+subTitle: 'Questo esame misura la capacità di realizzare i seguenti compiti tecnici: pianificare e implementare le risorse delle piattaforme dati, implementare un ambiente sicuro, monitorare e ottimizzare le risorse operative, ottimizzare le prestazioni delle query, eseguire l''automazione dei compiti, pianificare e implementare un ambiente HADR (High Availability and Disaster Recovery) ed eseguire l''amministrazione utilizzando T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
 locales:
 - en
+- zh-cn
+- ja
+- ko
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 24 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
+- Il contenuto di questo esame sarà aggiornato il giovedì 24 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
 - Pianificare e implementare le risorse della piattaforma dati (15-20%)
 - Implementare un ambiente sicuro (15-20%)
 - Monitorare e ottimizzare le risorse operative (15-20%)
-- Ottimizzare le prestazioni della query (5-10%)
+- Ottimizzare le prestazioni delle query (5-10%)
 - Eseguire l'automazione dei compiti (10-15%)
-- Pianificare e implementare un ambiente di Alta Disponibilità e Disaster Recovery (HADR) (15-20%)
+- Pianificare e implementare un ambiente HADR (High Availability and Disaster Recovery) (15-20%)
 - Eseguire l'amministrazione utilizzando T-SQL (10-15%)
 roles:
 - database-administrator
@@ -59,27 +61,27 @@ relatedCertifications:
     uid: certification.azure-database-administrator-associate
 resources:
 - title: Viaggio verso la certificazione
-  description: Scopri i passaggi per essere certificato Azure Database Administrator Associate e le risorse disponibili per aiutare a prepararti.
+  description: Scopri i passaggi per essere certificato Azure Database Administrator Associate e le risorse disponibili per aiutarti nella preparazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
   description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

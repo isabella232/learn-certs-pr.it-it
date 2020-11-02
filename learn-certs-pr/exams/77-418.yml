@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: Word 2013
+title: Microsoft Word 2013
 metadata:
-  title: 'Exam 77-418: Word 2013'
-  description: 'Exam 77-418: Word 2013'
+  title: 'Exam 77-418: Microsoft Word 2013'
+  description: 'Exam 77-418: Microsoft Word 2013'
 uid: exam.77-418
 displayName: 77-418
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  I candidati di livello base per l'Esame su Microsoft Word 2013 devono conoscere i principi di base dell’ambiente Word e sapere eseguire le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le principali funzionalità di Word 2013. I candidati dovrebbero essere in grado di creare e modificare documenti di 2-3 pagine per una varietà di scopi e situazioni. Gli esempi includono rapporti professionali, newsletter a più colonne, curriculum vitae e corrispondenza commerciale. I ruoli dei candidati possono includere studenti, impiegati, istruttori e altri.
-subTitle: I candidati di livello base per l'Esame su Microsoft Word 2013 devono conoscere i principi di base dell’ambiente Word e sapere eseguire le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le principali funzionalità di Word 2013. I candidati dovrebbero essere in grado di creare e modificare documenti di 2-3 pagine per una varietà di scopi e situazioni. Gli esempi includono rapporti professionali, newsletter a più colonne, curriculum vitae e corrispondenza commerciale. I ruoli dei candidati possono includere studenti, impiegati, istruttori e altri.
+  I candidati di livello base per l'esame su Microsoft Word 2013 devono conoscere i principi di base dell’ambiente Word e sapere eseguire le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le principali funzionalità di Word 2013. I candidati dovrebbero essere in grado di creare e modificare documenti di 2-3 pagine per una varietà di scopi e situazioni. A titolo di esempio possiamo considerare rapporti professionali, newsletter a più colonne, curriculum vitae e corrispondenza commerciale. I ruoli dei candidati possono includere studenti, impiegati, istruttori e altri.
+subTitle: I candidati di livello base per l'Esame relativo a Microsoft Word 2013 devono conoscere i principi di base dell’ambiente Word e sapere eseguire le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le principali funzionalità di Word 2013. I candidati dovrebbero essere in grado di creare e modificare documenti di 2-3 pagine per una varietà di scopi e situazioni. A titolo di esempio possiamo considerare rapporti professionali, newsletter a più colonne, curriculum vitae e corrispondenza commerciale. I ruoli dei candidati possono includere studenti, impiegati, istruttori e altri.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJC
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-418&examname=Word%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-418
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -44,18 +44,20 @@ products:
 - office
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-word-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: ../certification-exam-policies.md
 

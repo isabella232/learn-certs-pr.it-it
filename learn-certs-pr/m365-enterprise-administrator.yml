@@ -2,24 +2,24 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: 'L’amministratore di Microsoft 365 Enterprise prende parte alla valutazione, pianificazione, migrazione, sviluppo e gestione dei servizi di Microsoft 365.'
+  description: 'L’ Enterprise Administrator di Microsoft 365 prende parte alla valutazione, pianificazione, migrazione, sviluppo e gestione dei servizi di Microsoft 365.'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  Gli Amministratori di Microsoft 365 Enterprise valutano, pianificano, migrano, installano e gestiscono i servizi Microsoft 365.
+  Gli Enterprise Administrator di Microsoft 365 Enterprise valutano, pianificano, migrano, installano e gestiscono i servizi Microsoft 365.
 
-  <div><br/><strong>La certificazione MCSE Productivity Solutions Expert verrà ritirata il 31 gennaio 2021. Pertanto la certificazione MCSE Productivity Solutions Expert non sarà considerata un prerequisito per la certificazione Microsoft 365&#58; Certificazione Enterprise Administrator Expert dopo il 31 gennaio 2022 (1 anno dopo il ritiro di MCSE).</strong></div>
+  <div><br/><strong>L'MCSE&#58; La certificazione Productivity Solutions Expert verrà ritirata il 31 gennaio 2021. Continuerà ad essere come prerequisito per questa certificazione fino al 31 gennaio 2022 (un anno dopo il ritiro della certificazione).</strong></div>
 subTitle: Gli Amministratori di Microsoft 365 Enterprise valutano, pianificano, migrano, installano e gestiscono i servizi Microsoft 365.
 levels:
 - advanced
 skills:
-- Progettare e implementare i servizi Microsoft 365
-- Gestire l'identità e i ruoli degli utenti
+- Progettare e implementare servizi Microsoft 365
+- Gestire l'identità utente e i ruoli
 - Gestire l'accesso e l'autenticazione
-- Pianificare i carichi di lavoro e le applicazioni di Office 365
-- Implementare servizi di dispositivi moderni
+- Pianificare carichi di lavoro e applicazioni di Office 365
+- Implementare i moderni servizi per dispositivi
 - Implementare la sicurezza e la gestione delle minacce di Microsoft 365
 - Gestire la governance e la conformità di Microsoft 365
 roles:
@@ -32,8 +32,6 @@ courses:
 - uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
-  isOptional: false
-- uid: certification.m365-teamwork-administrator
   isOptional: false
 - uid: certification.m365-security-administrator
   isOptional: false
@@ -49,18 +47,18 @@ exams:
 - uid: exam.ms-101
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 

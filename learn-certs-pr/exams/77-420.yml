@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: Excel 2013
+title: Microsoft Excel 2013
 metadata:
-  title: 'Exam 77-420: Excel 2013'
-  description: 'Exam 77-420: Excel 2013'
+  title: 'Exam 77-420: Microsoft Excel 2013'
+  description: 'Exam 77-420: Microsoft Excel 2013'
 uid: exam.77-420
 displayName: 77-420
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  I candidati di livello base per l'esame su Microsoft Excel 2013 devono conoscere i concetti di base dell'ambiente Excel ed essere in grado di completare le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2013. Questi candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine per vari scopi e in diverse situazioni. Gli esempi includono budget professionali, grafici relativi alle prestazioni dei team, fatture commerciali e registri di esercizi. I ruoli dei candidati possono includere studenti, impiegati, contabili, istruttori e altri.
-subTitle: I candidati di livello base per l'esame su Microsoft Excel 2013 devono conoscere i concetti di base dell'ambiente Excel ed essere in grado di completare le attività in modo indipendente. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di Excel 2013. Questi candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine per vari scopi e in diverse situazioni. Gli esempi includono budget professionali, grafici relativi alle prestazioni dei team, fatture commerciali e registri di esercizi. I ruoli dei candidati possono includere studenti, impiegati, contabili, istruttori e altri.
+  Un candidato di livello base all'esame su Microsoft Excel 2013 dovrebbe avere una comprensione fondamentale dell'ambiente Excel e la capacità di completare le attività in modo indipendente. Deve conoscere e dimostrare la corretta applicazione delle funzionalità principali di Excel 2013. Questi candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine per vari scopi e in diverse situazioni. A titolo di esempio possiamo considerare budget professionali, grafici relativi alle prestazioni dei team, fatture commerciali e registri di esercizi. I ruoli dei candidati possono includere studenti, impiegati, contabili, istruttori e altri.
+subTitle: Un candidato di livello base all'esame su Microsoft Excel 2013 dovrebbe avere una comprensione fondamentale dell'ambiente Excel e la capacità di completare le attività in modo indipendente. Deve conoscere e dimostrare la corretta applicazione delle funzionalità principali di Excel 2013. Questi candidati devono essere in grado di creare e modificare una cartella di lavoro con più pagine per vari scopi e in diverse situazioni. A titolo di esempio possiamo considerare budget professionali, grafici relativi alle prestazioni dei team, fatture commerciali e registri di esercizi. I ruoli dei candidati possono includere studenti, impiegati, contabili, istruttori e altri.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-420&examname=Excel%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-420
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -44,18 +44,20 @@ products:
 - office
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-excel-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: ../certification-exam-policies.md
 

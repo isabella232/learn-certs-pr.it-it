@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   I candidati a questo esame sono Functional Consultant che implementano processi di configurazione delle applicazioni di base per le piccole e medie imprese. Implementano e configurano l'app Dynamics 365 Business Central, compresa l'impostazione della funzionalità e dei moduli principali dell'app e la migrazione dei dati a Business Central.
 
@@ -16,8 +16,8 @@ summary: |-
 
   I candidati a questo esame sono in genere specializzati in uno o più set di funzionalità di Business Central. Capiscono il ruolo di Business Central in relazione alla suite di applicazioni Dynamics 365.
 
-  <div><strong><br/>Nota&#58; Tale Esame sarà disponibile ad Ottobre 2020.</strong></div>
-subTitle: 'Tale Esame sarà disponibile ad Ottobre 2020. Questo esame valuta la tua capacità di completare i seguenti compiti: impostare Business Central, configurare i dati finanziari, configurare le vendite e gli acquisti, impostare le operazioni e utilizzare i componenti Power Platform.'
+  <div><strong><br/>Nota&#58; Questo esame sarà disponibile dal 6 ottobre 2020 o intorno a tale data.</strong></div>
+subTitle: 'Questo esame sarà disponibile dal 6 ottobre 2020 o intorno a tale data. Questo esame valuta la tua capacità di completare i seguenti compiti: impostare Business Central, configurare i dati finanziari, configurare le vendite e gli acquisti, impostare le operazioni e utilizzare i componenti Power Platform.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
@@ -26,7 +26,7 @@ levels:
 - intermediate
 skills:
 - Impostare Business Central (20-25%)
-- Configurare dati finanziari (25-30%)
+- Configurare i dati finanziari (25-30%)
 - Configurare le vendite e gli acquisti (10-15%)
 - Eseguire operazioni di Business Central (30-35%)
 roles:
@@ -34,29 +34,42 @@ roles:
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
 resources:
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 

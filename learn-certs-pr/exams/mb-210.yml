@@ -7,16 +7,15 @@ uid: exam.mb-210
 displayName: MB-210
 summary: |-
   <div>
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong> Il contenuto di questo esame sarà aggiornato il 2 ottobre 2020. Scaricare il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame è stato aggiornato il venerdì 2 ottobre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
 
-  I candidati per questo esame sono i consulenti funzionali di Dynamics 365 con esperienza di vendita. I candidati sono responsabili dell'implementazione di soluzioni che supportano un ciclo di vita delle vendite che funzioni in modo efficiente ed efficace, e consenta di raggiungere gli obiettivi di fatturato, le strategie aziendali e gli obiettivi aziendali.
+  I candidati idonei a questo esame sono Dynamics 365 Functional Consultant con esperienza nella vendita. I candidati sono responsabili dell'implementazione di soluzioni che supportano un ciclo di vita delle vendite che funzioni in modo efficiente ed efficace e consenta di raggiungere gli obiettivi di fatturato, le strategie aziendali e gli obiettivi aziendali.
 
-  I candidati sono responsabili della configurazione e dell'espansione delle funzionalità principali per i potenziali clienti, i contatti, gli account, le opportunità e le entità di supporto per mappare i processi di vendita in atto presso l'azienda. Identificano le opportunità di usare Power Apps per sviluppare esperienze unificate per tutti i dispositivi; automatizzare l’integrazione delle applicazioni, i flussi dei processi aziendali e altri strumenti di automazione allo scopo di creare un’applicazione che supporti “l’arrivo di contanti”.
+  I candidati sono responsabili della configurazione e dell'espansione delle funzionalità principali per i potenziali clienti, i contatti, gli account, le opportunità e le entità di supporto per mappare i processi di vendita in atto presso l'azienda. Identificano le opportunità di usare Power Apps per sviluppare esperienze unificate per tutti i dispositivi, automatizzare l’integrazione delle applicazioni, i flussi dei processi aziendali e altri strumenti di automazione allo scopo di creare un’applicazione che supporti e accelleri l’arrivo di contanti.
 
-  Devono possedere una solida conoscenza del business e preferibilmente un'esperienza diretta nel settore delle vendite in uno o più ruoli di vendita.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire la configurazione; gestire le entità di vendita di base; e gestire le entità di vendita.'
+  I candidati devono possedere una solida conoscenza del business e preferibilmente un'esperienza in prima persona nel mondo delle vendite in uno o più ruoli di vendita.
+subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire la configurazione, gestire le entità di vendita di base e  configurare ulteriori strumenti e servizi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
 practiceTestUrl: https://in.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,10 +25,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 2 ottobre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
-- Eseguire la configurazione (40-45%)
-- Gestire le principali entità di vendita (20-25%)
-- Gestire le entità di vendita (35-40%)
+- Il contenuto di questo esame è stato aggiornato il venerdì 2 ottobre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Eseguire la configurazione (25-30%)
+- Gestire le principali entità di vendita (50-55%)
+- Configurare strumenti e servizi aggiuntivi (15-20%)
 roles:
 - functional-consultant
 products:
@@ -51,24 +50,24 @@ resources:
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
 - title: Guida alla formazione e alla certificazione
-  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
-  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
-  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Richiedi alloggi
-  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  description: Scopri come richiedere un alloggio per il tuo esame.
   href: ../request-accommodations.md
-- title: Criteri dell’esame e domande frequenti
-  description: Rivedi i criteri dell’esame e le domande frequenti.
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
 
