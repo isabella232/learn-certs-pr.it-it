@@ -31,8 +31,8 @@ exams:
 summary: |-
   Questo corso fornisce un'ampia panoramica delle applicazioni di Dynamics 365. Ti introdurremo alle applicazioni, all'articolazione del loro valore aziendale e discuteremo sulle demo delle funzionalità di base. Comprenderemo la sicurezza e il reporting Dynamics 365 e familiarizzerai con le integrazioni di dati e prodotti disponibili.
 
-  #### Profilo dei destinatari
-  Questo corso è rivolto agli studenti che desiderano acquisire solidi fondamentali per Dynamics 365.
+  #### Profilo Audience
+  Questo corso è rivolto a coloro che desiderano acquisire una solida base sui fondamenti di Dynamics 365.
 prerequisitesSection: |-
   None
 outlineSection: |-
@@ -87,7 +87,7 @@ outlineSection: |-
   - Dynamics 365 Product Visualize
   - Riepilogo
 
-  #### Lab&#58; esplora Dynamics 365 Sales
+  #### Laboratorio&#58; esplora Dynamics 365 Sales
   - Creare o modificare preventivi
   - Creare o modificare ordini
   - Creare o modificare fatture
@@ -112,7 +112,7 @@ outlineSection: |-
   - Gestione eventi
   - Riepilogo
 
-  #### Lab&#58; esplora Dynamics 365 Marketing
+  #### Laboratorio&#58; esplora Dynamics 365 Marketing
   - Creare e-mail coinvolgenti
   - Individuare il tuo pubblico
   - Creare una campagna
@@ -136,7 +136,7 @@ outlineSection: |-
   - Informazioni sul servizio clienti di Dynamics 365
   - Riepilogo
 
-  #### Lab&#58; esplora il servizio clienti di Dynamics 365
+  #### Laboratorio&#58; esplora il servizio clienti di Dynamics 365
   - Creare e gestire un caso
 
   Al termine di questo modulo gli si saranno in grado di&#58;
@@ -166,14 +166,14 @@ outlineSection: |-
 
 
   ### Module 7&#58; Introduction to Dynamics 365 Finance
-  Per avere successo nell'attuale ambiente degli affari è necessario sfruttare la tecnologia per gestire le finanze in tutto il mondo, monitorare le prestazioni in tempo reale, automatizzare e semplificare le funzioni, proteggere i futuri risultati aziendali e massimizzare la produttività. In questo modulo ti presenteremo Dynamics 365 Finance, l'applicazione aziendale di gestione finanziaria di Microsoft che consente alle organizzazioni aziendali di monitorare le prestazioni delle operazioni finanziarie globali in tempo reale, prevedere esiti futuri e prendere decisioni basate sui dati per favorire la crescita. 
+  Per avere successo nell'attuale ambiente degli affari è necessario sfruttare la tecnologia per gestire le finanze in tutto il mondo, monitorare le prestazioni in tempo reale, automatizzare e semplificare le funzioni, proteggere i futuri risultati aziendali e massimizzare la produttività. In questo modulo ti presenteremo Dynamics 365 Finance, l'applicazione aziendale di gestione finanziaria di Microsoft che consente alle organizzazioni aziendali di monitorare le prestazioni delle operazioni finanziarie globali in tempo reale, prevedere esiti futuri e prendere decisioni basate sui dati per favorire la crescita.
   #### Lezioni
   - Introduzione
   - Panoramica di Dynamics 365 Finance
   - Funzionalità fondamentali di Dynamics 365 Finance
   - Riepilogo
 
-  #### Lab&#58; esplora Dynamics 365 Finance
+  #### Laboratorio&#58; esplora Dynamics 365 Finance
 
   Al termine di questo modulo gli si saranno in grado di&#58;
   - Descrivere i vantaggi di Dynamics 365 Finance
@@ -190,7 +190,7 @@ outlineSection: |-
   - Layout di Dynamics 365
   - Riepilogo
 
-  #### Lab&#58; esplora Dynamics 365 Supply Chain Management
+  #### Laboratorio&#58; esplora Dynamics 365 Supply Chain Management
   - Creare un prodotto
   - Creare master di prodotto
   - Creare un ordine di acquisto
@@ -230,7 +230,7 @@ outlineSection: |-
   - Sviluppo dei dipendenti
   - Riepilogo
 
-  #### Lab&#58; esplora  Dynamics 365 Human Resources
+  #### Laboratorio&#58; esplora Dynamics 365 Human Resources
   - Creare un lavoro
 
   Al termine di questo modulo gli si saranno in grado di&#58;
@@ -268,11 +268,11 @@ outlineSection: |-
   - App Security in Finance and Operations
   - Riepilogo
 
-  #### Lab&#58; esplora i ruoli di sicurezza nelle app basate sul modello di Dynamics 365
+  #### Laboratorio&#58; esplora i ruoli di sicurezza nelle app basate sul modello di Dynamics 365
 
-  #### Lab&#58; esplora i ruoli di sicurezza nelle app Finance and Operations
+  #### Laboratorio&#58; esplora i ruoli di sicurezza nelle app Finance and Operations
 
-  #### Lab&#58; migliora la sicurezza crittografando i tuoi dati
+  #### Laboratorio&#58; migliora la sicurezza crittografando i tuoi dati
 
   Al termine di questo modulo gli si saranno in grado di&#58;
   - Descrivi la sicurezza cloud di Dynamics 365.
@@ -288,7 +288,7 @@ outlineSection: |-
   - Report Dynamics 365
   - Riepilogo
 
-  #### Lab&#58; esplora Power Platform Admin Center
+  #### Laboratorio&#58; esplora Power Platform Admin Center
 
   Al termine di questo modulo gli si saranno in grado di&#58;
   - Descrivere l'utilizzo di Power Platform in Dynamics 365.
@@ -329,4 +329,3 @@ outlineSection: |-
   - Descrivere il quadro di gestione dei dati.
   - Spiegare le integrazioni di Office 365.
   - Esplorare le capacità di integrazione del sistema esterno.
-

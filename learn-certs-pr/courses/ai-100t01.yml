@@ -29,10 +29,20 @@ summary: |-
   #### Profilo dei destinatari
   Il corso è destinato agli architetti di soluzioni cloud, ai progettisti di soluzioni IA di Azure e agli sviluppatori di soluzioni IA.
 prerequisitesSection: |-
-  Prima di partecipare a queso corso, gli studenti devono&#58;
-  - Conoscere i concetti di base di Azure
-  - Conoscere le tecnologie di archiviazione di Azure
-  - Conoscere il linguaggio C#
+  Gli ingegneri di Azure AI di successo accedono al ruolo ruolo attraverso esperienze professionali con le tecnologie cloud e competenza con i kit di sviluppo software.
+  
+  Nello specifico&#58;
+  - Implementazione di soluzioni in C# o Python
+  - Sviluppo di applicazioni Cloud
+  - Comprensione delle tecnologie di archiviazione di Azure
+  
+  Per acquisire questi prerequisiti, accedi alla seguente formazione online gratuita prima di frequentare il corso&#58;
+  - [Esplorare i concetti di Microsoft Azure cloud](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [Primi passi con C#](/learn/paths/csharp-first-steps/) or [Primi passi con Python](/learn/paths/python-first-steps/)
+  - [Servizi Cloud di Base - Introduzione ad Azure](/learn/modules/welcome-to-azure/)
+  - [Servizi Cloud di Base – Opzioni Azure compute](/learn/modules/intro-to-azure-compute/)
+  
+  Se non conosci i servizi di intelligenza artificiale di Azure, completa prima [Nozioni fondamentali di Microsoft Azure AI](/learn/modules/intro-to-azure-compute/).
 outlineSection: |-
   ### Modulo 1&#58; Introduzione a Servizi cognitivi di Azure
   Il modulo permetterà agli studenti di identificare i Servizi cognitivi disponibili in Microsoft Azure e comprendere il loro ruolo nella progettazione di architetture per le soluzioni IA.
@@ -56,7 +66,7 @@ outlineSection: |-
   - Integrare QnA con un Bot
 
 
-  ### Modulo 4&#58;  Imparare come creare una funzionalità Language Understanding con LUIS
+  ### Modulo 4&#58; Imparare come creare una funzionalità Language Understanding con LUIS
   Agli studenti verrà illustrato Language Understanding with Intents and Utterances (LUIS) e verrà spiegato come creare finalità ed espressioni per supportare una soluzione di elaborazione in linguaggio naturale.
   #### Lezioni
   - Introduzione a Language Understanding

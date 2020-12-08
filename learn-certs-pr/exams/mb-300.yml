@@ -8,16 +8,16 @@ displayName: MB-300
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame sarà aggiornato il 16 ottobre 2020. Scaricare il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
-  I candidati idonei a questo esame sono consulenti funzionali che analizzano i requisiti aziendali e li convertono in processi e soluzioni aziendali pienamente realizzati che implementino le migliori prassi del settore. Hanno un ruolo chiave nell’implementazione e nella configurazione di applicazioni in grado di soddisfare i requisiti aziendali.
+  I candidati a questo esame analizzano i requisiti aziendali e traducono tali requisiti in processi e soluzioni pienamente realizzate che implementano le migliori pratiche del settore. I candidati sono la risorsa chiave per l'implementazione e la configurazione delle applicazioni per soddisfare i requisiti aziendali.
   <br/>
 
-  I candidati idonei a questo esame hanno una comprensione di base dei principi contabili e delle operazioni finanziarie a livello aziendale, dell’assistenza clienti, dell’assistenza sul campo e conoscono i principi di gestione della catena di produzione, vendita al dettaglio e fornitura.
+  I candidati comprendono le caratteristiche e le capacità comuni delle app Finance and Operations e come configurarle e utilizzarle. Dovrebbero anche essere consapevoli di come le app Finance and Operations si integrano con sistemi e strumenti esterni, incluso Power Platform. Il candidato gestisce attivamente i cicli di vita delle applicazioni utilizzando Lifecycle Services (LCS) e altri strumenti e piattaforme Microsoft.
 
-  In genere, hanno esperienza nell’uso di uno o più set di funzionalità di Microsoft Dynamics 365 Finance e Operations, compresa la gestione delle finanze, della produzione e della catena di fornitura.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: usare le funzionalità e gli strumenti di implementazione comuni; configurare la sicurezza, i processi e le opzioni; eseguire la migrazione dei dati; convalidare e fornire assistenza per la soluzione.'
+  I candidati a questo esame in genere sono specializzati in una o più funzionalità delle app Finance and Operations, tra cui finanza, produzione e gestione della catena di fornitura.
+subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività: utilizzare funzionalità e strumenti di implementazione comuni; configurare sicurezza, processi e opzioni; gestire i dati finanziari e operativi; e convalidare e supportare la soluzione.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -28,10 +28,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 16 ottobre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
-- Usare le funzionalità comuni e gli strumenti di implementazione (20-25%)
-- Configurare la sicurezza, i processi e le opzioni (45-50%)
-- Eseguire la migrazione dei dati (15-20%)
+- Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
+- Uso delle funzionalità e degli strumenti di implementazione più comuni (15-20%)
+- Configurazione dei livelli di sicurezza, dei processi e delle varie opzioni30-35%)
+- Gestione dei dati di Finance and Operations (25-30%)
 - Convalidare e supportare la soluzione (15-20%)
 roles:
 - functional-consultant

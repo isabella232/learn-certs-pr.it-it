@@ -35,9 +35,16 @@ summary: |-
   #### Profilo dei destinatari
   I destinatari di questo corso sono professionisti dei dati che gestiscono dati e database e che desiderano informazioni sull'amministrazione delle tecnologie della piattaforma dati disponibili in Microsoft Azure. Questo corso è utile anche per gli architetti di dati e gli sviluppatori di applicazioni che devono comprendere quali tecnologie sono disponibili per la piattaforma dati con Azure e come utilizzare tali tecnologie tramite le applicazioni.
 prerequisitesSection: |-
-  Oltre ad avere un’esperienza a livello professionale, gli studenti che decidono di seguire questo corso devono possedere le conoscenze tecniche che si acquisiscono tramite i seguenti corsi&#58;
-  - Azure Fundamentals
-  - Azure Data Fundamentals
+  Gli Azure Database Administrators di successo si addentrano nel ruolo avendo esperienze professionali nella gestione di database e conoscenze tecniche operative delle tecnologie cloud.
+  
+  Nello specifico&#58;
+  - Gestione, manutenzione e sviluppo con SQL Server
+  - Esperienza pregressa con Azure, come la distribuzione e la gestione delle risorse
+  
+  Come requisito, dovresti accedere alle informazioni del seguente servizio di formazione online prima di frequentare il corso&#58;
+  - [Introduzione ad Azure SQL](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
 outlineSection: |-
   ### Modulo 1&#58; Il ruolo di amministratore del database di Azure
   Questo modulo esamina il ruolo di un amministratore di database nel mondo di Azure. Fornisce inoltre alcune informazioni fondamentali rilevanti per il contenuto generale. É prevista una revisione delle varie opzioni basate su SQL Server (SQL Server in una VM, Istanze gestite e Database SQL di Azure.) Gli studenti apprenderanno perché il livello di compatibilità è un concetto fondamentale quando si utilizzano database SQL in Azure. Gli studenti vengono inoltre introdotti ad altre piattaforme di database disponibili su Azure oltre a quelle basate su SQL Server, in particolare PostgreSQL e MySQL
@@ -48,7 +55,7 @@ outlineSection: |-
   - Funzioni di anteprima di Azure
 
 
-  #### Lab &#58; Utilizzo del portale di Azure e del Server SQL Management Studio
+  #### Laboratorio&#58; Utilizzo del portale di Azure e del Server SQL Management Studio
   - Effettuare il provisioning di un Server SQL su macchine virtuali di Azure
   - Connettersi al Server SQL e ripristinare un backup
 
@@ -66,7 +73,7 @@ outlineSection: |-
   - Distribuzione del Server SQL mediante PaaS
   - Distribuzione di soluzioni di database open source in Azure
 
-  #### Lab &#58; Implementare un database SQL di Azure
+  #### Laboratorio&#58; Implementare un database SQL di Azure
   - Implementare una VU utilizzando un modello ARM
   - Configurare le risorse necessarie prima di creare un database
   - Distribuire un database SQL in Azure.
@@ -81,7 +88,7 @@ outlineSection: |-
 
 
   ### Modulo 3&#58; Implementare un ambiente sicuro
-  Questo modulo esamina le pratiche per proteggere il database del Server SQL e un database SQL di Azure. È prevista una revisione delle varie opzioni basate sul Server SQL, nonché delle varie opzioni di Azure per la protezione del database SQL di Azure e dei database che risiedono nel database SQL di Azure. . Gli studenti apprenderanno perché la sicurezza è fondamentale quando si utilizzano i database. . Gli studenti vengono inoltre introdotti ad altre piattaforme di database disponibili su Azure oltre a quelle basate sul Server SQL, in particolare, il Database di Azure per MariaDB//MySQL/PostgreSQL
+  Questo modulo esamina le pratiche per proteggere il database del Server SQL e un database SQL di Azure. È prevista una revisione delle varie opzioni basate sul Server SQL, nonché delle varie opzioni di Azure per la protezione del database SQL di Azure e dei database che risiedono nel database SQL di Azure. Gli studenti apprenderanno perché la sicurezza è fondamentale quando si utilizzano i database. Gli studenti vengono inoltre introdotti ad altre piattaforme di database disponibili su Azure oltre a quelle basate sul Server SQL, in particolare, il Database di Azure per MariaDB/MySQL/PostgreSQL
   #### Lezioni
   - Configurare l’autenticazione del database
   - Configurare l’autorizzazione del database
@@ -89,7 +96,7 @@ outlineSection: |-
   - Implementare la sicurezza per i dati in transito
   - Implementare controlli di conformità per i dati sensibili
 
-  #### Lab &#58; Implementare un ambiente sicuro
+  #### Laboratorio&#58; Implementare un ambiente sicuro
   - Configurare una regola firewall basata su server utilizzando il portale di Azure
   - Autorizzare l'accesso al database SQL di Azure con l'Active Directory di Azure
   - Abilitare la sicurezza dei dati avanzata e la classificazione dei dati
@@ -110,7 +117,7 @@ outlineSection: |-
   - Configurazione del database utente
   - Attività di manutenzione correlate alle prestazioni
 
-  #### Lab &#58; Monitorare ed ottimizzare le risorse
+  #### Laboratorio&#58; Monitorare ed ottimizzare le risorse
   - Isolare i problemi della CPU
   - Utilizzare Query Store per osservare i problemi di blocco
   - Rilevare e correggere i problemi di frammentazione
@@ -130,7 +137,7 @@ outlineSection: |-
   - Esplorare la progettazione di database basata sulle prestazioni
   - Valutare i miglioramenti delle prestazioni
 
-  #### Lab &#58; Risoluzione dei problemi relativi alle prestazioni delle query
+  #### Laboratorio&#58; Risoluzione dei problemi relativi alle prestazioni delle query
   - Identificare i problemi con la progettazione del database AdventureWorks2017
   - Isolare le aree problematiche nelle query con scarse prestazioni in AdventureWorks2017
   - Utilizzare Query Store per rilevare e gestire la regressione in AdventureWorks2017
@@ -151,7 +158,7 @@ outlineSection: |-
   - Configurazione degli eventi estesi
   - Gestione delle risorse PaaS di Azure mediante metodi automatici
 
-  #### Lab &#58; Automazione delle attività
+  #### Laboratorio&#58; Automazione delle attività
   - Implementare un modello di Azure da un modello Quickstart in GitHub
   - Configurare le notifiche in base alle metriche delle prestazioni
   - Implementare un Runbook di automazione di Azure (o un processo elastico) per ricreare gli indici in un database SQL di Azure 
@@ -164,14 +171,14 @@ outlineSection: |-
 
 
   ### Modulo 7&#58; Pianificare e implementare scenari con l’alta disponibilità e il ripristino di emergenza
-  I dati devono essere disponibili quando l'azienda ne ha bisogno. Ciò significa che le soluzioni che ospitano i dati devono essere progettate tenendo presente la disponibilità e la recuperabilità. Supponiamo di lavorare per una società che vende widget sia nei negozi sia online. L'applicazione principale utilizza un database altamente transazionale per gli ordini. Cosa succederebbe se il server o la piattaforma che ospita il database transazionale avesse un problema che lo rendesse non disponibile o inaccessibile per qualche motivo? Che impatto avrebbe sul business? Se venisse messa in atto la soluzione giusta, il database sarebbe online in un lasso di tempo ragionevole con il minimo sforzo, consentendo così alle aziende di continuare con un impatto minimo o nullo. Questo modulo e il laboratorio associato coprono la configurazione, il test e la gestione di una soluzione per high availability and disaster recovery (HADR) in Azure, sia per le distribuzioni Infrastructure-as-a-Service (IaaS) sia Platform-as-a-Service (PaaS). Questo modulo non riguarderà solo i requisiti di base, ma anche le varie opzioni disponibili per ottenere HADR.
+  I dati devono essere disponibili quando l'azienda ne ha bisogno. Ciò significa che le soluzioni che ospitano i dati devono essere progettate tenendo presente la disponibilità e la recuperabilità. Supponiamo di lavorare per una società che vende widget sia nei negozi sia online. L'applicazione principale utilizza un database altamente transazionale per gli ordini. Cosa succederebbe se il server o la piattaforma che ospita il database transazionale avesse un problema che lo rendesse non disponibile o inaccessibile per qualche motivo? Che impatto avrebbe sul business? Se venisse messa in atto la soluzione giusta, il database sarebbe online in un lasso di tempo ragionevole con il minimo sforzo, consentendo così alle aziende di continuare con un impatto minimo o nullo. Questo modulo e il laboratorio associato coprono la configurazione, il test e la gestione di una soluzione per High Availability and Disaster Recovery (HADR) in Azure, sia per le distribuzioni Infrastructure-as-a-Service (IaaS) sia Platform-as-a-Service (PaaS). Questo modulo non riguarderà solo i requisiti di base, ma anche le varie opzioni disponibili per ottenere HADR.
   #### Lezioni
   - Strategie per l’alta disponibilità e il ripristino di emergenza
   - Piattaforma IaaS e strumenti di database per HADR
   - Piattaforma PaaS e strumenti di database per HADR
   - Backup e ripristino del database
 
-  #### Lab &#58; Pianificare e implementare scenari con l’alta disponibilità e il ripristino di emergenza
+  #### Laboratorio&#58; Pianificare e implementare scenari con l’alta disponibilità e il ripristino di emergenza
   - Creare un Always On Availability Group
   - Abilitare la replica geografica per il database SQL di Azure
   - Backup all'URL e ripristino dall'URL

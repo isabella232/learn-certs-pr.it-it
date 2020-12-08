@@ -6,7 +6,10 @@ metadata:
 uid: exam.ms-203
 displayName: MS-203
 summary: |-
+  <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  </div>
 
   I candidati a questo esame sono i Messaging Administrator che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti ibridi sia nei cloud aziendali.
 
@@ -18,12 +21,14 @@ summary: |-
 subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: gestire le impostazioni e le risorse dell'organizzazione, pianificare e gestire l'architettura della posta, pianificare e implementare una configurazione e migrazione ibrida e proteggere l'ambiente di messaggistica."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
 - Gestire le impostazioni e le risorse dell'organizzazione (30-35%)
 - Pianificare e gestire l'architettura della posta (20-25%)
 - Pianificare e implementare una configurazione e una migrazione ibride (20-25%)

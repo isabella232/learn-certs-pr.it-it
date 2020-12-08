@@ -40,13 +40,7 @@ Convalida le tue competenze acquisisci un vantaggio professionale e diventa più
     </table>
 </div>
 
-
-## Risparmia con lo sconto riservato agli studenti
-Approfitta degli sconti sugli esami Microsoft Certified Professional quando verifichi il tuo stato di studente prima di registrarti per un esame. *Nota Gli sconti per gli studenti per gli esami Microsoft Certified non sono disponibili in India e Cina.*
-
-[**Ulteriori informazioni**](/learn/certifications/certification-exam-policies)
-
-## Domande frequenti
+## <a name="frequently-asked-questions"></a>Domande frequenti
 
 **D. Cos’è la ripetizione di un esame?**
 

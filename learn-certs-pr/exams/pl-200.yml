@@ -14,6 +14,8 @@ summary: |-
 
   I candidati collaborano attivamente con i membri del team di garanzia della qualità per garantire che le soluzioni soddisfino i requisiti funzionali e non funzionali. Identificano, generano e distribuiscono artefatti per l’imballaggio e la distribuzione agli ingegneri DevOps e forniscono formazione operativa e di manutenzione agli amministratori della piattaforma Power.
 
+  I Functional Consultant su Power Platform devono avere familiarità con le applicazioni basate su modello di Dynamics 365 e devono avere esperienza nell'uso dei componenti di Power Platform per estendere e personalizzare le applicazioni basate sul modello di Dynamics 365.
+
   <div><strong><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne di più <a href="/learn/certifications/certification-exams#participating-in-beta-exams"> sul valore e l'importanza degli esami beta</a>.</strong></div>
 subTitle: 'Questo esame misura la tua capacità di completare le seguenti attività: configurare il Common Data Service, creare app utilizzando Power Apps, creare e gestire Power Automate, implementare chatbot Power Virtual Agents e integrare Power Apps con altre app e servizi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -42,6 +44,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
@@ -60,6 +64,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
+- title: Percorso di formazione per ottenere la certificazione
+  description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

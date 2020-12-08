@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Microsoft Power Platform Developer
+metadata:
+  title: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+  description: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+uid: course.pl-400t00
+courseNumber: 'PL-400T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Crea un progetto tecnico
+- skill: Configura Common Data Service
+- skill: Crea e configura Power Apps
+- skill: Configura l'automazione dei processi aziendali
+- skill: Estendi l'esperienza dell'utente
+- skill: Estendi la piattaforma
+- skill: Sviluppa integrazioni
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-400
+summary: |-
+  Microsoft Power Platform aiuta le aziende a ottimizzare le proprie operazioni semplificando, automatizzando e trasformando attività e processi aziendali. In questo corso, gli studenti impareranno come creare Power Apps, automatizzare i flussi ed estendere la piattaforma per raggiungere i requisiti aziendali e risolvere problemi complessi.
+
+  #### Profilo dei destinatari
+  I candidati a questo corso progettano, sviluppano, proteggono e risolvono i problemi delle soluzioni Power Platform. I candidati implementano componenti di una soluzione che includono miglioramenti dell'applicazione, esperienza utente personalizzata, integrazioni di sistema, conversioni di dati, automazioni personalizzate dei processi e visualizzazioni personalizzate. I candidati acquisiranno una conoscenza applicata dei servizi di Power Platform, inclusa una comprensione approfondita di capacità, limiti e vincoli. Viene richiesta esperienza nello sviluppo di soluzioni software che includa JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET e Power BI.
+prerequisitesSection: |-
+  - I candidati devono avere una conoscenza base di Power Platfom
+  - Ai candidati viene richiesta esperienza nello sviluppo di soluzioni software che includa JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET e Power BI
+outlineSection: |-
+  ### Modulo 1&#58; creare un'applicazione basata su modelli su Power Apps
+  Questo modulo introduce alla creazione di un'app basata su modelli su Power Apps che usa Common Data Service.
+  
+  
+  ### Modulo 2&#58; Introduzione all'uso di Common Data Service
+  Questo modulo spiegherà i concetti base e i vantaggi di Common Data Service. Vengono inoltre discussi la creazione di un ambiente, entità, campi e insiemi di opzioni.
+  
+  
+  ### Modulo 3&#58; Crea un'app Canvas con Power Apps
+  Questo modulo ti introduce a Power Apps e ti aiuta a creare, personalizzare, gestire e distribuire un'app. Ti mostrerà anche come migliorare la navigazione dell'app e creare l'interfaccia utente ideale utilizzando temi, icone, immagini, personalizzazioni, diversi fattori di forma e vari controlli.
+  
+  
+  ### Modulo 4&#58; Automatizza un processo aziendale utilizzando Power Automate
+  Questo modulo introduce a Power Automate, imparareai come creare flussi di lavoro e come amministrare i flussi.
+  
+  
+  ### Modulo 5&#58; Crea un flusso di processi aziendali su Power Automate
+  Questo è un modulo introduttivo alla creazione di flussi di processi aziendali su Power Automate.
+  
+  
+  ### Modulo 6&#58; Introduzione allo sviluppo con Power Platform
+  Questo modulo è il primo passo per conoscere la piattaforma, gli strumenti e l'ecosistema di Power Platform
+  
+  
+  ### Modulo 7&#58; Migliroamento dell'esperienza utente di Power Platform App basate su modelli
+  Questo modulo descrive come creare script client, eseguire azioni comuni con script client e automatizzare il flusso dei processi aziendali con script client. Informazioni su cosa può fare lo script client, regole e gestione degli script. Scopri quando è opportuno utilizzare uno script client.
+  
+  
+  ### Modulo 8&#58; Creazione di componenti con Power Apps Component Framework
+  Questo modulo descrive il miglior approccio alla piattaforma Power Apps Component Framework con un modulo introduttivo sui concetti e sui componenti principali. Inoltre mostra come creare un componente ed utilizzare le funzionalità avanzate di Power Apps Component Framework.
+  
+  
+  ### Modulo 9&#58;  Estensione del servizio dati comune di Power Platform
+  Questo modulo esamina gli strumenti e le risorse necessarie per l'estensione di Power Platform. Inizieremo esaminando gli SDK, il modello di estensibilità e il framework degli eventi. Questo percorso di apprendimento copre anche gli scenari d'utilizzo dei plug-in. Configurazione, registrazione e distribuzione dei plug-in.
+  
+  
+  ### Modulo 10&#58; Intragrazione con Power Platform e Common Data Service
+  Questo modulo descrive come eseguire l'integrazione di Common Data Service in modalità "code by learning" per l'API Common Data Service. Ottieni una panoramica approfondita delle opzioni disponibili con Common Data Service per integrare dati ed eventi in Azure.
+  
+  
+  ### Modulo 11&#58; Estendi i portali Power Apps
+  Questo modulo descrive come trasformare un portale di contenuti in un'app Web completa che interagisce con Common Data Service. Tratteremo anche le opzioni disponibili per sviluppatori per estendere le funzionalità del portale e integrarle con i componenti di Office 365, Power Platform e Azure.

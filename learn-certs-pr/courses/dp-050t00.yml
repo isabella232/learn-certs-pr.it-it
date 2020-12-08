@@ -29,8 +29,15 @@ summary: |-
   I destinatari di questo corso sono professionisti responsabili dei dati e architetti di dati che desiderano acquisire una conoscenza più approfondita delle tecnologie per la migrazione delle piattaforme dati disponibili in Microsoft Azure e comprendere in che modo i carichi di lavoro basati su SQL esistenti possono essere migrati e resi più moderni.
   Questo corso è consigliato anche a chiunque gestisca piattaforme dati o sviluppi applicazioni che forniscono contenuto utilizzando le tecnologie Data Platform esistenti.
 prerequisitesSection: |-
-  Oltre ad avere un’esperienza professionale nell’uso di SQL Server, gli studenti che seguono questo corso devono possedere conoscenze tecniche equivalenti a quelle che si ottengono seguendo i seguenti corsi&#58;
-  - [Azure fundamentals](https&#58;//docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+  Gli studenti di successo iniziano questo ruolo con una conoscenza base dei concetti di cloud computing e un'esperienza professionale nell'implementazione di soluzioni SQL.
+  
+  Nello specifico&#58;
+  - Lavorare con e mantenere Workload SQL
+  - Esperienza pregressa con Azure, come la distribuzione e la gestione delle risorse
+  
+  Per acquisire queste competenze, segui il percorso formazione online gratuito prima di frequentare il corso&#58;
+  - [Introduzione ad Azure SQL](/learn/modules/azure-sql-intro/)
+  - [Fondamenti di Azure](/learn/certifications/azure-fundamentals)
 outlineSection: |-
   ### Modulo 1&#58; Introduzione alla modernizzazione Data Platform
   In questo modulo gli studenti comprenderanno lo scopo della modernizzazione Data Platform e saranno in grado di illustrare i vantaggi che questa modernizzazione può apportare a un’organizzazione. Gli studenti esamineranno le varie fasi dei progetti di migrazione Data Platform per comprendere ciò che comporta ciascuna fase e massimizzare le probabilità di portare a termine con successo i progetti di modernizzazione Data Platform. Infine, gli studenti esaminerano i vari percorsi di migrazione dei dati per comprendere le caratteristiche specifiche di ciascun approccio ed essere in grado di scegliere un approccio anziché un altro.
@@ -38,7 +45,7 @@ outlineSection: |-
   - Comprendere il concetto di modernizzazione Data Platform
   - Comprendere le fasi della migrazione
   - Percorsi di migrazione dei dati
-  #### Laboratorio &#58; Introduzione alla modernizzazione Data Platform
+  #### Laboratorio&#58; Introduzione alla modernizzazione Data Platform
   - Comprendere il concetto di modernizzazione Data Platform
   - Comprendere le fasi della migrazione
   - Percorsi di migrazione dei dati
@@ -60,7 +67,7 @@ outlineSection: |-
   - Eseguire la migrazione di carichi di lavoro diversi da quelli di SQL Server in Azure con SQL Migration Assistant
 
 
-  #### Laboratorio &#58; Scegliere gli strumenti giusti per la migrazione dei dati
+  #### Laboratorio&#58; Scegliere gli strumenti giusti per la migrazione dei dati
   - Identificare gli elementi da migrare con Data Migration Assistant
   - Valutare un carico di dati con Database Experimentation Assistant
 
@@ -80,7 +87,7 @@ outlineSection: |-
   - Implementare scenari con l’alta disponibilità e il ripristino di emergenza
 
 
-  #### Laboratorio &#58; Eseguire la migrazione di carichi di lavoro SQL alle macchine virtuali di Azure
+  #### Laboratorio&#58; Eseguire la migrazione di carichi di lavoro SQL alle macchine virtuali di Azure
   Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Considerazioni sulle migrazioni da SQL Server alle macchine virtuali di Azure
   - Opzioni per la migrazione dei carichi di lavoro SQL alle macchine virtuali di Azure
@@ -99,7 +106,7 @@ outlineSection: |-
   - Caricare e spostare i dati in un database SQL di Azure
 
 
-  #### Laboratorio &#58; Eseguire la migrazione dei carichi di lavoro SQL ai database SQL di Azure
+  #### Laboratorio&#58; Eseguire la migrazione dei carichi di lavoro SQL ai database SQL di Azure
   Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Scegliere l’opzione appropriata per l’istanza SQL Server in Azure
   - Eseguire la migrazione offline da SQL Server a un database SQL di Azure
@@ -118,10 +125,9 @@ outlineSection: |-
   - Configurare e ottimizzare l’applicazione
 
 
-  #### Laboratorio &#58; Eseguire la migrazione dei carichi di lavoro SQL al database SQL di Azure
+  #### Laboratorio&#58; Eseguire la migrazione dei carichi di lavoro SQL al database SQL di Azure
   Al termine di questo modulo, gli studenti saranno in grado di&#58;
   - Valutare gli scenari per la migrazione a un’istanza gestita di database SQL
   - Eseguire la migrazione a un’istanza gestita di database SQL
   - Caricare e spostare i dati in un’istanza gestita di database SQL
   - Configurare e ottimizzare l’applicazione
-

@@ -1,6 +1,6 @@
 ---
-title: 'Panoramica del processo d'esame | Microsoft Docs'
-description: 'Panoramica del processo d'esame'
+title: 'Domande frequenti | Microsoft Docs'
+description: 'Domande frequenti'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,22 +10,11 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Panoramica del processo d'esame
-
-## Politiche e accordi
+# Domande frequenti
 
 Le domande frequenti contengono risposte relative agli esami di certificazione Microsoft.
 
-- Aspetti di base sugli esami
-- Aspetti specifici degli esami
-- Punteggio e risultati
-- Criteri di sicurezza e integrità degli esami
-- Test basato sulle prestazioni
-- Certificazioni basate sui ruoli
-- Prezzi accademici degli esami
-- Richieste di sistemazioni speciali
-
-### Aspetti di base sugli esami
+## Aspetti di base sugli esami
 
 **Quante domande ci saranno all'esame?**
 
@@ -69,14 +58,14 @@ Il modo migliore per prepararsi a un esame è esercitarsi sulle competenze elenc
 I formatori certificati Microsoft lavorano con molti candidati mentre si preparano per le certificazioni. Spesso raccomandano i seguenti passaggi per aiutare i candidati a focalizzare i loro studi:
 
 - [Visualizza tutti gli esami](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) per trovare l'esame che ti interessa.
-- Stampare la sezione Skills Measured (Misurazioni delle competenze) nella pagina. 
-- Scorrere l'intero elenco. Riflettere su ogni argomento. Se si è molto esperti su un argomento specifico, evidenziare l'argomento o cancellarlo. 
+- Stampare la sezione Skills Measured (Misurazioni delle competenze) nella pagina.
+- Scorrere l'intero elenco. Riflettere su ogni argomento. Se si è molto esperti su un argomento specifico, evidenziare l'argomento o cancellarlo.
 - Individuare gli argomenti che devono ancora essere completati. Quindi, iniziare alcune ricerche mirate. Per ogni argomento non evidenziato, cercare sul web articoli specifici.
     - Utilizzare fonti autorevoli come docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com e il centro di supporto di Office 365.
 
 In alternativa, è possibile anche chiedere ad altri come svolgono queste attività, leggere white paper, MSDN o TechNet per ottenere ulteriori informazioni sulle attività incluse nell'esame, e/o esplorare le risorse fornite nella sezione "Preparation Materials” (Materiali di preparazione) nella pagina dei dettagli dell’esame per accedere a eventuali altri corsi di formazione disponibili, micro-corsi, opzioni e il portale in cui è possibile trovare opzioni di formazione con istruttore nella propria area.
 
-Inoltre, per alcuni dei nostri esami di certificazione, ci sono anche [Test pratici Microsoft ufficiali](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1). Questi test possono fornire ulteriori informazioni relative alle specifiche aree di forza e debolezza. Tuttavia, superare un test di valutazione non garantisce il superamento di un esame di certificazione.
+Inoltre, per alcuni dei nostri esami di certificazione, ci sono anche [Test pratici Microsoft ufficiali](https://www.measureup.com/microsoft/microsoft-technical/microsoft-practice-tests.html). Questi test possono fornire ulteriori informazioni relative alle specifiche aree di forza e debolezza. Tuttavia, superare un test di valutazione non garantisce il superamento di un esame di certificazione.
 
 Se non hai superato l’esame, puoi dare la priorità alle competenze da preparare basandoti sulle aree di contenuti in cui le prestazioni dell'esame sono risultate inferiori e sulle aree di contenuti con la percentuale più alta di domande.
 
@@ -86,11 +75,11 @@ Visita la [pagina di registrazione agli esami](https://docs.microsoft.com/learn/
 
 **Devo sostenere l'esame in inglese?**
 
-Gli esami di certificazione Microsoft sono disponibili in diverse lingue. Tuttavia, i candidati che devono sostenere l'esame in inglese invece che nella propria lingua di origine possono richiedere del tempo aggiuntivo per completarlo. L'approvazione per i tempi aggiuntivi viene fornita caso per caso e deve essere richiesta prima dell'esame. Questi dovrebbero essere richiesti attraverso il [accommodations process](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Gli esami di certificazione Microsoft sono disponibili in diverse lingue. Tuttavia, i candidati che devono sostenere l'esame in inglese invece che nella propria lingua di origine possono richiedere del tempo aggiuntivo per completarlo. L'approvazione per i tempi aggiuntivi viene fornita caso per caso e deve essere richiesta prima dell'esame. Questi dovrebbero essere richiesti attraverso il [accommodations process](/learn/certifications/request-accomodations).
 
 **Quali sono i servizi disponibili per i disabili?**
 
-Microsoft ha l'obiettivo di assicurare che gli esami siano accessibili a tutti, anche ai disabili. Per un elenco di alloggi disponibili, visitare la [accommodations section](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Microsoft ha l'obiettivo di assicurare che gli esami siano accessibili a tutti, anche ai disabili. Per un elenco di alloggi disponibili, visitare la [sezione richieste di alloggio](/learn/certifications/exam-process-overview#accommodation-requests).
 
 **Quanto costano gli esami?**
 
@@ -114,7 +103,7 @@ Per offrire altri tipi di feedback, si prega di contattare [Certification Suppor
 
 Per segnalare dubbi sulla sicurezza, contatta [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Aspetti specifici degli esami
+## Aspetti specifici degli esami
 
 **Che tipo di domande contengono gli esami di certificazione Microsoft?**
 
@@ -195,7 +184,7 @@ Poiché non si viene penalizzati per le risposte errate e gli esami contengono a
 
 No. Lo stesso esame non può essere usato per soddisfare i requisiti per la certificazione MSCA e come same facoltativo per una certificazione MCSE o MCSD dello stesso percorso.
 
-### Punteggio e risultati
+## Punteggio e risultati
 
 **Come e quando otterrò i risultati dell'esame?**
 
@@ -317,7 +306,7 @@ Fare riferimento alla sezione [Criteri per la sicurezza e la ripetizione degli e
 
 **Come posso contestare una domanda di un esame?**
 
-Se ritieni che una domanda di un Microsoft Certification exam sia imprecisa, puoi richiedere una valutazione di tale domanda utilizzando la [procedura di contestazione a un elemento di un esame](/learn/certifications/exam-reschedule-and-cancellation-policy) entro 30 giorni di calendario dalla data da cui è stato sostenuto l’esame. Il processo di valutazione aiuta Microsoft a identificare e correggere le domande problematiche e ad aggiornare gli esami di conseguenza.
+Se ritieni che una domanda di un Microsoft Certification exam sia imprecisa, puoi richiedere una valutazione di tale domanda utilizzando la [procedura di contestazione a un elemento di un esame](/learn/certifications/exam-item-challenge-process) entro 30 giorni di calendario dalla data da cui è stato sostenuto l’esame. Il processo di valutazione aiuta Microsoft a identificare e correggere le domande problematiche e ad aggiornare gli esami di conseguenza.
 
 **Sarà un dipendente Microsoft a rivedere e valutare la domanda d'esame oggetto della discussione?**
 
@@ -335,7 +324,7 @@ Per proteggere la sicurezza dell'esame, le motivazioni relative alle decisioni d
 
 No. Microsoft non prevede rimborsi in caso di mancato superamento o mancata partecipazione agli esami.
 
-### Criteri di sicurezza e integrità degli esami
+## Criteri di sicurezza e integrità degli esami
 
 **Perché devo accettare un accordo di non divulgazione (NDA) prima di sostenere l'esame?**
 
@@ -399,7 +388,7 @@ Se stabilisce che un centro di testing ha dimostrato un comportamento illecito o
 
 Sì. Tutta la corrispondenza inviata a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) viene mantenuta anonima e Microsoft non condividerà le informazioni di contatto con nessuno. Se si desidera includere le informazioni di contatto in modo da essere contattati qualora fossero necessari ulteriori dettagli, Microsoft si impegnerà a proteggerle.
 
-### Test basato sulle prestazioni
+## Test basato sulle prestazioni
 
 **Cos'è un test basato sulle prestazioni (PBT)?**
 
@@ -418,11 +407,11 @@ Dopo essere usciti da un laboratorio, non è possibile tornarvi perché il punte
 
 Quando inizi l'esame, vedrai una schermata che ti dice quanti elementi, case study e laboratori, incluso il numero di attività, saranno presenti nell'esame. Si prega di prendere nota di queste informazioni in modo da poter pianificare il momento dell'esame.
 
-Dopo aver iniziato l'esame, risponderai a tutte le domande tradizionali dell'esame (ad esempio scelta multipla, trascinamento della selezione, elenco da compilare, ecc.) durante il caricamento dei laboratori. Il / i laboratorio / i saranno l'ultima sezione dell'esame. Tenere presente quanto segue:
+Dopo aver iniziato l'esame, risponderai a tutte le domande tradizionali dell'esame (ad esempio scelta multipla, trascinamento della selezione, elenco da compilare, ecc.) durante il caricamento dei laboratori. Il/i laboratorio/i saranno l'ultima sezione dell'esame. Tenere presente quanto segue:
 
 - Una volta lasciata qualsiasi sezione dell'esame (ad esempio, case study o laboratori), non puoi ritornare ad essa. Tuttavia, alla fine della maggior parte delle sezioni, hai l'opportunità di rivedere le tue risposte (il tuo esame può includere una sezione che non può essere rivista; questo è indicato all'inizio della sezione). **Il tempo allocato per l'esame NON verrà interrotto nel periodo in cui il candidato sta revisionando le sue risposte. Gestire bene il tempo**, prestando attenzione sia al tempo CHE al numero di domande restanti.
 
-- Ogni esame prevede uno/a o due sezioni/laboratori dedicati alle prestazioni con più attività che il candidato è tenuto a completare. La ricerca mostra che il completamento delle attività richiede un tempo superiore di circa 4 volte rispetto a un'attività tradizionale. Gestisci il tuo tempo in modo da avere tempo sufficiente per completare i laboratori. Abbiamo assicurato che i candidati che gestiscono saggiamente il loro tempo avranno molto tempo in più di quello necessario per completare il / i laboratorio / i.
+- Ogni esame prevede uno/a o due sezioni/laboratori dedicati alle prestazioni con più attività che il candidato è tenuto a completare. La ricerca mostra che il completamento delle attività richiede un tempo superiore di circa 4 volte rispetto a un'attività tradizionale. Gestisci il tuo tempo in modo da avere tempo sufficiente per completare i laboratori. Abbiamo assicurato che i candidati che gestiscono saggiamente il loro tempo avranno molto tempo in più di quello necessario per completare il/i laboratorio/i.
 
 - Il numero di laboratori e compiti dell'esame è fornito nella pagina di panoramica che precede il primo laboratorio. Leggere bene il contenuto della pagina! E usare queste informazioni per gestire al meglio il tempo.
 
@@ -448,7 +437,7 @@ La maggior parte delle attività vale un punto; se l'attività vale più di un p
 
 **Quanto tempo ho a disposizione per completare i laboratori?**
 
- I laboratori non sono cronometrati separatamente dall'esame. All'inizio dell'esame vengono indicati il numero di laboratori, i casi di studio, le domande e la durata dell'esame. Il candidato deve rispondere a tutte le domande, compreso il completamento delle attività associate a qualsiasi laboratorio, nel tempo previsto. Gestire il tempo in modo da riuscire completare tutte le attività previste.
+I laboratori non sono cronometrati separatamente dall'esame. All'inizio dell'esame vengono indicati il numero di laboratori, i casi di studio, le domande e la durata dell'esame. Il candidato deve rispondere a tutte le domande, compreso il completamento delle attività associate a qualsiasi laboratorio, nel tempo previsto. Gestire il tempo in modo da riuscire completare tutte le attività previste.
 
 **Avrò abbastanza tempo per completare i laboratori?**
 
@@ -490,7 +479,7 @@ No. Le competenze valutate rimangono le stesse, indipendentemente dal formato de
 
 I centri di testing in cui è possibile eseguire esami con laboratori devono soddisfare requisiti di connettività internet specifici. Per questo, l’elenco di centri di testing è più limitato. I laboratori che verranno progressivamente aggiunti agli esami basati sui ruoli saranno gestiti dai centri che eseguono tali esami. Se il candidato ha in mente un centro di valutazione specifico, può contattarlo direttamente per sapere se gestisce esami con laboratori perché è possibile che non sia visualizzato nell'elenco come centro disponibile dopo la selezione dell'esame. In questo caso, consigliamo al candidato di cercare un altro centro oppure di sostenere l'esame con l’opzione della sorveglianza online. Nota: Potresti essere in grado di frequentare i laboratori supervisionati online; tuttavia, ciò dipenderà dalla larghezza di banda e dalla connessione Internet.
 
-### Certificazioni basate sui ruoli
+## Certificazioni basate sui ruoli
 
 **Che nome avranno le certificazioni basate sui ruoli? Si chiameranno sempre MCSA, MCSD e MCSE?**
 
@@ -512,7 +501,7 @@ Prima che gli esami vengano effettivamente ritirati, è opportuno assicurarsi di
 
 No. Non prevediamo di modificare i requisiti relativi all’esperienza che i candidati devono possedere per superare gli esami o conseguire le nostre certificazioni. La formazione è concepita per preparare i candidati agli esami, ma non è di per sé sufficiente. Nei nostri esami basati sui ruoli si chiede al candidato di applicare le competenze e le conoscenze acquisite durante la formazione in situazioni del mondo reale.
 
-### Prezzi accademici degli esami
+## Prezzi accademici degli esami
 
 **Posso ottenere un rimborso se ho inizialmente effettuato la registrazione e il pagamento per un esame senza verificare la possibilità di sconti accademici, che ho verificato successivamente?**
 
@@ -530,11 +519,11 @@ Sì. È seguire la stessa procedura applicabile agli studenti. In altre parole, 
 
 In caso di domande generali relative alla registrazione degli esami o domande specifiche per una richiesta nuova o in attesa di verifica, si prega di contattare [Certification Support](https://aka.ms/mcpforum).
 
-### Richieste di sistemazioni speciali
+## Richieste di sistemazioni speciali
 
 **Cosa occorre fare per richiedere una sistemazione speciale?**
 
-Se si necessita di attrezzature particolari o di una sistemazione speciale per sostenere l’esame, è possibile inviare la tua richiesta tramite [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizzando il sistema “Reasonable Adjustments Request System” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Per ulteriori dettagli, consulta la sezione [Sistemazione speciale per gli esami](/learn/certifications/request-accomodations) riportata in precedenza.
+Se si necessita di attrezzature particolari o di una sistemazione speciale per sostenere l’esame, è possibile inviare la tua richiesta tramite [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) utilizzando il sistema “Reasonable Adjustments Request System” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Per ulteriori dettagli, consulta la sezione [Richiedi alloggi](/learn/certifications/request-accomodations) riportata in precedenza.
 
 **Perché devo presentare della documentazione?**
 

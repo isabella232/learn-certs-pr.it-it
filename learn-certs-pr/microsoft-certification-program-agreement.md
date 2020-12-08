@@ -1,6 +1,6 @@
 ---
 title: 'Accordo del programma di certificazione Microsoft | Microsoft Docs'
-description: 'Accordo del programma di certificazione Microsoft' 
+description: 'Accordo del programma di certificazione Microsoft'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -11,8 +11,6 @@ ms.author: msulliv
 ms.prod: non-product-specific
 ---
 # Accordo del programma di certificazione Microsoft
-
-## Politiche e accordi
 
 Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un documento legale stipulato tra il candidato (**"tu"** o **"tuo"**) e Microsoft (**”Microsoft”**) riguardante la tua partecipazione al Programma di Certificazione Microsoft (**"Programma”**). I termini del presente Contratto si applicano a (a) qualsiasi certificazione Microsoft ottenuta dal candidato; e (b) alla partecipazione al programma, ivi incluso l'accesso e l'utilizzo da parte del candidato di qualsiasi vantaggio del Programma di certificazione Microsoft, qualsiasi credenziale di certificazione Microsoft o qualsiasi logo di certificazione Microsoft che Microsoft rende disponibile al candidato nell'ambito del programma. È consigliabile leggere attentamente il presente Contratto. L'ACCESSO O L'UTILIZZO DA PARTE DEL CANDIDATO DI UN VANTAGGIO DEL PROGRAMMA DI CERTIFICAZIONE O DI UNA CREDENZIALE PER UNA CERTIFICAZIONE MICROSOFT IMPLICA L'ACCETTAZIONE DEI TERMINI E DELLE CONDIZIONI DEL PRESENTE CONTRATTO. SE NON SI ACCETTANO I TERMINI E LE CONDIZIONI DEL PRESENTE CONTRATTO, NON SARÀ POSSIBILE ACCEDERE O UTILIZZARE ALCUN VANTAGGIO DEL PROGRAMMA DI CERTIFICAZIONE MICROSOFT, ALCUNA CREDENZIALE DI CERTIFICAZIONE MICROSOFT, NÉ ALCUN LOGO DI CERTIFICAZIONE MICROSOFT.
 
@@ -67,7 +65,6 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
 
         1. Il candidato accetta di (i) astenersi da comportamenti che possano nuocere alla reputazione di Microsoft; (ii) evitare pratiche ingannevoli, fuorvianti o disoneste; (iii) evitare qualsivoglia rappresentazione o garanzia nei confronti dei clienti per conto di Microsoft; (iv) rispettare tutte le norme vigenti in materia di esportazione degli Stati Uniti, nonché altre leggi e regolamenti regionali in vigore; e (v) rispettare copyright e altre protezioni relative a diritti di proprietà e proprietà intellettuale.
         2. Il candidato è tenuto a non pubblicizzare, promuovere, sottintendere o suggerire in alcun modo di essere dipendente, affiliato, supportato o sponsorizzato da Microsoft, se non per indicare che ha conseguito tutti i requisiti specifici per la credenziale o le credenziali ottenute. Durante il periodo di validità del presente Contratto, sarà necessario inserire la seguente frase in ciascun contratto volto a fornire servizi che prevedono l'utilizzo di tecnologie Microsoft:
-    
              "*Microsoft non è parte nel presente contratto e non sarà in alcun modo responsabile dei servizi oggetto del presente contratto. La Credenziale di certificazione Microsoft indica che sono stati conseguiti tutti i requisiti per la credenziale di certificazione Microsoft corrispondente. I servizi forniti non sono supportati o sponsorizzati da Microsoft*".
         3. Alcuni stati e paesi regolano l'utilizzo del termine "engineer". Nel caso in cui venga utilizzata una Credenziale contenente la dicitura "Microsoft Certified Systems Engineer", sarà quindi necessario rispettare le leggi vigenti in materia.
 
