@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Processo di obiezione agli elementi d'esame
 
-## Politiche e accordi
-
 Gli esami di certificazione Microsoft sono progettati per garantire che i candidati che superano gli esami e ottengono le nostre certificazioni abbiano dimostrato il/i livello/i di competenza richiesto/i in tutto il/i dominio/i di competenza. Ogni domanda d'esame per la certificazione Microsoft viene attentamente esaminata da un gruppo di esperti tecnici e di esperti di funzioni lavorative per verificarne l'accuratezza tecnica, la chiarezza e la pertinenza. Se si ritiene che una domanda di un esame di certificazione Microsoft sia imprecisa, è possibile richiedere una valutazione della domanda attraverso il processo di revisione dell'esame, progettato per aiutare a identificare e correggere le domande problematiche. Tuttavia, anche se una domanda è in qualche modo imperfetta, non possiamo presumere che, se non lo fosse stata, avresti risposto correttamente, quindi la maggior parte degli esami non viene valutata nuovamente. In questi casi, diamo la possibilità agli studenti di sostenere nuovamente l'esame gratuitamente.
 
 ### Criteri per l'accettazione di una revisione d'esame:

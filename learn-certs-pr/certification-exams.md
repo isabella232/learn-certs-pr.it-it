@@ -28,7 +28,7 @@ La pagina dei dettagli degli esami contiene per ciascun esame una sezione “Com
 
 #### Corsi tenuti da un istruttore
 
-[Scopri i corsi in aula e on-demand sulle tecnologie Microsoft, offerti dai Microsoft Certified Trainer.](https://www.microsoft.com/learning/find-partner.aspx)
+[Scopri i corsi in aula e on-demand sulle tecnologie Microsoft, offerti dai Microsoft Certified Trainer.](/learn/certifications/partners)
 
 #### Consulta i corsi di formazione gratuiti online
 
@@ -185,7 +185,7 @@ Una parte fondamentale del processo di sviluppo di un esame è l'esame beta. L'e
 
 Gli esami beta Microsoft sono offerti con uno sconto dell’80% (è richiesto un codice). I candidati che usufruiscono dello sconto dell'80% per sostenere l'esame beta ricevono uno sconto del 25% sul loro esame successivo dopo che il rescoring è completo, come spiegato qui: [Aggiornamenti sul programma Microsoft Beta Exam](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Questo sconto NON è generalmente disponibile per tutti i partecipanti agli esami beta. Se paghi l'esame beta utilizzando qualsiasi altro metodo, non hai diritto al buono sconto del 25%._
 
-Il codice si può ottenere essendo membri del nostro database del SME Profile, oppure è possibile ottenerlo dalla sezione Annunci a sinistra della nostra pagina [pagina delle politiche degli esami e delle FAQ](/learn/certifications/certification-exam-policies). I partecipanti qualificati nel programma di database dei profili SME ricevono un unico codice sconto per prendere parte agli esami beta ed hanno pertanto maggiori probabilità di ottenere un posto agli esami beta.
+Per ottenere il codice, puoi essere un membro del nostro database dei profili SME oppure puoi ottenerlo dagli annunci sul [blog di apprendimento Microsoft](https://aka.ms/learningblog). I partecipanti qualificati nel programma di database dei profili SME ricevono un unico codice sconto per prendere parte agli esami beta ed hanno pertanto maggiori probabilità di ottenere un posto agli esami beta.
 
 Il programma di database SME Profile è ora ospitato su [Microsoft Collaborate](https://aka.ms/collaborate). Consultare il blog della comunità [Aiutaci a creare esami e contenuti didattici! Unisciti al nostro database SME oggi!](/learn/certifications/posts/help-us-create-exams-and-learning-content) per avere istruzioni su come aderire al programma su Collaborate.
 

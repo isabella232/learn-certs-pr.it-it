@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame è stato aggiornato il 17 settembre 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame dovrebbero essere architetti o ingegneri con una vasta esperienza e conoscenza del panorama dei sistemi SAP e degli standard di settore specifici per il funzionamento a lungo termine di una soluzione SAP su Microsoft Azure.
@@ -31,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame è stato aggiornato il giovedì 17 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
 - Eseguire la migrazione dei carichi di lavoro SAP in Azure (10-15%)
 - Progettare una soluzione Azure che supporti i carichi di lavoro SAP (20-25%)
 - Compilare e distribuire Azure per i carichi di lavoro SAP (35-40%)

@@ -6,7 +6,10 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
+  <div>
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  </div>
 
   I candidati a questo esame devono avere esperienza in materia di implementazione, gestione e monitoraggio dell'ambiente Microsoft Azure di un'organizzazione.
 
@@ -32,6 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
 - Gestire le identità e la governance Azure (15-20%)
 - Implementare e gestire l'archiviazione (10-15%)
 - Distribuire e gestire le risorse di calcolo Azure (25-30%)

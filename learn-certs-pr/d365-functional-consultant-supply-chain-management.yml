@@ -15,12 +15,13 @@ levels:
 skills:
 - Usare le funzionalità comuni e gli strumenti di implementazione
 - Configuare la sicurezza, i processi e le opzioni
-- Eseguire la migrazione dei dati
+- Gestione dei dati di Finance and Operations
 - Convalidare e fornire assistenza per la soluzione
 - Implementano la gestione delle informazioni sul prodotto
 - Implementano la gestione delle scorte
-- Implementano e gestiscono i processi della catena di fornitura
-- Implementano la gestione del magazzino e dei trasporti, oltre ad eseguire processi aziendali
+- Implementazione e gestione dei processi della Catena di Fornitura
+- Implementazione e gestione del magazzino e la gestione dei trasporti
+- Implementazione della pianificazione generale
 roles:
 - functional-consultant
 type: role-based

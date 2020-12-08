@@ -31,7 +31,15 @@ summary: |-
   #### Profilo dei destinatari
   I partecipanti a questo corso sono professionisti dei dati e professionisti della business intelligence che vogliono imparare a eseguire analisi dei dati con precisione usando Power BI. Questo corso è rivolto anche a coloro che sviluppano report che visualizzano i dati dalle tecnologie della piattaforma dati esistenti sia nel cloud che in locale.
 prerequisitesSection: |-
-  Oltre alla loro esperienza professionale, gli studenti che seguono questa formazione dovrebbero avere conoscenze tecniche equivalenti alle informazioni trovate nel corso Azure Fundamentals.
+  I Data Analyst di successo si addentrano nel ruolo lavorando con dati su cloud.
+  
+  Nello specifico&#58;
+  - Comprensione dei concetti fondamentali dei dati.
+  - Capacità di gestione dei dati relazionali su cloud.
+  - Capacità di gestione dei dati non relazionali su cloud.
+  - Conoscenza dei concetti di analisi e visualizzazione dei dati.
+  
+  È possibile acquisire i prerequisiti e una migliore comprensione dell'utilizzo dei dati su Azure completando [Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) prima di seguire questo corso.
 outlineSection: |-
   ### Modulo 1&#58; Operazioni preliminari con Microsoft Data Analytics
   Questo modulo analizza i diversi ruoli nello spazio dati, delinea i ruoli e le responsabilità importanti di un data analyst ed infine esplora il panorama del portafoglio Power BI.
@@ -39,7 +47,7 @@ outlineSection: |-
   - Data Analytics e Microsoft
   - Operazioni preliminari con Power BI
 
-  #### Lab&#58; Guida introduttiva
+  #### Laboratorio&#58; Guida introduttiva
   - Guida introduttiva
 
   Al termine di questo modulo i partecipanti saranno in grado di&#58;
@@ -56,7 +64,7 @@ outlineSection: |-
   - Ottimizzare le prestazioni
   - Risolvere gli errori dei dati
 
-  #### Lab&#58; preparazione dei dati in Power BI Desktop
+  #### Laboratorio&#58; preparazione dei dati in Power BI Desktop
   - Preparare dati
 
   Al termine di questo modulo i partecipanti saranno in grado di&#58;
@@ -73,7 +81,7 @@ outlineSection: |-
   - Migliorare la struttura dei dati
   - Profilazione dei dati
 
-  #### Lab&#58; Trasformazione e caricamento dei dati
+  #### Laboratorio&#58; Trasformazione e caricamento dei dati
   - Caricare i dati
 
   Al termine di questo modulo gli studenti saranno in grado di&#58;
@@ -89,13 +97,13 @@ outlineSection: |-
   - Lavorare con le tabelle
   - Dimensioni e gerarchie
 
-  #### Lab&#58; modellazione dei dati in Power BI Desktop
+  #### Laboratorio&#58; modellazione dei dati in Power BI Desktop
   - Creare relazioni modello
   - Configurare le tabelle
   - Rivedere l'interfaccia del modello
   - Creare misure rapide
 
-  #### Lab&#58; Modellazione avanzata dei dati su Desktop Power BI
+  #### Laboratorio&#58; Modellazione avanzata dei dati su Desktop Power BI
   - Configurare relazioni molti-a-molti
   - Applicare la sicurezza a livello di riga
 
@@ -113,12 +121,12 @@ outlineSection: |-
   - Contesto DAX
   - DAX avanzato
 
-  #### Lab&#58; Introduzione a DAX su Desktop Power BI
+  #### Laboratorio&#58; Introduzione a DAX su Desktop Power BI
   - Creare tabelle calcolate
   - Creare colonne calcolate
   - Creare misure
 
-  #### Lab&#58; DAX avanzato su Desktop Power BI
+  #### Laboratorio&#58; DAX avanzato su Desktop Power BI
   - Utilizzare la funzione CALCULATE() per manipolare il contesto del filtro
   - Utilizzare le funzioni di Time Intelligence
 
@@ -150,12 +158,12 @@ outlineSection: |-
   - Progettare un rapporto
   - Migliorare il rapporto
 
-  #### Lab&#58; Progettazione di un report in Power BI
+  #### Laboratorio&#58; Progettazione di un report in Power BI
   - Creare una connessione attiva su Desktop Power BI
   - Progettare un rapporto
   - Configurare le proprietà dei campi visivi e del formato
 
-  #### Lab&#58;  Miglioramento dei report Power BI con interazione e formattazione
+  #### Laboratorio&#58;  Miglioramento dei report Power BI con interazione e formattazione
   - Creare e configurare filtri sincronizzati
   - Creare pagine di drill-through
   - Applicare la formattazione condizionale
@@ -177,7 +185,7 @@ outlineSection: |-
   - Dashboard in tempo reale
   - Migliorare una dashboard
 
-  #### Lab&#58; progettazione di un report in Power BI Desktop - Parte 1
+  #### Laboratorio&#58; progettazione di un report in Power BI Desktop - Parte 1
   - Creare un dashboard
   - Aggiungere immagini a una dashboard
   - Configurare un avviso per i riquadri della dashboard
@@ -195,7 +203,7 @@ outlineSection: |-
   - Panoramica del report impaginato
   - Creare report impaginati
 
-  #### Lab&#58; creazione di un report impaginato
+  #### Laboratorio&#58; creazione di un report impaginato
   - Utilizzare Report Builder di Power BI
   - Progettare un layout di report a più pagine
   - Definire un'origine dati
@@ -217,7 +225,7 @@ outlineSection: |-
   - Analitica avanzata
   - Approfondimenti dei dati attraverso immagini AI
 
-  #### Lab&#58; analisi dei dati in Power BI Desktop
+  #### Laboratorio&#58; analisi dei dati in Power BI Desktop
   - Creare grafici animati a dispersione
   - Utilizzare l’immagine per prevedere i valori
   - Lavorare con l'immagine dell’albero di decomposizione
@@ -238,7 +246,7 @@ outlineSection: |-
   - Creare spazi di lavoro
   - Condividere e gestire le risorse
 
-  #### Lab&#58; pubblicazione e condivisione di contenuti Power BI
+  #### Laboratorio&#58; pubblicazione e condivisione di contenuti Power BI
   - Mappare i principi di sicurezza rispetto ai ruoli del set di dati
   - Condividere una dashboard
   - Pubblicare un'App
@@ -250,7 +258,7 @@ outlineSection: |-
   - Distribuire un'app
 
 
-  ### Modulo12&#58; Gestire set di dati in Power BI
+  ### Modulo 12&#58; Gestire set di dati in Power BI
   In questo modulo imparerai i concetti di gestione delle risorse Power BI, inclusi set di dati e spazi di lavoro. Pubblicherai anche i set di dati sul servizio Power BI, quindi li aggiornerai e li renderai sicuri.
   #### Lezioni
   - Parametri
@@ -271,4 +279,3 @@ outlineSection: |-
   Al termine di questo modulo i partecipanti saranno in grado di&#58;
   - Comprendere gli aspetti della sicurezza Power BI
   - Configurare i ruoli di sicurezza a livello di riga e le appartenenze ai gruppi
-

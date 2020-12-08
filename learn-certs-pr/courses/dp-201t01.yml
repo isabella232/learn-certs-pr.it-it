@@ -34,9 +34,18 @@ summary: |-
   #### Profilo dei destinatari
   Questo corso è principalmente destinato a professionisti che si occupano di dati, agli architetti di dati e agli esperti di business intelligence che desiderano conoscere meglio le tecnologie Data Platform disponibili in Microsoft Azure. Il corso è consigliato anche a chiunque sviluppi applicazioni che forniscono contenuti utilizzando le tecnologie Data Platform disponibili in Microsoft Azure
 prerequisitesSection: |-
-  Oltre ad avere un’esperienza a livello professionale, gli studenti che decidono di seguire questo corso devono possedere le conoscenze tecniche che si acquisiscono tramite i seguenti corsi&#58;
-  - [Azure Fundamentals](https&#58;//docs.microsoft.com/it-it/learn/modules/welcome-to-azure/)
-  - DP-200&#58; Implementare una soluzione dati Azure
+  Gli studenti di successo iniziano questo corso avendo conoscenze di base sui concetti di cloud computing ed esperienze professionali con soluzioni nel campo della data science.
+  
+  Nello specifico&#58;
+  - Creazione di risorse cloud su Microsoft Azure
+  - Identificazione dei casi d'uso per le tecnologie big data
+  - Comprendere come i servizi di cloud computing possono venire incontro esigenze aziendali
+  
+  Per acquisire queste abilità, segui la seguente formazione online gratuita prima di frequentare il corso&#58;
+  - [Esplora i concetti del cloud Microsoft](/learn/trails/explore-microsoft-azure-cloud-concepts/)
+  - [Identificazione dei compiti di un data engineer](/learn/modules/data-engineering-processes/)
+  - [Servizi di Base su Cloud - Opzioni di archiviazione dati di Azure](/learn/modules/intro-to-data-in-azure/)
+  - [Servizi di Base su Cloud – Opzioni Azure Compute](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### Modulo 1&#58; Considerazioni sull’architettura Data Platform
   In questo modulo gli studenti impareranno a progettare e creare in Azure soluzioni sicure, scalabili e ad alte prestazioni facendo riferimento ai principi di base tipici di qualsiasi architettura efficiente. Impareranno anche come utilizzare i principi chiave di un’architettura, indipendentemente dalla tecnologia scelta, per progettare, creare e migliorare costantemente l’architettura al fine di soddisfare le esigenze aziendali.
@@ -47,7 +56,7 @@ outlineSection: |-
   - Progettare la disponibilità e recuperabilità
   - Progettare l’efficienza e operatività
   - Case study
-  #### Laboratorio &#58; Case study
+  #### Laboratorio&#58; Case study
   - Progettare all’insegna della sicurezza
   - Valutare le prestazioni e la scalabilità
   - Progettare la disponibilità e recuperabilità
@@ -67,7 +76,7 @@ outlineSection: |-
   - Progettare un bot per l’interfaccia di conversazione di livello aziendale in Azure
 
 
-  #### Laboratorio &#58; Progettare interfacce di conversazione di livello aziendale in Azure
+  #### Laboratorio&#58; Progettare interfacce di conversazione di livello aziendale in Azure
   - Progettare una soluzione BI Enterprise in Azure
   - Automatizzare una soluzione BI Enterprise in Azure
   - Automatizzare una soluzione BI Enterprise in Azure
@@ -90,7 +99,7 @@ outlineSection: |-
   - Creare un’architettura IoT di riferimento in Azure
 
 
-  #### Laboratorio &#58; Architetture di riferimento per l’elaborazione in tempo reale di Azure
+  #### Laboratorio&#58; Architetture di riferimento per l’elaborazione in tempo reale di Azure
   - Progettare una pipeline di elaborazione del flusso con Azure Stream Analytics
   - Progettare una pipeline di elaborazione del flusso con Azure Databricks
   - Creare un’architettura IoT di riferimento in Azure
@@ -113,7 +122,7 @@ outlineSection: |-
   - Difesa delle applicazioni
 
 
-  #### Laboratorio &#58; Considerazioni progettuali sulla sicurezza Data Platform
+  #### Laboratorio&#58; Considerazioni progettuali sulla sicurezza Data Platform
   - Approccio alla sicurezza basato su misure di difesa avanzate
   - Protezione delle identità
 
@@ -138,7 +147,7 @@ outlineSection: |-
   - Progettare strategie per il backup e il ripristino
 
 
-  #### Laboratorio &#58; Progettare la resilienza e il ridimensionamento
+  #### Laboratorio&#58; Progettare la resilienza e il ridimensionamento
   - Regolare la capacità del carico di lavoro mediante il ridimensionamento
   - Progettare l’ottimizzazione delle prestazioni a livello di archiviazione e database
   - Progettare una soluzione ad alta disponibilità
@@ -162,7 +171,7 @@ outlineSection: |-
   - Utilizzare l’automazione per ridurre gli sforzi e gli errori
 
 
-  #### Laboratorio &#58; Progettare l’efficienza e operatività
+  #### Laboratorio&#58; Progettare l’efficienza e operatività
   - Massimizzare l’efficienza di un ambiente cloud
   - Utilizzare le funzioni di monitoraggio e analisi per ottenere informazioni di carattere operativo
   - Utilizzare l’automazione per ridurre gli sforzi e gli errori
@@ -171,4 +180,3 @@ outlineSection: |-
   - Massimizzare l’efficienza di un ambiente cloud
   - Utilizzare le funzioni di monitoraggio e analisi per ottenere informazioni di carattere operativo
   - Utilizzare l’automazione per ridurre gli sforzi e gli errori
-

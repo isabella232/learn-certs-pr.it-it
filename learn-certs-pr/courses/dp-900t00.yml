@@ -29,8 +29,15 @@ summary: |-
 
   #### Profilo dei destinatari
   I destinatari di questo corso sono persone che desiderano imparare i principi sui concetti di database in un ambiente cloud, acquisire competenze di base nei servizi dati cloud e acquisire conoscenze fondamentali sui servizi dati cloud in Microsoft Azure.
+prerequisitesSection: |-
+  La certificazione dei prerequisiti non è richiesta per poter seguire questo corso. Gli studenti che seguonbo Azure Data Fundamentals con profitto hanno una conoscenza di base dei concetti di informatica e Internet e con un interesse nell'estrazione di informazioni utili dai set di dati.
+  
+  Nello specifico&#58;
+  - Esperienza nell'utilizzo di un browser Web, come [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui).
+  - Familiarità con i concetti di base relativi alla data science, come lavorare su fogli di calcolo e visualizzare i dati su grafici.
+  - La volontà di apprendere con l'esplorazione pratica.
 outlineSection: |-
-  ### Modulo 1&#58;  Analizzare i concetti di base sui dati
+  ### Modulo 1&#58; Analizzare i concetti di base sui dati
   I partecipanti impareranno i principi dei concetti sui database in un ambiente cloud, acquisiranno le competenze di base nei servizi di dati cloud e svilupperanno le loro conoscenze fondamentali sui servizi di dati cloud in Microsoft Azure. I partecipanti identificheranno e descriveranno concetti sui dati fondamentali come i relazionali, non relazionali, big data e analitici ed analizzeranno come questa tecnologia venga implementata con Azure. I partecipanti analizzeranno i ruoli, i compiti e le responsabilità nel mondo dei dati.
   #### Lezioni
   - Analizzare i concetti di dati di base
@@ -83,4 +90,3 @@ outlineSection: |-
   - Descrivere le opzioni di elaborazione disponibili per la creazione di soluzioni di analitica dei dati in Azure
   - Descrivere Synapse Analytics di Azure, Databrick di Azure e HDInsight di Azure
   - Spiegare cos'è Microsoft Power BI, inclusi i suoi componenti e come questi funzionino insieme
-

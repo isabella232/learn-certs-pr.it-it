@@ -7,12 +7,13 @@ uid: exam.ms-101
 displayName: MS-101
 summary: |-
   <div>
-  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame è stato aggiornato il giovedì 24 settembre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
   </div>
 
   I candidati idonei a questo esame sono Microsoft 365 Enterprise Administrator coinvolti nella valutazione, pianificazione, migrazione, installazione e gestione dei servizi Microsoft 365. Eseguono attività di gestione dei tenant di Microsoft 365 per un’azienda, occupandosi tra l’altro di identità, sicurezza, conformità e tecnologie di supporto.
 
-   Hanno una conoscenza professionale dei carichi di lavoro di Microsoft 365 e devono avere lavorato in qualità di amministratore di almeno uno dei carichi di lavoro di Microsoft 365 (Exchange, SharePoint, Skype for Business or Windows as a Service). I candidati devono inoltre avere una conoscenza professionale delle reti, dell’amministrazione dei server e dei concetti di base dell’IT, come DNS, Active Directory e PowerShell.
+  Hanno una conoscenza professionale dei carichi di lavoro di Microsoft 365 e devono avere lavorato in qualità di amministratore di almeno uno dei carichi di lavoro di Microsoft 365 (Exchange, SharePoint, Skype for Business or Windows as a Service). I candidati devono inoltre avere una conoscenza professionale delle reti, dell’amministrazione dei server e dei concetti di base dell’IT, come DNS, Active Directory e PowerShell.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare servizi moderni per i dispositivi, implementare la gestione della sicurezza e delle minacce in Microsoft 365 e gestire la governance e la conformità di Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -24,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame è stato aggiornato il giovedì 24 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
 - Implementare i moderni servizi per dispositivi (30-35%)
 - Implementare la sicurezza e la gestione delle minacce di Microsoft 365 (30-35%)
 - Gestire la governance e la conformità di Microsoft 365 (35-40%)

@@ -5,7 +5,19 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div>\n<div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>\n<div><strong>Il contenuto di questo esame sarà aggiornato il 22 ottobre 2020. Scaricare il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>\n</div>\n\nI candidati a questo esame dovrebbero avere una conoscenza di base dei concetti di machine learning (ML) e intelligenza artificiale (IA) e dei relativi servizi di Microsoft Azure.\n\nQuesto esame è un'opportunità per dimostrare la conoscenza dei comuni carichi di lavoro ML e IA e come implementarli in Azure.  \n\nQuesto esame è destinato a candidati con background sia tecnici sia non. Non è richiesta esperienza di ingegneria dei dati e di scienza dei dati; tuttavia, sarebbero utili alcune conoscenze o esperienze di programmazione generale.  \n\nI principi fondamentali di Azure AI possono essere usati per preparare altre certificazioni basate sul ruolo di Azure come Azure Data Scientist Associate o Azure AI Engineer Associate, ma non è un prerequisito per alcuno di essi."
+summary: |-
+  <div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il 22 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
+  </div>
+
+  I candidati a questo esame dovrebbero avere una conoscenza di base dei concetti di machine learning (ML) e intelligenza artificiale (IA) e dei relativi servizi di Microsoft Azure.
+
+  Questo esame è un'opportunità per dimostrare la conoscenza dei comuni carichi di lavoro ML e IA e come implementarli in Azure.
+
+  Questo esame è destinato a candidati con background sia tecnici sia non. Non è richiesta esperienza di ingegneria dei dati e di scienza dei dati; tuttavia, sarebbero utili alcune conoscenze o esperienze di programmazione generale.
+
+  I principi fondamentali di Azure AI possono essere usati per preparare altre certificazioni basate sul ruolo di Azure come Azure Data Scientist Associate o Azure AI Engineer Associate, ma non è un prerequisito per alcuno di essi.
 subTitle: "Dimostra di poter descrivere quanto segue: Carichi di lavoro e considerazioni sull'IA, principi fondamentali di machine learning su Azure, funzionalità dei carichi di lavoro di visione artificiale in Azure, funzionalità dei carichi di lavoro di Natural Language Processing (NLP) su Azure e funzionalità dei carichi di lavoro di intelligenza artificiale conversazionale su Azure."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
@@ -28,7 +40,7 @@ locales:
 levels:
 - beginner
 skills:
-- Il contenuto di questo esame sarà aggiornato il 22 ottobre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il 22 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
 - Descrivere i carichi di lavoro e le considerazioni sull'IA (15-20%)
 - Descrivere i principi fondamentali del machine learning in Azure (30-35%)
 - Descrivere le funzionalità dei carichi di lavoro di computer vision su Azure (15-20%)

@@ -25,13 +25,21 @@ summary: |-
   #### Profilo dei destinatari
   Questo corso è destinato ai data scientist e a chiunque sia significativamente coinvolto nel fornire formazione per i modelli di apprendimento automatico e nella loro distribuzione.
 prerequisitesSection: |-
-  Prima di partecipare a queso corso, gli studenti devono&#58;
-  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
-  - Sapere cos’è l’analisi scientifica, tra cui sapere come preparare i dati, addestrare i modelli e scegliere il modello migliore tra quelli offerti da più produttori
-  - Saper programmare nel linguaggio di programmazione Python e usare le raccolte Python&#58; pandas, scikit-learn, matplotlib e seaborn
+  Gli Azure Data Scientist di successo si addentrano in questo ruolo avendo conoscenze di base sui concetti di cloud computing ed esperienza generale in data science e strumenti di machine learning.
+  
+  Nello specifico&#58;
+  - Creazione di risorse cloud su Microsoft Azure.
+  - Utilizzo di Python per esplorare e visualizzare i dati.
+  - Training e convalida di modelli di apprendimento automatico utilizzando framework comuni come Scikit-Learn, PyTorch e TensorFlow.
+  
+  Per acquisire queste abilità, segui la seguente formazione online gratuita prima di frequentare il corso&#58;
+  - [Esplorazione dei concetti del cloud Microsoft](/learn/trails/explore-microsoft-azure-cloud-concepts/).
+  - [Creazione di modelli di machine learning](/learn/paths/create-machine-learn-models/).
+  
+  Se sei completamente nuovo nel campo della data science e del machine learning, completa prima [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals).
 outlineSection: |-
   ### Modulo 1&#58; Utilizzare l’analisi scientifica in Azure
-  Gli studenti impareranno in cosa consiste il processo di analisi scientifica e in cosa consiste il ruolo di data scientist.  Successivamente, verrà loro spiegato in che modo i servizi di Azure possono supportare e migliorare il processo di analisi scientifica.
+  Gli studenti impareranno in cosa consiste il processo di analisi scientifica e in cosa consiste il ruolo di data scientist. Successivamente, verrà loro spiegato in che modo i servizi di Azure possono supportare e migliorare il processo di analisi scientifica.
   #### Lezioni
   - Presentazione del processo di analisi scientifica
   - Panoramica delle opzioni di Azure Data Science
@@ -54,4 +62,3 @@ outlineSection: |-
   In questo modulo gli studenti impareranno come gestire e monitorare automaticamente i modelli di apprendimento automatico nel servizio AML.
   #### Lezioni
   - Gestire e monitorare i modelli di apprendimento automatico
-

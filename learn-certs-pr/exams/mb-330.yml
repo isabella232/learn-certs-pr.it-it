@@ -8,18 +8,16 @@ displayName: MB-330
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame sarà aggiornato il 16 ottobre 2020. Scaricare il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Il contenuto di questo esame verrà aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
-  I candidati idonei a questo esame sono consulenti funzionali che analizzano i requisiti aziendali e li convertono in processi e soluzioni aziendali pienamente realizzati che implementino le migliori prassi del settore. Hanno un ruolo chiave nell’implementazione e nella configurazione di applicazioni in grado di soddisfare i requisiti aziendali.
+  I candidati a questo esame analizzano i requisiti aziendali e traducono tali requisiti in processi e soluzioni pienamente realizzate che implementano le migliori pratiche del settore. I candidati sono la risorsa chiave per l'implementazione e la configurazione delle applicazioni per soddisfare i requisiti aziendali.
   <br/>
 
-  I candidati idonei a questo esame hanno una comprensione di base dei principi contabili e delle operazioni finanziarie a livello aziendale, dell’assistenza clienti, dell’assistenza sul campo e conoscono i principi di gestione della catena di produzione, vendita al dettaglio e fornitura.
-
-  In genere, hanno esperienza nell’uso di uno o più set di funzionalità di Microsoft Dynamics 365 Finance, compresa la gestione delle finanze, della produzione e della catena di fornitura.
+  I candidati a questo esame hanno una conoscenza fondamentale delle operazioni di contabilità e delle operazioni finanziarie delle imprese, del servizio clienti, dell'assistenza sul campo, della produzione, della vendita al dettaglio e dei concetti di gestione della catena di fornitura. In genere sono specializzati in uno o più set di funzionalità delle app Finance and Operations, tra cui finanza, produzione e gestione della catena di fornitura.
 
   Devono avere una certa conoscenza delle prassi di gestione della catena di approvvigionamento, tra cui approvvigionamento, commercio, logistica, gestione dei magazzini e gestione dei trasporti.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare la gestione delle informazioni sui prodotti; implementare la gestione delle scorte; implementare e gestire i processi della catena di fornitura; implementare la gestione dei magazzini e dei trasporti; eseguire i processi aziendali.'
+subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività: implementare la gestione delle informazioni sul prodotto; implementare la gestione dell'inventario; implementare e gestire i processi della catena di fornitura; implementare la gestione del magazzino e dei trasporti; e implementare la pianificazione generale."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
@@ -28,11 +26,12 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 16 ottobre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
-- Implementare la gestione delle informazioni sui prodotti (25-30%)
-- Implementare la gestione delle scorte (20-25%)
-- Implementare e gestire i processi della catena di fornitura (25-30%)
-- Implementare la gestione dei magazzini e dei trasporti; eseguire i processi aziendali (25-30%)
+- Il contenuto di questo esame verrà aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
+- Implementare la gestione delle informazioni sui prodotti (20-25%)
+- Implementare la gestione delle scorte (15-20%)
+- Implementare e gestire i processi della catena di fornitura (15-20%)
+- Implementare la gestione dei magazzini e dei trasporti; eseguire i processi aziendali (20-25%)
+- Implementazione dei piani generali (15-20%)
 roles:
 - functional-consultant
 products:
@@ -54,7 +53,7 @@ relatedCertifications:
 resources:
 - title: Percorso di formazione per ottenere la certificazione
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

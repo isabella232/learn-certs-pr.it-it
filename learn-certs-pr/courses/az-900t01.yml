@@ -11,7 +11,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Comprendere i concetti generali del cloud computing
 - skill: Conoscere i servizi principali disponibili con Microsoft Azure
-- skill: Conoscere sicurezza, privacy, conformità e affidabilità con Microsoft Azure
+- skill: Comprensione dei concetti di sicurezza, privacy, conformità e fiducia per Microsoft Azure
 - skill: Conoscere prezzi e modelli di supporto disponibili con Microsoft
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -39,7 +39,7 @@ summary: |-
   #### Profilo dei destinatari
   Questo corso è adatto ai responsabili di programma e delle vendite tecniche, con un background IT generale. Questi studenti vogliono conoscere le nostre offerte, vedere come vengono implementati i componenti e porre domande su prodotti e caratteristiche. Questo corso non offre un pass di Azure né il tempo necessario agli studenti per partecipare a laboratori pratici. Gli studenti possono ottenere una prova gratuita e fare visite guidate al di fuori della classe. Questo corso è costituito principalmente da una lezione e dimostrazioni. Questo corso aiuterà a preparare chiunque per l'esame AZ-900.
 prerequisitesSection: |-
-  Non sono previsti pre-requisiti per sostenere questo corso. Benché non sia richiesta alcuna esperienza IT tecnica, è utile avere conoscenze IT generali.
+  Non ci sono prerequisiti per partecipare a questo corso. Non è richiesta esperienza tecnica informatica, tuttavia alcune conoscenze o esperienze generali nel mondo dell'informatica sarebbero utili.
 outlineSection: |-
   ### Modulo 1&#58; Concetti del Cloud
   In questo modulo imparerai i concetti di base del cloud.
