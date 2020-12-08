@@ -12,14 +12,12 @@ ms.prod: non-product-specific
 ---
 # Criteri di sicurezza e di ripetizione degli esami
 
-## <a name="security-policies"></a> Politiche e accordi
-
 Microsoft ha politiche specifiche in atto che affrontano le tematiche di sicurezza per gli esami di certificazione Microsoft.
 
-### Scadenza della certificazione e ricertificazioni
+## Scadenza della certificazione e ricertificazioni
 Le certificazioni Microsoft basate su ruoli e di specializzazione sono attualmente valide per due anni dalla data di ottenimento delle certificazioni stesse. A causa della pandemia COVID-19 e del suo impatto su individui e aziende, abbiamo offerto estensioni a coloro i quali avevano certificazioni che sarebbero scadute prima del 31 dicembre 2020. Continueremo a monitorare la situazione COVID-19. Se necessario, informeremo e concederemo più tempo a coloro le cui certificazioni sono in scadenza. Al momento non è richiesta alcuna azione per garantire che le certificazioni rimangano valide. Continueremo a informarti sulla situazione e sui cambiamenti. Tieniti informato sugli aggiornamenti futuri del programma e sui requisiti per la ricertificazione sottoscrivendo il [Microsoft Learn Blog](https://aka.ms/learningblog).
 
-### Divieto di partecipazione di un candidato
+## Divieto di partecipazione di un candidato
 
 Al candidato può essere impedito definitivamente di sostenere qualsiasi futuro esame di certificazione Microsoft se viola qualsiasi regola dei test, criterio degli esami o i termini dell’accordo di non divulgazione relativi all'esame (NDA) o se mette in atto comportamenti che riducano in qualsiasi modo la sicurezza e l'integrità del programma di certificazione Microsoft. Inoltre, è possibile che il candidato venga escluso dal programma di certificazione Microsoft e che i suoi test e le sue certificazioni vengano revocati.
 
@@ -40,7 +38,7 @@ Di seguito sono riportati alcuni esempi, non limitativi, di frode, comportamenti
 - Violare in qualsiasi modo l'accordo di non divulgazione (NDA) di Microsoft
 - Violare in qualsiasi modo il contratto con il centro di testing
 
-### Procedura di contestazione per il candidato
+## Procedura di contestazione per il candidato
 
 1. I candidati possono contestare l'esclusione dall'esame inviando una richiesta a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 2. Un candidato può contestare un'esclusione dovuta alla falsificazione di un rapporto del punteggio inviando il rapporto originale (copie elettroniche o acquisite tramite scanner non sono ammesse) a:
@@ -51,7 +49,7 @@ Di seguito sono riportati alcuni esempi, non limitativi, di frode, comportamenti
 
 3. Il Microsoft Worldwide Learning Security Team esaminerà tutte le contestazioni inviate effettuando un’indagine approfondita su ciascun caso specifico e comunicherà direttamente al candidato le conclusioni risultanti dall’indagine e la decisione definitiva in merito alla contestazione.
 
-### Criteri per la ripetizione degli esami
+## Criteri per la ripetizione degli esami
 
 1. Criteri generali di ripetizione degli esami di certificazione Microsoft
     1. Se non si raggiunge il punteggio sufficiente in un esame la prima volta, è necessario attendere 24 ore per sostenere nuovamente l'esame. Dopodiché i candidati possono accedere alla loro [dashboard di certificazione](https://aka.ms/certdashboard) e riprogrammare l'esame.
@@ -91,20 +89,20 @@ Di seguito sono riportati alcuni esempi, non limitativi, di frode, comportamenti
     1. Gli esami Beta possono essere sostenuti una sola volta durante il periodo beta. Se il candidato supera l’esame (determinato alla conclusione del periodo beta), tale esame verrà usato come credito per la certificazione. Se non si supera l’esame, è possibile ripeterlo secondo i criteri indicati in precedenza.
     2. Questo criterio ha priorità sul criterio generale per la ripetizione degli esami.
 
-### Chiusura dei centri di testing per motivi di sicurezza
+## Chiusura dei centri di testing per motivi di sicurezza
 
 1. Microsoft può decidere di sospendere i test in un determinato centro se sospetta rischi per la sicurezza o problemi di integrità.
 2. Microsoft può decidere di sospendere i test in siti collegati ad altri siti che presentano rischi per la sicurezza.
 
-### Procedura di contestazione per i centri di testing
+## Procedura di contestazione per i centri di testing
 
 I proprietari di centri di testing possono contestare la chiusura di un centro inviando una richiesta a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Dati delle indagini
+## Dati delle indagini
 
 Microsoft utilizzerà i dati delle indagini come base per un'azione esecutiva nei confronti del candidato. Le prove statistiche possono dimostrare una diminuzione dell'integrità dell'esame e/o essere utilizzate per avvalorare prove di un'attività impropria. In base a tali prove statistiche è possibile che esami e risultati vengano cancellati, che candidati vengano esclusi e che i centri di testing vengano chiusi.
 
-### Test all'estero
+## Test all'estero
 
 **Per sostenere un esame di certificazione Microsoft in un centro di testing in India, Cina o Pakistan è necessario essere residenti nei rispettivi paesi. Se si è residenti in uno di questi paesi, tenere in considerazione quanto segue:**
 
@@ -112,7 +110,7 @@ I centri di testing di questi paesi devono confermare e registrare che ogni cand
 
 **Importante: Se non si è residenti in India, Cina o Pakistan, non sarà possibile sostenere l'esame di certificazione Microsoft in tali paesi.**
 
-### Test per i cittadini sloveni o che hanno un documento identificativo della cittadinanza slovena
+## Test per i cittadini sloveni o che hanno un documento identificativo della cittadinanza slovena
 
 A causa delle leggi sulla privacy in Slovenia, gli esami supervisionati online non possono essere effettuati dai candidati che vivono in Slovenia o che hanno cittadinanza slovena. Questi candidati possono sostenere gli esami presso un centro di test.
 
@@ -120,15 +118,15 @@ A causa delle leggi sulla privacy in Slovenia, gli esami supervisionati online n
 
 - I candidati che risiedono al di fuori della Slovenia possono vedere la supervisione online come un'opzione di test disponibile, ma non potranno effettuare l'esame se presenteranno un documento identificativo della cittadinanza slovena (passaporto o altri documenti). Questi candidati devono programmare un esame presso un centro di test.
 
-### Ripetizione dell'esame su richiesta di Microsoft
+## Ripetizione dell'esame su richiesta di Microsoft
 
 1. Microsoft si riserva il diritto di chiedere a un candidato di ripetere un esame in qualsiasi momento in caso di sospetta attività fraudolenta o di modalità di testing anomale.
 2. La ripetizione dell'esame si svolgerà in una struttura selezionata da Microsoft in una data concordata tra Microsoft e il candidato.
 
-### Revoca delle certificazioni
+## Revoca delle certificazioni
 
 Al candidato può essere impedito definitivamente di sostenere qualsiasi futuro esame di certificazione Microsoft se viola qualsiasi regola dei test, criterio degli esami o i termini dell’accordo di non divulgazione relativi all'esame (NDA) o se mette in atto comportamenti che riducano in qualsiasi modo la sicurezza e l'integrità del programma di certificazione Microsoft. Inoltre, è possibile che il candidato venga escluso dal programma di certificazione Microsoft e che i suoi test e le sue certificazioni vengano revocati.
 
-### Diritto di esclusione
+## Diritto di esclusione
 
 In caso di problemi di sicurezza ed integrità, Microsoft si riserva il diritto di escludere in toto aree geografiche, paesi e centri di testing specifici dal programma di certificazione Microsoft.

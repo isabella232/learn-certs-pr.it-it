@@ -47,7 +47,12 @@ summary: |-
   #### Profilo dei destinatari
   Il corso Azure AI Fundamentals è progettato per chiunque sia interessato a conoscere i tipi di soluzione di intelligenza artificiale (IA) e i servizi su Microsoft Azure che è possibile usare per crearli. Per seguire questo corso non è necessario avere alcuna esperienza nell'uso di Microsoft Azure, ma si presume un livello base di familiarità con la tecnologia informatica e Internet. Alcuni dei concetti trattati nel corso richiedono una comprensione di base della matematica, come la capacità di interpretare i diagrammi. Il corso include attività pratiche che comportano l'utilizzo di dati e l'esecuzione di codice, pertanto sarà utile una conoscenza dei principi base di programmazione.
 prerequisitesSection: |-
-  Familiarità con i computer e utilizzo di un browser web.
+  La certificazione dei prerequisiti non è richiesta per poter seguire questo corso. Gli studenti di Azure AI Fundamental di successo iniziano con una conoscenza di base dei concetti di informatica e Internet e sono interessati all'uso dei servizi Azure AI.
+  
+  Nello specifico&#58;
+  - Esperienza nell'uso di computer e Internet.
+  - Interesse per casi d'uso per applicazioni AI e modelli di machine learning.
+  - La volontà di apprendere con l'esplorazione pratica.
 outlineSection: |-
   ### Modulo 1&#58; Introduzione a IA
   In questo modulo, imparerai a conoscere gli usi comuni dell'intelligenza artificiale (IA) e i diversi tipi di carico di lavoro associati all'intelligenza artificiale. Analizzerai quindi considerazioni e principi per lo sviluppo responsabile dell'IA.
@@ -88,7 +93,7 @@ outlineSection: |-
 
 
   ### Modulo 5&#58; IA conversazionale
-  L'IA conversazionale consente agli utenti di avviare una finestra di dialogo con un agente IA o * bot *, attraverso canali di comunicazione come e-mail, interfacce di webchat, social media e altri. Questo modulo descrive alcuni principi di base per lavorare con i bot e ti dà l'opportunità di creare un bot in grado di rispondere in modo intelligente alle domande degli utenti.
+  L'IA conversazionale consente agli utenti di avviare una finestra di dialogo con un agente IA o *bot*, attraverso canali di comunicazione come e-mail, interfacce di webchat, social media e altri. Questo modulo descrive alcuni principi di base per lavorare con i bot e ti dà l'opportunità di creare un bot in grado di rispondere in modo intelligente alle domande degli utenti.
   #### Lezioni
   - Concetti di IA conversazionale
   - IA conversazionale in Azure

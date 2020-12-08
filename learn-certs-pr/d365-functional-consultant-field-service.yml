@@ -26,7 +26,7 @@ skills:
 - Pianificare e inviare gli ordini di lavoro
 - Gestire la mobilità di Field Service
 - Gestire le scorte e gli acquisti
-- Gestire risorse e accordi
+- Implementazione di Connected Field Service
 roles:
 - functional-consultant
 type: role-based
@@ -56,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Viaggio verso la certificazione
   description: Scoprire i passaggi per ottenere la certificazione e le risorse disponibili per aiutare a prepararsi.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

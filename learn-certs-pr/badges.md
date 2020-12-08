@@ -69,8 +69,8 @@ Rilasciamo badge per tutte le certificazioni e gli esami attivi nel programma Mi
 
 - Se l’esame che hai superato ti dà diritto a una certificazione, verrà rilasciato un badge per la certificazione anziché per l'esame.
 - Esame 74-343 Gestire progetti con Microsoft Project (ritirato nel luglio 2019).
-- Esami MOS 2010 (74-881, 74-882, 74-883, 74-884, 74-885, MB2-887, MB2-888).
-- Esami Microsoft Dynamics CRM (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (che verranno tutti ritirati il 31 dicembre 2019)).
+- Esami e certificazioni MOS 2010.
+- Esami Microsoft Dynamics CRM (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (tutti ritirati il ​​31 dicembre 2019)).
 - Esami e certificazioni precedenti. I badge non sono disponibili per alcuni dei nostri esami e delle nostre certificazioni precedenti. Pertanto, se non vedi un badge per un esame o una certificazione che hai sostenuto in passato, significa che non lo abbiamo emesso per quel/quella particolare esame o certificazione.
 
 Se hai ottenuto un badge per un esame o una certificazione che è stata Retired, puoi sempre richiedere il tuo badge tramite la piattaforma Acclaim di Credly e conviderlo tramite altre piattaforme o per posta elettronica. Consulta la sezione “Hai badge non ritirati?” Domande frequenti per informazioni sulla procedura.

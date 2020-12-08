@@ -8,7 +8,7 @@ displayName: AZ-300
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>La versione in inglese di questo esame è stata ritirata il 30 settembre 2020. È disponibile un esame sostitutivo, <a href="/learn/certifications/exams/az-303">AZ-303</a>. Gli esami in lingue localizzate saranno disponibili dal 30 ottobre 2020.</strong><br/><br/></div>
+  <div><strong>QUESTO ESAME È STATO RITIRATO. È disponibile un esame sostitutivo, AZ-303. Per ulteriori informazioni, visita la <a href="/learn/certifications/exams/az-303"> pagina dei dettagli dell'esame AZ-303 </a>.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
@@ -17,19 +17,11 @@ summary: |-
 
   Un Azure Solution Architect collabora con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
 
-  Un candidato a questo esame dovrebbe avere esperienza e conoscenza avanzate in vari aspetti delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, gestione dei dati, budget e governance - questo ruolo dovrebbe gestire il modo in cui le decisioni in ogni area abbiano influenza su di una soluzione globale. Inoltre, per questo ruolo si dovrebbe avere competenza in almeno uno di questi domini di Azure: amministrazione, sviluppo o DevOps.
-
-  <div><strong><br/>NOTA&#58; Otterrai il <a href="/learn/certifications/azure-solutions-architect">certificato Microsoft&#58; Azure Solutions Architect Expert</a> se supererai una delle seguenti combinazioni di esami&#58; <ul>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> e <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
-  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> e <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> e <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> e <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
-  </ul></strong></div>
+  Un candidato a questo esame dovrebbe avere esperienza e conoscenza avanzate in vari aspetti delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, gestione dei dati, budget e governance - questo ruolo dovrebbe gestire il modo in cui le decisioni in ogni area abbiano influenza su di una soluzione globale. Inoltre, per questo ruolo si dovrebbe avere competenza in almeno uno di questi domini di Azure&#58; amministrazione, sviluppo o DevOps.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: installare e configurare un’infrastruttura, implementare carichi di lavoro e sicurezza, creare e installare app, implementare l’autenticazione e sicurezza dati e sviluppare per l’archiviazione nel cloud e in Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
 - ja
 - zh-cn
@@ -37,12 +29,12 @@ locales:
 levels:
 - advanced
 skills:
-- La versione in inglese di questo esame è stata ritirata il 30 settembre 2020. È disponibile un esame sostitutivo, AZ-303. Gli esami in lingue localizzate saranno disponibili dal 30 ottobre 2020. Scarica il documento delle competenze misurate qui di seguito per avere informazioni dettagliate sulle modifiche.
 - Distribuire e configurare un’infrastruttura (40-45%)
 - Implementare carichi di lavoro e sicurezza (25-30%)
 - Creare e installare app (5-10%)
 - Implementare l’autenticazione e mettere in sicurezza i dati (5-10%)
 - Sviluppare soluzioni per l’archiviazione nel cloud e in Azure (15-20%)
+retirementDate: 09/30/2020
 roles:
 - solution-architect
 products:

@@ -26,8 +26,16 @@ summary: |-
   #### Profilo dei destinatari
   Il pubblico principale di questo corso sono gli sviluppatori di database che intendono migrare i loro carichi di lavoro MongoDB o Cassandra DB in Azure usando Cosmos DB.
 prerequisitesSection: |-
-  Oltre alla propria esperienza professionale, i candidati che decidono di seguire questo corso di formazione devono già possedere le seguenti conoscenze tecniche&#58;
-  - I concetti fondamentali di partizionamento, replica e governance delle risorse per la creazione e la configurazione di applicazioni NoSQL scalabili che sono indipendenti da un'API Cosmos DB.
+  Gli studenti di successo iniziano questo ruolo con una conoscenza base dei concetti di cloud computing ed un'esperienza professionale nella configurazione di applicazioni NoSQL.
+  
+  Nello specifico&#58;
+  - Conoscenza dei concetti fondamentali di partizionamento, replica e governance delle risorse per la creazione e la configurazione di app NoSQL scalabili che non dipendono dall'API Cosmos DB.
+  - Esperienza pregressa con Azure, come la distribuzione e la gestione delle risorse
+  
+  Per acquisire queste competenze, segui il percorso formazione online gratuito prima di frequentare il corso&#58;
+  - [Fondamenti sulla gestione Dati su Azure](/learn/certifications/azure-data-fundamentals)
+  - [Servizi di Base su Cloud – Opzioni Azure Compute](/learn/modules/intro-to-azure-compute/)
+  - [Case studies&#58; database NoSQL e archiviazione degli oggetti su cloud](/learn/modules/cmu-case-study-nosql-databases/)
 outlineSection: |-
   ### Modulo 1&#58; Creazione di applicazioni distribuite a livello globale con Cosmos DB
   Questo modulo descrive i vantaggi e l'architettura di un Cosmos DB.
@@ -53,7 +61,7 @@ outlineSection: |-
   - Eseguire la migrazione delle applicazioni
   - Considerazioni post-migrazione
 
-  #### Lab&#58; migrazione dei carichi di lavoro MongoDB su Cosmos DB
+  #### Laboratorio&#58; migrazione dei carichi di lavoro MongoDB su Cosmos DB
   - Creare un progetto di migrazione
   - Definire origine e destinazione
   - Eseguire la migrazione
@@ -75,7 +83,7 @@ outlineSection: |-
   - Eseguire la migrazione delle applicazioni
   - Considerazioni post-migrazione
 
-  #### Lab&#58; Migrazione dei carichi di lavoro di Cassandra DB su Cosmos DB
+  #### Laboratorio&#58; Migrazione dei carichi di lavoro di Cassandra DB su Cosmos DB
   - Esportare lo schema
   - Spostare I dati utilizzando CQLSH COPY
   - Spostare I dati utilizzando Spark
@@ -90,4 +98,3 @@ outlineSection: |-
 
   #### Documenti di approfondimento
   Non è richiesta alcuna lettura aggiuntiva per seguire questo corso.
-

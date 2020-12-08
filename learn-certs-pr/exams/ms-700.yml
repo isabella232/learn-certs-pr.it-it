@@ -7,7 +7,7 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 28 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
   </div>
 
   I candidati idonei a questo esame sono amministratori di Microsoft Teams all’interno della loro azienda. Gli amministratori di Microsoft Teams configurano, installano e gestiscono i carichi di lavoro di Office 365 per Microsoft Teams focalizzati a promuovere collaborazioni e comunicazioni efficienti ed efficaci nell’ambiente aziendale.
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 28 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
 - Pianificare e configurare un ambiente Microsoft Teams (45-50%)
 - Gestire chat, chiamate e riunioni (30-35%)
 - Gestire i criteri per i team e le app (20-25%)

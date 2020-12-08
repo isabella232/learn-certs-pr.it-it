@@ -6,7 +6,10 @@ metadata:
 uid: exam.az-304
 displayName: AZ-304
 summary: |-
+  <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  </div>
 
   I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
 
@@ -22,9 +25,13 @@ practiceTestUrl: https://www.mindhub.com/p/MU-AZ-304?utm_source=microsoft&utm_me
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 skills:
+- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
 - Progettare il monitoraggio (10-15%)
 - Progettare identità e sicurezza (25-30%)
 - Progettare salvataggio dati (15-20%)

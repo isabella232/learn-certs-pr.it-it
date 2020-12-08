@@ -15,12 +15,12 @@ levels:
 skills:
 - Usare le funzionalità comuni e gli strumenti di implementazione
 - Configuare la sicurezza, i processi e le opzioni
-- Eseguire la migrazione dei dati
+- Gestione dei dati di Finance and Operations
 - Convalidare e fornire assistenza per la soluzione
 - Impostare e configurare la gestione finanziaria
-- Gestire e applicare processi comuni
-- Implementare e gestire la contabilità fornitori e la contabilità clienti
-- Gestire la definizione del budget e le immobilizzazioni
+- Implementazione e gestione della contabilità e le spese per i fornitori
+- Implementazione della contabilità per i clienti, crediti, incassi e ricavi
+- Gestione budget e asset fissi
 roles:
 - functional-consultant
 type: role-based

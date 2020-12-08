@@ -36,7 +36,7 @@ summary: |-
 
   #### Profilo dell'audience
 
-  All'audience di questo corso è richiesta un'esperienza precedente con focus tecnico o funzionale in Dynamics 365; Applicazioni finanziarie e operative.
+  All'audience di questo corso è richiesta un'esperienza precedente con focus tecnico o funzionale in Dynamics 365&#58; Applicazioni finanziarie e operative.
   Si rivolge principalmente a coloro che aspirano al ruolo di solutions architect e non ne hanno esperienza precedente.
 prerequisitesSection: |-
   Devi completare il percorso di apprendimento da architetto della soluzione per gli architetti della soluzione&#58; [Qui](/learn/browse/?Roles=solution-architect&products=dynamics-finance-operations)
@@ -81,22 +81,23 @@ outlineSection: |-
   - Descrivere le esigenze di configurazione hardware per le implementazioni di Dynamics 365 in locale
   - Discutere i quattro requisiti di sicurezza primari su cui i solutions architect dovrebbero concentrarsi durante la progettazione
   - Descrivere i driver principali e l'utilizzo della strategia di istanza.
+  
 
-
-  ### Modulo 3; Soluzione cloud, CDM e CDS
-  Gli argomenti e i concetti in questo modulo comprendono;
-
+  ### Modulo 3&#58; Soluzione cloud, CDM e CDS
+  Gli argomenti e i concetti in questo modulo comprendono&#58;
+  
   Concetti fondamentali di CDM e CDS
-  Illustrazione di queste tecnologie di condivisione dei dati.
-
-  Confronto tra CDM e CDS
-  Breve discussione su come queste tecnologie interagiscono e si completano a vicenda.
-
+  Spiegazioni delle tecnologie di condivisione dei dati.
+  
+  CDM vs. CDS
+  Una breve discussione su come queste tecnologie complementari interagiscono fra di loro.
+  
   Power Platform
-  Questo argomento illustra alcuni componenti di Power Platform, la piattaforma di applicazioni per il business di Microsoft.
-
+  Questo argomento esplora alcuni dei componenti di Power Platform, la piattaforma Microsoft per le applicazioni aziendali.
+  
   Dual Write
-  Breve spiegazione di una nuova funzionalità di integrazione bidirezionale presentata da Microsoft nel 2019.
+  Una breve spiegazione della nuova funzione di integrazione bidirezionale che Microsoft ha presentato nel 2019.
+
   #### Lezioni
   - Introduzione
   - Concetti fondamentali di CDM e CDS
@@ -111,7 +112,7 @@ outlineSection: |-
   - Discutere della funzionalità Dual Write
   - Illustrare che cos'è il Microsoft Common Data Model
 
-  ### Modulo 4 &#58;; Licenze, AppSource e supporto
+  ### Modulo 4&#58; Licenze, AppSource e supporto
   Gli argomenti di questo modulo includono&#58;
 
   Requisiti di licenza
@@ -137,7 +138,7 @@ outlineSection: |-
   - Descrivere i requisiti di licenza per le soluzioni Dynamics 365 per Finance e Operations
 
 
-  ### Modulo 5 &#58; Servizi per il ciclo di vita
+  ### Modulo 5&#58; Servizi per il ciclo di vita
   Gli argomenti di questo modulo includono&#58;
 
   Caratteristiche e concetti principali di LCS
@@ -157,7 +158,7 @@ outlineSection: |-
   - Descrivere il ruolo e la funzione di Azure DevOps durante la connessione a LCS
   - Descrivere tre o più funzioni di LCS e i vantaggi che fornisce durante l'Implementare della soluzione
 
-  ### Modulo 6 &#58; Progettare soluzioni Dynamics 365
+  ### Modulo 6&#58; Progettare soluzioni Dynamics 365
   Gli argomenti includono&#58;
 
   Sviluppare un progetto di soluzione
@@ -176,7 +177,7 @@ outlineSection: |-
   - Discutere e spiegare le diverse forme di architettura coinvolte nella creazione di un progetto di soluzione
 
 
-  ### Modulo 7 &#58; Gestione dei dati
+  ### Modulo 7&#58; Gestione dei dati
   L'argomento della gestione dei dati è ampio e ha molte ramificazioni durante l'Implementare di Dynamics 365. Vengono affrontate quattro considerazioni chiave&#58;
 
   Strategia di migrazione dei dati
@@ -207,7 +208,7 @@ outlineSection: |-
   - Discutere gli approcci consigliati quando si ha a che fare con la migrazione di un alto volume di dati
   - Discutere gli elementi chiave della gestione dei dati
 
-  ### Modulo 8 &#58;; Integrazione ed business events
+  ### Modulo 8&#58; Integrazione ed business events
   Gli argomenti di questo modulo includono&#58;
 
   Integrazione
@@ -234,7 +235,7 @@ outlineSection: |-
 
 
   ### Modulo 9&#58; Localizzazione, conformità e reportistica
-  Gli argomenti di questo modulo includono &#58;
+  Gli argomenti di questo modulo includono&#58;
 
   Localizzazione
   Il processo di localizzazione viene utilizzato per adattare un prodotto o un contenuto a una location o a un mercato specifici.
@@ -261,7 +262,7 @@ outlineSection: |-
 
 
   ### Modulo 10&#58; Estensibilità
-  Gli argomenti includono &#58;
+  Gli argomenti includono&#58;
 
   Personalizzazione invasiva
   Breve rassegna del problema della personalizzazione invasiva e del motivo per cui è diventato difficile da gestire.
@@ -290,7 +291,7 @@ outlineSection: |-
 
 
   ### Modulo 11&#58; Sicurezza
-  Gli argomenti di questo modulo includono &#58;
+  Gli argomenti di questo modulo includono&#58;
 
   La sicurezza della pianificazione delle risorse aziendali (ERP) è costituita da un'ampia gamma di misure per proteggere i sistemi da accessi illeciti e garantire l'accessibilità e l'integrità dei dati di sistema. Questo modulo tratta i seguenti argomenti relativi alla sicurezza&#58;
   Fornire consulenza sui requisiti di sicurezza e conformità
@@ -336,7 +337,7 @@ outlineSection: |-
 
 
   ### Modulo 12&#58; Prestazione
-  Gli argomenti includono &#58;
+  Gli argomenti includono&#58;
 
   Benchmark delle performance
   Raccomandazioni e linee guida per definire correttamente i benchmark
@@ -368,7 +369,7 @@ outlineSection: |-
 
 
   ### Modulo 13&#58; Gestione del ciclo di vita delle applicazioni
-  Gli argomenti di questo modulo includono &#58;
+  Gli argomenti di questo modulo includono&#58;
 
   Controllo della versione
   Utilizzato per aiutare a risolvere i dubbi sulla coerenza nella gestione della soluzione.
@@ -398,7 +399,7 @@ outlineSection: |-
 
 
   ### Modulo 14&#58; Test automatizzati e RSAT
-  Gli argomenti includono &#58;
+  Gli argomenti includono&#58;
 
   Comprendere le opzioni di test
   Durante un'Implementazione di Dynamics 365 vengono eseguiti quattro tipi di test. Questa sezione analizza questi tipi di test e discute l'importanza della qualità e della copertura dei casi d'uso.
@@ -420,7 +421,7 @@ outlineSection: |-
 
   ### Modulo 15&#58; Aree aggiuntive per gli architect
   Questo modulo fornisce informazioni su considerazioni aggiuntive che non sono state trattate nei moduli precedenti.
-  Gli argomenti includono &#58;
+  Gli argomenti includono&#58;
 
   Panoramica del processo di aggiornamento
   Illustra i passaggi standard di alto livello per i team di progetto per completare un aggiornamento.
@@ -441,4 +442,3 @@ outlineSection: |-
   - Discutere gli allegati e le considerazioni sulle dimensioni del database
   - Illustrare come si stampano i documenti e i concetti di gestione della stampa per Dynamics 365
   - Spiega i passaggi di alto livello del processo di aggiornamento
-

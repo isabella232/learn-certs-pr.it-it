@@ -16,10 +16,11 @@ summary: |-
 
   I candidati a questo esame sono in genere specializzati in uno o più set di funzionalità di Business Central. Capiscono il ruolo di Business Central in relazione alla suite di applicazioni Dynamics 365.
 
-  <div><strong><br/>Nota&#58; Questo esame sarà disponibile dal 6 ottobre 2020 o intorno a tale data.</strong></div>
-subTitle: 'Questo esame sarà disponibile dal 6 ottobre 2020 o intorno a tale data. Questo esame valuta la tua capacità di completare i seguenti compiti: impostare Business Central, configurare i dati finanziari, configurare le vendite e gli acquisti, impostare le operazioni e utilizzare i componenti Power Platform.'
+  <div><strong><br/>Gli esami in beta non vengono valutati immediatamente in quanto stiamo ancora raccogliendo dati sulla qualità delle domande e dell'esame. Ulteriori informazioni <a href="/learn/certifications/certification-exams#participating-in-beta-exams"> sul valore e l'importanza degli esami in beta </a></strong></div>
+subTitle: 'Questo esame valuta la tua capacità di completare i seguenti compiti: impostare Business Central, configurare i dati finanziari, configurare le vendite e gli acquisti, impostare le operazioni e utilizzare i componenti Power Platform.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800
 locales:
 - en
 levels:
@@ -51,12 +52,15 @@ relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
 resources:
+- title: Percorso di formazione per ottenere la certificazione
+  description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
