@@ -16,7 +16,7 @@ Per determinati eventi Microsoft, i partecipanti potrebbero avere diritto a uno 
 
 | Eventi | Istruzioni su quale email inserire |
 | --- | --- |
-| [Microsoft Ignite settembre 2019](learn/certifications/microsoft-ignite-free-certification-exam-offer?WT.mc_id=msignitethetour2019_akawwlflag_-email-event) | Email che hai utilizzato per registrarti all'evento |
+| [Microsoft Ignite settembre 2019](/learn/certifications/microsoft-ignite-free-certification-exam-offer?WT.mc_id=msignitethetour2019_akawwlflag_-email-event) | Email che hai utilizzato per registrarti all'evento |
 | [Microsoft Ignite the Tour 2019-2020](/learn/certifications/microsoft-ignite-free-certification-exam-offer) | Email che hai utilizzato per registrarti all'evento |
 | [Microsoft Build May 2020](/learn/certifications/microsoft-build-cloud-skills-challenge-2020-free-Certification-exam-offer) (Evento virtuale) | Email che hai utilizzato per registrarti all'evento |
 | Microsoft Virtual Training Day - Azure Fundamentals | Email che hai utilizzato per registrarti all'evento |
