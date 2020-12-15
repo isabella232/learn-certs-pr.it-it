@@ -14,9 +14,6 @@ ms.prod: non-product-specific
 
 Microsoft ha politiche specifiche in atto che affrontano le tematiche di sicurezza per gli esami di certificazione Microsoft.
 
-## Scadenza della certificazione e ricertificazioni
-Le certificazioni Microsoft basate su ruoli e di specializzazione sono attualmente valide per due anni dalla data di ottenimento delle certificazioni stesse. A causa della pandemia COVID-19 e del suo impatto su individui e aziende, abbiamo offerto estensioni a coloro i quali avevano certificazioni che sarebbero scadute prima del 31 dicembre 2020. Continueremo a monitorare la situazione COVID-19. Se necessario, informeremo e concederemo più tempo a coloro le cui certificazioni sono in scadenza. Al momento non è richiesta alcuna azione per garantire che le certificazioni rimangano valide. Continueremo a informarti sulla situazione e sui cambiamenti. Tieniti informato sugli aggiornamenti futuri del programma e sui requisiti per la ricertificazione sottoscrivendo il [Microsoft Learn Blog](https://aka.ms/learningblog).
-
 ## Divieto di partecipazione di un candidato
 
 Al candidato può essere impedito definitivamente di sostenere qualsiasi futuro esame di certificazione Microsoft se viola qualsiasi regola dei test, criterio degli esami o i termini dell’accordo di non divulgazione relativi all'esame (NDA) o se mette in atto comportamenti che riducano in qualsiasi modo la sicurezza e l'integrità del programma di certificazione Microsoft. Inoltre, è possibile che il candidato venga escluso dal programma di certificazione Microsoft e che i suoi test e le sue certificazioni vengano revocati.
