@@ -8,14 +8,14 @@ displayName: DP-200
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati idonei a questo esame sono Microsoft Azure Data Engineer che collaborano con le stakeholder per identificare e soddisfare i requisiti dei dati al fine di implementare soluzioni di dati che utilizzino i servizi di dati di Azure.
 
   Gli Azure data engineer sono responsabili di attività correlate ai dati che includono la distribuzione di servizi di archiviazione dati, l’inserimento di dati in streaming e in batch, la trasformazione di dati, l’implementazione di requisiti di sicurezza, l’implementazione di criteri di conservazione dei dati, l’identificazione dei colli di bottiglia relativi alle prestazioni e l’accesso alle origini dati esterne.
 
-  I candidati idonei a questo esame devono essere in grado di implementare soluzioni dati che usano i seguenti servizi Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (già noto come Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks e il servizio di archiviazione Azure Blob.
+  I candidati a questo esame devono essere in grado d'implementare delle soluzioni basate su dati che utilizzano i seguenti servizi Azure&#58; Azure Cosmos DB, Azure Synapse Analytics (precedentemente Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks e Azure Blob Storage. 
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare soluzioni di archiviazione dei dati, gestire e sviluppare processi di elaborazione dati, monitorare e ottimizzare le soluzioni dati.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
+- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
 - Implementare soluzioni di archiviazione dei dati (40-45%)
 - Gestire e sviluppare l’elaborazione dei dati (25-30%)
 - Monitorare e ottimizzare le soluzioni dati (30-35%)

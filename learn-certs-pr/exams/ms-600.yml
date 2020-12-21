@@ -8,7 +8,7 @@ displayName: MS-600
 summary: |-
   <div>
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati idonei a questo esame sono sviluppatori di Microsoft 365 che progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
@@ -30,11 +30,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
+- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
 - Implementare Microsoft Identity (20-25%)
-- Creare app con Microsoft Graph (20-25%)
-- Estendere e personalizzare SharePoint (20-25%)
-- Estendere Team (15-20%)
+- Creazione di App con Microsoft Graph (15-20%)
+- Estensione e Personalizzazione SharePoint (15-20%)
+- Estensione Microsoft Teams (20-25%)
 - Estendere Office (15-20%)
 roles:
 - developer

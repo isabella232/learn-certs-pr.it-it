@@ -8,10 +8,10 @@ displayName: AZ-304
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
-  I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
+  I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza. I candidati dovrebber avere competenze di livello intermedio nell'amministrazione di Azure. I candidati dovrebbero essere in grado di comprendere lo sviluppo su Azure e i processi DevOps.
 
   Le responsabilità di un Azure Solution Architect includono la consulenza alle parti interessate e la realizzazione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
 
@@ -31,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
+- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
 - Progettare il monitoraggio (10-15%)
 - Progettare identità e sicurezza (25-30%)
 - Progettare salvataggio dati (15-20%)

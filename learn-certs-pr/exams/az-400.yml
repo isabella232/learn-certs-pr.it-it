@@ -7,7 +7,7 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div style='color:red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame devono avere esperienza in materia lavorando con persone, processi e tecnologie per fornire continuamente valore aziendale.
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- "Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà."
+- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
 - Sviluppare una strategia di strumentazione (5-10%)
 - Sviluppare una strategia di Site Reliability Engineering (SRE) (5-10%)
 - Sviluppare un piano di sicurezza e conformità (10-15%)

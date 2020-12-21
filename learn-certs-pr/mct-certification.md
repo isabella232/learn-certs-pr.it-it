@@ -44,7 +44,7 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
   - Certificazione delle competenze didattiche
     - CompTIA CTT+
     - Essential Educate Trainer (certificazione interna Microsoft)
-	- Fourth Dimension Technologies, Inc.
+	  - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge Instructional Skills Certification
     - IAMCT Approved Technical Trainer (IAMCT ATT)
@@ -53,10 +53,12 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
     - Learning Tree Train the Trainer Program
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Certification (MCT-ISC)
-	- Microsoft Customer Service & Support (CSS) Trainer Certification
-	- Microsoft Core Training Skills
+	  - Microsoft Customer Service & Support (CSS) Trainer Certification
+	  - Microsoft Core Training Skills
     - New Horizons Instructional Skills Certification
     - PrepMasters USA
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   OPPURE<br/><br/>
 

@@ -5,7 +5,15 @@ metadata:
   description: I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "<div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>\r\n\r\nI Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni."
+summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  
+  I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
+
+  <div>NOTA&#58; il conseguimento delle due seguenti certificazioni è prerequisito per questa certificazione. Questo prerequisito non è elencato di seguito a causa delle limitazioni tecniche del sito.<ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate"> Microsoft Certified: Power Platform Functional Consultant Associate </a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate"> Microsoft Certified: Power Platform Developer Associate</a></li>
+  </ul></div>
 subTitle: I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
 levels:
 - advanced

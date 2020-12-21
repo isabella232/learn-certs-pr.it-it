@@ -9,6 +9,10 @@ summary: |-
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati native cloud e ibride che sfruttano Microsoft SQL Server e servizi dati Microsoft Azure. L'Azure Database Administrator utilizza una varietà di metodi e strumenti per eseguire le operazioni quotidiane, compresa l'applicazione delle conoscenze sull'uso del T-SQL per la gestione amministrativa.
+
+  <div></br>
+  I candidati a questo ruolo devono comprendere tutti i concetti trattati nell'esame <a href='/learn/certifications/exams/dp-900'> Exam DP-900: Microsoft Azure Data Fundamentals </a>. 
+  </div>
 subTitle: L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati nativa e ibrida cloud, basate su servizi dati Microsoft Azure e Microsoft SQL Server.
 levels:
 - intermediate
