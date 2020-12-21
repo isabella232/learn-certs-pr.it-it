@@ -11,7 +11,10 @@ ms.author: micsullivan
 ---
 # Informazioni sugli esami online con Pearson VUE
 
-Puoi sostenere qualsiasi esame basato sui ruoli o sui fondamenti della certificazione Microsoft presso Pearson VUE online e comodamente da casa o dall'ufficio. La consegna dell'esame online supervisionato consente l'integrità dei risultati dell'esame con il monitoraggio dell'esame da parte di un supervisore tramite webcam e microfono. Se sei interessato a sostenere un esame online tramite Pearson VUE e vuoi capire meglio cosa aspettarti prima di registrarti, questa pagina spiegherà i dettagli. Guarda [YouTube video](https://youtu.be/Gm1PqdbwBP0) di Pearson VUE per saperne di più su come sostenere esami online supervisionati. (Questa sezione non riguarda gli esami erogati da Certiport.)
+Puoi sostenere qualsiasi esame Microsoft Certification, sia role-based che su fondamenti di un argomento presso Pearson VUE online, comodamente da casa tua o dall'ufficio. La supervisione della consegna degli esami assicura l'integrità dei risultati: un supervisore monitora l'esperienza di esame tramite webcam e microfono. Se sei interessato a sostenere un esame online con supervisore tramite Pearson VUE e capire meglio cosa aspettarti prima di iscriverti, leggi questa pagina per trovare i dettagli più importanti. Guarda il video qui sotto per saperne di più sugli esami online con supervisore. (Questa sezione non tratta degli esami consegnati da Certiport).
+<br/>
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
 
 
 ## <a name="take-a-system-test"></a> Esegui un test di sistema

@@ -29,8 +29,25 @@ summary: |-
   #### Profilo dei destinatari
   Questo corso è progettato i Functional Consultant di Dynamics 365 Supply Chain Management. Il Functional Consultant di Dynamics 365 Supply Chain Management è una risorsa chiave che progetta e configura le app per soddisfare i requisiti di un cliente. Il Functional Consultant analizza i requisiti aziendali e li traduce in processi aziendali pienamente realizzati e soluzioni che implementano le pratiche consigliate dal settore. Il Functional Consultant è specializzato in uno o più dei seguenti set di funzionalità di Dynamics&#58; finanza, produzione o gestione della catena di fornitura. Collaborano con architetti, sviluppatori, amministratori e altre parti interessate per fornire soluzioni che soddisfano o superano le esigenze dei loro clienti.
 outlineSection: |-
-  ### Modulo 1&#58; Implementazione la gestione delle informazioni dei prodotti
-  Questo modulo introdurrà i seguenti argomenti&#58; Creazione e distribuzione dei prodotti e delle loro varianti Creazione e applicazione di modelli di prodotto Creazione distinte di base (BOM) Identificazione di scopi e capacità dei modelli di configurazione del prodotto Configurazione deo Catch Weights Configurazione prodotti con consegna diretta Creazione e gestione delle dimensioni d'inventario Configurazione dei gruppi di articoli Creazione e assegnazione dei codici a barre e codici GTIN (Global Trade Identification Number) configurazione gerarchica di categorie e attributi dei singoli prodotti Configurazione delle conversioni di unità di prodotto Configurazione delle impostazioni dell'ordine predefinite Descrizione dei metodi di determinazione dei costi di inventario e dei gruppi di modelli Configurazione delle versioni per i costi standard e pianificati Configurazione dei prezzi di acquisto predefiniti, prezzi di vendita predefiniti e accordi commerciali.
+  ### Modulo 1&#58; Implementazione della gestione delle informazioni sui prodotti.
+  Questo modulo introdurrà i seguenti argomenti&#58;
+
+  Creazione e rilascio di prodotti e varianti di prodotto
+  Creazione e applicazione dei modelli di prodotto
+  Creazione distinte dei materiali (BOMs)
+  Identificazione utilità e capacità dei modelli di configurazione dei prodotti
+  Configurazione prodotti a peso variabile
+  Configurazione prodotti a consegna diretta
+  Creazione e gestione delle dimensioni dell'inventario
+  Configurazione dei gruppi di articoli
+  Creazione e assegnazione di barcode e codici Global Trade Identification Number (GTIN)
+  Configurazione delle gerarchie delle categorie e degli attributi dei prodotti
+  Configurazione della conversione di unità per i prodotti
+  Configurazione delle impostazioni predefinite per gli ordini
+  Descrizione dei metodi di determinazione costi d'inventario e i gruppi di modelli
+  Configurazione delle versioni di Costing per i costi standard e quelli pianificati
+  Configurazione e impostazione dei prezzi predefiniti d'acquisto, di vendita e per gli accordi commerciali.
+
   #### Lezioni
   - Creazione e gestione dei prodotti
   - Configurazione dei prodotti per la gestione della catena di approvvigionamento
@@ -40,7 +57,16 @@ outlineSection: |-
   - Implementazione della gestione delle informazioni sui prodotti
 
   ### Modulo 2&#58; Implementazione della gestione dell'inventario
-  Questo modulo introduttivo tratterà dei seguenti argomenti&#58; Impostazione deii parametri e dei journals di gestione dell'inventario Configurazione strutturale della ripartizione dell'inventario Configuraizone delle classificazioni ABC Configurazione dei rapporti di valutazione dell'inventario Creazione ed elaborazione dei Journals che includono distinte base, arrivo degli articoli, trasferimenti, movimenti, modifica dell'inventario, conteggio e registrazioni delle Tag Creazione ed elaborazione degli ordini di trasferimento Esecuzione di chiusure e rettifiche di inventario.
+  Questo modulo introdurrà i seguenti argomenti&#58;
+
+  Impostazione dei parametri di gestione dell'inventario e journals
+  Configurazione della Struttura di ripartizione dell'inventario
+  Configurazione delle classificazioni ABC
+  Configurazione dei rapporti di valutazione dell'inventario
+  Creazione ed elaborazione dei registri quali&#58; registro distinte di base, arrivo articoli, trasferimenti, movimenti, adeguamento inventario, e conteggio etichette
+  Creazione ed elaborazione degli ordini di trasferimento
+  Esecuzione delle chiusure e degli adeguamenti dell'inventario
+
   #### Lezioni
   - Configurazione della gestione dell'inventario
   - Gestione ed elaborazione delle attività di inventario
@@ -59,8 +85,25 @@ outlineSection: |-
   - Implementazione della gestione dell'inventario
 
 
-  ### Modulo 3&#58; Implementazione e gestione dei processi della catena di fornitura
-  In questo modulo verranno trattati i seguenti argomenti&#58; Creazione e gestione delle richieste di acquisto, richieste di preventivo (RFQ) e ordini di acquisto (PO) Configurazione dei processi di gestione delle modifiche Configurazione e applicazione degli sconti sconti al fornitore Introduzione alla collaborazione con i fornitori Gestione dell'inventario in conto deposito Gestione delle consegne in eccesso e in difetto Configurazione delle categorie di approvvigionamento e delle politiche di acquisto Configurarzione delle spese Configurazione delle offerte, degli ordini di vendita e di reso Configurazione dei gruppi di vendita e delle commissioni Configurazione delle ricerche di clienti, prodotti e potenziali clienti Configurazione ed elaborazione di documenti di relazioni interaziendali Introduzione alle guide D365 Creazione di guide D365 Funzionamento delle guide D365.
+  ### Modulo 3&#58; Implementazione e gestione dei processi per la supply chain
+  Questo modulo introdurrà i seguenti argomenti&#58;
+
+  Creazione e gestione delle richieste di acquisto, preventivi (RFQs) e ordini (POs)
+  Configurazione dei processi di gestione dei cambiamenti
+  Configurazione e applicazione degli sconti al fornitore
+  Introduzione alla collaborazione con i fornitori
+  Gestione dell'inventario in consegna
+  Gestione delle consegne in eccesso e in difetto
+  Configurazione delle categorie di approvvigionamento e delle politiche d'acquisto
+  Configurazione addebiti
+  Configurazione delle offerte, degli ordini e dei resi
+  Configurazione dei gruppi di vendita e delle commissioni
+  Configurazione della ricerca per clienti, prodotti, e prospetti
+  Configurazione ed elaborazione dei documenti per le relazioni commerciali interaziendali
+  Introduzione a D365 Guides
+  Redazione di D365 Guides
+  Funzionamento di D365 Guides
+  
   #### Lezioni
   - Implementazione dell'approvvigionamento e delle fonti
   - Implementazione delle funzioni di vendita e marketing più comuni
@@ -87,8 +130,27 @@ outlineSection: |-
   - Implementazione e gestione dei processi della catena di fornitura
 
 
-  ### Modulo 4&#58; Implementazione e gestione del magazzino e dei trasporti
-  In questo modulo verranno trattati i seguenti argomenti&#58; Creazione di siti, magazzini, location, formati di location, profili di location, tipi di location e aree Implementazione delle direttive di location Configurazione degli stati di inventario, gruppi di sequenze di unità e gerarchie di prenotazioni Implementare ondate, operazioni, modelli Implementazione dei modelli ondata di costruzione del carico Configurarzione dei menu su dispositivi mobili, le voci di menu e le impostazioni di visualizzazione Gestione dei processi di spostamento delle scorte Conteggio dei cicli Elaborazione ordini in entrata e in uscita Elaborazione delle spedizioni Descrizione del processo introduttivo di rifornimento cross-dock Configurazione corrieri e gruppi di corrieri Pianificazione carichi e spedizioni Configurazione e generazione delle fatture e delle fatture di trasporto Configurazione di route plans e guide Configurazione dei motori di route e rate Configurazione e pianificazione degli appuntamenti per i carichi.
+  ### Modulo 4&#58; Implementazione della gestione del magazzino e dei trasporti
+  Questo modulo introdurrà i seguenti argomenti&#58;
+
+  Creazione di siti, magazzini, posizioni oltre che format, location, tipi e zone per le location.
+  Implementazione delle direttive di location
+  Configurazione degli Status d'Inventario, dei gruppi di sequenza delle unità e delle gerarchie di prenotazione
+  Implementazione dei modelli di ondata e lavoro
+  Implementazione dei modelli di costruzione di carichi a ondata
+  Configurazione dei menu per dispositivi mobili, inclusi elementi e impostazioni display
+  Gestione dei processi di movimento delle scorte all'interno del magazzino
+  Esecuzione del conteggio cicli
+  Elaborazione degli ordini in entrata e in uscita
+  Esecuzione delle procedure di spedizione
+  Descrizione dei processi di rifornimento e cross-dock
+  Introduzione
+  Configurazione dei gruppi di corrieri e spedizione
+  Pianificazione ed esecuzione carichi e spedizioni
+  Configurazione e generazione delle fatture e bolle di trasporto
+  Configurazione della pianificazione di percorso e guide
+  Configurazione rotte e rate engines
+  Configurazione e uso degli appuntamenti nel dock
 
   Questo modulo spiega come configurare i prodotti per i processi di gestione della catena di fornitura in Finance e Operations.
   #### Lezioni
@@ -96,7 +158,7 @@ outlineSection: |-
   - Processi di gestione del magazzino
   - Implementazione della gestione dei trasporti
 
-  #### Laboratorio &#58; Case study 3 Gestione del magazzino e gestione dei trasporti
+  #### Laboratorio&#58; Case study 3 Gestione del magazzino e gestione dei trasporti
   - Esercizio #1 Configurare la gestione del magazzino
   - Esercizio #2 Creare una gerarchia per le prenotazioni
   - Esercizio #3 Creare disposition codes e direttive sulla posizione in entrata
@@ -121,8 +183,13 @@ outlineSection: |-
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Implementazione della gestione del magazzino e la gestione dei trasporti
 
-  ### Modulo 5&#58; Configurazione e gestione del quality control e management
-  In questo modulo verranno trattati i seguenti argomenti&#58; Configurazione del controllo di qualità Configurazione del quality management Gestione degli ordini di controllo di qualità e gli ordini di quarantena Gestione del blocco dell'inventario.
+  ### Modulo 5&#58; Configurazione e gestione del controllo di qualità
+  Questo modulo introdurrà i seguenti argomenti&#58;
+
+  Configurazione dei controlli di qualità
+  Configurazione della gestione della qualità
+  Gestione degli ordini di controllo qualità e di quelli di quarantena
+  Gestione del blocco dell'inventario
   #### Lezioni
   - Configurazione del controllo di qualità e la gestione della qualità
   - Gestione del qualtiy control e management
@@ -137,8 +204,19 @@ outlineSection: |-
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Configurazione e gestione del quality e management control
 
-  ### Modulo 6&#58; implementazione dei piani generali
-  In questo modulo verranno trattati i seguenti argomenti&#58; Distinzione tra ottimizzazione della pianificazione e pianificazione generale Impostazione dei gruppi di copertura e copertura degli articoli Configurazione dei parametri di pianificazione generale, piani generali, piani previsionali e piani di continuità Distinzione tra messaggi di azione, messaggi di ritardo, barriere temporali e giorni negativi Elaborazione e visualizzazione degli ordini pianificati Impostazione e utilizzo dei moduli Programma di fornitura Configurazione ed elaborazione dei journal di registrazione per le scorte di sicurezza Impostazione e implementazione della pianificazione generale interaziendale Implementazione della previsione della base della domanda Ottimizzazione dei piani.
+  ### Modulo 6&#58; Implementazione della pianificazione generale
+  Questo modulo introdurrà i seguenti argomenti&#58;
+
+  Distinzione tra ottimizzazione della pianificazione e pianificazione generale
+  Impostazione dei gruppi di copertura e del coverage degli articoli
+  Configurazione dei parametri di pianificazione generale e dei piani generali, previsionali e di continuità
+  Distinzione tra messaggi d'azione, di ritardo, limiti temporali e giorni negativi
+  Elaborazione e visualizzazione degli ordini pianificati
+  Impostazione e utilizzo del modulo Supply Schedule
+  Configurazione ed elaborazione di journal per le scorte di sicurezza
+  Impostazione e implementazione della pianificazione generale interaziendale
+  Implementazione di previsioni basate sulla domanda
+  Ottimizzazione della pianificazione
 
   #### Lezioni
   - Configurazione dei piani generali e delle previsioni

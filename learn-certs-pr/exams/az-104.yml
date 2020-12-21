@@ -8,7 +8,7 @@ displayName: AZ-104
 summary: |-
   <div>
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame devono avere esperienza in materia di implementazione, gestione e monitoraggio dell'ambiente Microsoft Azure di un'organizzazione.
@@ -18,6 +18,8 @@ summary: |-
   Un Azure Administrator spesso fa parte di un team più ampio dedicato all'implementazione dell'infrastruttura cloud dell'organizzazione.
 
   Un candidato a questo esame deve avere almeno sei mesi di esperienza pratica nell'amministrazione di Azure, oltre a una solida conoscenza dei principali servizi di Azure, dei carichi di lavoro di Azure, della sicurezza e della governance. Inoltre, per questo ruolo si deve avere esperienza nell'uso dei modelli PowerShell, di Azure CLI, del portale di Azure e di Azure Resource Manager.
+
+  Superando questo esame di certificazione potresti essere idoneo per il credito universitario ACE. Consulta [Crediti universitari ACE per gli esami di certificazione](/learn/certifications/ace-credit-for-certification-exams) per maggiori informazioni.
 subTitle: 'Questo esame misura la tua capacità di svolgere i seguenti compiti tecnici: gestire le identità e la governance di Azure, implementare e gestire la memorizzazione dei dati, implementare e gestire le risorse di calcolo Azure, configurare e gestire il networking virtuale, monitorare ed eseguire il backup delle risorse Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -35,7 +37,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
+- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
 - Gestire le identità e la governance Azure (15-20%)
 - Implementare e gestire l'archiviazione (10-15%)
 - Distribuire e gestire le risorse di calcolo Azure (25-30%)

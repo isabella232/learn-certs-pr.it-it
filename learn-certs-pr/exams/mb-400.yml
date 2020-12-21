@@ -8,7 +8,7 @@ displayName: MB-400
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>QUESTO ESAME SARÀ RITIRATO IL 31 DICEMBRE 2020. Un nuovo esame <a href="/learn/certifications/exams/pl-400">PL-400</a> sarà disponibile a settembre 2020. Nota&#58; Ritiro esame alle 23&#58;59 Central Standard Time.</strong><br/><br/></div>
+  <div><strong>Poiché questo esame verrà ritirato il 31 dicembre 2020, Microsoft non aggiornerà i riferimenti da "Common Data Service" a "Microsoft Dataverse".</strong><br/><br/></div>
   </div>
 
   I candidati idonei a questo esame sono sviluppatori che usano le app basate sul modello di Microsoft Power Apps di Dynamics 365 per progettare, sviluppare, mettere in sicurezza ed estendere l’uso di un’implementazione di Dynamics 365. Implementano componenti di una soluzione che include migliorie per le applicazioni, esperienza utente personalizzata, integrazioni di sistemi, conversioni dei dati, automazione personalizzata dei processi e visualizzazioni personalizzate.

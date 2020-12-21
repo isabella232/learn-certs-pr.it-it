@@ -11,6 +11,8 @@ summary: |-
   <div><strong>QUESTA CERTIFICAZIONE VERRÀ RITIRATA IL 31 dicembre 2020. Non sarai più in grado di ottenere questa certificazione dopo tale data. Eventuali certificazioni ottenute prima della loro data di ritiro continueranno ad apparire nel tuo report nel <a href="https://aka.ms/certdashboard">Dashboard di certificazione</a>.</strong><br/><br/></div></div>
 
   Gli sviluppatori che usano Microsoft Power Apps e Dynamics 365 sono responsabili della progettazione, dello sviluppo, della protezione e della distribuzione dell’installazione di Dynamics 365. Implementano i componenti della soluzionne che includono migliorie delle applicazioni, esperienza utente personalizzata, integrazioni di sistema, conversioni dei dati, automazione personalizzata dei processi e visualizzazioni personalizzate.
+
+  <div><strong><br/>Poiché questa certificazione verrà ritirata il 31 dicembre 2020, Microsoft non aggiornerà i riferimenti da "Common Data Service" a "Microsoft Dataverse". </strong> </div>
 subTitle: Gli sviluppatori che usano Microsoft Power Apps e Dynamics 365 sono responsabili della progettazione, dello sviluppo, della protezione e della distribuzione dell’installazione di Dynamics 365.
 levels:
 - intermediate

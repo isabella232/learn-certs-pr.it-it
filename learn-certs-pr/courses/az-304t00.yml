@@ -38,11 +38,19 @@ summary: |-
   #### Profilo dei destinatari
   Questo corso è rivolto a IT Professionals esperti nella progettazione e nell'implementazione di soluzioni in esecuzione su Microsoft Azure. I candidati devono avere una vasta esperienza e conoscenza di vari aspetti delle operazioni IT, tra cui reti, virtualizzazione, identità, sicurezza, business continuity, disaster recovery, gestione dei dati, pianificazione del budget e governance. I Solution Architects di Azure usano il portale di Azure e anche la Command Line Interface man mano che diventano più esperti. I candidati devono avere competenze a livello di esperto nell'amministrazione Azure e avere esperienza dei processi di sviluppo Azure e i processi DevOps.
 prerequisitesSection: |-
-  I Solution Architects di Azure di successo iniziano questo ruolo con esperienza su sistemi operativi, virtualizzazione, infrastruttura cloud, strutture di archiviazione e networking.
+  Gli Azure Architects di successo iniziano questo ruolo con esperienza su sistemi operativi, virtualizzazione, infrastrutture cloud, strutture di archiviazione, reti, applicazioni e database.
   - Conoscenza delle tecnologie di virtualizzazione locali, tra cui&#58; VM, reti virtuali e dischi rigidi virtuali.
   - Conoscenza della configurazione di rete, inclusi TCP/IP, Domain Name System (DNS), reti private virtuali (VPN), firewall e tecnologie di crittografia.
   - Conoscenza dei concetti di Active Directory, inclusi domini, foreste, controller di dominio, replica, protocollo Kerberos e Lightweight Directory Access Protocol (LDAP).
   - Conoscenza della resilienza e del disaster recovery, comprese le operazioni di backup e ripristino.
+  - Comprensione dello sviluppo di applicazioni e API.
+  - Comprensione dei database, sia SQL come MS SQL, MySQL o Postgres, o non SQL come MongoDB.
+  - Comprensione del decoupling di applicazioni e servizi, ad esempio Queues, tabelle, Cache.
+  - Comprensione dei concetti di sicurezza per proteggere l'ambiente, come crittografia a riposo, in transito, SSL, TLS.
+  
+  Corsi prerequisiti (o conoscenza equivalente)&#58;
+  - AZ-900 Azure Fundamentals
+  - AZ-303 Azure Solution Architect Technologies
 outlineSection: |-
   ### Modulo 1&#58; Progettare una soluzione di elaborazione
   In questo modulo imparerai le tecnologie di elaborazione appropriate, tra cui macchine virtuali, App Services, Service Fabric, Funzioni di Azure, Desktop virtuale di Windows e container.

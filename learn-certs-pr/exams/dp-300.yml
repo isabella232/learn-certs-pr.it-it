@@ -8,15 +8,19 @@ displayName: DP-300
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame sono amministratori di database e specialisti di gestione dei dati che gestiscono database relazionali in sito e cloud costruiti su database relazionali basati su Microsoft SQL Server e servizi dati Microsoft Azure.
 
-  L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati cloud native e ibride che sfruttano Azure Data Services e SQL Server. L'Azure Database Administrator utilizza una varietà di metodi e strumenti per eseguire le operazioni quotidiane, compresa l'applicazione delle conoscenze sull'uso del T-SQL per la gestione amministrativa.
+  Un Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni basate su piattaforme ibride e cloud di Azure Data Service e Server SQL. Un Azure Database Administrator utilizza una varietà di metodi e strumenti per condurre operazioni quotidiane applicando le conoscenze su T-SQL per scenari di gestione amministrativa.
 
   Questo ruolo è responsabile della gestione, della disponibilità, della sicurezza e del monitoraggio delle prestazioni e dell'ottimizzazione delle moderne soluzioni di database relazionali. Questo ruolo collabora con il ruolo di Azure Data Engineer per gestire gli aspetti operativi delle soluzioni di piattaforme dati.
-subTitle: 'Questo esame misura la capacità di realizzare i seguenti compiti tecnici: pianificare e implementare le risorse delle piattaforme dati, implementare un ambiente sicuro, monitorare e ottimizzare le risorse operative, ottimizzare le prestazioni delle query, eseguire l''automazione dei compiti, pianificare e implementare un ambiente HADR (High Availability and Disaster Recovery) ed eseguire l''amministrazione utilizzando T-SQL.'
+
+  <div></br>
+  I candidati a questo ruolo devono comprendere tutti i concetti trattati nell'esame <a href='/learn/certifications/exams/dp-900'> Exam DP-900: Microsoft Azure Data Fundamentals </a>. 
+  </div>
+subTitle: "Questo esame misura la capacità di realizzare i seguenti compiti tecnici: pianificare e implementare le risorse delle piattaforme dati, implementare un ambiente sicuro, monitorare e ottimizzare le risorse operative, ottimizzare le prestazioni delle query, eseguire l'automazione dei compiti, pianificare e implementare un ambiente HADR (High Availability and Disaster Recovery) ed eseguire l'amministrazione utilizzando T-SQL."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
@@ -28,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
+- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
 - Pianificare e implementare le risorse della piattaforma dati (15-20%)
 - Implementare un ambiente sicuro (15-20%)
 - Monitorare e ottimizzare le risorse operative (15-20%)
