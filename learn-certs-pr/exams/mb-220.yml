@@ -8,7 +8,7 @@ displayName: MB-220
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 10 novembre 2020. Scaricare il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 10 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati per questo esame sono i Marketing Functional Consultants con competenze Dynamics 365. I candidati sono responsabili dell'implementazione di soluzioni che attraggono e convertono i lead, contribuiscono alla brand awareness, standardizzano la messaggistica omnicanale e forniscono approfondimenti al reparto marketing.
@@ -26,11 +26,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame verrà aggiornato il 10 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
+- Gli argomenti oggetto d'esame sono stati aggiornati il 10 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
 - Configurare applicazioni di marketing (20-25%)
 - Gestire segmenti ed elenchi (5-10%)
 - Creare e gestire moduli e pagine di marketing (10-15%)
--  Gestione lead, contatti e account (10-15%)
+- Gestione lead, contatti e account (10-15%)
 - Creare e gestire messaggi di posta elettronica di marketing (5-10%)
 - Gestire i percorsi cliente (10-15%)
 - Gestire eventi e webinar (5-10%)

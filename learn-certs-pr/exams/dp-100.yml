@@ -12,6 +12,8 @@ summary: |-
   </div>
 
   Il Data Scientist Azure applica le proprie conoscenze di scienza dei dati e di machine learning per implementare ed eseguire carichi di lavoro di machine learning su Azure; in particolare, utilizzando Azure Machine Learning Service. Ciò comporta la pianificazione e la creazione di un ambiente di lavoro adatto per i carichi di lavoro di scienza dei dati su Azure, l'esecuzione di esperimenti sui dati e la formazione sui modelli predittivi, la gestione e l'ottimizzazione dei modelli e l'implementazione di modelli di machine learning in produzione.
+
+  Superando questo esame di certificazione potresti essere idoneo per il credito universitario ACE. Consulta [Crediti universitari ACE per gli esami di certificazione](/learn/certifications/ace-credit-for-certification-exams) per maggiori informazioni.
 subTitle: 'Questo esame misura la capacità di svolgere i seguenti compiti tecnici: impostare uno spazio di lavoro Azure Machine Learning, eseguire esperimenti e formare i modelli, ottimizzare e gestire i modelli, distribuire e consumare i modelli.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA

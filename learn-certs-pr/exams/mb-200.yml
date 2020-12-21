@@ -16,6 +16,8 @@ summary: |-
   I candidati sono principalmente i responsabili della configurazione del sistema per soddisfare le esigenze dei clienti, l'esecuzione delle attività di progettazione relative all'implementazione di nuove caratteristiche e funzionalità e l'implementazione e il test delle modifiche del sistema.
 
   I candidati pianificano la progettazione funzionale delle soluzioni, implementano un processo ALM (Application Lifecycle Management), migrano dati e oggetti da sistemi legacy ed esterni, integrano Power Platform con altri sistemi e gestiscono l'ambiente Power Platform.
+
+  <div><strong><br/>Poiché questo esame verrà ritirato il 31 dicembre 2020, Microsoft non aggiornerà i riferimenti da "Common Data Service" a "Microsoft Dataverse".</strong></div>
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire operazioni di rilevamento, pianificazione ed analisi, gestire la progettazione dell’esperienza utente, gestire entità e dati, implementare la sicurezza, implementare l’integrazione ed eseguire l''installazione e il testing di soluzioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb

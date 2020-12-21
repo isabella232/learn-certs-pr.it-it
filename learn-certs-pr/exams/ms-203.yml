@@ -8,7 +8,7 @@ displayName: MS-203
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame sono i Messaging Administrator che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti ibridi sia nei cloud aziendali.
@@ -28,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
+- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
 - Gestire le impostazioni e le risorse dell'organizzazione (30-35%)
 - Pianificare e gestire l'architettura della posta (20-25%)
 - Pianificare e implementare una configurazione e una migrazione ibride (20-25%)
@@ -39,6 +39,10 @@ products:
 - m365
 courses:
 - uid: course.ms-203t00
+paths:
+- uid: learn-m365.m365-messaging-hybrid-migration
+- uid: learn-m365.m365-messaging-architecture
+- uid: learn-m365.m365-messaging-secure-environment
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator

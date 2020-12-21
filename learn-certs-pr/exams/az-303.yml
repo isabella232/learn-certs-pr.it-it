@@ -7,18 +7,17 @@ uid: exam.az-303
 displayName: AZ-303
 summary: |-
   <div>
-  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.<div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
-  I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
+  I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza. I candidati dovrebber avere competenze di livello intermedio nell'amministrazione di Azure. I candidati dovrebbero essere in grado di comprendere lo sviluppo su Azure e i processi DevOps.
 
   Le responsabilità di un Azure Solution Architect includono la consulenza alle parti interessate e la realizzazione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
 
   Un Azure Solution Architect collabora con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
 
   Un candidato a questo esame deve avere esperienza avanzata e conoscenza delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, piattaforma dati, budgeting e governance&#58; questo ruolo deve gestire in che modo le decisioni in ogni area influiscono su una soluzione globale. Inoltre, questo ruolo deve avere di competenze a livello di esperto nell'amministrazione di Azure ed esperienza nei processi di sviluppo di Azure e DevOps.
-subTitle: 'Questo esame misura la capacità di svolgere i seguenti compiti tecnici: implementare e monitorare un''infrastruttura Azure, implementare soluzioni di gestione e sicurezza, implementare soluzioni per app, implementare e gestire piattaforme dati.'
+subTitle: "Questo esame misura la capacità di svolgere i seguenti compiti tecnici: implementare e monitorare un'infrastruttura Azure, implementare soluzioni di gestione e sicurezza, implementare soluzioni per app, implementare e gestire piattaforme dati."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-303?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -31,7 +30,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame verrà aggiornato il 24 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.
+- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
 - Implementare e monitorare un'infrastruttura Azure (50-55%)
 - Implementare soluzioni di gestione e sicurezza (25-30%)
 - Implementare soluzioni per le app (10-15%)

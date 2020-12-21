@@ -1,6 +1,6 @@
 ---
-title: 'Credito universitario per esami di certificazione | Microsoft Docs'
-description: 'Credito universitario per esami di certificazione' 
+title: 'Credito universitario NCCRS per gli esami di certificazione | Microsoft Docs'
+description: 'Credito universitario NCCRS per gli esami di certificazione' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,7 +10,7 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Credito universitario per esami di certificazione
+# Credito universitario NCCRS per gli esami di certificazione
 
 ## Certificazione per gli studenti
 

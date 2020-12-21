@@ -44,12 +44,12 @@
     href: exam-item-challenge-process.md
   - name: Esami beta
     href: beta-exams.md
-  - name: Credito universitario per esami di certificazione
+  - name: Credito universitario ACE per gli esami di certificazione
+    href: ace-credit-for-certification-exams.md
+  - name: Credito universitario NCCRS per gli esami di certificazione
     href: college-credit-for-certification-exams.md
   - name: Sconti per gli studenti
     href: student-discounts.md
-- name: Rinnova la tua certificazione Microsoft
-  href: renew-your-microsoft-certification.md
 - name: Guida alla certificazione
   href: help.md
 - name: Guida Microsoft Official Courseware (MOC)

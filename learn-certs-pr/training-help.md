@@ -12,13 +12,13 @@ ms.prod: non-product-specific
 ---
 # Supporto: Programmazione del corso Learning Partner su Learn
 
-## Corsi di formazione con istruttori 
+## Corsi di formazione con istruttori
 
 Microsoft sta rilasciando un'esperienza semplificata e snella per gli studenti, integrando su [Microsoft Learn](/learn) funzionalità di pianificazione della formazione in tempo reale con istruttori. L'integrazione del programma dei corsi in Microsoft Learn consentirà agli studenti di visualizzare in anteprima i corsi di formazione con istruttori offerti da Learning Partner qualificati. Una volta selezionato un corso, verrai indirizzato direttamente al sito Learning Partner per completare la registrazione e il pagamento.  
 
-Qui di seguito puoi trovare le risposte alle domande più comuni e un canale per fornire feedback e supporto. Anche se non riceverai una risposta al feedback durante l’“Anteprima pubblica”, tieni presente che il tuo feedback è importante e verrà gestito.   
+Qui di seguito puoi trovare le risposte alle domande più comuni e un canale per fornire feedback e supporto. Anche se non riceverai una risposta al feedback durante l’“Anteprima pubblica”, tieni presente che il tuo feedback è importante e verrà gestito.
 
-Inizialmente la registrazione al corso sarà disponibile solo in inglese. Nel corso del prossimo anno verranno aggiunti ulteriori Learning Partner qualificati. 
+Inizialmente la registrazione al corso sarà disponibile solo in inglese. Nel corso del prossimo anno verranno aggiunti ulteriori Learning Partner qualificati.
 
 ## Come contattare l’assistenza
 
@@ -52,18 +52,9 @@ Inizialmente la registrazione al corso sarà disponibile solo in inglese. Nel co
 			<td>
 				<ul>
 					<li>Controlla le <a href="/learn/certifications/training-faq">FAQ</a>.</li>
-					<li>Se non trovi una risposta alla tua domanda, pubblica la tua domanda sulla <a href="https://trainingsupport.microsoft.com/iltvilt/forum">programmazione di un corso con istruttore con Learning Partner sul forum di supporto Learn</a>.
+					<li>Se non trovi una risposta alla tua domanda, pubblica la tua domanda sulla <a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">programmazione di un corso con istruttore con Learning Partner sul forum di supporto Learn</a>.
 </li>
 				</ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><strong><em>Feedback generale</em></strong> per migliorare l'esperienza o il servizio </p>
-            </td>
-            <td>
-                <p><a href="/learn/support/troubleshooting#report-feedback">Invia un feedback con questo modulo</a> e seleziona 'Prodotto o funzionalità', quindi 'Formazione con istruttore' e fornisci il tuo feedback dettagliato.</p>
-				<p>Ti assicuriamo che il tuo feedback sarà gestito, ma non riceverai una risposta.</p>
             </td>
         </tr>
         <tr>

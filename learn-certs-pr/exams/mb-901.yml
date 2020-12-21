@@ -16,6 +16,10 @@ summary: |-
   I candidati devono avere una comprensione funzionale delle capacità di Dynamics 365 e del cloud computing di Microsoft.
 
   I candidati idonei a questo esame devono avere una conoscenza generale o un’esperienza di lavoro rilevante in un ambiente IT. Devono inoltre avere una conoscenza di base degli scenari di business ed esperienza nel soddisfare i requisiti aziendali, legali e di sicurezza dei progetti IT.
+
+  Superando questo esame di certificazione potresti essere idoneo per il credito universitario ACE. Consulta [Crediti universitari ACE per gli esami di certificazione](/learn/certifications/ace-credit-for-certification-exams) per maggiori informazioni.
+
+  <div><br/><strong> Nota&#58; Al momento, Microsoft non aggiornerà i riferimenti da "Common Data Service" a "Microsoft Dataverse". </strong></div>
 subTitle: Questo esame misura la capacità di comprendere Microsoft Dynamics 365, l'intelligenza artificiale, la realtà mista, la Power Platform, i concetti di cloud, la sicurezza del cloud, la sicurezza basata sul ruolo in Dynamics 365, il Common Data Service, il framework di gestione dei dati, la reportistica di Dynamics 365, le integrazioni di Dynamics 365 e l'implementazione del cloud.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -41,7 +45,10 @@ skills:
 - Descrivere le app basate sul modello (25-30%)
 - Descrivere le app finanziarie e operative (25-30%)
 roles:
+- business-owner
+- business-user
 - functional-consultant
+- student
 products:
 - dynamics-365
 courses:
