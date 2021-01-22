@@ -6,7 +6,10 @@ metadata:
 uid: exam.77-883
 displayName: 77-883
 summary: |-
+  <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Questo esame è stato ritirato. Per le opzioni attualmente disponibili, fare riferimento alla <a href="/learn/certifications/browse/">pagina Sfoglia certificazioni ed esami</a>.</strong><br/><br/></div>
+  </div>
 
   Il candidato tipico per questo esame è uno studente, un impiegato o un istruttore che ha la necessità di usare le funzioni e funzionalità di PowerPoint 2010.
 
@@ -14,7 +17,6 @@ summary: |-
 subTitle: Il candidato tipico per questo esame è uno studente, un impiegato o un istruttore che ha la necessità di usare le funzioni e funzionalità di PowerPoint 2010.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - ar-sa
@@ -39,6 +41,7 @@ skills:
 - Collaborare alle presentazioni
 - Preparare le presentazioni per la distribuzione
 - Consegnare presentazioni
+retirementDate: none
 roles:
 - business-user
 products:

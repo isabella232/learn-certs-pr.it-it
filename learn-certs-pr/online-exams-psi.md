@@ -213,6 +213,7 @@ Prima di registrarti e di acquistare l'esame, [completare il controllo del siste
 - Per programmare un esame online con PSI, fai clic sull'esame di certificazione Microsoft che desideri sostenere da [lista degli esami che potrai sostenere](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer), quindi seleziona il pulsante "**Programma per USD 15**".
 - Se nel tuo paese sono disponibili esami online, potrai selezionare tale opzione durante il processo di registrazione all'esame. Verrai trasferito al sito di programmazione PSI dove selezionerai il tuo paese e fuso orario, una lingua e una data e un'ora per sostenere l'esame.
 - Al termine, dovrai pagare l'esame.
+- Gli esami devono essere programmati con 24 ore di anticipo. Pertanto, qualora si volesse sostenere un esame l'ultimo giorno dell'offerta, ovvero il 31 dicembre 2021, bisognerà programmare entro il 30 dicembre 2021.
 
 ## Avvio dell'esame e processo di check-in del candidato
 
@@ -261,7 +262,9 @@ Vedi la sezione "**[Registrati per un esame online](/learn/certifications/online
 
 Sì, ma devi farlo almeno 24 ore prima dell'appuntamento dell'esame. Accedi alla [dashboard Certificazione Microsoft](https://aka.ms/CertDashboard) e seleziona il pulsante "**Annulla/Riprogramma**" nella sezione **Appuntamenti**. Sarai poi reindirizzato al sito PSI per annullare o riprogrammare l'esame.
 
-Nota: L'offerta di esame a USD 15 per chi cerca lavoro deve essere richiesta entro il 31 dicembre 2020 e l'esame deve essere sostenuto entro il 31 marzo 2021. La riprogrammazione dell'esame può essere effettuata in qualsiasi momento prima del 31 dicembre 2020; tuttavia, se si annulla l'appuntamento per l’esame dopo il 31 dicembre 2020, non sarà possibile programmarlo di nuovo utilizzando l'offerta scontata.
+Nota: L'offerta dell'esame per iscritti al programma USD15 Job Seeker deve essere richiesta entro il 31 Dicembre 2021&#42; e l'esame deve essere sostenuto entro il 31 Dicembre 2021. La riprogrammazione dell'esame può essere effettuata in qualsiasi momento prima del 30 dicembre 2021; tuttavia, se annulli l'appuntamento per l'esame dopo il 31 dicembre 2021&#42;, non potrai ripetere la pianificazione utilizzando lo sconto.
+
+*&#42;Gli esami devono essere programmati con 24 ore di anticipo. Pertanto, qualora si volesse sostenere un esame l'ultimo giorno dell'offerta, ovvero il 31 dicembre 2021, bisognerà programmare entro il 30 dicembre 2021.*
 
 ### Posso ripetere l'esame al prezzo scontato di USD 15?
 

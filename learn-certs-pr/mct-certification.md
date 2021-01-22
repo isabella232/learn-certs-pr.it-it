@@ -44,7 +44,7 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
   - Certificazione delle competenze didattiche
     - CompTIA CTT+
     - Essential Educate Trainer (certificazione interna Microsoft)
-	  - Fourth Dimension Technologies, Inc.
+    - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge Instructional Skills Certification
     - IAMCT Approved Technical Trainer (IAMCT ATT)
@@ -53,12 +53,12 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
     - Learning Tree Train the Trainer Program
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Certification (MCT-ISC)
-	  - Microsoft Customer Service & Support (CSS) Trainer Certification
-	  - Microsoft Core Training Skills
+    - Microsoft Customer Service & Support (CSS) Trainer Certification
+    - Microsoft Core Training Skills
     - New Horizons Instructional Skills Certification
     - PrepMasters USA
-    - Modern Classroom Certified Trainer (MCCT®)
-    - Certified Virtual Educator
+    - Modern Classroom Certified Trainer (MCCT®) [Riservato a personale universitario o professori]
+    - Certified Virtual Educator [Riservato a personale universitario o professori]
   
   OPPURE<br/><br/>
 
@@ -96,7 +96,9 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
+- [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -106,7 +108,7 @@ Per informazioni dettagliate sui requisiti del programma MCT, consultare la Guid
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/--and-d365-developer-associate)(verrà ritirato il 31 dicembre 2020)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/--and-d365-developer-associate) (verrà ritirato il 31 dicembre 2020)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (verrà ritirato il 31 gennaio 2021), Microsoft Dynamics 365 for Operations (verrà ritirato il 31 gennaio 2021; [vedere qui per i requisiti associati a ciascuna qualifica e certificazione Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)), SQL 2016 BI Development (verrà ritirato il 31 gennaio 2021), SQL 2016 Database Administration (verrà ritirato il 31 gennaio 2021), SQL 2016 Database Development (verrà ritirato il 31 gennaio 2021), SQL Server 2012/2014 (verrà ritirato il 31 gennaio 2021), Universal Windows Platform (verrà ritirato il 31 gennaio 2021), Web Applications (verrà ritirato il 31 gennaio 2021), Windows Server 2012 (verrà ritirato il 31 gennaio 2021) o Windows Server 2016 (verrà ritirato il 31 gennaio 2021)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (verrà ritirato il 31 gennaio 2021), Data Management and Analytics (verrà ritirato il 31 gennaio 2021), Productivity (verrà ritirato il 31 gennaio 2021), or Core Infrastructure (verrà ritirato il 31 gennaio 2021)

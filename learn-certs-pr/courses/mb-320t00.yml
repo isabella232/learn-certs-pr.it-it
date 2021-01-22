@@ -1,19 +1,21 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
 metadata:
-  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
-  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
 uid: course.mb-320t00
 courseNumber: 'MB-320T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Essere produttivo in Dynamics 365
+- skill: configurare le caratteristiche e le funzionalità più importanti e comunemente utilizzate all'interno di Dynamics 365
+- skill: elaborare la maggior parte delle transazioni di Dynamics 365 Manufacturing
+- skill: spiegare ad un interlocutore il funzionamento di Dynamics 365 Supply Chain Management, Manufacturing features
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
-- beginner
+- intermediate
 roles:
 - developer
 products:
@@ -22,332 +24,137 @@ products:
 exams:
 - uid: exam.mb-320
 summary: |-
-  Questo corso tratta la produzione nella suite di applicazioni Dynamics 365&#58; produzione discreta, lean manufacturing e produzione
-
+  Questo corso ha sei moduli e progettato per un'esperienza di apprendimento della durata di 4 giorni. Può essere insegnato di persona e/o virtualmente. Il tuo istruttore ti fornirà l'agenda di questo corso. Il modulo 1 ti introdurrà alla configurazione necessaria per Dynamics 365 Supply Chain Management, Manufacturing. Il Modulo 2 approfondirà la gestione dei diversi tipi di processi di produzione. Il modulo 3 affronterà come implementare la pianificazione generale per la produzione. Il modulo 4 affronterà l'implementazione di diverse funzionalità di produzione. Il modulo 5 si concentrerà sul subappalto per la produzione di prodotti.
+  
   #### Profilo dei destinatari
-  Un Dynamics 365 Finance Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out of the box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+  Un Dynamics 365 Functional Consultant è responsabile delle scoperte, dell'acquisizione dei requisiti, del coinvolgimento sia di esperti che delle parti interessate nel progetto, della traslazione dei requisit, e della configurazione delle soluzioni e delle app. Il Functional Consultant implementa soluzioni utilizzando funzionalità predefinite, estensioni senza coding e integra applicazioni e servizi.
 prerequisitesSection: |-
-  - Competenze di base nella produzione
-  - Competenze di base Dynamics 365
+  - Comprensione di base della gestione delle catene di approvvigionamento e della terminologia relativa alla produzione
+  - Comprensione di base delle app Dynamics 365 finance and operation
 outlineSection: |-
-  ### Modulo 1&#58; Operazioni preliminari con il controllo di produzione
-  Questo modulo spiega i concetti utilizzati nel modulo di controllo della produzione in Finance and Operations.
-
+  ### Modulo 1&#58; Configurare Dynamics 365 Supply Chain Management, Manufacturing
+  Durante questo modulo, si affronteranno le diverse configurazioni di cui i consulenti funzionali avranno bisogno per implementare le caratteristiche di produzione.
   #### Lezioni
-  - Introduzione
-  - Confrontare produzione discreta, snella e di processo
-  - Configurare il controllo della produzione per una produzione unificata
-  - Capire la pianificazione della capacità
-  - Contabilità generale e modulo di controllo della produzione
-  - Laboratori di pratica
-  - Riepilogo
+  - Configurazione e gestione del modulo di controllo della produzione
+  - Configurazione e gestione delle risorse per i processi di produzione
+  - Configurazione della produzione discreta
+  - Configurazione della produzione di processo
+  - Configurazione della produzione snella
 
-  Le metodologie di produzione discrete, snelle e di processo
-  - La produzione unificata
-  - Come configurare il controllo della produzione per la produzione unificata
-  - La pianificazione della capacità
-  - L’interconnettività tra il libro mastro generale e i moduli di controllo della produzione
-  - Il pool di produzione
-
-
-  ### Modulo 2&#58; Operazioni preliminari per la produzione discreta
-  Anche se i processi di produzione di ogni persona giuridica sono unici, a seconda della natura dell'ambiente di produzione, gli elementi concettuali fondamentali che vengono utilizzati nel modulo di controllo della produzione sono spesso molto simili.
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
+  - Configurazione e gestione del modulo di controllo della produzione
+  - Configurazione e gestione delle risorse per i processi di produzione
+  - Configurazione della produzione discreta
+  - Configurazione della produzione di processo
+  - Configurazione della produzione snella
+  
+  
+  ### Modulo 2&#58; Gestione dei processi di produzione
+  Questo modulo ti aiuterà a comprendere e mettere in pratica la maggior parte delle transazioni necessarie per i diversi scenari di produzione.
   #### Lezioni
-  - Introduzione
-  - Comprendere gli stati discreti del processo di produzione
-  - Comprendere la distinta base (BOM)
-  - Lavorare con le configurazioni con BOM ed articoli
-  - Creare distinte di materiali (BOM)
-  - Ordini di produzione
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Concetti di produzione discreti
-  - Stati del processo di produzione
-  - Fasi di produzione
-  - Distinte di materiali (BOM)
-  - Risorse
-  - Percorsi e operazioni
-
-
-  ### Modulo 3&#58; Configurare la produzione discreta
-  Prima di poter lavorare nel modulo Controllo produzione e creare ordini di produzione, è necessario impostare i parametri di produzione. I parametri selezionati hanno un impatto diretto sull'ordine di produzione e sul ciclo di vita della produzione. Si possono impostare i parametri per azienda o per sito, il che determina se Dynamics 365 for Finance and Operations utilizza i parametri a livello aziendale o i parametri specifici del sito.
-
-  Parameter, Production Order and Life Cycle rivedono come questi parametri sono definiti, come vengono utilizzati i nomi dei libri giornali, come vengono creati gli ordini di produzione e come vengono elaborati attraverso la produzione in base al loro stato e al ciclo di vita della produzione. Questa lezione spiega come configurare la produzione discreta in Finance and Operations.
-
+  - Gestire ordini di produzione
+  - Gestire ordini batch
+  - Gestire ordini kanban
+  
+  #### Lab&#58; Case study 1A Produzione discreta
+  - Esercizio #1&#58; Aggiornare i parametri di controllo della produzione
+  - Esercizio #2&#58; Creare nuovi pool di produzione
+  - Esercizio #3&#58; Creazione e gestione delle risorse
+  - Esercizio #4&#58; Creazione di un'operazione, assegnazione delle relazioni e creazione di una rotta
+  - Esercizio #5&#58; Creazione di un BOM semplice senza versioni
+  - Esercizio #6&#58; Creazione di una BOM nel BOM designer (Bonus)
+  - Esercizio #7&#58; Creazione di una BOM con versione
+  - Esercizio #8&#58; Creazione di un ordine di produzione
+  - Esercizio #9&#58;  avviare un ordine di produzione discreto (bonus)
+  - Esercizio #10&#58; Eseguire una pianificazione delle risorse
+  - Esercizio #12&#58; Configurare le politiche di determinazione dei costi
+  - Esercizio #13&#58; Configurare l'esecuzione della produzione (bonus)
+  - Esercizio #14&#58; Configurare il consumo di percorso automatico sui lavori di configurazione (bonus)
+  - Esercizio #15&#58; Utilizzare l'esecuzione della produzione (bonus)
+  
+  #### Laboratorio&#58; Case study 1B Processo di Produzione
+  - Esercizio #1&#58; Creazione di un elenco di fornitori approvati e impostare il metodo su Warning Only (Bonus)
+  - Esercizio #2&#58; Creazione articoli con diversi tipi di produzione
+  - Esercizio #3&#58; Creazione e attivazione di una formula utilizzando diversi tipi di prodotti
+  - Esercizio #4&#58; Creazione una nuova formula con una versione dal modulo dei prodotti rilasciati (bonus)
+  - Esercizio #5&#58; Revisione, aggiornamento e attivazione di una formula (Bonus)
+  - Esercizio #6&#58; Uso della funzione di scalabilità per creare una nuova formula
+  - Esercizio #7&#58; Creazione e attivazione di una formula basata su percentuale (Bonus)
+  - Esercizio #8&#58; Modifica di un consumo lineare in un consumo graduale
+  - Esercizio #9&#58; impostazione dei prezzi delle materie prime (bonus)
+  - Esercizio #10&#58; Modifica di un calcolo del prezzo e aggiornamento degli accordi commerciali
+  - Esercizio #11&#58; impostazione del calcolo del prezzo di una materia prima 
+  - Esercizio #12&#58; Creazione di elenchi, record e caricamenti di file PSDS per la conformità del prodotto
+  - Esercizio #13&#58; Aggiunzione di dettagli al rapporto per un articolo
+  - Esercizio #14&#58; Creazione di un ordine di vendita e stampa di un PSDS
+  - Esercizio #15&#58; Creazione e associazione di un attributo batch
+  - Esercizio #16&#58; Creazione di un nuovo numero di batch e registrazione manuale dell'attributo batch
+  - Esercizio #17&#58; Creazione di ordini di controllo qualità e verifica gli attributi del batch
+  - Esercizio #18&#58; Prenotazione di batch utilizzando un requisito di attributo
+  - Esercizio #19&#58; Impostazione di un oggetto catch weight a visibilità parziale
+  - Esercizio #20&#58; Uso di articoli a peso variabile in un accordo commerciale di acquisto
+  - Esercizio #21&#58; Creazione di un attributo batch per un elemento di potenza
+  - Esercizio #22&#58; Modifica e attivazione di una copia della formula di un elemento di potenza
+  - Esercizio #23&#58; Imposta il prezzo in base all'attributo di un articolo (bonus)
+  - Esercizio #24&#58; registra un attributo di potenza al ricevimento (bonus)
+  - Esercizio #25&#58; creazione di rapporti e bilanciamento degli ordini in batch (bonus)
+  
+  #### Laboratorio&#58; Case study 1C Lean Manufacturing
+  - Esercizio #1&#58; Creazione di flussi di valore
+  - Esercizio #2&#58; Creazione di un nuovo modello di flusso produttivo
+  - Esercizio #3&#58; Creare un'attività di processo
+  - Esercizio #4&#58; Creazione di una nuova attività di trasferimento
+  - Esercizio #5&#58; Aggiungere un successore all'attività del flusso di produzione eseguendo la convalida e l'attivazione 
+  - Esercizio #6&#58; creazione di regole Kanban e pianificazione del lavoro Kanban
+  - Esercizio #7&#58; Elaborazione Kanban pianificata per processi di elaborazione e trasferimento
+  - Esercizio #8&#58; Evasione di un ordine di vendita con pianificazione Kanban e produzione di un articolo (Bonus) 
+  
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
+  - Gestire ordini di produzione
+  - Gestire ordini batch
+  - Gestire ordini kanban
+  
+  
+  ### Modulo 3&#58; Implementazione della pianificazione generale per la produzione
+  Questo modulo spiegherà gli aspetti della pianificazione generale necessari per il consulente funzionale di produzione
   #### Lezioni
-  - Introduzione
-  - Preparare il libro mastro generale per la produzione
-  - Configurare i parametri di controllo della produzione
-  - Configurare il calendario e le risorse
-  - Configurare operazioni e vie
-  - Laboratorio di pratica
-  - Riepilogo del modulo
-
-  Configurare le dimensioni dell’inventario in fase di produzione
-  - Configurare i parametri, gli ordini di produzione e lo stato
-  - Configurare i calendari e le risorse
-  - Configurare operazioni e vie
-
-
-  ### Modulo 4&#58; Creare e completare gli ordini di produzione
-  Il ciclo di vita di un ordine di produzione riflette i passi effettivi che vengono compiuti per fabbricare un prodotto. Inizia con la creazione di un ordine di produzione e termina con un prodotto finito, fabbricato e pronto per il cliente. All'ordine di produzione viene assegnato uno stato che riflette la sua posizione nel ciclo di vita della produzione.
-
-  Questo modulo esamina le fasi Release, Start, Report as finished e End della produzione nell'ordine in cui sono state eseguite. Release, Start, Report as finished sono considerati parte del controllo della produzione
+  - Configurazione e gestione della pianificazione generale
+  - Pianificazione ed esecuzione di un piano di produzione a capacità 
+  
+  #### Laboratorio &#58; Case Study 2 Pianificazione Generale
+  - Esercizio #14&#58; Consolidamento di un ordine pianificato e modifica di un ordine
+  - Esercizio #2&#58; Creazione di un gruppo di pianificazione interaziendale e assegnazione di chiavi per l'assegnazione di articoli
+  - Esercizio #3&#58; Pianificazione di un programma di produzione a partire dall'esecuzione di una pianificazione generale (Bonus)
+  
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
+  - Configurazione e gestione della pianificazione generale
+  - Pianificazione ed esecuzione di un piano di produzione a capacità 
+  
+  
+  ### Modulo 4&#58; implementazione di altre funzionalità di produzione
+  Questo modulo tratterà diverse importanti caratteristiche comunemente utilizzate dai clienti di produzione.
   #### Lezioni
-  - Introduzione
-  - Pianificazione della capacità, programmazione e subappalto
-  - Rottami e rifiuti
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Capire la pianificazione della capacità
-  - Creare ordini di produzione discreti
-  - Programmare un ordine di produzione
-  - Elaborare gli ordini di produzione
-  - Controllo e produzione finale
-
-
-  ### Modulo 5&#58; Lavorare con il Cost Sheeting
-  Questo modulo descrive come impostare un foglio di calcolo dei costi che include il materiale e la produzione, nonché come l'impostazione influisce sui risultati del calcolo della distinta base.
-
-  Impariamo a configurare e gestire il foglio di calcolo dei costi in Finanza e Operazioni.
-  #### Lezioni
-  - Introduzione
-  - Comprendere il foglio di calcolo dei costi
-  - Calcolo della distinta base e analisi dei costi
-  - Riepilogo del modulo
-
-  Lavorare con il foglio di calcolo dei costi
-
-  ### Modulo 6&#58; Utilizzare l'esecuzione di produzione
-  L'esecuzione della produzione è destinata principalmente ad essere utilizzata dalle aziende manifatturiere. I lavoratori possono registrare il tempo e il consumo di articoli sui lavori di produzione e sulle attività di progetto utilizzando il modulo di registrazione del lavoro.
-
-  Tutte le registrazioni vengono approvate e successivamente trasferite ai relativi moduli Dynamics 365 for Finance and Operations. L'approvazione continua e il trasferimento delle registrazioni danno ai manager la possibilità di tracciare facilmente i costi effettivi sugli ordini di produzione.
-  #### Lezioni
-  - Introduzione
-  - Comprendere le esecuzioni di produzione
-  - Identificare i ruoli
-  - Considerazioni sulla pianificazione
   - Configurare l'esecuzione della produzione
-  - Controllo della produzione
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Comprendere l'esecuzione della produzione
-  - Identificare i ruoli nell'esecuzione della produzione
-  - Elaborare gli ordini di produzione
-  - Comprendere i flussi di lavoro del processo per gestire una produzione
-
-
-  ### Modulo 7&#58; Operazioni preliminari con la Configurazione di prodotto
-  La configurazione del prodotto è uno strumento di configurazione del prodotto basato sui vincoli che utilizza la tecnologia di prodotto Microsoft Solver Foundation (MSF), progettata per la modellazione e la risoluzione dei vincoli.
-
-  È possibile utilizzare la configurazione del prodotto per creare e mantenere modelli di configurazione del prodotto e per riutilizzare componenti e tipi di attributi. Attributi, vincoli, sottocomponenti, requisiti utente, distinte base (BOM) e operazioni di instradamento sono implicitamente riutilizzati quando si riutilizza un componente. I componenti possono anche riutilizzare le definizioni dei vincoli della tabella.
-
-  Questo modulo spiega come iniziare a utilizzare il configuratore di prodotto in Finance and Operations.
+  - Configurare le politiche di determinazione dei costi
+  - Definire i modelli di configurazione del prodotto utilizzando Product Configurator
+  
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
+  - Configurare l'esecuzione della produzione
+  - Configurare le politiche di determinazione dei costi
+  - Definire i modelli di configurazione del prodotto utilizzando Product Configurator
+  
+  
+  ### Modulo 5&#58; Subappalto per la produzione di prodotti
+  Questo modulo coprirà la configurazione e l'uso delle funzionalità di subappalto
   #### Lezioni
-  - Introduzione
-  - Capire il modello di configurazione dei prodotti
-  - Creare un modello di configurazione dei prodotti
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  La terminologia importante per la comprensione dei concetti e dei processi
-  - Lo scenario di configurazione del prodotto end-to-end
-  - Le diverse aree che abbracciano il processo di configurazione del prodotto
-  - Il modello di configurazione del prodotto
-  - Come creare un modello di configurazione dei prodotti
-
-
-  ### Modulo 8&#58; Operazioni preliminari per la produzione snella
-  Questo modulo spiega come iniziare la produzione snella in Finance and Operations.
-
-  #### Lezioni
-  - Introduzione
-  - Concetti e terminologia
-  - Riepilogo del modulo
-
-  Capire la produzione snella
-  - Comprendere i concetti e la terminologia snella
-
-
-  ### Modulo 9&#58; Configurare la produzione snella
-  Questo modulo spiega come configurare la produzione snella in Finance and Operations.
-
-  Uno scenario di produzione snella è di solito più di un accumulo di Regole sui Kanban non correlate o di politiche di approvvigionamento di materiali. Il flusso di materiali e prodotti attraverso le celle di lavoro e i location per uno specifico scenario di produzione o di fornitura può essere descritto come una sequenza o una piccola rete di attività di processo o di trasferimento, chiamata flusso di produzione.
-
-  I flussi di produzione basati sull'attività sono introdotti in Finance and Operations per stabilire un contesto di produzione e di costo per vari scenari Kanban. Tutte le Regole sui Kanban sono direttamente collegate a questa struttura predefinita.
-
-  Il modello basato sulle attività consente agli utenti di impostare una gamma più ampia di scenari rispetto alle precedenti versioni di produzione snella for Finance and Operations, senza aggiungere complessità per i lavoratori in officina, perché tutti gli scenari utilizzano la stessa interfaccia utente basata sulle attività.
-  #### Lezioni
-  - Introduzione
-  - Configurare i parametri
-  - Creare flussi di valore e modelli di flusso di produzione
-  - Creare flussi di produzione
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Configurare i parametri
-  - Configurare i flussi di valori
-  - Creare flussi di produzione
-  - Configurare le celle di lavoro per la produzione snella
-
-
-  ### Modulo 10&#58; Creare ed elaborare Regole sui Kanban fisse
-  In Dynamics 365 for Finance and Operations, un Kanban è implementato come quadro di riferimento per pianificare, tracciare e processare sulla base di segnali Pull.
-
-  Un Kanban è una parte essenziale di un sistema di fornitura pull, che è un elemento critico della produzione/fornitura snella. Quando un Kanban è stato consumato, dovrebbe essere passato (attivato) alla fonte di approvvigionamento per rifornirlo. Questa fonte di approvvigionamento è definita attraverso le attività di flusso produttivo a cui il Kanban è collegato.
-
-  Le Regole sui Kanban in Finance and Operations sono legate ai flussi di produzione come la base che definisce le attività di un Kanban. Le Regole sui Kanban possono essere impostate per supportare una varietà di scenari di make-to-stock e make-to-order.
-  #### Lezioni
-  - Introduzione
-  - Schede sui Kanban
-  - Configurare una regola sui Kanban fissa
-  - Processare Kanban fissi
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Hai avuto una panoramica dei tipi di Kanban e Kanban
-  - Come configurare ed elaborare le regole del Kanban fisso
-  - Regole sui Kanban
-  - Produzione di Kanban
-  - Ritiro di Kanban
-  - Kanban a quantità fissa
-
-
-  ### Modulo 11&#58; Creare ed elaborare le Regole sui Kanban degli eventi
-  In questo modulo si parla dei kanban degli eventi e dei diversi modi per innescarli.
-  #### Lezioni
-  - Introduzione
-  - Configurare le regole sui Kanban degli eventi
-  - Configurare le vendite, il Kanban, il rifornimento delle scorte e gli eventi della linea BOM
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Configurare ed elaborare le regole Kanban dell'evento
-  - Regole sui Kanban
-  - Produzione di Kanban
-  - Ritiro di Kanban
-  - Creare e gestire la linea di vendita Kanban degli eventi
-  - Creare e gestire il Kanban degli eventi linea BOM
-  - Conosci degli scenari di esempio per i processi kanban di eventi e i diversi tipi di kanban di eventi
-
-
-  ### Modulo 12&#58; Creare ed elaborare Regole sui Kanban programmate
-  Gli ordini pianificati di tipo Kanban vengono creati sulla base della regola Kanban e seguono la logica e gli orizzonti standard del Master Planning. Le impostazioni di copertura degli articoli nel Master Planning determinano come vengono creati gli ordini pianificati e se vengono confermati automaticamente o manualmente. In questo modulo si parlerà del kanbans programmato in Dynamics 365 for Finance and Operations.
-  #### Lezioni
-  - Introduzione
-  - Configurare le Regole sui Kanban programmato
-  - Comprendere i calcoli delle quantità Kanban e la circolazione dei Kanban
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Configurare e lavorare con le regole del Kanban
-  - Configurare e lavorare con Manufacturing Kanbans
-  - Configurare e lavorare con Withdrawal Kanbans
-  - Configurare e lavorare con Create e gestire il Kanban programmato
-  - Configurare e lavorare con il programma di fornitura
-  - Configurare e lavorare con i calcoli delle quantità Kanban
-
-
-  ### Modulo 13&#58; Configurare il subappalto in base alle attività ed ai costi del flusso di produzione
-  Il principio di base di un flusso di produzione non cambia quando le attività sono subappaltate utilizzando Finance and Operations; il materiale scorre ancora tra le sedi, le attività di processo convertono il materiale in prodotti e le attività di trasferimento spostano il materiale o i prodotti da una sede all'altra.
-
-  In Dynamics 365 for Finance and Operations, ci sono due approcci per il subappalto&#58; gli ordini di produzione e la produzione snella.
-
-  Il primo approccio modella il lavoro in subappalto come un servizio che è legato ad un'attività di un flusso di produzione. È necessario configurare un tipo di gruppo di costi, l'outsourcing diretto, in modo che i servizi di subappalto non facciano parte di una BOM.
-
-  La contabilità dei costi dei lavori in subappalto è completamente integrata nel nuovo calcolo dei costi di produzione in Microsoft Dynamics 365 for Finance and Operations.
-  #### Lezioni
-  - Introduzione
-  - Configurare il subappalto in base all’attività
-  - Comprendere i costi del flusso di produzione
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Configurare il subappalto in base all’attività
-  - Configurare la pianificazione della produzione ed il subappalto
-  - Designare i fornitori come subappaltatori
-  - Configurare i costi del flusso di produzione
-
-
-  ### Modulo 14&#58; Operazioni preliminari per la produzione di processo
-  Questo modulo spiega come iniziare la produzione di processo in Finance and Operations.
-  #### Lezioni
-  - Introduzione
-  - Comprendere la produzione di processo
-  - Comprendere la gestione delle formule
-  - Capire co-prodotti e sottoprodotti
-  - Configurare i fornitori approvati
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Comprendere la produzione di processo
-  - Comprendere la gestione delle formule
-  - Capire co-prodotti e sottoprodotti
-  - Capire i fornitori approvati
-
-
-  ### Modulo 15&#58; Identificare e configurare gli attributi dei lotti per la produzione di processo
-  Questo modulo spiega come configurare gli attributi dei lotti in Finance and Operations.
-
-  #### Lezioni
-  - Introduzione
-  - Identificare e configurare gli attributi del lotto
-  - Creare e configurare articoli con peso variabile
-  - Impostare la gestione della potenza
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Capire gli attributi dei lotti
-  - Identificare e configurare gli attributi del lotto
-  - Conoscere i processi di controllo dei lotti e dei batch
-  - Configurare la rilavorazione dei lotti
-
-
-  ### Modulo 16&#58; Configurazione dei prezzi delle commodity e della conformità dei prodotti
-  Questo modulo spiega come lavorare con i prezzi dell commodity e la conformità in Finance and Operations.
-  #### Lezioni
-  - Introduzione
-  - Configurare i prezzi delle commodity
-  - Configurare la conformità dei prodotti
-  - Laboratori di pratica
-  - Riepilogo del modulo
-
-  Configurare i prezzi delle commodity
-  - Configurare la conformità dei prodotti
-
-
-  ### Modulo 17&#58; Utilizzare la gestione del magazzino per la produzione
-  Gli obiettivi di questo modulo sono esaminare l'interazione tra la produzione e le prenotazioni di magazzino, la configurazione dei gruppi di modelli di articoli per utilizzare la produzione e il magazzino e discutere le regole relative alla prenotazione degli articoli utilizzando sia la produzione di processo sia il magazzino.
-  #### Lezioni
-  - Introduzione
-  - Preparare la gestione del magazzino per la produzione
-  - Utilizzare la gestione del magazzino per la produzione
-  - Riepilogo del modulo
-
-  Capire le onde di produzione
-  - Creare modelli ondulatori per gli ordini di produzione
-  - Operazioni dirette sul percorso delle materie prime
-  - Esame di come configurare e utilizzare i dispositivi mobili con la produzione di processo
-  - Riservare materie prime
-  - Rilasciare gli ordini di produzione
-  - Elaborare una scelta di produzione
-  - Elaborare un rapporto di produzione come finito
-  - Impostare ordini batch
-  - Elaborare gli ordini in lotti
-  - Esaminare gli ordini di lotti con potenza
-  - Esaminare gli ordini di lotti con co-prodotti e prodotti secondari
-  - Lavorare con le posizioni per i prodotti finiti
-  - Posizioni di ingresso per il consumo di risorse
-
-
-  ### Modulo 18&#58; Conclusione del corso
-  Concludere la produzione
-  #### Lezioni
-  - Valutazione finale
-  - Riepilogo del corso
-
-  Hai completato il corso
-
+  - Configurazione subappalti
+  - Utilizzo del subappalto
+  
+  #### Laboratorio&#58; Case study 3 Subappalto
+  - Esercizio #1&#58; Impostazione delle funzionalità di subappalto
+  
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
+  - Configurazione subappalti
+  - Utilizzo del subappalto
+  
+  

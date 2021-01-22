@@ -37,43 +37,96 @@ prerequisitesSection: |-
 outlineSection: |-
   ### Modulo 1&#58; creare un'applicazione basata su modelli su Power Apps
   Questo modulo introduce alla creazione di un'app basata su modelli su Power Apps che usa Common Data Service.
+  #### Lezioni
+  - Introduzione alle app basate su modelli e Common Data Service
+  - Introduzione alle app basate su modelli in Power Apps
+  - Creazione e gestione delle entità su Common Data Service
+  - Creazione e gestione dei campi all'interno di un'entità su Common Data Service
+  - Lavoro tramite set di opzioni in Common Data Service
+  - Creazione di una relazione tra entità su Common Data Service
+  - Definizione e creazione di regole di business in Common Data Service
+  - Creare e definire campi di calcolo o di rollup in Common Data Service
+  - Introduzione ai ruoli di sicurezza su Common Data Service
   
   
-  ### Modulo 2&#58; Introduzione all'uso di Common Data Service
-  Questo modulo spiegherà i concetti base e i vantaggi di Common Data Service. Vengono inoltre discussi la creazione di un ambiente, entità, campi e insiemi di opzioni.
-  
-  
-  ### Modulo 3&#58; Crea un'app Canvas con Power Apps
+  ### Modulo 2&#58; Creazione di un app canvas su Power Apps
   Questo modulo ti introduce a Power Apps e ti aiuta a creare, personalizzare, gestire e distribuire un'app. Ti mostrerà anche come migliorare la navigazione dell'app e creare l'interfaccia utente ideale utilizzando temi, icone, immagini, personalizzazioni, diversi fattori di forma e vari controlli.
+  #### Lezioni
+  - Introduzione a Power Apps
+  - Personalizzazione di un app canvas su Power Apps
+  - Gestione delle app su Power Apps
+  - Navigazione all'interno di un app canvas su Power Apps
+  - Come creare l'interfaccia utente in un app canvas in Power Apps
+  - Uso e comprensione dei controlli in un app canvas in Power Apps
+  - Documentazione e test sulla propria app Power Apps
+  
+  
+  ### Modulo 3&#58; Padroneggia le tecniche avanzate e le opzioni sui dati nelle app canvas
+  Questo modulo ti aiuterà a utilizzare formule avanzate, eseguire aggiornamenti personalizzati, controlli delle prestazioni e test. Ti aiuterà anche a migliorare l'esperienza dell'utente, utilizzare connettori personalizzati e concentrarti sull'utilizzo dei limiti dell'origine dati.
+  #### Lezioni
+  - Uso delle tecniche di sviluppo imperative per le app canvas su Power Apps
+  - Creazione di una formula avanzata che usa tabelle, record e raccolte in un app canvas su Power Apps
+  - Esecuzione di aggiornamenti personalizzati in un app canvas di Power Apps
+  - Completamento dei test e i controlli delle prestazioni in un app canvas di Power Apps
+  - Lavorare con dati relazionali su un app canvas di Power Apps
+  - Lavora con i limiti d'origine (limiti di delega) in un app canvas di Power Apps
+  - Connessione ad altri dati su un app canvas di Power Apps 
+  - Usa i connettori personalizzati di un app canvas di Power Apps
   
   
   ### Modulo 4&#58; Automatizza un processo aziendale utilizzando Power Automate
   Questo modulo introduce a Power Automate, imparareai come creare flussi di lavoro e come amministrare i flussi.
+  #### Lezioni
+  - Introduzione a Power Automate
+  - Creazione di flussi più complessi con Power Automate
+  - Introduzione ai flussi dei processi aziendali su Power Automate
+  - Creazione di un flusso di processo aziendale coinvolgente su Power Automate
+  - Comprensione dei concetti avanzati del flusso dei processi aziendali in Power Automate
+  - Introduzione alle espressioni in Power Automate
   
   
-  ### Modulo 5&#58; Crea un flusso di processi aziendali su Power Automate
-  Questo è un modulo introduttivo alla creazione di flussi di processi aziendali su Power Automate.
-  
-  
-  ### Modulo 6&#58; Introduzione allo sviluppo con Power Platform
+  ### Modulo 5&#58; Introduzione allo sviluppo con Power Platform
   Questo modulo è il primo passo per conoscere la piattaforma, gli strumenti e l'ecosistema di Power Platform
+  #### Lezioni
+  - Introduzione alle risorse per sviluppatori di Power Platform
+  - Utilizza gli strumenti per sviluppatori per estendere Power Platform
+  - Introduzione all'estensione di Microsoft Power Platform
+  
+  ### Modulo 6&#58; Estensione di Power Platform Common Data Service
+  Questo modulo esamina gli strumenti e le risorse necessari per estendere Power Platform. Inizieremo esaminando gli SDK, il modello di estensibilità e il framework degli eventi. Questo percorso di apprendimento copre anche i casi d'uso dei plug-in. Configurazione, registrazione e distribuzione di plug-in.
+  #### Lezioni
+  - Introduzione a Common Data Service per gli sviluppatori
+  - Estensione dei plug-in
   
   
   ### Modulo 7&#58; Migliroamento dell'esperienza utente di Power Platform App basate su modelli
   Questo modulo descrive come creare script client, eseguire azioni comuni con script client e automatizzare il flusso dei processi aziendali con script client. Informazioni su cosa può fare lo script client, regole e gestione degli script. Scopri quando è opportuno utilizzare uno script client.
+  #### Lezioni
+  - Introduzione alle risorse web
+  - Esecuzione di azioni comuni con script client
+  - Automatizzazione dei flussi relativi ai processi aziendali con lo script client
   
   
   ### Modulo 8&#58; Creazione di componenti con Power Apps Component Framework
   Questo modulo descrive il miglior approccio alla piattaforma Power Apps Component Framework con un modulo introduttivo sui concetti e sui componenti principali. Inoltre mostra come creare un componente ed utilizzare le funzionalità avanzate di Power Apps Component Framework.
+  #### Lezioni
+  - Introduzione alla framework dei componenti Power Apps
+  - Creare una componente Power Apps
+  - Uso delle funzioni avanzate con la struttura di framework di Power Apps
   
   
-  ### Modulo 9&#58;  Estensione del servizio dati comune di Power Platform
-  Questo modulo esamina gli strumenti e le risorse necessarie per l'estensione di Power Platform. Inizieremo esaminando gli SDK, il modello di estensibilità e il framework degli eventi. Questo percorso di apprendimento copre anche gli scenari d'utilizzo dei plug-in. Configurazione, registrazione e distribuzione dei plug-in.
+  ### Modulo 9&#58; Estensione dei portali di Power Apps
+  Questo modulo descrive come trasformare un portale di contenuti in un app Web che interagisce con Common Data Service. Tratteremo anche le opzioni disponibili che personalizzatori e sviluppatori utilizzano per estendere le funzionalità del portale e integrarle con i componenti di Office 365, Power Platform e Azure.
+  #### Lezioni
+  - Introduzione ai portali di Power Apps
+  - Accesso a Common Data Service nei portali di Power Apps
+  - Estensione dei portali di Power Apps
+  - Creazione di modelli Web per portali personalizzati su Power Apps 
   
   
   ### Modulo 10&#58; Intragrazione con Power Platform e Common Data Service
   Questo modulo descrive come eseguire l'integrazione di Common Data Service in modalità "code by learning" per l'API Common Data Service. Ottieni una panoramica approfondita delle opzioni disponibili con Common Data Service per integrare dati ed eventi in Azure.
+  #### Lezioni
+  - Lavorare con l'API Web di Common Data Service
+  - Integrare le soluzioni Azure Common Data Service
   
-  
-  ### Modulo 11&#58; Estendi i portali Power Apps
-  Questo modulo descrive come trasformare un portale di contenuti in un'app Web completa che interagisce con Common Data Service. Tratteremo anche le opzioni disponibili per sviluppatori per estendere le funzionalità del portale e integrarle con i componenti di Office 365, Power Platform e Azure.
