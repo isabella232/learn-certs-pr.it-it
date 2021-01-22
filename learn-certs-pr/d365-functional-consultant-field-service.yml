@@ -8,19 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>MB-200 SARÀ SOSTITUITO DA UN NUOVO ESAME, <a href="/learn/certifications/exams/pl-200">PL-200</a>, A SETTEMBRE 2020. Potrai ottenere questa certificazione superando MB-200 o PL-200, più MB-240, fino al ritiro di MB-200 del 31 dicembre 2020. Dopo il ritiro di MB-200, per ottenere questa certificazione sarà necessario il superamento di PL-200 e MB-240.</strong><br/><br/></div></div>
-
+  <div><strong>L'ESAME <a href="/learn/certifications/exams/mb-200">MB-200</a> VERRÀ SOSTITUITO DA UN NUOVO ESAME, <a href="/learn/certifications/exams/pl-200">PL-200</a>. Potrai conseguire questa certificazione superando MB-200 o PL-200, oltre a MB-240, fino al ritiro di MB-200 il 31 Dicembre, 2020. Una volta che MB-200 sarà ritirato, bisognerà superare gli esami PL-200 e MB-240 per conseguire questa certificazione. Nota&#58; L'esame verrà ritirato alle 11&#58;59 PM, CST.</strong><br/><br/></div></div>
+  
   I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e installano la soluzione Connected Field Service (IoT).
 subTitle: I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e installano la soluzione Connected Field Service (IoT).
 levels:
 - intermediate
 skills:
-- Eseguire operazioni di rilevamento, pianificazione e analisi
-- Gestire la progettazione dell’esperienza utente
-- Gestire entità e dati
-- Implementare la sicurezza
-- Implementare l’integrazione
-- Eseguire la distribuzione e il testing delle soluzioni
+- Configurazione di Common Data Service
+- Creazione di app usando Power Apps
+- Creazione e gestione di Power Automate
+- Implementazione dei chatbot di Power Virtual Agents
+- Integrazione di Power Apps con altre app e servizi
 - Configurare le applicazioni per l'assistenza sul campo
 - Gestire gli ordini di lavoro
 - Pianificare e inviare gli ordini di lavoro
@@ -34,21 +33,27 @@ products:
 - dynamics-365
 - dynamics-field-service
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-240t00
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-240
 resources:
 - title: Poster di certificazione

@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Aumenta le tue possibilità di carriera nel settore IT migliorando la tua credibilità con una Certificazione Microsoft, convalidando le tue competenze e la tua capacità di svolgere qualsiasi ruolo utilizzando le tecnologie Microsoft. Man mano che la trasformazione digitale modifica il nostro modo di fare business, la formazione e la certificazione possono aiutarti ad accelerare la tua capacità di ottenere uno dei nuovi ruoli tecnici richiesti.
 
-Le persone in cerca di lavoro che hanno completato la formazione per questi ruoli tecnici specifici di Microsoft e che possono attestare di essere state disoccupate o licenziate a causa del COVID-19 possono ottenere una certificazione Microsoft riconosciuta a livello industriale ad un costo scontato di 15 USD. I candidati al test avranno la possibilità di programmare un esame **prima del 31 dicembre 2020 e avranno tempo fino al 31 marzo 2021** per presentarsi e completare l'esame. Vedi [termini e condizioni](#terms-conditions).
+I candidati in cerca di lavoro che hanno completato la formazione per questi ruoli tecnici specifici di Microsoft e possono attestare di essere stati disoccupati o licenziati a causa di COVID-19 hanno la possibilità di ottenere una certificazione Microsoft riconosciuta dal settore a una tariffa scontata di 15 USD. I candidati ai test avranno la possibilità di programmare un esame **prima del 30 dicembre 2021 e fino al 31 dicembre 2021** per presentarsi e completare l'esame. Consulta [termini e condizioni](#terms-conditions).
 <br/>
 <br/>
 
@@ -41,7 +41,7 @@ Con le certificazioni riconosciute a livello industriale, avrai la possibilità 
 
 ## Lista di controllo per la programmazione degli esami
 
-Per aiutarti nella preparazione e essere sicuro di poterti registrare e sostenere l'esame di certificazione Microsoft, procedi nel seguente modo. **Nota:** I partecipanti idonei devono programmare l'esame scontato entro il 31 dicembre 2020.
+Per aiutarti nella preparazione e essere sicuro di poterti registrare e sostenere l'esame di certificazione Microsoft, procedi nel seguente modo. **Nota:** I partecipanti idonei devono programmare l'esame scontato entro il 30 dicembre 2021.
 
 1. Esamina le seguenti risorse chiave per la certificazione Microsoft:
 	1. [Informazioni sugli esami online con PSI](/learn/certifications/online-exams-psi) include i paesi partecipanti, i requisiti di sistema, i requisiti del protocollo di test, il processo di esame online e altro ancora.  
@@ -49,7 +49,7 @@ Per aiutarti nella preparazione e essere sicuro di poterti registrare e sostener
 2. Assicurati di disporre di un account Microsoft
 	1. Se hai già ottenuto una certificazione Microsoft o hai già sostenuto un esame di certificazione Microsoft, utilizza lo stesso account Microsoft.  
 	2. Se non hai ancora un account Microsoft, [creane uno](https://account.microsoft.com/account/manage-my-account).
-3. Se non disponi di un profilo di certificazione Microsoft, dovrai crearne uno al momento della programmazione dell'esame. <br/>**Importante:** Quando crei il tuo profilo di certificazione, assicurati che il tuo nome corrisponda esattamente a quello sul  documento identificativo rilasciato dall’autorità preposta che utilizzerai quando sosterrai l'esame. Il responsabile confronterà il nome sul tuo documento d'identità con il nome del tuo profilo di certificazione come parte del processo di verifica dell'identificazione. Ulteriori informazioni su [requisiti di verifica dell'identità](/learn/certifications/online-exams-psi#identity-verification-requirements).
+3. Se non disponi di un profilo di certificazione Microsoft, dovrai crearne uno al momento della programmazione dell'esame. <br/>**Importante:** Quando crei il tuo profilo di certificazione, assicurati che il tuo nome corrisponda esattamente a quello sul documento identificativo rilasciato dall’autorità preposta che utilizzerai quando sosterrai l'esame. Il responsabile confronterà il nome sul tuo documento d'identità con il nome del tuo profilo di certificazione come parte del processo di verifica dell'identificazione. Ulteriori informazioni su [requisiti di verifica dell'identità](/learn/certifications/online-exams-psi#identity-verification-requirements).
 
 Se hai bisogno di aiuto, visita il [Forum di supporto per le certificazioni Microsoft](https://aka.ms/mcpforum). Per contattare l’assistenza clienti, fai clic su *Fai una domanda* in alto alla pagina e compila il modulo. L’assistenza dovrebbe rispondere entro 1 giorno lavorativo.
 
@@ -62,16 +62,17 @@ Per domande e risposte comuni sugli esami online con PSI, vedi [Domande e rispos
 - Quest’offerta d’esame è disponibile per i candidati che possono attestare di essere rimasti disoccupati o licenziati a causa del COVID-19.
 - Devi avere almeno 18 anni per accedere e utilizzare quest’offerta d'esame.
 - Quest’offerta d'esame è disponibile per un numero limitato di persone idonee e di appuntamenti d'esame.
-- Quest’offerta d'esame ti dà diritto ad iscriverti e a partecipare a un (1) esame di certificazione Microsoft valido a un prezzo scontato speciale di 15 USD per un periodo di tempo limitato. L'offerta scade il 31 dicembre 2020.
+- Quest’offerta d'esame ti dà diritto ad iscriverti e a partecipare a un (1) esame di certificazione Microsoft valido a un prezzo scontato speciale di 15 USD per un periodo di tempo limitato. L'offerta scade il 31 dicembre 2021.
 - Quest’offerta d’esame può essere riscattata per sostenere un (1) esame di certificazione Microsoft valido, organizzato online con supervisione.
 - Quest’offerta d’esame è specifica per l'esame e può essere riscattata solo per alcuni esami di certificazione Microsoft.
-- La possibilità di programmare esami scontati sarà disponibile nel corso dell'anno, tra il 1 settembre 2020 ed il 31 dicembre 2020.
-- L'offerta d'esame dovrà essere programmata entro il 31 dicembre 2020. Gli appuntamenti per l'esame dovranno essere fissati entro il 31 marzo 2021.
+- La finestra per programmare l'offerta per l'esame verrà comunicata disponibile entro la fine dell'anno, tra il 1 settembre 2020 e il 31 dicembre 2021.&#42;L'offerta per l'esame dovrà essere programmata entro il 30 dicembre 2021.&#42;Gli appuntamenti per gli esami verranno concordati entro il 31 dicembre 2021.
 - La scadenza di questa offerta per sostenere l’esame non può essere posticipata per alcun motivo.
 - Questa offerta per sostenere l’esame non può essere riscattata né può essere convertita in un rimborso in contanti o in un credito.
 - Quest'offerta per sostenere l’esame non è trasferibile e verrà considerata nulla se viene alterata,  modificata o la trasferita in qualsivoglia maniera.
 - Saranno applicate le politiche di cancellazione e riprogrammazione ed eventuali costi associati.
 - I candidati al test devono accettare l’[accordo di non divulgazione dell'esame di certificazione](/learn/certifications/certification-exam-policies#non-disclosure-agreement).
 - I candidati al test devono soddisfare [requisiti di sistema](/learn/certifications/online-exams-psi#system-requirements) e [requisiti del protocollo di test](/learn/certifications/online-exams-psi#testing-protocol-requirements).
+
+*&#42;Gli esami devono essere programmati con 24 ore di anticipo. Pertanto, qualora si volesse sostenere un esame l'ultimo giorno dell'offerta, ovvero il 31 dicembre 2021, bisognerà programmare entro il 30 dicembre 2021.*
 
 Per ulteriori informazioni, leggi la versione completa dei [Termini di utilizzo di Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).

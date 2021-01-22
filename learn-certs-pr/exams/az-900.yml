@@ -8,7 +8,7 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 9 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div> 
+  <div><strong>Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div> 
   </div>
   
   I candidati a questo esame devono avere una conoscenza di base dei servizi cloud e di come questi servizi vengono forniti con Microsoft Azure. L'esame è destinato ai candidati che stanno appena iniziando a lavorare con soluzioni e servizi basati su cloud o che sono nuovi in Azure.
@@ -40,7 +40,7 @@ locales:
 levels:
 - beginner
 skills:
-- Gli argomenti oggetto d'esame sono stati aggiornati il 9 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
+- Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica la presentazione delle abilità d'esame per vedere cosa cambierà.
 - Descrizione dei concetti di cloud(20-25%)
 - Descrizione dei servizi di base di Azure (15-20%)
 - Descrizione delle soluzioni base e degli strumenti di gestione su Azure (10-15%)

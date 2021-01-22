@@ -8,7 +8,7 @@ displayName: AI-900
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Il contenuto di questo esame è stato aggiornato il 22 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
 
   I candidati a questo esame dovrebbero avere una conoscenza di base dei concetti di machine learning (ML) e intelligenza artificiale (IA) e dei relativi servizi di Microsoft Azure.
@@ -40,7 +40,7 @@ locales:
 levels:
 - beginner
 skills:
-- Il contenuto di questo esame è stato aggiornato il 22 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
+- Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica la presentazione delle abilità d'esame per vedere cosa cambierà.
 - Descrivere i carichi di lavoro e le considerazioni sull'IA (15-20%)
 - Descrivere i principi fondamentali del machine learning in Azure (30-35%)
 - Descrivere le funzionalità dei carichi di lavoro di computer vision su Azure (15-20%)

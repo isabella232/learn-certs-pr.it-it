@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)
+metadata:
+  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+uid: exam.mb-920
+displayName: MB-920
+summary: |-
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  
+  L'argomento d'esame sono le funzionalità delle app finanziarie e operative Microsoft Dynamics 365.
+  
+  I candidati a questo esame dovrebbero avere conoscenze generali o esperienza lavorativa in un ambiente di Tecnologia Informatica (IT).  Dovrebbero inoltre avere una comprensione fondamentale dei principi finanziari e delle operazioni aziendali.
+  
+  <div><br/><strong>Nota&#58; Questa certificazione sarà disponibile a febbraio 2021.</strong></div>
+subTitle: 'Questo esame sarà disponibile a febbraio 2021. Questo esame misura la tua capacità di descrivere quanto segue: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; Operazioni relative al Progetto; Dynamics 365 Business Central; e funzionalità condivise.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+locales:
+- en
+levels:
+- beginner
+skills:
+- Descrizione di Dynamics 365 Supply Chain Management (25-30%)
+- Descrizione di  Dynamics Finance (25-30%)
+- Descrizione di  Dynamics 365 Commerce (10-15%)
+- Descrizione di  Dynamics 365 Human Resources (5-10%)
+- Descrizione di Project Operations (10-15%)
+- Descrizione di Dynamics 365 Business Central (5-10%)
+- Descrizione delle funzionalità condivise (10-15%)
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products: 
+- dynamics-365
+- dynamics-finance-operations
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Assistenza per gli esami di certificazione
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere un alloggio per il tuo esame.
+  href: ../request-accommodations.md
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
+  href: ../certification-exam-policies.md

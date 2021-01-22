@@ -6,13 +6,15 @@ metadata:
 uid: exam.77-882
 displayName: 77-882
 summary: |-
+  <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Questo esame è stato ritirato. Per le opzioni attualmente disponibili, fare riferimento alla <a href="/learn/certifications/browse/">pagina Sfoglia certificazioni ed esami</a>.</strong><br/><br/></div>
+  </div>
 
   Gli utenti di livello base di Microsoft Office Excel 2010 devono essere in grado di usare le funzioni e funzionalità del software. Devono conoscere e sapere come usare almeno l’80% delle funzioni e funzionalità di Microsoft Office Excel 2010. Devono inoltre essere in grado di usare Microsoft Office Excel 2010 per creare e modificare documenti professionali per numerosi scopi e in situazioni diverse. Gli utenti includono persone che svolgono varie mansioni a tutti i livelli&#58; professionale, da studenti e personale.
 subTitle: 'Gli utenti di livello base di Microsoft Office Excel 2010 devono essere in grado di usare le funzioni e funzionalità del software. Devono conoscere e sapere come usare almeno l’80% delle funzioni e funzionalità di Microsoft Office Excel 2010. Devono inoltre essere in grado di usare Microsoft Office Excel 2010 per creare e modificare documenti professionali per numerosi scopi e in situazioni diverse. Gli utenti includono persone che svolgono varie mansioni a tutti i livelli: professionale, da studenti e personale.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - ar-sa
@@ -37,6 +39,7 @@ skills:
 - Presentare visivamente i dati
 - Condividere i dati dei fogli di lavoro con altri utenti
 - Analizzare e organizzare i dati
+retirementDate: none
 roles:
 - business-user
 products:
