@@ -107,21 +107,22 @@ resourcesSection:
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: L’importanza di avere una certificazione
-  summary: Le certificazioni ti danno un vantaggio professionale perché mettono in evidenza che possiedi competenze basate sui ruoli riconosciute dal settore.
+  title: Certificazioni Microsoft
+  summary: le certificazioni Microsoft offrono un vantaggio professionale fornendo prove riconosciute a livello mondiale e approvate dal settore delle competenze nell'ambito digitale e cloud.
   video:
-    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
     iframeTitle: Certificazioni Microsoft
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Vantaggi delle Certificazioni Microsoft
-    summary: Dopo aver ottenuto una certificazione, il 23% dei tecnici certificati Microsoft ha riferito di aver ricevuto un aumento salariale del 20%. Inoltre, ai dipendenti certificati viene spesso affidato il compito di supervisionare i loro colleghi, aprendo la strada a una rapida promozione. - White paper “Il valore della certificazione” di Pearson VUE, 2017.
+    title: vantaggi delle certificazioni
+    summary: dopo aver conseguito una certificazione, il 67% dei professionisti della tecnologia afferma di avere una maggiore fiducia in se stessi e nelle capacità di svolgere il proprio lavoro, il 41% ha riportato una maggiore soddisfazione sul lavoro e il 35% ha visto un aumento di stipendio o salario. - 2018 Pearson VUE Value of IT Certification.
   items:
-    - title: 38%
-      summary: delle posizioni IT lavoreranno con il cloud entro il 2021.
-      note: IDC/Microsoft, capacità Cloud e influenze organizzative* Come le competenze Cloud stanno accelerando la carriera dei professionisti IT, maggio 2017
-    - title: 35%
-      summary: dei professionisti IT afferma di avere una maggiore influenza nelle implementazioni cloud rispetto alle loro controparti durante l'implementazione di altre tecnologie.
-      note: IDC/Microsoft, capacità Cloud e influenze organizzative* Come le competenze Cloud stanno accelerando la carriera dei professionisti IT, maggio 2017
-    - title: 36.9%
-      summary: dei professionisti IT ha dichiarato che la certificazione li ha aiutati a svolgere attività complesse con più fiducia.
-      note: Pearson VUE, Il valore del sondaggio sulla certificazione IT, gennaio 2017
+    - title: 91%
+      summary: i professionisti IT certificati affermano che la certificazione conferisce loro una maggiore credibilità professionale.
+      note: 2018 Pearson VUE Value of Certification
+    - title: 52%
+      summary: i professionisti IT certificati affermano che la loro esperienza è più ricercata all'interno della propria organizzazione.
+      note: Global Knowledge 2019 IT skills and salary report
+    - title: 93%
+      summary: dei decision maker concordano che i dipendenti certificati forniscono un valore aggiunto.
+      note: Global Knowledge 2019 IT Decision Makers Insights
+

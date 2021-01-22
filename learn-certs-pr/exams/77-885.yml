@@ -15,14 +15,9 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiD
 scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
 locales:
 - zh-cn
-- zh-tw
-- de
+- zh-tw   
 - es
 - ja
-- ko
-- nl
-- ar-sa
-- pt-br
 levels:
 - beginner
 skills:

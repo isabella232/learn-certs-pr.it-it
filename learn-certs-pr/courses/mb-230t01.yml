@@ -1,11 +1,11 @@
 ### YamlMime:Course
-title: Dynamics 365 for customer engagement for customer service
+title: Microsoft Dynamics 365 Customer Service
 metadata:
-  title: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
-  description: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+  title: 'Course MB-230T01-A: Microsoft Dynamics 365 Customer Service'
+  description: 'Course MB-230T01-A: Microsoft Dynamics 365 Customer Service'
 uid: course.mb-230t01
 courseNumber: 'MB-230T01-A'
-hoursToComplete: 24
+hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Installare e configurare l'app del servizio clienti
@@ -15,6 +15,10 @@ skillsGained:
 - skill: Automatizzare l'elaborazione dei record di gestione dei casi
 - skill: Creare e utilizzare articoli di conoscenza
 - skill: Creare e utilizzare i diritti e i contratti sul livello di servizio
+- skill: lavorare con Omnichannel
+- skill: lavorare con Connected Customer Service
+- skill: lavorare con Customer Service Scheduling
+- skill: lavorare con Customer Service Insights
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,67 +32,104 @@ products:
 exams:
 - uid: exam.mb-230
 summary: |-
-  Microsoft Dynamics 365 for Customer Service offre a qualsiasi organizzazione un'opportunità di successo per i clienti. L'utilizzo di strumenti come la creazione automatica dei casi e la gestione delle code libera tempo da dedicare dove è possibile per ottenere un maggiore impatto, direttamente con i clienti.
-
-  Il nostro team di esperti riconosciuti a livello mondiale accompagna gli studenti passo dopo passo, dalla creazione dei casi, all'interazione con i clienti, alla risoluzione dei casi. Una volta risolti questi casi, gli studenti impareranno dall'analisi dei dati i dettagli chiave per aiutare a risolvere più velocemente casi simili o evitare del tutto nuovi problemi.
-
+  Microsoft Dynamics 365 Customer Service offre a qualsiasi organizzazione un'opportunità per il successo con i clienti. L'utilizzo di strumenti come la creazione automatica dei casi e la gestione delle code consente di risparmiare tempo e dedicarlo a operazioni che hanno un impatto maggiore, direttamente con i tuoi clienti.
+  
+  Unisciti al nostro team di esperti riconosciuti a livello globale che ti accompagneranno passo dopo passo&#58; dalla creazione dei casi all'interazione con i clienti, alla risoluzione di tali casi. Una volta risolti questi casi, puoi apprendere dettagli chiave partendo dall'analisi dei dati i dettagli chiave in modo da risolvere casi simili più velocemente o evitare del tutto nuovi problemi.
+  
   #### Profilo dei destinatari
-  Un Dynamics 365 Customer Engagement Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti e stakeholder, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa una soluzione che utilizza funzionalità out-of-the-box, estensibilità senza codice, integrazioni di applicazioni e servizi.
+  Un Dynamics 365 Customer Engagement Functional Consultant è responsabile della scoperta, dell'acquisizione dei requisiti, del coinvolgimento di esperti in materia e delle parti interessate, della traduzione dei requisiti e della configurazione della soluzione e delle applicazioni. Il Functional Consultant implementa soluzioni utilizzando funzionalità predefinite, estensioni senza coding e integra applicazioni e servizi.
 prerequisitesSection: |-
-  Questo corso è destinato a persone che aspirano al ruolo di Microsoft 365 Enterprise Admin e che hanno completato uno dei percorsi di certificazione di amministratore del carico di lavoro di Microsoft 365.
+  Questo corso è progettato per consulenti funzionali che lavorano con Dynamics 365 Customer Service o consulenti funzionali che lavorano con altre app Dynamics 365 che desiderano espandere le proprie conoscenze relative a Customer Service.
 outlineSection: |-
   ### Modulo 1&#58; Panoramica sul Servizio Clienti
-  In questo modulo gli studenti impareranno le basi sul servizio clienti in Dynamics 365.  Gli studenti installeranno e configureranno l'applicazione, oltre a conoscere i ruoli di sicurezza, le applicazioni correlate e l'analitica.
+  In questo modulo imparerai le basi del servizio clienti in Dynamics 365. Installeremo e configureremo l'applicazione, oltre a scoprire di più sui ruoli di sicurezza, le applicazioni correlate e l'analisi.
   #### Lezioni
   - Lezione 1&#58; Creare record di casi
   - Lezione 2&#58; Applicazioni di servizio correlate
   - Lezione 3&#58; Analitica per il servizio
   - Lezione 4&#58; IA per il servizio
   - Lezione 5&#58; Configurazione del servizio clienti
-  - Lezione 6&#58; Riassunto del modulo
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Installare e configurare la richiesta per il servizio clienti
-  - Identificare gli scenari comuni del servizio clienti
-
-
+  - Installare e configurare la richiesta per il servizio clienti.
+  - Identificare gli scenari comuni del servizio clienti.
+  
+  
   ### Modulo 2&#58; Gestione caso
-  In questo modulo gli studenti impareranno ad aprire e risolvere i casi di assistenza clienti, sia manualmente sia con l'automazione.
+  In questo modulo imparerai come aprire e risolvere i casi di assistenza clienti, sia manualmente che tramite automazione.
   #### Lezioni
   - Lezione 1&#58; Panoramica sulla gestione dei casi
   - Lezione 2&#58; Creazione di record di casi
   - Lezione 3&#58; Gestione code
   - Lezione 4&#58; Instradamento dei casi
   - Lezione 5&#58; Risoluzione dei casi
-  - Lezione 6&#58; Riassunto del modulo
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Aprire e risolvere i casi del servizio clienti
-  - Automatizzare la creazione di casi e l'instradamento
-
-
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
+  - Aprire e risolvere i casi del servizio clienti.
+  - Automatizzare la creazione di casi e l'instradamento.
+  
+  
   ### Modulo 3&#58; Contratti sui livelli di servizio e diritti
-  In questo modulo gli studenti impareranno come definire e utilizzare i diritti e i modelli di diritti, così come i contratti sui livelli di servizio e come questi strumenti permettono di risolvere i casi.
+  In questo modulo imparerai a definire e utilizzare i diritti e i modelli di autorizzazione, nonché gli accordi sul livello di servizio e come questi strumenti consentono la risoluzione dei casi.
   #### Lezioni
   - Lezione 1&#58; Contratti sui livelli dei servizio e panoramica dei diritti
   - Lezione 2&#58; Creare e gestire i diritti
   - Lezione 3&#58; Creare e gestire i contratti sui livelli di servizio
-  - Lezione 4&#58; Riassunto del modulo
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Creare e utilizzare contratti sul livello di servizio
-  - Creare e utilizzare gli obiettivi
-
-
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
+  - Creare e utilizzare contratti sul livello di servizio.
+  - Creare e utilizzare gli obiettivi.
+  
+  
   ### Modulo 4&#58; Gestione delle conoscenze
-  In questo modulo gli studenti impareranno a creare e utilizzare la gestione delle conoscenze.  Inoltre, gli studenti impareranno il ciclo di vita degli articoli di conoscenze.
+  In questo modulo imparerai come creare e utilizzare la gestione degli articoli informativi. Inoltre, imparerai il ciclo di vita degli articoli informativi.
   #### Lezioni
   - Lezione 1&#58; Panoramica sulla gestione delle conoscenze
   - Lezione 2&#58; Creazione e organizzazione
   - Lezione 3&#58; Utilizzare il contenuto delle conoscenze
   - Lezione 4&#58; Gestire il contenuto delle conoscenze
-  - Lezione 5&#58; Riassunto del modulo
 
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
   - Creare e gestire i contenuti delle conoscenze
+  
+  
+  ### Modulo 5&#58; Omnicanale
+  In questo modulo imparerai come lavorare con Omnichannel for Dynamics 365 Customer Service.
+  #### Lezioni
+  - Lezione 1&#58; Introduzione
+  - Lezione 2&#58; Routing dei record delle entità
+  - Lezione 3&#58; Routing e distribuzione del lavoro
+  - Lezione 4&#58; Configurazione dei canali per i messaggi
+  - Lezione 4&#58; Distribuzione dei widget per la chat
+  - Lezione 6&#58; Creazione di soluzioni di assistenza intelligente
+  - Lezione 7&#58; Integrazione di un bot Power Virtual Agents
+  - Lezione 8&#58; Strumenti di produttività
+  
+  
+  ### Modulo 6&#58; Pianificazione del Servizio Clienti
+  In questo modulo imparerai come utilizzare la funzionalità di Customer Service Scheduling su Dynamics 365 Customer Service
+  #### Lezioni
+  - Lezione 1&#58; Introduzione al Customer Service Scheduling
+  - Lezione 2&#58; Configurazione del Customer Service Scheduling
+  - Lezione 3&#58; Definizione e uso di risorse prenotabili
+  - Lezione 4&#58; Lavorare con i servizi
+  - Lezione 5&#58; Lavorare con le preferenze di adempimento
+  - Lezione 6&#58; Pianificazione delle attività di servizio
+  - Lezione 7&#58; Riprogrammazione delle attività di servizio e sostituzione delle risorse
+  
+  
+  ### Modulo 7&#58; Servizio Clienti Connesso
+  In questo modulo imparerai come utilizzare Dynamics 365 Connected Customer Service per acquisire dati e aiutarti a eseguire azioni aziendali efficaci in base ai dati.
+  #### Lezioni
+  - Lezione 1&#58; Introduzione a Connected Customer Service
+  - Lezione 2&#58; Registrazione dei dispositivi
+  - Lezione 3&#58; Gestione e interazione con dispositivi
+  - Lezione 4&#58; Avvisi IoT e invio comandi
+  
+  
+  ### Modulo 8&#58; Approfondimenti sul Servizio Clienti
+  In questo modulo imparerai come lavorare con Customer Service Insights per sfruttare l'Intelligenza Artificiale (AI) nella tua soluzione Dynamics 365 Customer Service.
+  #### Lezioni
+  - Lezione 1&#58; Introduzione a Customer Service Insights
+  - Lezione 2&#58; lavorare con le informazioni delle chiamate del Servizio Clienti
 

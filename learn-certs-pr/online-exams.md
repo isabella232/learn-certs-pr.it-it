@@ -119,7 +119,7 @@ Visita [Supporto Apple](https://support.apple.com/) per informazioni sulla confi
                 <p><strong>Browser Internet</strong></p>
             </td>
             <td>
-                <p>Le versioni più recenti di Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong> <strong>Firefox</strong> per le registrazioni Web o il download del browser sicuro o <strong>Internet Explorer 11</strong>.</p>
+                <p>Le versioni più recenti di Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong> e <strong>Firefox</strong>.</p>
             </td>
         </tr>
         <tr>
@@ -188,7 +188,7 @@ Visita [Supporto Apple](https://support.apple.com/) per informazioni sulla confi
 
 ### Altre note e suggerimenti:
 
-- Prima di registrarti e di acquistare l'esame, completa il [test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) richiesto sullo stesso computer e nella stessa posizione in cui eseguirai il test..
+- Prima di registrarti e di acquistare l'esame, completa il [test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) richiesto sullo stesso computer e nella stessa posizione in cui eseguirai il test.
 - Gli esami online possono essere disattivati da server proxy, da pacchetti di rete di ispezione/filtro o da rigorose configurazioni di sicurezza della rete.
 - L'account utente Windows collegato nella workstation di fruizione **deve avere le autorizzazioni amministrative locali adeguate**.
 - Alcuni software antivirus possono causare problemi di prestazioni. Disabilita eventuali ricerche di virus durante l'esame.

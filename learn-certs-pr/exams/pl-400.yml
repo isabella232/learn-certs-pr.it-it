@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Developer (beta)'
+title: 'Microsoft Power Platform Developer'
 metadata:
-  title: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
-  description: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
+  title: 'Exam PL-400: Microsoft Power Platform Developer'
+  description: 'Exam PL-400: Microsoft Power Platform Developer'
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
@@ -13,8 +13,6 @@ summary: |-
   I candidati devono avere una solida conoscenza applicata dei servizi di Power Platform, compresa una comprensione approfondita delle capacità, dei confini e dei vincoli. I candidati devono avere una comprensione di base delle prassi delle soluzioni DevOps per Power Platform.
 
   I candidati devono avere esperienza nello sviluppo che comprenda i servizi Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET e Power BI.
-
-  <div><strong><br/>Gli esami Beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. Per saperne di più <a href="/learn/certifications/certification-exams#participating-in-beta-exams"> sul valore e l'importanza degli esami beta</a>.</strong></div>
 subTitle: 'Questo esame valuta la tua capacità di svolgere i seguenti compiti tecnici: creare un progetto tecnico, configurare il Common Data Service, creare e configurare Power Apps, configurare l''automazione dei processi aziendali, estendere l''esperienza utente, estendere la piattaforma e sviluppare le integrazioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
