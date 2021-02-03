@@ -7,13 +7,14 @@ uid: exam.mb-700
 displayName: MB-700
 summary: |-
   <div>
-  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div><div><strong>Il contenuto di questo esame è stato aggiornato il lunedì 28 settembre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Gli argomenti oggetto di questo esame saranno aggiornati il 26 Febbraio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.</strong><br/><br/></div>
   </div>
-
+  
   I Solution Architects per le Finance and Operations app di Microsoft Dynamics 365 sono consulenti affidabili che capiscono le pratiche aziendali consigliate e il potenziale del software. Guidano i membri del team ad implementare soluzioni Dynamics in grado di raggiungere gli obiettivi di implementazione predefiniti.
-
+  
   Un Solution Architect è responsabile dell'integrità e del successo della fornitura di soluzioni end-to-end. Un Architet fornisce una guida critica durante le attività pre-vendita durante tutto il processo di progettazione e continua la supervisione per tutto il resto del ciclo di vita del progetto per affrontare i problemi che sorgono durante l'implementazione e garantire il raggiungimento degli obiettivi di implementazione.
-
+  
   Il Solution Architect deve avere una vasta conoscenza ed esperienza sugli standard di settore e sulle capacità del prodotto. Il Solution Architect deve avere una vasta esperienza sia in ambito funzionale sia tecnico della soluzione Dynamics. Dovrebbe conoscere piattaforme, strumenti e aree funzionali come finanza, gestione della catena di fornitura e produzione. Inoltre, devono avere una vasta esperienza a livello di dominio in uno o più settori operativi dei clienti.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: identificare i requisiti delle soluzioni, progettare i componenti delle soluzioni, definire strategie per il test e la gestione delle strategie.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -24,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame è stato aggiornato il lunedì 28 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Gli argomenti oggetto di questo esame saranno aggiornati il 26 Febbraio 2021. Scarica la presentazione delle abilità d'esame per vedere che cosa verrà variato.
 - Identificare i requisiti della soluzione (30-35%)
 - Progettare i componenti della soluzione (40-45%)
 - Definire strategie per il testing e la gestione della soluzione (25-30%)
