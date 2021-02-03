@@ -7,13 +7,13 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.</strong><br/><br/></div>
   </div>
-
+  
   Gli amministratori di Microsoft Teams configurano, installano e gestiscono i carichi di lavoro di Office 365 per Microsoft Teams focalizzati a promuovere collaborazioni e comunicazioni efficienti ed efficaci nell’ambiente aziendale.
-
+  
   L’amministratore di Microsoft Teams deve essere in grado di pianificare, installare e gestire chat, app, canali, riunioni, conferenze audio, eventi live e chiamate. Sono inoltre responsabili dell’aggiornamento da Skype for Business a Teams. I candidati a questo esame devono essere in grado di gestire le impostazioni di Teams utilizzando PowerShell. Il Teams Administrator ha una conoscenza fondamentale dei punti d'integrazione con app e servizi come ad esempio SharePoint, OneDrive, Exchange, Azure AD, e Office 365 Groups. Il Teams Administrator sa come integrare app e servizi esterni.
-
+  
   Collabora anche con i tecnici responsabili della telefonia per integrare le funzionalità voce avanzate in Microsoft Teams. Non sono responsabili della configurazione dei percorsi diretti, della configurazione dei percorsi di chiamata o dell’integrazione della telefonia. Gli amministratori di Microsoft Teams possono lavorare in altri ruoli come amministratori dei carichi di lavoro, occupandosi della sicurezza e della conformità, della messaggistica, del networking, delle identità e dei dispositivi.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: pianificare e configurare un ambiente Microsoft Teams; gestire le chat, chiamate e le riunioni; e gestire i criteri per Teams e app.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
+- Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica la presentazione delle competenze d'esame per vedere che cosa verrà variato.
 - Pianificare e configurare un ambiente Microsoft Teams (45-50%)
 - Gestire chat, chiamate e riunioni (30-35%)
 - Gestire i criteri per i team e le app (20-25%)

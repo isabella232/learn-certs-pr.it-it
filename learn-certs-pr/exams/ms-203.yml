@@ -8,15 +8,15 @@ displayName: MS-203
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.</strong><br/><br/></div>
   </div>
-
+  
   I candidati a questo esame sono i Messaging Administrator che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti ibridi sia nei cloud aziendali.
-
+  
   I Messaging Administrator sono responsabili della gestione dell'igiene, dell'infrastruttura di messaggistica, della configurazione ibrida, della migrazione, del trasporto, delle cassette postali e dell'accesso client.
-
+  
   I Messaging Administrator collaborano con il Security Administrator e il Microsoft 365 Enterprise Administrator per implementare una topologia ibrida o solo cloud sicura che soddisfi le esigenze di un'azienda.
-
+  
   L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
 subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: gestire le impostazioni e le risorse dell'organizzazione, pianificare e gestire l'architettura della posta, pianificare e implementare una configurazione e migrazione ibrida e proteggere l'ambiente di messaggistica."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -28,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
+- Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica la presentazione delle competenze d'esame per vedere che cosa verrà variato.
 - Gestire le impostazioni e le risorse dell'organizzazione (30-35%)
 - Pianificare e gestire l'architettura della posta (20-25%)
 - Pianificare e implementare una configurazione e una migrazione ibride (20-25%)

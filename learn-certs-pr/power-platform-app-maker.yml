@@ -7,8 +7,18 @@ uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
-
-  Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
+  
+  Se sei un professionista del business con una profonda esperienza nel settore delle soluzioni e vuoi sfruttare la tua passione per lo sviluppo di soluzioni Microsoft Power Platform per semplificare, automatizzare e trasformare compiti e processi per il tuo team, questa certificazione è progettata per te. È necessario avere le competenze per svolgere i principali compiti tecnici di business analyst, come la modellazione dei dati, la progettazione di base dell'UX, l'analisi dei requisiti e l'analisi dei processi.
+  
+  Il profilo è adatto al ruolo di creatore di app se si è auto-diretti e orientati verso la soluzione, e si lavora con gli strumenti di creazione di Microsoft Power Platform per risolvere i problemi di business. Potresti avere esperienza con Visual Basic for Applications, Excel PivotTables, Teams e altri strumenti. Anche se potreste non avere una formazione IT formale, vi sentite a vostro agio a lavorare con gli amministratori IT e gli sviluppatori di Microsoft Power Platform che utilizzano la tecnologia per risolvere i problemi aziendali. Sei il responsabile dei seguenti processi&#58;
+  - Progettazione e creazione di applicazioni e automazione dei flussi di lavoro.
+  - Analisi e visualizzazione dei dati nel contesto di un'applicazione o di un flusso di lavoro automatizzato.
+  - Implementazione e gestione di applicazioni e flussi di lavoro automatizzati.
+  
+  Per saperne di più, leggi il nostro post&#58; [Sei un Power Platform App Maker? Ora è il momento di ottenere la certificazione](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993). Qualora vi fosse il bisogno di più esperienza prima di provare a ottenere questa certificazione, sarebbe opportuno&#58;
+  - Offrirsi volontari in un progetto per ottenere un'esperienza con la modellazione dei dati, la progettazione di base dell'UX, l'analisi dei requisiti o l'analisi dei processi.
+  - Intraprendere i percorsi di apprendimento su Microsoft Learn.
+  - Iscriversi a un corso di formazione con istruttore.
 subTitle: Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività di analisti tecnici di business chiave come la modellazione dei dati, la progettazione di base UX, l'analisi dei requisiti e l'analisi dei processi.
 levels:
 - intermediate

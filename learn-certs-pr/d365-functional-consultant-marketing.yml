@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>L'ESAME <a href="/learn/certifications/exams/mb-200">MB-200</a> VERRÀ SOSTITUITO DA UN NUOVO ESAME, <a href="/learn/certifications/exams/pl-200">PL-200</a>. Potrai conseguire questa certificazione superando MB-200 o PL-200, oltre a MB-220, fino al ritiro di MB-200 il 31 Dicembre, 2020. Una volta che MB-200 sarà ritirato, bisognerà superare gli esami PL-200 e MB-220 per conseguire questa certificazione. Nota&#58; L'esame verrà ritirato alle 11&#58;59 PM, CST.</strong><br/><br/></div></div>
+  </div>
   
   I consulenti funzionali di Marketing Microsoft Dynamics 365 implementano soluzioni che attirano lead e consentono di convertirli in clienti, migliorano la visibilità del marchio, standardizzano la messaggistica multicanale e consentono di distribuire informazioni di marketing.
 subTitle: I consulenti funzionali di Marketing Microsoft Dynamics 365 implementano soluzioni che attirano lead e consentono di convertirli in clienti, migliorano la visibilità del marchio, standardizzano la messaggistica multicanale e consentono di distribuire informazioni di marketing.
@@ -81,4 +81,3 @@ resources:
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
-

@@ -7,13 +7,13 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div style='color:red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.</strong><br/><br/></div>
   </div>
-
+  
   I candidati a questo esame devono avere esperienza in materia lavorando con persone, processi e tecnologie per fornire continuamente valore aziendale.
-
+  
   Le responsabilità per questo ruolo includono la progettazione e l'implementazione di strategie di collaborazione, codice, infrastruttura, controllo del codice sorgente, sicurezza, conformità, integrazione continua, test, consegna, monitoraggio e feedback.
-
+  
   Il candidato deve avere familiarità sia con l'amministrazione sia con lo sviluppo di Azure ed essere esperto in almeno una di queste aree.
 subTitle: "Questo esame misura la tua capacità di svolgere i seguenti compiti tecnici: sviluppare una strategia di strumentazione; sviluppare una strategia di Site Reliability Engineering (SRE); sviluppare un piano di sicurezza e conformità; gestire il controllo del codice sorgente; facilitare la comunicazione e la collaborazione; definire e implementare l'integrazione continua; e definire e implementare una strategia di consegna e gestione del rilascio continua."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
+- Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica la presentazione delle competenze d'esame per vedere che cosa verrà variato.
 - Sviluppare una strategia di strumentazione (5-10%)
 - Sviluppare una strategia di Site Reliability Engineering (SRE) (5-10%)
 - Sviluppare un piano di sicurezza e conformità (10-15%)
