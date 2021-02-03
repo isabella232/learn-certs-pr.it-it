@@ -8,12 +8,12 @@ displayName: MS-500
 summary: |-
   <div>
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.</strong><br/><br/></div>
   </div>
-
+  
   I candidati per questo esame devono essere in grado di implementare, gestire e monitorare le soluzioni di sicurezza e conformità per gli ambienti di Microsoft 365 e ibridi. Il Microsoft 365 Security Administrator protegge proattivamente l’ambiente aziendale Microsoft 365, risponde alle minacce, effettua indagini e rafforza la gestione dei dati. Il Microsoft 365 Security Administrator collabora con il Microsoft 365 Enterprise Administrator, le parti aziendali interessate e altri amministratori di carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione.
   <br/>
-
+  
   I candidati idonei a questo esame hanno familiarità con i carichi di lavoro Microsoft 365 e hanno solide competenze ed esperienza nella protezione delle identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e gestione dei dati. Questo ruolo è incentrato sull’ambiente di Microsoft 365 e comprende ambienti ibridi.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare e gestire l’identità e l''accesso, implementare e gestire la protezione dalle minacce, implementare e gestire la protezione delle informazioni e gestire le funzionalità di governance e conformità in Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -30,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
+- Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.
 - Implementare e gestire identità e accessi (30-35%)
 - Implementare e gestire la protezione dalle minacce (20-25%)
 - Implementare e gestire la protezione dalle informazioni (15-20%)

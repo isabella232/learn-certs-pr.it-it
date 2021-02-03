@@ -7,15 +7,15 @@ uid: exam.70-537
 displayName: 70-537
 summary: |-
   <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  <div><strong>Questo esame verrà ritirato il 31 Gennaio 2021 alle 23&#58;59, CET. Dopo tale data non potrai più sostenere l'esame. Un esame sostitutivo, <a href='/learn/certifications/exams/AZ-600'>AZ-600</a>, è disponibile e richiesto per il nuovo Microsoft Certified&#58; Azure Stack Hub Operator Associate certification.<br/><br/></strong></div>
   </div>
-
+  
   I candidati idonei per questo esame sono amministratori Azure e operatori Azure Stack Hub che usano Azure Stack Hub per fornire servizi cloud ai loro utenti finali e clienti dall’interno del proprio centro dati.
-
+  
   I candidati idonei per questo esame devono avere un'esperienza significativa nella gestione e nell'uso di ambienti Azure Stack Hub. I candidati devono avere conoscenze approfondite di Azure così come alcune nozioni della virtualizzazione delle reti e della gestione delle identità. I candidati devono anche comprendere come Azure Stack Hub abiliti i processi DevOps e il modello di sviluppo ibrido.
-
+  
   I candidati idonei per questo esame sono tenuti a dimostrare di essere capaci di pianificare, installare, pacchettizzare, aggiornare ed eseguire la manutenzione dell’infrastruttura Azure Stack Hub. I candidati devono anche dimostrare la capacità di proporre risorse ibride cloud e i servizi richiesti, nonché di gestire le infrastrutture come un servizio (laaS) e la piattaforma come un servizio (PaaS).
-
+  
   <div style='font-weight&#58; bold;'><br/>Il 14 gennaio 2020, questo esame è stato aggiornato. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 70-537.</div>
 subTitle: I candidati idonei per questo esame sono amministratori Azure e operatori Azure Stack Hub che usano Azure Stack Hub per fornire servizi cloud ai loro utenti finali e clienti dall’interno del proprio centro dati.
 iconUrl: /media/learn/certification/badges/certification-exam.svg

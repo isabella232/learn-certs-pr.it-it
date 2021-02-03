@@ -14,7 +14,7 @@ skillsGained:
 - skill: Configurazione delle vendite e gli acquisti
 - skill: Configurazione delle operazioni
 - skill: Comprensione degli scenari di integrazione e automazione
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -32,26 +32,57 @@ summary: |-
   #### Profilo dei destinatari
   Un consulente funzionale principale di Dynamics 365 Business Central è responsabile dell'implementazione dei processi di configurazione sulle applicazioni principali per le piccole e medie imprese.
 prerequisitesSection: |-
-  Questo corso è progettato per consulenti funzionali che lavorano con Dynamics 365 Business Central o consulenti funzionali che lavorano con altre app Dynamics 365 che desiderano espandere le proprie conoscenze relative a Business Central.
+  Questo corso è progettato per consulenti funzionali che lavorano con Dynamics 365 Business Central o consulenti funzionali che lavorano con altre app Dynamics 365 che desiderano espandere le proprie conoscenze relative a Business Central
 outlineSection: |-
   ### Modulo 1&#58; Introduzione a Business Central
-  Introduzione ai moduli di Business Central
+  Introduzione ai Moduli Business Central
   #### Lezioni
+  - Introduzione a Business Central
+  - Panoramica della tecnologia
+  - Navigazione dell'interfaccia utente
+  - Dati anagrafici per i processi di Vendita e Acquisto
   
   
-  ### Modulo 2&#58; Configurazione dell'applicazione
+  ### Modulo 2&#58; Configurazione dell'Applicazione
+  #### Lezioni
+  - Creazione e configurazione di una nuova azienda
+  - Migrazione dei dati in Business Central
+  - Gestione della Sicurezza
+  - Impostazione delle funzionalità principali dell'applicazione
+  - Impostazione delle dimensioni
   
   
-  ### Modulo 3&#58; Configurazione dei dati finanziari
+  ### Modulo 3&#58; Configurazione dei dati Finanziari
+  #### Lezioni
+  - Impostazione della Gestione Finanziaria 
+  - Impostazione di Tabelle dei Conti
+  - Impostazione dei gruppi di distacco
+  - Generazione dei Registri
+  - Impostazione della Gestione della Liquidità
+  - Impostazione dei Debiti in Conto
+  - Impostazione della voce Crediti
   
   
-  ### Modulo 4&#58; Configurazione delle vendite e degli acquisti
+  ### Modulo 4&#58; Configurazione delle Vendite e degli Acquisti
+  #### Lezioni
+  - Impostazione dell'inventario
+  - Configurazione prezzi e sconti
   
   
   ### Modulo 5&#58; Operazioni
+  #### Lezioni
+  - Acquisto di articoli
+  - Vendita articoli
+  - Elaborazione delle operazioni finanziarie
+  - Determinazione costi dell'inventario
   
   
   ### Modulo 6&#58; Integrazione e Automazione
+  #### Lezioni
+  - Impostazione e uso delle approvazioni con flussi di lavoro
+  - Connessione delle Power Apps
+  - Connessione di Power Automate
+  - Connessione di Power BI
   
   #### Letture aggiuntive
   Microsoft.com/learn

@@ -1,22 +1,20 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+title: 'Microsoft Dynamics 365 Business Central Functional Consultant'
 metadata:
-  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
-  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant'
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-
+   
   I candidati a questo esame sono Functional Consultant che implementano processi di configurazione delle applicazioni di base per le piccole e medie imprese. Implementano e configurano l'app Dynamics 365 Business Central, compresa l'impostazione della funzionalità e dei moduli principali dell'app e la migrazione dei dati a Business Central.
-
+  
   I candidati configurano l'interfaccia utente in collaborazione con il team di implementazione per garantire all'azienda gestibilità e facilità di navigazione. Configurano i centri ruolo, tra cui l'adattamento di approfondimenti, spunti, tasselli d'azione, report, grafici e l'estensione di Business Central utilizzando i componenti Microsoft Power Platform.
-
+  
   I candidati hanno applicato la conoscenza delle esigenze degli utenti attraverso l'app Business Central, compresa la comprensione di base della gestione finanziaria, delle vendite, degli acquisti e delle scorte.
-
+  
   I candidati a questo esame sono in genere specializzati in uno o più set di funzionalità di Business Central. Capiscono il ruolo di Business Central in relazione alla suite di applicazioni Dynamics 365.
-
-  <div><strong><br/>Gli esami in beta non vengono valutati immediatamente in quanto stiamo ancora raccogliendo dati sulla qualità delle domande e dell'esame. Ulteriori informazioni <a href="/learn/certifications/certification-exams#participating-in-beta-exams"> sul valore e l'importanza degli esami in beta </a></strong></div>
 subTitle: 'Questo esame valuta la tua capacità di completare i seguenti compiti: impostare Business Central, configurare i dati finanziari, configurare le vendite e gli acquisti, impostare le operazioni e utilizzare i componenti Power Platform.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE

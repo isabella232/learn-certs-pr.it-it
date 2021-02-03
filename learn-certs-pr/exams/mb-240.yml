@@ -10,11 +10,11 @@ summary: |-
   <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
   <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 10 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
-
+  
   I candidati per questo esame sono Customer Engagement Functional Consultants Dynamics 365t con esperienza maturata con Field Service. I candidati sono responsabili dell'implementazione di soluzioni per la gestione delle risorse che completano il ciclo di vita di Field Service.
-
+  
   I candidati implementano i processi di Field Service progettati in collaborazione con team interni ed esterni. Questa collaborazione include la configurazione delle aree di amministrazione predefinite dell'applicazione Field Service, la distribuzione della soluzione Connected Field Service (IoT) e dell'applicazione su dispositivi mobili, nonchè l'implementazione di eventuali personalizzazioni aggiuntive necessarie. I candidati sono responsabili della configurazione e della distribuzione dell'applicazione Field Service insieme all'applicazione principale del servizio clienti.
-
+  
   I candidate devono sapere come configurare e personalizzare i component dell’applicazione Field Service, compresi i servizi di configurazione, le risorse, le caratteristiche, gli incidenti, l’integrazione delle scorte, i service agreements, la pianificazione delle risorse, gli ordini di lavoro, i service task, i ruoli degli utenti di Field Service, le impostazoni di Field Service, la soluzione Connected Field Service (IoT) e la configurazione dell’app Field Service Mobile.
 subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività: configurare le applicazioni di assistenza sul campo; gestire gli ordini di lavoro; programmare e inviare ordini di lavoro; gestire la mobilità del servizio sul campo; gestire l'inventario e gli acquisti; e implementare Connected Field Service."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -40,8 +40,6 @@ products:
 - dynamics-field-service
 exams:
 - uid: exam.mb-200
-courses:
-- uid: course.mb-240t00
 paths:
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling

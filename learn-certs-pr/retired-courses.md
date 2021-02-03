@@ -17,6 +17,12 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
 ## Corsi ritirati: Corsi di formazione con istruttori
 
+* Corsi in fase di ritiro il 31 Marzo 2021
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | 20778 | C | Analyzing Data with Power BI | Inglese | 03/31/2021 |
+
 * Corsi ritirati il 31 dicembre 2020
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |

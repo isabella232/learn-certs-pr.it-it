@@ -4,11 +4,12 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
   description: 'I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e installano la soluzione Connected Field Service (IoT).'
 uid: certification.d365-functional-consultant-field-service
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
   <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-  <div><strong>L'ESAME <a href="/learn/certifications/exams/mb-200">MB-200</a> VERRÀ SOSTITUITO DA UN NUOVO ESAME, <a href="/learn/certifications/exams/pl-200">PL-200</a>. Potrai conseguire questa certificazione superando MB-200 o PL-200, oltre a MB-240, fino al ritiro di MB-200 il 31 Dicembre, 2020. Una volta che MB-200 sarà ritirato, bisognerà superare gli esami PL-200 e MB-240 per conseguire questa certificazione. Nota&#58; L'esame verrà ritirato alle 11&#58;59 PM, CST.</strong><br/><br/></div></div>
+  </div>
   
   I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e installano la soluzione Connected Field Service (IoT).
 subTitle: I consulenti funzionali di Field Service di Microsoft Dynamics 365 configurano l’applicazione Field Service, implementano soluzioni che gestiscono il ciclo di vita dell’assistenza sul campo e installano la soluzione Connected Field Service (IoT).
