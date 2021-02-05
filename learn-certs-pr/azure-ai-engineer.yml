@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-
   I candidati per la certificazione Azure AI Engineer Associate dovrebbero avere competenze in materie che utilizzino servizi cognitivi, machine learning e knowledge mining per progettare e implementare soluzioni di intelligenza artificiale Microsoft che includano l'elaborazione del linguaggio naturale, il parlato, la visione artificiale e l'IA conversazionale.
 
   Le responsabilità per questo ruolo includono l'analisi dei requisiti per le soluzioni di intelligenza artificiale, la raccomandazione di strumenti e tecnologie appropriati e la progettazione e l'implementazione di soluzioni di intelligenza artificiale che soddisfino i requisiti di scalabilità e prestazioni.

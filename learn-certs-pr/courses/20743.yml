@@ -20,7 +20,7 @@ skillsGained:
 - skill: Distribuire e gestire i contenitori Windows e Hyper-V.
 - skill: Implementare il clustering di failover.
 - skill: Implementare il clustering di failover utilizzando macchine virtuali.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

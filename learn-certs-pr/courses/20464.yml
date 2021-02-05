@@ -26,7 +26,7 @@ skillsGained:
 - skill: Scoprire gli usi appropriati per l'integrazione di SQL CLR e implementare un assembly .NET esistente in SQL Server.
 - skill: Archiviare dati e schemi XML in SQL Server.
 - skill: Eseguire query di base sui dati XML in SQL Server.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Al termine di questo workshop, sarai in grado di analizzare un sito per confrontare i costi, le performance e il livello di impegno richiesto per migrare da Oracle a Server SQL o PostgreSQL. Considerato il tempo necessario per completare il workshop, consiglia al partecipante e al formatore di definire un'unica strategia di migrazione
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
