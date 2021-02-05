@@ -12,7 +12,7 @@ skillsGained:
 - skill: Utilizzare le funzionalità di connettività tra siti, tra cui il peering di reti virtuali e le connessioni tra reti virtuali
 - skill: Utilizzare Azure Active Directory (AAD) e Connessione ad Azure AD
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

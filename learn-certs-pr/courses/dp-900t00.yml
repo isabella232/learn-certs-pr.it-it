@@ -26,7 +26,7 @@ exams:
 - uid: exam.dp-900
 summary: |-
   In questo corso i partecipanti impareranno le basi dei concetti di database in un ambiente cloud, acquisiranno le competenze di base nei servizi di dati cloud e costruiranno le loro conoscenze fondamentali sui servizi di dati cloud in Microsoft Azure. I partecipanti identificheranno e descriveranno concetti di dati di base come relazionali, non relazionali, big data e analitici e analizzeranno come questa tecnologia viene implementata con Microsoft Azure. Analizzeranno i ruoli, i compiti e le responsabilità nel mondo dei dati. I partecipanti analizzeranno le offerte di dati relazionali, il provisioning e la distribuzione di database relazionali e l'interrogazione di dati relazionali tramite soluzioni di dati cloud con Microsoft Azure. Analizzeranno le offerte di dati non relazionali, il provisioning e la distribuzione di database non relazionali e di archivi di dati non relazionali con Microsoft Azure. Gli studenti esploreranno le opzioni di elaborazione disponibili per la creazione di soluzioni di analisi dei dati in Azure. Analizzeranno Synapse Analytics di Azure, Databrick di Azure e HDInsight di Azure. Gli studenti impareranno cos'è Power BI, inclusi i suoi elementi costitutivi e come funzionano insieme.
-  
+
   #### Profilo dei destinatari
   I destinatari di questo corso sono persone che desiderano imparare i principi sui concetti di database in un ambiente cloud, acquisire competenze di base nei servizi dati cloud e acquisire conoscenze fondamentali sui servizi dati cloud in Microsoft Azure.
 prerequisitesSection: |-
@@ -45,39 +45,39 @@ outlineSection: |-
   - Descrivere i concetti di dati relazionali
   - Analizzare i concetti di dati non relazionali
   - Analizzare i concetti di analitica dei dati
-  
+
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Mostrare le conoscenze di base dei servizi di dati cloud in Azure
   - Identificare e descrivere concetti fondamentali di dati come i relazionali, non relazionali, big data e analitici
   - Spiegare come viene implementata questa tecnologia con Azure
-  
-  
+
+
   ### Modulo 2&#58; Analizzare i dati relazionali in Azure
   I partecipanti impareranno i principi dei concetti sui database in un ambiente cloud, acquisiranno le competenze di base nei servizi di dati cloud e svilupperanno le loro conoscenze fondamentali sui servizi di dati cloud in Microsoft Azure. I partecipanti analizzeranno le offerte di dati relazionali, il provisioning e la distribuzione di database relazionali e l'esecuzione di query sui dati relazionali mediante soluzioni di dati cloud con Azure.
   #### Lezioni
-  - Esplorare i servizi di dati relazionali su Azure
-  - Esplorare la fornitura e la distribuzione di servizi di database relazionali su Azure 
+  - Analizzare le offerte di dati relazionali in Azure
+  - Analizzare il provisioning e la distribuzione delle offerte di database relazionali in Azure
   - Eseguire query sui dati relazionali in Azure
-  
+
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrivere i servizi di dati relazionali su Azure
+  - Descrivere le offerte di dati relazionali in Azure
   - Spiegare il provisioning e la distribuzione di database relazionali in Azure
   - Eseguire query sui dati relazionali tramite soluzioni di dati cloud in Azure
-  
-  
+
+
   ### Modulo 3&#58; Analizzare i dati non relazionali in Azure
-  Gli studenti impareranno i concetti fondamentali relativi ai database in un ambiente cloud, acquisiranno le competenze base per i servizi in cloud, e porranno le basi delle proprie conoscenze dell'ambito dei servizi per i dati su cloud su Azure. Gli studenti esploreranno i servizi di dati non relazionali, la fornitura e la distribuzione di database non relazionali e archivi di dati non relazionali su Microsoft Azure.
+  I partecipanti impareranno i principi dei concetti sui database in un ambiente cloud, acquisiranno le competenze di base nei servizi di dati cloud e svilupperanno le loro conoscenze fondamentali sui servizi di dati cloud in Azure. I partecipanti analizzaranno le offerte di dati non relazionali, il provisioning e la distribuzione di database non relazionali e di archivi di dati non relazionali con Microsoft Azure.
   #### Lezioni
-  - Esplorazione dei servizi di dati relazionali su Azure
+  - Analizzare le offerte di dati non relazionali in Azure
   - Analizzare il provisioning e la distribuzione di servizi dati non relazionali in Azure
   - Gestire archivi dati non relazionali in Azure
-  
+
   Al termine di questo modulo gli studenti saranno in grado di&#58;
-  - Descrizione dei servizi di dati relazionali su Azure
+  - Descrivere le offerte di dati non relazionali in Azure
   - Spiegare il provisioning e la distribuzione di database non relazionali in Azure
   - Descrivere archivi di dati non relazionali in Azure
-  
-  
+
+
   ### Modulo 4&#58; Analizzare l’analitica del moderno data warehouse in Azure
   I partecipanti impareranno i principi dei concetti sui database in un ambiente cloud, acquisiranno le competenze di base nei servizi di dati cloud e svilupperanno le loro conoscenze fondamentali sui servizi di dati cloud in Azure. Gli studenti esploreranno le opzioni di elaborazione disponibili per la creazione di soluzioni di analisi dei dati in Azure. I partecipanti esploreranno Synapse Analytics di Azure, Databrick di Azure e HDInsight di Azure. Gli studenti impareranno cos'è Power BI, inclusi i suoi elementi costitutivi e come funzionano insieme.
   #### Lezioni
@@ -85,7 +85,7 @@ outlineSection: |-
   - Analizzare l'ingestione dei dati in Azure
   - Analizzare l'archiviazione e l'elaborazione dei dati in Azure
   - Iniziare a costruire con Power BI
-  
+
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Descrivere le opzioni di elaborazione disponibili per la creazione di soluzioni di analitica dei dati in Azure
   - Descrivere Synapse Analytics di Azure, Databrick di Azure e HDInsight di Azure

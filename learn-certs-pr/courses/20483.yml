@@ -21,7 +21,7 @@ skillsGained:
 - skill: Integrare librerie non gestite e componenti dinamici in un'applicazione Visual C#.
 - skill: Esaminare i metadati dei tipi utilizzando reflection, creare e utilizzare attributi personalizzati, generare codice in fase di esecuzione e gestire le versioni dell'assembly.
 - skill: Crittografare e decrittografare i dati utilizzando la crittografia simmetrica e asimmetrica.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

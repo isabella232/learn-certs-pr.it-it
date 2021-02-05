@@ -15,7 +15,7 @@ skillsGained:
 - skill: Spiegare come creare modelli di database dei grafici con Cosmos DB.
 - skill: Spiegare come usare Ricerca di Azure, HDInsight, Azure Databricks e Power BI con Cosmos DB per eseguire query e analizzare i big data.
 - skill: Spiegare come usare Cosmos DB come origine e sink per lo streaming dei dati.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

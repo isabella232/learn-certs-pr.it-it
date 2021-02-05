@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Guida alla certificazione Microsoft
 
-<div style='color&#58; red;'><strong><font color="red"><br/>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>Ulteriori informazioni</a>.</font></strong><br/><br/></div>
-
 Hai bisogno di assistenza per i prodotti di Certificazione Microsoft? Consulta le opzioni sull’assistenza riportate di seguito.
 
 ## Come contattare l’assistenza

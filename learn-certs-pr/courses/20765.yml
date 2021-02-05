@@ -13,7 +13,7 @@ skillsGained:
 - skill: Configurare di SQL Server
 - skill: Gestire database e file (condivisi)
 - skill: Eseguire il provisioning, migrare e gestire i database nel cloud
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

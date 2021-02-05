@@ -26,7 +26,7 @@ skillsGained:
 - skill: Utilizzare SignalR per abilitare la comunicazione bidirezionale tra client e server.
 - skill: Descrivere cos'è un'API Web e perché gli sviluppatori possono aggiungere un'API Web a un'applicazione.
 - skill: Descrivere come impacchettare e distribuire un'applicazione Web ASP.NET Core MVC da un computer di sviluppo a un server Web.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

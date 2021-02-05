@@ -16,7 +16,7 @@ skillsGained:
 - skill: Descrizione delle funzionalità di sicurezza e rete ed esposizione dei vari servizi di security di Azure pensati per rendere le reti su cloud sicure e fidate.
 - skill: Discussione sulle funzionalità d'identità, governance, privacy e compliance, sui servizi di protezione di accesso alle risorse cloud di Azure, e sulle strategie di governance del cloud e di adesione allo standard normativo.
 - skill: Discussione sui fattori che influenzano i costi, degli strumenti utilizzabili per la stima e la gestione delle spese per il cloud e su come i Service-level agreements (SLA) di Azure possono influire sulle decisioni riguardo la progettazione delle applicazioni.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
