@@ -21,7 +21,7 @@ skillsGained:
 - skill: Implementare i criteri di gruppo.
 - skill: Proteggere i server Windows con i criteri GPO (Group Policy Object).
 - skill: Implementare la virtualizzazione dei server con Hyper-V.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

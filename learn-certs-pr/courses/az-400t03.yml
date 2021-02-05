@@ -29,7 +29,7 @@ skillsGained:
 - skill: Implementare una distribuzione Blue Green
 - skill: Implementare un rilascio Canary
 - skill: Implementare una distribuzione con esposizione progressiva
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

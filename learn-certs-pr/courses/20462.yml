@@ -21,7 +21,7 @@ skillsGained:
 - skill: Eseguire regolarmente la manutenzione del database.
 - skill: Automatizzare la manutenzione del server SQL con processi SQL Server Agent.
 - skill: Configurare messaggi di posta elettronica, avvisi e notifiche per il database.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

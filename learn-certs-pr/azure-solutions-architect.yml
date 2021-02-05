@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>A seguito della situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-
   I candidati alla certificazione Azure Solutions Architect Expert dovrebbero avere competenze specifiche nella progettazione e nell'implementazione di soluzioni su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza. I candidati devono avere competenze di livello intermedio nell'amministrazione di Azure. I candidati devono essere in grado di comprendere lo sviluppo su Azure e i processi DevOps.
 
   Le responsabilità di questo ruolo includono la consulenza alle parti interessate e la realizzazione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.

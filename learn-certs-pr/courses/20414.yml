@@ -21,7 +21,7 @@ skillsGained:
 - skill: Pianificare e implementare la distribuzione di un server AD FS e l’accesso a applicazioni in grado di riconoscere attestazioni.
 - skill: Pianificare e implementare il controllo dinamico degli accessi e le cartelle Workplace Join e Work.
 - skill: Pianificare e implementare la distribuzione di AD RMS, pianificare e gestire i modelli e l’accesso ad AD RMS, pianificare e implementare l’accesso esterno ai servizi AD RMS.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

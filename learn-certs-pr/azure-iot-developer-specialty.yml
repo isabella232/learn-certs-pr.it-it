@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-
   I candidati alla certificazione Azure IoT Developer Specialty dovrebbero avere esperienza in materia di sviluppo di componenti cloud e edge di una soluzione IoT di Azure.
 
   Le responsabilità di questo ruolo includono la gestione del ciclo di vita del dispositivo - installazione, configurazione e manutenzione - utilizzando servizi cloud e altri strumenti. Implementate progetti per soluzioni IoT di Azure tra cui topologia, connettività, debug e sicurezza dei dispositivi, nonché soluzioni per gestire, monitorare e trasformare pipeline di dati relative a IoT. Distribuisci anche componenti di Azure IoT Edge e configuri la rete dei dispositivi in periferia.

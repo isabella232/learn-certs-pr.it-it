@@ -13,7 +13,7 @@ skillsGained:
 - skill: Eseguire la migrazione dei carichi di lavoro SQL alle macchine virtuali di Azure
 - skill: Eseguire la migrazione dei carichi di lavoro SQL ai database di Azure
 - skill: Eseguire la migrazione dei carichi di lavoro SQL all’istanza gestita di database SQL di Azure
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

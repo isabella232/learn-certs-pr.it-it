@@ -21,7 +21,7 @@ skillsGained:
 - skill: Ottimizzare e proteggere i servizi di file.
 - skill: Proteggere il traffico di rete con firewall e crittografia.
 - skill: Proteggere il traffico di rete utilizzando DNSSEC e Message Analyzer.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

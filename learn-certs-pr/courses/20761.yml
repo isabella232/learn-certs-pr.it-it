@@ -24,7 +24,7 @@ skillsGained:
 - skill: Trasformare dati implementando le funzioni pivot, unpivot, rollup e cubo.
 - skill: Creare e implementare procedure archiviate.
 - skill: Aggiungere costrutti di programmazione come variabili, condizioni e loop al codice T-SQL.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

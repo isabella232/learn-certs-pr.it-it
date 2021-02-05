@@ -6,8 +6,6 @@ metadata:
 uid: exam.mo-500
 displayName: MO-500
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-
   Questo esame riguarda la capacità di creare e gestire oggetti del database di Access incluse tabelle, relazioni, moduli di immissione dati, report multilivello e query multi-tabella. I candidati devono dimostrare la corretta applicazione delle principali funzionalità di Access e completare le attività in modo indipendente.
 subTitle: Questo esame misura la competenza nei principi di progettazione del database. L'esame riguarda la capacità di creare e gestire oggetti del database di Access incluse tabelle, relazioni, moduli di immissione dati, report multilivello e query multi-tabella.
 iconUrl: /media/learn/certification/badges/certification-exam.svg

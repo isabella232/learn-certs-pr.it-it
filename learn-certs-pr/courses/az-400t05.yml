@@ -15,7 +15,7 @@ skillsGained:
 - skill: Distribuire e configurare un’infrastruttura con strumenti e servizi di terze parti con Azure, come Chef, Puppet, Ansible, SaltStack e Terraform
 - skill: Definire una strategia per l’infrastruttura e la configurazione, oltre a un set di strumenti appropriato, per una pipeline di rilascio e un’infrastruttura per applicazioni
 - skill: Implementare la conformità e la sicurezza nell’infrastruttura per applicazioni
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

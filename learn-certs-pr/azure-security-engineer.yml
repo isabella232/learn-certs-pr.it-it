@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
-
   I candidati alla certificazione di Azure Security Engineer dovrebbero avere esperienza in materia nell'implementazione di controlli di sicurezza e protezione dalle minacce, gestione dell'identità e dell'accesso e protezione di dati, applicazioni e reti in ambienti cloud e ibridi come parte di un'infrastruttura end-to-end.
 
   Le responsabilità di questo ruolo includono il mantenimento della posizione di sicurezza, l'identificazione e la correzione delle vulnerabilità utilizzando una varietà di strumenti di sicurezza, implementando la protezione dalle minacce e rispondendo all'incremento degli incidenti di sicurezza.
