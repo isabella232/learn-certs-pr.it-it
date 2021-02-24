@@ -7,11 +7,11 @@ uid: exam.ms-101
 displayName: MS-101
 summary: |-
   <div>
-  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 Febbraio 2021. Scarica qui di seguito il documento sulle skill misurate per vedere che cosa cambierà.</strong></font><br/><br/></div>
   </div>
-
+  
   I candidati idonei a questo esame sono Microsoft 365 Enterprise Administrator coinvolti nella valutazione, pianificazione, migrazione, installazione e gestione dei servizi Microsoft 365. Eseguono attività di gestione dei tenant di Microsoft 365 per un’azienda, occupandosi tra l’altro di identità, sicurezza, conformità e tecnologie di supporto.
-
+  
   Hanno una conoscenza professionale dei carichi di lavoro di Microsoft 365 e devono avere lavorato in qualità di amministratore di almeno uno dei carichi di lavoro di Microsoft 365 (Exchange, SharePoint, Skype for Business or Windows as a Service). I candidati devono inoltre avere una conoscenza professionale delle reti, dell’amministrazione dei server e dei concetti di base dell’IT, come DNS, Active Directory e PowerShell.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare servizi moderni per i dispositivi, implementare la gestione della sicurezza e delle minacce in Microsoft 365 e gestire la governance e la conformità di Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -24,7 +24,7 @@ locales:
 levels:
 - advanced
 skills:
-- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
+- Il contenuto di questo esame sarà aggiornato il 24 Febbraio 2021. Scarica qui di seguito il documento sulle skill misurate per vedere che cosa cambierà.
 - Implementare i moderni servizi per dispositivi (30-35%)
 - Implementare la sicurezza e la gestione delle minacce di Microsoft 365 (30-35%)
 - Gestire la governance e la conformità di Microsoft 365 (35-40%)

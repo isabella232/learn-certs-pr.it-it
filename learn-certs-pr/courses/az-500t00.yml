@@ -42,19 +42,25 @@ exams:
 - uid: exam.az-500
 summary: |-
   Questo corso fornisce agli IT Security Professionals le conoscenze e le competenze necessarie per implementare i controlli di sicurezza, mantenere la posizione di sicurezza di un'organizzazione e identificare e correggere le vulnerabilità di sicurezza. Questo corso include la sicurezza per l'identità e l'accesso, la protezione della piattaforma, i dati e le applicazioni e le operazioni di sicurezza.
-
+  
   #### Profilo dei destinatari
   Questo corso è rivolto agli Azure Security Engineer che stanno pianificando di sostenere l'esame di certificazione associato o che stanno eseguendo attività di sicurezza nel loro lavoro quotidiano. Questo corso sarebbe utile anche per un ingegnere che desidera specializzarsi nel fornire sicurezza per le piattaforme digitali basate su Azure e svolgere un ruolo integrale nella protezione dei dati di un'organizzazione.
 prerequisitesSection: |-
-  Per ottenere il massimo da questo corso gli studenti dovrebbero&#58;
-  - Conoscere le migliori pratiche di sicurezza e i requisiti di sicurezza del settore, come la difesa approfondita, l'accesso meno privilegiato, il controllo dell'accesso basato sui ruoli, l'autenticazione a più fattori, la responsabilità condivisa e il modello di fiducia zero.
+  Gli studenti che supereranno il corso con successo avranno una precedente conoscenza e comprensione di&#58;
+  - Best practice di sicurezza e requisiti di sicurezza del settore come difesa di basso livello, accesso con privilegi minimi, controllo degli accessi basato sui ruoli, autenticazione a più fattori, responsabilità condivisa e modello zero trust.
   - Avere familiarità con i protocolli di sicurezza come Virtual Private Networks (VPN), Internet Security Protocol (IPSec), Secure Socket Layer (SSL), i metodi di crittografia dei dischi e dei dati.
   - Avere esperienza nell'implementazione dei carichi di lavoro di Azure. In questo corso non vengono trattate le nozioni di base dell'amministrazione di Azure, ma il contenuto del corso si basa su tali conoscenze aggiungendo informazioni specifiche sulla protezione.
   - Avere esperienza con sistemi operativi Windows e Linux e linguaggi di scripting. I laboratori del corso possono utilizzare PowerShell e il CLI.
-
-  Per prepararti per la lezione, considera questa formazione online gratuita.
-  - [Azure Fundamentals](/learn/paths/azure-fundamentals/)
-  - [AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/)
+  
+  Corsi di prerequisito (o conoscenze equivalenti ed esperienza pratica)&#58;
+  
+  Questo training online gratuito ti fornirà l'esperienza necessaria per superare questo corso con successo.
+  
+  - [AZ-104&#58; Gestire identità e governance in Azure - Apprendere | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+  - [AZ-104&#58; Implementare e gestire l'archiviazione in Azure - Apprendere | Microsoft Docs](/learn/paths/az-104-manage-storage/)
+  - [AZ-104&#58; Configurazione e gestione di virtual networks per Azure administrators - Apprendere | Microsoft Docs](/learn/paths/az-104-manage-virtual-networks/)
+  - [AZ-104&#58; Monitorare ed eseguire backup delle risorse di Azure - Apprendere | Microsoft Docs](/learn/paths/az-104-monitor-backup-resources/)
+  - [AZ-104&#58; Implementare e gestire le risorse di calcolo di Azure - Apprendere | Microsoft Docs](/learn/paths/az-104-manage-compute-resources/)
 outlineSection: |-
   ### Modulo 1&#58; Gestire le identità e l’accesso
   Questo modulo analizza Azure Active Directory, Azure Identity Protection, Enterprise Governance, Azure AD PIM e Hybrid Identity.
@@ -64,27 +70,27 @@ outlineSection: |-
   - Governance aziendale
   - Gestione identità privilegiata AD di Azure
   - Identità ibrida
-
+  
   #### Lab&#58; Controllo dell’accesso basato sui ruoli
-
+  
   #### Lab&#58; Criteri di Azure
-
+  
   #### Lab&#58; Blocchi Resource Manager
-
+  
   #### Lab&#58; MFA, accesso condizionale e protezione identità AAD
-
+  
   #### Lab&#58; Gestione identità privilegiata di AD di Azure
-
+  
   #### Lab&#58; Implementare la sincronizzazione delle identità
-
+  
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Implementare strategie di governance dell'organizzazione, inclusi il controllo dell'accesso basato sui ruoli, i criteri di Azure e i blocchi delle risorse.
   - Implementare un'infrastruttura di Azure AD che includa utenti, gruppi e autenticazione a più fattori.
   - Implementare la protezione identità di Azure AD, inclusi i criteri di rischio, l'accesso condizionato e le revisioni dell'accesso.
   - Implementare la gestione dell’identità privilegiata di Azure AD inclusi i ruoli di Azure AD e le risorse di Azure.
   - Implementare Azure AD Connect includendo i metodi di autenticazione e la sincronizzazione delle directory locali.
-
-
+  
+  
   ### Modulo 2&#58; Implementare la protezione della piattaforma
   Questo modulo copre la sicurezza perimetrale, di rete, host e container.
   #### Lezioni
@@ -92,20 +98,20 @@ outlineSection: |-
   - Sicurezza di rete
   - Sicurezza dell'host
   - Sicurezza dei contenitori
-
+  
   #### Lab&#58; Gruppi di sicurezza di rete ed applicazione gruppi di sicurezza
-
+  
   #### Lab&#58; Firewall di Azure
-
+  
   #### Lab&#58; Configurare e proteggere ACR e AKS
-
+  
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Implementare strategie di sicurezza perimetrale, incluso Azure Firewall.
   - Implementare strategie di sicurezza della rete, inclusi Network Security Groups e Application Security Groups.
   - Implementare strategie di sicurezza host, tra cui la protezione degli endpoint, la gestione dell'accesso remoto, la gestione degli aggiornamenti e la crittografia del disco.
   - Implementare strategie di sicurezza dei container, incluse Azure Container Instances, Azure Container Registry e Azure Kubernetes.
-
-
+  
+  
   ### Modulo 3&#58; Mettere in sicurezza dati e applicazioni
   Questo modulo copre Azure Key Vault, la sicurezza delle applicazioni, la sicurezza dell'archiviazione e la sicurezza del database SQL.
   #### Lezioni
@@ -113,33 +119,33 @@ outlineSection: |-
   - Sicurezza dell'applicazione
   - Sicurezza di archiviazione
   - Sicurezza del database SQL
-
+  
   #### Lab&#58; Key Vault (Implementare i dati sicuri impostando Always Encrypted)
-
+  
   #### Lab&#58; Implementare un database SQL di Azure
-
+  
   #### Lab&#58; Endpoint di servizio e protezione dell’archiviazione
-
+  
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Implementare Azure Key Vault includendo certificati, chiavi e segreti.
   - Implementare strategie di sicurezza delle applicazioni, tra cui la registrazione delle app, le identità gestite e gli endpoint di servizio.
   - Implementare strategie di sicurezza dell'archiviazione, incluse firme di accesso condiviso, criteri di conservazione del blob e autenticazione dei file di Azure.
   - Implementare strategie di sicurezza del database, tra cui autenticazione, classificazione dei dati, mascheramento dinamico dei dati e sempre crittografato.
-
-
+  
+  
   ### Modulo 4&#58; Gestire le operazioni di sicurezza
   Questo modulo include Azure Monitor, Azure Security Center e Azure Sentinel.
   #### Lezioni
   - Azure Monitor
   - Azure Security Center
   - Azure Sentinel
-
+  
   #### Lab&#58; Azure Monitor
-
+  
   #### Lab&#58; Azure Security Center
-
+  
   #### Lab&#58; Azure Sentinel
-
+  
   Al termine di questo modulo gli studenti saranno in grado di&#58;
   - Implementare Azure Monitor includendo origini connesse, analisi dei log e avvisi.
   - Implementare Azure Security Center includendo criteri, suggerimenti e l'accesso alle macchine virtuali in tempo reale.

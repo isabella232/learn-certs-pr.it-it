@@ -6,14 +6,12 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div>
-  <div><strong>Gli argomenti oggetto d'esame verranno aggiornati il 15 gennaio 2021. Scarica il documento sulle competenze esaminate per vedere cosa cambierà.</strong><br/><br/></div>
-  </div>
-
+  <div><strong>Il contenuto di questo esame è stato aggiornato il 15 Gennaio 2021. Scarica qui di seguito il documento sulle skill misurate per vedere che cosa è cambiato.</strong><br/><br/></div>
+  
   I candidati per questo esame sono i Marketing Functional Consultants con competenze Dynamics 365. I candidati sono responsabili dell'implementazione di soluzioni che attraggono e convertono i lead, contribuiscono alla brand awareness, standardizzano la messaggistica omnicanale e forniscono approfondimenti al reparto marketing.
-
+  
   I candidati devono essere in grado di configurare ed espandere l’applicazione di marketing di base per includere il marketing per posta elettronica; configurare percorsi cliente interattivi; sviluppare lead con esperienze personalizzate, integrare LinkedIn, eventi, applicazioni vocali dei clienti, pagine di arrivo, segmentazione e punteggio; garantire la conformità al Regolamento generale per la protezione dei dati (GDPR).
-
+  
   I candidati devono avere una certa conoscenza dei principi di marketing e del ruolo dell'applicazione delle regole di marketing marketing in relazione alla suite di Dynamics 365, inclusa l'integrazione con le applicazioni Dynamics 365 e Microsoft 365.
 subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività: configurare applicazioni di marketing; gestire segmenti ed elenchi; creare e gestire moduli e pagine di marketing; gestire lead, contatti e account; creare e gestire email di marketing; gestire i percorsi dei clienti; gestire eventi e webinar; e configurare Dynamics 365 Customer Voice.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto d'esame verranno aggiornati il  15 gennaio 2021. Scarica la presentazione delle abilità d'esame per vedere cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il 15 Gennaio 2021. Scarica qui di seguito il documento sulle skill misurate per vedere che cosa è cambiato.
 - Configurare applicazioni di marketing (20-25%)
 - Gestire segmenti ed elenchi (5-10%)
 - Creare e gestire moduli e pagine di marketing (10-15%)
@@ -40,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-marketing
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-220t00
 paths:

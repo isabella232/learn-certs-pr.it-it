@@ -6,14 +6,15 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div><div><strong>Il contenuto di questo esame è stato aggiornato il venerdì 2 ottobre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il venerdì 2 ottobre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
-
+  
   Un Dynamics 365 Customer Service Functional Consultant è responsabile dell'implementazione di soluzioni multicanale focalizzate su assistenza, qualità, affidabilità, efficienza e soddisfazione del cliente.
   <br/>
-
+  
   Un Dynamics 365 Customer Service Functional Consultant implementa e progetta visualizzazioni e report di gestione del servizio forniti da e in collaborazione con il solution architect. Il Functional Consultant collabora con il customer engagement administrator per implementare e aggiornare i componenti della piattaforma Power, tra cui la gestione delle conoscenze, il feedback dei clienti e i servizi connessi.
-
+  
   Un Dynamics 365 Customer Service Functional Consultant deve avere una forte conoscenza applicata del servizio clienti, tra cui&#58; comprensione della terminologia del settore, priorità, standard, metodologie, operazioni di assistenza clienti e migliori pratiche. Il Functional Consultant con esperienza nel servizio clienti deve avere una forte conoscenza applicata del soddisfacimento delle esigenze degli utenti attraverso il servizio clienti Dynamics 365, compresa la comprensione approfondita dei casi, la gestione delle conoscenze, le code, i diritti, la pianificazione delle risorse, gli SLA (Service Level Agreement), le visualizzazioni, i servizi connessi, le informazioni sul servizio clienti, i Power Virtual Agent e l'omnicanalità per il servizio clienti. Il Functinonal Consultant deve avere una conoscenza approfondita del ruolo dell'applicazione Customer Service rispetto alla suite di applicazioni Dynamics 365 oltre a una conoscenza di base dell'architettura della soluzione e del controllo della qualità.
 subTitle: 'Questo esame valuta la tua capacità di eseguire le seguenti attività tecniche: gestire i casi e la gestione delle conoscenze, gestire code, diritti e contratti a livello di servizio, implementare la pianificazione, implementare l''omnicanalità per il servizio clienti e gestire l''analisi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -37,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-customer-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-230t01
 paths:

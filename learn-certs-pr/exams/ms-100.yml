@@ -6,11 +6,12 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><div><strong>Il contenuto di questo esame è stato aggiornato il giovedì 24 settembre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 Febbraio 2021. Scarica qui di seguito il documento sulle skill misurate per vedere che cosa cambierà.</strong></font><br/><br/></div>
   </div>
-
+  
   I candidati idonei a questo esame sono Microsoft 365 Enterprise Administrator coinvolti nella valutazione, pianificazione, migrazione, installazione e gestione dei servizi Microsoft 365. Eseguono attività di gestione dei tenant di Microsoft 365 per un’azienda, occupandosi tra l’altro di identità, sicurezza, conformità e tecnologie di supporto.
-
+  
   Hanno una conoscenza professionale dei carichi di lavoro di Microsoft 365 e devono avere lavorato in qualità di amministratore di almeno uno dei carichi di lavoro di Microsoft 365 (Exchange, SharePoint, Skype for Business or Windows as a Service). I candidati devono inoltre avere una conoscenza professionale delle reti, dell’amministrazione dei server e dei concetti di base dell’IT, come DNS, Active Directory e PowerShell.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: progettare e implementare i servizi di Microsoft 365; gestire le identità e i ruoli degli utenti; gestire l’accesso e l’autenticazione; e pianificare i carichi di lavoro e le applicazioni di Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -23,7 +24,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame è stato aggiornato il giovedì 24 settembre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame sarà aggiornato il 24 Febbraio 2021. Scarica qui di seguito il documento sulle skill misurate per vedere che cosa cambierà.
 - Progettare e implementare servizi Microsoft 365 (25-30%)
 - Gestire l'identità utente e i ruoli (35-40%)
 - Gestire l'accesso e l'autenticazione (20-25%)
