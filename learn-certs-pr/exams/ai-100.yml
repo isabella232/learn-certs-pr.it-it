@@ -7,15 +7,16 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il mercoledì 20 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  <div><font color='red'><strong>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, SARA' DISPONIBILE IL 23 FEBBRAIO 2021. Potrai sostenere questo esame fino a quando verrà ritirato il 30 giugno 2021. Nota&#58; gli esami verranno ritirati alle 23&#58;59 CST.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il mercoledì 20 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
-
+  
   I candidati per questo esame dovrebbero avere perizia del tema utilizzando i servizi cognitivi, apprendimento automatico, e la conoscenza di data mining per l'architetto e implementare soluzioni Microsoft AI coinvolgono l'elaborazione del linguaggio naturale, la parola, computer vision, e colloquiale AI.
-
+  
   Le responsabilità per questo Azure AI Engineer includono l'analisi dei requisiti per le soluzioni di intelligenza artificiale, la raccomandazione di strumenti e tecnologie appropriati e la progettazione e l'implementazione di soluzioni di intelligenza artificiale che soddisfino i requisiti di scalabilità e prestazioni.
-
+  
   Gli Azure AI Engineer traducono la visione di architetti di soluzioni e collaborano con data scientist, data engineer, specialisti IoT e sviluppatori software per creare soluzioni complete end-to-end.
-
+  
   Un candidato a questo esame dovrebbe avere conoscenza ed esperienza nella progettazione e nell'implementazione di app e agenti IA che utilizzino Servizi cognitivi di Microsoft Azure, Servizio Bot di Azure, Ricerca cognitiva di Azure e archiviazione dei dati in Azure. Inoltre, un candidato dovrebbe essere in grado di consigliare soluzioni che utilizzino tecnologie open source, comprendere i componenti che compongono il portafoglio di Azure AI e le opzioni di archiviazione dei dati disponibili e capire quando sviluppare un'API personalizzata per soddisfare requisiti specifici.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: analizzare i requisiti delle soluzioni; progettare soluzioni; integrare modelli di IA nelle soluzioni; distribuire e gestire soluzioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg

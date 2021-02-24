@@ -12,16 +12,16 @@ subTitle: I consulenti funzionali di Customer Service di Microsoft Dynamics 365 
 levels:
 - intermediate
 skills:
-- Configurazione di Common Data Service
-- Creazione di app usando Power Apps
-- Creazione e gestione di Power Automate
-- Implementazione dei chatbot di Power Virtual Agents
-- Integrazione di Power Apps con altre app e servizi
 - Gestire i casi e la gestione delle conoscenze
 - Gestire code, diritti e SLA (Service Level Agreement)
 - Implementare la pianificazione
 - Implementare l'omnicanalità per il servizio clienti
 - Gestire l'analisi
+- Configurazione di Common Data Service
+- Creazione di app usando Power Apps
+- Creazione e gestione di Power Automate
+- Implementazione dei chatbot di Power Virtual Agents
+- Integrazione di Power Apps con altre app e servizi
 roles:
 - functional-consultant
 type: role-based

@@ -7,14 +7,15 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
+  <div><font color='red'><strong>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, SARA' DISPONIBILE IL 23 FEBBRAIO 2021. Potrai sostenere questo esame fino a quando verrà ritirato il 30 giugno 2021. Nota&#58; gli esami verranno ritirati alle 23&#58;59 CST.</strong></font><br/><br/></div>
   <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
   </div>
-
+  
   I candidati idonei a questo esame sono Microsoft Azure Data Engineer che collaborano con le stakeholder per identificare e soddisfare i requisiti dei dati al fine di implementare soluzioni di dati che utilizzino i servizi di dati di Azure.
-
+  
   Gli Azure data engineer sono responsabili di attività correlate ai dati che includono la distribuzione di servizi di archiviazione dati, l’inserimento di dati in streaming e in batch, la trasformazione di dati, l’implementazione di requisiti di sicurezza, l’implementazione di criteri di conservazione dei dati, l’identificazione dei colli di bottiglia relativi alle prestazioni e l’accesso alle origini dati esterne.
-
-  I candidati a questo esame devono essere in grado d'implementare delle soluzioni basate su dati che utilizzano i seguenti servizi Azure&#58; Azure Cosmos DB, Azure Synapse Analytics (precedentemente Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks e Azure Blob Storage. 
+  
+  I candidati a questo esame devono essere in grado d'implementare delle soluzioni basate su dati che utilizzano i seguenti servizi Azure&#58; Azure Cosmos DB, Azure Synapse Analytics (precedentemente Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks e Azure Blob Storage.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare soluzioni di archiviazione dei dati, gestire e sviluppare processi di elaborazione dati, monitorare e ottimizzare le soluzioni dati.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
@@ -32,6 +33,7 @@ skills:
 - Implementare soluzioni di archiviazione dei dati (40-45%)
 - Gestire e sviluppare l’elaborazione dei dati (25-30%)
 - Monitorare e ottimizzare le soluzioni dati (30-35%)
+retirementDate: 06/30/2021
 roles:
 - data-engineer
 products:

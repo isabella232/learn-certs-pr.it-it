@@ -7,14 +7,14 @@ uid: exam.mb-240
 displayName: MB-240
 summary: |-
   <div>
-  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 10 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il 15 Gennaio 2021. Scarica qui di seguito il documento sulle skill misurate per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
   
-  I candidati per questo esame sono Customer Engagement Functional Consultants Dynamics 365t con esperienza maturata con Field Service. I candidati sono responsabili dell'implementazione di soluzioni per la gestione delle risorse che completano il ciclo di vita di Field Service.
+  I candidati per questo esame sono Consulenti Funzionali di Microsoft Dynamics 365 Customer Engagement con esperienza nel assistenza sul Campo. I candidati sono responsabili dell'implementazione di soluzioni che gestiscono le risorse che completano il ciclo di vita del field service.
   
   I candidati implementano i processi di Field Service progettati in collaborazione con team interni ed esterni. Questa collaborazione include la configurazione delle aree di amministrazione predefinite dell'applicazione Field Service, la distribuzione della soluzione Connected Field Service (IoT) e dell'applicazione su dispositivi mobili, nonchè l'implementazione di eventuali personalizzazioni aggiuntive necessarie. I candidati sono responsabili della configurazione e della distribuzione dell'applicazione Field Service insieme all'applicazione principale del servizio clienti.
   
-  I candidate devono sapere come configurare e personalizzare i component dell’applicazione Field Service, compresi i servizi di configurazione, le risorse, le caratteristiche, gli incidenti, l’integrazione delle scorte, i service agreements, la pianificazione delle risorse, gli ordini di lavoro, i service task, i ruoli degli utenti di Field Service, le impostazoni di Field Service, la soluzione Connected Field Service (IoT) e la configurazione dell’app Field Service Mobile.
+  I candidati devono sapere come configurare e personalizzare i componenti dell'applicazione relativa all'Assistenza sul Campo, compresa la configurazione di servizi, risorse, caratteristiche, incidenti, integrazione dell'inventario, contratti di assistenza, pianificazione delle risorse, ordini di lavoro, attività di assistenza, ruoli utente nell'Assistenza sul Campo, impostazioni dell'Assistenza sul Campo, la soluzione dell'Assistenza sul Campo Connessa (IoT) e la configurazione dell'applicazione Assistenza sul Campo Mobile. I candidati devono avere familiarità con l'applicazione mobile basata su Microsoft Power Apps. in questo esame non verrà trattata l'applicazione mobile basata su Xamarin.
 subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività: configurare le applicazioni di assistenza sul campo; gestire gli ordini di lavoro; programmare e inviare ordini di lavoro; gestire la mobilità del servizio sul campo; gestire l'inventario e gli acquisti; e implementare Connected Field Service."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
@@ -25,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto d'esame sono stati aggiornati il 10 novembre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
+- Il contenuto di questo esame è stato aggiornato il 15 Gennaio 2021. Scarica qui di seguito il documento sulle skill misurate per vedere che cosa è cambiato.
 - Configurazione delle applicazioni di assistenza sul campo (15-20%)
 - Gestire gli ordini di lavoro (15-20%)
 - Pianificazione e invio ordini di lavoro (25-30%)
@@ -38,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-field-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 paths:
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling

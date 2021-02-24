@@ -6,13 +6,14 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><div><strong>Il contenuto di questo esame è stato aggiornato il venerdì 2 ottobre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il venerdì 2 ottobre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
-
+  
   I candidati idonei a questo esame sono Dynamics 365 Functional Consultant con esperienza nella vendita. I candidati sono responsabili dell'implementazione di soluzioni che supportano un ciclo di vita delle vendite che funzioni in modo efficiente ed efficace e consenta di raggiungere gli obiettivi di fatturato, le strategie aziendali e gli obiettivi aziendali.
-
+  
   I candidati sono responsabili della configurazione e dell'espansione delle funzionalità principali per i potenziali clienti, i contatti, gli account, le opportunità e le entità di supporto per mappare i processi di vendita in atto presso l'azienda. Identificano le opportunità di usare Power Apps per sviluppare esperienze unificate per tutti i dispositivi, automatizzare l’integrazione delle applicazioni, i flussi dei processi aziendali e altri strumenti di automazione allo scopo di creare un’applicazione che supporti e accelleri l’arrivo di contanti.
-
+  
   I candidati devono possedere una solida conoscenza del business e preferibilmente un'esperienza in prima persona nel mondo delle vendite in uno o più ruoli di vendita.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire la configurazione, gestire le entità di vendita di base e  configurare ulteriori strumenti e servizi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -34,7 +35,7 @@ products:
 - dynamics-365
 - dynamics-sales
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-210t01
 paths:

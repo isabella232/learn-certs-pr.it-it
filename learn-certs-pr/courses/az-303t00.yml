@@ -9,7 +9,7 @@ hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Proteggere le identità con Active Directory di Azure, utenti e gruppi.
-- skill: Implementare soluzioni di identità che includano capacità locali e basate sul cloud
+- skill: Implementare soluzioni di identità che includano capacità locali e basate sul cloud.
 - skill: Applicare soluzioni di monitoraggio per la raccolta, la combinazione e l'analisi di dati provenienti da origini diverse.
 - skill: Gestire sottoscrizioni, account, criteri di Azure e controllo dell'accesso basato sui ruoli.
 - skill: Amministrare Azure utilizzando Gestione risorse, Portale di Azure, Cloud Shell e CLI.
@@ -28,18 +28,19 @@ exams:
 - uid: exam.az-303
 summary: |-
   Questo corso insegna a Solutions Architects come realizzare i requisiti aziendali in soluzioni sicure, scalabili e affidabili. Le lezioni includono virtualizzazione, automazione, networking, archiviazione, identità, sicurezza, piattaforma dati e infrastruttura applicativa. Il corso precisa come le decisioni di ciascuna area impattino su una soluzione globale.
-
+  
   #### Profilo dei destinatari
   Questo corso è rivolto a IT Professionals esperti nella progettazione e nell'implementazione di soluzioni in esecuzione su Microsoft Azure. I candidati devono avere una vasta esperienza e conoscenza di vari aspetti delle operazioni IT, tra cui reti, virtualizzazione, identità, sicurezza, business continuity, disaster recovery, gestione dei dati, pianificazione del budget e governance. I Solution Architects di Azure usano il portale di Azure e anche la Command Line Interface man mano che diventano più esperti. I candidati devono avere competenze a livello di esperto nell'amministrazione Azure e avere esperienza dei processi di sviluppo Azure e i processi DevOps.
 prerequisitesSection: |-
   Gli studenti Azure Architect di successo hanno precedenti esperienze con sistemi operativi, virtualizzazione, infrastruttura cloud, strutture di archiviazione e networking&#58;
-  - Comprensione delle tecnologie di virtualizzazione locali, comprese le VM e le reti virtuali 
-  - Comprensione della configurazione di rete, incluso TCP/IP, Domain Name System (DNS), virtual private networks (VPN), firewall e tecnologie di crittografia 
+  - Comprensione delle tecnologie di virtualizzazione locali, comprese le VM e le reti virtuali
+  - Comprensione della configurazione di rete, incluso TCP/IP, Domain Name System (DNS), virtual private networks (VPN), firewall e tecnologie di crittografia
   - Comprensione dei concetti di Active Directory, inclusi domini, forest e controller di dominio
   
   Se non conosci Azure e il cloud computing, considera una delle seguenti risorse&#58;
   - Corso gratuito online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
   - Corso con istruttore&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Prerequisiti per gli amministratori di Azure (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Modulo 1&#58; implementazione di Azure Active Directory
   In questo modulo imparerai come proteggere le tue identità con Azure Active Directory, implementando utenti e gruppi. Questo modulo include&#58;
@@ -62,7 +63,7 @@ outlineSection: |-
   - Configurare le impostazioni di Azure MFA
   - Implementare il Conditional Access Azure MFA
   - Creare un Progetto
-
+  
   
   ### Modulo 2&#58; Implementazione e gestione delle identità ibride
   In questo modulo imparerai come installare e configurare Azure AD Connect e implementare Azure AD Connect Health. Questo modulo include&#58;
@@ -71,7 +72,7 @@ outlineSection: |-
   - Configurazione Password Sync e Password Writeback
   - Configurazione Azure AD Connect Health
   
-  Il completamento del modulo fornirà le capacità necessarie per&#58; 
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
   - Implementare il Single Sign-On senza interruzioni su Azure AD
   - Eseguire un'installazione di Azure AD Connect
   - Implementare Azure AD Connect Health
@@ -124,7 +125,7 @@ outlineSection: |-
   - Descrizione delle caratteristiche del ridimensionamento orizzontale automatico degli Azure VM Scale Sets
   - Descrizione delle caratteristiche del ridimensionamento verticale manuale dei set degli Azure VM Scale Sets
   
-  Il completamento del modulo fornirà le capacità necessarie per&#58; 
+  Il completamento del modulo fornirà le capacità necessarie per&#58;
   - Selezionare una soluzione Load Balancer
   - Configurare l'Application Gateway
   - Implementare Azure Firewall
@@ -266,7 +267,8 @@ outlineSection: |-
   Il completamento del modulo fornirà le capacità necessarie per&#58;
   - Eseguire istanze di Azure Container
   - Distribuire Kubernetes con AKS
-
+  
+  
   ### Modulo 14&#58; Implementazione di un'infrastruttura applicativa
   In questo modulo verrà illustrato come creare un app Web App Service per Container, creare e configurare un piano di servizio app e impostare e gestire slot di distribuzione.
   #### Lezioni
