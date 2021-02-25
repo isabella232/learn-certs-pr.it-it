@@ -1,0 +1,22 @@
+### YamlMime:Certification
+title: 'Rinnovo della Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+metadata:
+  title: 'Rinnovo della Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: 'Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo.'
+uid: renewal.d365-functional-consultant-supply-chain-management
+certificationUid: certification.d365-functional-consultant-supply-chain-management
+assessmentId: 14ca194d-04da-4e2a-902c-b27cd9c7e7d8
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo. Dimostra di esserti tenuto aggiornato sugli ultimi aggiornamenti di Dynamics 365 Supply Chain Management superando l’esame di rinnovo. Puoi anche prepararti al rinnovo usando la raccolta selezionata di moduli di formazione.
+skills:
+- Utilizzo della scheda di determinazione del prezzo in Dynamics 365 Supply Chain Management
+- Utilizzo di Planning Optimization in Dynamics 365 Supply Chain Management
+examsPassed:
+- mb-300, mb-330
+studyGuideDescription: 'Utilizza questa raccolta di moduli di apprendimento per prepararti alla Certificazione Microsoft: Valutazione di rinnovo Dynamics 365 Supply Chain Management Functional Consultant Associate.'
+resources:
+- title: Informazioni sul rinnovo della certificazione
+  summary: Comprensione del processo e requisiti per rinnovare le certificazioni online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

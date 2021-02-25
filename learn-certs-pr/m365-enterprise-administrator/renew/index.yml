@@ -1,0 +1,29 @@
+### YamlMime:Certification
+title: 'Rinnovo della Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: 'Rinnovo della Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: 'Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo.'
+uid: renewal.m365-enterprise-administrator
+certificationUid: certification.m365-enterprise-administrator
+assessmentId: f28a7832-30d9-4fe7-afea-e88ec7ab4e5a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo. Dimostra di esserti tenuto aggiornato sugli ultimi aggiornamenti di Microsoft 365 superando l’esame di rinnovo. Puoi anche prepararti al rinnovo usando la raccolta selezionata di moduli di formazione.
+skills:
+- Gestione di Windows 10 mediante la co-gestione con System Center Configuration Manager
+- Semplificazione della gestione dei dispositivi con Microsoft Endpoint Manager
+- Semplificazione dell’accesso e la distribuzione delle identità con Azure Active Directory
+- Invio della posta alle cassette postali esterne a Microsoft 365 con i connettori
+- Difensa dalle minacce con Microsoft Threat Protection
+- Migrazione dei file utente e delle impostazioni in Microsoft 365
+- Fornitura di Microsoft 365 Apps e delle applicazioni aziendali
+- Protezione dei dati con etichette di riservatezza
+- Gestione dell’insider risk in Microsoft 365
+examsPassed:
+- ms-100, ms-101
+studyGuideDescription: 'Utilizza questa raccolta di moduli di apprendimento per prepararti alla Certificazione Microsoft 365: Valutazione di rinnovo Enterprise Administrator Expert.'
+resources:
+- title: Informazioni sul rinnovo della certificazione
+  summary: Comprensione del processo e requisiti per rinnovare le certificazioni online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

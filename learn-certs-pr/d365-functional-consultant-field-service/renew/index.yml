@@ -1,0 +1,26 @@
+### YamlMime:Certification
+title: 'Rinnovo della Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+metadata:
+  title: 'Rinnovo della Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: 'Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo.'
+uid: renewal.d365-functional-consultant-field-service
+certificationUid: certification.d365-functional-consultant-field-service
+assessmentId: 8ae55969-c279-47f9-83f7-2c75be7c57be
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo. Dimostra di esserti tenuto aggiornato sugli ultimi aggiornamenti di Dynamics 365 Field Service superando l’esame di rinnovo. Puoi anche prepararti al rinnovo usando la raccolta selezionata di moduli di formazione.
+skills:
+- Configurazione delle risorse prenotabili in Dynamics 365 Field Service
+- Integrazione di Dynamics 365 Remote Assist con Dynamics 365 Field Service
+- Personalizzazione della scheda di pianificazione in Dynamics 365 Field Service
+- Distribuzione del l’ottimizzazione della pianificazione delle risorse
+- Introduzione a Microsoft Dynamics 365 Field Service Mobile
+- Introduzione a Connected Field Service per Dynamics 365 e Azure IoT
+examsPassed:
+- pl-200, mb-240
+studyGuideDescription: 'Utilizza questa raccolta di moduli di apprendimento per prepararti alla Certificazione Microsoft: Valutazione di rinnovo Dynamics 365 Field Service Functional Consultant Associate.'
+resources:
+- title: Informazioni sul rinnovo della certificazione
+  summary: Comprensione del processo e requisiti per rinnovare le certificazioni online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
