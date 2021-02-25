@@ -1,0 +1,29 @@
+### YamlMime:Certification
+title: 'Rinnovo della Microsoft Certified: Azure Data Scientist Associate'
+metadata:
+  title: 'Rinnovo della Microsoft Certified: Azure Data Scientist Associate'
+  description: 'Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo.'
+uid: renewal.azure-data-scientist
+certificationUid: certification.azure-data-scientist
+assessmentId: 336d9230-44d1-4603-8056-a88d3a79daeb
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo. Dimostra di esserti tenuto aggiornato sugli ultimi aggiornamenti di Azure Machine Learning superando l’esame di rinnovo. Puoi anche prepararti al rinnovo usando la raccolta selezionata di moduli di formazione.
+skills:
+- Introduzione ad Azure Machine Learning SDK
+- Formazione di un modello di apprendimento automatico con Azure Machine Learning
+- Attività con i dati in Azure Machine Learning
+- Utilizzo del Calcolo in Azure Machine Learning
+- Coordinamento dell’apprendimento automatico con pipeline
+- Implementazione di servizi di apprendimento automatico in tempo reale con Azure Machine learning
+- Monitoraggio dei modelli con Azure Machine Learning
+- Utilizzo dell’apprendimento automatico automatizzato in Azure Machine Learning
+- Creazione un modello di classificazione con la finestra di progettazione di Azure Machine Learning
+examsPassed:
+- dp-100
+studyGuideDescription: 'Utilizza questa raccolta di moduli di apprendimento per prepararti alla Certificazione Microsoft: Valutazione di rinnovo Azure Data Scientist Associate.'
+resources:
+- title: Informazioni sul rinnovo della certificazione
+  summary: Comprensione del processo e requisiti per rinnovare le certificazioni online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
