@@ -14,7 +14,7 @@ skills:
 - Ingestione su scala di petabyte con Azure Data Factory
 - Esecuzione trasformazione senza codice su scala con Azure Data Factory
 examsPassed:
-- dp-200, dp-201, dp-203
+- dp-200, dp-201 o dp-203
 studyGuideDescription: 'Utilizza questa raccolta di moduli di apprendimento per prepararti alla Certificazione Microsoft: Valutazione di rinnovo Azure Data Engineer Associate.'
 resources:
 - title: Informazioni sul rinnovo della certificazione
