@@ -28,7 +28,7 @@ resources:
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
-  href: help.md
+  href: ../help.md
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
   href: https://www.microsoft.com/learning/dashboard.aspx
