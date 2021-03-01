@@ -62,7 +62,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
-  href: deals.md
+  href: ../deals.md
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
