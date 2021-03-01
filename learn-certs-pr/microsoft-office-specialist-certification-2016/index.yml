@@ -33,7 +33,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Exam Replay [Ripetizione dell’esame]
   description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
-  href: deals.md
+  href: ../deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
