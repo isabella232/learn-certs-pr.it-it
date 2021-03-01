@@ -1,0 +1,39 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft PowerPoint 2016'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft PowerPoint 2016'
+  description: 'Microsoft Office Specialist: Microsoft PowerPoint 2016'
+uid: certification.mos-powerpoint-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Dimostra che hai le competenze necessarie per sfruttare al massimo PowerPoint ottenendo una certificazione Microsoft Office Specialist (MOS) 2016. I candidati idonei dovranno conoscere i concetti di base dell'ambiente PowerPoint e dimostrare di sapere applicare correttamente PowerPoint 2016.
+subTitle: Questa certificazione ti permette di dimostrare che hai le competenze necessarie per sfruttare al meglio Office, ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico.
+levels:
+- intermediate
+skills:
+- Creare e gestire presentazioni
+- Inserire e formattare testo, forme e immagini
+- Inserire tabelle, grafici, SmartArt e media
+- Applicare transizioni e animazioni
+- Gestire più presentazioni
+roles:
+- business-user
+type: mos
+products:
+- office-powerpoint
+exams:
+- uid: exam.77-729
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

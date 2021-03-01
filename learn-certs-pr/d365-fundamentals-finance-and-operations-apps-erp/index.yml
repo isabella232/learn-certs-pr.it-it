@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  description: "Questa certificazione sarà disponibile a febbraio 2021. Se hai ampia esperienza delle funzionalità di pianificazione delle risorse aziendali (ERP) di Dynamics 365 e un'adeguata comprensione del ruolo che le app di gestione delle finanze e operazioni hanno all'interno dell'ecosistema Microsoft: questa certificazione è perfetta per te."
+uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Se hai ampia esperienza delle funzionalità di pianificazione delle risorse aziendali (ERP) di Dynamics 365 e un'adeguata comprensione del ruolo che le app di gestione delle finanze e operazioni hanno all'interno dell''ecosistema Microsoft&#58; questa certificazione è perfetta per te.
+  
+  Le persone che hanno familiarità con le operazioni aziendali, dei principi finanziari e sono esperti di IT, avendo maturato esperienza in generale o in campo lavorativo, possono utilizzare questa certificazione per convalidare tali competenze e aprire nuove prospettive di carriera.
+  
+  Questa certificazione di base può essere usata in vari modi da persone in varie fasi della propria carriera. Ecco alcuni esempi&#58;
+  - Professionisti IT che desiderano enfatizzare la loro ampia conoscenza delle applicazioni con cui lavorano
+  - Professionisti tecnici e responsabili aziendali che esplorano come le funzionalità di Dynamics 365 possono integrarsi con le app che utilizzano
+  - Stakeholder aziendali e altre figure che utilizzano Dynamics 365 e vogliono dimostrare la propria comprensione dei fondamenti della piattaforma
+  - Sviluppatori che desiderano mostrare una comprensione più profonda delle operazioni aziendali, degli aspetti finanziari e dell'ERP
+  Studenti, neolaureati e persone che stanno cambiando carriera e vogliono sfruttare le capacità operative e di gestione finanziaria di Dynamics 365 per passare al livello successivo
+  
+  <div><br/><strong>Nota&#58; Questa certificazione sarà disponibile a febbraio 2021.</strong></div>
+subTitle: "Questa certificazione sarà disponibile a febbraio 2021. Se hai ampia esperienza delle funzionalità di pianificazione delle risorse aziendali (ERP) di Dynamics 365 e un'adeguata comprensione del ruolo che le app di gestione delle finanze e operazioni hanno all'interno dell'ecosistema Microsoft: questa certificazione è perfetta per te."
+levels:
+- beginner
+skills:
+- Descrizione di Dynamics 365 Supply Chain Management
+- Descrizione di  Dynamics Finance
+- Descrizione di  Dynamics 365 Commerce
+- Descrizione di  Dynamics 365 Human Resources
+- Descrizione di Project Operations
+- Descrizione di Dynamics 365 Business Central
+- Descrizione delle funzionalità condivise
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-finance-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
+exams:
+- uid: exam.mb-920
+resources:
+- title: Poster di certificazione
+  description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: deals.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md

@@ -1,0 +1,37 @@
+### YamlMime:Certification
+title: 'MTA: Introduction to Programming Using HTML and CSS'
+metadata:
+  title: 'MTA: Introduction to Programming Using HTML and CSS'
+  description: 'MTA: Introduction to Programming Using HTML and CSS'
+uid: certification.mta-introduction-to-programming-using-html-and-css
+iconUrl: /media/learn/certification/badges/mta-badge.svg
+summary: |-
+  Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrare nel campo della tecnologia. Le certificazioni MTA riguardano un'ampia gamma di concetti tecnici fondamentali, valutano e convalidano le conoscenze tecniche di base e migliorano la credibilità tecnica. Nota&#58; Gli esami MTA non sono validi per la certificazione MCP e non sono un prerequisito per la certificazione MCSA o MCSD.
+subTitle: "Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrare nel campo della tecnologia. Le certificazioni MTA riguardano un'ampia gamma di concetti tecnici fondamentali, valutano e convalidano le conoscenze tecniche di base e migliorano la credibilità tecnica. Nota: Gli esami MTA non sono validi per la certificazione MCP e non sono un prerequisito per la certificazione MCSA o MCSD."
+levels:
+- beginner
+skills:
+- nessuna
+roles:
+- developer
+type: mta
+products:
+- vs
+exams:
+- uid: exam.98-383
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx

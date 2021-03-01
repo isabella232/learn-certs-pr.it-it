@@ -1,0 +1,54 @@
+### YamlMime:Certification
+title: 'MCSE: Business Applications'
+metadata:
+  title: 'MCSE: Business Applications'
+  description: 'MCSE: Business Applications'
+uid: certification.mcse-business-applications
+iconUrl: /media/learn/certification/badges/mcse-badge.svg
+summary: |-
+  <div>
+  <div><strong>Questa certificazione verrà ritirata il 31 gennaio 2021. Non sarai più in grado di ottenere questa certificazione dopo tale data. Eventuali certificazioni ottenute prima della loro data di ritiro continueranno ad apparire nel tuo report nel <a href='https://www.microsoft.com/learning/dashboard.aspx'>Dashboard di certificazione</a>. Puoi anche <a href='/learn/certifications/retired-certifications'>consultare tutte le certificazioni ritirate</a>.</strong><br/><br/></div>
+  </div>
+
+  Questa certificazione attesta che il candidato ha le competenze necessarie per utilizzare e gestire le tecnologie Microsoft Dynamics 365. Partirai dagli elementi base di Microsoft Dynamics 365 e acquisirai una competenza aggiuntiva in uno o più settori aziendali specifici.
+
+  Per ottenere MCSA&#58; la certificazione Business Application, completare i seguenti requisiti&#58;
+  - Ottenere la certificazione indicata come prerequisito&#58; [MCSA&#58; Microsoft Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations)
+  - E superare uno degli esami a scelta&#58;
+    - [MB2-716&#58; Microsoft Dynamics 365 Customization and Configuration](/learn/certifications/exams/mb2-716)
+    - [MB6-897&#58; Microsoft Dynamics 365 for Retail](/learn/certifications/exams/mb6-897)
+    - [MB6-898&#58; Microsoft Dynamics 365 for Talent](/learn/certifications/exams/mb6-898)
+subTitle: Questa certificazione attesta che il candidato ha le competenze necessarie per utilizzare e gestire le tecnologie Microsoft Dynamics 365. Partirai dagli elementi base di Microsoft Dynamics 365 e acquisirai una competenza aggiuntiva in uno o più settori aziendali specifici.
+levels:
+- beginner
+skills:
+- none
+roles:
+- business-analyst
+type: mcse
+products:
+- dynamics
+exams:
+- uid: exam.mb-2-716
+- uid: exam.mb-6-897
+- uid: exam.mb-6-898
+prerequisites:
+- uid: certification.mcsa-microsoft-dynamics-365-for-operations
+  isOptional: false
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,71 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Solution Architect (beta)'
+metadata:
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+uid: exam.pl-600
+displayName: PL-600
+summary: |-
+  Gli architetti di soluzioni Microsoft Power Platform gestiscono progetti di implementazione di successo e si focalizzano su come le soluzioni possano soddisfare le più ampie esigenze aziendali e tecniche delle organizzazioni.
+  
+  Un architetto di soluzioni possiede una conoscenza tecnica e funzionale di Power Platform, app Dynamics 365 per il coinvolgimento dei clienti, soluzioni Microsoft cloud correlate e altre tecnologie di terze parti. Un architetto di soluzioni applica le sue conoscenze e la sua esperienza per tutta la durata di un progetto. L'architetto di soluzioni svolge un lavoro proattivo e preventivo per aumentare il valore dell'investimento del cliente e favorire la buona salute di un'organizzazione. Questo ruolo richiede la capacità di identificare le opportunità per risolvere i problemi aziendali.
+  
+  Gli architetti di soluzioni posseggono esperienza nelle discipline funzionali e tecniche della Power Platform. Gli architetti di soluzioni dovrebbero essere in grado di facilitare le decisioni di progetto durante le fasi di sviluppo, configurazione, integrazione, infrastruttura, sicurezza, disponibilità, archiviazione e gestione delle modifiche. Questo ruolo bilancia le esigenze aziendali di un progetto soddisfacendo requisiti funzionali e non.
+  
+  <div><br/><font color='red'><strong>Nota&#58; questo esame sarà disponibile a Marzo 2021.</strong></font></div>
+subTitle: "Questo esame sarà disponibile a Marzo 2021. Questo esame misura la capacità di svolgere le seguenti attività tecniche: prefigurazione della soluzione e analisi dei requisiti; progettazione di una soluzione; implementazione della soluzione."
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+locales:
+- en
+levels:
+- advanced
+skills:
+- Prefigurazione della soluzione e analisi dei requisiti (35-40%)
+- Progettazione di una soluzione (40-45%)
+- Implementazione della soluzione (15-20%)
+roles:
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-solution-architect-expert
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: ../deals.md
+- title: Assistenza per gli esami di certificazione
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere un alloggio per il tuo esame.
+  href: ../request-accommodations.md
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
+  href: ../certification-exam-policies.md

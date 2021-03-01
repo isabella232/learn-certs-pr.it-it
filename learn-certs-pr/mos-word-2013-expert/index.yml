@@ -1,0 +1,40 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Word 2013 Expert'
+metadata:
+  title: 'Microsoft Office Specialist: Word 2013 Expert'
+  description: 'Microsoft Office Specialist: Word 2013 Expert'
+uid: certification.mos-word-2013-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Questa certificazione dimostra che possiedi competenze avanzate nell’uso dei Microsoft Office Word 2013 ottenendo una certificazione Microsoft Office Specialist Expert. I candidati devono conoscere e dimostrare di sapere utilizzare le funzionalità avanzate e specifiche dell'applicazione. I candidati devono essere in grado di creare, gestire e distribuire documenti professionali per numerosi scopi e in più situazioni.
+subTitle: Questa certificazione dimostra che possiedi competenze avanzate nell’uso dei Microsoft Office Word 2013 ottenendo una certificazione Microsoft Office Specialist Expert.
+levels:
+- intermediate
+skills:
+- Gestire e condividere documenti
+- Progettare documenti avanzati
+- Creare riferimenti avanzati
+- Creare elementi Word personalizzati
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-word
+exams:
+- uid: exam.77-425
+- uid: exam.77-426
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

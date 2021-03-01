@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: 'Rinnovo della Microsoft 365 Certified: Modern Desktop Administrator Associate'
+metadata:
+  title: 'Rinnovo della Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: 'Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo.'
+uid: renewal.m365-modern-desktop
+certificationUid: certification.modern-desktop
+assessmentId: 8602eec7-4017-456f-a878-62fe16630114
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo. Dimostra di esserti tenuto aggiornato sugli ultimi aggiornamenti di Microsoft 365 superando l’esame di rinnovo. Puoi anche prepararti al rinnovo usando la raccolta selezionata di moduli di formazione.
+skills:
+- Automatizzazione delle distribuzioni di Windows utilizzando Windows Autopilot
+- Semplificazione della gestione dei dispositivi con Microsoft Endpoint Manager
+- Ottenimento di maggiori informazioni e posizione di sicurezza con Windows 10
+- Passaggio a un desktop moderno con Microsoft 365
+- Gestione di dispositivi utilizzando Microsoft Intune
+- Gestione di Windows 10 attraverso la co-gestione utilizzando System Center Configuration Manager
+- Semplificazione della gestione dei dispositivi con Microsoft Endpoint Manager
+- Distribuzione, aggiornamento e migrazione a Windows 10
+- Gestione delle applicazioni utilizzando Microsoft Intune
+examsPassed:
+- md-100, md-101
+studyGuideDescription: 'Utilizza questa raccolta di moduli di apprendimento per prepararti alla Certificazione Microsoft 365: Valutazione di rinnovo Modern Desktop Administrator Associate.'
+resources:
+- title: Informazioni sul rinnovo della certificazione
+  summary: Comprensione del processo e requisiti per rinnovare le certificazioni online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

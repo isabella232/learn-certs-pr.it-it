@@ -1,0 +1,27 @@
+### YamlMime:CertificationRenewal
+title: 'Rinnovo della Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: 'Rinnovo della Microsoft Certified: DevOps Engineer Expert'
+  description: 'Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo.'
+uid: renewal.devops-engineer
+certificationUid: certification.devops-engineer
+assessmentId: a2d734be-49cd-42e6-966e-e7278821234c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo. Dimostra di esserti tenuto aggiornato sugli ultimi aggiornamenti di Azure e GitHub superando l’esame di rinnovo. Puoi anche prepararti al rinnovo usando la raccolta selezionata di moduli di formazione.
+skills:
+- Gestione dell’affidabilità dei siti
+- Monitoraggio e creazione dei rapporti sugli eventi relativi alla sicurezza in Azure AD
+- Creazione e distribuzione di applicazioni in Azure con GitHub Actions
+- Automatizzazione di GitHub con GitHub Script
+- Revisione della pianificazione e gestione dei costi di Azure
+- Gestione delle dipendenze delle build con Azure Artifacts
+- Accoglienza dell’agente della build in Azure Pipelines
+examsPassed:
+- az-400
+studyGuideDescription: 'Utilizza questa raccolta di moduli di apprendimento per prepararti alla Certificazione Microsoft: Valutazione di rinnovo DevOps Engineer Expert.'
+resources:
+- title: Informazioni sul rinnovo della certificazione
+  summary: Comprensione del processo e requisiti per rinnovare le certificazioni online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

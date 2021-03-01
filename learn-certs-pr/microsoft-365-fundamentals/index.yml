@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Fundamentals'
+metadata:
+  title: 'Microsoft 365 Certified: Fundamentals'
+  description: 'Dimostra di comprendere le opzioni disponibili in Microsoft 365 e i vantaggi dell''adozione dei servizi cloud, del modello di cloud SaaS (Software as a Service) e dell''implementazione del servizio cloud Microsoft 365.'
+uid: certification.microsoft-365-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Dimostra di comprendere le opzioni disponibili in Microsoft 365 e i vantaggi dell'adozione dei servizi cloud, del modello di cloud SaaS (Software as a Service) e dell'implementazione del servizio cloud Microsoft 365.
+subTitle: Dimostra di comprendere le opzioni disponibili in Microsoft 365 e i vantaggi dell'adozione dei servizi cloud, del modello di cloud SaaS (Software as a Service) e dell'implementazione del servizio cloud Microsoft 365.
+levels:
+- beginner
+skills:
+- Descrivere i concetti del cloud
+- Descrivere i principali servizi e concetti di Microsoft 365
+- Comprendere i concetti di sicurezza, conformità, privacy e affidabilità in Microsoft 365
+- Descrivere i prezzi ed assistenza per Microsoft 365
+roles:
+- business-user
+- administrator
+type: fundamentals
+products:
+- m365
+- windows
+- office-365
+courses:
+- uid: course.ms-900t01
+paths:
+- uid: learn.wwl.m365-productivity-teamwork-solutions
+- uid: learn.wwl.m365-business-management-solutions
+- uid: learn.wwl.m365-security-compliance-capabilities
+- uid: learn.wwl.m365-licensing-service-support
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
+exams:
+- uid: exam.ms-900
+resources:
+- title: Percorso di formazione per ottenere la certificazione
+  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,38 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Word 2016 Expert'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Word 2016 Expert'
+  description: 'Microsoft Office Specialist: Microsoft Word 2016 Expert'
+uid: certification.mos-word-2016-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Dimostra che hai le competenze avanzate di Word 2016 ottenendo una certificazione Microsoft Office Specialist Expert. I candidati di livello Expert idonei per questa certificazione devono sapere utilizzare le funzionalità avanzate di Word 2016 per gestire i documenti e contenuti nonché per la formattazione avanzata.
+subTitle: Questa certificazione dimostra che possiedi competenze avanzate nei programmi fondamentali di Office ottenendo una certificazione Microsoft Office Specialist Expert.
+levels:
+- advanced
+skills:
+- Gestire le opzioni e le impostazioni dei documenti
+- Progettare documenti avanzati
+- Creare riferimenti avanzati
+- Creare elementi Word personalizzati
+roles:
+- business-user
+type: mos
+products:
+- office-word
+exams:
+- uid: exam.77-726
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

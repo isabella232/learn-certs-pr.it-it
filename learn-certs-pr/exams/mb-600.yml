@@ -7,13 +7,14 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
+  <div><font color='red'><strong>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href="/learn/certifications/exams/pl-600">PL-600</a>, SARA' DISPONIBILE A MARZO 2021. Potrai sostenere questo esame fino a quando verrà ritirato il 30 giugno 2021.</strong></font><br/><br/></div>
   <div><strong>Il contenuto di questo esame è stato aggiornato il giovedì 30 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
-
+  
   I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
-
+  
   Un architetto di soluzioni conosce, sia dal punto di vista funzionale che tecnico, le app basate sul modello Power Platform in Dynamics 365, come Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing e Dynamics 365 Sales, correlate alle soluzioni cloud di Microsoft e a tecnologie di terze parti. Un architetto di soluzioni applica le sue conoscenze e la sua esperienza durante l’esecuzione di un progetto. Inoltre, esegue attività proattive e preventive per aumentare il valore dell’investimento del cliente e promuovere l’integrità dell’azienda. I dipendenti che lavorano in questo ruolo devono essere in grado di identificare le opportunità per risolvere i problemi aziendali.
-
+  
   Gli architetti di soluzioni conoscono approfonditamente i vari aspetti funzionali e tecnici delle app di Power Platform e basate sul modello in Dynamics 365. Devono inoltre essere in grado di agevolare le decisioni progettuali relative a sviluppo, configurazione, integrazione, infrastruttura, sicurezza, disponibilità, archiviazione e gestione delle modifiche. I dipendenti che lavorano in questo ruolo conciliano le esigenze aziendali con il rispetto dei requisiti funzionali e non.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: immaginare la soluzione e analizzare i requisiti; progettare una soluzione e implementarla.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -28,6 +29,7 @@ skills:
 - Immaginare la soluzione e analizzare i requisiti (30-35%)
 - Progettare una soluzione (45-50%)
 - Implementare la soluzione (20-25%)
+retirementDate: 06/30/2021
 roles:
 - solution-architect
 products:

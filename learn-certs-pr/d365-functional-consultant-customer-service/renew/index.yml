@@ -1,0 +1,26 @@
+### YamlMime:CertificationRenewal
+title: 'Rinnovo della Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+metadata:
+  title: 'Rinnovo della Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: 'Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo.'
+uid: renewal.d365-functional-consultant-customer-service
+certificationUid: certification.d365-functional-consultant-customer-service
+assessmentId: ff363f9d-4af6-4e37-9a0d-f6cfe4d45293
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo. Dimostra di esserti tenuto aggiornato sugli ultimi aggiornamenti di Dynamics 365 Customer Service superando l’esame di rinnovo. Puoi anche prepararti al rinnovo usando la raccolta selezionata di moduli di formazione.
+skills:
+- Utilizzo delle code del servizio clienti Microsoft Dynamics 365 per gestire i carichi di lavoro dei casi
+- Attivazione del Omnichannel per il servizio clienti
+- Integrazione di un bot Power Virtual Agent con Omnichannel per il servizio clienti
+- Implementazione di widget di chat con Omnichannel per il servizio clienti Dynamics 365
+- Routing e distribuzione del lavoro in Omnichannel per il servizio clienti Dynamics 365
+- Inizio con le informazioni sul servizio clienti
+examsPassed:
+- pl-200, mb-230
+studyGuideDescription: 'Utilizza questa raccolta di moduli di apprendimento per prepararti alla Certificazione Microsoft: Valutazione di rinnovo Dynamics 365 Customer Service Functional Consultant Associate.'
+resources:
+- title: Informazioni sul rinnovo della certificazione
+  summary: Comprensione del processo e requisiti per rinnovare le certificazioni online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

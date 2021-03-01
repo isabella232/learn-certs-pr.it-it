@@ -35,6 +35,7 @@ Trova le certificazioni il cui ritiro è programmato nei prossimi 12 mesi. (Le i
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Esami che saranno ritirati il 31 gennaio 2021 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Esami che saranno ritirati il 31 gennaio 2021 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Verrà Ritirato il 30 Giugno 2021 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Verrà Ritirato il 30 Giugno 2021 |
 
 ## Retired certifications
 

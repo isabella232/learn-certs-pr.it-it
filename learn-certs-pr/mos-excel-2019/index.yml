@@ -1,0 +1,43 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Excel Associate (Excel and Excel 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: Excel Associate (Excel and Excel 2019)'
+  description: 'Dimostra di avere le competenze necessarie per ottenere il massimo da Excel ottenendo la certificazione di Microsoft Office Specialist: Excel Associate.'
+uid: certification.mos-excel-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Dimostra di avere le competenze necessarie per ottenere il massimo da Excel ottenendo la certificazione di Microsoft Office Specialist&#58; Excel Associate. Questa certificazione dimostra competenza nei fondamenti della creazione e gestione di fogli di lavoro e cartelle di lavoro, creazione di celle e intervalli, creazione di tabelle, applicazione di formule e funzioni e creazione di grafici e oggetti.
+
+  Un candidato che ottiene questa certificazione ha seguito circa 150 ore di corsi teorici e laboratori pratici relativi al prodotto, ha dimostrato competenza a livello di tecnico del settore ed è pronto ad affacciarsi nel mercato del lavoro. Sa dimostrare di sapere applicare correttamente le principali funzionalità di Excel ed è in grado di svolgere la sua attività in modo indipendente.
+subTitle: 'Dimostra di avere le competenze necessarie per ottenere il massimo da Excel ottenendo la certificazione di Microsoft Office Specialist: Excel Associate.'
+levels:
+- intermediate
+skills:
+- Gestire fogli e cartelle di lavoro
+- Gestire celle e intervalli di dati
+- Gestire tabelle e i dati delle tabelle
+- Eseguire operazioni usando formule e funzioni
+- Gestire grafici
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-excel
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WKkC
+exams:
+- uid: exam.mo-200
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+
