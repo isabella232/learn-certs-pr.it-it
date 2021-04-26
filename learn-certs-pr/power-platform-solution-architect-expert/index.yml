@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Power Platform Solution Architect Expert'
-  description: Questa certificazione sarà disponibile a Marzo 2021. I Power Platform Solution Architect Experts lavorano con le relative interfacce e si focalizzano su soluzioni che abbiano effetto sulle esigenze tecniche e di business della loro organizzazione.
+  description: Gli architetti di soluzioni di Power Platform lavorano con le relative interfacce e si focalizzano su soluzioni che abbiano effetto sulle esigenze tecniche e di business della loro organizzazione. I candidati devono avere una conoscenza funzionale e tecnica di Power Platform, delle app Dynamics 365 per il coinvolgimento dei clienti, delle soluzioni Microsoft cloud correlate e delle tecnologie di terze parti.
 uid: certification.power-platform-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -12,11 +12,9 @@ summary: |-
   
   Se necessiti di ulteriore esperienza prima di provare a ottenere questa certificazione, ecco alcuni suggerimenti&#58;
   - Lavora come (o affianca) un architetto di soluzioni su progetti Power Platform.
-  - Iscriviti a un corso di formazione con docente
+  - Iscriviti a un corso di formazione con docente.
   - Consulta i percorsi di apprendimento disponibili su [Microsoft Learn](/learn/paths/become-solution-architect/).
-  
-  <div><font color='red'><strong>Nota&#58; Questa certificazione sarà disponibile a Marzo 2021.</strong></font></div>
-subTitle: Questa certificazione sarà disponibile a Marzo 2021. Gli architetti di soluzioni di Power Platform lavorano con le relative interfacce e si focalizzano su soluzioni che abbiano effetto sulle esigenze tecniche e di business della loro organizzazione. I candidati devono avere una conoscenza funzionale e tecnica di Power Platform, delle app Dynamics 365 per il coinvolgimento dei clienti, delle soluzioni Microsoft cloud correlate e delle tecnologie di terze parti.
+subTitle: Gli architetti di soluzioni di Power Platform lavorano con le relative interfacce e si focalizzano su soluzioni che abbiano effetto sulle esigenze tecniche e di business della loro organizzazione. I candidati devono avere una conoscenza funzionale e tecnica di Power Platform, delle app Dynamics 365 per il coinvolgimento dei clienti, delle soluzioni Microsoft cloud correlate e delle tecnologie di terze parti.
 levels:
 - advanced
 skills:

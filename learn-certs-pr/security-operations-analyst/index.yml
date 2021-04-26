@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security Operations Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Security Operations Analyst Associate'
+  description: Il Security Analyst delle Operations Microsoft collabora con gli altri membri dell'organizzazione per proteggere i sistemi informatici dell'organizzazione. Il loro obiettivo congiunto è ridurre il rischio organizzativo ponendo rapidamente rimedio agli attacchi in corso nell'ambiente, fornendo consulenza sui miglioramenti alle pratiche di protezione dalle minacce e riportando agli stakeholder appropriati le eventuali violazioni delle politiche organizzative.
+uid: certification.security-operations-analyst
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Il Security Analyst delle Operations Microsoft collabora con gli altri membri dell'organizzazione per proteggere i sistemi informatici dell'organizzazione. Il loro obiettivo congiunto è ridurre il rischio organizzativo ponendo rapidamente rimedio agli attacchi in corso nell'ambiente, fornendo consulenza sui miglioramenti alle pratiche di protezione dalle minacce e riportando agli stakeholder appropriati le eventuali violazioni delle politiche organizzative.
+  
+  Le responsabilità includono la gestione, il monitoraggio e la risposta alle minacce utilizzando molteplici soluzioni di sicurezza nel loro ambiente. La figura principalmente investiga, risponde e ricerca le minacce utilizzando Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender e prodotti per la sicurezza di terze parti. Poiché il Security Analyst delle Operations processa continuamente l'output operativo di questi tool, diventa anche uno stakeholder critico nella configurazione e nell'implementazione di tali tecnologie.
+subTitle: Il Security Analyst delle Operations Microsoft collabora con gli altri membri dell'organizzazione per proteggere i sistemi informatici dell'organizzazione. Il loro obiettivo congiunto è ridurre il rischio organizzativo ponendo rapidamente rimedio agli attacchi in corso nell'ambiente, fornendo consulenza sui miglioramenti alle pratiche di protezione dalle minacce e riportando agli stakeholder appropriati le eventuali violazioni delle politiche organizzative.
+levels:
+- intermediate
+skills:
+- Mitigare le minacce utilizzando Microsoft 365 Defender
+- Mitiga le minacce utilizzando Azure Defender
+- Mitiga le minacce utilizzando Azure Sentinel
+roles:
+- security-engineer
+- security-operations-analyst
+type: role-based
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+courses:
+- uid: course.sc-200t00
+paths:
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
+- uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
+- uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
+- uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
+- uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
+- uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
+- uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp4
+exams:
+- uid: exam.sc-200
+resources:
+- title: Poster di certificazione
+  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md

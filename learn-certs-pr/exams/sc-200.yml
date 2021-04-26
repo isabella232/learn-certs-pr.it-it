@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: 'Microsoft Security Operations Analyst (beta)'
+metadata:
+  title: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+  description: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+uid: exam.sc-200
+displayName: SC-200
+summary: |-
+  Il Security Analyst delle Operations Microsoft collabora con gli altri membri dell'organizzazione per proteggere i sistemi informatici dell'organizzazione. Il loro obiettivo congiunto è ridurre il rischio organizzativo ponendo rapidamente rimedio agli attacchi in corso nell'ambiente, fornendo consulenza sui miglioramenti alle pratiche di protezione dalle minacce e riportando agli stakeholder appropriati le eventuali violazioni delle politiche organizzative.
+  
+  Le responsabilità includono la gestione, il monitoraggio e la risposta alle minacce utilizzando molteplici soluzioni di sicurezza nel loro ambiente. La figura principalmente investiga, risponde e ricerca le minacce utilizzando Microsoft Azure Sentinel, Azure Defender, Microsoft 365 Defender e prodotti per la sicurezza di terze parti. Poiché il Security Analyst delle Operations processa continuamente l'output operativo di questi tool, diventa anche uno stakeholder critico nella configurazione e nell'implementazione di tali tecnologie.
+  
+  <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
+subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: mitigare le minacce utilizzando Microsoft 365 Defender; mitigare le minacce utilizzando Azure Defender e mitigare le minacce utilizzando Azure Sentinel.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=SC-200&examname=Exam%20SC-200:%20Microsoft%20Security%20Operations%20Analyst&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-200
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Mitigare le minacce utilizzando Microsoft 365 Defender (25-30%)
+- Mitiga le minacce utilizzando Azure Defender (25-30%)
+- Mitiga le minacce utilizzando Azure Sentinel (40-45%)
+roles:
+- security-engineer
+- security-operations-analyst
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+courses:
+- uid: course.sc-200t00
+paths:
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
+- uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
+- uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
+- uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
+- uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
+- uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
+- uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
+relatedCertifications:
+- related:
+    uid: certification.security-operations-analyst
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: ../deals.md
+- title: Assistenza per gli esami di certificazione
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere un alloggio per il tuo esame.
+  href: ../request-accommodations.md
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
+  href: ../certification-exam-policies.md
