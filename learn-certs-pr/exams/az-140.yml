@@ -13,7 +13,7 @@ summary: |-
   I candidati per questo esame devono possedere competenze di amministrazione di Azure a livello "esperto".
   
   <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
-subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: pianificare un'architettura Windows Virtual Desktop; implementare un'infrastruttura Windows Virtual Desktop; gestire l'accesso e la sicurezza; gestire ambienti utente e app; monitorare e manutenere un'infrastruttura Windows Virtual Desktop.'
+subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: pianificare un'architettura Windows Virtual Desktop; implementare un'infrastruttura Windows Virtual Desktop; gestire l'accesso e la sicurezza; gestire ambienti utente e app; monitorare e manutenere un'infrastruttura Windows Virtual Desktop."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Windows%20Virtual%20Desktop%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
