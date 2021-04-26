@@ -1,0 +1,69 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals'
+  description: 'Dimostra di conoscere Microsoft Azure e Microsoft 365 e comprendi come le soluzioni Microsoft per la sicurezza, la compliance e le identità possono essere applicate in questi ambiti di soluzioni per fornire una soluzione end-to-end e olistica.'
+uid: certification.security-compliance-and-identity-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Questa certificazione è rivolta a coloro che desiderano acquisire familiarità con i fondamenti della sicurezza, della compliance e della gestione delle identità (SCI) all'interno dei servizi Microsoft basati su cloud e correlati.
+  
+  Si tratta di un pubblico vasto che può includere funzioni aziendali, professionisti IT alla prima esperienza o esperti oppure studenti interessati alle soluzioni Microsoft per la sicurezza, la compliance e la gestione delle identità.
+  
+  I candidati devono avere un'adeguata conoscenza di Microsoft Azure e Microsoft 365 e comprendere come le soluzioni Microsoft per la sicurezza, la compliance e la gestione delle identità possono essere applicate a questi ambiti di soluzioni per fornire una soluzione end-to-end e olistica.
+subTitle: Dimostra di conoscere Microsoft Azure e Microsoft 365 e comprendi come le soluzioni Microsoft per la sicurezza, la compliance e le identità possono essere applicate in questi ambiti di soluzioni per fornire una soluzione end-to-end e olistica.
+levels:
+- beginner
+skills:
+- Describe the concepts of security, compliance, and identity 
+- Describe the capabilities of Microsoft identity and access management solutions 
+- Describe the capabilities of Microsoft security solutions 
+- Describe the capabilities of Microsoft compliance solutions
+roles:
+- business-user
+- student
+type: fundamentals
+products:
+- azure
+- azure-active-directory
+- azure-bastion
+- azure-blueprints
+- azure-ddos-protection
+- azure-firewall
+- azure-policy
+- azure-security-center
+- azure-sentinel
+- azure-web-application-firewall
+- m365
+- mem-intune
+- m365-ems-cloud-app-security
+- m365-threat-protection
+- m365-security-score
+- m365-security-center
+- mdatp
+- mem
+- office-365-atp
+paths:
+- uid: learn.wwl.describe-concepts-of-security-compliance-identity
+- uid: learn.wwl.describe-capabilities-of-microsoft-identity-access-management-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-security-solutions
+- uid: learn.wwl.describe-capabilities-of-microsoft-compliance-solutions
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
+exams:
+- uid: exam.sc-900
+resources:
+- title: Poster di certificazione
+  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md

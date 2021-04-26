@@ -1,0 +1,79 @@
+### YamlMime:Examination
+title: 'Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+metadata:
+  title: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+  description: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+uid: exam.az-140
+displayName: AZ-140
+summary: |-
+  I candidati per questo esame sono amministratori di Azure con esperienza in materia di pianificazione, distribuzione e gestione di esperienze di virtual desktop e app remote, per qualsiasi dispositivo, su Azure.
+  
+  I candidati per questo esame devono possedere esperienza nelle tecnologie di Azure, tra cui virtualizzazione, networking, identità, archiviazione, backup, resilienza e ripristino di emergenza. Devono conoscere le tecnologie dell'infrastruttura virtual desktop locale in relazione alla migrazione a Windows Virtual Desktop. Tali professionisti devono saper utilizzare il portale di Azure e i modelli di Azure Resource Manager (ARM) per svolgere molte delle loro attività. Per un'automazione più efficiente potrebbero utilizzare PowerShell e Azure Command-Line Interface (CLI).
+  
+  I candidati per questo esame devono possedere competenze di amministrazione di Azure a livello "esperto".
+  
+  <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
+subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: pianificare un'architettura Windows Virtual Desktop; implementare un'infrastruttura Windows Virtual Desktop; gestire l'accesso e la sicurezza; gestire ambienti utente e app; monitorare e manutenere un'infrastruttura Windows Virtual Desktop.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Windows%20Virtual%20Desktop%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Pianificare un'architettura Windows Virtual Desktop (10-15%)
+- Implementare un'infrastruttura Windows Virtual Desktop (25-30%)
+- Gestire l'accesso e la sicurezza (10-15%)
+- Gestire ambienti utente e app (20-25%)
+- Monitorare e manutenere un'infrastruttura Windows Virtual Desktop (20-25%)
+roles:
+- administrator
+products:
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- azure-virtual-machines
+- azure-virtual-machines-windows
+- azure-netapp-files
+- azure-files
+- azure-bastion
+- azure-portal
+- windows-server
+- azure-clis
+- azure-resource-manager
+- azure-rbac
+- azure-policy
+- azure-security-center
+- m365-security-center
+- mem
+- office-onedrive
+- office-teams
+- azure-monitor
+- azure-advisor
+- windows-virtual-desktop
+relatedCertifications:
+- related:
+    uid: certification.windows-virtual-desktop-specialty
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: ../deals.md
+- title: Assistenza per gli esami di certificazione
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere un alloggio per il tuo esame.
+  href: ../request-accommodations.md
+- title: Criteri dell'esame e domande frequenti
+  description: Consulta i criteri dell’esame e le domande frequenti.
+  href: ../certification-exam-policies.md
