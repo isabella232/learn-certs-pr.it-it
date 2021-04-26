@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Information Protection Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Information Protection Administrator Associate'
+  description: L'Amministratore della Protezione delle Informazioni pianifica e implementa i controlli che soddisfano le esigenze di compliance dell'organizzazione. Questa figura è responsabile di tradurre i requisiti e i controlli di compliance in implementazione tecnica. Coadiuvano gli owner del controllo organizzativo a raggiungere e mantenere la compliance.
+uid: certification.information-protection-administrator 
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  L'Amministratore della Protezione delle Informazioni pianifica e implementa i controlli che soddisfano le esigenze di compliance dell'organizzazione. Questa figura è responsabile di tradurre i requisiti e i controlli di compliance in implementazione tecnica. Coadiuvano gli owner del controllo organizzativo a raggiungere e mantenere la compliance.
+  
+  Collabora con il personale IT (Information Technology), con gli owner delle applicazioni aziendali, con le risorse umane e gli stakeholder legali per implementare quelle tecnologie che supportino le politiche e i controlli necessari per soddisfare in modo adeguato i requisiti normativi dell'organizzazione. Lavora anche con la leadership della compliance e della sicurezza in qualità di Chief Compliance Officer e Security Officer al fine di valutare l'estensione completa del rischio aziendale associato e collabora allo sviluppo di tali politiche.
+  
+  Questa figura definisce i requisiti applicabili e verifica i processi e le procedure operative IT rispetto a tali politiche e controlli. È responsabile della creazione di politiche e regole per la classificazione dei contenuti, la prevenzione della perdita di dati, la governance e la protezione.
+subTitle: L'Amministratore della Protezione delle Informazioni pianifica e implementa i controlli che soddisfano le esigenze di compliance dell'organizzazione. Questa figura è responsabile di tradurre i requisiti e i controlli di compliance in implementazione tecnica. Coadiuvano gli owner del controllo organizzativo a raggiungere e mantenere la compliance.
+levels:
+- intermediate
+skills:
+- Implementare la protezione delle informazioni
+- Implementare la prevenzione della perdita di dati
+- Implementare la governance delle informazioni
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+type: role-based
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+courses:
+- uid: course.sc-400t00
+paths:
+- uid: learn.wwl.implement-information-protection
+- uid: learn.wwl.implement-data-loss-prevention
+- uid: learn.wwl.implement-information-governance
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp6
+exams:
+- uid: exam.sc-400
+resources:
+- title: Poster di certificazione
+  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md

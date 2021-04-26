@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Identity and Access Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Identity and Access Administrator Associate'
+  description: L'Amministratore di Identità e Accessi Microsoft progetta, implementa e gestisce i sistemi di gestione dell'identità e degli accessi di un'organizzazione utilizzando Azure AD. Gestisce attività quali fornire autenticazioni sicure e accessi autorizzati alle applicazioni aziendali.
+uid: certification.identity-and-access-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  L'Amministratore di Identità e Accessi Microsoft progetta, implementa e gestisce i sistemi di gestione dell'identità e degli accessi di un'organizzazione utilizzando Azure AD. Gestisce attività quali fornire autenticazioni sicure e accessi autorizzati alle applicazioni aziendali. L'amministratore si adopera per garantire l'utilizzo senza interruzioni e la piena funzionalità di gestione self-service per tutti gli utenti. L'accesso e la governance adattivi sono elementi fondamentali di questo ruolo. Questo ruolo è responsabile anche della risoluzione dei problemi, del monitoraggio e del reporting per l'ambiente di gestione delle identità e degli accessi.
+  
+  L'Amministratore di Identità e Accessi può essere un singolo individuo o un membro di un team più esteso. Chi ricopre questo ruolo collabora con molte altre figure dell'organizzazione per gestore progetti strategici sulle identità al fine di modernizzare le soluzioni per le identità, implementare soluzioni ibride di identità e implementare la governance dell'identità.
+subTitle: L'Amministratore di Identità e Accessi Microsoft progetta, implementa e gestisce i sistemi di gestione dell'identità e degli accessi di un'organizzazione utilizzando Azure AD. Gestisce attività quali fornire autenticazioni sicure e accessi autorizzati alle applicazioni aziendali.
+levels:
+- advanced
+skills:
+- Implementare una soluzione di gestione delle identità
+- Implementare una soluzione di autenticazione e gestione degli accessi
+- Implementare la gestione degli accessi per le app
+- Pianificare e mettere in atto una strategia di governance dell'identità
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr7Z
+exams:
+- uid: exam.sc-300
+resources:
+- title: Poster di certificazione
+  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md

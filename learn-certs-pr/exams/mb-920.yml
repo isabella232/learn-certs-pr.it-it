@@ -8,36 +8,45 @@ displayName: MB-920
 summary: |-
   L'argomento d'esame sono le funzionalità delle app finanziarie e operative Microsoft Dynamics 365.
   
-  I candidati a questo esame dovrebbero avere conoscenze generali o esperienza lavorativa in un ambiente di Tecnologia Informatica (IT).  Dovrebbero inoltre avere una comprensione fondamentale dei principi finanziari e delle operazioni aziendali.
+  I candidati a questo esame dovrebbero avere conoscenze generali o esperienza lavorativa in un ambiente di Tecnologia Informatica (IT). Dovrebbero inoltre avere una comprensione fondamentale dei principi finanziari e delle operazioni aziendali.
   
-  <div><br/><strong>Nota&#58; Questa certificazione sarà disponibile a febbraio 2021.</strong></div>
-subTitle: 'Questo esame sarà disponibile a febbraio 2021. Questo esame misura la tua capacità di descrivere quanto segue: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; Operazioni relative al Progetto; Dynamics 365 Business Central; e funzionalità condivise.'
+  <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
+subTitle: 'Questo esame misura la tua capacità di esporre quanto segue: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; Avanzamento del Progetto e caratteristiche condivise.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20Finance%20and%20Operations%20Apps%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
 locales:
 - en
 levels:
 - beginner
 skills:
 - Descrizione di Dynamics 365 Supply Chain Management (25-30%)
-- Descrizione di  Dynamics Finance (25-30%)
-- Descrizione di  Dynamics 365 Commerce (10-15%)
-- Descrizione di  Dynamics 365 Human Resources (5-10%)
+- Descrizione di Dynamics Finance (20-25%)
+- Descrizione di Dynamics 365 Commerce (10-15%)
+- Descrizione di Dynamics 365 Human Resources (5-10%)
 - Descrizione di Project Operations (10-15%)
-- Descrizione di Dynamics 365 Business Central (5-10%)
 - Descrizione delle funzionalità condivise (10-15%)
 roles:
 - business-owner
 - business-user
 - functional-consultant
 - student
-products: 
+products:
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 relatedCertifications:
 - related:
     uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 resources:
+- title: Percorso di formazione per la certificazione
+  description: Risorse di formazione consigliate a supporto della preparazione degli esami richiesti e il conseguimento della certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
