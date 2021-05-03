@@ -48,18 +48,18 @@ Per aiutarti nella preparazione e essere sicuro di poterti registrare e sostener
 	2. [Effettua un controllo di sistema](https://syscheck.bridge.psiexams.com/) sullo stesso computer e nella stessa location in cui eseguirai il test.
 2. Assicurati di disporre di un account Microsoft
 	1. Se hai già ottenuto una certificazione Microsoft o hai già sostenuto un esame di certificazione Microsoft, utilizza lo stesso account Microsoft.  
-	2. Se non hai ancora un account Microsoft, [creane uno](https://account.microsoft.com/account/manage-my-account).
+	2. Se non hai ancora un account Microsoft, [creane uno.](https://account.microsoft.com/account/manage-my-account)
 3. Se non disponi di un profilo di certificazione Microsoft, dovrai crearne uno al momento della programmazione dell'esame. <br/>**Importante:** Quando crei il tuo profilo di certificazione, assicurati che il tuo nome corrisponda esattamente a quello sul documento identificativo rilasciato dall’autorità preposta che utilizzerai quando sosterrai l'esame. Il responsabile confronterà il nome sul tuo documento d'identità con il nome del tuo profilo di certificazione come parte del processo di verifica dell'identificazione. Ulteriori informazioni su [requisiti di verifica dell'identità](/learn/certifications/online-exams-psi#identity-verification-requirements).
 
-Se hai bisogno di aiuto, visita il [Forum di supporto per le certificazioni Microsoft](https://aka.ms/mcpforum). Per contattare l’assistenza clienti, fai clic su *Fai una domanda* in alto alla pagina e compila il modulo. L’assistenza dovrebbe rispondere entro 1 giorno lavorativo.
+Se hai bisogno di aiuto, visita il [Forum di supporto per le certificazioni Microsoft.](https://aka.ms/mcpforum) Per contattare l’assistenza clienti, fai clic su *Fai una domanda* in alto alla pagina e compila il modulo. L’assistenza dovrebbe rispondere entro 1 giorno lavorativo.
 
 ## FAQ
 
-Per domande e risposte comuni sugli esami online con PSI, vedi [Domande e risposte sugli esami online sulla pagina PSI](/learn/certifications/online-exams-psi#frequently-asked-questions). Per domande generali e risposte sull'iniziativa delle competenze, vedi [Domande frequenti sull'iniziativa delle competenze](https://aka.ms/JobSeekerFAQ).
+Per domande e risposte comuni sugli esami online con PSI, vedi [Domande e risposte sugli esami online sulla pagina PSI](/learn/certifications/online-exams-psi#frequently-asked-questions). Per domande generali e risposte sull'iniziativa delle competenze, vedi [Domande frequenti sull'iniziativa delle competenze.](https://aka.ms/JobSeekerFAQ)
 
 ## <a name="terms-conditions"></a> Termini e condizioni
 
-- Quest’offerta d’esame è disponibile per i candidati che possono attestare di essere rimasti disoccupati o licenziati a causa del COVID-19.
+- Questo esame è pensato per i disoccupati in grado di certificare di aver perso il lavoro o essere stati messi in cassa integrazione a causa del COVID-19 e gli studenti che seguono concretamente un corso di scuola superiore, una laurea breve o magistrale o un altro programma di formazione tecnica professionale.
 - Devi avere almeno 18 anni per accedere e utilizzare quest’offerta d'esame.
 - Quest’offerta d'esame è disponibile per un numero limitato di persone idonee e di appuntamenti d'esame.
 - Quest’offerta d'esame ti dà diritto ad iscriverti e a partecipare a un (1) esame di certificazione Microsoft valido a un prezzo scontato speciale di 15 USD per un periodo di tempo limitato. L'offerta scade il 31 dicembre 2021.
@@ -75,4 +75,4 @@ Per domande e risposte comuni sugli esami online con PSI, vedi [Domande e rispos
 
 *&#42;Gli esami devono essere programmati con 24 ore di anticipo. Pertanto, qualora si volesse sostenere un esame l'ultimo giorno dell'offerta, ovvero il 31 dicembre 2021, bisognerà programmare entro il 30 dicembre 2021.*
 
-Per ulteriori informazioni, leggi la versione completa dei [Termini di utilizzo di Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx).
+Per ulteriori informazioni, leggi la versione completa dei [Termini di utilizzo di Microsoft.](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx)

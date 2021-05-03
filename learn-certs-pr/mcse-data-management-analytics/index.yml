@@ -78,4 +78,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Condividi i badge delle tue certificazioni
+  description: Festeggia i tuoi successi con la tua rete. Richiedi il tuo badge Microsoft Certification e aggiungilo a LinkedIn, al tuo CV e ad altro ancora.
+  href: ../badges.md
 
