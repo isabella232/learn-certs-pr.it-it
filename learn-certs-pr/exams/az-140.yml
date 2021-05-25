@@ -12,7 +12,7 @@ summary: |-
   
   I candidati per questo esame devono possedere competenze di amministrazione di Azure a livello "esperto".
   
-  <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
+  <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
 subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: pianificare un'architettura Windows Virtual Desktop; implementare un'infrastruttura Windows Virtual Desktop; gestire l'accesso e la sicurezza; gestire ambienti utente e app; monitorare e manutenere un'infrastruttura Windows Virtual Desktop."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
@@ -58,10 +58,10 @@ relatedCertifications:
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
