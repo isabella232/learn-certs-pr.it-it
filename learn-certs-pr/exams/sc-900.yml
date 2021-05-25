@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+title: 'Microsoft Security, Compliance, and Identity Fundamentals'
 metadata:
-  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
-  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
@@ -11,8 +11,6 @@ summary: |-
   Si tratta di un pubblico vasto che può includere funzioni aziendali, professionisti IT alla prima esperienza o esperti oppure studenti interessati alle soluzioni Microsoft per la sicurezza, la compliance e la gestione delle identità.
   
   I candidati devono avere un'adeguata conoscenza di Microsoft Azure e Microsoft 365 e comprendere come le soluzioni Microsoft per la sicurezza, la compliance e la gestione delle identità possono essere applicate a questi ambiti di soluzioni per fornire una soluzione end-to-end e olistica.
-  
-  <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
 subTitle: 'Questo esame misura la tua capacità di descrivere quanto segue: concetti di sicurezza, compliance e identità; funzionalità delle soluzioni Microsoft per la gestione delle identità e degli accessi; funzionalità delle soluzioni Microsoft per la sicurezza e funzionalità delle soluzioni Microsoft per la compliance.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
@@ -60,10 +58,10 @@ relatedCertifications:
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

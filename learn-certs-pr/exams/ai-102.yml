@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Designing and Implementing a Microsoft Azure AI Solution (beta)
+title: Designing and Implementing a Microsoft Azure AI Solution
 metadata:
-  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
-  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution'
+  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution'
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
   I candidati all'Esame AI-102 devono avere esperienza nella creazione, gestione e implementazione di soluzioni AI che sfruttino Azure Cognitive Services, Azure Cognitive Search, e la Struttura di Microsoft Bot.
   
   I candidati a questo esame devono essere esperti in C#, Python o JavaScript e devono saper usare API e SDK basati su REST per creare soluzioni di visione artificiale, elaborare il linguaggio naturale, knowledge mining e soluzioni di AI conversazionale su Azure. Devono inoltre comprendere i componenti che compongono il portfolio di Azure AI e le opzioni di archiviazione dei dati disponibili. Inoltre, i candidati devono comprendere ed essere in grado di applicare i principi di AI responsabile.
-  
-  <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
 subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: pianificare e gestire soluzioni Azure Cognitive Services; implementare soluzioni di Visione Artificiale; implementare soluzioni di elaborazione del linguaggio naturale; implementare soluzioni di knowledge mining e implementare soluzioni di AI conversazionale"
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
@@ -64,10 +62,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

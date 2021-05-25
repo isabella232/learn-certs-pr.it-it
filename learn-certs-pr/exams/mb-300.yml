@@ -7,14 +7,14 @@ uid: exam.mb-300
 displayName: MB-300
 summary: |-
   <div>
-  <div><strong>Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong></font><br/><br/></div>
   </div>
-
+  
   I candidati a questo esame analizzano i requisiti aziendali e traducono tali requisiti in processi e soluzioni pienamente realizzate che implementano le migliori pratiche del settore. I candidati sono la risorsa chiave per l'implementazione e la configurazione delle applicazioni per soddisfare i requisiti aziendali.
   <br/>
-
+  
   I candidati comprendono le caratteristiche e le capacità comuni delle app Finance and Operations e come configurarle e utilizzarle. Dovrebbero anche essere consapevoli di come le app Finance and Operations si integrano con sistemi e strumenti esterni, incluso Power Platform. Il candidato gestisce attivamente i cicli di vita delle applicazioni utilizzando Lifecycle Services (LCS) e altri strumenti e piattaforme Microsoft.
-
+  
   I candidati a questo esame in genere sono specializzati in una o più funzionalità delle app Finance and Operations, tra cui finanza, produzione e gestione della catena di fornitura.
 subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività: utilizzare funzionalità e strumenti di implementazione comuni; configurare sicurezza, processi e opzioni; gestire i dati finanziari e operativi; e convalidare e supportare la soluzione.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -42,6 +42,7 @@ exams:
 - uid: exam.mb-310
 - uid: exam.mb-320
 - uid: exam.mb-330
+- uid: exam.mb-340
 courses:
 - uid: course.mb-300t00
 paths:
@@ -52,16 +53,16 @@ paths:
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-financials
-- related:
     uid: certification.d365-functional-consultant-manufacturing
+- related:
+    uid: certification.d365-functional-consultant-commerce
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

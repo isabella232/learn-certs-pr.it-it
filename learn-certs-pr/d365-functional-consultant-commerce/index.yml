@@ -1,0 +1,58 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+  description: "I Consulenti Funzionali di Dynamics 365 Commerce configurano e utilizzano le funzionalità dell'applicazione all'interno di Dynamics 365 Commerce e forniscono supporto per l'applicazione."
+uid: certification.d365-functional-consultant-commerce
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se sei un Consulente Funzionale, uno sviluppatore, se ti occupi di informazione o se sei un professionista IT o di business che utilizza Dynamics 365 Commerce per supportare il tuo team e la tua organizzazione, questa certificazione potrebbe contribuire a dare slancio alla tua carriera. Come candidato per questa certificazione, devi essere in grado di configurare, implementare ed eseguire manutenzione sulle applicazioni Dynamics 365 Commerce.
+  
+  I candidati devono avere una conoscenza approfondita delle commerce business operations unificate. Devono saper configurare gli Headquarter in Dynamics 365 Commerce; configurare e gestire i call center in Commerce, gestire i punti vendita (POS) in Commerce, gestire l'e-commerce e configurare prodotti, prezzi, sconti, programmi fedeltà e affiliazioni.
+  
+  Se avete bisogno di acquisire una maggiore esperienza prima di provare a conseguire questa certificazione, ecco alcuni suggerimenti&#58;
+  
+  - Lavorare con un consulente funzionale su alcuni progetti Dynamics 365 Commerce.
+  - Seguire percorsi di apprendimento autodidattici su Microsoft Learn.
+  - Iscriversi a un corso di formazione con docente.
+subTitle: "I Consulenti Funzionali di Dynamics 365 Commerce configurano e utilizzano le funzionalità dell'applicazione all'interno di Dynamics 365 Commerce e forniscono supporto per l'applicazione."
+levels:
+- intermediate
+skills:
+- Configurare gli Headquarter in Dynamics 365 Commerce
+- Configurare prodotti, prezzi, sconti, programmi fedeltà e affiliazioni
+- Gestire i punti vendita (POS) in Dynamics 365 Commerce
+- Configurare e gestire i call center in Dynamics 365 Commerce
+- Gestire l'e-commerce
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-340
+resources:
+- title: Poster di certificazione
+  description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Condividi i badge delle tue certificazioni
+  description: Festeggia i tuoi successi con la tua rete. Richiedi il tuo badge Microsoft Certification e aggiungilo a LinkedIn, al tuo CV e ad altro ancora.
+  href: ../badges.md

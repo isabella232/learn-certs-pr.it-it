@@ -12,7 +12,7 @@ summary: |-
   
   I candidati per questa certificazione devono possedere esperienza nelle tecnologie di Azure, tra cui virtualizzazione, networking, identità, archiviazione, backup, resilienza e ripristino di emergenza. Devono conoscere le tecnologie dell'infrastruttura virtual desktop locale in relazione alla migrazione a Windows Virtual Desktop. Tali professionisti devono saper utilizzare il portale di Azure e i modelli di Azure Resource Manager (ARM) per svolgere molte delle loro attività. Per un'automazione più efficiente potrebbero utilizzare PowerShell e Azure Command-Line Interface (CLI).
   
-  I candidati per questa certificazione devono possedere competenze di amministrazione di Azure a livello "esperto"
+  I candidati per questa certificazione devono possedere competenze di amministrazione di Azure a livello "esperto".
 subTitle: I candidati per la certificazione Windows Virtual Desktop Specialty sono amministratori di Microsoft Azure con esperienza in materia di pianificazione, distribuzione e gestione di esperienze di virtual desktop e app remote, per qualsiasi dispositivo, su Azure.
 levels:
 - intermediate
@@ -57,10 +57,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
