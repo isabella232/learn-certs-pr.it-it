@@ -7,13 +7,13 @@ uid: certification.azure-developer
 certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  I candidati alla certificazione Azure Developer Associate dovrebbero avere esperienza in materia di progettazione, costruzione, test e manutenzione di applicazioni e servizi cloud su Microsoft Azure.
-
-  Le responsabilità di questo ruolo includono la partecipazione a tutte le fasi dello sviluppo del cloud dalla definizione e progettazione dei requisiti, allo sviluppo, distribuzione e manutenzione, ottimizzazione delle prestazioni e monitoraggio.
-
-  Gli Azure Developer collaborano con architetti di soluzioni cloud, DBA cloud, amministratori cloud e client per implementare soluzioni.
-
-  Un candidato per questa certificazione dovrebbe avere 1-2 anni di esperienza di sviluppo professionale ed esperienza con Microsoft Azure. Inoltre, in questo ruolo si dovrebbe avere capacità di programmazione in un linguaggio supportato da Azure e competenza negli SDK di Azure, opzioni di archiviazione dei dati, connessioni dati, API, autenticazione e autorizzazione delle app, distribuzione di calcoli e container, debug, ottimizzazione delle prestazioni e monitoraggio.
+  I candidati per la certificazione Azure Developer Associate dovrebbero essere in possesso di competenze specifiche in materia di progettazione, costruzione, test e manutenzione di applicativi e servizi cloud su Microsoft Azure.
+  
+  Le responsabilità per questo ruolo includono la partecipazione in tutte le fasi dello sviluppo su cloud, da requisiti, definizione e progettazione; a sviluppo, distribuzione e manutenzione; a ottimizzazione delle prestazioni e monitoraggio.
+  
+  Gli sviluppatori Azure collaborano con solution architect su cloud, cloud DBA, amministratori cloud e clienti per implementare le proprie soluzioni.
+  
+  Il candidato per questa certificazione dovrebbe avere 1-2 anni di esperienza nel campo dello sviluppo professionale ed esperienza con Microsoft Azure. Inoltre, il candidato per questo ruolo dovrebbe essere in grado di programmare in un linguaggio supportato da Azure ed avere competenze nel campo di Azure SDK, Azure PowerShell, Azure CLI, opzioni di archiviazione dati, connessioni dati, APIs, autenticazione e autorizzazione di app, calcolo e distribuzione di container, debugging, regolazione delle prestazioni e monitoraggio.
 subTitle: Gli Azure Developer progettano, costruiscono, testano ed effettuano la manutenzione di applicazioni e servizi cloud.
 levels:
 - intermediate
@@ -65,10 +65,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

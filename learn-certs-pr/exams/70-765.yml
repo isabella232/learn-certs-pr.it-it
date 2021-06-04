@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-765
 displayName: 70-765
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è destinato ad architetti, sviluppatori senior, specialisti di infrastrutture e responsabili dello sviluppo. I candidati hanno una conoscenza pratica dei vari modelli di servizi cloud e delle architetture di modelli di servizi, delle opzioni di archiviazione dei dati e delle tecniche di sincronizzazione dei dati. Dispongono inoltre di una conoscenza pratica dei modelli di distribuzione, aggiornamento e migrazione di database, applicazioni e servizi, oltre che dell'integrazione delle applicazioni Azure con risorse esterne.
 
@@ -17,7 +15,6 @@ subTitle: Questo esame è destinato ad architetti, sviluppatori senior, speciali
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7mn
 practiceTestUrl: https://www.mindhub.com/70-765-Provisioning-SQL-Databases-p/mu-70-765_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=765&examname=Provisioning%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-765
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - Implementare SQL in Azure (40-45%)
 - Gestire database e istanze (30-35%)
 - Gestisci archiviazione (30-35%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

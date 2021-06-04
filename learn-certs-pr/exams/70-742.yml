@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-742
 displayName: 70-742
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   I candidati idonei per questo esame gestiscono le identità utilizzando le funzionalità in Windows Server 2016. I candidati installano, configurano, gestiscono e mantengono i servizi di dominio Active Directory (AD DS) e implementano gli oggetti Criteri di gruppo (GPO).
 
@@ -19,7 +17,6 @@ subTitle: I candidati idonei per questo esame gestiscono le identità utilizzand
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
 practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=742&examname=Identity%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-742
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - Creare e gestire Criteri di gruppo (25-30%)
 - Implementare Servizi certificati Active Directory (AD CS) (10-15%)
 - Implementare Federazione delle identità e soluzioni di accesso (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

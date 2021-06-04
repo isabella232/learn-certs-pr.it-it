@@ -6,8 +6,7 @@ metadata:
 uid: exam.ms-203
 displayName: MS-203
 summary: |-
-  <div>
-  <div><strong>Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 23 marzo 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
   </div>
   
   I candidati a questo esame sono i Messaging Administrator che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti ibridi sia nei cloud aziendali.
@@ -20,14 +19,14 @@ summary: |-
 subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: gestire le impostazioni e le risorse dell'organizzazione, pianificare e gestire l'architettura della posta, pianificare e implementare una configurazione e migrazione ibrida e proteggere l'ambiente di messaggistica."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
-practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica la presentazione delle competenze d'esame per vedere che cosa verrà variato.
+- Il contenuto di questo esame è stato aggiornato il 23 marzo 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei cambiamenti apportati. 
 - Gestire le impostazioni e le risorse dell'organizzazione (30-35%)
 - Pianificare e gestire l'architettura della posta (20-25%)
 - Pianificare e implementare una configurazione e una migrazione ibride (20-25%)
@@ -48,10 +47,10 @@ relatedCertifications:
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

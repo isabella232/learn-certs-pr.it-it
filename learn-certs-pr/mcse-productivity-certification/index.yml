@@ -6,9 +6,7 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  <div>
-  <div><strong>Questo certificazione verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Non sarai più in grado di ottenere questa certificazione dopo tale data. Ulteriori informazioni sulle <a href='/learn/certifications/retired-certifications'>certificazioni che verranno ritirate</a>.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Questa certificazione è stata rimossa. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/'>pagina Esplora le Certificazioni e gli Esami</a>. Ogni certificazione acquisita prima della data della rimozione continuerà ad apparire sul tuo libretto su <a href='https://aka.ms/certdashboard'>Dashboard per la Certificazione</a>.</strong></font><br/><br/></div>
 
   Questa certificazione attesta che possiedi le capacità necessarie per trasferire l'azienda nel cloud, aumentare la flessibilità e la produttività degli utenti, ridurre le perdite dei dati e migliorare la sicurezza dei dati per la tua organizzazione. Questa certificazione può essere usata per soddisfare uno dei requisiti necessari per diventare un [Microsoft 365 Certified Enterprise Administrator Expert](/learn/certifications/m365-enterprise-administrator).
 
@@ -50,10 +48,10 @@ prerequisites:
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

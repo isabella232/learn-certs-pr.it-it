@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Se sei un professionista del business con una profonda esperienza nel settore delle soluzioni e vuoi sfruttare la tua passione per lo sviluppo di soluzioni Microsoft Power Platform per semplificare, automatizzare e trasformare compiti e processi per il tuo team, questa certificazione è progettata per te. È necessario avere le competenze per svolgere i principali compiti tecnici di business analyst, come la modellazione dei dati, la progettazione di base dell'UX, l'analisi dei requisiti e l'analisi dei processi.
+  Se sei un professionista in ambito aziendale con una profonda conoscenza nel tuo dominio delle soluzioni e vuoi sfruttare la tua passione per costruire soluzioni Microsoft Power Platform per semplificare, automatizzare e trasformare attività e processi per il tuo team, questa certificazione è pensata per te. Devi avere le competenze necessarie per realizzare attività chiave da un punto di vista tecnico di analisi aziendale, come modellazione di dati, progettazione base UX, analisi dei requisiti e analisi dei processi.
   
   Il profilo è adatto al ruolo di creatore di app se si è auto-diretti e orientati verso la soluzione, e si lavora con gli strumenti di creazione di Microsoft Power Platform per risolvere i problemi di business. Potresti avere esperienza con Visual Basic for Applications, Excel PivotTables, Teams e altri strumenti. Anche se potreste non avere una formazione IT formale, vi sentite a vostro agio a lavorare con gli amministratori IT e gli sviluppatori di Microsoft Power Platform che utilizzano la tecnologia per risolvere i problemi aziendali. Sei il responsabile dei seguenti processi&#58;
   - Progettazione e creazione di applicazioni e automazione dei flussi di lavoro.
@@ -90,7 +90,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Percorso di formazione per ottenere la certificazione
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF

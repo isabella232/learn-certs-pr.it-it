@@ -10,7 +10,7 @@ subTitle: Gli sviluppatori progettano, creano, testano e aggiornano le soluzioni
 certificationPaths:
 - title: Azure Developer
   linkedInKeywords: Azure Developer
-  uid: certification-path.developer
+  uid: certification-path.developer 
   prerequisites: 
   - uid: certification.azure-fundamentals
     isOptional: true
@@ -21,7 +21,7 @@ certificationPaths:
     - intermediate 
 - title: Dynamics 365 Finance and Operations Apps Developer
   linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
-  uid: certification.d365-finance-and-operations-apps-developer-associate
+  uid: certification-path.d365-finance-and-operations-apps-developer-associate
   prerequisites: 
   - uid: certification.d365-fundamentals
     isOptional: true
@@ -32,7 +32,7 @@ certificationPaths:
     - intermediate 
 - title: Microsoft 365 Developer
   linkedInKeywords: Microsoft 365 Developer
-  uid: certification.m365-developer-associate
+  uid: certification-path.m365-developer-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
     isOptional: true
@@ -41,17 +41,17 @@ certificationPaths:
   - uid: certification.m365-developer-associate
     levels:
     - intermediate 
-- title: Power Apps + Dynamics 365 Developer
-  linkedInKeywords: Power Apps + Dynamics 365 Developer
-  uid: certification.power-apps-and-d365-developer-associate
+- title: Power Platform Developer
+  linkedInKeywords: Power Platform Developer
+  uid: certification-path.power-platform-developer-associate
   prerequisites: 
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
     - beginner 
-  - uid: certification.power-apps-and-d365-developer-associate
+  - uid: certification.power-platform-developer-associate
     levels:
-    - intermediate 
+    - intermediate
 certifications:
 - uid: certification.azure-developer
   requiredExams:
@@ -72,10 +72,10 @@ certifications:
 resources:
 - title: Guida alla formazione e alle certificazioni Microsoft
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster sulla formazione e sulle certificazioni
   description: Usa il poster sulla formazione e sulle certificazioni per scegliere il percorso da seguire per raggiungere il successo.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Assistenza per le certificazioni
   href: ../help.md
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

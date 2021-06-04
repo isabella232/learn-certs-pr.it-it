@@ -51,9 +51,18 @@ summary: |-
   #### Profilo dell'audience
   I partecipanti a questo corso sono interessati allo sviluppo in ambito Azure o al superamento dell'esame di certificazione Microsoft Azure Developer Associate.
 prerequisitesSection: |-
-  I partecipanti dovrebbero possedere almeno 1-2 anni di esperienza nello sviluppo professionale e, in particolare, esperienza con Microsoft Azure. Devono saper programmare in un linguaggio supportato da Azure.
+  Per superare questo corso, i discenti dovrebbero essere in possesso di quanto segue&#58;
+  - Esperienza pratica con soluzioni Azure IaaS e PaaS, e con il Portale Azure.
+  - Esperienza di scrittura in uno dei linguaggi supportati da Azure ad un livello intermedio. (C#, JavaScript, Python, or Java)
+  - Capacità di scrivere codici per connettere ed eseguire operazioni su un database SQL o NoSQL. (SQL Server, Oracle, MongoDB, Cassandra o affini)
+  - Esperienza nello scrivere codici per gestire autenticazione, autorizzazione e altri principi di sicurezza ad un livello intermedio.
+  - Una comprensione generale dei protocolli HTML, HTTP e delle interfacce REST API.
+  
+  Se sei nuovo ad Azure e al cloud computing, prendi in considerazione una delle seguenti risorse&#58;
+  - Gratis online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - Corso tenuto da un istruttore&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
-  ### Modulo  1&#58;; Creare Web App con il servizio app di Azure
+  ### Modulo 1&#58; Creare Web App con il servizio app di Azure
   I partecipanti impareranno come creare un'applicazione Web sulla piattaforma del servizio app di Azure. Impareranno il funzionamento della piattaforma e come creare, configurare, scalare, proteggere e implementare l'app sulla piattaforma del servizio app.
   #### Lezioni
   - Concetti core del servizio app di Azure
@@ -62,28 +71,28 @@ outlineSection: |-
   - Scalare le app col servizio app
   - Ambienti di staging del servizio app di Azure
 
-  ### Modulo  2&#58;; Implementare le funzioni di Azure
+  ### Modulo 2&#58; Implementare le funzioni di Azure
   Questo modulo tratta della creazione di app Funzionali e di come integrare trigger e input/output nell'app.
   #### Lezioni
   - Panoramica delle funzioni di Azure
   - Sviluppare funzioni di Azure
   - Implementare funzioni robuste
 
-  ### Modulo  3&#58;; Sviluppare soluzioni che utilizzano lo storage blob
+  ### Modulo 3&#58; Sviluppare soluzioni che utilizzano lo storage blob
   I partecipanti impareranno come funziona lo storage blob di Azure, come gestire i dati tramite il ciclo hot/cold/archive dello storage blob e come utilizzare la libreria client dello storage blob di Azure per gestire dati e metadati.
   #### Lezioni
   - Concetti fondamentali dello storage blob di Azure
   - Gestire il ciclo dello storage blob di Azure
   - Utilizzare lo storage blob di Azure
 
-  ### Modulo  4&#58;; Sviluppare soluzioni che utilizzano lo storage Cosmos DB
+  ### Modulo 4&#58; Sviluppare soluzioni che utilizzano lo storage Cosmos DB
   I partecipanti impareranno come è strutturato Cosmos DB e come viene gestita la coerenza dei dati. Impareranno anche come creare account Cosmos DB e database, contanier e oggetti, combinando Azure Portal e .NET SDK.
   #### Lezioni
   - Panoramica di Azure Cosmos DB
   - Struttura dei dati di Azure Cosmos DB
   - Lavorare con risorse e dati di Azure Cosmos DB
 
-  ### Modulo  5&#58;; Implementare soluzioni IaaS
+  ### Modulo 5&#58; Implementare soluzioni IaaS
   Questo modulo insegna ai partecipanti come utilizzare creare VM e immagini del container da utilizzare nelle loro soluzioni. Tratta della creazione di VM, dell'uso di modelli ARM per automatizzare la distribuzione delle risorse, della creazione e Gestire immagini Docker, della pubblicazione di un'immagine nel registro container di Azure e di come eseguire un contanier nelle istanze di Azure Container.
   #### Lezioni
   - Provisioning di VM in Azure
@@ -93,7 +102,7 @@ outlineSection: |-
   - Creare ed eseguire immagini del contanier Azure Contanier Instances
 
 
-  ### Modulo  6&#58;; Implementare l'autenticazione e l'autorizzazione dell'utente
+  ### Modulo 6&#58; Implementare l'autenticazione e l'autorizzazione dell'utente
   I partecipanti impareranno a sfruttare la Microsoft Identity Platform v2.0 per gestire l'autenticazione e l'accesso alle risorse. Impareranno anche come usare la library di autenticazione Microsoft e Microsoft Graph per autenticare un utente e recuperare le informazioni archiviate in Azure, e come e quando usare le Shared Access Signatures.
   #### Lezioni
   - Microsoft Identity Platform v2.0
@@ -102,14 +111,14 @@ outlineSection: |-
   - Autorizzare le operazioni sui dati in Azure Storage
 
 
-  ### Modulo  7&#58;; Implementare soluzioni cloud sicure
+  ### Modulo 7&#58; Implementare soluzioni cloud sicure
   Questo modulo illustra come proteggere le informazioni (chiavi, informazioni confidenziali, certificati) che un'applicazione utilizza per accedere alle risorse. Tratta anche della protezione delle informazioni di configurazione dell'applicazione.
   #### Lezioni
   - Gestire chiavi, informazioni confidenziali e certificati utilizzando l'API KeyVault
   - Implementare identità gestite per le risorse di Azure
   - Proteggere i dati di configurazione dell'app usando Azure App Configuration
 
-  ### Modulo  8&#58;; Implementare l'API Management
+  ### Modulo 8&#58; Implementare l'API Management
   I partecipanti impareranno come pubblicare API, creare criteri per gestire le informazioni condivise tramite API e come gestire l'accesso alle proprie API utilizzando il servizio Azure API Management.
   #### Lezioni
   - Panoramica sulla gestione delle API
@@ -117,14 +126,14 @@ outlineSection: |-
   - Protezione delle tue API
 
 
-  ### Modulo  9&#58;; Sviluppare app per la logica del servizio app
+  ### Modulo 9&#58; Sviluppare app per la logica del servizio app
   Questo modulo insegna ai partecipanti come usare le app per la logica di Azure per pianificare, automatizzare e orchestrare attività, processi aziendali, flussi di lavoro e servizi in aziende o organizzazioni.
   #### Lezioni
   - Panoramica delle app per la logica di Azure
   - Creazione di connettori personalizzati per app per la logica
 
 
-  ### Modulo  10&#58;; Sviluppare soluzioni event-based
+  ### Modulo 10&#58; Sviluppare soluzioni event-based
   I partecipanti impareranno come creare applicazioni con architetture event-based.
   #### Lezioni
   - Implementare soluzioni che utilizzano Azure Event Grid
@@ -132,14 +141,14 @@ outlineSection: |-
   - Implementare soluzioni che utilizzano Azure Notification Hubs
 
 
-  ### Modulo  11&#58;; Sviluppare soluzioni message-based
+  ### Modulo 11&#58; Sviluppare soluzioni message-based
   I partecipanti impareranno a creare applicazioni con architetture message-based.
   #### Lezioni
   - Implementare soluzioni che utilizzano Azure Service Bus
   - Implementa soluzioni che utilizzano code di Azure Queue Storage
 
 
-  ### Modulo  12&#58;; Monitorare e ottimizzare le soluzioni Azure
+  ### Modulo 12&#58; Monitorare e ottimizzare le soluzioni Azure
   Questo modulo insegna ai partecipanti come inserire nel loro codice tool per la telemetria e come analizzare e risolvere i problemi delle loro app.
   #### Lezioni
   - Panoramica del monitoraggio in Azure
@@ -148,7 +157,7 @@ outlineSection: |-
   - Implementare il codice che gestisce gli errori temporanei
 
 
-  ### Modulo  13&#58;; Integrare la memorizzazione nella cache e la distribuzione dei contenuti nelle soluzioni
+  ### Modulo 13&#58; Integrare la memorizzazione nella cache e la distribuzione dei contenuti nelle soluzioni
   I partecipanti impareranno come utilizzare diversi servizi di memorizzazione nella cache per migliorare le prestazioni delle loro app.
   #### Lezioni
   - Sviluppare per Azure Cache per Redis

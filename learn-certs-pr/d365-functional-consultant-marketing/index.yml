@@ -28,7 +28,7 @@ skills:
 - Gestire i percorsi cliente
 - Gestire eventi e webinar
 - Configurazione di Dynamics 365 Customer Voice
-- Configurazione di Common Data Service
+- Configurazione di Microsoft Dataverse
 - Creazione di app usando Power Apps
 - Creazione e gestione di Power Automate
 - Implementazione dei chatbot di Power Virtual Agents
@@ -73,7 +73,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Percorso di formazione per ottenere la certificazione
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW

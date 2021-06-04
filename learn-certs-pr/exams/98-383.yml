@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-383
 displayName: 98-383
 summary: |-
+  <div><font color='red'><strong>Questo esame MTA deve essere acquistato entro il 30 giugno 2021. Se ti stai attualmente preparando per questo esame, dovrai sostenerlo entro un anno, prima del 30 giugno 2022, quando verrà rimosso. Consulta <a href="/learn/certifications/mta-retirement-faqs">le FAQ</a> per più informazioni.</strong></font></br></br></div>
+  
   I candidati per questo esame dovrebbero saper riconoscere e scrivere HTML e CSS sintatticamente corretti, strutturare dati utilizzando elementi HTML e creare e applicare degli stili utilizzando CSS.
 
   I candidati devono aver almeno avuto un’istruzione e/o esperienza pratica di approssimativamente 100 ore con HTML e CSS, essere a conoscenza delle sue caratteristiche e capacità e capire come scrivere, effettuare debug e mantenere ben formattati i codici HTML e CSS.
@@ -36,6 +38,7 @@ skills:
 - Struttura dei Documenti con HTML (30-35%)
 - Presentare Multimedia con HTML (10-15%)
 - Crea degli Stili Pagine Web con CSS (20-25%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

@@ -6,18 +6,12 @@ metadata:
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
-  <div>
-  <div><strong>Il contenuto di questo esame è stato aggiornato il lunedì 18 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 26 marzo 2021. Scarica il documento con la valutazione delle competenze per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
   </div>
 
   I candidati a questo esame dovrebbero avere esperienza in materia di progettazione, costruzione, test e manutenzione di applicazioni e servizi cloud su Microsoft Azure.
 
-  Le responsabilità di un Azure Developer includono la partecipazione a tutte le fasi dello sviluppo del cloud dalla definizione e progettazione dei requisiti allo sviluppo, distribuzione e manutenzione. ottimizzazione delle prestazioni e monitoraggio.
-  <br/>
-
-  Gli Azure Developer collaborano con architetti di soluzioni cloud, DBA cloud, amministratori cloud e client per implementare soluzioni.
-
-  Un candidato a questo esame dovrebbe avere 1-2 anni di esperienza di sviluppo professionale ed esperienza con Microsoft Azure. Inoltre, per questo ruolo si dovrebbe avere capacità di programmazione in un linguaggio supportato da Azure e competenze di Azure SDK, Azure PowerShell, Azure CLI, opzioni di archiviazione dei dati, connessioni dati, API, autenticazione e autorizzazione delle app, distribuzione di calcoli e container, debug, ottimizzazione delle prestazioni e monitoraggio.
+  Il candidato per questa certificazione dovrebbe avere un'esperienza di 1-2 anni nel campo dello sviluppo professionale ed esperienza con Microsoft Azure. Oltre a ciò, il candidato per questo ruolo dovrebbe essere in grado di programmare in un linguaggio supportato da Azure ed avere padronanza in Azure SDKs, Azure PowerShell, Azure CLI, opzioni di archiviazione dei dati, connessioni dati, APIs, autorizzazione e autenticazione app, calcolo e distribuzione del container, debugging, ottimizzazione delle prestazioni e monitoraggio.
 
   Superando questo esame di certificazione potresti essere idoneo per il credito universitario ACE. Consulta [Crediti universitari ACE per gli esami di certificazione](/learn/certifications/ace-credit-for-certification-exams) per maggiori informazioni.
 subTitle: 'Questo esame misura la tua capacità di svolgere i seguenti compiti tecnici: sviluppare soluzioni di calcolo Azure; sviluppo per la memorizzazione dei dati Azure; implementare la sicurezza Azure; monitorare, risolvere i problemi e ottimizzare le soluzioni Azure; connettersi e consumare i servizi Azure e i servizi di terze parti.'
@@ -36,12 +30,12 @@ providers:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il lunedì 18 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame è stato aggiornato il 26 marzo 2021. Scarica la descrizione delle competenze dell'esame per prendere visione dei cambiamenti apportati. 
 - Sviluppare soluzioni di calcolo Azure (25-30%)
-- Sviluppare l’archiviazione in Azure (10-15%)
-- Implementare la sicurezza in Azure (15-20%)
-- Monitorare, risolvere i problemi e ottimizzare le soluzioni Azure (10-15%)
-- Connettersi e utilizzare i servizi Azure e i servizi di terzi (25-30%)
+- Sviluppare l’archiviazione in Azure (15-20%)
+- Implementare la sicurezza in Azure (20-25%)
+- Monitorare, risolvere i problemi e ottimizzare le soluzioni Azure (15-20%)
+- Connettersi e utilizzare i servizi Azure e i servizi di terzi (15-20%)
 roles:
 - developer
 products:
@@ -92,10 +86,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

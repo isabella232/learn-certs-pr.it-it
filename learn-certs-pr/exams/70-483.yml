@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-483
 displayName: 70-483
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   I candidati idonei per questo esame sono sviluppatori con almeno un anno di esperienza nella programmazione di business logic essenziali per una varietà di tipi di applicazioni, hardware e piattaforme software che utilizzano C#.
 
@@ -27,7 +25,6 @@ subTitle: I candidati idonei per questo esame sono sviluppatori con almeno un an
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
 practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=483&examname=Programming%20in%20C%23&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
 locales:
 - en
 - zh-cn
@@ -43,6 +40,7 @@ skills:
 - Creare e utilizzare i tipi (25-30%)
 - Eseguire il debugging delle applicazioni e implementare la sicurezza (25-30%)
 - Implementare l'accesso ai dati (25-30%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

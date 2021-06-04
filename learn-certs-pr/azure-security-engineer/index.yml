@@ -11,7 +11,7 @@ summary: |-
 
   Le responsabilità di questo ruolo includono il mantenimento della posizione di sicurezza, l'identificazione e la correzione delle vulnerabilità utilizzando una varietà di strumenti di sicurezza, implementando la protezione dalle minacce e rispondendo all'incremento degli incidenti di sicurezza.
 
-  Gli Azure Security Engineer spesso fanno parte di un team più ampio dedicato alla gestione basata su cloud e agli ambienti di sicurezza o ibridi come parte di un'infrastruttura end-to-end.
+  Gli Ingegneri per la Sicurezza Azure spesso fanno parte di un team più ampio dedicato alla gestione e alla sicurezza su base cloud e potrebbero anche proteggere ambienti ibridi in quanto parte di un'infrastruttura end-to-end. 
 
   Un candidato a questa certificazione dovrebbe avere forti capacità di scripting e automazione, una profonda conoscenza dell'architettura di rete, virtualizzazione e cloud di livello N e una forte familiarità con le funzionalità cloud, prodotti e servizi per Azure, oltre ad altri prodotti e servizi Microsoft.
 subTitle: I tecnici responsabili della sicurezza implementano controlli di sicurezza e la protezione contro le minacce; gestiscono le identità e l’accesso; e proteggono dati, applicazioni e reti in ambienti cloud e ibridi come parte dell’infrastruttura end-to-end.
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

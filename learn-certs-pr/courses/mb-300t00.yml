@@ -42,7 +42,20 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  Le app Dynamics 365 Finance and Operations includono, ma non sono limitate a, Dynamics 365 Finance, Dynamics 365 Supply Chain Management e Dynamics 365 Supply Chain Management, Manufacturing. Dynamics 365 Finance ti aiuta a&#58; Automatizzare e modernizzare le tue operazioni finanziarie a livello globale. Monitora le prestazioni in tempo reale, fai previsioni sui risultati futuri e prendi decisioni basate sui dati per guidare la crescita del tuo business. Guida le decisioni finanziarie strategiche con l'intelligenza artificiale (AI), unifica e automatizza i tuoi processi finanziari, riduci le spese operative e diminuisci la complessità e i rischi finanziari. Dynamics 365 Supply Chain Management ti aiuta a&#58; Trasformare le tue operazioni di produzione e supply chain. Utilizza le informazioni predittive dell'intelligenza artificiale e dall'Internet of Things (IoT) nella pianificazione, produzione, inventario, magazzino e gestione dei trasporti. Massimizza l'efficienza operativa, la qualità del prodotto e la redditività. Innova con operazioni di produzione intelligenti, modernizza la gestione del magazzino, ottimizza le prestazioni di produzione, massimizza la durata delle risorse e automatizza e semplifica la catena di fornitura. Nota&#58; per ulteriori informazioni, fare riferimento a https://docs.microsoft.com/learn/paths/get-started-finance-operations/ In questo modulo ci concentreremo sulle caratteristiche e sulle funzionalità principali di Dynamics 365 Dynamics 365 Finance app più utilizzate dagli utenti finali e dai consulenti.
+  Le app Dynamics 365 Finance and Operations includono, per citare alcuni esempi, Dynamics 365 Finance, Dynamics 365 Supply Chain Management, e Dynamics 365 Supply Chain Management, Produzione.
+  Dynamics 365 Finance ti aiuta a&#58;
+  - Automatizzare e modernizzare le tue operazioni finanziarie globali.
+  - Monitorare le prestazioni in tempo reale, prevedere outcome futuri e prendere decisioni basate sui dati per promuovere la crescita aziendale.
+  - Indirizzare decisioni finanziarie strategiche con l'intelligenza artificiale (AI), unificare e automatizzare le tue operazioni finanziarie, ridurre le spese di operazione e diminuire i rischi e la complessità globale finanziaria. 
+  
+  Dynamics 365 Supply Chain Management ti aiuta a&#58;
+  - Trasformare le tue operazioni di produzione e supply chain.
+  - Usare informazioni predittive e l'intelligenza AI e di Internet of Things (IoT) in merito a pianificazione, produzione, inventario, magazzino, e gestione dei trasporti.
+  - Massimizzare l'efficienza delle operazioni, la qualità dei prodotti e il rendimento. 
+  - Innovare con l'ausilio AI le operazioni di produzione, modernizzare la gestione del magazzino, ottimizzare le prestazioni di produzione, massimizzare la vita del capitale e automatizzare e semplificare la tua supply chain.
+  
+  Nota&#58; Per più informazioni consulta https://docs.microsoft.com/learn/paths/get-started-finance-operations/
+  In questo modulo ci concentreremo sulle funzionalità centrali e l'operatività delle app Dynamics 365 Dynamics 365 Finance che sono le più usate da utenti finali e consulenti.
   
   #### Profilo dei destinatari
   Un Functional Consultant Dynamics 365 per Finance e Operations è responsabile delle scoperte, dell'acquisizione dei requisiti, del coinvolgimento sia di esperti che delle parti interessate nel progetto, della traslazione dei requisit, e della configurazione delle soluzioni e delle app. Il Consulente Funzionale implementa soluzioni utilizzando funzionalità predefinite, estensioni senza coding e integra applicazioni e servizi.
@@ -52,16 +65,7 @@ prerequisitesSection: |-
   - La possibilità di utilizzare Dynamics 365 for Finance and Operations per l'elaborazione di base
   - Conoscenza generale delle caratteristiche di base dei dispositivi mobili e della navigazione
 outlineSection: |-
-  ### Modulo 1&#58; Panoramica del corso
-  Questo corso tratta le funzionalità di base delle app Dynamics 365 Finance and Operations. In generale, gli argomenti discussi includono le principali funzionalità, la configurazione di base, la migrazione dei dati e la preparazione per la pubblicazione. Questo è un corso preliminare per consulenti funzionali e i tecnici. Richiede una conoscenza fondamentale delle app Dynamics 365 Finance and Operations. Inoltre, è richiesta anche la conoscenza di come le app Dynamics 365 Finance and Operations si integrano con sistemi e strumenti esterni, incluso Power Platform. Il consulente gestisce in prima persona i cicli di vita delle applicazioni utilizzando Lifecycle Services e altri strumenti e piattaforme Microsoft.
-  #### Lezioni
-  - Obiettivi formativi
-  - Panoramica del modulo
-
-  Avrai imparato i moduli trattati nel corso.
-
-  
-  ### Modulo 2#58; Uso delle funzionalità comuni e strumenti d'implementazione
+  ### Modulo 1&#58; Uso delle funzionalità comuni e strumenti d'implementazione
   In questo modulo imparerai a&#58;
   - Utilizzare le funzionalità più comuni e gli strumenti d'implementazione.
   - Descrivere i casi d'uso e le capacità degli spazi di lavoro.
@@ -108,7 +112,7 @@ outlineSection: |-
   - Integrare Power BI con le app Dynamics 365 Dynamics 365 Finance.
   
   
-  ### Modulo 3&#58; Configurazione della security, dei processi e delle opzioni
+  ### Modulo 2&#58; Configurazione della security, dei processi e delle opzioni
   In questo modulo imparerai a&#58;
   - Distinguere tra ruoli, compiti, privilegi e permessi.
   - Applicare i ruoli di sicurezza ai vari utenti.
@@ -175,7 +179,7 @@ outlineSection: |-
   - Configurare e monitorare i lavori batch e gli avvisi.
   
   
-  ### Modulo 4&#58; Gestione dei dati di Dynamics 365 Finance and Operation
+  ### Modulo 3&#58; Gestione dei dati di Dynamics 365 Finance and Operation
   In questo modulo imparerai a&#58;
   - Gestire i dati nelle app Dynamics 365 Finance and Operations.
   - Descrivere i concetti di gestione dei dati.
@@ -241,7 +245,7 @@ outlineSection: |-
   - Implementazione dell'automazione delle attività relative ai dati.
   
   
-  ### Module 5&#58; Convalida e supporto per la soluzione
+  ### Modulo 4&#58; Convalida e supporto per la soluzione
   In questo modulo imparerai a&#58;
   - Descrivi la correlazione tra casi dei test e requisiti aziendali.
   - Utilizzare le migliori pratiche per la registrazione dei casi di test.

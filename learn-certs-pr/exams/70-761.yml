@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-761
 displayName: 70-761
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è rivolto ad amministratori di database SQL Server, ingegneri di sistema e sviluppatori con due o più anni di esperienza che desiderano convalidare le proprie competenze e conoscenze nella scrittura di query.
 subTitle: Questo esame è rivolto ad amministratori di database SQL Server, ingegneri di sistema e sviluppatori con due o più anni di esperienza che desiderano convalidare le proprie competenze e conoscenze nella scrittura di query.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
 practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
 locales:
 - en
 levels:
@@ -24,6 +21,7 @@ skills:
 - Gestire i dati con Transact-SQL (40-45%)
 - Eseguire query sui dati con i componenti avanzati di Transact-SQL (30-35%)
 - Programmare database tramite Transact-SQL (25-30%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

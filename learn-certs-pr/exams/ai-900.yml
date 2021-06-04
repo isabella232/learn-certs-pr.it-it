@@ -6,9 +6,7 @@ metadata:
 uid: exam.ai-900
 displayName: AI-900
 summary: |-
-  <div>
-  <div><strong>Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 23 aprile 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
 
   I candidati a questo esame dovrebbero avere una conoscenza di base dei concetti di machine learning (ML) e intelligenza artificiale (IA) e dei relativi servizi di Microsoft Azure.
 
@@ -39,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica la presentazione delle abilità d'esame per vedere cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il 23 aprile 2021. Scarica la descrizione delle competenze dell'esame per prendere visione dei cambiamenti apportati. 
 - Descrivere i carichi di lavoro e le considerazioni sull'IA (15-20%)
 - Descrivere i principi fondamentali del machine learning in Azure (30-35%)
 - Descrivere le funzionalità dei carichi di lavoro di computer vision su Azure (15-20%)
@@ -83,10 +81,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

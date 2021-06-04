@@ -6,6 +6,9 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
+  <div><div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 23 marzo 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
+  </div>
+
   I candidati a questo esame progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform. I candidati implementano componenti della soluzione che comprendono l’aumento delle applicazioni, esperienza dell’utente personalizzata, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
 
   I candidati devono avere una solida conoscenza applicata dei servizi di Power Platform, compresa una comprensione approfondita delle capacità, dei confini e dei vincoli. I candidati devono avere una comprensione di base delle prassi delle soluzioni DevOps per Power Platform.
@@ -20,8 +23,9 @@ locales:
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame è stato aggiornato il 23 marzo 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei cambiamenti apportati. 
 - Creare un progetto tecnico (10-15%)
-- Configurare Common Data Service (15-20%)
+- Configurazione di Microsoft Dataverse (15-20%)
 - Creare e configurare Power Apps (15-20%)
 - Configurare l’automazione dei processi aziendali (5-10%)
 - Estendere l'esperienza degli utenti (10-15%)
@@ -54,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GBWZ
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

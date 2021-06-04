@@ -6,8 +6,10 @@ metadata:
 uid: exam.98-382
 displayName: 98-382
 summary: |-
+  <div><font color='red'><strong>Questo esame MTA deve essere acquistato entro il 30 giugno 2021. Se ti stai attualmente preparando per questo esame, dovrai sostenerlo entro un anno, prima del 30 giugno 2022, quando verrà rimosso. Consulta <a href="/learn/certifications/mta-retirement-faqs">le FAQ</a> per più informazioni.</strong></font></br></br></div>
+  
   I candidati per questo esame dovrebbero essere capaci di riconoscere e scrivere codici JavaScript sintatticamente corretti, riconoscere i tipi di dati supportati da JavaScript ed essere capaci di riconoscere e scrivere codici Python che risolveranno logicamente un dato problema.
-
+  
   I candidati devono aver almeno acquisito un’istruzione di 100 ore o esperienza pratica con il linguaggio di programmazione JavaScript. I candidati dovrebbero anche conoscere le caratteristiche e le abilità di JavaScript e capire come scrivere, effettuare debug e mantenere codici JavaScript ben formattati e ben documentati.
 subTitle: I candidati per questo esame dovrebbero essere capaci di riconoscere e scrivere codici JavaScript sintatticamente corretti, riconoscere i tipi di dati supportati da JavaScript ed essere capaci di riconoscere e scrivere codici Python che risolveranno logicamente un dato problema.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -36,6 +38,7 @@ skills:
 - Implementa e Analizza Decisioni e Cicli (20-25%)
 - Interagisci con il Documento Oggetto Modello (15-20%)
 - Interagisci con i moduli HTML (5-10%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

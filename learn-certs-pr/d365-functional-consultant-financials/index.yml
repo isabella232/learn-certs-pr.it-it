@@ -7,7 +7,18 @@ uid: certification.d365-functional-consultant-financials
 certificationRenewalUid: renewal.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  I consulenti funzionali di Finance di Dynamics 365 unificano i dati finanziari e le operazioni globali e automatizzano le attività e i flussi di lavoro, ottimizzano gli ordini dei clienti, le vendite, la fatturazione e la creazione di rapporti.
+  Usa questa certificazione per dar prova delle tue competenze e contribuire all'avanzamento della tua carriera, se hai esperienza come consulente funzionale che analizza i requisiti aziendali e li trasforma in processi e soluzioni aziendali di successo basati sulle migliori pratiche dell'azienda. Devi avere esperienza nell'implementazione e nella configurazione con Dynamics 365 Finance per soddisfare i requisiti aziendali.
+  
+  Questa certificazione è indicata per coloro che lavorano nel campo della finanza e si occupano di conti attivi, conti passivi, contabilità generale, capitale fisso, budget, contabilità e gestione dei costi, o spese. Devi avere una fondamentale comprensione dei principi contabili e delle operazioni finanziarie dell'azienda.
+  
+  Se hai bisogno di maturare più esperienza prima di provare ad acquisire questa certificazione, ecco alcuni suggerimenti&#58;
+  - Lavora con un consulente funzionale che usa Dynamics 365 Finance.
+  - Lavora come consulente funzionale su uno o più progetti.
+  - Lavora su un progetto di consulenza finanziaria.
+  - Unisciti alla community di esperti e colleghi su [community.dynamics.com](https://community.dynamics.com/).
+  - Segui i percorsi di formazione disponibili su Microsoft Learn.
+  - Iscriviti a un corso di formazione tenuto da un istruttore.
+  - Completa delle esercitazioni a carattere più pratico.
 subTitle: 'I consulenti funzionali di Finance di Dynamics 365 unificano i dati finanziari e le operazioni globali e automatizzano le attività e i flussi di lavoro, ottimizzano gli ordini dei clienti, le vendite, la fatturazione e la creazione di rapporti.'
 levels:
 - intermediate
@@ -56,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Percorso di formazione per ottenere la certificazione
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y

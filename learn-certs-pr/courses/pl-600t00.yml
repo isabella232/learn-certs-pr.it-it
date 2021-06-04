@@ -1,0 +1,226 @@
+### YamlMime:Course
+title: Power Platform Solution Architect
+metadata:
+  title: 'Course PL-600T00--A: Power Platform Solution Architect'
+  description: 'Course PL-600T00--A: Power Platform Solution Architect'
+uid: course.pl-600t00
+courseNumber: 'PL-600T00'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- power-platform
+summary: |-
+  Il Solution Architect è responsabile della progettazione, implementazione, distribuzione e adozione di successo di una soluzione complessiva. Il Solution Architect si assicura che la soluzione soddisfi i bisogni del cliente presenti e futuri. In questo corso gli studenti scopriranno quali decisione prende un Solution Architect durante una distribuzione, coprendo gli aspetti di sicurezza, integrazione, architettura Power Apps, architettura Power Automate, e altro ancora. Questo corso è pensato per fornirti un'introduzione al ruolo di Solution Architect.
+
+  #### Profilo d'Utenza
+
+  Consulenti esperti (sia funzionali che tecnici) che aspirano a diventare Solution Architects, o attuali Solution Architects che sono nuovi a questa professione.
+outlineSection: |-
+  ### Modulo 1: Diventare un Solution Architect/Imparare a conoscere il tuo cliente
+
+  #### Lezioni
+
+  *   Definizione di Solution Architect
+
+  *   Ruolo di un Solution Architect sui progetti
+
+  *   Metodologia del Progetto
+
+  *   Imparare a conoscere i tuoi clienti
+
+  *   Esercizio di gruppo - Imparare a conoscere i tuoi clienti
+
+  ### Modulo 2: Concettualizzare il progetto a partire dai requisiti 
+
+  #### Lezioni
+
+  *   Come guidare lo sforzo di raccolta dei requisiti 
+
+  *   Usare l'analisi fit&gap
+
+  *   I pilastri di una buona architettura 
+
+  *   Standard dell'architettura delle soluzioni
+
+  *   Esercizio di gruppo - Progetto a partire dai requisiti
+
+  ### Modulo 3: Progettare la gestione e lavorare in un team 
+
+  #### Lezioni
+
+  *   Il ruolo del Solution Architect nella gestione del progetto
+
+  *   Tecniche per tenere il passo con il progetto 
+
+  *   Scenari che potrebbero portare al fallimento del progetto 
+
+  *   Esercizio di gruppo - Progettare la gestione e lavorare in un team
+
+  ### Modulo 4: Power Platform Architecture
+
+  #### Lezioni
+
+  *   Le componenti chiave dell'architettura di Power Platform 
+
+  *   Capire come il design e i limiti della piattaforma influenzano l'architettura delle soluzioni
+
+  *   Rilasci di aggiornamenti e funzionalità 
+
+  *   Capire come comunicare come la piattaforma soddisfa i bisogni del cliente 
+
+  ### Modulo 5: Modellazione dei dati
+
+  #### Lezioni
+
+  *   Influenze nella modellazione dei dati 
+
+  *   Strategia di modellazione dei dati 
+
+  *   Tipi di dati
+
+  *   Relazioni tra i dati
+
+  *   Esercizio di gruppo - Modellazione dei dati 
+
+  ### Modulo 6: Analisi e intelligenza artificiale 
+
+  #### Lezioni
+
+  *   Pianificare e valutare i requisiti 
+
+  *   Report delle operazioni 
+
+  *   Power BI
+
+  *   Enterprise BI
+
+  *   Informazioni predefinite e personalizzate AI
+
+  ### Modulo 7: Power Apps Architecture
+
+  #### Lezioni
+
+  *   Discutere delle opzioni per le app e come decidere da dove iniziare 
+
+  *   Discutere delle opzioni di composizione delle app 
+
+  *   Usare le componenti come parti dell'architettura della tua app 
+
+  *   Considerazioni per includere Portals come app nella tua architettura 
+
+  *   Esercizio di gruppo - Argomenti su Power Apps Architecture 
+
+  ### Modulo 8: Gestione del Ciclo di Vita delle Applicazioni (ALM)
+
+  #### Lezioni
+
+  *   Visione Microsoft e il ruolo del Solution Architect nella ALM
+
+  *   Strategie nell'ambiente
+
+  *   Definire una struttura di soluzione da fornire 
+
+  #### Lab : ALM Esercitazione pratica
+
+  ####
+
+  ### Modulo 9: Power Automate Architecture
+
+  #### Lezioni
+
+  *   Discutere delle opzioni di automazione e logica personalizzata 
+
+  *   Rivedere le considerazioni per usare trigger e azioni comuni 
+
+  *   Esplorare l'uso di Business Process Flows (BPF) per guidare gli utenti attraverso i processi aziendali 
+
+  *   Esercizio di gruppo - Valutare scenari per l'uso di Power Automate 
+
+  ### Modulo 10: Modellare la Sicurezza
+
+  #### Lezioni
+
+  *   Il ruolo del Solution Architect nella modellazione della sicurezza
+
+  *   Scoprire e imparare l'ambiente del cliente
+
+  *   Controllare l'accesso ad ambienti e risorse
+
+  *   Controllare l'accesso ai Dati CDS 
+
+  *   Esercizio di gruppo - Modellazione della Sicurezza
+
+  ### Modulo 11: Integrazione
+
+  #### Lezioni
+
+  *   Il ruolo dei Solution Architect nelle Integrazioni 
+
+  *   Cosa è un'integrazione e perché ne abbiamo bisogno 
+
+  *   Funzionalità della piattaforma che consentono l'integrazione 
+
+  *   Pubblicazione Evento CDS
+
+  *   Scenari per la discussione di gruppo 
+
+  ### Modulo 12: Dynamics 365 Applications Architecture
+
+  #### Lezioni
+
+  *   Il ruolo del Solution Architect nella distribuzione di app Dynamics 365 
+
+  *   Considerazioni sull'Architettura delle app principali 
+
+  *   Esercizio di gruppo - Valutazione dei requisiti di gruppo per app specifiche 
+
+  ### Modulo 13: Architettura di Power Virtual Agents 
+
+  #### Lezioni
+
+  *   Introduzione
+
+  *   Opzioni chatbot 
+
+  *   Concetti chatbot 
+
+  *   Le migliori pratiche
+
+  *   Integrare chatbot
+
+  *   Power Virtual Agents su Microsoft Teams
+
+  ### Modulo 14: Automazione dei Processi Robotici
+
+  #### Lezioni
+
+  *   Introduzione
+
+  *   Power Automate Desktop
+
+  *   Attività di registrazione e modifica
+
+  *   Esecuzione di flussi su desktop 
+
+  *   Consulente del processo
+
+  ### Modulo 15: Test e Lancio
+
+  #### Lezioni
+
+  *   Il ruolo del Solution Architect nei test e nel lancio
+
+  *   Pianificazione dei test
+
+  *   Pianificazione del lancio
+
+  #### Letture Aggiuntive
+
+  https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

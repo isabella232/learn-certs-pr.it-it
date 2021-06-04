@@ -1,0 +1,396 @@
+### YamlMime:Course
+title: Administering System Center Configuration Manager
+metadata:
+  title: 'Course 20703-1-B: Administering System Center Configuration Manager'
+  description: 'Course 20703-1-B: Administering System Center Configuration Manager'
+uid: course.20703-1
+courseNumber: '20703-1-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Illustrare le funzionalità incluse in Configuration Manager e Intune, e spiegare come possono essere usate per gestire PCs e dispositivi mobili in contesti aziendali. 
+- skill: Analizzare dati usando query e report.
+- skill: Preparare un'infrastruttura gestionale, comprendendo configurazione dei limiti, gruppi di limiti, e scoperta delle risorse, integrando anche la gestione di dispositivi mobili con il Server Microsoft Exchange Server.
+- skill: Implementare e gestire il client Configuration Manager.
+- skill: Configurare, gestire e monitorare gli inventari hardware e software, e usare l'Asset Intelligence e la misurazione dei software. 
+- skill: Identificare e configurare il metodo più adeguato per fornire e gestire dei contenuti usati a fini di implementazione. 
+- skill: Fornire, implementare e monitorare applicazioni per utenti e sistemi gestiti.
+- skill: Preservare gli aggiornamenti dei software per PCs gestiti da Configuration Manager.
+- skill: Implementare la Protezione Endpoint per PCs gestiti.
+- skill: Gestire la configurazione di item, baseline e profili per valutare e configurare le impostazioni di conformità e l'accesso ai dati per utenti e dispositivi. 
+- skill: Configurare una strategia di implementazione di un sistema operativo usando Configuration Manager.
+- skill: Gestire e preservare un sito con Configuration Manager.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows-system-center
+exams:
+- uid: exam.70-703
+summary: |-
+  Questo corso della durata di cinque giorni illustra come usare Configuration Manager e i siti di sistemi associati per gestire efficacemente risorse di rete. Con questo corso di cinque giorni imparerai attività di gestione quotidiana, compreso come gestire le applicazioni, la salute del client, l'inventario hardware e software, l'implementazione del sistema operativo e gli aggiornamenti di software usando Configuration Manager. Imparerai anche come ottimizzare System Center Endpoint Protection, gestire la conformità e creare query e report di gestione. 
+
+  #### Profilo d'utenza
+  Questo corso è indicato per i professionisti esperti nel campo dell'informatica (IT), solitamente definiti come Enterprise Desktop Administrators (EDAs). Gli EDAs distribuiscono, gestiscono e preservano PCs, dispositivi e applicazioni in contesti aziendali di medie e grandi dimensioni. Una grande parte di questo pubblico usa, o intende usare, l'ultima versione di Configuration Manager per gestire e implementare PCs, dispositivi e applicazioni. 
+  
+  Questo corso è indicato anche alle persone interessate a sostenere l'Exam 70-703&#58; Administering System Center Configuration Manager and Cloud Services Integration.
+prerequisitesSection: |-
+  Prima di seguire questo corso, gli studenti devono essere in possesso delle seguenti conoscenze&#58;
+  - Basi fondamentali della rete, compresi comuni protocolli di rete, topologie, hardware, media, routing, switching, e indirizzamento.
+  - Principi degli Active Directory Domain Services (AD DS) e basi della gestione AD DS.
+  - Installazione, configurazione e risoluzione dei problemi per computer personali su base Windows.
+  - Concetti di base della sicurezza infrastruttura a chiave pubblica (PKI).
+  - Comprensione di base di scripting e sintassi Windows PowerShell.
+  - Comprensione di base dei ruoli e servizi di Windows Server.
+  - Comprensione di base delle opzioni di configurazione per iOS, Android, e piattaforme Windows Mobile. 
+  
+  Gli studenti che seguono questa formazione possono soddisfare tali prerequisiti prendendo parte ai seguenti corsi o ottenendo conoscenze e competenze equivalenti con attività pratiche&#58;
+  - Corso 20411&#58; [Amministrare Windows Server 2012](https://www.microsoft.com/learning/course.aspx?cid=20411)
+outlineSection: |-
+  ### Modulo 1&#58; Gestire computer e dispositivi mobili in azienda 
+  Questo modulo illustra le funzionalità di Configuration Manager che puoi usare per eseguire attività di gestione complesse, comprese le seguenti; Inventario hardware e software, Gestione delle applicazioni, Distribuzione del sistema operativo, Gestione delle impostazioni, Gestione degli aggiornamenti software, Risoluzione problemi del client da remoto, e Protezione da malware.
+
+  Microsoft System Center Configuration Manager (Configuration Manager) offre diverse funzionalità che possono aiutarti a gestire dispositivi e utenti sia in sede che tramite cloud. Le aziende che usano Configuration Manager trovano che possono fornire dei servizi IT più efficienti in rapporto a implementazione software, gestione delle impostazioni e gestione del capitale. 
+
+  Questo modulo offre un'introduzione alle funzionalità primarie, all'architettura e agli strumenti di gestioni usati con Configuration Manager. Questo modulo fornisce anche delle basi in relazione a tutte le altre funzionalità e attività di gestione discusse nei moduli successivi. 
+
+  #### Lezioni
+  - Panoramica sulla gestione dei sistemi usando soluzioni di gestione aziendale 
+  - Panoramica sull'architettura di Configuration Manager 
+  - Panoramica sugli strumenti di amministrazione di Configuration Manager 
+  - Strumenti per monitorare e risolvere problemi di un sito Configuration Manager 
+
+
+  #### Lab &#58; Esplorare gli strumenti di Configuration 
+  - Fare ricerche nella console di Configuration Manager 
+  - Usare Windows PowerShell con Configuration Manager
+  - Usare Service Manager di Configuration Manager per gestire le componenti
+  - Monitorare il sito e lo status delle componenti
+  - Rivedere i file da registro usando lo strumento Trace di Configuration Manager 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare come Configuration Manager affronta le sfide della gestione dei sistemi e degli utenti nelle aziende di oggi.
+  - Descrivere l'architettura del Configuration Manager
+  - Illustrare gli strumenti di gestione che possono essere usati per svolgere funzioni di amministrazione per Configuration Manager.
+  - Illustrare gli strumenti che possono essere usati per monitorare e risolvere problemi di un sito Configuration Manager.
+
+
+  ### Modulo 2&#58; Analizzare dati usando query, report, e CMPivot
+  Il database Microsoft System Center Configuration Manager conserva una grande mole di dati riguardanti le risorse del tuo ambiente. Potresti non volere eseguire sempre tutte le attività di gestione su tutte le risorse allo stesso tempo. Quindi, per aiutarti a individuare dispositivi o oggetti utente nel tuo ambiente che rispondono a determinati criteri, puoi creare delle query. Puoi poi usarle per creare delle collezioni o trovare altre informazioni su risorse specifiche. Questo modulo spiega le query e i metodi per creare ed eseguirle. 
+
+  Oltre alle query, puoi anche lanciare dei report per prendere visione di diversi tipi di informazioni in rapporto al tuo ambiente Configuration Manager. Per lanciare dei report su Configuration Manager, devi installare e configurare un service point di reporting, che sarà illustrato in dettaglio in questo modulo. 
+
+  Questo modulo copre anche CMPivot, che ti permette di raccogliere e visualizzare dati in tempo reale su tutti i dispositivi connessi nel tuo ambiente. Ti permetterà quindi di prendere decisioni in tempo reale. 
+  #### Lezioni
+  - Introduzione alle query
+  - Configurare i Servizi di Reporting su Server SQL
+  - Analizzare lo stato di un dispositivo in tempo reale usando CMPivot
+
+
+  #### Lab &#58; Creare ed eseguire query
+  - Creare query di dati
+  - Creare query subselect 
+
+
+  #### Lab &#58; Configurare SSRS
+  - Configurare un service point di reporting 
+
+
+  #### Lab &#58; Analizzare lo stato di un dispositivo in tempo reale usando CMPivot
+  - Usare CMPivot per Analizzare lo stato attuale dei dispositivi
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e configurare query di dati e messaggi di status.
+  - Configurare e gestire Microsoft SQL Server Reporting Services (SSRS) e i service point di reporting.
+  - Usare CMPivot per le query e visualizzare lo stato dei dispositivi connessi nel tuo ambiente in tempo reale.
+
+
+  ### Modulo 3&#58; Preparare l'infrastruttura di gestione di Configuration Manager 
+  Puoi gestire computer e risorse utente all'interno di un ambiente Microsoft System Center Configuration Manager (Configuration Manager) solo quando Configuration Manager ha scoperto queste risorse e le ha assegnate a un sito. 
+
+  In questo modulo, scoprirai limiti e gruppi di limiti che aiutano a creare percorsi di rete logici contenenti i computer che devi gestire nella tua infrastruttura Configuration Manager. Puoi usare queste configurazioni di limiti per l'assegnazione automatica a siti e aiutare i clienti a trovare contenuti e servizi da sistemi di siti associati. Ti verrà spiegato anche il processo di scoperta che puoi usare per identificare computer, utenti e l'infrastruttura di rete all'interno del tuo ambiente di rete. 
+
+  Scoprirai poi le collezioni che supportano gruppi logici di risorse. Userai questi raggruppamenti per attività di gestione, come mirare agli aggiornamenti di software, gestire le distribuzio nidelle applicazioni, o implementare le impostazioni di conformità per le risorse. 
+  #### Lezioni
+  - Configurare limiti di siti e gruppi di limiti 
+  - Configurare la scoperta delle risorse
+  - Organizzare le risorse usando collezioni del dispositivo e dell'utente
+
+
+  #### Lab &#58; Configurare limiti e scoperta di risorse 
+  - Configurare limiti, gruppi di limiti e relazioni di fallback 
+  - Configurare metodi di scoperta dell'Active Directory
+
+
+  #### Lab &#58; Configurare collezioni del dispositivo e dell'utente 
+  - Creare una collezione del dispositivo
+  - Creare una collezione dell'utente
+  - Configurare una finestra di manutenzione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di#58;
+  - Configurare limiti e gruppi di limiti. 
+  - Configurare la scoperta delle risorse. 
+  - Organizzare le risorse usando collezioni del dispositivo e dell'utente.
+
+
+  ### Modulo 4&#58; Distribuire e gestire il client Configuration Manager 
+  Puoi installare il software client di Microsoft System Center Configuration Manager (Configuration Manager) su dispositivi con base windows, come server, stazioni di lavoro e computer portatili. Puoi poi gestire questi dispositivi ed eseguire delle operazioni come rendicontare le informazioni di inventario hardware e software, installare e aggiornare software e configurare le impostazioni richieste per la conformità. 
+
+  Configuration Manager fornisce diverse opzioni per l'installazione del software client. Questo modulo spiega i dispositivi e i sistemi operativi supportati, i requisiti dei software, e i diversi metodi per installare il software client. Questo modulo illustra anche alcune delle impostazioni client di default e personalizzate che puoi configurare. Dopo aver installato il software client, puoi configurare le impostazioni del client e controllare come le varie componenti dello stesso interagiscono tra il dispositivo gestito e l'ambiente Configuration Manager.
+  #### Lezioni
+  - Panoramica sul client Configuration Manager 
+  - Distribuire il client Configuration Manager 
+  - Configurare e monitorare lo status del client 
+  - Gestire le impostazioni del client ed eseguire operazioni di gestione
+
+
+  #### Lab &#58; Distribuire il software client Microsoft System Center Configuration Manager
+  - Preparare il sito all'installazione del client 
+  - Distribuire il software client su Configuration Manager usando l'installazione del client push 
+
+
+  #### Lab &#58; Configurare e monitorare lo status del client 
+  - Configurare e monitorare lo stato di salute del client
+
+
+  #### Lab &#58; Gestire le impostazioni del client 
+  - Configurare le impostazioni del client 
+  - Eseguire operazioni di gestione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare i requisiti e le considerazioni necessarie all'installazione del software client Configuration Manager.
+  - Distribuire il software client Configuration Manager.
+  - Gestire le impostazioni del client Configuration Manager.
+
+
+  ### Modulo 5&#58; Gestire l'inventario per PCs e applicazioni
+  Questo modulo offre una panoramica sulla collezione dell'inventario e spiega come puoi gestire le informazioni raccolte. Scoprirai anche i processi di raccolta dell'inventario hardware e software, come avviare dei cicli di inventario, e come avviare e rendere sicure le collezioni di inventario. Questo modulo copre anche l'uso della misurazione software per monitorare l'uso del programma, e la la configurazione e gestione dell'Asset Intelligence.
+  #### Lezioni
+  - Panoramica sulla collezione dell'inventario
+  - Configurare l'inventario hardware e software 
+  - Gestire la collezione dell'inventario
+  - Configurare la misurazione software 
+  - Configurare e gestire l'Asset Intelligence
+
+
+  #### Lab &#58; Configurare e gestire la collezione dell'inventario
+  - Configurare e gestire l'inventario hardware
+
+
+  #### Lab &#58; Configurare la misurazione software 
+  - Configurare la misurazione software 
+
+
+  #### Lab &#58; Configurare e gestire l'Asset Intelligence
+  - Preparare il sito all'Asset Intelligence
+  - Configurare l'Asset Intelligence
+  - Monitorare gli accordi di licenza usando l'Asset Intelligence
+  - Visualizzare i report dell'Asset Intelligence 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere la collezione dell'inventario.
+  - Configurare e raccogliere inventari hardware e software.
+  - Gestire la collezione dell'inventario.
+  - Configurare la misurazione software.
+  - Configurare l'Asset Intelligence.
+
+
+  ### Modulo 6&#58; Fornire e gestire contenuti usati per implementazioni
+  I client Microsoft System Center Configuration Manager (Configuration Manager) ottengono contenuti, come pacchetti, applicazioni, aggiornamenti software e persino immagini di sistemi operativi, da un'infrastruttura di contenuti fatta di punti di distribuzione e fonti peer cache. In questo modulo ripasserai la distribuzione di contenuti e le funzionalità di gestione, la configurazione dei punti di distribuzione, e scoprirai come fornire e monitorare contenuti. Eseguirai anche una validazione dei contenuti e il prestaging degli stessi. 
+  #### Lezioni
+  - Preparare l'infrastruttura alla gestione di contenuti 
+  - Fornire e gestire contenuti su punti di distribuzione 
+
+
+  #### Lab &#58; Fornire e gestire contenuti per implementazioni 
+  - Installare un nuovo punto di distribuzione 
+  - Gestire la distribuzione di contenuti
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Preparare l'infrastruttura alla gestione di contenuti. 
+  - Fornire e gestire contenuti su punti di distribuzione. 
+
+
+  ### Modulo 7&#58; Distribuire e gestire applicazioni 
+  In questo modulo imparerai i metodi per creare, distribuire e gestire applicazioni con Configuration Manager. Imparerai anche ad usare il Software Center e l'Application Catalog per installare le applicazioni disponibili. Scoprirai la gestione delle distribuzioni su applicazioni poco convenzionali. Inoltre, imparerai ad installare app e applicazioni virtualizzate su Windows 10.
+  #### Lezioni
+  - Panoramica sulla gestione delle applicazioni 
+  - Creare applicazioni 
+  - Distribuire applicazioni 
+  - Gestire applicazioni 
+  - Distribuire applicazioni virtuali usando il System Center Configuration Manager (Opzionale)
+  - Distribuire e gestire app su Windows Store 
+
+
+  #### Lab &#58; Creare e distribuire applicazioni 
+  - Creare applicazioni con requisiti
+  - Distribuire applicazioni 
+
+
+  #### Lab &#58; Gestire applicazioni più datate e la rimozione 
+  - Gestire applicazioni più datate
+  - Disinstallare l'applicazione Excel Viewer 
+
+
+  #### Lab &#58; Distribuire applicazioni  virtuali usando Configuration Manager (Opzionale)
+  - Distribuire applicazioni virtuali
+
+
+  #### Lab &#58; Usare Configuration Manager per distribuire app su Windows Store 
+  - Configurare il supporto per app sideloading su Windows Store 
+  - Configurare un'app su Windows Store 
+  - Distribuire le app su Windows 10 per gli utenti
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare le funzionalità di gestione applicazioni di Configuration Manager.
+  - Creare applicazioni.
+  - Distribuire applicazioni.
+  - Gestire applicazioni.
+  - Configurare e distribuire applicazioni virtuali. 
+  - Configurare e distribuire app su Windows Store.
+
+
+  ### Modulo 8&#58; Mantenere gli aggiornamenti software per PCs gestiti 
+  Questo modulo spiega come usare la funzionalità di aggiornamento software su Configuration Manager per implementare un processo di gestione end-to-end per la complessa attività di identificazione, distribuzione e monitoraggio di aggiornamenti software Microsoft e di terze parti per i tuoi client Configuration Manager.
+  #### Lezioni
+  - Il processo di aggiornamento software
+  - Preparare un sito Configuration Manager all'aggiornamento software
+  - Gestire aggiornamenti software 
+  - Configurare regole di implementazione automatica
+  - Monitorare e risolvere problemi di aggiornamenti software 
+  - Abilitare aggiornamenti di terze parti
+
+
+  #### Lab &#58; Configurare il sito per aggiornamenti software 
+  - Configurare e sincronizzare il punto di aggiornamento software
+
+
+  #### Lab &#58; Distribuire e gestire aggiornamenti software 
+  - Determinare la conformità degli aggiornamenti software 
+  - Distribuire gli aggiornamenti software per i client
+  - Configurare regole di implementazione automatica 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare come la funzionalità di aggiornamento software è integrata in Configuration Manager.
+  - Preparare il sito Configuration Manager agli aggiornamenti software.
+  - Gestire gli aggiornamenti software usando Configuration Manager.
+  - Configurare le regole di implementazione automatica.
+  - Monitorare e risolvere problemi di aggiornamenti software.
+  - Spiegare come abilitare aggiornamenti di terze parti. 
+
+
+  ### Modulo 9&#58; Distribuire Endpoint Protection per PCs gestiti 
+  Questo modulo spiega come usare le funzionalità relative alla sicurezza offerte da Configuration Manager per aiutare a proteggere i computer client da minacce malware, e come configurare impostazioni specifiche di Windows Defender Firewall per i client. Basata sulla funzionalità System Center Endpoint Protection (Endpoint Protection), Endpoint Protection su Configuration Manager supporta implementazione, gestione e monitoraggio di politiche antimalware, impostazioni Windows Defender Firewall, politiche Windows Defender Application Guard, politiche Windows Defender Exploit Guard, e politiche Windows Defender Application Control su computer client.
+  #### Lezioni
+  - Panoramica su Endpoint Protection in Configuration Manager
+  - Configurare, distribuire e monitorare le politiche Endpoint Protection 
+  - Configurare e distribuire politiche per minacce avanzate
+
+
+  #### Lab &#58; Distribuire Microsoft System Center Endpoint Protection
+  - Configurare il punto System Center Endpoint Protection e le impostazioni client
+  - Configurare e distribuire politiche Endpoint Protection 
+  - Monitorare Endpoint Protection
+
+
+  #### Lab &#58; Distribuire politiche per minacce avanzate 
+  - Creare e distribuire politiche di protezione da minacce avanzate 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare Endpoint Protection per individuare e porre rimedio alle vulnerabilità di sicurezza e a malware.
+  - Configurare, distribuire e gestire le politiche Endpoint Protection.
+  - Configurare e distribuire politiche di protezione da minacce avanzate. 
+
+
+  ### Modulo 10&#58; Gestire la conformità e l'accesso a dati sicuri 
+  Molte aziende richiedono sistemi, come server, computer portatili, computer fissi e dispositivi mobili, per soddisfare specifici requisiti di configurazione e conformità. Le impostazioni di conformità di Configuration Manager possono giocare un ruolo chiave nell'identificazione di configurazioni esistenti, nella scoperta di sistemi che apportano cambiamenti avversi alla configurazione e nel porre rimedio a queste impostazioni automaticamente quando necessario. 
+
+  Le impostazioni di conformità possono anche aiutare a controllare come gli utenti gestiscono e accedono ai dati in un contesto di rete aziendale. Per i computer con Windows 8 e sistemi operativi più recenti, puoi gestire i dati usando il reindirizzamento delle cartelle, file offline, e profili di roaming. Puoi anche controllare l'accesso ai dati usando profili di connessione da remoto, profili virtual private network (VPN), profili Wi-Fi, e profili di certificato.
+
+  Questo modulo illustra le impostazioni di conformità che puoi gestire usando Configuration Manager. Imparerai ad usare queste impostazioni per preservare i requisiti di configurazione e fornire l'accesso a dati sicuri per le risorse aziendali. 
+  #### Lezioni
+  - Panoramica sulle Impostazioni di Conformità 
+  - Configurare impostazioni di conformità 
+  - Visualizzare risultati di conformità 
+  - Gestire l'accesso a dati e risorse
+
+
+  #### Lab &#58; Gestire impostazioni di conformità 
+  - Gestire la configurazione di item e baseline 
+  - Visualizzare report e impostazioni di conformità
+  - Configurare la riparazione nelle impostazioni di conformità 
+  - Usare le informazioni di conformità per creare delle collezioni 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le funzionalità delle impostazioni di conformità.
+  - Configurare le impostazioni di conformità.
+  - Visualizzare i risultati di conformità.
+  - Gestire l'accesso a dati e risorse.
+
+
+  ### Modulo 11&#58; Gestire la Distribuzione del sistema operativo 
+  Questo modulo spiega come usare la funzione di distribuzione del sistema operativo su Configuration Manager per creare immagini del sistema operativo che puoi distribuire in computer non gestiti e in quelli gestiti da Configuration Manager. Ci sono diversi scenari per cui puoi distribuire un sistema operativo usando Configuration Manager, ad esempio quando stai lavorando con nuovi sistemi o stai facendo un upgrade di altri esistenti. La distribuzione del sistema operativo usa le componenti sia di Configuration Manager che di Windows per gestire e fornire immagini del sistema operativo. Puoi configurare le impostazioni su un computer di riferimento prima della cattura di un'immagine del suo sistema operativo o usando usare una sequenza di attività create da Configuration Manager dopo la distribuzione dell'immagine nel sistema destinatario. 
+
+  Questo modulo spiega anche come usare Configuration Manager per creare una strategia per distribuzioni di sistema operativo. In più, spiega come gestire Windows come servizio.
+
+
+  Questo modulo spiega come gestire Windows come servizio.
+  #### Lezioni
+  - Panoramica sulla distribuzione di un sistema operativo. 
+  - Preparare un sito alla distribuzione di un sistema operativo. 
+  - Distribuire un sistema operativo. 
+  - Gestire Windows come servizio.
+
+
+  #### Lab &#58; Preparare il sito alla distribuzione del sistema operativo. 
+  - Gestire i ruoli del sistema del sito, usati per supportare la distribuzione del sistema operativo. 
+  - Gestire pacchetti per supportare la distribuzione del sistema operativo. 
+
+
+  #### Lab &#58; Distribuire le immagini del sistema operativo per installazioni bare-metal 
+  - Preparare l'immagine del sistema operativo 
+  - Creare una sequenza di attività per distribuire un'immagine 
+  - Distribuire un'immagine
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare la terminologia, le componenti e gli scenari impiegati per distribuire un sistema operativo usando Configuration Manager.
+  - Preparare un sito alla distribuzione del sistema operativo.
+  - Implementare l'immagine di un sistema operativo. 
+  - Illustrare come gestire Windows come servizio.
+
+
+  ### Modulo 12&#58; Gestire e mantenere un sito Configuration Manager 
+  Questo modulo illustra l'amministrazione basata sul ruolo, i Remote Tools, e le attività di manutenzione del sito che puoi gestire usando Configuration Manager. Questo modulo illustra anche come effettuare un backup e ripristinare un sistema Configuration Manager e usare i consigli di Management Insights per semplificare l'amministrazione.
+  #### Lezioni
+  - Configurare l'amministrazione basata sul ruolo
+  - Configurare Remote Tools
+  - Panoramica sulla manutenzione di siti Configuration Manager e Management Insights
+  - Effettuare backup e ripristino di un sito Configuration Manager 
+  - Aggiornare l'infrastruttura Configuration Manager 
+
+
+  #### Lab &#58; Configurare l'amministrazione basata sul ruolo 
+  - Configurare una nuova possibilità per amministratori Toronto 
+  - Configurare un nuovo utente amministrativo
+
+
+  #### Lab &#58; Configurare Remote Tools
+  - Configurare le impostazioni client e le autorizzazioni Remote Tools
+  - Gestire computer desktop usando Remote Control
+
+
+  #### Lab &#58; Mantenere un sito Configuration Manager 
+  - Attività di manutenzione della configurazione su Configuration Manager
+  - Configurare l'attività Backup Site Server 
+  - Ripristinare un sito da un backup
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Configurare l'amministrazione basata sul ruolo. 
+  - Configurare Remote Tools per supportare l'attività del client.
+  - Identificare le attività di Manutenzione del sito di Configuration Manager.
+  - Effettuare backup e ripristino di un sito Configuration Manager.
+  - Usare Aggiornamenti e Assistenza per installare aggiornamenti dell'infrastruttura di Configuration Manager.
