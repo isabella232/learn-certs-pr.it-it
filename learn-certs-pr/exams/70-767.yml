@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-767
 displayName: 70-767
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è rivolto agli sviluppatori di processi ETL (Extract, Transform, Load) e data warehouse che creano soluzioni di Business Intelligence (BI). La loro responsabilità include la pulizia dei dati, oltre all'implementazione di ETL e data warehouse.
 
@@ -17,7 +15,6 @@ subTitle: Questo esame è rivolto agli sviluppatori di processi ETL (Extract, Tr
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trnq
 practiceTestUrl: http://www.mindhub.com/70-767-Developing-Implementing-a-Data-Warehouse-p/mu-70-767_p.htm
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=767&examname=Implementing%20a%20Data%20Warehouse%20using%20SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-767
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - Progettare, implementare e gestire un data warehouse (35-40%)
 - Estrarre, trasformare e caricare i dati (40-45%)
 - Creare soluzioni per la qualità dei dati (15-20%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

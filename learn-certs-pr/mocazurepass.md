@@ -104,6 +104,7 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 Costruire applicazioni e soluzioni con i servizi di base di Microsoft 365
+- PL-400T00 Microsoft Power Platform Developer
 - WS-050T00 Migrating Application Workloads to Azure
 
 Nota: Questo elenco è soggetto a modifiche e i titoli possono essere aggiunti o rimossi da questo elenco quando vengono rilasciate nuove versioni o corsi e le versioni e i corsi precedenti vengono ritirati.

@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-417
 displayName: 70-417
 summary: |+
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è destinato ai professionisti IT che desiderano convalidare le competenze e le conoscenze necessarie per implementare i servizi di infrastruttura di base di Windows Server 2012. I candidati devono aver già acquisito una certificazione di qualifica relativa a Windows Server 2008, Windows Server 2003, Windows Server 2000 o Windows XP&#58;
   - MCSA&#58; Windows Server 2008
@@ -33,12 +31,11 @@ summary: |+
   - MCSE&#58; Messaging on Windows Server 2000
   - MCSE&#58; Messaging on Windows Server 2003
 
-  <div style='font-weight&#58; bold;'><br/>Questo esame è stato aggiornato per includere gli ultimi aggiornamenti delle tecnologie in Windows Server 2012 R2 e System Center 2012 R2. Per ulteriori informazioni, consulta i documenti disponibili nelle pagine dei dettagli degli esami <a href='/learn/certifications/exams/70-410'>70-410</a>, <a href='/learn/certifications/exams/70-411'>70-411</a>, and <a href='/learn/certifications/exams/70-412'>70-412</a>.</div>
+  <div><strong><br/>Questo esame è stato aggiornato per includere gli ultimi aggiornamenti delle tecnologie in Windows Server 2012 R2 e System Center 2012 R2. Per ulteriori informazioni, consulta i documenti disponibili nelle pagine dei dettagli degli esami <a href='/learn/certifications/exams/70-410'>70-410</a>, <a href='/learn/certifications/exams/70-411'>70-411</a>, and <a href='/learn/certifications/exams/70-412'>70-412</a>.</strong></div>
 subTitle: 'Questo esame è destinato ai professionisti IT che desiderano convalidare le competenze e le conoscenze necessarie per implementare i servizi di infrastruttura di base di Windows Server 2012. I candidati devono aver già acquisito una certificazione di qualifica relativa a Windows Server 2008, Windows Server 2003, Windows Server 2000 o Windows XP.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
 practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=417&examname=Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-417
 locales:
 - en
 - zh-cn
@@ -63,6 +60,7 @@ skills:
 - Implementare Business Continuity e Disaster Recovery
 - Configurare i servizi di rete
 - Configurare soluzioni per l'accesso e la protezione delle informazioni
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

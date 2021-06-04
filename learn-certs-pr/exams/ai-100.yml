@@ -7,7 +7,7 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div><font color='red'><strong>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, SARA' DISPONIBILE IL 23 FEBBRAIO 2021. Potrai sostenere questo esame fino a quando verrà ritirato il 30 giugno 2021. Nota&#58; gli esami verranno ritirati alle 23&#58;59 CST.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>UNA NUOVA VERSIONE DI QUESTO ESAME,<a href='/learn/certifications/exams/ai-102'>AI-102</a>, È ORA DISPONIBILE. Potrai sostenere questo esame fino alla sua rimozione, che avverrà il 30 giugno 2021. Nota&#58; L'esame verrà rimosso alle 11&#58;59 PM, CST (fuso orario degli Stati Uniti Centrali).</strong></font></div>
   <div><strong>Il contenuto di questo esame è stato aggiornato il mercoledì 20 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
   
@@ -40,6 +40,7 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
+- azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
 courses:
@@ -58,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

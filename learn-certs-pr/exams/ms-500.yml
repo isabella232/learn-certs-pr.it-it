@@ -6,8 +6,7 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div>
-  <div><strong>Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 23 marzo 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
   </div>
   
   I candidati per questo esame devono essere in grado di implementare, gestire e monitorare le soluzioni di sicurezza e conformità per gli ambienti di Microsoft 365 e ibridi. Il Microsoft 365 Security Administrator protegge proattivamente l’ambiente aziendale Microsoft 365, risponde alle minacce, effettua indagini e rafforza la gestione dei dati. Il Microsoft 365 Security Administrator collabora con il Microsoft 365 Enterprise Administrator, le parti aziendali interessate e altri amministratori di carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione.
@@ -29,11 +28,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il 23 marzo 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei cambiamenti apportati. 
 - Implementare e gestire identità e accessi (30-35%)
 - Implementare e gestire la protezione dalle minacce (20-25%)
 - Implementare e gestire la protezione dalle informazioni (15-20%)
-- Gestire le funzionalità di governance e conformità in Microsoft 365 (20-25%)
+- Gestire le funzionalità di governance e conformità in Microsoft 365 (25-30%)
 roles:
 - administrator
 products:
@@ -56,10 +55,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

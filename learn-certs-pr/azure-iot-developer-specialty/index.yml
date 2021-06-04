@@ -2,26 +2,25 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: Gli Azure IoT Developer sviluppano componenti cloud ed edge di una soluzione Azure IoT.
+  description: Gli Sviluppatori Azure IoT implementano la configurazione ed eseguono i compiti di codifica richiesti per creare e provvedere alla manutenzione del cloud e delle porzioni marginali di una soluzione IoT.
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  I candidati alla certificazione Azure IoT Developer Specialty dovrebbero avere esperienza in materia di sviluppo di componenti cloud e edge di una soluzione IoT di Azure.
-
-  Le responsabilità di questo ruolo includono la gestione del ciclo di vita del dispositivo - installazione, configurazione e manutenzione - utilizzando servizi cloud e altri strumenti. Implementate progetti per soluzioni IoT di Azure tra cui topologia, connettività, debug e sicurezza dei dispositivi, nonché soluzioni per gestire, monitorare e trasformare pipeline di dati relative a IoT. Distribuisci anche componenti di Azure IoT Edge e configuri la rete dei dispositivi in periferia.
-
-  Azure IoT Developer lavora con tecnici dei dati e altre parti interessate per garantire un'integrazione aziendale di successo.
-
-  Un candidato a questa certificazione dovrebbe avere esperienza nell'implementazione dei servizi di Azure che formino una soluzione IoT, incluse opzioni di archiviazione dei dati, analisi dei dati, elaborazione dei dati e opzioni platform-as-a-service. Questo ruolo dovrebbe anche essere in grado di riconoscere le impostazioni di configurazione del servizio IoT di Azure all'interno della parte di codice di una soluzione IoT ed eseguire specifiche attività di codifica IoT in almeno una linguaggio supportato da Azure, inclusi C#, Node, C o Python.
+  Il Developer Azure IoT implementa la configurazione ed esegue i compiti di codifica necessari per creare e provvedere alla manutenzione del cloud e delle porzioni marginali di una soluzione IoT. Oltre a configurare e salvaguardare i dispositivi usando i servizi cloud, l'IoT Developer configura anche i dispositivi fisici. l'IoT Developer è responsabile della manutenzione e della risoluzione dei problemi in merito alla configurazione dei dispositivi durante il loro intero ciclo di vita. 
+  
+  L'IoT Developer implementa le specifiche progettuali per le soluzioni IoT, tra cui la topologia del dispositivo, la connettività, la diagnostica e il monitoraggio, e la sicurezza. L'IoT Developer sviluppa e implementa moduli e configura le reti dei dispositivi per la porzione IoT Edge della soluzione. L'IoT Developer implementa soluzioni progettuali per gestire le pipeline di dati, compreso il monitoraggio e la trasformazione dei dati in relazione all'IoT. L'IoT Developer lavora con Architetti Azure IoT, ingegneri dati e altre parti coinvolte per garantire un'integrazione aziendale di successo.   
+  
+  Gli IoT Developer dovrebbero avere una comprensione generale dei tipi di dispositivo e servizi Azure, compresi opzioni di archiviazione dati, analisi dati, elaborazione dati, AI, e altre opzioni Platform-as-a-Service. Gli IoT Developer devono essere in grado di programmare in almeno uno dei linguaggi supportati da Azure IoT SDK.
 subTitle: Gli Azure IoT Developer sviluppano componenti cloud ed edge di una soluzione Azure IoT.
 levels:
 - intermediate
 skills:
-- Implementare l'infrastruttura della soluzione IoT
-- Fornire e gestire i dispositivi
-- Implementare Edge
+- Configurare l'infrastruttura di soluzioni IoT 
+- Fornire e gestire i dispositivi  
+- Implementare IoT Edge 
+- Implementare l'integrazione aziendale business integration 
 - Elaborare e gestire i dati
-- Monitorare, risolvere i problemi e ottimizzare le soluzioni IoT
+- Monitorare, risolvere i problemi, e ottimizzare soluzioni IoT 
 - Implementare la sicurezza
 roles:
 - developer
@@ -37,6 +36,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
@@ -49,10 +49,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

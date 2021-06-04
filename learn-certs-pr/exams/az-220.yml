@@ -6,18 +6,14 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div>
-  <div><strong>Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
-  </div>
-
-  I candidati a questo esame dovrebbero avere esperienza in materia di sviluppo di componenti cloud ed edge di una soluzione IoT di Azure.
-
-  Le responsabilità di un Azure IoT Developer includono la gestione del ciclo di vita del dispositivo - installazione, configurazione e manutenzione - usando servizi cloud e altri strumenti. Implementa progetti per soluzioni IoT di Azure tra cui topologia, connettività, debug e sicurezza dei dispositivi, nonché soluzioni per gestire, monitorare e trasformare pipeline di dati relative a IoT. Distribuisce anche componenti di Azure IoT Edge e configura la rete dei dispositivi in Edge.
-
-  Un Azure IoT Developer lavora con tecnici dei dati e altre parti interessate per garantire un'integrazione aziendale di successo.
-
-  Un candidato a questo esame dovrebbe avere esperienza nell'implementazione dei servizi di Azure che formino una soluzione IoT, comprese le opzioni di archiviazione dei dati, analisi dei dati, elaborazione dei dati e opzioni platform-as-a-service. Questo ruolo dovrebbe anche essere in grado di riconoscere le impostazioni di configurazione del servizio IoT di Azure all'interno della parte di codice di una soluzione IoT ed eseguire specifiche attività di codifica IoT in almeno un linguaggio supportato da Azure, inclusi C#, Node, C o Python.
-subTitle: "Questo esame misura la tua capacità di implementare l'infrastruttura della soluzione IoT, effettuare il provisioning dei dispositivi e gestirli, implementare soluzioni su dispositivi Azure IoT Edge, elaborare e gestire i dati, monitorare, risolvere i problemi e ottimizzare le soluzioni IoT e implementare la sicurezza."
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
+  
+  Lo Sviluppatore Azure IoT implementa la configurazione ed esegue le attività di coding richieste per creare le porzioni cloud ed edge di una soluzione IoT. Oltre a configurare e salvaguardare i dispositivi usando servizi cloud, Lo Sviluppatore IoT imposta anche i dispositivi fisici. Lo Sviluppatore IoT è responsabile del mantenimento e della risoluzione di problemi della configurazione dei dispositivi durante il loro intero ciclo di vita.
+  
+  Lo Sviluppatore IoT implementa le specifiche progettuali per soluzioni IoT, tra cui la topologia del dispositivo, la connettività, la diagnostica e il monitoraggio, e la sicurezza. Lo Sviluppatore IoT sviluppa e implementa modelli e configura la rete del dispositivo per la porzione IoT Edge della soluzione. Lo Sviluppatore IoT implementa le soluzioni progettuali per gestire le pipeline di dati, tra cui il monitoraggio e la trasformazione degli stessi in rapporto IoT. Lo Sviluppatore IoT lavora in simbiosi con l'Architetto Azure IoT, i data engineer e le altre figure coinvolte per garantire un'integrazione aziendale di successo.
+  
+  Gli Sviluppatori IoT dovrebbero possedere una comprensione generale dei tipi di dispositivo e dei servizi Azure, compresi le opzioni di archiviazione dati, analisi dati, elaborazione dati, AI, e altre opzioni Platform-as-a-Service (PaaS). Gli Sviluppatore IoT devono essere in grado di programmare in almeno uno dei linguaggi supportati da Azure IoT SDK.
+subTitle: "Questo esame valuta la tua capacità di configurare le soluzioni di infrastruttura IoT; effettuare il provisioning e la gestione dei dispositivi; implementare IoT Edge; elaborare e gestire i dati; monitorare, risolvere i problemi e ottimizzare le soluzioni IoT; e implementare la sicurezza."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -30,10 +26,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica la presentazione delle abilità d'esame per vedere cosa cambierà.
-- Implementare l'infrastruttura della soluzione IoT (15-20%)
-- Fornire e gestire i dispositivi (20-25%)
-- Implementare Edge (15-20%)
+- Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei prossimi cambiamenti. 
+- Configurare le soluzioni di infrastruttura IoT (10-15%)
+- Effettuare il provisioning e gestire i dispositivi (15-20%)
+- Implementare IoT Edge (15-20%)
+- Implementare l'integrazione aziendale (5-10%)
 - Elaborare e gestire i dati (15-20%)
 - Monitorare, risolvere i problemi e ottimizzare le soluzioni IoT (15-20%)
 - Implementare la sicurezza (15-20%)
@@ -50,6 +47,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
@@ -59,10 +57,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

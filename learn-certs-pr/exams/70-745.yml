@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-745
 displayName: 70-745
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   I candidati idonei per questo esame sono professionisti IT responsabili dell’implementazione di un centro dati definito da software (SDDC) con Windows Server 2016 e Microsoft System Center 2016 Virtual Machine Manager (SCVMM).
 
@@ -18,7 +16,6 @@ summary: |-
 subTitle: I candidati idonei per questo esame sono professionisti IT responsabili dell’implementazione di un centro dati definito da software (SDDC) con Windows Server 2016 e Microsoft System Center 2016 Virtual Machine Manager (SCVMM).
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
 locales:
 - en
 levels:
@@ -30,6 +27,7 @@ skills:
 - Implementare soluzioni di calcolo per i centri dati Virtual Machine Manager (VMM)
 - Proteggere un centro dati definito da software
 - Monitorare ed eseguire la manuenzione di un centro dati definito da software
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

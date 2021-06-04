@@ -6,6 +6,8 @@ metadata:
 uid: certification.mta-software-development-fundamentals
 iconUrl: /media/learn/certification/badges/mta-badge.svg
 summary: |-
+  <div><font color='red'><strong>Questa certificazione MTA sarà rimossa il 30 giugno 2022. Il relativo esame deve essere acquistato entro il 30 giugno 2021 e deve essere sostenuto entro un anno, prima del 30 giugno 2022. Consulta <a href="/learn/certifications/mta-retirement-faqs">le FAQ</a> per più informazioni.</strong></font></br></br></div>
+  
   Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrare nel campo della tecnologia. Le certificazioni MTA riguardano un'ampia gamma di concetti tecnici fondamentali, valutano e convalidano le conoscenze tecniche di base e migliorano la credibilità tecnica. Nota&#58; Gli esami MTA non sono validi per la certificazione MCP e non sono un prerequisito per la certificazione MCSA o MCSD.
 subTitle: "Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrare nel campo della tecnologia. Le certificazioni MTA riguardano un'ampia gamma di concetti tecnici fondamentali, valutano e convalidano le conoscenze tecniche di base e migliorano la credibilità tecnica. Nota: Gli esami MTA non sono validi per la certificazione MCP e non sono un prerequisito per la certificazione MCSA o MCSD."
 levels:
@@ -17,19 +19,15 @@ roles:
 type: mta
 products:
 - vs
-courses:
-- uid: course.40361
-- uid: course.40035
-- uid: course.40034
 exams:
 - uid: exam.98-361
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

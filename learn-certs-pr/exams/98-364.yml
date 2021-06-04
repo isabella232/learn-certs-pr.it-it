@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-364
 displayName: 98-364
 summary: |-
+  <div><font color='red'><strong>Questo esame MTA deve essere acquistato entro il 30 giugno 2021. Se ti stai attualmente preparando per questo esame, dovrai sostenerlo entro un anno, prima del 30 giugno 2022, quando verrà rimosso. Consulta <a href="/learn/certifications/mta-retirement-faqs">le FAQ</a> per più informazioni.</strong></font></br></br></div>
+  
   I candidati di questo esame desiderano dimostrare conoscenze introduttive e competenze relative ai database, inclusi i database relazionali come Microsoft SQL Server. È consigliabile che i candidati acquisiscano familiarità ed esperienza pratica con i concetti e le tecnologie qui descritti, seguendo i relativi corsi di formazione oppure mediante le esercitazioni e gli esempi disponibili in MSDN e Microsoft Visual Studio. Nonostante si consigli una minima esperienza pratica con le tecnologie, per questi esami non è obbligatoria un'esperienza di lavoro.
 subTitle: I candidati di questo esame desiderano dimostrare conoscenze introduttive e competenze relative ai database, inclusi i database relazionali come Microsoft SQL Server. È consigliabile che i candidati acquisiscano familiarità ed esperienza pratica con i concetti e le tecnologie qui descritti, seguendo i relativi corsi di formazione oppure mediante le esercitazioni e gli esempi disponibili in MSDN e Microsoft Visual Studio. Nonostante si consigli una minima esperienza pratica con le tecnologie, per questi esami non è obbligatoria un'esperienza di lavoro.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -36,12 +38,11 @@ skills:
 - Manipolare i dati (25-30%)
 - Comprensione dell'archiviazione dei dati (15-20%)
 - Somministrare una banca datii (10-15%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - sql-server
-courses:
-- uid: course.40364
 relatedCertifications:
 - related:
     uid: none

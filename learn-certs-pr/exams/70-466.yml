@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-466
 displayName: 70-466
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è rivolto agli sviluppatori di soluzioni di Business Intelligence (BI) che richiedono l'implementazione di modelli di dati multidimensionali, l'implementazione e la manutenzione di cubi OLAP e la creazione di visualizzazioni delle informazioni utilizzate nei processi decisionali aziendali.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Questo esame è rivolto agli sviluppatori di soluzioni di Business Intelligence (BI) che richiedono l'implementazione di modelli di dati multidimensionali, l'implementazione e la manutenzione di cubi OLAP e la creazione di visualizzazioni delle informazioni utilizzate nei processi decisionali aziendali.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
 locales:
 - en
 - zh-cn
@@ -31,6 +28,7 @@ skills:
 - Gestire, aggiornare e risolvere i problemi di un database SQL Server Analysis Services (SSAS) (15-20%)
 - Creare un modello dati tabulare (15-20%)
 - Creare un rapporto con SQL Server Reporting Services (SSRS) (25-30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

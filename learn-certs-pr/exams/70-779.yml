@@ -6,15 +6,12 @@ metadata:
 uid: exam.70-779
 displayName: 70-779
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   I candidati idonei per questo esame devono possedere una buona comprensione di come usare Microsoft Excel per eseguire analisi dei dati. I candidati devono essere capaci di utilizzare, trasformare, modellare e visualizzare i dati in Excel. I candidati devono anche essere capaci di configurare e manipolare i dati in PowerPivot, tabelle Pivot e diagrammi Pivot. I candidati possono includere professionisti BI, analisti di dati e altri ruoli responsabili dell’analisi dei dati con Excel.
 subTitle: I candidati idonei per questo esame devono possedere una buona comprensione di come usare Microsoft Excel per eseguire analisi dei dati. I candidati devono essere capaci di utilizzare, trasformare, modellare e visualizzare i dati in Excel. I candidati devono anche essere capaci di configurare e manipolare i dati in PowerPivot, tabelle Pivot e diagrammi Pivot. I candidati possono includere professionisti BI, analisti di dati e altri ruoli responsabili dell’analisi dei dati con Excel.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t555
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=779&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Excel&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-779
 locales:
 - en
 levels:
@@ -23,6 +20,7 @@ skills:
 - Consumare e trasformare dati con Microsoft Excel (30-35%)
 - Modellare i dati (35-40%)
 - Visualizzare i dati (30-35%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

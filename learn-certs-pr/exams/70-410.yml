@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-410
 displayName: 70-410
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è la prima parte di una serie di tre esami incentrate sulle competenze e le conoscenze necessarie a implementare un'infrastruttura di base Windows Server 2012 in un ambiente aziendale esistente. Il superamento dell'esame convalida la capacità di un candidato di implementare e configurare i servizi di base di Windows Server 2012, come Active Directory e i servizi di rete. Il superamento di questo esame e degli altri due esami conferma che un candidato dispone delle competenze e delle conoscenze necessarie per implementare, gestire, eseguire la manutenzione e distribuire servizi e infrastrutture in un ambiente Windows Server 2012.
 
@@ -17,7 +15,6 @@ subTitle: Questo esame è la prima parte di una serie di tre esami incentrate su
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJk
 practiceTestUrl: https://www.mindhub.com/70-410-Installing-and-Configuring-Windows-Server-p/mu-70-410_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=410&examname=Installing%20and%20Configuring%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-410
 locales:
 - en
 - zh-cn
@@ -34,6 +31,7 @@ skills:
 - Distribuire e configurare i servizi di rete di base (15-20%)
 - Installare e amministrare Active Directory (15-20%)
 - Creare e gestire i Criteri di gruppo (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

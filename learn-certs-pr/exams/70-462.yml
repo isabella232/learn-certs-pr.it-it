@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-462
 displayName: 70-462
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è rivolto ai professionisti di database che eseguono attività di installazione, manutenzione e configurazione. Altre responsabilità includono la configurazione di sistemi di database, la verifica dell'efficienza di tali sistemi e le attività periodiche di archiviazione, ripristino e protezione dei dati dagli accessi non autorizzati.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Questo esame è rivolto ai professionisti di database che eseguono attività di installazione, manutenzione e configurazione. Altre responsabilità includono la configurazione di sistemi di database, la verifica dell'efficienza di tali sistemi e le attività periodiche di archiviazione, ripristino e protezione dei dati dagli accessi non autorizzati.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
 locales:
 - en
 - zh-cn
@@ -33,6 +30,7 @@ skills:
 - Gestire i dati (20-25%)
 - Implementare la sicurezza (15-20%)
 - Implementare la disponibilità elevata (5-10%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

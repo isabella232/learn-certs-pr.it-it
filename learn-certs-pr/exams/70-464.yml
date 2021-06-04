@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-464
 displayName: 70-464
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è rivolto ai professionisti di database che si occupano di sviluppare e implementare database nelle organizzazioni e assicurare livelli elevati di disponibilità dei dati. Le loro responsabilità includono la creazione di file di database, tipi di dati e tabelle; la pianificazione, la creazione e l'ottimizzazione degli indici; la verifica dell'integrità dei dati; l'implementazione di viste, procedure di salvataggio e funzioni; la gestione di transazioni e blocchi.
 
@@ -17,7 +15,6 @@ subTitle: Questo esame è rivolto ai professionisti di database che si occupano 
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI
 practiceTestUrl: https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=464&examname=Developing%20Microsoft%20SQL%20Server%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-464
 locales:
 - en
 - zh-cn
@@ -32,6 +29,7 @@ skills:
 - Implementare oggetti programmazione (15-20%)
 - Progettare oggetti database (25-30%)
 - Ottimizzare e risolvere i problemi relativi alle query (25-30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

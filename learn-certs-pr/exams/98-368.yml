@@ -6,8 +6,10 @@ metadata:
 uid: exam.98-368
 displayName: 98-368
 summary: |-
+  <div><font color='red'><strong>Questo esame MTA deve essere acquistato entro il 30 giugno 2021. Se ti stai attualmente preparando per questo esame, dovrai sostenerlo entro un anno, prima del 30 giugno 2022, quando verrà rimosso. Consulta <a href="/learn/certifications/mta-retirement-faqs">le FAQ</a> per più informazioni.</strong></font></br></br></div>
+  
   I candidati per questo esame hanno una conoscenza di base dei dispositivi Windows e della mobilità. I candidati devono avere esperienza pratica con dispositivi Windows, reti basate su Windows, Active Directory, prodotti antimalware, firewall, topologie e dispositivi di rete e porte di rete.
-
+  
   <div style='font-weight&#58; bold;'><br/>Ci sono aggiornamenti degli esami in vigore dal mercoledì 31 gennaio 2018. Per ulteriori informazioni su queste modifiche e su come influenzano le competenze misurate, scaricare e leggere il documento di modifica dell'esame 98-368.</div>
 subTitle: I candidati per questo esame hanno una conoscenza di base dei dispositivi Windows e della mobilità. I candidati devono avere esperienza pratica con dispositivi Windows, reti basate su Windows, Active Directory, prodotti antimalware, firewall, topologie e dispositivi di rete e porte di rete.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -40,12 +42,11 @@ skills:
 - Comprendere la sicurezza del dispositivo (20-25%)
 - Comprendere i servizi cloud (20-25%)
 - Comprendere la mobilità aziendale (20-25%)
+retirementDate: 06/30/2022
 roles:
 - administrator
 products:
 - windows
-courses:
-- uid: course.40368
 relatedCertifications:
 - related:
     uid: certification.mta-mobility-and-device-fundamentals

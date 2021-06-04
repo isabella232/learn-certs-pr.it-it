@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-768
 displayName: 70-768
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è rivolto agli sviluppatori di soluzioni di Business Intelligence (BI) che richiedono l'implementazione di modelli di dati multidimensionali, l'implementazione e la manutenzione di cubi OLAP e l'implementazione di modelli di dati tabulari.
 subTitle: Questo esame è rivolto agli sviluppatori di soluzioni di Business Intelligence (BI) che richiedono l'implementazione di modelli di dati multidimensionali, l'implementazione e la manutenzione di cubi OLAP e l'implementazione di modelli di dati tabulari.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjR
 practiceTestUrl: https://www.mindhub.com/70-768-Developing-SQL-Data-Models-p/mu-70-768_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=768&examname=Developing%20SQL%20Data%20Models&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-768
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - Progettare un modello semantico BI tabulare (20-25%)
 - Sviluppare query usando espressioni MDX (Multidimensional Expressions) e DAX (Data Analysis Expressions) (15-20%)
 - Configurare e gestire SQL Server Analysis Services (SSAS) (30-35%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

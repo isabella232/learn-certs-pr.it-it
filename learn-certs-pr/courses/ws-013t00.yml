@@ -95,7 +95,6 @@ outlineSection: |-
   - Pianificare e implementare Storage Replica
 
   #### Laboratorio &#58; Implementare un cluster Storage Spaces Direct
-  - Implementare un cluster Storage Spaces Direct utilizzando Windows Admin Center
   - Implementare un cluster Storage Spaces Direct utilizzando Windows PowerShell
   - Gestire un cluster Storage Spaces Direct utilizzando Windows Admin Center e Windows PowerShell
   - Gestire e monitorare la resilienza di un cluster Storage Spaces Direct

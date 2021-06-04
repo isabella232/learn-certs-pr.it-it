@@ -6,6 +6,8 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
+
   Se hai superato l’[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) prima che ritirata il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Desktop moderni.
 
   I candidati idonei a questo esame sono amministratori in grado di distribuire, configurare, proteggere, gestire e monitorare dispositivi e applicazioni client in un ambiente aziendale. I candidati sono in grado di gestire identità, accessi, criteri, aggiornamenti e app.
@@ -15,19 +17,20 @@ summary: |-
   I candidati devono conoscere i carichi di lavoro Microsoft 365 e devono esperti nella distribuzione, configurazione e manutenzione di dispositivi e tecnologie Windows 10 e non Windows.
 
   Superando questo esame di certificazione potresti essere idoneo per il credito universitario ACE. Consulta [Crediti universitari ACE per gli esami di certificazione](/learn/certifications/ace-credit-for-certification-exams) per maggiori informazioni.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: installare e aggiornare i sistemi operativi; gestire criteri e profili; gestire e proteggere i dispositivi e gestire app e dati. Se hai superato l’ Esame 70-698 prima che scadesse il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Desktop Moderni.'
+subTitle: 'Questo esame valuta la tua capacità di svolgere le seguenti operazioni tecniche: distribuire e aggiornare i sistemi operativi; gestire profili e politiche; gestire e proteggere i dispositivi; e gestire app e dati. Se hai superato l'Exam 70-698 prima della sua scadenza il 31 marzo 2019, dovrai sostenere solo il  MD-101 per acquisire la certificazione Modern Desktop.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
-practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Distribuire e aggiornare i sistemi operativi (35-40%)
-- Gestire criteri e profili (25-30%)
-- Gestire e proteggere i dispositivi (20-25%)
+- Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei prossimi cambiamenti.
+- Distribuire e aggiornare sistemi operativi (25-30%)
+- Gestire criteri e profili (20-25%)
+- Gestire e proteggere i dispositivi (30-35%)
 - Gestire app e dati (10-15%)
 roles:
 - administrator
@@ -51,10 +54,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
