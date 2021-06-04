@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'Gli ingegneri DevOps progettano e implementano strategie per la collaborazione, la codifica, l'infrastruttura, il controllo della sorgente, la sicurezza, la conformità, l'integrazione continua, i test, la consegna, il monitoraggio e i feedback.'
+  description: "Gli ingegneri DevOps progettano e implementano strategie per la collaborazione, la codifica, l'infrastruttura, il controllo della sorgente, la sicurezza, la conformità, l'integrazione continua, i test, la consegna, il monitoraggio e i feedback."
 uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
