@@ -22,15 +22,14 @@ certificationPaths:
 certifications:
 - uid: certification.azure-data-engineer
   requiredExams:
-  - uid: exam.dp-200
-  - uid: exam.dp-201
+  - uid: exam.dp-203
 resources:
 - title: Guida alla formazione e alle certificazioni Microsoft
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster sulla formazione e sulle certificazioni
   description: Usa il poster sulla formazione e sulle certificazioni per scegliere il percorso da seguire per raggiungere il successo.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Assistenza per le certificazioni
   href: ../help.md
   description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.

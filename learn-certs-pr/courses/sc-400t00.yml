@@ -1,0 +1,130 @@
+### YamlMime:Course
+title: Microsoft Information Protection Administrator
+metadata:
+  title: 'Course SC-400T00-A: Microsoft Information Protection Administrator'
+  description: 'Course SC-400T00-A: Microsoft Information Protection Administrator'
+uid: course.sc-400t00
+courseNumber: 'SC-400T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Spiegare e utilizzare etichette di riservatezza. 
+- skill: Configurare le politiche di Data Loss Prevention.
+- skill: Rendere sicuri i messaggi su Office 365.
+- skill: Illustrare il processo di configurazione di gestione delle informazioni.
+- skill: Definire i termini chiave associati alla protezione delle informazioni e alle soluzioni di gestione di Microsoft.
+- skill: Spiegare l'esploratore di Contenuto e l'esploratore di Attività. 
+- skill: Illustrare come usare tipi di informazioni di riservatezza e classificatori addestrabili. 
+- skill: Rivedere e analizzare report DLP.
+- skill: Identificare e mitigare violazioni della politica DLP.
+- skill: Descrivere l'integrazione di DLP con Microsoft Cloud App Security (MCAS).
+- skill: Distribuire Endpoint DLP
+- skill: Illustrare la gestione dei record
+- skill: Configurare la conservazione basata su evento
+- skill: Importare un progetto di file
+- skill: Configurare le politiche e le etichette di conservazione 
+- skill: Creare dizionari di parole chiave personalizzate 
+- skill: Implementare l'analisi delle impronte digitali dei documenti
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+exams:
+- uid: exam.sc-400
+summary: |-
+  Impara come proteggere le informazioni nella tua distribuzione Microsoft 365. Questo corso si focalizza sulla gestione dei dati e la protezione delle informazioni all'interno della tua azienda. Il corso compre le politiche di prevenzione dalla perdita dati, i tipi di informazioni riservate, le etichette di riservatezza, le politiche di conservazione dati e la crittografia dei messaggi di Office 365, insieme ad altre cose. Il corso aiuta i discenti a prepararsi per il Microsoft Information Protection Administrator exam (SC-400).
+
+  #### Profilo d'utenza
+  L'Information Protection Administrator pianifica e implementa dei controlli che soddisfano le esigenze di conformità di un'azienda. Questa persona è responsabile della traduzione dei controlli di requisiti e conformità in un'implementazione tecnica. Assiste i detentori del controllo aziendale a diventare e rimanere conformi. Lavora con personale informatico (IT), proprietari di applicazioni aziendali, risorse umane, e parti coinvolte legali per implementare una tecnologia che supporti politiche e controlli necessari per rispondere ai requisiti regolamentari dell'azienda. Lavora anche con il responsabile della conformità e della sicurezza, come un Chief Compliance Officer e un Security Officer, per valutare l'intero spettro dei rischi associati all'azienda e vi si affianca per sviluppare quelle politiche. Questa persona definisce dei requisiti applicabili e testa dei processi e delle operazioni IT nei confronti di quelle politiche e controlli. Questa figura è responsabile della creazione di politiche e regole per la classificazione dei contenuti, la prevenzione dalla perdita dei dati, la gestione e la protezione. 
+prerequisitesSection: |-
+  Prima di seguire questo corso, gli studenti dovrebbero essere in possesso di&#58;
+  - Conoscenza delle basi delle tecnologie di sicurezza e conformità di Microsoft.
+  - Conoscenza di base dei concetti di protezione delle informazioni. 
+  - Comprensione dei concetti di cloud computing.
+  - Comprensione dei servizi e prodotti di Microsoft 365.
+outlineSection: |-
+  ### Modulo 1&#58; Implementare la Protezione delle Informazioni su Microsoft 365
+  Le aziende necessitano di soluzioni di protezione delle informazioni per proteggere i propri dati dal furto e dalla perdita accidentale. Scopri come proteggere le tue informazioni sensibili. Scopri come le soluzioni di gestione di Microsoft 365 della protezione informazioni ti aiuta a proteggere e gestire i tuoi dati durante tutto il loro ciclo di vita - ovunque si trovino o viaggino. Scopri le informazioni disponibili per aiutarti a comprendere il panorama dei tuoi dati e a conoscerli. Scopri come usare i tipi di informazioni sensibili per supportare la tua strategia di protezione informazioni. Scopri come le etichette di riservatezza vengono usate per classificare e proteggere i dati aziendali mentre si assicurano che la produttività dell'utente e la possibilità di collaborare non vengano ostacolate. 
+  #### Lezioni
+  - Introduzione alla protezione e gestione delle informazioni su Microsoft 365
+  - Classificare dati a fini di protezione e gestione 
+  - Creare e gestire tipi di informazioni riservate 
+  - Illustrare la crittografia di Microsoft 365 
+  - Fornire la crittografia ai messaggi su Office 365
+  - Configurare etichette di riservatezza 
+  - Applicare e gestire etichette di riservatezza 
+
+  #### Lab &#58; Implementare la Protezione delle Informazioni 
+  - Assegnare autorizzazioni di conformità 
+  - Gestire la crittografia dei messaggi su Office 365
+  - Gestire Tipi di Informazioni Sensibili 
+  - Gestire Classificatori Addestrabili 
+  - Gestire Etichette di Riservatezza
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare l'approccio di Microsoft alla protezione e gestione delle informazioni.
+  - Elencare le componenti della soluzione Classificazione dei Dati. 
+  - Illustrare come usare i tipi di informazioni sensibili e i classificatori addestrabili. 
+  - Implementare il riconoscimento digitale dei documenti 
+  - Creare dizionari di parole chiave personalizzate 
+  - Fornire crittografia ai messaggi su Office 365
+  
+  
+  ### Modulo 2&#58; Implementare la Prevenzione dalla Perdita dei Dati su Microsoft 365
+  In questo modulo discuteremo di come implementare le tecniche di prevenzione dalla perdita di dati per rendere sicuri i tuoi dati su Microsoft 365. Impara come scoprire, classificare e proteggere i contenuti sensibili e cruciali per l'azienda durante il loro intero ciclo di vita, attraverso tutta l'azienda. Scopri come configurare e implementare le politiche di prevenzione dalla perdita dati e integrarle con Microsoft Cloud App Security. Impara come rispondere e mitigare violazioni della politica perdita dati. 
+  #### Lezioni
+  - Prevenire la perdita Dati su Microsoft 365
+  - Implementare la prevenzione perdita dati Endpoint 
+  - Configurare politiche DLP per Microsoft Cloud App Security and Power Platform
+  - Gestire politiche e report DLP su Microsoft 365
+  
+  #### Lab &#58; Implementare la Prevenzione da Perdita Dati 
+  - Gestire politiche DLP 
+  - Gestire Endpoint DLP
+  - Testare politiche DLP 
+  - Gestire report DLP 
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare il processo di configurazione per la protezione delle informazioni.
+  - Discutere della distribuzione e dell'adozione delle migliori pratiche.
+  - Descrivere l'integrazione di DLP con Microsoft Cloud App Security (MCAS).
+  - Configurare politiche su Microsoft Cloud App Security.
+  - Rivedere e analizzare report DLP.
+  - Identificare e mitigare violazioni della politica DLP.
+  - Mitigare violazioni DLP su MCAS.
+  
+  
+  ### Modulo 3&#58; Implementare la Gestione delle Informazioni su Microsoft 365
+  In questo modulo imparerai come pianificare e implementare strategie di gestione delle informazioni per un'azienda. Scopri come gestire il ciclo di vita dei tuoi contenuti usando soluzioni che possano importare, conservare e classificare dati critici per l'azienda, così da mantenere ciò di cui hai bisogno ed eliminare il superfluo. Scopri come gestire la conservazione per Microsoft 365, e come le soluzioni di conservazione sono implementate nei servizi individuali Microsoft 365. Scopri come usare la classificazione intelligente per automatizzare e semplificare la programmazione di conservazione per record normativi, legali e fondamentali per l'azienda all'interno della stessa.
+  #### Lezioni
+  - Gestire informazioni su Microsoft 365
+  - Gestire conservazione dati in carichi di lavoro Microsoft 365 
+  - Gestire record su Microsoft 365
+  
+  #### Lab &#58; Implementare la Gestione delle Informazioni 
+  - Configurare Etichette di Conservazione
+  - Implementare Etichette di Conservazione 
+  - Configurare Conservazione basata su Servizio
+  - Usare eDiscovery per il Ripristino
+  - Configurare Gestione dei Record
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare il processo di configurazione della gestione informazioni. 
+  - Discutere della distribuzione e dell'adozione delle migliori pratiche. 
+  - Descrivere le funzionalità di conservazione in carichi di lavoro Microsoft 365.
+  - Configurare le impostazioni di conservazione su Microsoft Teams e SharePoint Online.
+  - Implementare la conservazione per item Exchange Mailbox.
+  - Ripristinare contenuti protetti dalle impostazioni di conservazione. 
+  - Riacquisire item protetti da Exchange Mailboxes.
+  - Illustrare il processo di configurazione della gestione dei record.

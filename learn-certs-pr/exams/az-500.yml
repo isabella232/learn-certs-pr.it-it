@@ -6,17 +6,15 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div> 
-  <div><strong>Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
-  </div>
-
-  I candidati a questo esame dovrebbero disporre di competenze specifiche in materia di implementazione di controlli di sicurezza e protezione dalle minacce, gestione dell'identità e dell'accesso e protezione di dati, applicazioni e reti in ambienti cloud e ibridi come parte di un'infrastruttura end-to-end.
-
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 2 giugno 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
+  
+  I candidati per questo esame dovrebbero avere competenze in materia di implementazione dei controlli per la sicurezza e della protezione dalle minacce, gestione dell'identificazione e dell'accesso, e protezione di dati, applicazioni e reti.
+  
   Le responsabilità di un Azure Security Engineer includono il mantenimento della posizione di sicurezza, l'identificazione e la correzione delle vulnerabilità usando una varietà di strumenti di sicurezza, implementando la protezione dalle minacce e rispondendo alla crescita degli incidenti di sicurezza.
-
-  Gli Azure Security Engineer spesso fanno parte di un team più ampio dedicato alla gestione basata su cloud e agli ambienti di sicurezza o ibridi come parte di un'infrastruttura end-to-end.
-
-  Un candidato a questo esame deve avere familiarità con lo scripting e l'automazione, nonché una profonda conoscenza del networking e della virtualizzazione. Un candidato deve inoltre avere una forte familiarità con le funzionalità cloud, i prodotti e i servizi di Azure e altri prodotti e servizi Microsoft.
+  
+  Gli Ingegneri per la Sicurezza Azure spesso fanno parte di un team più ampio dedito alla gestione e sicurezza su base cloud e potrebbero anche occuparsi della protezione di ambienti ibridi in quanto parti di un'infrastruttura end-to-end.
+  
+  Il candidato per questo esame dovrebbe avere familiarità nei confronti di scripting e automazione; in più, dovrebbe possedere una conoscenza approfondita di rete e virtualizzazione. Il candidato dovrebbe avere grande dimestichezza con le potenzialità del cloud, i prodotti e i servizi Azure, e altri prodotti e servizi Microsoft.
 subTitle: 'Questo esame misura la tua capacità di effettuare le seguenti attività tecniche: gestire le identità e l’accesso, implementare la protezione della piattaforma, gestire le operazioni di sicurezza e mettere in sicurezza dati e applicazioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -34,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Gli argomenti oggetto d'esame verranno aggiornati il 27 gennaio 2021. Scarica la presentazione delle abilità d'esame per vedere cosa cambierà.
+- Il contenuto di questo esame sarà aggiornato il 2 giugno 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei prossimi cambiamenti. 
 - Gestire le identità e l’accesso (30-35%)
 - Implementare la protezione della piattaforma (15-20%)
 - Gestire le operazioni di sicurezza (25-30%)
@@ -66,10 +64,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

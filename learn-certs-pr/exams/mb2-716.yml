@@ -7,7 +7,7 @@ uid: exam.mb-2-716
 displayName: MB2-716
 summary: |-
   <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
   <div><strong>Il contenuto di questo esame è stato aggiornato martedì 4 febbraio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito per vedere che cosa è cambiato.</strong></div><br/>
   </div>
 
@@ -15,7 +15,6 @@ summary: |-
 subTitle: Questo esame è destinato ai candidati che desiderano ottenere una certificazione relativa alla personalizzazione e alla configurazione di Microsoft Dynamics 365. I partecipanti sono solitamente sviluppatori, consulenti nell’implementazione, personale di supporto tecnico e amministratori di sistema. Essi si occupano di valutare le esigenze aziendali dei clienti e di configurare e personalizzare l'applicazione.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
 locales:
 - en
 - ja
@@ -26,6 +25,7 @@ skills:
 - Implementare le entità, le relazioni tra le entità e i campi di Microsoft Dynamics 365 (20-25%)
 - Creare e gestire soluzioni, moduli, viste e visualizzazioni Microsoft Dynamics 365 (25-30%)
 - Implementare regole di business, flussi di progetto e flussi di processi aziendali (20-25%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

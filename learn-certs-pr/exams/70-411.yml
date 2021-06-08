@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-411
 displayName: 70-411
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è la seconda parte di una serie di tre esami è incentrato sulle competenze e le conoscenze necessarie ad amministrare un'infrastruttura di base Windows Server 2012 in un ambiente aziendale. Il superamento di questo esame convalida la capacità di un candidato di amministrare le attività richieste per mantenere un'infrastruttura di Windows Server 2012, come la gestione di utenti e gruppi, l'accesso alla rete e la sicurezza dei dati. Il superamento di questo esame e degli altri due esami conferma che un candidato dispone delle competenze e delle conoscenze necessarie per implementare, gestire, eseguire la manutenzione e distribuire servizi e infrastrutture in un ambiente Windows Server 2012.
 
@@ -17,7 +15,6 @@ subTitle: Questo esame è la seconda parte di una serie di tre esami è incentra
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7jV
 practiceTestUrl: https://www.mindhub.com/70-411-Administering-Windows-Server-2012-p/mu-70-411_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=411&examname=Administering%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-411
 locales:
 - en
 - zh-cn
@@ -34,6 +31,7 @@ skills:
 - Configurare Server Infrastructure dei criteri di rete
 - Configurare e gestire Active Directory
 - Configurare e gestire i Criteri di gruppo
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

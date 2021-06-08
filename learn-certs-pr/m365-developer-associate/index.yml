@@ -7,8 +7,8 @@ uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   Gli sviluppatori di Microsoft 365 progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
-
-  Gli sviluppatori di Microsoft 365 avere una conoscenza approfondita delle identità e di Microsoft Graph. Devono inoltre avere una conoscenza generale degli elementi dell’interfaccia utente (tra cui le schede adattive e UI Fabric) e dei punti di integrazione (tra cui Microsoft Teams, i moduli aggiuntivi di Office, SharePoint Framework e i messaggi interattivi), e sono in grado di determinare gli obiettivi per la piattaforma che gestisce il carico di lavoro.
+  
+  Gli Sviluppatori Microsoft 365 sono esperti di Microsoft identity e Microsoft Graph. Possiedono una conoscenza generale degli elementi di un'UI (Adaptive Cards e Office UI Fabric (Fluent UI) compresi), dei Punti di Integrazione (inclusi Microsoft Teams, Office Add-ins, SharePoint Framework, Messaggi Azionabili), e determinano gli obiettivi della piattaforma del carico di lavoro.
 subTitle: Gli sviluppatori di Microsoft 365 progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
 levels:
 - intermediate
@@ -29,6 +29,7 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
 exams:
 - uid: exam.ms-600
@@ -38,10 +39,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

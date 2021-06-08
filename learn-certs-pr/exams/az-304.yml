@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-304
 displayName: AZ-304
 summary: |-
-  <div>
-  <div><strong> Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica il documento sulle competenze misurate per vedere che cosa cambierà.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
   
   I candidati a questo esame dovrebbero avere esperienza in materia di progettazione e implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza. I candidati dovrebber avere competenze di livello intermedio nell'amministrazione di Azure. I candidati dovrebbero essere in grado di comprendere lo sviluppo su Azure e i processi DevOps.
   
@@ -30,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- Gli argomenti oggetto di questo esame saranno aggiornati il 27 Gennaio 2021. Scarica la presentazione delle competenze d'esame per vedere che cosa verrà variato.
+- Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei prossimi cambiamenti. 
 - Progettare il monitoraggio (10-15%)
 - Progettare identità e sicurezza (25-30%)
 - Progettare salvataggio dati (15-20%)
@@ -63,10 +61,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

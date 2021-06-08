@@ -7,7 +7,16 @@ uid: certification.d365-functional-consultant-manufacturing
 certificationRenewalUid: renewal.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  I consulenti funzionali di Supply Chain Management and Manufacturing di Dynamics 365 integrano sistemi digitali e fisici, migliorano la visibilità, l’efficienza e la flessibilità della produzione, riducendo i costi per i loro clienti.
+  Se sei un consulente funzionale o un utente aziendale con una comprensione fondamentale degli standard di produzione dell'azienda, questa certificazione potrebbe fare al caso tuo. Devi anche avere esperienza nella configurazione e nell'implementazione di Dynamics 365 Supply Chain Management per soddisfare i bisogni della tua azienda. I consulenti funzionali di produzione e gestione della supply chain sono delle risorse chiave che lavorano con sviluppatori, solution architect, project manager e consulenti funzionali nel campo della finanza, del commercio e della supply chain.
+  
+  Se hai bisogno di maturare più esperienza prima di provare ad acquisire questa certificazione, ecco alcuni suggerimenti&#58;
+  
+  - Studia i moduli di gestione della supply chain e di gestione della supply chain e della produzione su Microsoft Learn, e completa esercitazioni a carattere più pratico.
+  - Iscriviti a un corso di formazione tenuto da un istruttore che copra i percorsi MB-300 o MB-320.
+  - Prendi parte alla community su [community.dynamics.com](https://community.dynamics.com/), o unisciti a un gruppo di utenti.
+  - Segui passo passo un consulente funzionale della produzione in un'area di lavoro inerente alla produzione.  
+  - Trova un mentore, scopri le linee di produzione e impara le modalità di produzione.
+  - Fai domande e impara da esperti e clienti. 
 subTitle: 'I consulenti funzionali di Supply Chain Management and Manufacturing di Dynamics 365 integrano sistemi digitali e fisici, migliorano la visibilità, l’efficienza e la flessibilità della produzione, riducendo i costi per i loro clienti.'
 levels:
 - intermediate
@@ -53,7 +62,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Percorso di formazione per ottenere la certificazione
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE

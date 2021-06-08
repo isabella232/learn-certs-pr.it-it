@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-764
 displayName: 70-764
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è rivolto ai professionisti di database che eseguono attività di installazione, manutenzione e configurazione. Altre responsabilità includono la configurazione di sistemi di database, la verifica dell'efficienza di tali sistemi e le attività periodiche di archiviazione, ripristino e protezione dei dati dagli accessi non autorizzati.
 subTitle: Questo esame è rivolto ai professionisti di database che eseguono attività di installazione, manutenzione e configurazione. Altre responsabilità includono la configurazione di sistemi di database, la verifica dell'efficienza di tali sistemi e le attività periodiche di archiviazione, ripristino e protezione dei dati dagli accessi non autorizzati.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfJx
 practiceTestUrl: http://www.mindhub.com/70-764-Administering-SQL-Database-Infrastructure-p/mu-70-764_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=764&examname=Administering%20a%20SQL%20Database%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-764
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - Gestire il backup e il ripristino dei database (20-25%)
 - Gestire e monitorare le istanze di SQL Server (35-40%)
 - Gestire l’elevata disponibilità e il ripristino di emergenza (20-25%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

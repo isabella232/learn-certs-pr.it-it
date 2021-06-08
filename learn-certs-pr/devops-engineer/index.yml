@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'I professionisti Microsoft DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.'
+  description: "Gli ingegneri DevOps progettano e implementano strategie per la collaborazione, la codifica, l'infrastruttura, il controllo della sorgente, la sicurezza, la conformità, l'integrazione continua, i test, la consegna, il monitoraggio e i feedback."
 uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
@@ -12,7 +12,7 @@ summary: |-
   Le responsabilità per questo ruolo includono la progettazione e l'implementazione di strategie di collaborazione, codice, infrastruttura, controllo del codice sorgente, sicurezza, conformità, integrazione continua, test, consegna, monitoraggio e feedback.
 
   Il candidato a questa certificazione deve avere familiarità sia con l'amministrazione sia con lo sviluppo di Azure ed essere esperto in almeno una di queste aree.
-subTitle: I professionisti Microsoft DevOps combinano persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino i bisogni degli utenti e degli obiettivi di business.
+subTitle: Gli ingegneri DevOps progettano e implementano strategie per la collaborazione, la codifica, l'infrastruttura, il controllo della sorgente, la sicurezza, la conformità, l'integrazione continua, i test, la consegna, il monitoraggio e i feedback.
 levels:
 - advanced
 skills:
@@ -58,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md

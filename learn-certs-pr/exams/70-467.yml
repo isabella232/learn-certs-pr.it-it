@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-467
 displayName: 70-467
 summary: |-
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   Questo esame è rivolto ai progettisti di soluzioni di Business Intelligence (BI), responsabili della progettazione complessiva di un'infrastruttura BI e della relativa interazione con gli altri sistemi dati in uso.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Questo esame è rivolto ai progettisti di soluzioni di Business Intelligence (BI), responsabili della progettazione complessiva di un'infrastruttura BI e della relativa interazione con gli altri sistemi dati in uso.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
 locales:
 - en
 - zh-cn
@@ -32,6 +29,7 @@ skills:
 - Progettare una soluzione di reporting (20-25%)
 - Progettare i modelli dati BI (30-35%)
 - Progettare una soluzione ETL (10-15%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

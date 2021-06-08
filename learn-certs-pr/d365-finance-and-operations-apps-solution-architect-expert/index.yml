@@ -20,13 +20,14 @@ summary: |-
   - Segui un architetto di soluzioni o lavora come tale su alcuni progetti.
   - Offriti volontario per progettare e implementare una soluzione per app finanziarie e operative.
   - Partecipa a workshop sull'architettura delle soluzioni insieme ad altri esperti.
-subTitle: I Solution Architect per le app di Finance and Operations di Microsoft Dynamics 365 sono consulenti affidabili che capiscono le pratiche aziendali consigliate e il potenziale dei software. Guidano i membri del team ad implementare soluzioni Dynamics in grado di raggiungere gli obiettivi di implementazione predefiniti.
+subTitle: In qualità di candidato per questa certificazione, sei un professionista di Dynamics 365 che offre consigli alle parti coinvolte e trasforma i requisiti aziendali in soluzioni sicure, modulari ed affidabili. Progetti delle soluzioni coese per i tuoi clienti perché sai come lavorare con le componenti essenziali dell'architettura delle app di finanza e operazioni di Dynamics 365.
 levels:
 - advanced
 skills:
-- Identificare i requisiti della soluzione
-- Progettare i componenti della soluzione
-- Definire strategie per il testing e la gestione della soluzione
+- Soluzioni di architettura
+- Definire strategie di uscita  
+- Gestire implementazioni 
+- Gestire test
 roles:
 - functional-consultant
 - solution-architect
@@ -37,6 +38,11 @@ courses:
 - uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.implement-finance-operations
+- uid: learn-dynamics.use-success-design-unified-operations
+- uid: learn.wwl.config-d365-finance-operations-apps
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
 exams:
 - uid: exam.mb-700
@@ -58,7 +64,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRK
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Percorso di formazione per ottenere la certificazione
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm

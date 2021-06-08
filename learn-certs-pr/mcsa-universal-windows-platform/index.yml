@@ -6,9 +6,7 @@ metadata:
 uid: certification.mcsa-universal-windows-platform
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><strong>Questa certificazione verrà ritirata il 31 gennaio 2021. Non sarai più in grado di ottenere questa certificazione dopo tale data. Eventuali certificazioni ottenute prima della loro data di ritiro continueranno ad apparire nel tuo report nel <a href='https://www.microsoft.com/learning/dashboard.aspx'>Dashboard di certificazione</a>. Puoi anche <a href='/learn/certifications/retired-certifications'>consultare tutte le certificazioni ritirate</a>.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Questa certificazione è stata rimossa. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/'>pagina Esplora le Certificazioni e gli Esami</a>. Ogni certificazione acquisita prima della data della rimozione continuerà ad apparire sul tuo libretto su <a href='https://aka.ms/certdashboard'>Dashboard per la Certificazione</a>.</strong></font><br/><br/></div>
 
   Questa certificazione dimostra le tue competenze relative all'implementazione delle app su piattaforma universale Windows che offrono un'esperienza utente coinvolgente su una vasta gamma di dispositivi Windows.
 subTitle: Questa certificazione dimostra le tue competenze relative all'implementazione delle app su piattaforma universale Windows che offrono un'esperienza utente coinvolgente su una vasta gamma di dispositivi Windows.
@@ -29,10 +27,10 @@ exams:
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md

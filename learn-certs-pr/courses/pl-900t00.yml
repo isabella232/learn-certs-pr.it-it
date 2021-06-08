@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Descrivere i componenti di Power Platform: Power Apps, Power BI e Microsoft Automate'
-- skill: 'Descrivere i componenti di Power Platform: Common Data Service, connettori e AI builder'
+- skill: Illustrare le componenti di Power Platform 
+- skill: Illustrare Microsoft Dataverse, Connettori e costruttori AI 
 - skill: Descrivere gli scenari cross-cloud su M365, Dynamics 365, Microsoft Azure e servizi di terze parti
 - skill: Identificare i vantaggi e le capacità di Power Platform
 - skill: Identificare le funzionalità di base e i componenti Power Platform rilevanti per l'azienda
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Scopri il rilievo per l'azienda e le potenzialità di Power Platform. Crea semplici Power App, connetti i dati con Common Data Service, crea una dashboard di Power BI, automatizza un processo con Power Automate e crea un chatbot con Power Virtual Agents
+  Scopri il valore aziendale e le potenzialità di Power Platform. Crea semplici Power Apps, connetti dati con Dataverse, costruisci una Power BI Dashboard, automatizza processi con Power Automate, e sviluppa un chatbot con Power Virtual Agents
 
   #### Profilo dell'audience
   I candidati a questo esame sono utenti che aspirano a migliorare la produttività automatizzando i processi aziendali, analizzando i dati per elaborare informazioni aziendali e agendo in modo più efficace creando semplici app.
@@ -45,21 +45,22 @@ outlineSection: |-
   - Conoscere i componenti e le funzionalità di Power Platform
 
 
-  ### Modulo 2&#58; Introduzione a Common Data Service
-  Common Data Service consente di addentrarsi in soluzioni potenti e scalabili nel cloud. Conoscere cosa occorre per far funzionare Common Data Service e come può funzionare con Power Platform per creare soluzioni aziendali uniche ed efficienti.
+  ### Modulo 2&#58; Introduzione a Microsoft Dataverse
+  Dataverse ti consente di immergerti nelle soluzioni dati potenti e scalabili nel cloud. Scopri cosa fa funzionare Dataverse e come può lavorare con Power Platform per creare soluzioni aziendali uniche ed efficienti.
   #### Lezioni
-  - Panoramica di Common Data Service
-  - Riepilogo del modulo
-
-  #### Laboratorio &#58; Modellazione dei dati
-  - Creare una soluzione
-  - Creare entità e relazioni
-  - Importare dati
-
-  Dopo aver completato questo modulo, i partecipanti saranno in grado di&#58;
-  - Descrivere la differenza tra Common Data Service e Common Data Model
-  - Illustrare le condizioni d'uso e i limiti delle regole di business e dei flussi di processo
-  - Illustrare quali ambienti, entità, campi e relazioni ci sono in Common Data Service
+  - Panoramica su Microsoft Dataverse 
+  - Sintesi del modulo
+  
+  #### Lab &#58; Modellazione Dati
+  - Creare una Soluzione
+  - Aggiungere Tabelle Esistenti e Crearne di Nuove
+  - Creare Relazioni
+  - Importare Dati
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare la differenza tra Dataverse e Common Data Model
+  - Spiegare casi d'uso e limitazioni delle regole aziendali e elaborazione dei flussi 
+  - Spiegare quali ambienti, tavole, colonne e relazioni si trovano su Dataverse
 
 
   ### Modulo 3&#58; Come iniziare con Power Apps
@@ -131,10 +132,10 @@ outlineSection: |-
 
   #### Laboratorio &#58; Come realizzare un chatbot di base
   - Registrarsi a PVA e creare un nuovo bot
-  - Creare argomenti
-  - Argomenti del test
-  - Modificare il saluto
-  - Pubblicare il bot
+  - Creare Argomento
+  - Testare Argomento
+  - Cambiare il Messaggio di Benvenuto
+  - Pubblicare il Bot
 
   Dopo aver completato questo modulo, i partecipanti saranno in grado di&#58;
   - Illustrare il valore e le caratteristiche di Power Virtual Agents per il business

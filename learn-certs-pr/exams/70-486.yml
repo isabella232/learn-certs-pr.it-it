@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-486
 displayName: 70-486
 summary: |+
-  <div>
-  <div><strong>Questo esame verrà ritirato il 31 gennaio 2021 alle 23&#58;59 CT. Dopo questa data non sarà più possibile sostenere questo esame. Ulteriori informazioni sui <a href='/learn/certifications/retired-certification-exams'>prossimi esami che verranno ritirati</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Questo esame è stato rimosso il 31 gennaio 2021. Per le opzioni attualmente disponibili, consulta <a href='/learn/certifications/browse/?resource_type=examination'>Pagina Esplora le Certificazioni e gli Esami</a>.<br/><br/></strong></font></div>
 
   I candidati idonei per questo esame sono sviluppatori professionisti che utilizzano Microsoft Visual Studio 2017 e ASP.NET per progettare e sviluppare soluzioni Web. I candidati devono avere almeno 3-5 anni di esperienza nello sviluppo di soluzioni Microsoft ASP.NET basate su MVC e conoscere le app Web di Microsoft Azure.
 
@@ -24,7 +22,6 @@ subTitle: I candidati idonei per questo esame sono sviluppatori professionisti c
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
 practiceTestUrl: https://www.mindhub.com/70-486-developing-asppnet-mvc-web-applications/p/MU-70-486?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=486&examname=Developing%20ASP.NET%20MVC%20Web%20Applications&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-486
 locales:
 - en
 - zh-cn
@@ -42,6 +39,7 @@ skills:
 - Sviluppare l'esperienza utente (15-20%)
 - Risoluzione dei problemi e debugging delle applicazioni Web (20-25%)
 - Progettare e implementare la sicurezza (15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

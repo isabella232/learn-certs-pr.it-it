@@ -114,7 +114,7 @@ outlineSection: |-
   - Creare istogrammi e classifiche
 
 
-  ### Modulo 5&#58; Creare misure utilizzando DAX in Power BI
+  ### Modulo 5&#58; Creare Modelli di Calcolo usando DAX su Power BI
   Questo modulo ti presenta il mondo di DAX e il suo vero potere per migliorare un modello. Riceverai informazioni sulle aggregazioni e sui concetti di misure, colonne e tabelle calcolate e funzioni di Time Intelligence per risolvere i problemi di calcolo e analisi dei dati.
   #### Lezioni
   - Introduzione a DAX
@@ -163,7 +163,7 @@ outlineSection: |-
   - Progettare un rapporto
   - Configurare le proprietà dei campi visivi e del formato
 
-  #### Laboratorio&#58;  Miglioramento dei report Power BI con interazione e formattazione
+  #### Laboratorio&#58; Miglioramento dei report Power BI con interazione e formattazione
   - Creare e configurare filtri sincronizzati
   - Creare pagine di drill-through
   - Applicare la formattazione condizionale

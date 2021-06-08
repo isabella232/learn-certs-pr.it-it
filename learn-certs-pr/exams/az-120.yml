@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><strong>Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica il documento sulle competenze misurate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 28 maggio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
   </div>
 
   I candidati a questo esame dovrebbero essere architetti o ingegneri con una vasta esperienza e conoscenza del panorama dei sistemi SAP e degli standard di settore specifici per il funzionamento a lungo termine di una soluzione SAP su Microsoft Azure.
@@ -31,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- Gli argomenti oggetto d'esame sono stati aggiornati il 24 novembre 2020. Scarica la presentazione delle abilità d'esame per vedere cosa è cambiato.
+- Il contenuto di questo esame sarà aggiornato il 28 maggio 2021. Scarica la descrizione delle competenze per l'esame qui sotto per prendere visione dei prossimi cambiamenti.
 - Eseguire la migrazione dei carichi di lavoro SAP in Azure (10-15%)
 - Progettare una soluzione Azure che supporti i carichi di lavoro SAP (20-25%)
 - Compilare e distribuire Azure per i carichi di lavoro SAP (35-40%)
@@ -58,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e specialistiche.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
   href: ../deals.md
