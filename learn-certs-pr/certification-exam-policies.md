@@ -17,6 +17,7 @@ In tutto il mondo, partner e clienti si aspettano che Microsoft faccia esami e r
 - [Criteri di sicurezza degli esami e criteri di ripetizione degli esami](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [Riprogrammazione dell'esame e politica di cancellazione](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Contratto del programma di certificazione Microsoft](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Contratto di non divulgazione degli esami Microsoft](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [Richiesta alloggi](/learn/certifications/request-accomodations)
 - [Processo di contestazione degli elementi d'esame](/learn/certifications/exam-item-challenge-process)

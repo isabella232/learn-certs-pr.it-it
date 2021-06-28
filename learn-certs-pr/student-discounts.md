@@ -12,31 +12,66 @@ ms.prod: non-product-specific
 ---
 # Sconti per gli studenti
 
-## Certificazione per gli studenti
+## Sconti studenti
 
-I prezzi degli esami Microsoft Certified Professional per gli studenti sono disponibili nella maggior parte dei paesi (a eccezione di India e Cina).
+Siamo lieti di offrire tariffe accademiche su esami Microsoft Certification nella maggior parte dei paesi/regioni (tranne India e Cina). Per qualificarsi per uno sconto studenti, devi prima identificarti come studente sul tuo profilo Microsoft Certification e poi verificare il tuo status accademico. Una volta verificato, potrai ricevere lo sconto studenti quando ti registri ad un esame.
 
-Verifica il tuo stato di studente prima di pianificare l'esame per essere certo di aver diritto a usufruire di questi prezzi.
+## <a name="how-to-identify-yourself-as-student-in-profile"></a> Come identificarsi come studente sul tuo profilo Microsoft Certification
 
-## Richiesta dello stato di studente tramite il profilo del proprio account
+1. Accedi alla tua [Microsoft Certification Dashboard](https://aka.ms/certdashboard) con le credenziali del tuo account Microsoft.
+2. Seleziona “Modifica il tuo profilo di certificazione" in cima alla pagina.
+<br/>
+<br/>
+![Seleziona modifica il tuo profilo di certificazione](images/student-discounts-1.png)
+<br/>
+<br/>
+3. Per modificare il tuo profilo, seleziona l'icona a matita accanto a "Profilo di certificazione".
+<br/>
+<br/>
+![Seleziona l'icona a matita per modificare il profilo](images/student-discounts-2.png)
+<br/>
+<br/>
+4. Nel menu a tendina “Job title”, seleziona “Student”.
+<br/>
+<br/>
+![Seleziona student nel menu a tendina job title](images/student-discounts-3.png)
+<br/>
+<br/>
+5. Cerca la notifica del prezzo accademico sotto il menu a tendina “Job title”.
+<br/>
+<br/>
+![Seleziona student nel menu a tendina job title](images/student-discounts-4.png)
+<br/>
+<br/>
 
-1. Accedi con le credenziali del tuo account Microsoft.
-2. Seleziona **Profile settings** (Impostazioni profilo) dal menu **Account** nella parte superiore della pagina.
-3. Nel menu **Job Function** (Mansione lavorativa) selezionare o verificare che sia selezionata l'opzione "Student” (Studente).
-4. Individua la notifica relativa al prezzo accademico visualizzata vicino al menu **Job function** (Mansione lavorativa). Se lo stato di studente non è stato ancora convalidato, fare clic su "Get Verified” (Ottieni verifica) per verificare il tuo stato.
+## <a name="how-to-verify-your-academic-status"></a> Come verificare il tuo status accademico
 
-## Richiesta dello stato di studente al momento della registrazione a un esame
+1. Segui le istruzioni per identificarti come studente sul tuo profilo Microsoft Certification.
+2. Cerca la notifica del prezzo accademico che compare sotto il menu a tendina “Job title”. Seleziona “Get verified now” per essere reindirizzato al sistema di verifica accademica.
+<br/>
+<br/>
+![Seleziona Get verified adesso](images/student-discounts-5.png)
+<br/>
+<br/>
+3. Puoi verificare il tuo status accademico con ognuno dei metodi qui sotto. Seleziona il metodo che preferisci dal menu principale. Segui le istruzioni sullo schermo per il metodo di verifica di tua scelta.
+    - Account email fornito dalla scuola.
+    - Credenziali della rete scolastica.
+    - International Student Identity Card (ISIC).
+    - Codice di verifica da un rappresentante Microsoft o un amministratore della tua istituzione.
+    - Documentazione (la documentazione ammessa comprende ID studentesco con data, libretto attuale, programmazione attuale dei corsi con data, o lettera di accettazione della scuola di istruzione superiore).
+<br/>
+<br/>
+![Verifica status accademico](images/student-discounts-6.png)
+<br/>
+<br/>
 
-1. Accedi con le credenziali del tuo account Microsoft.
-2. Nell'esame al quale intendi registrarti, fai clic su **Schedule exam** (Pianifica esame).
-3. Nella pagina **Confirm your exam registration details** (Conferma i dettagli della registrazione all’esame), verifica che il campo **Job function** (Mansione lavorativa) visualizzi "Student - Verified” (Studente - Verificato). In caso contrario, fai clic su "Get Verified” (Ottieni verifica) per convalidare il tuo stato o su **Edit** (Modifica) per modificare lo stato.
+## Controllare il tuo status studente quando ti registri per un esame
 
-## Verifica dello stato di studente
+1. Sulla pagina di dettagli di un esame o di una certificazione per cui intendi registrarti, clicca "Programma esame".
+2. Accedi con le credenziali del tuo account Microsoft associato al tuo profilo Microsoft Certification.
+3. Quando verifichi che il tuo profilo si aggiornato, assicurati che nel campo “Job title” sia presente “Student—verified”.
+4. Se il tuo profilo di certificazione non mostra questo status, segui le istruzioni su [Come identificarti come studente sul tuo profilo di certificazione Microsoft Certification](#how-to-identify-yourself-as-student-in-profile) o [Come verificare il tuo status accademico](#how-to-verify-your-academic-status).
 
-Seleziona il metodo da utilizzare per verificare il tuo stato. I metodi disponibili sono:
+## Ottenere supporto con gli sconti studenti
 
-1. Account di posta elettronica assegnato dalla scuola
-2. Credenziali di rete della scuola
-3. ISIC (Carta d’identità internazionale dello studente)
-4. Codice di verifica fornito da un rappresentante Microsoft o dall'amministratore dell'istituto
-5. Documentazione
+Consulta: [supporto certificazione](/learn/certifications/help).

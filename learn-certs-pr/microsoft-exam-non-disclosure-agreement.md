@@ -63,22 +63,22 @@ Il presente accordo entrerà in vigore a partire dalla data di accettazione tra 
 
     Sostenendo questo esame, il candidato accetta che Microsoft, le sue società affiliate e il fornitore di esami possano:
 
-    1. Condividere informazioni sulla sua persona, come informazioni personali e dati sull'esame, per amministrare gli esami, migliorare l'esperienza e il programma dei test, semplificare le analisi statistiche e stabilire se il candidato abbia superato l'esame.
-    2. Contattare il candidato in merito ai certificati che attestano il superamento dell'esame o informazioni relative al programma di certificazione Microsoft.
-    3. Condividere le informazioni del candidato con altri programmi Microsoft, ad es. il programma Microsoft Partner Network, per verificare che il candidato o il suo datore di lavoro si conformino ai requisiti del programma.
-    4. Condividere le informazioni del candidato con le commissioni che si occupano di standard e di certificazione affiliate all’istituto accademico, azienda o ente governativo che ha fornito il voucher per l'esame.
-    5. Condividere le informazioni personali e i risultati dell'esame dello stesso con l'ente che ha rilasciato il voucher o che ha acquistato la licenza del sito se l'esame è stato reso disponibile attraverso uno dei seguenti metodi:
+    - Condividere informazioni sulla sua persona, come informazioni personali e dati sull'esame, per amministrare gli esami, migliorare l'esperienza e il programma dei test, semplificare le analisi statistiche e stabilire se il candidato abbia superato l'esame.
+    - Contattare il candidato in merito ai certificati che attestano il superamento dell'esame o informazioni relative al programma di certificazione Microsoft.
+    - Condividere le informazioni del candidato con altri programmi Microsoft, ad es. il programma Microsoft Partner Network, per verificare che il candidato o il suo datore di lavoro si conformino ai requisiti del programma.
+    - Condividere le informazioni del candidato con le commissioni che si occupano di standard e di certificazione affiliate all’istituto accademico, azienda o ente governativo che ha fornito il voucher per l'esame.
+    - Condividere le informazioni personali e i risultati dell'esame dello stesso con l'ente che ha rilasciato il voucher o che ha acquistato la licenza del sito se l'esame è stato reso disponibile attraverso uno dei seguenti metodi:
         - da un'azienda o un'organizzazione governativa che ha acquistato voucher e che successivamente ha fornito tali voucher ai suoi dipendenti o appaltatori,
         - da un istituto accademico che ha acquistato voucher e che successivamente ha fornito tali voucher ai suoi studenti o dipendenti; oppure
         - da un istituto accademico o un'organizzazione governativa che gestiva un centro di esami e non gli ha addebitato una tariffa unica per sostenere l'esame;
         - da un'agenzia governativa che fornisce assegni di formazione in base alle condizioni di completamento e secondo il processo di verifica specificato da Microsoft.
-    6. Condividere i risultati degli esami e le informazioni personali del candidato con un'entità che ha finanziato l'esame, se il finanziamento è stato reso disponibile tramite un'agenzia governativa che fornisce assegni di formazione in base alle condizioni di completamento e in base al processo di verifica specificato da Microsoft.
+    - Condividere i risultati degli esami e le informazioni personali del candidato con un'entità che ha finanziato l'esame, se il finanziamento è stato reso disponibile tramite un'agenzia governativa che fornisce assegni di formazione in base alle condizioni di completamento e in base al processo di verifica specificato da Microsoft.
 
     Per ulteriori informazioni sulla raccolta dei dati e sulle procedure del loro utilizzo da parte di Microsoft, visitare [https://privacy.microsoft.com](https://privacy.microsoft.com/). Per ulteriori informazioni sulle procedure di raccolta e utilizzo dei dati da parte della struttura in cui si svolge l'esame, sarà necessario contattare tale struttura.
 
 6. **AVVISO SUL TRASFERIMENTO DATI**
 
-    I dati personali, le informazioni sugli esami e i risultati degli esami del candidato (compresi i dati personali raccolti all'interno dell'Unione europea, dello Spazio economico europeo e della Svizzera) possono essere trasferiti, archiviati ed elaborati negli Stati Uniti o in qualsiasi altro paese in cui Microsoft o le sue affiliate o subappaltatori abbiano delle strutture. Il candidato incarica Microsoft, le sue affiliate e il fornitore di esami di trasferire questi dati, le informazioni e i risultati relativi agli esami in tali paesi a scopo di archiviazione ed elaborazione. Microsoft rispetta l’EU Safe Harbor vigente in Europa e in Svizzera stabilito dal Department of Commerce degli Stati Uniti per la raccolta, l'utilizzo e la conservazione dei dati provenienti dall'Unione europea, dallo Spazio economico europeo e dalla Svizzera.
+    I tuoi dati personali, le informazioni d'esame e i risultati d'esame (compresi i dati personati raccolti all'interno dell'Area Economica Europea, il Regno Unito e la Svizzera) potrebbero essere trasferiti, archiviati ed elaborati negli Stati Uniti o in altri paesi in cui Microsoft o i suoi soci o subcontrattori possiedono delle strutture. Incarichi Microsoft e i suoi soci per l'esecuzione di tali trasferimenti dei tuoi dati, delle informazioni d'esame e dei risultati d'esame in ogni paese, e della loro archiviazione ed elaborazione. Consulta [la Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=248681) per più informazioni su come raccogliamo, usiamo e condividiamo i tuoi dati.
 
 7. **PROPRIETÀ E TUTTI I DIRITTI RISERVATI**
 

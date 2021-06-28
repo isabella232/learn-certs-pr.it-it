@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 2 giugno 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 2 giugno 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
   
   I candidati idonei a questo esame sono Microsoft 365 Enterprise Administrator coinvolti nella valutazione, pianificazione, migrazione, installazione e gestione dei servizi Microsoft 365. Eseguono attività di gestione dei tenant di Microsoft 365 per un’azienda, occupandosi tra l’altro di identità, sicurezza, conformità e tecnologie di supporto.
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame sarà aggiornato il 2 giugno 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei prossimi cambiamenti.
+- Il contenuto di questo esame è stato aggiornato il 2 giugno 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
 - Progettare e implementare servizi Microsoft 365 (25-30%)
 - Gestire l'identità utente e i ruoli (25-30%)
 - Gestire l'accesso e l'autenticazione (15-20%)

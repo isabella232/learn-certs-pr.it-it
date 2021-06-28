@@ -51,6 +51,8 @@ products:
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
 exams:
 - uid: exam.az-140
+courses:
+- uid: course.az-140t00
 resources:
 - title: Poster delle certificazioni di Azure
   description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.

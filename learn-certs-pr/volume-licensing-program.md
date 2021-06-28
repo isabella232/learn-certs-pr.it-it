@@ -34,13 +34,13 @@ Consolidando l’acquisto, il budget e il controllo delle soluzioni di formazion
 
   Microsoft Imagine Academy offre quanto segue:
 
-  * 30 voucher per esami di certificazione gratuiti per lo sviluppo professionale di educatori/personale (MOS, MTA, Fundamentals e MCE) Secondo l'accordo VL (condiviso tra le scuole)
-  * Contenuti per corsi di produttività (MOS) e corsi IT (MTA) di livello base - MOAC
-  * Guide allo studio per gli esami del MOS 2016 e MOS 2019/O365
-  * Sconto del 50% sul programma MCT (Microsoft Certified Trainer)
-  * Accesso al contenuto Microsoft Official Courseware (MOC)
-  * Certificati personalizzabili di completamento del corso
-  * Sconto del 40% sui libri Microsoft Press
+  * 30 voucher per esami di certificazione gratuiti per lo sviluppo professionale di educatori/personale (MOS, MTA, Fundamentals e MCE) Secondo l'accordo VL (condiviso tra le scuole).
+  * Contenuti per corsi di produttività (MOS) e corsi IT (MTA) di livello base - MOAC.
+  * Guide allo studio per gli esami del MOS 2016 e MOS 2019/O365.
+  * Sconto del 50% sul programma MCT (Microsoft Certified Trainer).
+  * Accesso al contenuto Microsoft Official Courseware (MOC).
+  * Certificati personalizzabili di completamento del corso.
+  * Sconto del 40% sui libri Microsoft Press.
 
   L'accesso a Microsoft Imagine Academy (MSIA) è disponibile previo acquisto o rinnovo di abbonamenti a volume di licenza EES (Enrollment for Education Solutions), School e OVS-ES (Open Value Subscription - Education Enrollment).
 
@@ -62,10 +62,10 @@ Consolidando l’acquisto, il budget e il controllo delle soluzioni di formazion
 
   **Ulteriori risorse sulle certificazioni per istituti accademici disponibili con il contratto Multilicenza**
 
-  * [Programma Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [Scheda dati delle certificazioni Microsoft per gli istituti accademici](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Roadmap delle certificazioni di Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Scheda dati dei pacchetti di esame di certificazione Microsoft per istituti accademici disponibili con il contratto Multilicenza](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Programma Microsoft Imagine Academy.](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [Scheda dati delle certificazioni Microsoft per gli istituti accademici.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Roadmap delle certificazioni di Microsoft Imagine Academy.](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Scheda dati dei pacchetti di esame di certificazione Microsoft per istituti accademici disponibili con il contratto Multilicenza.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Ulteriori risorse sui corsi di e-learning per istituti accademici disponibili con il contratto Multilicenza
 
@@ -75,18 +75,18 @@ Consolidando l’acquisto, il budget e il controllo delle soluzioni di formazion
 
   Microsoft non fornsce più corsi di e-learning nell’ambito del contratto Multilicenza. Le seguenti risorse sono accessibili ai clienti che utilizzano ancora contenuti di e-learning nell’ambito dei loro contratti esistenti. Sono pensate per aiutarti a distribuire, configurare e amministrare i tuoi acquisti di corsi di e-learning nell’ambito del contratto Multilicenza.
 
-  * [Guida all’utilizzo online per i responsabili dei servizi online disponibili con il contratto Multilicenza](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [Guida all’utilizzo online del contratto Multilicenza per utenti finali/studenti](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Programma Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [Certificazioni Microsoft per le istituti accademici](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Roadmap delle certificazioni di Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Pacchetti di esame di certificazione Microsoft per istituti accademici disponibili con il contratto Multilicenza](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Guida all’utilizzo online per i responsabili dei servizi online disponibili con il contratto Multilicenza.](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [Guida all’utilizzo online del contratto Multilicenza per utenti finali/studenti.](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [Programma Microsoft Imagine Academy.](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [Certificazioni Microsoft per le istituti accademici.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Roadmap delle certificazioni di Microsoft Imagine Academy.](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Pacchetti di esame di certificazione Microsoft per istituti accademici disponibili con il contratto Multilicenza.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Contattaci
 
   Per iniziare a usare le soluzioni di formazione e certificazione Microsoft, contatta il tuo responsabile degli account con contratti Multilicenza. Per domande sui prezzi, le licenze e gli sconti immedati, invia un messaggio di posta elettronica a [MSLVLPurchase@microsoft.com](mailto:MSLVLPurchase@microsoft.com).
 
-  [Contatta il nostro addetto alle vendite per informazioni sull’aggiunta di soluzioni di formazione e certificazione Microsoft](mailto:mslvlhlp@microsoft.com)
+  [Contatta il nostro addetto alle vendite per informazioni sull’aggiunta di soluzioni di formazione e certificazione Microsoft](mailto:mslvlhlp@microsoft.com).
 
 ## Domande frequenti
 
@@ -142,14 +142,14 @@ Le soluzioni per la formazione e certificazionr di Microsoft sono riservate ai c
 
 Le soluzioni per la formazione e certificazione di Microsoft vengono vendute al prezzo di un pacchetto. I pacchetti delle soluzioni per la formazione e certificazione di Microsoft possono essere acquistate con un abbonamento di 12 mesi oppure pagate ratealmente per il numero di mesi restanti del contratto principale. Non è necessario acquistare una licenza User Subscription License (USL) o Add-on Subscription License (ASL) a parte, licenze che sono invece richieste per altri programmi disponibili nell’ambito dei Servizi online con contratto Multilicenza.
 
-**Nota** Se ordini soluzioni per la formazione e certificazione di Microsoft tramite un abbonamento di 12 mesi, gli ordini successivi scadranno alla stessa data dell’abbonamento annuale iniziale. [Visit the Online Services Guide](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**Nota** Se ordini soluzioni per la formazione e certificazione di Microsoft tramite un abbonamento di 12 mesi, gli ordini successivi scadranno alla stessa data dell’abbonamento annuale iniziale. 
 
 **D: Quanti codici è opportuno acquistare?**
 
 Più codici acquista la sua azienda e più alti saranno gli sconti a cui avrà diritto. Ti consigliamo di utilizzare una delle seguenti risorse per determinare le necessità formative della tua azienda e per sviluppare un piano di formazione allineato ai tuoi obiettivi aziendali.
 
-- [Invia un messaggio di posta elettronica al Supporto per le soluzioni di formazione e certificazione di Microsoft acquistabili con un contratto Multilicenza](mailto:mslvlhlp@microsoft.com)
-- [Trova il Microsoft Certified Partner responsabile per le soluzioni per la formazione e certificazione di Microsoft della tua zona](https://www.microsoft.com/learning/find-partner.aspx)
+- [Invia un messaggio di posta elettronica al Supporto per le soluzioni di formazione e certificazione di Microsoft acquistabili con un contratto Multilicenza.](mailto:mslvlhlp@microsoft.com)
+- [Trova il Microsoft Certified Partner responsabile per le soluzioni per la formazione e certificazione di Microsoft della tua zona](/learn/certifications/partners)
 
 **D: Quanti voucher è opportuno ordinare?**
 

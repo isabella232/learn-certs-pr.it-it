@@ -22,40 +22,29 @@ Circa sei mesi dopo che le certificazioni basate su ruolo e specializzazione son
 
 Quando sei idoneo a rinnovare la certificazione, riceverai una notifica via e-mail collegata al tuo ID di certificazione Microsoft (MCID). Riceverai fino a quattro promemoria via e-mail prima della scadenza della certificazione. Dopo aver rinnovato la certificazione, non riceverai più alcun promemoria fino al momento del rinnovo.
 
-Controlla la seguente tabella di marcia (soggetta a modifiche) mentre lanciamo le prime valutazioni di rinnovo per le certificazioni presenti sul mercato.
+La prima serie delle valutazioni di rinnovi che saranno resi disponibili è qui elencata. Sono pianificati nell'ordine in cui l'idoneità dei singoli discenti si apre ai rinnovi. I discenti sono idonei al rinnovo entro i sei mesi che precedono la scadenza della loro certificazione. Controlla questa pagina per aggiornamenti/cambiamenti alla lista.
 
-| Valutazioni di rinnovo disponibili ad inizio febbraio 2021 |
+| Valutazioni di rinnovo disponibili a marzo 2021 |
 | --- |
 | Microsoft Certified: Azure Administrator Associate |
 | Microsoft Certified: Azure Developer Associate |
 | Microsoft Certified: Azure Security Engineer Associate |
 | Microsoft Certified: DevOps Engineer Expert |
 | Microsoft Certified: Azure Solutions Architect Expert |
-| Microsoft Certified: Azure for SAP Workloads Specialty |
-| Microsoft Certified: Azure IoT Developer Specialty |
+| Microsoft Certified: Azure AI Engineer Associate |
+| Microsoft Certified: Azure Data Engineer Associate |
 | Microsoft Certified: Azure Data Scientist Associate |
 | Microsoft 365 Certified: Modern Desktop Administrator Associate |
 | Microsoft 365 Certified: Messaging Administrator Associate |
-| Microsoft 365 Certified: Security Administrator Associate |
-| Microsoft 365 Certified: Developer Associate |
-| Microsoft 365 Certified: Teams Administrator Associate |
+| Microsoft 365 Certified: Security Administrator Associate |							  
 | Microsoft 365 Certified: Enterprise Administrator Expert |
+| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
+| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
-
-| Valutazioni di rinnovo disponibili da metà febbraio a marzo 2021 |
-| --- |
-| Microsoft Certified: Azure AI Engineer Associate |
-| Microsoft Certified: Azure Data Engineer Associate |
-| Microsoft Certified: Azure Database Administrator Associate |
-| Microsoft Certified: Data Analyst Associate |
-| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Developer Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Solution Architect Expert |
 
 ## Vantaggi del rinnovo della certificazione
 
@@ -70,7 +59,7 @@ Controlla la seguente tabella di marcia (soggetta a modifiche) mentre lanciamo l
 
 ## Come rinnovare la certificazione
 
-- Per identificare quali certificazioni sono disponibili per il rinnovo, accedi al tuo [Dashboard di certificazione](https://aka.ms/CertDashboard).
+- Per identificare quali certificazioni sono disponibili per il rinnovo, accedi al tuo [Dashboard di certificazione.](https://aka.ms/CertDashboard)
 - Assicurati che il tuo profilo di certificazione sia collegato al tuo profilo Docs su Microsoft Learn.
 - Non appena sarai idoneo per il rinnovo, riceverai un'e-mail di notifica che ti indirizzerà alla valutazione che sarà disponibile su Microsoft Learn.
 - Quando supererai la valutazione online, la tua certificazione sarà prorogata di un anno dalla data di scadenza corrente.
@@ -78,7 +67,7 @@ Controlla la seguente tabella di marcia (soggetta a modifiche) mentre lanciamo l
 
 ## Modifiche alla politica di scadenza della certificazione
 
-Il 15 dicembre 2020 abbiamo [annunciato un cambiamento nella politica di scadenza della certificazione](https://aka.ms/CertRenewalBlog). A partire da giugno 2021, qualsiasi [certificazione basata su ruoli](/learn/certifications/browse/?type=role-based) o [su specializzazione](/learn/certifications/browse/?type=specialty) già conseguita diventerà valida per un altro anno dalla data in cui l'hai conseguita. Le certificazioni basate su ruolo e specializzazione ottenute prima di giugno 2021 rimarranno valide per due anni dalla data di conseguimento.
+Il 15 dicembre 2020 [abbiamo annunciato un cambiamento nella politica di scadenza delle certificazioni.](https://aka.ms/CertRenewalBlog) A partire da mercoledì 30 giugno 2021 alle 12am GMT (29 giugno 2021 alle 5pm PT), ogni [basata su ruolo](/learn/certifications/browse/?type=role-based) o [certificazione specializzata](/learn/certifications/browse/?type=specialty) acquisita sarà valida per un anno dalla sua data di ottenimento. Le certificazioni basate su ruolo e specializzazione ottenute prima di giugno 2021 rimarranno valide per due anni dalla data di conseguimento.
 
 ## Domande frequenti
 
@@ -92,7 +81,7 @@ Per ulteriori informazioni, consulta le domande frequenti sul rinnovo delle cert
 
     Sì, la connessione del profilo di certificazione consente di eseguire la valutazione del rinnovo su Microsoft Learn quando ci si è all'interno della finestra di idoneità. Avrai anche un'esperienza maggiormente personalizzata.
 
-    Per un'esperienza ottimale, ti consigliamo di utilizzare le stesse credenziali dell'account sia per il tuo profilo di certificazione sia per il profilo Docs su Microsoft Learn. Attenzione, solo un profilo di certificazione può essere collegato a un profilo Docs e non può essere modificato in seguito. Quindi, se hai più profili di certificazione, [contatta il nostro team di supporto alla certificazione](https://aka.ms/mcpforum) per unire i tuoi profili di certificazione Microsoft prima di connetterti al tuo profilo Docs.
+    Come parte del processo di rinnovo, ti sarà richiesto di usare le stesse credenziali dell'account personale Microsoft sia del profilo di certificazione che del profilo Doc su Microsoft Learn. Nota che solo un profilo di certificazione può essere connesso a un profilo Docs. Se hai più profili di certificazione, [contatta il nostro team di supporto certificazione](https://aka.ms/mcpforum) per unire i tuoi profili Microsoft Certification prima della connessione al tuo profilo Docs.
 
 3. **Qual è la differenza tra il mio profilo di certificazione Microsoft e il profilo Docs su Microsoft Learn?**
 
@@ -100,38 +89,42 @@ Per ulteriori informazioni, consulta le domande frequenti sul rinnovo delle cert
 
     Il tuo profilo Docs su Microsoft Learn include la cronologia delle attività in Microsoft Learn, Docs, Q&A ed esempi di codice. Puoi accedervi utilizzando un account personale Microsoft o un account aziendale o scolastico.
 
-4. **La mia certificazione è scaduta. Cosa succede ora?**
+4. **Ho un profilo Microsoft Certification e un profilo Docs su Learn, ognuno associato ad account personali diversi. Come posso connettere questi due profili?**
+
+    Prima di poter connettere un profilo Microsoft Certification e un profilo Docs on Learn che usa ognuno un account personale diverso, dovrai scegliere un solo account personale da usare per entrambi. Per consultare le tue opzioni per connettere questi account, consulta il documento “[Aligning accounts between Certification Profile and Learn Profile](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)”.
+
+5. **La mia certificazione è scaduta. Cosa succede ora?**
 
     Se la tua certificazione scade, devi ottenere nuovamente la certificazione superando gli esami richiesti.
 
-5. **Posso rinnovare la mia certificazione superando un esame beta o rifacendo un esame prima della scadenza della certificazione?**
+6. **Posso rinnovare la mia certificazione superando un esame beta o rifacendo un esame prima della scadenza della certificazione?**
 
     No. Per rinnovare la certificazione, devi superare la valutazione di rinnovo prima della scadenza della certificazione.
 
-6. **Tutte le certificazioni Microsoft possono essere rinnovate?**
+7. **Tutte le certificazioni Microsoft possono essere rinnovate?**
 
     Le certificazioni Microsoft basate su ruoli e su specializzazione disponibili da più di sei mesi avranno l'opzione di rinnovo.
 
-7. **Devo rinnovare la mia certificazione sui principi fondamenti di Microsoft?**
+8. **Devo rinnovare la mia certificazione sui principi fondamenti di Microsoft?**
 
     No. Il processo di rinnovo non è valido per le certificazioni sui principi fondamentali in quanto non scadono.
 
-8. **Le valutazioni di rinnovo sono allineate alla cadenza di aggiornamento regolare degli esami?**
+9. **Le valutazioni di rinnovo sono allineate alla cadenza di aggiornamento regolare degli esami?**
 
     Sì, gli aggiornamenti delle valutazioni sono allineati con gli aggiornamenti degli esami di certificazione.
 
-9. **In quali lingue sono disponibili le valutazioni?**
+10. **In quali lingue sono disponibili le valutazioni?**
 
     Le valutazioni di rinnovo in Microsoft Learn saranno disponibili nella stessa lingua o nelle stesse lingue degli esami di certificazione corrispondenti.
 
-10. **Quante volte posso ripetere la valutazione?**
+11. **Quante volte posso ripetere la valutazione?**
 
     Puoi ripetere la valutazione tutte le volte di cui hai bisogno per superarla e devi superarla prima che scada la certificazione. Se non la superi la prima volta, puoi immediatamente riprovare. Tuttavia, dopo il secondo tentativo, è necessario attendere almeno 24 ore prima di tentativi ulteriori.
 
-11. **Se rinnovo la mia certificazione basata sul ruolo a livello esperto e tale certificazione include come prerequisito una certificazione a livello di associato, anche la mia certificazione a livello di associato si rinnova automaticamente?**
+12. **Se rinnovo la mia certificazione basata sul ruolo a livello esperto e tale certificazione include come prerequisito una certificazione a livello di associato, anche la mia certificazione a livello di associato si rinnova automaticamente?**
 
     No. Ogni certificazione deve essere rinnovata separatamente superando la relativa valutazione.
 
-12. **La mia certificazione a livello di esperto richiede il raggiungimento di una certificazione a livello di associato come prerequisito. Se la certificazione a livello di collaboratore scade, scadrà automaticamente anche il mio livello di esperto?**
+13. **La mia certificazione a livello di esperto richiede il raggiungimento di una certificazione a livello di associato come prerequisito. Se la certificazione a livello di collaboratore scade, scadrà automaticamente anche il mio livello di esperto?**
 
     No, la certificazione a livello di esperto non scadrà automaticamente se scade la preventiva certificazione a livello di associato. Ogni certificazione deve essere rinnovata separatamente superando la relativa valutazione.

@@ -22,6 +22,8 @@ roles:
 - business-owner
 products:
 - dynamics-365
+exams:
+- uid: exam.mb-910
 summary: |-
   Questo corso ti fornirà un'ampia introduzione alle potenzialità di engagement del cliente di Dynamics 365. Diventerai familiare con il concetto di engagement del cliente, e anche con ogni app avente questo scopo, come Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, e con le potenzialità di gestione clienti (CRM) di Dynamics 365 Gestione Operativa del Progetto. Questo corso includerà lezioni teoriche e anche esercitazioni pratiche.
 
@@ -39,13 +41,13 @@ outlineSection: |-
   - Illustrare le potenzialità di Dynamics 365 Marketing 
   - Recensione di Altre App di Marketing 
 
-  #### Lab &#58; Lavorare con app di engagement del cliente
+  #### Laboratorio &#58; Lavorare con app di engagement del cliente
   
-  #### Lab &#58; Gestire Clienti e Attività
+  #### Laboratorio &#58; Gestire Clienti e Attività
   
-  #### Lab &#58; Cercare e filtrare dati
+  #### Laboratorio &#58; Cercare e filtrare dati
   
-  #### Lab &#58; Dynamics 365 Marketing Capstone Lab
+  #### Laboratorio &#58; Dynamics 365 Marketing Capstone Lab
   - Creare un'email di marketing 
   - Creare un Segmento su Dynamics 365 Marketing
   - Creare un'Esperienza Cliente
@@ -64,7 +66,7 @@ outlineSection: |-
   - Gestire il ciclo di vita delle vendite con Dynamics 365 Sales
   - Recensione di altre app di vendita
   
-  #### Lab &#58; Dynamics 365 Sales Capstone Lab
+  #### Laboratorio &#58; Dynamics 365 Sales Capstone Lab
   - Creare e qualificare una Lead
   - Gestire un'Opportunità di vendita
   
@@ -81,7 +83,7 @@ outlineSection: |-
   - Illustrare le potenzialità di Dynamics Customer Service 
   - Recensione di altre app di servizio clienti
   
-  #### Lab &#58; Dynamics 365 Capstone Lab
+  #### Laboratorio &#58; Dynamics 365 Capstone Lab
   - Creare e pubblicare un Articolo della Knowledge 
   - Gestire un Caso di supporto per tutto il suo ciclo di vita
   
@@ -100,7 +102,7 @@ outlineSection: |-
   - Esaminare le potenzialità di gestione dell'inventario di Dynamics 365 Field Service
   - Recensire le potenzialità di gestione del capitale di Dynamics 365 Field Service
   
-  #### Lab &#58; Dynamics 365 Capstone Lab
+  #### Laboratorio &#58; Dynamics 365 Capstone Lab
   - Creare un Caso e passare a un Ordine di Lavoro
   - Pianificare degli item con Dynamics 365 Field Service
   
@@ -120,7 +122,7 @@ outlineSection: |-
   - Pianificare progetti con Dynamics 365 Project Operations
   - Recensire le potenzialità di uso delle risorse di Dynamics 365 Project Operations
   
-  #### Lab &#58; Dynamics 365 Project Operations Capstone Lab
+  #### Laboratorio &#58; Dynamics 365 Project Operations Capstone Lab
   - Creare una Lead basata su progetto
   - Gestire un'Opportunità basata su progetto
   - Creare un Preventivo del Progetto e una Stima del Progetto
