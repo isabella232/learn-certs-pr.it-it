@@ -51,6 +51,8 @@ paths:
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
 exams:
 - uid: exam.sc-900
+courses:
+- uid: course.sc-900t00
 resources:
 - title: Poster di certificazione
   description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.

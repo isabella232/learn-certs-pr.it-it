@@ -1,6 +1,6 @@
 ---
-title: Guida Microsoft Official Courseware (MOC) | Microsoft Docs
-description: Guida Microsoft Official Courseware (MOC)
+title: Microsoft Official Courseware (MOC) supporto | Microsoft Docs
+description: Microsoft Official Courseware (MOC) supporto
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,11 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Guida Microsoft Official Courseware (MOC)
+# Microsoft Official Courseware (MOC) supporto
 
-Hai bisogno di supporto con Microsoft Official Courseware (MOC)? Contatta il tuo centro di assistenza regionale dall'elenco dei paesi riportato di seguito. Si prega di notare che queste opzioni di supporto sono solo per MOC. Per informazioni sulle certificazioni o sugli esami Microsoft, vedere [Guida alle certificazioni](/learn/certifications/help).
+## Supporto MOC
+
+Microsoft Official Courseware (MOC) è il materiale utilizzato nei nostri corsi. Il supporto per il MOC è gestito per paesi in tutto il mondo.
 
 ## Informazioni di contatto regionale MOC
+
+Nota che queste opzioni di supporto valgono solo per il MOC. Per supporto con Microsoft Certifications o esami, consulta: [Supporto certificazione](/learn/certifications/help).
 
 | Paese | Telefono + Lingua | E-mail | Informazioni aggiuntive | Dettagli di contatto |
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -118,7 +122,3 @@ Hai bisogno di supporto con Microsoft Official Courseware (MOC)? Contatta il tuo
 | Vietnam | (65) 6622 1237 | [Courseware Marketplace Queries](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-my&SC=VN) |  | 9:00 a 18:00 (9:00 A.M. a 06:00 P.M.) da lunedi a venerdì Ora di Singapore |
 | Isole Vergini, British | Inglese: +1 305 715-1492<br/>Spagnolo: +1 305 715-1490<br/>Portoghese: +1 305 715-1491 | [Courseware Marketplace Queries](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VG) | Si prega di notare che questi sono numeri statunitensi. Il vostro operatore telefonico può addebitarvi il costo per una chiamata interurbana o internazionale. | Inglese: 7 – 19 (da lunedi a venerdì) Colombia Orario<br/>Spagnolo: 7 – 19 (da lunedi a venerdì) Colombia Orario<br/>Portoghese: 9 – 18 (da lunedi a venerdì) BRT Brasile Orario Brasile |
 | Isole Vergini, SU | Inglese: +1 305 715-1492<br/>Spagnolo: +1 305 715-1490<br/>Portoghese: +1 305 715-1491 | [Courseware Marketplace Queries](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VI)  | Si prega di notare che questi sono numeri statunitensi. Il vostro operatore telefonico può addebitarvi il costo per una chiamata interurbana o internazionale. | Inglese: 7 – 19 (da lunedi a venerdì) Colombia Orario<br/>Spagnolo: 7 – 19 (da lunedi a venerdì) Colombia Orario<br/>Portoghese: 9 – 18 (da lunedi a venerdì) BRT Brasile Orario Brasile |
-
-## Aiuto per la certificazione
-
-Per assistenza con la certificazione Microsoft, [fai clic qui](/learn/certifications/help).

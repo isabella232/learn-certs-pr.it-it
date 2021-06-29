@@ -25,7 +25,6 @@ roles:
 - functional-consultant
 products:
 - dynamics
-- dynamics-marketing
 exams:
 - uid: exam.mb-220
 summary: |-
@@ -34,18 +33,17 @@ summary: |-
   #### Profilo dei destinatari
   Questo corso è pensato per i professionisti IT o di Marketing che vogliono imparare a sfruttare le funzionalità Dynamics 365 Marketing in favore delle aziende.
 prerequisitesSection: |-
-  Conoscenza della piattaforma Dynamics 365 e comprensione dei principi di base del marketing.
+  Conoscenza della piattaforma Dynamics 365 e una comprensione dei principi di base del marketing. Si consiglia anche esperienza in Power Platform, soprattutto in applicazioni model-driven.
 outlineSection: |-
   ### Modulo 1&#58; Configurazione di Dynamics 365 Marketing
-  In questo modulo imparerai a conoscere le impostazioni avanzate, i contenuti di marketing, i modelli e le integrazioni di Dynamics 365 for Marketing.
+  In questo modulo, imparerai come configurare il tuo esempio Marketing e impostazioni avanzate.
   #### Lezioni
-  - Configurazione delle impostazioni di organizzazione e gestione
+  - Configurare e gestire Dynamics 365 Marketing
   - Configurazione delle impostazioni di marketing
-  - Configurazione delle impostazioni degli eventi
 
   Il completamento del modulo fornirà le capacità necessarie per&#58;
+  - Configurare la tua applicazione Marketing.
   - Configurare le impostazioni avanzate come organizzazione, gestione aziendale e contenuti
-  - Gestione dei contenuti e modelli di marketing
   
   
   ### Modulo 2&#58; Gestione segmenti ed elenchi
@@ -100,13 +98,13 @@ outlineSection: |-
   ### Modulo 6&#58; Gestione degli eventi
   Questo modulo esaminerà il processo di creazione del percorso del cliente.
   #### Lezioni
-  - Creazione di un evento in loco
+  - Creare un evento
   - Creazione di un evento webinar
   - Promozione e gestione degli eventi
   
   Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Creare di un evento webinar.
-  - Creare un evento in loco.
+  - Creare un evento.
+  - Creare un evento webinar usando Teams come provider di webinar.
   - Promuovere un evento.
   - Gestire il sito web dell'evento.
   - Configurare le impostazioni degli eventi.
