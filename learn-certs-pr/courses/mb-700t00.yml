@@ -5,20 +5,11 @@ metadata:
   description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: course.mb-700t00
 courseNumber: 'MB-700T00-A'
-hoursToComplete: 72
+hoursToComplete: 96
 skillsGained:
-- skill: Definire aree di competenza per il ruolo di tecnico dell'architettura di soluzioni
-- skill: Illustrare istanze e modelli di distribuzione consigliati da Microsoft
-- skill: Comprendere la soluzione cloud, CDM e CDS
-- skill: Ottenere maggiori informazioni su licenze, AppSource e supporto per Dynamics 365
-- skill: Utilizzare i servizi Lifecycle come tecnico dell'architettura di soluzioni
-- skill: Conoscere le considerazioni per il progetto della soluzione Dynamics 365
-- skill: Comprendere i concetti e i tool utilizzati per la gestione dei dati
-- skill: Illustrare le opzioni di integrazione e gli eventi aziendali sulle soluzioni
-- skill: Conoscere le opzioni disponibili per localizzazione, conformità e reportistica delle soluzioni
-- skill: Partecipare a conversazioni architettoniche su estensibilità, sicurezza e prestazioni
-- skill: Conoscere la gestione del ciclo di vita dell'applicazione ALM
-- skill: Identificare le opportunità per i test automatizzati e l'utilizzo di RSAT
+- skill: Capire i compiti che il solution architect deve espletare per implementazione Dynamics 
+- skill: Completare gli artefatti di blueprint della soluzione
+- skill: Sapere dove trovare informazioni tecniche per rispondere alle domande del cliente
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -32,404 +23,456 @@ products:
 exams:
 - uid: exam.mb-700
 summary: |-
-  Questo corso è stato concepito per coloro che aspirano al ruolo di solutions architect e non ne hanno esperienza precedente. Questo corso fornisce le informazioni tecniche, con focus sull'architettura dell'applicazione, e le competenze tecniche per iniziare un percorso professionale in questo ruolo. Questo corso non tratterà delle competenze industriali e le capacità di fornire deliverables richieste per questo ruolo.
+  Questo corso è sviluppato per coloro che aspirano a diventare solution architect e anche per coloro che sono nuovi a questo ruolo. Il corso fornisce informazioni tecniche focalizzate sull'architettura delle applicazioni e sulle competenze tecniche per cominciare a muovere i primi passi in questo ruolo. Questo corso non coprirà le competenze aziendali e di delivery richieste per questo ruolo.
 
-  #### Profilo dell'audience
+  #### Profilo d'Utenza
 
-  All'audience di questo corso è richiesta un'esperienza precedente con focus tecnico o funzionale in Dynamics 365&#58; Applicazioni finanziarie e operative.
-  Si rivolge principalmente a coloro che aspirano al ruolo di solutions architect e non ne hanno esperienza precedente.
+  Il pubblico per questo corso dovrebbe possedere esperienza pregressa in merito a un focus tecnico o funzionale su Dynamics 365: Finance and Operations Applications. Principalmente per coloro che aspirano a ricoprire il ruolo di solution architect.
 prerequisitesSection: |-
-  Devi completare il percorso di apprendimento da architetto della soluzione per gli architetti della soluzione&#58; [Qui](/learn/browse/?Roles=solution-architect&products=dynamics-finance-operations)
+  Devi completare i seguenti percorsi di apprendimento prima di poter seguire questa formazione tenuta da istruttore:
+
+  [Soluzioni architettoniche per Dynamics 365 e Power Platform - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/)&nbsp;3h 57min
+
+  [Usare soluzioni app Success by Design for Unified Operations - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/use-success-design-unified-operations/)&nbsp;3h 30min
 outlineSection: |-
-  ### Modulo 1&#58; Il ruolo dell'Architect
-  L'Architetto è uno dei ruoli più critici per offrire le soluzioni migliori ai clienti Microsoft, e richiede molte capacità. Questo corso si concentra principalmente sulle competenze tecniche.
-  
-  Gli altri argomenti affrontati danno una panoramica di aree di competenza che potrebbero essere utili a comprendere il ruolo di Solution Architect. Queste aree di abilità includono&#58;
-  
-  Capacità di consegna
-  Capacità di fornire una soluzione aziendale ai clienti.
-  
-  Competenze nel settore
-  La conoscenza accumulata ottenuta su un determinato settore.
-  
-  Abilità trasversali
-  Competenze che ti aiutano a comunicare con gli altri, dai colleghi ai clienti.
-  #### Lezioni
-  - Abilità del Solution Architect
-  - Revisione del percorso di apprendimento per il Solution Architect
-  - Esercizi di gruppo
-  
-  Il completamento del modulo fornirà le capacità necessarie per
-  - Aggiornare le conoscenze acquisite tramite i contenuti online per Solution Architects
-  - Elencare le competenze necessarie per un Solution Architect
+  ### Modulo 1&#58; Il ruolo di solution architect 
 
-  ### Modulo 2&#58; Modelli Ambientali, d'Istanza e Sviluppo
-  Gli argomenti e i concetti in questo modulo includono&#58;
-  
-  Strategie d'istanza
-  Le soluzioni Dynamics 365 Finance and Operations possono essere distribuite su più istanze, che alcune organizzazioni considerano per motivi di scalabilità, sicurezza o privacy.
-  
-  Pianificazione dell'Environment
-  La pianificazione dell'Environment aiuta a fornire una panoramica completa sugli ambienti necessari per alcune date attività dalla durata pianificata.
-  
-  Progettazione delle infrastrutture
-  Considerazioni chiave per la progettazione su Dynamics 365 Infrastructure.
-  
-  Modelli di distribuzione
-  Le distribuzioni su cloud e in locale hanno requisiti diversi, discussi in questa sezione.
-  #### Lezioni
-  - Strategie d'istanza
-  - Pianificazione dell'Environment
-  - Infrastruttura e implementazione
-  - Esercizi di gruppo
+  Questo modulo offre un'introduzione al ruolo di solution architect. Ti aiuterà a capire le competenze principali necessarie per svolgere questo ruolo. 
 
-  Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Comprendere lo scopo della pianificazione dell'Environment
-  - Conoscere le differenze fra i diversi ambienti gestiti
-  - Spiegare ciascuno dei requisiti base dell'infrastruttura
-  - Descrizione delle esigenze di configurazione hardware per le distribuzioni locali Dynamics 365
-  - Elaborare i quattro requisiti di sicurezza primari sui quali i Solution Architects dovrebbero concentrarsi durante il design
-  - Descrizione dei driver principali per l'uso delle strategie d'istanza.
-  
-  
-  ### Modulo 3&#58; Cloud Solution, CDM & CDS
-  Gli argomenti e i concetti in questo modulo includono&#58;
-  
-  Concetti fondamentali di CDM e CDS
-  Spiegazioni delle tecnologie di condivisione dei dati.
-  
-  CDM vs. CDS
-  Una breve discussione su come queste tecnologie complementari  interagiscono fra di loro.
-  
-  Power Platform
-  Questo argomento esplora alcuni dei componenti di Power Platform, la piattaforma Microsoft per le applicazioni aziendali.
-  
-  Dual Write
-  Una breve spiegazione della nuova funzione di integrazione bidirezionale che Microsoft ha presentato nel 2019.
-  
-  #### Lezioni
-  - Introduzione
-  - Concetti principali di CDM e CDS
-  - Power Platform
-  - Dual Write
-  - Esercizi di gruppo
-
-  Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Esporre ai clienti il significato di CDM
-  - Discutere le funzionalità fornite dal Common Data Service (CDS)
-  - Spiegare le funzionalità principali e le componenti di Microsoft Power Platform
-  - Discutere la funzionalità Dual Write
-  - Spiegare cosa è il Microsoft Common Data Model
-  
-  
-  ### Modulo 4&#58; Licenze, AppSource e Supporto
-  Gli argomenti di questo modulo includono&#58;
-  
-  Requisiti di Licenza
-  Disporre delle licenze appropriate è un aspetto importante per l'implementazione di soluzioni Dynamics 365 for Finance and Operations.
-  
-  Soluzioni ISV certificate da Microsoft
-  AppSource, una ricca fonte di informazioni sulle soluzioni ISV (Independent Software Vendor) certificate da Microsoft, può essere utilizzato per identificare soluzioni che possono integrare i progetti attivi.
-  
-  Opzioni di supporto
-  Sapere quali opzioni di supporto sono disponibili così come altre considerazioni sullo stesso può essere essenziale per il successo di un progetto.
-  #### Lezioni
-  - Introduzione
-  - Licenze
-  - AppSource
-  - Supporto
-  
-  Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Discutere i diversi modi in cui è possibile ottenere gli abbonamenti.
-  - Determinare se un ISV potrebbe avere una soluzione esistente registrata
-  - Descrivere i passaggi necessari per finalizzare la strategia di supporto e valutare la disponibilità per il go-live
-  - Spiegare i diversi aspetti dei cinque piani di supporto
-  - Spiegare le sei considerazioni che il Solution Architect e il team di progetto devono conoscere
-  - Descrizione dei requisiti di licenza per le soluzioni Dynamics 365 for Finance and Operations
-  
-  
-  ### Modulo 5&#58; Servizi relativi al ciclo di vita
-  Gli argomenti di questo modulo includono&#58;
-  
-  Caratteristiche e concetti principali di LCS
-  Brevi definizioni per molte delle caratteristiche e concetti LCS che consentono una collaborazione più stretta, velocizzano le implementazioni e riducono il rapporto time to value.
-  
-  Ruolo e la funzione di Azure DevOps e come connettersi a LCS
-  LCS può sfruttare gli strumenti in Azure DevOps per controllare l'implementazione e associare elementi di lavoro a requisiti e processi aziendali, inclusi bug, attività, elementi del backlog, test e documenti.
-  #### Lezioni
-  - Introduzione
-  - Caratteristiche e concetti principali
-  - Comprensione del ruolo e della funzione di Azure DevOps e come connettersi a LCS
-  - Esercizi di gruppo
-
-  Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Spiegare le funzionalità di cinque o più strumenti forniti da LCS
-  - Spiegare i vantaggi della sincronizzazione di un Business Process Modeler (BPM)
-  - Descrivere del ruolo e della funzione di Azure DevOps se connesso a LCS
-  - Descrivere tre o più funzioni di LCS e i benefici che si traggono dalla sua implementazione
-  
-  ### Modulo 6&#58; Progettazione di soluzioni Dynamics 365
-  Gli argomenti includono&#58;
-  
-  Sviluppo di un progetto di soluzione
-  Considerazioni su processo di revisione, applicazione, dati, integrazione, intelligence, sicurezza, aggiornamento continuo, piattaforma e sequenza temporale.
-  
-  Utilizzo di FastTrack nel processo di revisione di un progetto
-  Esamina i vantaggi di coinvolgere un architetto e/o un team Microsoft FastTrack per esaminare i progetti e garantire un risultato positivo per il cliente.
   #### Lezioni
 
-  - Sviluppo di un progetto di soluzione
-  - Utilizzo di FastTrack nel processo di revisione di un progetto
-  
-  Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Coinvolgere i clienti in una conversazione riguardo i benefici dell'utilizzo di un architetto o un team di architetti FastTrack
-  - Descrivere i benefici di avere un Project Team che compara e valuta i requisiti funzionali
-  - Discutere ed esporre le diverse forme di architettura utilizzate nella creazione di un progetto di risoluzione
-  
-  
-  ### Modulo 7&#58; Gestione dei Dati
-  L'argomento della gestione dei dati è ampio e ha molte ramificazioni durante il processo di distribuzione Dynamics 365. Vengono discusse quattro considerazioni chiave&#58;
-  
-  Strategia di migrazione dei dati
-  In base a quali dati sono necessari per
-  
-  Piano di Cutover
-  Le considerazioni includono quali dati devono essere inseriti durante il cutover e se i questi essere applicati manualmente
-  
-  Strumenti e framework
-  Sono disponibili diversi strumenti e framework per vari scenari
-  
-  Piano di conservazione dei dati
-  Le considerazioni includono quali dati devono essere archiviati per operazioni aziendali e a scopo di conformità
-  #### Lezioni
-  - Introduzione
-  - Gestione dati
-  - Considerazioni Chiave
-  - Esercizi di gruppo
+  *   Il ruolo del solution architect 
 
-  Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Articolare le domande corrette che un architetto dovrebbe chiedere per identificare le problematiche relative alla qualità dei dati
-  - Spiegare le domande che un Solution Architect dovrebbe chiedere prima della migrazione dati
-  - Descrivere le qualifiche necessarie per il piano di migrazione dei dati
-  - Discutere la sequenza e le interdipendenze fra i vari step di migrazione dei dati
-  - Discutere sul ruolo che il Solution Architect ricopre durante la migrazione dei dati
-  - Spiegare le tre domande chiave che un Solution Architect dovrebbe chiedere prima della migrazione dati
-  - Configurare, esplorare e utilizzare gli strumenti disponibili su Microsoft Dynamics Lifecycle Services (LCS)
-  - Discutere gli approcci consigliati quando si ha a che fare con migrazioni di dati ad alto volume
-  - Discutere gli elementi chiave della gestione dati
-  
-  
-  ### Modulo 8&#58; Integrazione ed eventi aziendali
-  Gli argomenti di questo modulo includono&#58;
-  
-  Integrazione
-  Questo argomento è incentrato principalmente sulle strategie d'integrazione, integrazioni di sistema e piattaforme e strumenti per integrare.
-  
-  Eventi aziendali
-  Gli eventi aziendali sono un nuovo metodo d'integrazione aggiunto a Dynamics 365 e ampiamente adottato.
-  
-  Endpoint
-  Gli endpoint consentono di gestire le destinazioni per l'invio di eventi aziendali.
-  #### Lezioni
-  - Introduzione
-  - Integrazione
-  - Eventi aziendali
-  - Endpoint
-  - Esercizi di gruppo
+  #### Laboratorio &#58; Esercizi in classe
 
-  Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Descrivere le differenze e le somiglianze fra integrazione e migrazione dei dati
-  - Distinguere e articolare le differenze fra interfaccia e integrazioni
-  - Discutere le piattaforme più comuni e gli strumenti disponibili per l'implementazione della strategia d'integrazione.
-  - Spiegare la funzionalità degli eventi aziendali e degli endpoint, il loro scopo e le considerazioni di base
-  - Discutere le considerazioni principali che guidano le strategie d'integrazione
-  
-  
-  ### Modulo 9&#58; Localizzazione, Conformità e Reportistica
-  Gli argomenti di questo modulo includono&#58;
-  
-  Localizzazione
-  Il processo di localizzazione viene utilizzato per adattare un prodotto o un contenuto a un luogo o mercato specifico.
-  
-  Conformità
-  La conformità è lo stato o il fatto di conformarsi o rispettare regole o standard, spesso richiesta dalle agenzie governative.
-  
-  Reporting
-  Le funzionalità di reporting possono ricoprire un ruolo importante per la localizzazione e per la verifica della conformità.
+  ####
+
+  *   Esercizio | Esercizio di gruppo
+
+  *   Esercizio | Esercizio individuale
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di
+
+  *   Aggiornare la conoscenza ottenuta dal contenuto online per solution architect
+
+  *   Elencare le competenze necessarie per un solution architect
+
+  ### Modulo 2&#58; Gestire interazioni con FastTrack
+
+  Questo modulo offre un'introduzione a FastTrack e su come interagire con esso durante l'implementazione Dynamics.
+
   #### Lezioni
-  - Introduzione
-  - Localizzazione
-  - Conformità
-  - Reporting
-  - Esercizi di gruppo
-  
-  Il completamento del modulo fornirà le capacità necessarie per&#58;
-  - Discutere la necessità di fornitori di soluzioni ISV
-  - Descrivere i quattro framework più comuni per l'audit e la conformità
-  - Spiegare le raccomandazioni di conformità
-  - Discutere il ruolo del Solution Architect nell'identificazione dello strumento migliore per fornire report
-  - Discutere le quattro domande da somministrare durante la raccolta dei requisiti
-  - Identificare la localizzazione delle funzionalità
-  
-  
-  ### Modulo 10&#58; Estensibilità
-  Gli argomenti includono&#58;
-  
-  Personalizzazione intrusiva
-  Una breve rassegna sui problemi relativi alla personalizzazione intrusiva e del motivo per cui è diventata difficile da gestire.
-  
-  Vantaggi dell'estensibilità
-  Perché l'estensibilità è migliore rispetto alla personalizzazione.
-  
-  Opzioni di estensibilità
-  Un elenco delle opzioni di estensibilità comuni disponibili.
-  
-  Richieste di estensibilità
-  Come fare una richiesta di estensibilità a Microsoft quando necessario.
+
+  *   Introduzione su FastTrack
+
+  *   Ottenere il massimo dai template FastTrack 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di
+
+  *   Identificare la proposta di valore di FastTrack
+
+  *   Identificare i tipi di engagement e i ruoli del personale di FastTrack 
+
+  *   Descrivere lo scoping di workshop e gli input per ogni workshop FastTrack 
+
+  *   Ottenere il massimo dai template di blueprint della soluzione
+
+  *   Imparare a completare checklist per il lancio
+
+  *   Sapere come diventare un solution architect riconosciuto FastTrack 
+
+  ### Modulo 3&#58; Progettazione della soluzione
+
+  Questo modulo ti offre una panoramica sulla progettazione della soluzione in generale. In più, questo modulo funge da base per gli altri moduli, visto che prevede diverse attività per costruire la tua prima progettazione di soluzione vera e propria.
+
   #### Lezioni
-  - Introduzione
-  - Personalizzazione intrusiva
-  - Vantaggi dell'estensibilità
-  - Opzioni di estensibilità
-  - Richieste di estensibilità
-  
-  Il completamento del modulo fornirà le capacità necessarie per
-  - Spiegare i benefici dell'estensibilità
-  - Discutere sulle differenze fra overlayering ed estensibilità
-  - Elencare le opzioni di estensibilità comuni disponibili.
-  - Determinare il modo migliore per effettuare una richiesta di estensibilità
-  - Discutere con i clienti riguardo la questione della personalizzazione intrusiva
-  
-  
-  ### Modulo 11&#58; Sicurezza
-  Gli argomenti di questo modulo includono&#58;
-  
-  La sicurezza della pianificazione delle risorse aziendali (ERP) consiste in un'ampia gamma di misure atte a proteggere i sistemi da accessi illeciti e garantire l'accessibilità e l'integrità dei dati di sistema. Questo modulo tratta i seguenti argomenti relativi alla sicurezza&#58;
-  
-  Fornire consulenza sui requisiti di sicurezza e conformità
-  Il processo di localizzazione viene utilizzato per adattare un prodotto o un contenuto a un luogo o mercato specifico.
-  
-  Progettazione della sicurezza
-  La conformità si riferisce al rispetto delle regole o standard, ed è spesso richiesta dalle agenzie governative.
-  
-  Strumenti e funzionalità
-  - Le funzionalità di reporting possono ricoprire un ruolo importante per la localizzazione e per la verifica della conformità.
+
+  *   Definizioni e componenti del blueprint di una soluzione
+
+  *   Progettare amministrazione e tempistiche
+
+  *   Architettura della soluzione e struttura organizzativa
+
+  *   Lavorare con cataloghi di processo aziendale
+
+  #### Laboratorio &#58; Esercizio in classe
+
+  ####
+
+  #### Laboratorio &#58; Caso studio - Attività studente
+
+  ####
+
+  *   Esercizio | cosa si intende per blueprint di una soluzione?
+
+  *   Esercizio | componenti del blueprint di una soluzione
+
+  *   Distribuzione degli artefatti del caso studio
+
+  *   Attività studente 1 | Programmare una Strategia
+
+  *   Attività studente 2 | Programmare una Strategia
+
+  *   Attività studente 3 | illustrare l'architettura complessiva della soluzione
+
+  *   Attività studente | illustrare business&nbsp;processi in oggetto&nbsp;della soluzione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di
+
+  *   Capire la definizione di blueprint della soluzione
+
+  *   Illustrare lo scopo del blueprint della soluzione
+
+  *   Identificare le principali componenti del blueprint di una soluzione
+
+  *   Illustrare oggetto, obiettivi e sfide della soluzione 
+
+  *   Elevare i membri del tema di implementazione e i ruoli nel progetto
+
+  *   Illustrare le tempistiche del progetto per l'implementazione e il lancio
+
+  *   Illustrare la gestione del cambiamento, i rischi e il percorso di incremento
+
+  *   Illustrare l'architettura complessiva della soluzione
+
+  *   Spiegare l'organizzazione
+
+  *   Fornire dettagli dell'organizzazione
+
+  *   Illustrare i processi aziendali oggetto della soluzione
+
+  *   Capire i requisiti funzionali e non funzionali
+
+  *   Documentare le lacune del prodotto e le loro soluzioni
+
+  ### Modulo 4&#58; Definire ambienti, strumenti e strategie di distribuzione
+
+  Questo modulo spiegherà le varie opzioni di ambiente e distribuzione. Ti permetterà di rafforzare la tua capacità di definire una strategia ambientale di base per implementazioni Dynamics.
+
   #### Lezioni
-  - Introduzione
-  - Fornire consulenza sui requisiti di sicurezza e conformità
-  - Progettazione della sicurezza
-  - Strumenti e funzionalità
-  
-  Il completamento del modulo fornirà le capacità necessarie per
-  - Elaborare i quattro requisiti di sicurezza primari su cui i Solution Architects dovrebbero concentrarsi durante il design
-  - Identificare e spiegare le attuali offerte di protezione del cliente che Microsoft offre.
-  - Discussione delle considerazioni su autenticazione, autorizzazione, sicurezza dei dati e auditing
-  - Identificazione degli strumenti e delle funzionalità disponibili che i project team utilizzano per la gestione della sicurezza
-  - Esempi di considerazioni per la sicurezza che determinano la definizione del livello di sicurezza
-  
-  
-  ### Modulo 12&#58; Performance
-  Gli argomenti includono&#58;
-  
-  Benchmark delle prestazioni
-  Raccomandazioni e linee guida per definire correttamente i benchmark
-  
-  Design della performance
-  Considerazioni chiave per la progettazione delle prestazioni
-  
-  Modelli
-  Raccomandazioni per i modelli chiave da osservare durante la progettazione 
-  
-  Test e strumentazione
-  Prerequisiti del test delle prestazioni e un elenco degli strumenti per le quelle esistenti 
+
+  *   Capire la pianificazione dell'ambiente
+
+  *   Applicare la gestione del ciclo di vita e la strategia di distribuzione
+
+  *   Usare LCS e Azure DevOps
+
+  #### Laboratorio &#58; Attività studente
+
+  ####
+
+  #### Laboratorio &#58; Esercizio
+
+  ####
+
+  *   Esercizio | adottare One version – aggiornamenti continui
+
+  *   Esercizio | usare Lifecycle services
+
+  *   Attività studente | sviluppare piano ambientale
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di
+
+  *   Illustrare i concetti generali per distribuzioni cloud 
+
+  *   Principali concetti e tipi di pianificazione ambientale
+
+  *   Capire i processi di approvvigionamento della produzione e ambienti sandbox
+
+  *   Illustrare lo sviluppo di un piano ambientale
+
+  *   Capire lo sviluppo della strategia di distribuzione
+
+  *   Definire la gestione del ciclo di vita dell'applicazione
+
+  *   Metodologie ALM
+
+  *   Definire una strategia di distribuzione
+
+  *   Capire le opzioni di estensibilità
+
+  *   Scoprire le possibilità di upgrade e gli strumenti
+
+  *   Adottare One version – aggiornamenti continui
+
+  *   Usare Azure Devops
+
+  *   Usare Lifecycle Services
+
+  *   Strategia di disaster recovery
+
+  ### Modulo 5&#58; Determinare una strategia di gestione dati
+
+  Questo modulo rafforzerà la tua comprensione dei temi connessi ai dati all'interno di un'implementazione Dynamics. Ti aiuterà a definire una strategia di migrazione dati.
+
   #### Lezioni
-  - Introduzione
-  - Definizione di benchmark e requisiti delle prestazioni
-  - Design della performance
-  - Modelli chiave
-  - Test di performance e relativi strumenti 
-  - Esercizi di gruppo
-  
-  Il completamento del modulo fornirà le capacità necessarie per 
-  - Discutere i vantaggi e l'impatto di benchmark ben definiti
-  - Spiegare l'impatto che un Solution Architect ha quando vengono raccolti i requisiti per la performance di sistema
-  - Discutere le considerazioni chiave sul performance design come scalabilità, concorrenza e tempi di risposta
-  - Spiegare i prerequisiti che garantiscono la rilevanza e l'accuratezza della performance
-  - Determinare quali strumenti di performance specifici possono essere utilizzati
-  - Applicare un esempio di obiettivo di rendimento
-  
-  
-  ### Modulo 13&#58; Gestione del ciclo di vita delle applicazioni
-  Gli argomenti di questo modulo includono&#58;
-  
-  Controllo delle versioni
-  Utilizzato per aiutare a risolvere eventuali dubbi sulla coerenza e sulla gestione della soluzione. 
-  
-  Sviluppo  
-  Concetti, terminologia e considerazioni di base.
-  
-  Sviluppo
-  Requisiti, raccomandazioni e considerazioni.
-  
-  Distribuzione
-  Considerazioni chiave per la distribuzione in ambienti runtime.
+
+  *   Panoramica sulla gestione dei dati
+
+  *   Sviluppare una strategia di migrazione dati
+
+  #### Laboratorio &#58; Esercizio in classe
+
+  ####
+
+  #### Laboratorio &#58; Caso studio - attività studente
+
+  ####
+
+  *   Esercizio | panoramica sulla gestione dei dati
+
+  *   Esercizio | sviluppare una strategia di migrazione dati
+
+  *   Attività studente 4 | sviluppare una strategia di migrazione dati
+
+  Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di
+
+  *   Offrire una panoramica sulla gestione dei dati
+
+  *   Capire il framework della gestione dati
+
+  *   Usare l'automazione di attività sui dati
+
+  *   Illustrare le operazioni di movimento su database
+
+  *   Usare framework di condivisione dati
+
+  *   Sviluppare una strategia di migrazione dati
+
+  *   Sviluppare un piano cutover
+
+  *   Sviluppare un piano di ritenzione dati
+
+  ### Modulo 6&#58; Determinare strategia di integrazioni e interfacce
+
+  Questo modulo coprirà i temi relativi all'integrazione e all'interfaccia. Dovrebbe aiutarti a capire le opzioni disponibili e gli strumenti da usare. Ti aiuterà a definire la tua strategia di integrazione e di interfaccia per implementazioni Dynamics.
+
   #### Lezioni
-  - Introduzione
-  - Controllo delle versioni
-  - Sviluppo
-  - Sviluppo
-  - Distribuzione
-  
-  Il completamento del modulo fornirà le capacità necessarie per
-  - Discutere su come l'utilizzo di DevOps agevola la sincronizzazione dei processi aziendali
-  - Esporre i benefici primari del controllo delle versioni
-  - Discutere i concetti base e le considerazioni per lo sviluppo
-  - Spiegare i requisiti del processo di sviluppo, le raccomandazioni e le considerazioni
-  - Discutere le considerazioni chiave per la distribuzione
-  - Definire le responsabilità del Solution Architect durante l'identificazione del miglior ALM
-  
-  
-  ### Modulo 14&#58; test automatizzati e RSAT
-  Gli argomenti includono&#58;
-  
-  Comprensione delle opzioni del test
-  Vengono eseguiti quattro tipi di test durante l'implementazione di Dynamics 365. Questo argomento esamina i diversi tipi di test e discute l'importanza della qualità e della copertura dei casi d'uso.
-  
-  Riassumere la strategia e il piano dei test
-  Questo argomento discute i motivi per cui una strategia di test dettagliata è necessaria e fornisce indicazioni su cosa dovrebbe includere un piano di testing completo.
-  
-  Strumenti disponibili per i test
-  Questo argomento identifica il Regression Suite Automation Tool (RSAT) insieme ad altri strumenti disponibili per il testing, come il Performance SDK e il Data Expansion Tool.
+
+  *   Sviluppare una strategia di integrazione
+
+  *   Opzioni di integrazione
+
+  #### Laboratorio &#58; Caso studio - attività studente
+
+  ####
+
+  #### Laboratorio &#58; Esercizi in classe
+
+  ####
+
+  *   Esercizio| sviluppare una strategia di integrazione
+
+  *   Esercizio| opzioni di integrazione
+
+  *   Attività studente 5 | sviluppare una strategia di integrazione
+
+  Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di
+
+  *   Coinvolgere un cliente in una conversazione sui vantaggi del coinvolgimento di un architetto o team FastTrack
+
+  *   Illustrare i vantaggi di un confronto e una valutazione dei requisiti funzionali da parte del team di progetto
+
+  *   Discutere e spiegare le diverse forme di architettura coinvolte quando si crea un nuovo progetto di soluzione
+
+  ### Modulo 7&#58; Definire l'architettura della sicurezza
+
+  Questo modulo ti aiuterà a capire gli aspetti importanti della sicurezza per implementazioni Dynamics.
+
   #### Lezioni
-  - Introduzione
-  - Comprensione delle opzioni del test
-  
-  Il completamento del modulo fornirà le capacità necessarie per
-  - Spiegare l'impatto che un Solution Architect ha quando vengono raccolti i requisiti per la performance di sistema
-  - Discutere i vari elementi e le considerazioni relative allo sviluppo di una strategia di testing
-  - Descrivere le opzioni di testing disponibili per il cliente
-  - Discutere la funzionalità e lo scopo principali di ciascuno dei quattro tipi di test
-  
-  ### Modulo 15#58; Aree aggiuntive per gli Architect
-  Questo modulo fornisce informazioni su considerazioni aggiuntive che non sono state trattate nei moduli precedenti.
-  Gli argomenti includono&#58;
-  
-  Panoramica del processo di aggiornamento
-  Presenta i passaggi di alto livello tipici per un team di progettazione atti a completare un aggiornamento.
-  
-  Considerazioni speciali
-  Fornisce indicazioni per la gestione degli allegati, database di grandi dimensioni e altri scenari di aggiornamento.
-  
-  Stampa degli scenari su Dynamics 365
-  Descrive le opzioni di stampa e quelle di configurazione della gestione del processo di printing.
+
+  *   Aspetti importanti di sicurezza
+
+  *   Framework della sicurezza
+
+  *   Definire una strategia per la sicurezza
+
+  #### Laboratorio &#58; Esercizi in classe
+
+  ####
+
+  #### Laboratorio &#58; Caso studio - attività studente
+
+  ####
+
+  *   Esercizio | aspetti importanti di sicurezza
+
+  *   Esercizio | framework della sicurezza
+
+  *   Attività studente 6 | sviluppare una strategia di sicurezza
+
+  Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di
+
+  *   Definire la sicurezza cloud 
+
+  *   Illustrare i principali aspetti della sicurezza del centro dati Azure
+
+  *   Capire autentificazione e autorizzazione
+
+  *   Capire i requisiti di conformità
+
+  *   Capire la crittografia
+
+  ### Modulo 8&#58; Definire una strategia di test
+
+  Questo modulo dovrebbe aiutarti a definire una strategia di test e a sviluppare un piano di test. Ti introdurrà ai vari tipi e strumenti di test.
+
   #### Lezioni
-  - Introduzione
-  - Panoramica del processo di aggiornamento
-  - Considerazioni speciali
-  - Stampa degli scenari su Dynamics 365
-  - Fasi d'implementazione di alto livello
-  
-  Il completamento del modulo fornirà le capacità necessarie per
-  - Esporre le considerazioni sulle dimensioni degli allegati e dei database
-  - Spiegazione della stampa dei documenti e dei concetti di gestione della stampa su Dynamics 365
-  - Spiegazione degli step di alto livello relativi al processo di aggiornamento
+
+  *   Panoramica sulla strategia di test
+
+  *   Pianificazione ed esecuzione test
+
+  #### Laboratorio &#58; Caso studio - attività studente
+
+  ####
+
+  #### Laboratorio &#58; Esercizi in classe
+
+  ####
+
+  *   Esercizio | panoramica sulla strategia di test
+
+  *   Esercizio | pianificazione ed esecuzione test
+
+  *   Attività studente 7 | sviluppare una strategia di test
+
+  Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di
+
+  *   Capire le possibilità di test
+
+  *   Ciclo di vita del test della soluzione e gestione delle anomalie
+
+  *   Illustrare gli strumenti di test
+
+  *   Testare ruoli, responsabilità e gestione del test
+
+  *   Eseguire la pianificazione di un test
+
+  *   Capire One Version e adottare una strategia di test di regressione
+
+  ### Modulo 9&#58; Definire una strategia di test delle prestazioni
+
+  Questo modulo si concentrerà più su argomenti inerenti alle prestazioni. Ti aiuterà a capire l'importanza dei temi di prestazioni e rafforzerà le tue conoscenze su come affrontare tali temi con il cliente.
+
+  #### Lezioni
+
+  *   Prepararsi per temi di prestazioni
+
+  *   Usare strumenti di test per le prestazioni
+
+  #### Laboratorio &#58; Esercizi in classe
+
+  ####
+
+  *   Esercizio | prepararsi per temi di prestazioni
+
+  *   Esercizio | usare strumenti di test per le prestazioni
+
+  Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di
+
+  *   Illustrare obiettivi e scenari di prestazioni
+
+  *   Illustrare benchmark e criteri per il successo delle prestazioni
+
+  *   Definire una strategia di test delle prestazioni
+
+  *   Identificare gli strumenti per un test delle prestazioni
+
+  *   Identificare gli strumenti per un monitoraggio delle prestazioni
+
+  ### Modulo 10&#58; Intelligence aziendale e rendicontazione
+
+  Questo modulo affronterà gli argomenti chiave relativi alla rendicontazione e all'intelligence richieste al solution architect.
+
+  #### Lezioni
+
+  *   Implementare l'intelligence e la rendicontazione aziendale
+
+  #### Laboratorio &#58; Esercizi in classe
+
+  ####
+
+  #### Laboratorio &#58; Caso studio - attività studente
+
+  ####
+
+  *   Esercizio | panoramica sulla rendicontazione e l'intelligence aziendale
+
+  *   Attività studente 8 | sviluppare una strategia di intelligence 
+
+  Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di
+
+  *   Delineare una panoramica della rendicontazione e delle statistiche
+
+  *   Illustrare opzioni di rendicontazione nativa
+
+  *   Illustrare opzioni di rendicontazione e intelligence aziendale
+
+  *   Identificare opzioni di rendicontazione delle statistiche
+
+  *   Sviluppare strategie di rendicontazione e analisi
+
+  ### Modulo 11&#58; Determinare licenze e supporto
+
+  Questo modulo è pensato per aiutarti a capire le basi delle licenze e del supporto. Non è inteso per renderti un esperto in questo campo. In ogni caso, ti permetterà di sapere dove trovare le informazioni quando ne avrai bisogno.
+
+  #### Lezioni
+
+  *   Capire l'estimazione delle licenze
+
+  *   Capire le opzioni di supporto
+
+  #### Laboratorio &#58; Esercizi in classe
+
+  ####
+
+  *   Esercizio| capire l'estimazione delle licenze
+
+  *   Esercizio | capire le opzioni di supporto
+
+  Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di
+
+  *   Stimare il numero di licenze
+
+  *   Rimanere conformi ai requisiti di licenza dell'utente
+
+  *   Capire le opzioni di supporto durante e dopo le implementazioni
+
+  *   Definire una strategia di supporto
+
+  ### Modulo 12&#58; Prepararsi al lancio
+
+  Questo modulo serve a mettere tutto insieme e prepararsi al lancio. Ti aiuterà ad acquisire familiarità con la checklist per il lancio. Questo modulo ricapitolerà anche i principali concetti appresi da questo corso e ti sarà richiesto di fornire un feedback del corso.
+
+  #### Lezioni
+
+  *   Completare la progettazione della soluzione
+
+  *   Prepararsi al lancio
+
+  *   Riepilogo del corso
+
+  #### Laboratorio &#58; Esercizi in classe
+
+  ####
+
+  *   Esercizio| prepararsi al lancio
+
+  Dopo aver completato questo modulo, gli studenti dovrebbero essere in grado di
+
+  *   Completare il blueprint della soluzione
+
+  *   Capire i processi di valutazione della prontezza al lancio
+
+  *   Capire il completamento e l'inoltro di una checklist di lancio
+
+  *   Illustrare i processi di provisioning dell'ambiente di produzione
+
+  *   Definire attività cutover e lancio
+
+  *   Fornire un feedback del corso
+
+  #### Letture Aggiuntive
+
+  Completa il seguente percorso di apprendimento prima di seguire questo ILT&#58; Architect solutions for Dynamics 365 and Power Platform - Learn | Microsoft Docs

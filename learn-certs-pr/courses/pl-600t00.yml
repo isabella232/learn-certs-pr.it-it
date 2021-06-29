@@ -16,6 +16,8 @@ roles:
 - solution-architect
 products:
 - power-platform
+exams:
+- uid: exam.pl-600
 summary: |-
   Il Solution Architect è responsabile della progettazione, implementazione, distribuzione e adozione di successo di una soluzione complessiva. Il Solution Architect si assicura che la soluzione soddisfi i bisogni del cliente presenti e futuri. In questo corso gli studenti scopriranno quali decisione prende un Solution Architect durante una distribuzione, coprendo gli aspetti di sicurezza, integrazione, architettura Power Apps, architettura Power Automate, e altro ancora. Questo corso è pensato per fornirti un'introduzione al ruolo di Solution Architect.
 
@@ -23,7 +25,7 @@ summary: |-
 
   Consulenti esperti (sia funzionali che tecnici) che aspirano a diventare Solution Architects, o attuali Solution Architects che sono nuovi a questa professione.
 outlineSection: |-
-  ### Modulo 1: Diventare un Solution Architect/Imparare a conoscere il tuo cliente
+  ### Modulo 1&#58; Diventare un Solution Architect/Imparare a conoscere il tuo cliente
 
   #### Lezioni
 
@@ -37,7 +39,7 @@ outlineSection: |-
 
   *   Esercizio di gruppo - Imparare a conoscere i tuoi clienti
 
-  ### Modulo 2: Concettualizzare il progetto a partire dai requisiti 
+  ### Modulo 2&#58; Concettualizzare il progetto a partire dai requisiti 
 
   #### Lezioni
 
@@ -51,7 +53,7 @@ outlineSection: |-
 
   *   Esercizio di gruppo - Progetto a partire dai requisiti
 
-  ### Modulo 3: Progettare la gestione e lavorare in un team 
+  ### Modulo 3&#58; Progettare la gestione e lavorare in un team 
 
   #### Lezioni
 
@@ -63,7 +65,7 @@ outlineSection: |-
 
   *   Esercizio di gruppo - Progettare la gestione e lavorare in un team
 
-  ### Modulo 4: Power Platform Architecture
+  ### Modulo 4&#58; Power Platform Architecture
 
   #### Lezioni
 
@@ -75,7 +77,7 @@ outlineSection: |-
 
   *   Capire come comunicare come la piattaforma soddisfa i bisogni del cliente 
 
-  ### Modulo 5: Modellazione dei dati
+  ### Modulo 5&#58; Modellazione dei dati
 
   #### Lezioni
 
@@ -89,7 +91,7 @@ outlineSection: |-
 
   *   Esercizio di gruppo - Modellazione dei dati 
 
-  ### Modulo 6: Analisi e intelligenza artificiale 
+  ### Modulo 6&#58; Analisi e intelligenza artificiale 
 
   #### Lezioni
 
@@ -103,7 +105,7 @@ outlineSection: |-
 
   *   Informazioni predefinite e personalizzate AI
 
-  ### Modulo 7: Power Apps Architecture
+  ### Modulo 7&#58; Power Apps Architecture
 
   #### Lezioni
 
@@ -117,7 +119,7 @@ outlineSection: |-
 
   *   Esercizio di gruppo - Argomenti su Power Apps Architecture 
 
-  ### Modulo 8: Gestione del Ciclo di Vita delle Applicazioni (ALM)
+  ### Modulo 8&#58; Gestione del Ciclo di Vita delle Applicazioni (ALM)
 
   #### Lezioni
 
@@ -127,11 +129,11 @@ outlineSection: |-
 
   *   Definire una struttura di soluzione da fornire 
 
-  #### Lab : ALM Esercitazione pratica
+  #### Laboratorio &#58; ALM Esercitazione pratica
 
   ####
 
-  ### Modulo 9: Power Automate Architecture
+  ### Modulo 9&#58; Power Automate Architecture
 
   #### Lezioni
 
@@ -143,7 +145,7 @@ outlineSection: |-
 
   *   Esercizio di gruppo - Valutare scenari per l'uso di Power Automate 
 
-  ### Modulo 10: Modellare la Sicurezza
+  ### Modulo 10&#58; Modellare la Sicurezza
 
   #### Lezioni
 
@@ -157,7 +159,7 @@ outlineSection: |-
 
   *   Esercizio di gruppo - Modellazione della Sicurezza
 
-  ### Modulo 11: Integrazione
+  ### Modulo 11&#58; Integrazione
 
   #### Lezioni
 
@@ -171,7 +173,7 @@ outlineSection: |-
 
   *   Scenari per la discussione di gruppo 
 
-  ### Modulo 12: Dynamics 365 Applications Architecture
+  ### Modulo 12&#58; Dynamics 365 Applications Architecture
 
   #### Lezioni
 
@@ -181,7 +183,7 @@ outlineSection: |-
 
   *   Esercizio di gruppo - Valutazione dei requisiti di gruppo per app specifiche 
 
-  ### Modulo 13: Architettura di Power Virtual Agents 
+  ### Modulo 13&#58; Architettura di Power Virtual Agents 
 
   #### Lezioni
 
@@ -197,7 +199,7 @@ outlineSection: |-
 
   *   Power Virtual Agents su Microsoft Teams
 
-  ### Modulo 14: Automazione dei Processi Robotici
+  ### Modulo 14&#58; Automazione dei Processi Robotici
 
   #### Lezioni
 
@@ -211,7 +213,7 @@ outlineSection: |-
 
   *   Consulente del processo
 
-  ### Modulo 15: Test e Lancio
+  ### Modulo 15&#58; Test e Lancio
 
   #### Lezioni
 

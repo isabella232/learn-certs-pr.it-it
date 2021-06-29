@@ -1,60 +1,121 @@
-- name: Certificazioni Microsoft
+- name: panoramica sulla certificazione
   href: index.yml
-- name: Offers
-  href: deals.md
-- name: Licenze a volume
-  href: volume-licensing-program.md
-- name: Microsoft Learning Partners
-  href: partners.md
-- name: Certificazioni, esami e corsi ritirati
+- name: Ottieni una certificazione
   expanded: false
   items:
-  - name: Certificazioni ritirate
-    href: retired-certifications.md
-  - name: Esami ritirati
-    href: retired-certification-exams.md 
-  - name: Corsi ritirati
-    href: retired-courses.md
-- name: Diventa un Microsoft Certified Trainer
-  href: mct-certification.md
-- name: Informazioni sugli esami di certificazione Microsoft
-  href: certification-exams.md
-- name: Esami Microsoft e badge di certificazione
-  href: badges.md
-- name: Sugli esami online con Pearson VUE
-  href: online-exams.md
-- name: Informazioni sugli esami online con PSI
-  href: online-exams-psi.md
-- name: Criteri dell’esame e domande frequenti
-  expanded: false
-  items:
-  - name: Domande frequenti
-    href: frequently-asked-questions.md  
-  - name: Criteri di sicurezza e di ripetizione degli esami
-    href: exam-security-policy-and-exam-retake-policy.md
-  - name: Riprogrammazione dell'esame e politica di cancellazione
-    href: exam-reschedule-and-cancellation-policy.md
-  - name: Accordo del programma di certificazione Microsoft
-    href: microsoft-certification-program-agreement.md
-  - name: Accordo di non divulgazione degli esami Microsoft
-    href: microsoft-exam-non-disclosure-agreement.md
+  - name: Panoramica sul processo di certificazione
+    href: certification-process-overview.md
   - name: Richiedi alloggi
     href: request-accommodations.md
-  - name: Processo di obiezione agli elementi d'esame
-    href: exam-item-challenge-process.md
-  - name: Esami beta
+  - name: Registrarsi e programmare un esame
+    href: register-schedule-exam.md
+  - name: Prepararsi per un esame
+    href: prepare-exam.md
+  - name: Durata dell'esame e tipi di domande
+    href: exam-duration-question-types.md
+  - name: Punteggio d'esame e suo report
+    href: exam-scoring-reports.md
+  - name: Esami supervisionati online
+    expanded: false
+    items:
+    - name: Introduzione e FAQs
+      href: online-exams-intro.md
+    - name: Esami online con Pearson VUE
+      href: online-exams.md
+    - name: Esami online con PSI
+      href: online-exams-psi.md
+  - name: Rinnova la tua certificazione Microsoft
+    href: renew-your-microsoft-certification.md  
+- name: Gestisci le tue certificazioni
+  expanded: false
+  items:
+  - name: Accedi alla tua Certification Dashboard
+    href: access-certification-dashboard.md
+  - name: Gestire il tuo profilo di certificazione
+    href: manage-certification-profile.md
+  - name: Accedi a libretto, certificati e badge
+    href: access-certificates-badges-transcript.md
+  - name: Usare e condividere badge di certificazione
+    href: badges.md
+- name: Novità sulla formazione e le certificazioni
+  expanded: false
+  items:
+  - name: Social media e Blog
+    href: social-media-blog.md
+  - name: Formazione e certificazione nei media
+    href: media.md
+  - name: Informazioni sulla rimozione
+    expanded: false
+    items:
+    - name: Rimozione certificazioni
+      href: retired-certifications.md
+    - name: Rimozione esami
+      href: retired-certification-exams.md 
+    - name: Rimozione corsi
+      href: retired-courses.md
+  - name: Passare da Learning a Microsoft Learn
+    href: learnfaq.yml
+- name: Offers
+  href: deals.md
+- name: Informazioni sul programma
+  expanded: false
+  items:
+  - name: Esami beta 
     href: beta-exams.md
-  - name: Credito universitario ACE per gli esami di certificazione
-    href: ace-credit-for-certification-exams.md
-  - name: Credito universitario NCCRS per gli esami di certificazione
-    href: college-credit-for-certification-exams.md
-  - name: Sconti per gli studenti
-    href: student-discounts.md
-- name: Guida alla certificazione
-  href: help.md
-- name: Guida Microsoft Official Courseware (MOC)
-  href: certification-and-training-help.md
-- name: Microsoft Certification program FAQs 
-  href: microsoft-certification-program-faqs.md
-- name: Accedi a Microsoft Learning ...
-  href: learnfaq.md
+  - name: Sviluppo dell'Esame
+    href: exam-development.md
+  - name: Certificazioni per studenti
+    expanded: false
+    items:
+    - name: Sconti per gli studenti
+      href: student-discounts.md
+    - name: College credit for certification exams
+      href: college-credit.md
+  - name: Politiche e accordi
+    expanded: false
+    items:
+    - name: Exam item challenge process
+      href: exam-item-challenge-process.md
+    - name: Politica di sicurezza dell'esame
+      href: exam-security-policy.md
+    - name: Politica di ripetizione dell'esame
+      href: exam-retake-policy.md
+    - name: Riprogrammazione dell'esame e politica di cancellazione
+      href: exam-reschedule-and-cancellation-policy.md
+    - name: Microsoft Certification Program Agreement
+      href: microsoft-certification-program-agreement.md
+    - name: Microsoft Certification Renewal Non-disclosure Agreement
+      href: microsoft-certification-renewal-non-disclosure-agreement.md
+    - name: Microsoft Exam Non-disclosure Agreement
+      href: microsoft-exam-non-disclosure-agreement.md
+  - name: Microsoft Learning Partners 
+    expanded: false
+    items:
+    - name: Trovare un Learning Partner
+      href: partners.md
+    - name: Valore dei Learning Partner
+      href: partners-value.md      
+  - name: Microsoft Certified Trainer
+    href: mct-certification.md
+  - name: Volume licensing
+    href: volume-licensing-program.md
+- name: Ausilio per la certificazione
+  expanded: false
+  items:
+  - name: Supporto certificazione
+    href: help.md
+  - name: Domande frequenti
+    href: frequently-asked-questions.md
+  - name: Microsoft Official Courseware (MOC) supporto
+    href: certification-and-training-help.md
+  - name: Guide alla risoluzione dei problemi
+    expanded: false
+    items:
+    - name: Trova il tuo MCID
+      href: find-mcid.md
+    - name: Unire e trasferire profili di certificazione
+      href: merge-profiles.md
+    - name: Voucher e riscatto degli sconti
+      href: redeem-discounts.md
+    - name: Allineare gli account tra il Profilo Certification e il Profilo Learn
+      href: aligning-accounts-between-certification-profile-and-learn-profile.md

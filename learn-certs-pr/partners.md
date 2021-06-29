@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
-description: 'Microsoft Learning Partners and Providers'
+title: 'Trovare un Learning Partner | Microsoft Docs'
+description: 'Microsoft Learning Partners - Trovare un Learning Partner'
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,13 @@ ms.date: 06/02/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Microsoft Learning Partners: Insegnare oggi le competenze di domani.
+# Trovare un Learning Partner
 
-![Microsoft Learning Partners banner](images/partners-banner.jpg "Microsoft Learning Partners banner")
+## Informazioni su Microsoft Learning Partners
 
-Se sei un singolo che cerca di sviluppare le sue competenze per avere un nuovo ruolo o se sei un manager che ha bisogno di incoraggiare le competenze del tuo team in cloud, Microsoft Learning Partner offre un'ampia varietà di soluzioni formative che soddisfino i tuoi bisogni formativi, incluse formazioni miste, di persona e on-line. Perfeziona le tue competenze tecniche con soluzioni formative approfondite che combinano video, laboratori pratici e la preparazione per la Certificazione Microsoft ti aiuterà a portare le tue capacità tecnologiche al livello successivo.
+Se stai cercando di acquisire competenze per il tuo prossimo ruolo o se sei un manager che vuole migliorare le competenze del tuo team relative al cloud, i Microsoft Learning Partners propongono un'ampia gamma di programmi di formazione, tra cui la formazione mista, in presenza e online, per permetterti di raggiungere i tuoi obiettivi formativi. I Microsoft Learning Partners hanno soddisfatto in tutto il mondo i requisiti del programma per insergnare i contenuti formativi sviluppati da Microsoft ed erogati dai Microsoft Certified Trainers. Per saperne di più sull'importanza di lavorare con i Learning Partner, visita: [Valore dei Learning Partner](/learn/certifications/partners-value).
 
-## Trova un Microsoft Learning Partner per nazione
+## <a name="find-microsoft-learning-partner-by-country-region"></a> Trova un Microsoft Learning Partner per paese/regione
 
 La nostra rete mondiale di partner fornisce formazione e certificazioni Microsoft flessibili, basate sui ruoli, personalizzate. Tutti gli insegnanti sono Microsoft Certified Trainers (MCTs) che hanno completato una formazione rigorosa e soddisfatto requisiti stringenti ci certificazioni tecniche.
 
@@ -510,14 +510,4 @@ Seleziona una nazione:
 > [!div class="nextstepaction"]
 > [TROVA UN FORNITORE DI SOLUZIONI MICROSOFT](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
-## Benefici per i professionisti e gli sviluppatori informatici
 
-**Impara una nuova tecnologia**. Con un solo corso, puoi sviluppare competenze pratiche che coprono il ciclo vitale dell’adozione della tecnologia, dalla pianificazione al supporto. E guadagni un livello di competenza che può essere appresa soltanto con esercizi pratici, simulazioni e applicazione delle competenze nel mondo reale. </br></br> **Preparazione per la certificazione**. [Certificazioni Microsoft](https://www.microsoft.com/learning/certification-overview.aspx) sono disponibili per le tecnologie di base di Microsoft e per i livelli di competenza. Microsoft Official Courses sono costruiti a misura della certificazione Microsoft e sono tenuti da istruttori qualificati del settore.</br></br>**Inizia una nuova carriera**. Gli istruttori del settore che insegnano ai corsi ufficiali Microsoft possono aiutarti ad acquisire competenze informatiche che puoi trasferire direttamente dall’aula al posto di lavoro. I corsi offrono l’accesso a valide risorse digitali che rimangono disponibili per te dopo aver completato un corso.</br></br> I professionisti che in passato hanno seguito la formazione informatica o relativa al business hanno guadagnato in media circa $ 3.400 di più di chi non l’ha fatto. (Global Knowledge, *Competenze informatiche e indagine sullo stipendio*, marzo 2011)
-
-## Benefici per i manager informatici
-
-**Migliora efficienza e produttività**. I Microsoft Learning Partners ti possono aiutare a sfruttare al meglio gli investimenti in tecnologia della tua organizzazione. I tuoi dipendenti possono aumentare la loro produttività con le tecnologie Microsoft dalla formazione in aula o con i corsi ufficiali Microsoft On-Demand. </br></br> **Preparazione per l’installazione**. La formazione sulle competenze disponibile attraverso i Microsoft Learning Partner aiutano le aziende ad accelerare le installazioni delle tecnologie Microsoft e possono ridurre i tempi di fermo. La ricerca mostra che il 40% dei tempi di fermo operativo è causato da errori degli operatori attribuibili a una significativa carenza di formazione sui sistemi base. (Anderson, Cushing. “Impatto della formazione sull’amministrazione della rete: La certificazione porta a produttività operativa.” Studio IDC. Come riportato da Linda Musthaler nel Network World, 25 novembre 2009) </br></br> **Sviluppo dipendenti, reclutamento e mantenimento**. La formazione e la certificazione sono metodi efficaci per misurare come i membri del team possano lavorare bene con specifiche tecnologie, hardware e software. </br></br>Il sessanta percento dei responsabili delle tecnologie intervistati dicono che una delle più grandi sfide nel progettare grandi infrastrutture informatiche è la disponibilità di professionisti con le necessarie competenze quando servono. (TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, giugno 2011)
-
-## Diventa un Microsoft Learning Partner
-
-Se fornisci formazione ai tuoi clienti come uno dei tuoi servizi principali o come unica attività della tua azienda, il raggiungere le competenze nella certificazione può aprire nuove opportunità per i tuoi affari. I benefici della rete dei Microsoft Partner ti può aiutare a risparmiare tempo e denaro mentre rafforzi le tue competenze, servi meglio i clienti e costruisci relazioni per raggiungere il pieno potenziale del tuo business. </br></br> [Unisciti al programma Microsoft Learning Partner](https://mspartner.microsoft.com/en/us/Pages/Membership/learning-competency.aspx)

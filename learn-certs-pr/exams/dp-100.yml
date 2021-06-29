@@ -6,12 +6,14 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 20 maggio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 20 maggio 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
 
-  Il Data Scientist Azure applica le proprie conoscenze di scienza dei dati e di machine learning per implementare ed eseguire carichi di lavoro di machine learning su Azure; in particolare, utilizzando Azure Machine Learning Service. Ciò comporta la pianificazione e la creazione di un ambiente di lavoro adatto per i carichi di lavoro di scienza dei dati su Azure, l'esecuzione di esperimenti sui dati e la formazione sui modelli predittivi, la gestione e l'ottimizzazione dei modelli e l'implementazione di modelli di machine learning in produzione.
-
-  Superando questo esame di certificazione potresti essere idoneo per il credito universitario ACE. Consulta [Crediti universitari ACE per gli esami di certificazione](/learn/certifications/ace-credit-for-certification-exams) per maggiori informazioni.
-subTitle: 'Questo esame misura la capacità di svolgere i seguenti compiti tecnici: impostare uno spazio di lavoro Azure Machine Learning, eseguire esperimenti e formare i modelli, ottimizzare e gestire i modelli, distribuire e consumare i modelli.'
+  I candidati per la certificazione Azure Data Scientist Associate dovrebbero avere competenze in materia di applicazione di data science e apprendimento automatico per implementare ed eseguire carichi di lavoro con apprendimento automatico su Azure.
+  
+  Le responsabilità di questo ruolo comprendono la pianificazione e la creazione di un ambiente di lavoro idoneo per carichi di lavoro data science su Azure. Puoi eseguire esperimenti sui dati e allenare modelli predittivi. Oltre a ciò, puoi gestire, ottimizzare e distribuire modelli di apprendimento automatico nella produzione.
+  
+  Un candidato per questa certificazione dovrebbe avere conoscenza ed esperienza nel campo della data science e nell'uso di Azure Machine Learning e Azure Databricks.
+subTitle: 'Questo esame valuta la tua capacità di eseguire i seguenti compiti tecnici: gestire risorse Azure per apprendimento automatico; eseguire esperimenti e allenare modelli; distribuire e rendere operative soluzioni di apprendimento automatico; e implementare apprendimento automatico responsabile.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -24,11 +26,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 20 maggio 2021. Scarica la descrizione delle competenze per l'esame qui sotto per prendere visione dei prossimi cambiamenti.
-- Impostare uno spazio di lavoro Azure Machine Learning (30-35%)
-- Eseguire esperimenti e addestrare modelli (25-30%)
-- Ottimizzare e gestire i modelli (20-25%)
-- Distribuire e consumare i modelli (20-25%)
+- Il contenuto di questo esame è stato aggiornato il 20 maggio 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
+- Gestire le risorse Azure per il machine learning (25–30%)
+- Eseguire esperimenti e addestrare modelli (20–25%)
+- Implementare e rendere operative le soluzioni di machine learning (35–40%)
+- Implementare il machine learning responsabile (5–10%)
 roles:
 - data-scientist
 products:
@@ -38,10 +40,12 @@ products:
 - azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
+- uid: course.dp-090t00
 paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+- uid: learn.wwl.perform-data-science-azure-databricks
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist

@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: Rimozione corsi | Microsoft Docs
+description: Rimozione corsi
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,54 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Corsi ritirati
+# Rimozione corsi
 
-Le seguenti tabelle elencano i corsi ritirati o che saranno ritirati a breve. Dopo la data di ritiro, i corsi non vengono più venduti.
+## Rimozione dei corsi
 
-Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft controlla costantemente i trend aziendali e revisiona le certificazioni per tenersi al passo con i cambiamenti tecnologici. Per aiutarti a rimanere all'avanguardia in merito alla tecnologia e offrirti le più importanti opportunità di apprendimento, introduciamo regolarmente nuovi corsi e revisioniamo o rimuoviamo i corsi più datati. 
 
-## Corsi ritirati: Corsi di formazione con istruttori
+Una volta rimosso un corso, non sarà più disponibile. Il corso non potrà più essere acquistato e coloro che lo hanno già acquistato non avranno più accesso al relativo materiale.
+
+## Corsi rimossi: Formazioni tenute da istruttori
+
+* Rimozioni materiale didattico il 31 maggio 2021
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | Inglese | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | Inglese | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | Inglese | 5/31/2021 |
+
+* Rimozioni materiale didattico il 30 aprile 2021
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | Inglese | 04/30/2021 |
 
 * Corsi in fase di ritiro il 31 Marzo 2021
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | Inglese | 03/31/2021 |
+    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Giapponese | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Giapponese | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Giapponese | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Giapponese | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Giapponese) | Giapponese | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Giapponese) | Giapponese | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | Inglese | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | Inglese | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | Inglese | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | Inglese | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | Inglese | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | Inglese | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | Inglese | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | Inglese | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | Inglese | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | Inglese | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | Inglese | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | Inglese | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | Inglese | 3/31/2021 |
 
 * Corsi ritirati il 31 dicembre 2020
 
@@ -989,7 +1024,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
 * Corsi ritirati il venerdì 24 giugno 2016
 
-  [Scarica l’elenco completo dei corsi di e-learning programmati per il ritiro](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [Scarica l’elenco completo dei corsi di e-learning programmati per il ritiro.](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * Corsi ritirati il mercoledì 15 giugno 2016
 
@@ -1025,7 +1060,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
 * Corsi ritirati il giovedì 31 dicembre 2015
 
-  [Scarica l’elenco completo di corsi con istruttore programmati per il ritiro](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [Scarica l’elenco completo di corsi con istruttore programmati per il ritiro.](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * Corsi ritirati il lunedì 31 agosto 2015
 
@@ -1046,7 +1081,7 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
 * Corsi ritirati il martedì 30 giugno 2015
 
-  [Scarica l’elenco completo dei corsi con istruttore programmati per il ritiro](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [Scarica l’elenco completo dei corsi con istruttore programmati per il ritiro.](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * Corsi ritirati il sabato 31 gennaio 2015
 
@@ -1139,8 +1174,8 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
 * Corsi ritirati il venerdì 29 dicembre 2017
 
-  * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [Scarica l’elenco completo di corsi di e-learning MSIA programmati per il ritiro](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro.](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Scarica l’elenco completo di corsi di e-learning MSIA programmati per il ritiro.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * Corsi ritirati il martedì 15 agosto 2017
 
@@ -1150,62 +1185,59 @@ Se stai cercando corsi MOC On-Demand ritirati, segui questo link: [https://docs.
 
 * Corsi ritirati il venerdì 30 giugno 2017
 
-  * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [Scarica l'elenco completo di corsi di e-learning MSIA programmati per il ritiro](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [Scarica l’elenco completo di corsi di e-learning SA programmati per il ritiro.](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [Scarica l'elenco completo di corsi di e-learning MSIA programmati per il ritiro.](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * Corsi ritirati il martedì 30 giugno 2015
 
-  * [Scarica l’elenco completo di corsi di e-learning programmati per il ritiro](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [Scarica l’elenco completo di corsi di e-learning programmati per il ritiro.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * Corsi ritirati il mercoledì 12 marzo 2014
 
-  * [Scarica l’elenco completo di corsi di e-learning programmati per il ritiro](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [Scarica l’elenco completo di corsi di e-learning programmati per il ritiro.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## Domande frequenti (FAQ) sul ritiro dei corsi e delle certificazioni MOC su richiesta
- 
-**D: Perché i corsi vengono ritirati?**
-  
-Microsoft monitora continuamente le tendenze del settore e rivede i requisiti di certificazione per tenere il passo con i cambiamenti in campo tecnologico. Per essere certi di offrirti le opportunità di formazione più rilevanti, introduciamo regolarmente nuovi corsi e rivediamo o interrompiamo i corsi precedenti. 
+## Corsi rimossi: MOC On-Demand
 
-**D: Quali criteri vengono utilizzati per determinare che un corso deve essere ritirato?**
+Tutti i corsi Microsoft Official Course (MOC) On-Demand sono stati rimossi il 30 giugno 2020. Per una lista completa dei corsi rimossi, consulta: [MOC On-Demand Courses sono stati Rimossi](/learn/certifications/retired-on-demand-online-courses).
+
+## Domande poste frequentemente circa i corsi e la rimozione dei MOC On-Demand 
+
+**Quali criteri vengono utilizzati per determinare che un corso deve essere ritirato?**
  
 In genere, un corso viene ritirato in uno dei seguenti casi:
 
 - Quando il corso è stato sostituito. Quando viene introdotto un nuovo corso che sostituisce uno o più corsi precedenti e che copre il materiale in modo sostanzialmente nuovo.
-- Un corso viene generalmente ritirato se la tecnologia oggetto di un corso non è più supportata da Microsoft.
+- Se la tecnologia coperta da un corso non è più supportata da Microsoft, il corso, generalmente, sarà rimosso. 
 - Le decisioni commerciali relative al successo di un corso o le spese per mantenere aggiornato un corso possono portare al suo ritiro.
-- Quando la certificazione viene ritirata. Se il corso è stato progettato per una certificazione che non è più disponibile, è possible che il materiale didattico venga ritirato.
+- La certificazione è stata rimossa. Se il corso è stato pensato per una certificazione che non viene più offerta, il corso potrebbe essere rimosso.
 - I corsi offerti da autori non Microsoft tramite il programma di authoring della community possono essere ritirati per qualsiasi motivo, su richiesta dell'autore.
 - Perplessità relative alla qualità possono causare il ritiro di un corso. Se in un corso vengono riscontrati problemi di qualità, il corso può essere ritirato fino a quando la qualità può essere migliorata.
   
-**D: Come faccio a sapere se un corso è stato ritirato?**
+**Come faccio a sapere se un corso è stato ritirato?**
   
 Microsoft pubblica un elenco trimestrale dei corsi ritirati e di quelli per i quali è previsto il ritiro entro i prossimi tre-sei mesi. Gli annunci sui ritiri sono condivisi tramite le comunicazioni con i partner della formazione, i formatori, i fornitori e altri segmenti di pubblico interessati. Le descrizioni dei corsi nel catalogo dei corsi di formazione Microsoft e nel catalogo della libreria di materiali didattici vengono aggiornate con un annuncio della data di ritiro.
 
-**D: Come posso acquistare un corso dopo la sua data di ritiro?**
+**Come posso acquistare un corso dopo la sua data di ritiro?**
 
 Dopo la data di ritiro, i corsi non vengono più venduti. La data di ritiro viene pubblicata sulla pagina web del catalogo riferita a ciascun corso e tramite i normali canali di comunicazione per i specifici destinatari. Alla data di ritiro effettiva, il materiale didattico è contrassegnato come non più in vendita. Per evitare confusione, il corso rimane in elenco come non acquistabile per un periodo di tempo dopo il ritiro effettivo, fino a quando non viene archiviato e rimosso completamente dal catalogo.
 
-**D: Posso acquistare la versione digitale di un corso prima del ritiro e scaricarlo o utilizzarlo dopo la data di ritiro?**
+**Posso acquistare la versione digitale di un corso prima del ritiro e scaricarlo o utilizzarlo dopo la data di ritiro?**
 
 Dopo il ritiro del corso, non è più possibile scaricarlo. Se hai scaricato o ricevuto il materiale del corso prima della data di ritiro, puoi usarlo nel rispetto dei termini della licenza.
 
-**D: Cosa succede ai corsi ritirati che mi sono stati assegnati, prima del ritiro, nel mio Piano di apprendimento e/o aggiunti alla sezione "My Courses” (I miei corsi)?**
+**Cosa succede ai corsi ritirati che mi sono stati assegnati, prima del ritiro, nel mio Piano di apprendimento e/o aggiunti alla sezione "My Courses” (I miei corsi)?**
 
-Continuerai a vedere questi corsi nella sezione "My Courses" (I miei corsi) dopo il loro ritiro, ma vedrai un messaggio di errore se tenti di avviare un corso ritirato.
+Continuerai a vedere questi corsi nella sezione "I Miei Corsi" dopo la loro rimozione, ma quando cercherai di lanciare un corso rimosso otterrai un messaggio di errore.
 
-**D: Se non ho completato un corso prima del suo ritiro, posso completarlo dopo che è stato ritirato?**
+**Se non ho completato un corso prima della sua rimozione, potrò completarlo comunque dopo di essa?**
 
 No. Dopo che il corso è stato ritirato, non puoi più accedervi e scaricarlo.
   
-**D: In che modo i rapporti delle attività del corso rifletteranno il progresso dei corsi al momento del loro ritiro?**
+**In che modo i rapporti delle attività del corso rifletteranno il progresso dei corsi al momento del loro ritiro?**
 
 I rapporti delle attività del corso rifletteranno il tuo progresso con il corso al momento del suo ritiro. Ad esempio, se un corso è stato completato al 60% da un utente quando il corso viene ritirato, i rapporti sull'attività del corso mostreranno un completamento pari al 60%. La percentuale di completamento di un corso non può essere modificata dopo che un corso è stato ritirato.
 
-**D: Posso ancora trovare un corso ritirato sul sito di apprendimento online?**
+**Posso ancora trovare un corso ritirato sul sito di apprendimento online?**
 
 No. I corsi ritirati non vengono più visualizzati nei risultati di ricerca o nel catalogo dei corsi.
 
-**D: Quando un corso viene ritirato, viene ritirato anche il relativo MOC On-Demand (MOD)?**
-
-Sì. Poiché la certificazione MOD è allineata con i corsi, quando un corso viene rititrato, anche la MOD viene ritirata nella stessa data.
