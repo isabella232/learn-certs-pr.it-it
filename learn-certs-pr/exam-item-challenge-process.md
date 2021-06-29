@@ -1,6 +1,6 @@
 ---
-title: 'Processo di obiezione agli elementi d'esame | Microsoft Docs'
-description: 'Processo di obiezione agli elementi d'esame'
+title: "Processo di obiezione agli elementi d'esame | Microsoft Docs"
+description: "Processo di obiezione agli elementi d'esame"
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
