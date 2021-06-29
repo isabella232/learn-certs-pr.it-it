@@ -1,6 +1,6 @@
 ---
-title: 'Riprogrammazione dell'esame e politica di cancellazione | Microsoft Docs'
-description: 'Riprogrammazione dell'esame e politica di cancellazione' 
+title: "Riprogrammazione dell'esame e politica di cancellazione | Microsoft Docs"
+description: "Riprogrammazione dell'esame e politica di cancellazione" 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
