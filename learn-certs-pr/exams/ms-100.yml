@@ -6,11 +6,11 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 2 giugno 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
-  
-  I candidati idonei a questo esame sono Microsoft 365 Enterprise Administrator coinvolti nella valutazione, pianificazione, migrazione, installazione e gestione dei servizi Microsoft 365. Eseguono attività di gestione dei tenant di Microsoft 365 per un’azienda, occupandosi tra l’altro di identità, sicurezza, conformità e tecnologie di supporto.
-  
-  Hanno una conoscenza professionale dei carichi di lavoro di Microsoft 365 e devono avere lavorato in qualità di amministratore di almeno uno dei carichi di lavoro di Microsoft 365 (Exchange, SharePoint, Skype for Business or Windows as a Service). I candidati devono inoltre avere una conoscenza professionale delle reti, dell’amministrazione dei server e dei concetti di base dell’IT, come DNS, Active Directory e PowerShell.
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 2 giugno 2021. Scarica la descrizione delle competenze valutate qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
+      
+  I candidati per questo esame sono Microsoft 365 Enterprise Administrators che prendono parte ad attività di valutazione, pianificazione, trasferimento, distribuzione e gestione di servizi Microsoft 365. Eseguono attività di gestione multiutente Microsoft 365 per un'azienda, tra cui compiti di identificazione, sicurezza, conformità, Power Platform, e tecnologie di supporto.
+
+  I candidati sono in possesso di una conoscenza professionale dei carichi di lavoro Microsoft 365 e dovrebbero essere stati amministratori per almeno un carico di lavoro Microsoft 365 (Exchange, SharePoint, Teams), e Windows come Servizio. I candidati dovrebbero avere anche una conoscenza professionale in merito a rete, amministrazione server, e basi IT come DNS, Active Directory, e PowerShell.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: progettare e implementare i servizi di Microsoft 365; gestire le identità e i ruoli degli utenti; gestire l’accesso e l’autenticazione; e pianificare i carichi di lavoro e le applicazioni di Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE

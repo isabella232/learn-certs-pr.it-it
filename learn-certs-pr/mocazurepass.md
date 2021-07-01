@@ -15,7 +15,7 @@ ms.prod: non-product-specific
 
 <div>Di seguito sono riportate le informazioni relative ai Pass di Azure forniti da Microsoft per supportare soluzioni di laboratorio per corsi specifici sulle tecnologie cloud Microsoft.  Per ulteriori informazioni sulle soluzioni alternative supportate da SLA, contattare uno degli Authorised Lab Hosters (ALH) che attualmente forniscono l'accesso ad Azure.</div>
 
-Ultimo aggiornamento: **06 agosto 2020**
+Ultimo aggiornamento: **27 Maggio 2021**
 
 Microsoft offre ai tuoi studenti l'accesso a un Microsoft Azure Pass gratuito di 30 giorni quando si registrano per un corso idoneo relativo ad Azure usando i corsi ufficiali Microsoft. I pass per gli studenti possono essere ottenuti solo dal Microsoft Learning Partner autorizzato tramite il Marketplace dei corsi ed è direttamente collegato all'acquisto di un corso MOC, con il limite di un pass per ciascun corso MOC ordinato. Non saranno disponibili altri meccanismi per ottenere i pass per gli studenti. Se un Learning Partner ordina un corso MOC ma non seleziona il Pass Azure che è disponibile con il corso al momento dell'acquisto, il Partner avrà la possibilità di tornare al Marketplace dei corsi e, se necessario, ordinare successivamente quel Pass.
 
@@ -36,11 +36,8 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - 20765 Provisioning SQL Databases
 - 20767 Implementing a SQL Data Warehouse
 - 20777 Implementing Microsoft Azure Cosmos DB Solutions
-- 20778 Analyzing Data with Power BI
-- 40369 Cloud Fundamentals: MTA Exam 98-369
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
-- 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
 - 40505 Microsoft Cloud Workshop: Internet of Things
 - 40508 Microsoft Cloud Workshop: Modern Cloud Apps
 - 40510 Microsoft Cloud Workshop: SQL Server Hybrid Cloud
@@ -54,11 +51,9 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
 - 40527 Microsoft Cloud Workshop: Security baseline on Azure
-- 40528 Microsoft Cloud Workshop: Business continuity and disaster recovery
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
-- 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
@@ -66,9 +61,7 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - 40560 Microsoft Cloud Workshop: Predictive Maintenance for remote field devices
 - 40561 Microsoft Cloud Workshop: Machine Learning
 - 40562 Microsoft Cloud Workshop: Migrating SQL databases to Azure
-- 40563 Microsoft Cloud Workshop: Real-time data with Azure Database for PostgreSQL Hyperscale
 - 40564 Microsoft Cloud Workshop: Securing the IoT end-to-end
-- 40565 Microsoft Cloud Workshop: Modernizing Data Analytics with SQL Server 2019
 - 40573 Microsoft Cloud Workshop: Hybrid identity
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
@@ -78,18 +71,16 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
 - AI-100T01 Designing and Implementing an Azure AI Solution
+- AI-102T00 Designing and Implementing a Microsoft Azure AI Solution
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-030T00 Tecnologie Microsoft Azure per architetti AWS
-- AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
 - AZ-203T0X Developing Solutions for Microsoft Azure courses
 - AZ-204T00 Developing Solutions for Microsoft Azure
 - AZ-220T00 Microsoft Azure IoT Developer
-- AZ-300T0X Azure Solutions Architect - Technologies courses
-- AZ-301T0X Azure Solutions Architect - Design courses
 - AZ-303T00 Microsoft Azure Architect Technologies
 - AZ-304T00 Microsoft Azure Architect Design
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
@@ -98,6 +89,7 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - DP-050T00 Migrate SQL workloads to Azure
 - DP-060T00 Migrate NoSQL workloads to Azure Cosmos DB
 - DP-070T00 Migrate Open Source Data Workloads to Azure
+- DP-090T00 Implementing a Machine Learning Solution with Microsoft Azure Databricks
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
@@ -105,6 +97,10 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 Costruire applicazioni e soluzioni con i servizi di base di Microsoft 365
 - PL-400T00 Microsoft Power Platform Developer
+- PL-600T00 Power Platform Solution Architect
+- SC-200T00 Microsoft Security Operations Analyst
+- SC-300T00 Microsoft Identity and Access Administrator
+- WS-013T00 Azure Stack HCI							   
 - WS-050T00 Migrating Application Workloads to Azure
 
 Nota: Questo elenco è soggetto a modifiche e i titoli possono essere aggiunti o rimossi da questo elenco quando vengono rilasciate nuove versioni o corsi e le versioni e i corsi precedenti vengono ritirati.
