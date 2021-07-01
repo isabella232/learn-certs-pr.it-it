@@ -19,6 +19,19 @@ Una volta rimosso un corso, non sarà più disponibile. Il corso non potrà più
 
 ## Corsi rimossi: Formazioni tenute da istruttori
 
+* Rimozione materiali didattici il 30 giugno 2021
+
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
+    | --- | --- | --- | --- | --- |
+    | AI-100T01 | A | Designing and Implementing an Azure AI Solution | Inglese | 6/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Inglese | 6/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Inglese | 6/30/2021 |
+    | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | Inglese | 6/30/2021 |
+    | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | Inglese | 6/30/2021 |
+    | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | Giapponese | 6/30/2021 |
+    | AI-100T01KO | A | Designing and Implementing an Azure AI Solution | Coreano | 6/30/2021 |
+    | AI-100T01ZH | A | Designing and Implementing an Azure AI Solution | Cinese semplificato | 6/30/2021 |
+
 * Rimozioni materiale didattico il 31 maggio 2021
 
     | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |

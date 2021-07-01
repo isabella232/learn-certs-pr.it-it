@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 25 maggio 2021. Scarica la descrizione della competenze valutate qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
   
   I candidati a questo esame devono avere esperienza in materia di implementazione, gestione e monitoraggio dell'ambiente Microsoft Azure di un'organizzazione.
   
@@ -30,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei prossimi cambiamenti. 
+- Il contenuto di questo esame è stato aggiornato il 25 maggio 2021. Scarica la descrizione della competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
 - Gestire le identità e la governance Azure (15-20%)
 - Implementare e gestire l'archiviazione (15-20%)
 - Distribuire e gestire le risorse di calcolo Azure (20-25%)

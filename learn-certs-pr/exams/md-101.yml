@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 25 maggio 2021. Scarica la descrizione della competenze valutate qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
 
   Se hai superato l’[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) prima che ritirata il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Desktop moderni.
 
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 25 maggio 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei prossimi cambiamenti.
+- Il contenuto di questo esame è stato aggiornato il 25 maggio 2021. Scarica la descrizione della competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
 - Distribuire e aggiornare sistemi operativi (25-30%)
 - Gestire criteri e profili (20-25%)
 - Gestire e proteggere i dispositivi (30-35%)
@@ -42,6 +42,7 @@ exams:
 courses:
 - uid: course.md-101t00
 paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
 - uid: learn-m365.microsoft-365-get-modern
 - uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
