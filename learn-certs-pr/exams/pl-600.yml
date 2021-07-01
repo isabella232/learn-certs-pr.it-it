@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect (beta)'
+title: 'Microsoft Power Platform Solution Architect'
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
 uid: exam.pl-600
 displayName: PL-600
 summary: |-
@@ -12,7 +12,6 @@ summary: |-
   
   Gli architetti di soluzioni posseggono esperienza nelle discipline funzionali e tecniche della Power Platform. Gli architetti di soluzioni dovrebbero essere in grado di facilitare le decisioni di progetto durante le fasi di sviluppo, configurazione, integrazione, infrastruttura, sicurezza, disponibilità, archiviazione e gestione delle modifiche. Questo ruolo bilancia le esigenze aziendali di un progetto soddisfacendo requisiti funzionali e non.
   
-  <div><br/><font color='red'><strong>Gli esami beta non vengono valutati immediatamente perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/beta-exams">Per saperne di più sul valore e sull'importanza degli esami beta</a>.</strong></font></div>
 subTitle: "Questo esame misura la capacità di svolgere le seguenti attività tecniche: prefigurazione della soluzione e analisi dei requisiti; progettazione di una soluzione; implementazione della soluzione."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -54,6 +53,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
+- title: Percorso di formazione per ottenere la certificazione
+  description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://aka.ms/TrainingCertDeck

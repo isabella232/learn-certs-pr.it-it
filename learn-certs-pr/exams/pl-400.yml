@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 23 marzo 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 23 giugno 2021. Scarica il documento delle competenze valutate qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   </div>
 
   I candidati a questo esame progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform. I candidati implementano componenti della soluzione che comprendono l’aumento delle applicazioni, esperienza dell’utente personalizzata, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
@@ -17,13 +17,14 @@ summary: |-
 subTitle: 'Questo esame valuta la tua capacità di svolgere i seguenti compiti tecnici: creare un progetto tecnico, configurare il Common Data Service, creare e configurare Power Apps, configurare l''automazione dei processi aziendali, estendere l''esperienza utente, estendere la piattaforma e sviluppare le integrazioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+practiceTestUrl: https://in.mindhub.com/pl-400-microsoft-power-platform-developer-microsoft-official-practice-test/p/MU-PL-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=PL-400&examname=Exam%20PL-400:%20Microsoft%20Power%20Platform%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 23 marzo 2021. Scarica la descrizione delle competenze dell'esame qui sotto per prendere visione dei cambiamenti apportati. 
+- Il contenuto di questo esame sarà aggiornato il 23 giugno 2021. Scarica il documento delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati. 
 - Creare un progetto tecnico (10-15%)
 - Configurazione di Microsoft Dataverse (15-20%)
 - Creare e configurare Power Apps (15-20%)

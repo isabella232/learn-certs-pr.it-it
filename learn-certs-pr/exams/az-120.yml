@@ -7,18 +7,18 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 28 maggio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei prossimi cambiamenti.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 28 maggio 2021. Scarica la descrizione della competenze valutate qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
   </div>
 
-  I candidati a questo esame dovrebbero essere architetti o ingegneri con una vasta esperienza e conoscenza del panorama dei sistemi SAP e degli standard di settore specifici per il funzionamento a lungo termine di una soluzione SAP su Microsoft Azure.
-
-  Le responsabilità di un architetto o un ingegnere per Azure per Workloads SAP includono la formulazione di raccomandazioni sui servizi e l'adeguamento delle risorse in modo appropriato per la resilienza, le prestazioni, la scala, la fornitura, le dimensioni e il monitoraggio ottimali.
-
-  Architetti o ingegneri partner per Azure per Workloads SAP collaborano con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
-
-  Un candidato a questo esame dovrebbe avere una vasta esperienza e conoscenza delle applicazioni SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, server OS per applicazioni e database SAP, portale di Azure, modelli ARM, sistemi operativi, virtualizzazione, infrastruttura cloud, strutture di archiviazione, progettazione ad alta disponibilità, progettazione di disaster recovery, concetti di protezione dei dati e networking.
-
-  Per questo esame si consiglia vivamente di avere una certificazione Azure Administrator Associate o Azure Solutions Architect Expert, oltre alle certificazioni SAP HANA e Linux.
+  I candidati per questo esame dovrebbero essere ingegneri o architetti con vasta esperienza e conoscenza in merito all'ambiente di sistema SAP e agli standard aziendali specifici per la migrazione iniziale o l'integrazione e l'operatività a lungo termine di una soluzione SAP su Microsoft Azure.
+  
+  Le responsabilità di un architetto o un ingegnere per Azure in Carichi di lavoro SAP includono fornire consigli su servizi e adattare le risorse a quanto necessario per garantire flessibilità, prestazioni, scalabilità, fornitura, dimensioni e monitoraggio ottimali. 
+  
+  Gli architetti o ingegneri per Azure in Carichi di lavoro SAP collaborano con amministratori cloud, amministratori di database cloud, e clienti per implementare soluzioni.
+  
+  Un candidato per questo esame dovrebbe essere in possesso di una vasta esperienza e conoscenza in merito alle applicazioni SAP: SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, server OS per applicazioni e database SAP, portale Azure, Azure Marketplace, Azure Resource Manager template (template ARM), virtualizzazione, infrastruttura cloud, strutture di archiviazione, progettazione di high availability, progettazione di un disaster recovery, concetti sulla protezione dati e rete.
+  
+  Per questo esame, consigliamo caldamente di essere in possesso di una certificazione Azure Administrator Associate o Azure Solutions Architect Expert, oltre a certificazioni SAP.
 subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività tecniche: migrare i carichi di lavoro SAP in Azure, progettare una soluzione di Azure per supportare i carichi di lavoro SAP, compilare e distribuire carichi di lavoro SAP di Azure, convalidare l'infrastruttura di Azure per i carichi di lavoro SAP e rendere operativa l'architettura di Azure SAP."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
@@ -31,12 +31,11 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame sarà aggiornato il 28 maggio 2021. Scarica la descrizione delle competenze per l'esame qui sotto per prendere visione dei prossimi cambiamenti.
-- Eseguire la migrazione dei carichi di lavoro SAP in Azure (10-15%)
-- Progettare una soluzione Azure che supporti i carichi di lavoro SAP (20-25%)
-- Compilare e distribuire Azure per i carichi di lavoro SAP (35-40%)
-- Convalidare l’infrastruttura Azure per i carichi di lavoro SAP (10-15%)
-- Rendere operativa l’architettura SAP in Azure (10-15%)
+- Il contenuto di questo esame è stato aggiornato il 28 maggio 2021. Scarica la descrizione della competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
+- Eseguire la migrazione dei carichi di lavoro SAP in Azure (25–30%)
+- Progettare e Implementare un'Infrastruttura per Supportare Carichi di Lavoro SAP (25–30%)
+- Progettare e Implementare High Availability e Disaster Recovery (HA/DR) (20–25%)
+- Mantenere Carichi di Lavoro SAP su Azure (15–20%)
 roles:
 - solution-architect
 - devops-engineer
