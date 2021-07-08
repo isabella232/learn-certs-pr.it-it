@@ -1,0 +1,86 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate (Legacy)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate (Legacy)'
+  description: "I consulenti funzionali di Customer Service di Microsoft Dynamics 365 creano soluzioni CX veloci, agili e che sfruttano l'intelligenza artificiale (IA) per ottenere informazioni strategiche che anticipano le esigenze dei clienti."
+uid: certification.d365-functional-consultant-customer-service-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Questa versione della certificazione non è più disponibile. Se hai questa versione della certificazione ti verrà automaticamente fornita la versione più recente.
+  
+  Entrambe le versioni saranno elencate nelle tue certificazioni. Dovrai solo rinnovare la versione più recente. Alla scadenza della versione precedente, questa verrà spostata nella sezione dedicata alla cronologia delle certificazioni nella tua trascrizione.
+  
+  Se sei un consulente funzionale responsabile della configurazione e dell'implementazione di soluzioni Dynamics 365 per i clienti, puoi usare questa certificazione per mettere in luce le tue competenze e aiutarti ad avanzare nella tua carriera. Un consulente funzionale Dynamics 365 Customer Service implementa soluzioni omnicanale che si focalizzano su servizio, qualità, affidabilità, efficienza e soddisfazione del cliente. Come consulente, sai come lavorare con project manager, sviluppatori, e solution architect. Devi avere un'esperienza di almeno uno-tre anni come consulente funzionale che implementa Dynamics 365.
+  
+  Se hai bisogno di maturare più esperienza prima di provare ad acquisire questa certificazione, ecco alcuni suggerimenti&#58;
+  - Lavora come consulente funzionale Dynamics 365 su uno o più progetti.
+  - Lavora su un'implementazione Dynamics 365 Customer Service.
+  - Unisciti alla community su [community.dynamics.com](https://community.dynamics.com/).
+  - Segui i percorsi di formazione disponibili su [Microsoft Learn](/learn/browse/?expanded=dynamics-365&products=dynamics-customer-service&roles=functional-consultant&resource_type=learning%20path).
+  - Completa un'esercitazione a carattere più pratico.
+  - Iscriviti a un corso tenuto da un istruttore.
+subTitle: I consulenti funzionali di Customer Service di Microsoft Dynamics 365 creano soluzioni CX veloci, agili e che sfruttano l'intelligenza artificiale (IA) per ottenere informazioni strategiche che anticipano le esigenze dei clienti.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- Nessuno
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-customer-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-230t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-dynamics.work-customer-service-omnichannel
+- uid: learn-dynamics.work-customer-service-insights
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-230
+resources:
+- title: Poster di certificazione
+  description: Consulta una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Viaggio verso la certificazione
+  description: Consulta i passaggi per ottenere la certificazione e le risorse disponibili per aiutarti nella preparazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
+- title: Guida alla formazione e alla certificazione
+  description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://aka.ms/TrainingCertDeck
+- title: Percorso di formazione per ottenere la certificazione
+  description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: deals.md
+- title: Dashboard delle certificazioni
+  description: Controlla e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: help.md
+- title: Condividi i badge delle tue certificazioni
+  description: Festeggia i tuoi successi con la tua rete. Richiedi il tuo badge Microsoft Certification e aggiungilo a LinkedIn, al tuo CV e ad altro ancora.
+  href: badges.md
+
