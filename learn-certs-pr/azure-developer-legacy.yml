@@ -7,9 +7,7 @@ uid: certification.azure-developer-legacy
 certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Questa versione della certificazione non è più disponibile. Se hai questa versione della certificazione ti verrà automaticamente fornita la versione più recente.
-  
-  Entrambe le versioni saranno elencate nelle tue certificazioni. Dovrai solo rinnovare la versione più recente. Alla scadenza della versione precedente, questa verrà spostata nella sezione dedicata alla cronologia delle certificazioni nella tua trascrizione.
+  <div><font color="#D83B01"><strong>Questa versione della certificazione non è più disponibile. Se hai questa versione della certificazione ti verrà automaticamente fornita la versione più recente.<br/><br/>  Entrambe le versioni saranno elencate nelle tue certificazioni. Dovrai solo rinnovare la versione più recente. Alla scadenza della versione precedente, questa verrà spostata nella sezione dedicata alla cronologia delle certificazioni nella tua trascrizione.<br/><br/></strong></font></div>
   
   I candidati per la certificazione Azure Developer Associate dovrebbero essere in possesso di competenze specifiche in materia di progettazione, costruzione, test e manutenzione di applicativi e servizi cloud su Microsoft Azure.
   
