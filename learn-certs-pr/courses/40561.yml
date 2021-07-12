@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Machine Learning'
+metadata:
+  title: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+  description: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+uid: course.40561
+courseNumber: '40561-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Le potenzialità e l'implementazione di soluzioni di Azure Machine Learning e Azure Databricks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In questa sessione di progettazione whiteboard, lavorerai in gruppo per progettare e implementare una soluzione che combina Azure Databricks con il servizio Azure Machine Learning per sviluppare, allenare e distribuire modelli di apprendimento automatico e apprendimento profondo. Scoprirai come usare modelli di apprendimento automatico e di apprendimento profondo. Scoprirai come usare modelli di apprendimento automatico, modellare la gestione del ciclo di vita dall'allenamento alla distribuzione, in scenari di interferenza in batch e in tempo reale, e costruire modelli di apprendimento profondo per Natural Language Processing (NLP) nella classificazione del testo e nella previsione di serie di dati temporali. Infine, imparerai a confrontare dati con PyTorch e Keras per l'apprendimento automatico.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per Cloud Architects e professionisti IT che hanno esperienza architetturale in merito a infrastruttura e progettazione di soluzioni con tecnologie cloud e desiderano scoprire di più su Azure e i servizi Azure come descritto nelle sezioni "Sintesi" e "Competenze acquisite". Gli studenti che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non-Microsoft, soddisfare i prerequisiti del corso, e desiderare un cross-training su Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - Apprendimento Automatico
+  #### Lezioni
+  - Rivedere il caso studio del cliente
+  - Progettare una soluzione di prova del concetto
+  - Presentare la soluzione
+
+
+  ### Modulo 2&#58; Lab pratico - Apprendimento Automatico
+  #### Lezioni
+  - Creare un modello predittivo usando l'apprendimento automatico
+  - Capire il modello predittivo generato ML automatizzato usando la spiegabilità del modello
+  - Creare un modello di apprendimento profondo (RNN) per serie di dati temporali e registrare il modello
+  - Usare un modello predittivo per ottenere il punteggio del flusso telemetrico
+  - Creare un modello di classificazione del testo con apprendimento profondo

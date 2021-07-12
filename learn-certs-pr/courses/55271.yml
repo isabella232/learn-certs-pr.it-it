@@ -1,0 +1,279 @@
+### YamlMime:Course
+title: Introduction to Microsoft Excel 2019
+metadata:
+  title: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+  description: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+uid: course.55271
+courseNumber: '55271-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Creare fogli di lavoro di base usando Microsoft Excel 2019.
+- skill: Eseguire calcoli su un foglio di lavoro Excel.
+- skill: Modificare un foglio di lavoro Excel.
+- skill: Modificare l'aspetto dei dati in un foglio di lavoro.
+- skill: Gestire cartelle di lavoro Excel.
+- skill: Stampare il contenuto di un foglio di lavoro Excel.
+- skill: Imparare come usare le nuove pratiche funzionalità introdotte nel 2019.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  In questa formazione Introduction to Microsoft Excel 2019, gli studenti creeranno e modificheranno fogli e cartelle di lavoro di base. Questo corso è pensato per gli studenti che desiderano acquisire le competenze necessarie per creare, modificare, formattare e stampare fogli di lavoro di base su Microsoft Excel 2019.
+
+  #### Profilo d'utenza
+  Questo corso è pensato per gli studenti che hanno poca (o nessuna) familiarità con Microsoft Excel 2019 o utenti Excel più avanzati che desiderano imparare i temi coperti in questo corso nell'interfaccia 2019.
+outlineSection: |-
+  ### Modulo 1&#58; Creare una Cartella di Lavoro Microsoft Excel
+  Questo modulo spiega come creare e iniziare a lavorare con cartelle e fogli di lavoro.
+  #### Lezioni
+  - Avviare Microsoft Excel
+  - Creare una Cartella di Lavoro
+  - Salvare una Cartella di Lavoro
+  - La Barra dello Status
+  - Aggiungere e Cancellare Fogli di Lavoro
+  - Copiare e Spostare Fogli di Lavoro
+  - Cambiare l'Ordine dei Fogli di Lavoro
+  - Dividere la Finestra del Foglio di Lavoro
+  - Chiudere una Cartella di Lavoro
+
+
+  #### Laboratorio &#58; Creare una Cartella di Lavoro Microsoft Excel 
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare una Cartella di Lavoro Microsoft Excel.
+  - Salvare una Cartella di Lavoro Microsoft Excel.
+  - La Barra dello Status.
+  - Aggiungere e Cancellare Fogli di Lavoro Microsoft Excel.
+  - Copiare e Spostare Fogli di Lavoro.
+  - Dividere la finestra del foglio di Lavoro.8. Per chiudere una cartella di lavoro Microsoft Excel.
+
+
+  ### Modulo 2&#58; La Barra Multifunzione
+  Questo modulo spiega come lavorare con la Barra Multifunzione.
+  #### Lezioni
+  - Schede
+  - Gruppi
+  - Comandi
+
+
+  #### Laboratorio &#58; Esercizi sulla Barra Multifunzione
+  - Aprire una Cartella di Lavoro
+  - Selezionare, Aprire e Salvare il Template di un'Agenda
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Lavorare con schede.
+  - Lavorare con gruppi.
+  - Lavorare con comandi.
+  - Sapere quali gruppi e comandi trovare su quali schede.
+
+
+  ### Modulo 3&#58; La Visualizzazione Backstage (Il Menu File)
+  Questo modulo spiega come lavorare con la Visualizzazione Backstage.
+  #### Lezioni
+  - Introduzione alla Visualizzazione Backstage
+  - Aprire una Cartella di Lavoro
+  - Apri una Cartella di Lavoro
+  - Nuove Cartelle di Lavoro e Template Excel
+  - Selezionare, Aprire e Salvare il Template di un'Agenda
+  - Stampare Fogli di Lavoro
+  - Stampa un Foglio di Lavoro
+  - Aggiungere il Tuo Nome a Microsoft Excel
+  - Aggiungere un Tema a Microsoft Excel
+
+
+  #### Laboratorio &#58; Esercizi sulla Visualizzazione Backstage
+  - Stampare un Foglio di Lavoro
+  - Aprire una Cartella di Lavoro
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Lavorare con la visualizzazione Backstage
+  - Aprire una cartella di lavoro Microsoft Excel.
+  - Avviare una nuova cartella di lavoro Microsoft Excel.
+  - Usare template Microsoft Excel.
+  - Stampare una cartella di lavoro Microsoft Excel.
+  - Personalizzare la tua copia di Microsoft Excel
+
+
+  ### Modulo 4&#58; La Barra di Accesso Rapido
+  Questo modulo spiega come lavorare con la Barra di Accesso Rapido.
+  #### Lezioni
+  - Aggiungere Comandi Comuni
+  - Aggiungere Comandi Aggiuntivi con la Box di Dialogo Personalizzata
+  - Aggiungere Comandi o Gruppi alla Barra Multifunzione
+  - Posizionamento
+  - Personalizzare la Barra di Accesso Rapido
+
+
+  #### Laboratorio &#58; - Personalizzare la Barra di Accesso Rapido
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Aggiungere comandi comuni alla Barra di Accesso Rapido.
+  - Aggiungere Comandi Aggiuntivi alla Barra di Accesso Rapido.
+  - Spostare la Barra di Accesso Rapido.
+
+
+  ### Modulo 5&#58; Inserire Dati su Fogli di Lavoro Microsoft Excel
+  Questo modulo spiega come inserire dati su fogli di lavoro Microsoft Excel.
+  #### Lezioni
+  - Inserire Testo
+  - Aggiungere e Cancellare Celle
+  - Aggiungere un Collegamento Ipertestuale
+  - Aggiungere WordArt a un Foglio di Lavoro
+  - Usare AutoComplete
+  - Inserire Testo e Usare AutoComplete
+  - Inserire Numeri e Date
+  - Usare l'Handle di Riempimento
+  - Inserire Numeri e Date
+
+
+
+  #### Laboratorio &#58; Esercizi sull'Inserimento Dati
+  - Inserire Testo e Usare AutoComplete
+  - Inserire Numeri e Date
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Inserire testo in fogli di lavoro Microsoft Excel.
+  - Aggiungere o eliminare celle in fogli di lavoro.
+  - Aggiungere una descrizione dei tuoi dati.
+  - Inserire un collegamento ipertestuale in fogli di lavoro.
+  - Usare AutoComplete.
+  - Inserire numeri e date in fogli di lavoro Microsoft Excel.
+  - Usare l'handle di riempimento per aggiungere dati alle celle.
+
+
+  ### Modulo 6&#58; Formattare Fogli di Lavoro Microsoft Excel 
+  Questo modulo spiega come formattare fogli di lavoro Microsoft Excel.
+  #### Lezioni
+  - Selezionare Intervalli di Celle
+  - Nascondere Fogli di Lavoro
+  - Aggiungere Colori a Schede di Fogli di Lavoro
+  - Aggiungere Temi a Cartelle di Lavoro
+  - Personalizzare una Cartella di Lavoro usando la Scheda Colori e Temi
+  - Aggiungere Watermark
+  - Il Gruppo di Font
+  - Lavorare con il Comando Gruppo di Font
+  - Il Gruppo di Allineamento
+  - Lavorare con il Comando Gruppo di Allineamento
+  - Il Gruppo Numeri
+  - Lavorare con il Comando Gruppo Numeri
+
+
+  #### Laboratorio &#58; Esercizi di Formattazione Fogli di Lavoro
+  - Personalizzare una Cartella di Lavoro usando la Scheda Colori e Temi
+  - Lavorare con il Comando Gruppo di Font
+  - Lavorare con il Comando Gruppo di Allineamento
+  - Lavorare con il Comando Gruppo Numeri
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire vari modi per formattare fogli di lavoro Microsoft Excel.
+  - Selezionare un intervallo di celle in un foglio di lavoro.
+  - Nascondere fogli di lavoro.
+  - Aggiungere colori a schede di una cartella di lavoro.
+  - Aggiungere temi a fogli di lavoro
+  - Mettere in grassetto, in corsivo e sottolineare il testo.
+  - Aggiungere margini alle celle.
+  - Cambiare testo e colore delle celle.
+  - Cambiare font e dimensioni del font.
+  - Allineare testo.
+  - Testo a capo.
+  - Far rientrare il testo.
+  - Unire e centrare testo.
+  - Cambiare formato dei numeri.
+  - Cambiare formato della data.
+  - Mostrare decimali.
+
+
+  ### Modulo 7&#58; Usare Formule su Microsoft Excel
+  Questo modulo spiega come lavorare con le formule su Microsoft Excel.
+  #### Lezioni
+  - Operatori Matematici e Ordine delle Operazioni
+  - Inserire Formule
+  - AutoSum (e Altre Formule Automatiche Comuni)
+  - Copiare Formule e Funzioni
+  - Riferimenti Relativi, Assoluti e Misti delle Celle
+  - Lavorare con le Formule
+
+
+  #### Laboratorio &#58; Lavorare con le Formule
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire gli operatori matematici e l'ordine delle operazioni su Excel.
+  - Inserire formule di base.
+  - Usare AutoSum per sommare dati in un solo click.
+  - Capire riferimenti assoluti, relativi e misti delle celle.
+  - Copiare formule e funzioni.
+
+
+  ### Modulo 8&#58; Lavorare con Righe e Colonne
+  Questo modulo spiega come lavorare con righe e colonne su Microsoft Excel.
+  #### Lezioni
+  - Inserire Righe e Colonne
+  - Cancellare Righe e Colonne
+  - Trasporre Righe e Colonne
+  - Impostare l'Altezza delle Righe e la Larghezza delle Colonne
+  - Nascondere e Mostrare Righe e Colonne
+  - Congelare Pannelli
+  - Lavorare con Righe e Colonne
+
+
+  #### Laboratorio &#58; Lavorare con Righe e Colonne
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Inserire righe e colonne in fogli di lavoro Microsoft Excel.
+  - Cancellare righe e colonne in fogli di lavoro Microsoft Excel.
+  - Trasporre righe e colonne.
+  - Cambiare l'altezza delle righe.
+  - Cambiare la larghezza delle colonne.
+  - Nascondere e mostrare righe e colonne.
+  - Congelare pannelli.
+
+
+  ### Modulo 9&#58; Modificare Fogli di Lavoro
+  Questo modulo spiega come modificare fogli di lavoro su Microsoft Excel.
+  #### Lezioni
+  - Trova
+  - Trova e Sostituisci
+  - Usare Trova e Sostituisci
+  - Usare la Clipboard
+  - Usare Format Painter
+  - Gestire Commenti
+
+
+  #### Laboratorio &#58; Esercizi sulla Modifica di Fogli di Lavoro
+  - Usare Trova e Sostituisci
+  - Usare la Clipboard
+  - Usare Format Painter
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Trovare informazioni nel tuo foglio di lavoro usando Trova.
+  - Usare Trova e Sostituisci per sostituire rapidamente dati con altri dati.
+  - Usare i comandi Taglia, Copia, Incolla e Format Painter per modificare fogli di lavoro.
+  - Gestire commenti
+
+
+  ### Modulo 10&#58; Finalizzare Fogli di Lavoro Microsoft Excel
+  Questo modulo spiega come finalizzare fogli di lavoro Microsoft Excel.
+  #### Lezioni
+  - Impostare Margini
+  - Impostare Orientamento Pagina
+  - Impostare Area di Stampa
+  - Stampare Ridimensionamento (Adatta Foglio a Una Pagina)
+  - Stampare Intestazioni su Ogni Pagina/Ripetere le Intestazioni e i Piè di Pagina
+  - Intestazioni e Piè di Pagina
+  - Preparare la Stampa
+
+
+  #### Laboratorio &#58; Preparare la Stampa
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Impostare margini in fogli di lavoro Microsoft Excel.
+  - Impostare l'orientamento della pagina in modalità ritratto o paesaggio.
+  - Impostare l'area di stampa di un foglio di lavoro.
+  - Ridimensionare un foglio di lavoro così che tutti i dati siano stampati su una pagina.
+  Aggiungere intestazioni e piè di nota a un foglio di lavoro.
+ 
+  #### Letture Aggiuntive
+  Per aiutarti nella preparazione a questo corso, rivedi le risorse seguenti&#58;
+  - N/A

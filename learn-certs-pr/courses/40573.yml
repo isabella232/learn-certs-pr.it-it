@@ -1,0 +1,48 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Hybrid identity'
+metadata:
+  title: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+  description: 'Course 40573-G: Microsoft Cloud Workshop: Hybrid identity'
+uid: course.40573
+courseNumber: '40573-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Progettare reti virtuali su Azure con più sottoreti per filtrare e controllare il traffico della rete.
+- skill: Creare una rete virtuale e fornire sottoreti.
+- skill: Creare tabelle di percorso con percorsi richiesti.
+- skill: Costruire una jump box di gestione.
+- skill: Configurare firewall per controllare il flusso del traffico. 
+- skill: Configurare la connettività sito-a-sito.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In questo workshop, imparerai a strutturare e configurare una soluzione di identificazione ibrida che integri la soluzione di identificazione esistente in loco con Azure. Imparerai come rendere sicura la rete virtuale distribuendo applicazioni virtuali di rete, e come configurare le regole e le tabelle di percorso del firewall. In più, configurerai l'accesso alla rete virtuale con una jump box e la connessione sito-a-sito VPN.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per Cloud Architects e professionisti IT che hanno esperienza architetturale in merito a infrastruttura e progettazione di soluzioni con tecnologie cloud e desiderano scoprire di più su Azure e i servizi Azure come descritto nelle sezioni "Sintesi" e "Competenze acquisite". Gli studenti che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non-Microsoft, soddisfare i prerequisiti del corso, e desiderare un cross-training su Azure.
+prerequisitesSection: |-
+  Il contenuto di questo workshop presume un'esperienza architetturale di livello 300 in merito alla progettazione di infrastrutture e soluzioni. Consigliamo agli studenti di ottenere tale prerequisito prima di frequentare questo workshop.
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - Identificazione ibrida
+  In questo workshop, imparerai a strutturare e configurare una soluzione di identificazione ibrida che integri la soluzione di identificazione esistente on-premise con Azure. Imparerai come rendere sicura la rete virtuale distribuendo applicazioni virtuali di rete, e come configurare le regole e le tabelle di percorso del firewall. In più, configurerai l'accesso alla rete virtuale con una jump box e la connessione sito-a-sito VPN.
+  #### Lezioni
+  - Rivedere il caso studio del cliente
+  - Progettare una soluzione di prova del concetto
+  - Presentare la soluzione
+
+
+  ### Modulo 2&#58; Lab Pratico - Identificazione ibrida
+  In questo lab pratico imposterai e configurerai una serie di diversi scenari di identificazione ibrida. Gli scenari coinvolgono una foresta a dominio singolo Active Directory chiamata contoso.local, che, in questo ambiente di lab, consiste (per ragioni di semplicità) in un solo controller del dominio chiamato DC1 e un singolo server membro del dominio chiamato APP1. L'intenzione è esplorare le potenzialità relative a Azure AD che ti permettono di integrare Active Directory con Azure Active Directory, ottimizzare l'autentificazione e l'autorizzazione ibrida, e fornire un accesso sicuro alle risorse in loco da Internet sia per gli utenti aziendali che per gli utenti che fanno parte di aziende partner.
+  #### Lezioni
+  - Integrare una Active Directory Forest con un tenant Azure Active Directory.
+  - Gestire Autentificazione, Autorizzazione e Controllo di Accesso in Scenari Ibridi.
+  - Configurare l'accesso all'applicazione in scenari ibridi.
