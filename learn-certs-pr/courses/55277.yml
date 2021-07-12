@@ -1,0 +1,227 @@
+### YamlMime:Course
+title: Introduction to Microsoft PowerPoint 2019
+metadata:
+  title: 'Course 55277-A: Introduction to Microsoft PowerPoint 2019'
+  description: 'Course 55277-A: Introduction to Microsoft PowerPoint 2019'
+uid: course.55277
+courseNumber: '55277-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: iniziare e terminare una sessione di PowerPoint.
+- skill: modificare una presentazione.
+- skill: creare diversi tipi di diapositive.
+- skill: usare la scheda Struttura.
+- skill: Aggiungere clipart a una diapositiva.
+- skill: Formattare le diapositive e usare i modelli.
+- skill: Usare la sequenza diapositive per riorganizzare una presentazione.
+- skill: Applicare tabelle e grafici ad una presentazione.
+- skill: Stampare vari componenti di una presentazione.
+- skill: Eseguire una presentazione.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Questa classe di formazione Introduction to PowerPoint 2019 è progettata per gli studenti che sono interessati ad apprendere i fondamenti necessari per creare e modificare le presentazioni di base utilizzando Microsoft Office PowerPoint 2019. Gli studenti esploreranno l'ambiente PowerPoint e creeranno una presentazione. Gli studenti formatteranno il testo sulle diapositive per migliorare la chiarezza, aggiungendo oggetti grafici a una presentazione e li modificandoli. Gli studenti aggiungeranno anche tabelle e grafici a una presentazione per presentare i dati in una forma strutturata e poi finalizzare una presentazione.
+
+  #### Profilo del pubblico
+  Studenti che hanno poca o nessuna familiarità con Microsoft PowerPoint 2019 o utenti Word più esperti che vogliono imparare gli argomenti trattati in questo corso nell'interfaccia 2019.
+prerequisitesSection: |-
+  Per questo corso di Microsoft PowerPoint è richiesta la seguente esperienza&#58;
+  - Familiarità con l'uso di un personal computer, mouse e tastiera.
+  - Comodità nell'utilizzare Windows.
+  - Capacità di aprire e chiudere programmi, navigare verso le informazioni memorizzate sul computer e gestire file e cartelle.
+outlineSection: |-
+  ### Modulo 1&#58; Creare una presentazione PowerPoint
+  Questo modulo spiega come creare una presentazione in Microsoft PowerPoint.
+  #### Lezioni
+  - Avvio di Microsoft PowerPoint
+  - Visualizzazione normale
+  - Creare una presentazione
+  - Salvare un documento
+  - Importare un file
+  - La barra di stato
+  - Chiudere una presentazione
+
+
+  #### Lab &#58; Creazione di una presentazione Microsoft PowerPoint
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Avviare Microsoft PowerPoint.
+  - Imparare la vista normale.
+  - Creare una presentazione PowerPoint.
+  - Salvare una presentazione PowerPoint.
+  - Importare un file in PowerPoint.
+  - Imparare a conoscere la barra di stato.
+  - Chiudere una presentazione di PowerPoint
+
+
+  ### Modulo 2&#58; La barra multifunzione
+  Questo modulo spiega come lavorare con la barra multifunzione in Microsoft PowerPoint.
+  #### Lezioni
+  - La barra multifunzione
+  - Le schede
+  - I gruppi
+  - I comandi
+  - La scheda Aiutami
+
+
+  #### Lab &#58; Esplorare la barra multifunzione
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Lavorare con schede, gruppi e comandi
+  - Imparare quali gruppi e comandi si trovano in quali schede.
+
+
+  ### Modulo 3&#58; La barra di accesso rapido
+  Questo modulo spiega come lavorare con la barra degli strumenti di accesso rapido in Microsoft PowerPoint.
+  #### Lezioni
+  - Aggiungere comandi comuni
+  - Aggiungere altri comandi con la finestra di dialogo Personalizza
+  - Aggiunta di comandi o gruppi sulla barra multifunzione
+  - Posizionamento
+
+
+  #### Lab &#58; Personalizzare la barra degli strumenti di accesso rapido
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Aggiungere comandi comuni alla barra degli strumenti di accesso rapido.
+  - Aggiungere ulteriori comandi alla barra degli strumenti di accesso rapido.
+  - Spostare la barra degli strumenti di accesso rapido.
+
+
+  ### Modulo 4&#58; La visualizzazione Backstage (il menu File)
+  Questo modulo spiega come lavorare con la visualizzazione Backstage in Microsoft PowerPoint.
+  #### Lezioni
+  - Introduzione alla vista Backstage
+  - Aprire una presentazione
+  - Nuove presentazioni e modelli di presentazione
+  - Proprietà della presentazione
+  - Aggiungere il proprio nome a Microsoft PowerPoint
+
+
+  #### Lab &#58; Esercizi sulla visualizzazione Backstage
+  - Aprire una presentazione
+  - Creare un ordine del giorno utilizzando un modello
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Usare la visualizzazione Backstage.
+  - Aprire una presentazione di Microsoft PowerPoint.
+  - Avviare una nuova presentazione di Microsoft PowerPoint.
+  - Utilizzare i modelli di Microsoft PowerPoint.
+  - Modificare le proprietà della presentazione.
+  - Personalizzare la tua copia di Microsoft PowerPoint.
+
+  ### Modulo 5&#58; Formattare le presentazioni di Microsoft PowerPoint
+  Questo modulo spiega come formattare le presentazioni di Microsoft PowerPoint.
+  #### Lezioni
+  - Selezionare un layout di diapositiva
+  - Aggiunta di testo
+  - Aggiunta di testo da un file di testo o da un profilo di Word
+  - Modifica del testo
+  - Formattazione del testo
+  - Formattazione del testo come WordArt
+  - Creazione di elenchi puntati e numerati
+  - Equazione dell'inchiostro
+  - Formattazione dei segnaposto di testo
+  - Aggiungere diapositive a una presentazione
+  - Disporre le diapositive
+
+
+  #### Lab &#58; Formattazione del testo
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Selezionare un layout di diapositiva.
+  - Aggiungere testo ad una diapositiva.
+  - Importare il contenuto da un file di testo.
+  - Modificare il testo.
+  - Formattare il testo.
+  - Formattare i marcatori di testo.
+  - Applicare stili alle diapositive.
+  - Aggiungere diapositive a una presentazione.
+  - Eliminare diapositive da una presentazione. Imparare ad organizzare le diapositive.
+
+  ### Modulo 6&#58; Lavorare con le immagini
+  Questo modulo spiega come lavorare con le immagini in Microsoft PowerPoint.
+  #### Lezioni
+  - Aggiungere immagini ad una diapositiva
+  - Inserire un'immagine
+  - Inserimento di icone
+  - Inserimento di Clip Art
+  - Catturare e inserire uno screenshot
+  - Modifica di un'immagine
+  - Formattazione delle immagini
+  - Creazione di colori personalizzati con il contagocce
+  - Applicare uno stile e ritagliare un'immagine
+  - Disporre le immagini
+  - Aggiungere forme
+  - Usare l'inchiostro digitale
+
+
+  #### Lab &#58; Lavorare con immagini e forme
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Aggiungere immagini ad una presentazione.
+  - Inserire un'immagine.
+  - Inserire clip art.
+  - Inserire uno screenshot.
+  - Modificare un'immagine.
+  - Ruota e ridimensiona un'immagine.
+  - Raggruppa e disaggrega le immagini.
+  - Disporre le immagini.
+  - Aggiungere forme.
+
+
+  ### Modulo 7&#58; Lavorare con tabelle e grafici
+  Questo modulo spiega come lavorare con tabelle e grafici in Microsoft PowerPoint.
+  #### Lezioni
+  - Inserire una tabella
+  - Formattare le tabelle
+  - Importare tabelle da fonti esterne
+  - Inserire un grafico
+  - Formattazione di un grafico
+  - Importare grafici da fonti esterne
+
+
+  #### Lab &#58; Esercizi con tabelle e grafici
+  - Lavorare con una tabella
+  - Lavorare con i grafici
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Inserire una tabella in una diapositiva.
+  - Formattare una tabella.
+  - Copiare una tabella da altre applicazioni di Microsoft Office in PowerPoint.
+  - Inserire un grafico in una diapositiva.
+  - Formattare un grafico.
+  - Copiare un grafico da altre applicazioni di Microsoft Office in PowerPoint.
+
+
+  ### Modulo 8&#58; Finalizzare le presentazioni di Microsoft PowerPoint
+  Questo modulo spiega come finalizzare le presentazioni di Microsoft PowerPoint.
+  #### Lezioni
+  - Controllare l'ortografia
+  - Accedere a diverse viste di una presentazione
+  - Organizzare una presentazione in sezioni
+  - Aggiungere transizioni alle diapositive
+  - Aggiungere note al relatore
+  - Esecuzione di una presentazione
+  - Stampare una presentazione
+
+
+  #### Lab &#58; Esercizi di finalizzazione della presentazione
+  - Visualizzare la presentazione
+  - Finalizzare la presentazione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Controllare l'ortografia della presentazione.
+  - Accedere a diverse viste di una presentazione.
+  - Dividere una presentazione in diverse sezioni.
+  - Aggiungere transizioni ad una diapositiva.
+  - Aggiungere note all'oratore.
+  - Eseguire una presentazione.
+  - Stampare una presentazione
+
+  #### Letture aggiuntive
+  Per aiutarvi a prepararvi a questa lezione, rivedete le seguenti risorse&#58;
+  - N/A

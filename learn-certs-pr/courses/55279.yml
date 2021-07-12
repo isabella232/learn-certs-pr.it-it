@@ -1,0 +1,176 @@
+### YamlMime:Course
+title: Introduction to Microsoft Access 2019
+metadata:
+  title: 'Course 55279-A: Introduction to Microsoft Access 2019'
+  description: 'Course 55279-A: Introduction to Microsoft Access 2019'
+uid: course.55279
+courseNumber: '55279-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: acquisire una comprensione dei concetti e della terminologia dei database.
+- skill: imparare l'interfaccia di Access.
+- skill: imparare a lavorare con le viste delle tabelle, le query, i moduli, i report, le macro e i moduli.
+- skill: imparare a pianificare un database
+- skill: imparare i fondamenti della progettazione di un database
+- skill: imparare a lavorare con i moduli e il Form Wizard.
+- skill: imparare a lavorare con i rapporti e la procedura guidata per i rapporti.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Questo corso di formazione Introduction to Microsoft Access 2019 inizia coprendo i concetti di base del database. Gli studenti impareranno quindi a progettare e creare database e tabelle, a interrogare tali tabelle e a creare moduli e rapporti.
+
+  #### Profilo del pubblico
+  Questo corso è destinato agli studenti che hanno poca o nessuna familiarità con Microsoft Access 2019 o agli utenti di Access più esperti che vogliono imparare gli argomenti trattati in questo corso nell'interfaccia 2019.
+prerequisitesSection: |-
+  - Familiarità con l'uso di un personal computer, mouse e tastiera.
+  - Comodità di utilizzo di Windows.
+  - Capacità di aprire e chiudere programmi, di navigare verso le informazioni memorizzate nel computer e di gestire file e cartelle.
+outlineSection: |-
+  ### Modulo 1&#58; Panoramica rapida dell'interfaccia utente di Access
+  Questo modulo spiega come familiarizzare con l'interfaccia utente di Access.
+  #### Lezioni
+  - Barra multifunzione di Access
+  - Barra degli strumenti di accesso rapido
+  - Riquadro di navigazione degli oggetti
+  - Superficie di lavoro di Access
+  - Panoramica dell'oggetto
+  - Panoramica del processo
+  - Creare un database usando una procedura guidata
+
+
+  #### Lab &#58; Come muoversi nell'ambiente Access
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire l'organizzazione della barra multifunzione di Access.
+  - Capire le schede contestuali nella barra multifunzione.
+  - Capire la barra degli strumenti di accesso rapido e come personalizzarla.
+  - Capire il pannello di navigazione.
+  - Capire gli oggetti e il processo di creazione.
+  - Capire la superficie di lavoro di Access.
+  - Capire come creare database usando una procedura guidata.
+
+  ### Modulo 2&#58; Fondamenti
+  Questo modulo spiega come pensare ad alcuni fondamenti del database prima di immergersi nella creazione del database.
+  #### Lezioni
+  - Domande da porre prima di iniziare
+  - Approcci alla progettazione dei database
+  - Raccogliere informazioni
+  - Qualche parola sulle convenzioni di denominazione
+  - Normalizzazione
+  - Relazioni tra tabelle
+
+
+  #### Lab &#58; Esercizi di base
+  - Fare domande
+  - Normalizzare i dati
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Porre domande da considerare prima di creare un'applicazione di database.
+  - Comprendere gli approcci comuni alla progettazione di database&#58; ascendente e discendente.
+  - Passare da documenti e campioni di dati a dati categorizzati (mappatura dei dati).
+  - Capire le convenzioni di denominazione per le tabelle e altri oggetti.
+  - Capire cos'è la normalizzazione.
+  - Capire alcuni concetti di base della normalizzazione e come applicarli.
+  - Capire le chiavi primarie ed esterne.
+  - Capire le relazioni e stabilirle tra le tabelle.
+
+
+  ### Modulo 3&#58; Le tabelle e le loro visualizzazioni.
+  Questo modulo spiega come lavorare con le tabelle e le loro visualizzazioni in Microsoft Access.
+  #### Lezioni
+  - Definizione e scopo
+  - Visualizzazione del foglio dati
+  - Visualizzazione del progetto
+
+
+  #### Lab &#58; Lavorare con le tabelle nella visualizzazione del foglio dati
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire le tabelle e le visualizzazioni delle tabelle in Access.
+  - Lavorare con le tabelle nella visualizzazione del foglio dati.
+  - Aggiungere e modificare record di dati nella visualizzazione del foglio dati.
+  - Capire lo scopo della visualizzazione Struttura.
+
+
+  ### Modulo 4&#58; Tabelle
+  Questo modulo spiega come lavorare con le tabelle in Microsoft Access.
+  #### Lezioni
+  - Creare un database Access
+  - Tipi di dati
+  - Creare una tabella in visualizzazione Struttura
+
+
+  #### Lab &#58; Esercizi sulle tabelle
+  - Creare un nuovo database
+  - Determinare i tipi di dati
+  - Creare una tabella in visualizzazione Struttura
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare un database Access.
+  - Creare una tabella nella vista di progettazione.
+  - Capire i tipi di dati.
+  - Assegnare un campo chiave.
+  - Capire le maschere di input.
+  - Usare le espressioni per definire le regole di validazione.
+
+
+  ### Modulo 5&#58; Query
+  Questo modulo spiega come lavorare con le query in Microsoft Access.
+  #### Lezioni
+  - Le query
+  - Selezionare le query
+  - Selezionare le query con i criteri
+  - Operatori logici
+  - Raggruppare e totalizzare con le query
+
+
+  #### Lab &#58; Creazione di query di selezione
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Usare le query e le viste delle query.
+  - Creare una semplice query.
+
+
+  ### Modulo 6&#58; Moduli
+  Questo modulo spiega come lavorare con i moduli in Microsoft Access.
+  #### Lezioni
+  - I moduli
+  - Modificare un modulo
+  - Navigazione dei record del modulo
+  - Visualizzazione Layout e Visualizzazione Struttura
+  - Moduli con un solo clic
+  - Procedura guidata per i moduli
+
+
+  #### Lab &#58; Esercizi sui moduli
+  - Aggiungere record di dati nella visualizzazione del modulo
+  - Creare un modulo con la procedura guidata del modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire i tipi di moduli.
+  - Aggiungere record usando un modulo.
+  - Capire i moduli con un solo clic.
+  - Creare un modulo usando la procedura guidata.
+
+
+  ### Modulo 7&#58; Rapporti
+  Questo modulo spiega come lavorare con i report in Microsoft Access.
+  #### Lezioni
+  - I rapporti
+  - Procedura guidata per i rapporti
+
+
+  #### Lab &#58; Creare un report con il Wizard dei report
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire i rapporti.
+  - Usare il report con un clic.
+  - Usare la procedura guidata per creare rapporti.
+
+  #### Letture aggiuntive
+  Per aiutarvi a preparare questa lezione, rivedete le seguenti risorse&#58;
+  - N/A

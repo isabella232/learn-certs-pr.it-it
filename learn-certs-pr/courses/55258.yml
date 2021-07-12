@@ -1,0 +1,205 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 for Sales
+metadata:
+  title: 'Course 55258-A: Microsoft Dynamics 365 for Sales'
+  description: 'Course 55258-A: Microsoft Dynamics 365 for Sales'
+uid: course.55258
+courseNumber: '55258-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Capire le funzionalità e gli strumenti esistenti in Microsoft Dynamics 365 per Rappresentati e Manager di Vendita
+- skill: Avere familiarità con le fasi del Processo di Ordine Vendite su Microsoft Dynamics 365
+- skill: Capire le basi della Gestione Lead e Opportunità. Riuscire a monitorare, gestire, qualificare Lead e convertire le Opportunità e i record clienti correlati su Microsoft Dynamics 365
+- skill: Sapere come dequalificare e cancellare Lead e convertire record Attività in Lead e Opportunità 
+- skill: Capire come collaborare su Opportunità con altri rappresentanti vendite e chiudere record di Opportunità come Vinti e Persi 
+- skill: Riuscire a monitorare la Concorrenza e le Parti Interessate
+- skill: Capire come visualizzare le Attività di Risoluzione 
+- skill: Aggiungere Prodotti e Prodotti Write-In su Opportunità
+- skill: Costruire e mantenere una repository di Prodotti, Pacchetti di Prodotti e Famiglie di Prodotti nel Catalogo Prodotti
+- skill: Configurare Gruppi di Unità, Liste di Prezzi e Liste di Sconti 
+- skill: Lavorare con le Proprietà del Prodotto e visualizzare una Gerarchia dei Prodotti
+- skill: Creare Quote e aggiungere Prodotti 
+- skill: Lavorare con il Processo di Ordine Vendite per convertire Quote in Ordini e Fatture
+- skill: Compiere Ordini e gestire i pagamenti con Fattura 
+- skill: Esplorare il Report delle Vendite e creare un report personalizzato delle Vendite usando il Report Wizard su Microsoft Dynamics 365
+- skill: Capire il significato della Gestione Globale di Vendite e Misurazioni su Microsoft Dynamics 365
+- skill: Esplorare le Tabelle di Vendita e le Dashboard per creare una Dashboard di Vendita personalizzata su Microsoft Dynamics 365
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  Questo corso fornisce agli studenti un'esperienza dettagliata e pratica sulle funzionalità di Vendita e le componenti di Microsoft Dynamics 365.
+
+  Gli studenti otterranno una comprensione approfondita della gestione della Pipeline di Vendite su Dynamics 365, tra cui gestione Lead e Opportunità, lavorare con il Processo di Ordine Vendite, il Catalogo Prodotti, Quote, Ordini e Fatture. L'Analisi Vendite comprende Report di Vendite, Gestione degli Obiettivi di Vendita, Tabelle di Vendita e Dashboard, e saranno presentati in questo corso.
+
+  Il corso si applica alle Edizioni sia Business che Aziendali di Microsoft Dynamics 365 e anche alle distribuzioni In Loco e Online. 
+
+  #### Profilo d'Utenza
+  Questo corso è pensato per Rappresentanti Vendita (SR), Manager di Vendita e Utenti finali che sono interessati alle componenti di Vendita di Dynamics 365. Gli studenti dovrebbero avere una conoscenza pregressa di Microsoft Dynamics 365 o Microsoft Dynamics CRM. Perlomeno, gli studenti dovrebbero avere già frequentato il corso ‘Introduction to Microsoft Dynamics 365’.
+prerequisitesSection: |-
+  Prima di frequentare questo corso, gli studenti devono essere in possesso di&#58;
+  - Una conoscenza pratica di Microsoft Dynamics 365 o Microsoft Dynamics CRM
+  - O
+  - Aver completato con successo il corso ‘Introduction to Microsoft Dynamics 365’
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione
+  Questo modulo fornisce agli studenti un'introduzione al concetto di Vendite su Microsoft Dynamics 365.
+  #### Lezioni
+  - Scenari del Processo Ordine Vendite 
+  - Un'Introduzione alle Vendite su Dynamics 365
+  - La Piattaforma Dynamics 365 
+  - Basi di Dynamics 365 Sales 
+  - Aspetti relativi alla sicurezza
+  - Dove chiedere Supporto
+  - Letture e risorse aggiuntive
+
+
+  #### Laboratorio &#58; Orientazione alle Vendite su Dynamics 365 
+  - Esplorare le funzionalità di Vendita di Dynamics 365
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire il Processo Ordine Vendite su Dynamics 365 Sales App.
+  - Avere familiarità con le funzionalità di Vendita delle Dynamics 365 App.
+  - Capire l'impatto della configurazione di Sicurezza sulle Dynamics 365 Sales App.
+  - Sapere dove ottenere supporto durante la navigazione e l'uso di Dynamics 365 Sales App.
+  - Avere familiarità con le letture e risorse aggiuntive messe a disposizione degli utenti.
+
+
+  ### Modulo 2&#58; Gestione Lead 
+  Questo modulo presenta il Processo di Gestione Lead di Dynamics 365. Esamineremo il processo di creare e assegnare record Lead, come creare Lead da Attività e come qualificare e dequalificare Lead. Vedremo anche diverse fasi del Processo di Vendita Lead a Opportunità su Dynamics 365.
+  #### Lezioni
+  - Processo di Gestione Lead 
+  - Lavorare con Record Lead 
+  - Lavorare con il Modulo Lead 
+  - Assegnare Lead 
+  - Lead e Attività
+  - Qualificare una Lead
+  - Dequalificare una Lead
+
+
+  #### Laboratorio &#58; Lavorare con le Lead
+  - Creare un record Lead 
+  - Aggiornare un record Lead
+  - Qualificare un record Lead in una Opportunità
+  - Dequalificare un record Lead 
+  - Convertire un'attività Email in un record Lead
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire il Processo di Gestione Lead su Dynamics 365 Sales App.
+  - Sapere come creare e gestire Record Lead.
+  - Saper lavorare con Lead e Attività.
+  - Capire il Processo di Qualificazione Lead 
+
+
+  ### Modulo 3&#58; Gestione Opportunità
+  Questo modulo presenta i concetti di Opportunità su Dynamics 365. Esamineremo le Viste e i Moduli Opportunità, e il Processo di Vendita Opportunità quando si chiude un record Opportunità. Vedremo anche le Attività di Risoluzione e come influenzano il Processo Ordine Vendite. 
+  #### Lezioni
+  - Introduzione a Opportunità
+  - Le Viste Opportunità
+  - Il Modulo Opportunità
+  - Processo di Vendita Opportunità
+  - Chiudere un'Opportunità
+  - Attività di Risoluzione
+
+
+  #### Laboratorio &#58; Lavorare con Opportunità
+  - Lavorare su Opportunità
+  - Chiudere un'Opportunità come Persa
+  - Chiudere un'Opportunità come Vinta
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire il Processo di Gestione Opportunità su Dynamics 365 Sales App.
+  - Interagire con Viste e Moduli Opportunità per gestire Record Opportunità.
+  - Lavorare con Record Opportunità in un Flusso di Elaborazione Vendite.
+  - Chiudere Opportunità come Vinte o Perse.
+  - Capire il significato delle Attività di Risoluzione.
+
+
+  ### Modulo 4&#58; Prodotti
+  In questo modulo inizieremo a osservare il Catalogo Prodotti su Dynamics 365. Vedremo come creare Prodotti  e configurare Gruppi di Unità e Liste di Prezzo. Infine, vedremo Proprietà Prodotti, Pacchetti Prodotti  e Famiglie di Prodotti.
+  #### Lezioni
+  - Introduzione al Catalogo Prodotti
+  - Aggiungere Prodotti 
+  - Configurare Gruppi di Unità
+  - Liste di Prezzi ed Elementi delle Liste Prezzi 
+  - Proprietà Prodotti, Pacchetti e Famiglie
+
+
+  #### Laboratorio &#58; Configurare il Catalogo Prodotti 
+  - Configurare Gruppi di Unità
+  - Aggiungere un Prodotto
+  - Creare e Configurare una Lista Prezzi
+
+
+  #### Laboratorio &#58; Lavorare con il Catalogo Prodotti
+  - Clonare un Prodotto
+  - Creare un Pacchetto Prodotti
+  - Creare una Famiglia Prodotti
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Avere familiarità con le funzionalità di un Catalogo Prodotti su Dynamics 365.
+  - Aggiungere e gestire Prodotti, configurare Gruppi di Unità e Liste Prezzi correlate.
+  - Lavorare con Liste Prezzi ed elementi delle Liste Prezzi.
+  - Capire le Proprietà dei Prodotti e creare Pacchetti e Famiglie di Prodotti.
+
+
+  ### Modulo 5&#58; Quote, Ordini e Fatture
+  Questo modulo presenta Quote, Ordini e Fatture su Microsoft Dynamics 365. Vedremo come aggiungere Prodotti dal Catalogo Prodotti a Opportunità e Quote, e quando usare Prodotti "write-in". Questo modulo affronta anche il processo di conversione Quote in Ordini realizzati e la procedura di gestione delle Fatture.
+  #### Lezioni
+  - Introduzione all'Elaborazione Ordini 
+  - Aggiungere Prodotti a un'Opportunità
+  - Lavorare con Quote
+  - Lavorare con Ordini
+  - Lavorare con Fatture
+
+
+  #### Laboratorio &#58; Lavorare con Quote, Ordini e Fatture
+  - Aggiungere Prodotti a un'Opportunità
+  - Aggiungere una Quota a un'Opportunità
+  - Convertire una Quota in un Ordine e una Fattura
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Avere familiarità con il Flusso di Elaborazione Ordini su Dynamics 365.
+  - Aggiungere Prodotti e Prodotti "write-in" a un'Opportunità e un record Quote.
+  - Lavorare con record Quote, Ordini e Fatture.
+
+  ### Modulo 6&#58; Analisi Vendite
+  Questo modulo illustra i diversi metodi disponibili per analizzare le informazioni di vendita archiviate su Dynamics 365. Vedremo i report di vendita integrati e il processo per creare un report personalizzato usando il Dynamics 365 Report Wizard. Questo modulo mostra anche come progettare Tabelle e Dashboard, e anche come rivedere le dashboard di vendita integrata per analizzare i dati sul servizio.
+  #### Lezioni
+  - Introduzione all'Analisi Vendite su Dynamics 365
+  - Il Report di Vendite 
+  - Il Report Wizard
+  - Lavorare con Tabelle di Vendita
+  - Lavorare con Dashboard di Vendita
+  - Lavorare con Obiettivi e Metriche di Vendita
+
+
+  #### Laboratorio &#58; Esplorare i Report di Vendita
+  - Esplorare i Report di Pipeline di Vendita
+  - Esplorare il Report Quote
+
+
+  #### Laboratorio &#58; Obiettivi e Misurazioni di Vendita 
+  - Creare Obiettivi per il Team di Vendita
+  - Creare una Vista Personale
+  - Visualizzare Obiettivi e Tabelle di Vendita
+
+  #### Laboratorio &#58; Esplorare le Tabelle e le Dashboard di Vendita 
+  - Esplorare le Tabelle di Lead e Opportunità
+  - Creare una Tabella di Vendita personalizzata 
+  - Esplorare le Dashboard di Vendita
+  - Creare una Dashboard di Vendita personalizzata 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire i modi diversi per analizzare dati di Vendita su Dynamics 365.
+  - Lavorare con i Report di Vendita integrati su Dynamics 365.
+  - Creare un report di Vendita personalizzato usando il Report Wizard.
+  - Lavorare con Tabelle e Dashboard di Vendita.
+  Creare Obiettivi di Vendita e Visualizzazioni KPI su Dynamics 365.

@@ -1,0 +1,167 @@
+### YamlMime:Course
+title: Advanced Microsoft Access 2019
+metadata:
+  title: 'Course 55280-A: Advanced Microsoft Access 2019'
+  description: 'Course 55280-A: Advanced Microsoft Access 2019'
+uid: course.55280
+courseNumber: '55280-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: capire le relazioni del database.
+- skill: lavorare con le relazioni tra le tabelle
+- skill: lavorare con le query ad un livello avanzato
+- skill: lavorare con i moduli ad un livello avanzato
+- skill: lavorare con i rapporti ad un livello avanzato.
+- skill: lavorare con le macro
+- skill: completare l'applicazione desktop con il modulo di navigazione.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Questo corso di formazione Advanced Access 2019 è per gli studenti che intendono progettare database a un livello avanzato e/o vogliono migliorare i database Access 2019 o Access 365 esistenti.
+
+  #### Profilo del pubblico
+  Questo corso è destinato a studenti che hanno competenze di base con Microsoft Access 2019 che vogliono imparare competenze di livello avanzato o studenti che vogliono imparare gli argomenti trattati in questo corso nell'interfaccia 2019.
+prerequisitesSection: |-
+  - Conoscenza di livello e capacità di lavorare  elementare con Microsoft Access.
+outlineSection: |-
+  ### Modulo 1&#58; Relazioni
+  Questo modulo spiega come lavorare con le relazioni in Microsoft Access.
+  #### Lezioni
+  - Ripasso
+  - Integrità referenziale
+  - Le relazioni
+  - Qualche parola sulle convenzioni di denominazione
+
+
+  #### Lab &#58; Installazione e configurazione di Windows 7
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire l'integrità referenziale.
+  - Stabilire relazioni tra le tabelle.
+
+
+  ### Modulo 2&#58; Query
+  Questo modulo spiega come lavorare con le query in Microsoft Access.
+  #### Lezioni
+  - Vista di progettazione delle query
+  - Revisione delle query di selezione
+  - Revisione delle query di selezione con criteri
+  - Operatori logici
+  - Query sui parametri
+  - Azione Query
+
+
+  #### Lab &#58; Esercizi sulle query
+  - Creare query di selezione e d'azione
+  - Creare una query di parametri
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Lavorare con le query di selezione e di azione.
+  - Lavorare con gli operatori logici.
+  - Creare ed eseguire query di selezione, di parametro, di creazione di una tabella, di aggiunta, di aggiornamento e di cancellazione.
+
+
+  ### Modulo 3&#58; Funzioni di tabella
+  Questo modulo spiega come lavorare con le funzioni di tabella.
+  #### Lezioni
+  - Importare i dati
+  - Collegare tabelle da fonti esterne
+  - Importare tabelle da altri database
+  - Tabelle da modelli e parti di applicazioni
+
+
+  #### Lab &#58; Esercizi sulle funzioni delle tabelle
+  - Importare dati da Excel
+  - Esportazione di dati in Excel
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Importare dati da Excel.
+  - Esportare dati in Excel.
+
+
+  ### Modulo 4&#58; Moduli
+  Questo modulo spiega come lavorare con i moduli in Microsoft Access.
+  #### Lezioni
+  - Visualizzazione Struttura 
+  - Formattazione
+  - Ordine delle schede
+  - Creare moduli con parti di applicazione
+  - Creare una sottomaschera
+  - Modificare un modulo
+
+
+  #### Lab &#58; Creare moduli
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire le parti di un modulo.
+  - Aggiungere oggetti ad un modulo.
+  - Aggiungere, spostare, formattare e ordinare i campi in un modulo.
+  - Capire i controlli disponibili per i moduli.
+  Lavorare con le proprietà dei moduli, le proprietà delle sezioni
+
+  ### Modulo 5&#58; Rapporti
+  Questo modulo spiega come lavorare con i report in Microsoft Access.
+  #### Lezioni
+  - Visualizzazione del progetto
+  - Sezioni dei report
+  - Disporre i campi in un report
+  - Ridimensionare la sezione dei dettagli
+  - Raggruppare e ordinare
+  - Impostare le proprietà su un rapporto
+  - Campi speciali per i rapporti
+  - I controlli
+  - Sottoreport
+  - Parti dell'applicazione
+  - Cancellare un rapporto
+  - Formattare un report
+
+
+  #### Lab &#58; Creazione di report
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e formattare i rapporti di Access.
+  - Lavorare con le varie sezioni di un report.
+  - Raggruppare, ordinare e aggiungere totali ai record di un report.
+  - Lavorare con il costruttore di espressioni.
+  - Lavorare con i fogli di proprietà.
+
+
+  ### Modulo 6&#58; Macro
+
+  Questo modulo spiega come lavorare con le macro in Microsoft Access.
+  #### Lezioni
+  - Nozioni di base sulle macro
+  - Esecuzione di una macro
+
+
+  #### Lab &#58; Creazione di semplici macro
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare diverse semplici macro.
+  - Eseguire macro.
+
+
+  ### Modulo 7&#58; Completare l'applicazione desktop
+  Questo modulo spiega come completare l'applicazione desktop in Microsoft Access.
+  #### Lezioni
+  - Il modulo di navigazione
+  - Eseguire macro da un modulo di navigazione
+  - Impostare il modulo di navigazione come modulo predefinito
+  - Dividere il database
+  - Distribuire il database di front-end
+  - Manutenzione del database
+
+
+  #### Lab &#58; Creare un modulo di navigazione
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare moduli di navigazione.
+  - Dividere un database Access in database front-end e back-end.
+  - Distribuire un database Access front-end ai propri utenti.
+
+  #### Letture aggiuntive
+  Per aiutarvi a prepararvi per questa lezione, rivedete le seguenti risorse&#58;
+  - N/A

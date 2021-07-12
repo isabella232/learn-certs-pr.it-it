@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+metadata:
+  title: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+  description: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+uid: course.40557
+courseNumber: '40557-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementare soluzioni che sfruttino i punti di forza di Cosmos DB in supporto a soluzioni analitiche avanzate che richiedono un'acquisizione a rendimento elevato, servizio a bassa latenza e scala globale insieme ad apprendimento automatico, big data e capacità di elaborazione in tempo reale.  
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In questo workshop, imparerai a progettare una soluzione di pipeline di dati che sfrutta Cosmos DB sia per l'acquisizione scalabile di dati in streaming, sia per la distribuzione globale di dati con punteggio predeterminato e modelli di apprendimento automatico. La soluzione impiega il flusso di dati delle modifiche di Cosmos DB insieme a Azure Databricks Delta per dare vita a una moderna soluzione di data warehouse che può essere impiegata per creare soluzioni per la riduzione del rischio in merito al punteggio delle transazioni per frode in un approccio offline, batch e quasi in tempo reale, e in un approccio richiesta/risposta.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per Cloud Architects e professionisti IT che hanno esperienza architetturale in merito a infrastruttura e progettazione di soluzioni con tecnologie cloud e desiderano scoprire di più su Azure e i servizi Azure come descritto nelle sezioni "Sintesi" e "Competenze acquisite". Gli studenti che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non-Microsoft, soddisfare i prerequisiti del corso, e desiderare un cross-training su Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - Analisi avanzata in tempo reale Cosmos DB
+  #### Lezioni
+  - Rivedere il caso studio del cliente
+  - Progettare una soluzione di prova del concetto
+  - Presentare la soluzione
+
+
+  ### Modulo 2&#58; Lab Pratico - Analisi avanzata in tempo reale Cosmos DB
+  #### Lezioni
+  - Raccogliere dati della transazione streaming 
+  - Capire e preparare i dati della transazione a larga scala
+  - Creare e valutare modelli di frode
+  - Ridimensionamento globale
+  - Rendicontazione

@@ -1,0 +1,144 @@
+### YamlMime:Course
+title: Introduction to SharePoint for Office 365 Training
+metadata:
+  title: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+  description: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+uid: course.55262
+courseNumber: '55262-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: navigare in un sito del team SharePoint.
+- skill: creare liste di SharePoint.
+- skill: personalizzare gli elenchi di SharePoint.
+- skill: creare library di SharePoint.
+- skill: estire le versioni dei documenti della library.
+- skill: creare viste di liste e library di SharePoint.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Questo corso di 1 giorno Introduction to SharePoint for Office 365 è per gli utenti finali che lavorano in un ambiente SharePoint. È una versione abbreviata del nostro corso completo SharePoint for Office 365 End User ed è destinato a persone nuove nell'uso di SharePoint che non saranno responsabili della gestione di un sito SharePoint.
+
+  #### Profilo del pubblico
+  Questo corso è destinato agli utenti finali che lavorano in un ambiente SharePoint.
+prerequisitesSection: |-
+  N/A
+outlineSection: |- 
+  ### Modulo 1&#58; Configurazione di SharePoint 365
+  Questo modulo spiega come impostare il sito di esempio per la classe.
+  #### Lezioni
+  - SharePoint Online
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Impostare il sito di esempio per la classe.
+
+
+  ### Modulo 2&#58; Introduzione a SharePoint 365
+  SharePoint 365 è di per sé uno strumento di collaborazione. Il suo obiettivo primario è quello di rendere facile per gli utenti trovare e condividere le informazioni, e ci sono molte caratteristiche costruite in SharePoint per facilitare questo. Il sistema di library di SharePoint può fornire un'alternativa superiore al tradizionale file server. Le liste di SharePoint possono essere un'alternativa facile da progettare e da usare per condividere file di fogli di calcolo o tabelle di database più formali.
+  Sia gli elenchi che le library possono essere personalizzati ed estesi per fornire un aspetto e una funzionalità migliori. Tutta questa collaborazione può essere fatta attraverso un'interfaccia browser.
+  #### Lezioni
+  - SharePoint Online
+  - Layout del sito e navigazione
+  - La navigazione
+
+
+  #### Lab &#58; Navigazione del sito del team
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Imparare a conoscere SharePoint online.
+  - Conoscere la gerarchia dei siti SharePoint.
+
+
+  ### Modulo 3&#58; Fondamenti delle liste di SharePoint  
+
+  Le liste sono un elemento fondamentale in SharePoint che fornisce un modo per gli utenti di memorizzare e visualizzare i dati. SharePoint viene fornito di serie con molti modelli di lista predefiniti che sono facili da usare. Le liste possono essere ulteriormente personalizzate aggiungendo colonne per memorizzare qualsiasi tipo di informazione. Inoltre, le colonne delle liste possono essere convalidate e collegate ad altre liste. Le liste sono uno strumento molto flessibile e potente in SharePoint.
+
+  #### Lezioni
+  - Creare applicazioni utilizzando i modelli di lista
+  - Creare elenchi
+  - Colonne dell'elenco
+  - Convalida delle colonne
+
+
+  #### Lab &#58; Lavorare con gli elenchi del sito della squadra
+
+  #### Lab &#58; Creare liste e colonne personalizzate
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire i modelli di liste.
+  - Lavorare con liste predefinite in un sito di gruppo.
+  - Creare una nuova lista da un modello di lista.
+  - Creare una lista personalizzata.
+  - Aggiungere colonne ad una lista.
+  - Controllare e convalidare l'input nei campi della lista.
+  - Collega i dati da liste separate.
+
+
+  ### Modulo 4&#58; Nozioni di base sulle library
+  Le SharePoint Libraries condividono le stesse caratteristiche delle liste di SharePoint, come le colonne, le visualizzazioni e la validazione, per citarne alcune. Ciò che distingue le SharePoint Libraries è che ogni elemento in una library ha un documento sottostante. Quindi, oltre ai dati memorizzati nelle colonne della library, il documento memorizza i propri dati in base al tipo di documento. A causa dei dati extra che possono essere memorizzati in colonne che possono essere utilizzate per filtrare e cercare e caratteristiche come il versioning, le library sono considerate un ottimo sostituto per il più tradizionale sistema di file server. Le library sono, come le liste, un elemento fondamentale in un sito SharePoint.
+  #### Lezioni
+  - Modelli di library
+  - Creare le library
+  - Gestione dei documenti e delle versioni
+
+
+  #### Lab &#58; Lavorare con le library del sito del team
+
+  #### Lab &#58; Creazione di library
+
+  #### Lab &#58; Versioning dei documenti
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare nuove library usando modelli di librerie.
+  - Lavorare con le diverse library in un sito di gruppo predefinito.
+  - Aggiungere colonne ad una library.
+  - Eseguire il check-out dei documenti per la modifica.
+  - Cancellare e ripristinare documenti dalle library di documenti.
+  - Abilitare il versioning su una library.
+  - Riportare un documento della library ad una versione precedente.
+
+
+  ### Modulo 5&#58; Lavorare con le visualizzazioni di liste e library
+  Le visualizzazioni forniscono un sistema flessibile per visualizzare i dati delle liste e delle library di SharePoint in un modo facile da leggere e da usare. Ogni lista e library di SharePoint può avere più visualizzazioni create e configurate, e alcuni modelli di liste e library sono dotati di visualizzazioni speciali preconfigurate. Le visualizzazioni possono essere definite per uso personale o condiviso.
+  #### Lezioni
+  - Visualizzazioni predefinite
+  - Visualizzazioni personalizzate
+
+
+  #### Lab &#58; Lavorare con le visualizzazioni
+
+  #### Lab &#58; Creare viste pubbliche e personali
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Usare le visualizzazioni predefinite incorporate negli elenchi e nelle library.
+  - Creare visualizzazioni personali.
+  - Creare visualizzazioni condivise.
+  - Configurare le visualizzazioni.
+  - Impostare la visualizzazione predefinita per un elenco o una library.
+
+
+  ### Modulo 6&#58; Lavorare con i siti
+  Tutti i contenuti di SharePoint sono accessibili attraverso un sito. Un sito SharePoint è il contenitore per liste e library e fornisce un punto di partenza per l'amministrazione di base. Il contenuto, le liste, le library, e l'aspetto di base di un sito è inizialmente determinato dal Site Template usato per creare il sito.
+  #### Lezioni
+  - Template di sito
+  - Creare i siti
+  - Navigazione del sito
+
+
+  #### Lab &#58; Creare siti di gruppo
+
+  #### Lab &#58; Creare un sito blog
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire cosa sono i template di sito.
+  - Comprendere i diversi tipi di template di sito che vengono forniti di serie con le diverse versioni di SharePoint.
+  - Creare un nuovo sito usando i template di sito.
+  - Creare un sito di progetto.
+  - Creare un sito di gruppo.
+  - Creare un sito Blog.
+  - Gestire i siti elencati nella barra di link superiore.
+
+  #### Letture aggiuntive
+  N/D

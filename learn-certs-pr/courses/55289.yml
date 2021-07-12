@@ -1,0 +1,163 @@
+### YamlMime:Course
+title: 'Microsoft Project 2019: Digging Deeper'
+metadata:
+  title: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+  description: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+uid: course.55289
+courseNumber: '55289-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: lavorare con le funzioni avanzate di formattazione del Gantt Chart e dei diagrammi di rete.
+- skill: creare progetti principali e sottoprogetti in Project 2019.
+- skill: creare rapporti di progetto personalizzati.
+- skill: lavorare con i pool di risorse.
+- skill: analizzare i costi del progetto.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Questo corso Intermediate Microsoft Project 2019&#58; Digging Deeper ha un approccio approfondito alle caratteristiche chiave di Project 2019 o Project 365, tra cui l'inserimento e il collegamento delle attività, la gestione delle risorse e delle risorse e l'esame e l'aggiornamento dei progetti. Imparerai a gestire in modo efficiente i progetti, creare progetti e sottoprogetti master, creare e personalizzare i report visivi, lavorare con i pool di risorse e analizzare i costi dei progetti.
+
+  #### Profilo del pubblico
+  Questo corso è destinato agli studenti che hanno competenze di base di Microsoft Project, compreso un alto livello di familiarità con il programma.
+prerequisitesSection: |-
+  Capacità di base di Microsoft Project, compreso un alto livello di familiarità con il programma.
+outlineSection: |-
+  ### Modulo 1&#58; Avviare un progetto da un progetto esistente, un Excel Workbook o un elenco di attività di SharePoint
+  Questo modulo spiega come iniziare un progetto.
+  #### Lezioni
+  - Iniziare un progetto
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Impostare le opzioni del progetto.
+  - Creare un progetto da un progetto esistente.
+  - Creare un progetto da un foglio di calcolo Excel.
+  - Creare un progetto da un elenco SharePoint.
+
+
+  ### Modulo 2&#58; Metodi avanzati per la gestione delle attività e delle risorse
+  Questo modulo spiega come utilizzare i metodi avanzati per gestire attività e risorse.
+  #### Lezioni
+  - Gestire attività e risorse
+  - Capire le impostazioni del tempo trascorso rispetto al tempo effettivo
+  - Impostare i vincoli delle attività
+  - Dividere e ritardare le attività
+  - Usare l'Ispettore Attività
+  - Analizzare le attività critiche e il percorso critico
+  - Usare il tempo di ritardo e il tempo di arrivo
+  - Analizzare le assegnazioni dei compiti
+  - Usare il pianificatore di squadra
+  - Utilizzo di un pool di risorse e condivisione delle risorse
+  - Gestire la disponibilità delle risorse e le tariffe di pagamento
+
+
+  #### Lab &#58; Esercizi
+  - Cambiare la dipendenza dell'attività
+  - Creare un vincolo di attività
+  - Dividere un'attività&#58; utilizzando la Gantt Chart View
+  - Ritardare un'attività&#58; utilizzando una Gantt Chart View
+  - Visualizzare l'Ispettore Attività
+  - Impostare il ritardo e il tempo di esecuzione
+  - Aggiungere una nota attraverso la finestra di dialogo delle informazioni sull'assegnazione
+  - Visualizzare un pianificatore di squadra e applicare la formattazione
+  - Condividere un pool di risorse
+  - Cambiare un coefficiente di compensazione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Lavorare con le dipendenze delle attività.
+  - Capire le impostazioni del tempo trascorso rispetto al tempo effettivo.
+  - Impostare i vincoli delle attività.
+  - Dividere e ritardare le attività.
+  - Usare l'Ispettore attività.
+  - Analizzare le attività critiche e il percorso critico.
+  - Usare il tempo di ritardo e il tempo di arrivo.
+  - Analizzare le assegnazioni dei compiti.
+  - Usare il pianificatore di squadra.
+  - Usare un pool di risorse e condividere le risorse.
+  - Gestisci la disponibilità delle risorse e le tariffe.
+
+
+  ### Modulo 3&#58; Gestire il progetto con tecniche avanzate
+  Questo modulo spiega come rivedere e risolvere i problemi dei progetti.
+
+  #### Lezioni
+  - Usare il livellamento per risolvere le sovrallocazioni delle risorse
+  - Modificare le attività
+  - Comprendere la linea di base e i piani provvisori
+  - Analizzare i costi del progetto e creare i budget
+
+
+  #### Lab &#58; Esercizi
+  - Usare il livellamento per risolvere le sovrallocazioni delle risorse&#58; Usare la Gantt
+  - Modificare i compiti
+  - Impostare ulteriori linee di base
+  - Creazione di budget
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Usare il livellamento per risolvere l'allocazione delle risorse.
+  - Modificare le attività.
+  - Capire la linea di base e i piani provvisori.
+  - Analizzare i costi del progetto e creare i budget.
+
+
+  ### Modulo 4&#58; Formattare e personalizzare le visualizzazioni.
+  Questo modulo spiega come formattare e personalizzare le visualizzazioni in Microsoft Project.
+  #### Lezioni
+  - Personalizzare la Gantt Chart
+  - Creare una visualizzazione personalizzata
+  - Applicare i filtri
+  - Usare i Work Breakdown Structure (WBS) Codes
+
+
+  #### Lab &#58; Esercizi
+  - Personalizzare la Gantt Chart utilizzando la Gantt Chart View
+  - Creare una visualizzazione personalizzata
+  - Applicare i filtri
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Personalizzare la Gantt Chart.
+  - Creare una visualizzazione personalizzata.
+  - Applicare filtri.
+  - Usare i Work Breakdown Structure (WBS) Codes.
+
+
+  ### Modulo 5&#58; Rapporti
+  Questo modulo spiega come lavorare con i report in Microsoft Project.
+  #### Lezioni
+  - Creare report visivi
+  - Modificare i report
+
+
+  #### Lab &#58; Esercizi
+  - Creare un report visivo
+  - Modifica di un report
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare report visivi.
+  - Modificare i report.
+
+
+  ### Modulo 6&#58; Lavorare con i modelli
+  Questo modulo spiega come lavorare con i modelli in Microsoft Project.
+  #### Lezioni
+  - Usare i sottoprogetti all'interno di un progetto.
+  - Usare l'Organizer per mantenere i modelli.
+
+
+  #### Lab &#58; Esercizi
+  - Usare i sottoprogetti all'interno di un progetto
+  - Usare l'Organizer
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Usare i sottoprogetti all'interno di un progetto.
+  - Usare l'Organizer per mantenere i modelli.
+
+  #### Letture aggiuntive
+  Nessuna

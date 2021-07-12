@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Advanced Microsoft Outlook 2019
+metadata:
+  title: 'Course 55278-A: Advanced Microsoft Outlook 2019'
+  description: 'Course 55278-A: Advanced Microsoft Outlook 2019'
+uid: course.55278
+courseNumber: '55278-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: imparare a lavorare con compiti e note.
+- skill: imparare a lavorare con le firme e i temi.
+- skill: gestire la propria casella di posta elettronica, incluso il filtraggio, la creazione di cartelle di ricerca e l'archiviazione.
+- skill: lavorare con account multipli.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Questo corso di formazione su Microsoft Outlook si basa sulle competenze di base di Outlook e insegna agli studenti a lavorare con alcune delle caratteristiche più avanzate di Outlook.
+
+  #### Profilo del pubblico
+  Questo corso è destinato agli studenti che hanno competenze di base con Microsoft Outlook 2019 che vogliono imparare competenze di livello superiore o agli studenti che vogliono imparare gli argomenti trattati in questo corso nell'interfaccia 2019.
+prerequisitesSection: |-
+  L'esperienza in quanto segue è richiesta per questo corso di Microsoft Outlook&#58;
+  - Familiarità con Windows.
+  - Conoscenza di livello elementare di Outlook.
+outlineSection: |-
+  ### Modulo 1&#58; Lavorare con attività e note
+  Questo modulo spiega come lavorare con le attività e le note in Microsoft Outlook.
+  #### Lezioni
+  - Creare un'attività
+  - Stampare un'attività
+  - Aggiornare un'attività
+  - Cercare le attività
+  - Assegnare un'attività
+  - Rispondere a una richiesta di attività
+  - Tracciare le attività
+  - Cambiare la tua visualizzazione attività
+  - Lavorare con le note
+
+
+  #### Lab &#58; Lavorare con le attività
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Cambiare la vista Attività.
+  - Creare un'attività.
+  - Stampare un'attività.
+  - Aggiornare un'attività.
+  - Assegnare un'attività.
+  - Cercare le attività.
+  - Rispondere a una richiesta di attività.
+  - Tenere traccia delle attività.
+  - Lavorare con le note.
+
+
+  ### Modulo 2&#58; Usare la firma e i temi
+  Questo modulo spiega come usare firme e temi.
+  #### Lezioni
+  - Creare una firma
+  - Aggiungere automaticamente una firma ai messaggi
+  - Modificare una firma
+  - Formattare i messaggi in uscita
+  - Creare e applicare un tema
+
+
+  #### Lab &#58; Aggiungere un tema e una firma ai tuoi messaggi
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare una firma.
+  - Imparare come aggiungere automaticamente la firma ai messaggi email.
+  - Modificare una firma.
+  - Creare e applicare un tema
+
+
+  ### Modulo 3&#58; Gestire la posta in arrivo
+  Questo modulo spiega come gestire la tua casella di posta in Microsoft Outlook.
+  #### Lezioni
+  - Cercare i messaggi
+  - Creare cartelle di ricerca
+  - Ordinare i messaggi
+  - Aggiungere nuove cartelle locali
+  - Spostare i messaggi tra le cartelle
+  - Raggruppare gli elementi della tua casella di posta
+  - Filtrare i messaggi
+  - Organizzare i messaggi
+  - Creare e gestire le regole
+  - Gestire la posta indesiderata
+  - Acrhive i tuoi messaggi
+  - Creare un file di dati di Outlook
+  - Creare un passo veloce
+  - Aggiungere protezione ai tuoi messaggi in uscita
+  - Creare risposte automatiche
+
+
+  #### Lab &#58; Esercizi di gestione della posta in arrivo
+  - Organizzare i tuoi messaggi
+  - Gestire la tua posta creando un Passaggio Rapido
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Cercare i messaggi.
+  - Creare cartelle di ricerca.
+  - Raggruppare gli elementi della tua casella di posta.
+  - Filtrare i messaggi.
+  - Organizzare i messaggi.
+  - Gestire la posta indesiderata.
+  - Archiviare i tuoi messaggi.
+  - Creare un file di dati di Outlook.
+  - Creare un passaggio rapido per applicare facilmente e rapidamente più azioni ai messaggi di posta elettronica.
+  Aggiungi protezione alle email in uscita.
+
+  ### Modulo 4&#58; Lavorare con più account di posta elettronica
+  Questo modulo spiega come lavorare con più account di posta elettronica in Microsoft Outlook.
+  #### Lezioni
+  - Impostare account multipli in Outlook
+  - Inviare e-mail da diversi account
+  - Programmi di posta elettronica POP vs. IMAP
+
+
+  #### Lab &#58; Lavorare con più account di posta elettronica
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Impostare account multipli in Outlook.
+  - Inviare e-mail da diversi account.
+  - Imparare le differenze tra i programmi di posta elettronica POP e IMAP.
+
+  #### Letture aggiuntive
+  Per aiutarvi a prepararvi a questa lezione, consultate le seguenti risorse&#58;
+  - N/A
