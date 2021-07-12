@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Line-of-business application migration'
+metadata:
+  title: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+  description: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+uid: course.40558
+courseNumber: '40558-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Valutare la prontezza dell'ambiente per la migrazione su Azure.
+- skill: Progettare e implementare la scoperta e la valutazione di tali ambienti.
+- skill: Usare servizi come Azure Migrate, Azure Database Migration Service e Azure Site Recovery
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In questo corso, scoprirai come progettare una migrazione Azure per un ambiente cliente eterogeneo. L'infrastruttura esistente comprende server sia Windows che Linux lanciati su macchinari sia VMWare che fisici, e include alcuni server legacy. Tramite la sessione di progettazione whiteboard, vedrai varie opzioni e servizi disponibili per migrare ambienti eterogenei su Azure. Alla fine di questo workshop, sarai più in grado di progettare e implementare la scoperta e la valutazione di ambienti per attestare la loro prontezza alla migrazione su Azure usando servizi come Azure Migrate, Azure Database Migration Service, e Azure Site Recovery.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per Cloud Architects e professionisti IT che hanno esperienza architetturale in merito a infrastruttura e progettazione di soluzioni con tecnologie cloud e desiderano scoprire di più su Azure e i servizi Azure come descritto nelle sezioni "Sintesi" e "Competenze acquisite". Gli studenti che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non-Microsoft, soddisfare i prerequisiti del corso, e desiderare un cross-training su Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Progettazione Sessione Whiteboard - Migrazione di applicazione line-of-business
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Progettare una soluzione di prova del concetto
+  - Presentare la soluzione
+
+
+  ### Modulo 2&#58; Lab Pratico - Migrazione di applicazione line-of-business
+  #### Lezioni
+  - Scoprire e valutare l'ambiente on-premise
+  - Migrare il Database dell'Applicazione
+  - Migrare l'applicazione e i file web usando Azure Site Recovery

@@ -1,0 +1,178 @@
+### YamlMime:Course
+title: Advanced Microsoft Word 2019
+metadata:
+  title: 'Course 55274-A: Advanced Microsoft Word 2019'
+  description: 'Course 55274-A: Advanced Microsoft Word 2019'
+uid: course.55274
+courseNumber: '55274-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: impara a lavorare con gli indici.
+- skill: impara a lavorare con le note a piè di pagina e le note finali.
+- skill: impara a inserire bibliografie e indici.
+- skill: impara a usare i commenti.
+- skill: impara a usare la traccia delle modifiche, incluso accettare e rifiutare le modifiche.
+- skill: impara a confrontare e combinare documenti.
+- skill: impara a usare stampa unione e a creare buste ed etichette.
+- skill: impara a proteggere i documenti.
+- skill: impara a usare i segnalibri, ad aggiungere filigrane e a personalizzare la barra multifunzione.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  In questo corso di formazione su Microsoft Word 2019, gli studenti imparano tecniche avanzate, come lavorare con sommari, note a piè di pagina e note finali, aggiungere commenti, tracciare le modifiche, confrontare e combinare documenti, creare buste ed etichette, usare stampa unione e proteggere i documenti. Questo corso è per Word 2019 su Windows.
+
+  #### Profilo del pubblico
+  Questo corso è destinato agli studenti che hanno competenze intermedie con Microsoft Word 2019 che vogliono imparare competenze più avanzate o agli studenti che vogliono imparare gli argomenti trattati in questo corso nell'interfaccia 2019.
+prerequisitesSection: |-
+  - Esperienza di livello intermedio in Microsoft Word.
+outlineSection: |-
+  ### Modulo 1&#58; Lavorare con documenti lunghi
+  Questo modulo spiega come lavorare con documenti lunghi in Microsoft Word.
+  #### Lezioni
+  - Aggiungere un sommario
+  - Aggiornare l'indice
+  - Eliminare l'indice
+  - Note a piè di pagina e note finali
+  - Inserire citazioni e una bibliografia
+  - Aggiunta di un indice
+  - Inserimento di una tabella di figure
+  - Inserimento e aggiornamento di una tabella delle autorità
+  - Creare un sommario
+
+
+  #### Lab &#58; Esercizi per lavorare con documenti lunghi 
+  - Inserire e aggiornare un indice
+  - Lavorare con le note a piè di pagina
+  - Inserire citazioni e una bibliografia
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Aggiungere un indice a un documento Microsoft Word.
+  - Aggiornare l'indice.
+  - Aggiungere note a piè di pagina a un documento Microsoft Word.
+  - Aggiungere note finali a un documento Microsoft Word.
+  - Inserire citazioni in un documento Microsoft Word.
+  - Inserire una bibliografia.
+  - Aggiornare la bibliografia.
+  - Contrassegnare le voci in un documento.
+  - Inserire un indice in un documento Microsoft Word.
+  - Creare un sommario in Word.
+
+
+  ### Modulo 2&#58; Revisione e collaborazione su documenti
+  Questo modulo spiega come rivedere e collaborare su documenti Microsoft Word.
+  #### Lezioni
+  - Aggiungere commenti
+  - Tracciare le modifiche
+  - Visualizzare modifiche, aggiunte e commenti
+  - Accettare e rifiutare le modifiche
+
+
+  #### Lab &#58; Esercizi di revisione e collaborazione
+  - Aggiungere commenti ad un documento
+  - Tracciare le modifiche
+  - Mostrare i commenti
+  - Accettare e rifiutare le modifiche
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Aggiungere e lavorare con i commenti.
+  - Tracciare le modifiche e impostare e cambiare le opzioni di tracciamento.
+  - Visualizzare modifiche, aggiunte e commenti.
+  - Usare il riquadro revisione.
+  - Scegliere quali modifiche mostrare.
+  - Accettare e rifiutare le modifiche.
+
+
+  ### Modulo 3&#58; Confrontare e combinare documenti
+  Questo modulo spiega come confrontare e combinare documenti in Microsoft Word.
+  #### Lezioni
+  - Confrontare documenti
+  - Combinare documenti
+
+
+  #### Lab &#58; Esercizi di confronto e combinazione di documenti
+  - Confrontare documenti
+  - Combinazione di documenti
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Confrontare documenti per scoprire cosa è cambiato tra le diverse versioni di un documento.
+  Combinare documenti per raccogliere le revisioni fatte da vari individui in un unico documento.
+
+  ### Modulo 4&#58; Gestire la corrispondenza
+  Questo modulo spiega come gestire gli invii in Microsoft Word.
+  #### Lezioni
+  - Creare buste ed etichette
+  - Usare stampa unione
+
+
+  #### Lab &#58; Esercizi di gestione della corrispondenza
+  - Stampare una busta
+  - Usare stampa unione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare e stampare buste in Microsoft Word.
+  - Creare e stampare etichette in Microsoft Word.
+  - Usare stampa unione per stampare o spedire via e-mail lettere formali a più destinatari.
+  Selezionare i destinatari di stampa unione da un elenco esistente.
+
+  ### Modulo 5&#58; Proteggere i documenti
+  Questo modulo spiega come proteggere i documenti in Microsoft Word.
+  #### Lezioni
+  - Rendere i documenti Word di sola lettura
+  - Proteggere i documenti Word con una password
+  - Rimuovere i metadati dai file
+  - Limitare la formattazione e la modifica
+
+
+  #### Lab &#58; Proteggere un documento
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Contrassegnare i documenti come finali e renderli di sola lettura.
+  - Proteggete i documenti Microsoft Word con una password.
+  - Limitare le opzioni di formattazione prima di condividere un documento con altri.
+  - Limitare le opzioni di modifica prima di condividere un documento con altri
+
+
+  ### Modulo 6&#58; Elementi casuali utili
+  Questo modulo esamina diverse caratteristiche casuali e utili in Microsoft Word.
+  #### Lezioni
+  - Usare i segnalibri
+  - Aggiungere filigrane
+  - Aggiungere titoli alle sezioni
+  - Inserire campi incorporati
+  - Usare la funzione Vai a
+  - Usare le macro
+  - Copiare le macro da documento a documento
+  - Sicurezza delle macro
+  - Registrare una macro
+  - Assegnare tasti di scelta rapida
+  - Personalizzare la barra multifunzione
+  - Preparare un documento per l'internazionalizzazione e l'accessibilità
+  - Condividere
+
+
+  #### Lab &#58; Esercizi utili a caso
+  - Usare i segnalibri
+  - Aggiungere filigrane personalizzate
+  - Registrare una macro
+  - Personalizzare la barra multifunzione
+  - Usare il cloud
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Aggiungere segnalibri a un documento Microsoft Word e usarli per saltare all'interno del documento.
+  - Aggiungere filigrane a un documento Microsoft Word.
+  - Aggiungere titoli alle sezioni.
+  - Inserire campi incorporati.
+  - Usare la funzione Vai a.
+  - Personalizzare la barra multifunzione.
+  - Preparare un documento per l'internazionalizzazione e l'accessibilità.
+  - Imparare ad usare il cloud
+
+  #### Lettura aggiuntiva
+  N/A

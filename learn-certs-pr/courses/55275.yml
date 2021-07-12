@@ -1,0 +1,178 @@
+### YamlMime:Course
+title: Introduction to Microsoft Outlook 2019
+metadata:
+  title: 'Course 55275-A: Introduction to Microsoft Outlook 2019'
+  description: 'Course 55275-A: Introduction to Microsoft Outlook 2019'
+uid: course.55275
+courseNumber: '55275-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: impara le nuove funzionalità di Outlook
+- skill: impara a conoscere la barra multifunzione, le schede, i gruppi e i comandi.
+- skill: esplora la visualizzazione Backstage.
+- skill: imposta gli account e lavorare con i messaggi.
+- skill: lavora con i calendari e i contatti.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Questo corso di formazione su Microsoft Outlook introduce l'interfaccia 2019 e permette agli studenti di lavorare rapidamente con messaggi, calendari e contatti.
+
+  #### Profilo del pubblico
+  Studenti che hanno poca o nessuna familiarità con Microsoft Outlook 2019 o utenti di Outlook più esperti che vogliono imparare gli argomenti trattati in questo corso nell'interfaccia 2019.
+prerequisitesSection: |-
+  L'esperienza in quanto segue è richiesta per questo corso di Microsoft Outlook&#58;
+  - Familiarità con l'uso di un personal computer, mouse e tastiera.
+  - Familiarità nell'utilizzare Windows
+outlineSection: |-
+  ### Modulo 1&#58; L'interfaccia di Outlook 2019
+  Questo modulo spiega come lavorare con l'interfaccia di Outlook 2019.
+  #### Lezioni
+  - Panoramica dell'interfaccia di Outlook
+  - La barra multifunzione
+  - Schede, gruppi e comandi sulla barra multifunzione
+  - La visualizzazione Backstage
+
+
+  #### Lab &#58; Esercizi sull'interfaccia di Outlook
+  - Esplorare la barra multifunzione
+  - Esplorare la visualizzazione Backstage
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Lavorare con l'interfaccia di Microsoft Outlook.
+  - Lavorare con la barra multifunzione di Outlook.
+  - Lavorare con le schede, i gruppi e i comandi della barra multifunzione.
+  - Lavorare con la visualizzazione Backstage.
+
+
+  ### Modulo 2&#58; Svolgere le attività più comuni in Outlook 2019
+  Questo modulo spiega come svolgere le attività più comuni in Outlook 2019.
+  #### Lezioni
+  - Impostare un account di posta elettronica
+  - Aprire i messaggi di posta elettronica
+  - Rispondere e inoltrare i messaggi e-mail
+  - Visualizzare in anteprima e salvare un allegato
+  - Stampare un messaggio
+  - Cancellare un messaggio
+  - Salvare un messaggio in un formato alternativo
+  - Delegare l'accesso
+  - Personalizzare il pannello di navigazione
+
+
+  #### Lab &#58; Esecuzione dei compiti più comuni Esercizi
+  - Impostare un account di posta elettronica
+  - Aprire e rispondere a un messaggio
+  - Stampare un messaggio
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Impostare un account di posta elettronica in Outlook.
+  - Aprire messaggi di posta elettronica.
+  - Rispondere e inoltrare i messaggi di posta elettronica.
+  - Stampare e salvare un allegato.
+  - Stampare i messaggi.
+  - Cancellare i messaggi.
+  - Salvare un messaggio in un formato alternativo.
+  - Delegare l'accesso.
+  - Personalizzare il pannello di navigazione.
+
+
+  ### Modulo 3&#58; Operare con i messaggi
+  Questo modulo spiega come operare con i messaggi in Microsoft Outlook.
+  #### Lezioni
+  - Comporre un messaggio
+  - Aggiungere un allegato
+  - Aggiungere opzioni di voto
+  - Controllare l'ortografia e la grammatica
+  - Formattare il testo
+  - Utilizzare Microsoft Word per modificare i messaggi
+  - Inserire un collegamento ipertestuale o un'immagine in un messaggio
+  - Inviare un messaggio
+
+
+  #### Lab &#58; Creare e inviare un nuovo messaggio
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Comporre un messaggio.
+  - Aggiungere un allegato a un messaggio.
+  - Aggiungere opzioni di voto ad un messaggio.
+  - Controllare l'ortografia e la grammatica in un messaggio.
+  - Formattare il testo.
+  - Usare Microsoft Word per modificare i messaggi di posta elettronica.
+  - Inserire un collegamento ipertestuale in un messaggio.
+  - Inviare un messaggio.
+
+
+  ### Modulo 4&#58; Lavorare con il calendario
+  Questo modulo spiega come lavorare con il calendario in Microsoft Outlook.
+  #### Lezioni
+  - Cambiare la vista del calendario
+  - Impostare lo stato di disponibilità
+  - Stampare il tuo calendario
+  - Condividere il tuo calendario
+  - Programmare una riunione
+  - Apportare aggiornamenti alle riunioni
+  - Annullare una riunione
+  - Rispondere a un invito alla riunione
+  - Pianificare un appuntamento
+  - Apportare aggiornamenti a un appuntamento
+  - Creare gruppi di calendario
+  - Eliminare un calendario
+  - Lavorare con gli elementi del calendario
+  - Creare e aggiungere calendari
+
+
+  #### Lab &#58; Esercizi sul lavorare con il calendario
+  - Impostare il tuo calendario
+  - Programmare una riunione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+
+  - Cambiare la visualizzazione del calendario.
+  - Impostare lo stato di disponibilità.
+  - Impostare la disponibilità del tuo calendario.
+  - Stampare il proprio calendario.
+  - Programmare una riunione.
+  - Fare aggiornamenti alle riunioni.
+  - Rispondere a un invito a una riunione.
+  - Programmare un appuntamento.
+  - Aggiornare un appuntamento.
+  - Creare gruppi di calendario.
+  - Eliminare un calendario.
+  - Lavorare con gli elementi del calendario.
+  - Usare più calendari.
+
+
+  ### Modulo 5&#58; Organizzare i contatti
+  Questo modulo spiega come organizzare i contatti in Microsoft Outlook.
+  #### Lezioni
+  - Aggiungere, eliminare, importare e stampare un contatto
+  - Aggiornare un contatto
+  - Individuare un contatto
+  - Ordinare i contatti
+  - Lavorare con i gruppi di contatti
+  - Gestire rubriche multiple
+  - Eseguire una stampa unione
+
+
+  #### Lab &#58; Esercizi di organizzazione dei contatti
+  - Aggiungere e aggiornare un contatto
+  - Eseguire una stampa unione
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Aggiungere un contatto.
+  - Aggiornare un contatto.
+  - Condividere un contatto.
+  - Individuare i contatti.
+  - Ordinare e trovare i contatti.
+  - Lavorare con gruppi di contatti.
+  - Lavorare con più rubriche.
+  - Eseguire una stampa unione
+
+  #### Letture aggiuntive
+  N/A

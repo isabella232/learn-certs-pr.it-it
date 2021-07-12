@@ -1,0 +1,194 @@
+### YamlMime:Course
+title: Advanced Microsoft Excel 2019
+metadata:
+  title: 'Course 55270-A: Advanced Microsoft Excel 2019'
+  description: 'Course 55270-A: Advanced Microsoft Excel 2019'
+uid: course.55270
+courseNumber: '55270-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Creare tabelle e grafici pivot.
+- skill: Imparare a tracciare precedenti e dipendenti.
+- skill: Convertire testi e validarli e consolidare i dati.
+- skill: Collaborare con altri proteggendo fogli e cartelle di lavoro.
+- skill: Creare, usare, modificare e gestire macro.
+- skill: Importare ed esportare dati.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Questa formazione Advanced Microsoft Excel 2019 è pensata per gli studenti che intendono acquisire le competenze necessarie per usare tabelle pivot, controllare e analizzare i dati di fogli di lavoro, usare strumenti di dati, collaborare con altri e creare e gestire macro.
+
+  #### Profilo d'utenza
+  Studenti che hanno competenze intermedie con Microsoft Excel 2019 e desiderano acquisire competenze più avanzate, o studenti che desiderano apprendere i temi trattati in questo corso nell'interfaccia 2019.
+prerequisitesSection: |-
+  Prima di frequentare questo corso, gli studenti devono essere in possesso di&#58;
+  - Esperienza di base e intermedia con Excel
+outlineSection: |-
+  ### Modulo 1&#58; Usare Tabelle Pivot
+  Questo modulo spiega come usare tabelle pivot su Microsoft Excel.
+  #### Lezioni
+  - Creare Tabelle Pivot
+  - Più Funzionalità delle Tabelle Pivot
+  - Inserire Slicer
+  - Opzione Selezione Multipla su Slicer
+  - Promozione delle Tabelle Pivot
+  - Lavorare con Tabelle Pivot 
+  - Inserire Grafici Pivot 
+  - Più Funzionalità delle Tabelle Pivot
+  - Lavorare con Tabelle Pivot 
+
+
+  #### Laboratorio &#58; Lavorare con Tabelle Pivot 
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Usare tabelle pivot per analizzare dati.
+  - Modificare tabelle pivot.
+  - Formattare tabelle pivot.
+  - Inserire grafici pivot.
+  - Usare Slicer.
+
+
+  ### Modulo 2&#58; Controllare Fogli di Lavoro
+  Questo modulo spiega come controllare fogli di lavoro.
+  #### Lezioni
+  - Individuare Precedenti
+  - Individuare Dipendenti
+  - Mostrare Formule
+
+
+  #### Laboratorio &#58; Controllare Fogli di Lavoro
+  - Individuare Precedenti
+  - Individuare Dipendenti
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Verificare formule.
+  - Individuare precedenti per determinare quali celle hanno un impatto su una cella specifica.
+  - Individuare dipendenti per determinare quali celle hanno un impatto su una cella specifica.
+  - Rimuovere frecce precedenti e dipendenti.
+  - Mostrare formule
+  - Cercare errori comunemente presenti nelle formule
+
+
+  ### Modulo 3&#58; Strumenti Dati
+  Questo modulo spiega come lavorare con gli strumenti per i dati.
+  #### Lezioni
+  - Convertire Testo in Colonne
+  - Collegare a Dati Esterni
+  - Controllare le Opzioni di Calcolo
+  - Validazione dei Dati
+  - Usare la Validazione dei Dati
+  - Consolidare Dati
+  - Cercare Obiettivo
+  - Usare Cercare Obiettivo
+
+
+  #### Laboratorio &#58; Esercizi sugli Strumenti Dati
+  - Convertire Testo in Colonne
+  - Usare la Validazione dei Dati
+  - Consolidare Dati
+  - Usare Cercare Obiettivo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Convertire testo in colonne
+  - Usare la Validazione dei Dati per limitare il tipo di dati che possono essere inseriti in una cella.
+  - Consolidare dati da una serie di intervalli diversi in un nuovo intervallo.
+  - Usare Cercare Obiettivo per capire il valore da inserire per ottenere un risultato specifico.
+
+
+  ### Modulo 4&#58; Lavorare con Altri
+  Questo modulo spiega come lavorare con altri su Microsoft Excel.
+  #### Lezioni
+  - Proteggere Fogli e Cartelle di Lavoro
+  - Proteggere una Cartella di Lavoro con Password
+  - Proteggere un Foglio di Lavoro con Password
+  - Proteggere Intervalli di un Foglio di Lavoro con Password
+  - Contrassegnare una Cartella di Lavoro come Finale
+
+
+  #### Laboratorio &#58; Esercizi di Lavoro con gli Altri
+  - Proteggere una Cartella di Lavoro con Password
+  - Proteggere un Foglio di Lavoro con Password
+  - Proteggere Intervalli di un Foglio di Lavoro con Password
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Proteggere una cartella di lavoro con password
+  - Proteggere un foglio di lavoro con password
+  - Proteggere intervalli di un foglio di lavoro con password
+  - Monitorare i cambiamenti.
+  - Accettare e rifiutare cambiamenti.
+  - Elencare tutti i cambiamenti in un nuovo foglio
+
+
+  ### Modulo 5&#58; Registrare e Usare Macro
+  Questo modulo spiega come registrare e usare una macro.
+  #### Lezioni
+  - Registrare Macro
+  - Registrare una Macro
+  - Eseguire Macro
+  - Modificare Macro
+  - Aggiungere Macro alla Barra degli Strumenti ad Accesso Rapido
+  - Aggiungere una Macro alla Barra degli Strumenti ad Accesso Rapido
+
+
+  #### Laboratorio &#58; Esercizi per Registrare e Usare Macro
+  - Registrare una Macro
+  - Aggiungere una Macro alla Barra degli Strumenti ad Accesso Rapido
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Registrare macro.
+  - Eseguire macro.
+  - Modificare macro (all'incirca).
+  - Aggiungere macro alla Barra degli Strumenti ad Accesso Rapido
+
+
+  ### Modulo 6&#58; Elementi Casuali Utili
+  Questo modulo spiega come usare gli sparkline e altre utili funzioni casuali.
+  #### Lezioni
+  - Sparkline
+  - Inserire e Personalizzare Sparkline
+  - Usare Microsoft Translator
+  - Preparare una Cartella di Lavoro per Internalizzazione e Accessibilità
+  - Importare ed Esportare File
+  - Importare File di Testo
+  - Copiare Dati da Excel a Word
+  - Copiare Grafici da Excel e Word
+
+
+  #### Laboratorio &#58; Esercizi su Utili Elementi Casuali
+  - Inserire e Personalizzare Sparkline
+  - Importare File di Testo
+  - Copiare Dati da Excel a Word
+  - Copiare Grafici da Excel e Word
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Inserire sparkline in fogli di lavoro.
+  - Personalizzare sparkline con&#58;
+  - Cambiare il tipo di sparkline.
+  - Evidenziare punti chiave.
+  - Cambiare colori.
+  - Cambiare l'asse.
+  - Preparare una cartella di lavoro per internalizzazione, accessibilità e compatibilità.
+  - Importare file di testo su Microsoft Excel.
+  - Copiare celle da un foglio di lavoro su Microsoft Word.
+  Copiare e incollare un grafico su Microsoft Word.
+
+  ### Modulo 7&#58; Cloud
+  Questo modulo spiega come salvare, condividere e collaborare con altri usando il cloud.
+  #### Lezioni
+  - Usare il Cloud.
+
+
+  #### Laboratorio &#58; Usare il Cloud
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Usare Excel nel Cloud.
+
+  #### Letture Aggiuntive
+  Per aiutarti nella preparazione a questo corso, rivedi le risorse seguenti&#58;
+  - N/A

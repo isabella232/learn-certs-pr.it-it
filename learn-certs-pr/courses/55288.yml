@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: 'Introduction to Microsoft Project 2019: Getting Started'
+metadata:
+  title: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+  description: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+uid: course.55288
+courseNumber: '55288-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: imparare a creare e gestire semplici progetti.
+- skill: imparare a inserire e gestire compiti.
+- skill: imparare a lavorare con un calendario di progetto
+- skill: imparare ad aggiungere e gestire le risorse del progetto e lavorare con il foglio delle risorse.
+- skill: imparare a creare rapporti di base per il tuo progetto.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  In questa lezione Introduction to Microsoft Project 2019&#58; Getting Started, gli studenti passeranno il tempo a prendere confidenza con l'interfaccia utente di Project 2019 o Project 365, comprese le viste del progetto e la barra multifunzione. Impareranno anche a inserire, organizzare e collegare le attività, lavorare con le risorse, creare rapporti di base e creare progetti in modo indipendente. Il corso lascia il tempo di praticare le competenze di base fondamentali essenziali per un uso efficiente di questo programma.
+
+  #### Profilo del pubblico
+  Questo corso è destinato ai nuovi utenti di Microsoft Project.
+outlineSection: |-
+  ### Modulo 1&#58; Componenti di un progetto
+  In questa lezione, esamineremo i componenti di un progetto che sono trattati in dettaglio in questo corso e presenteremo i progetti di esempio che saranno usati in questo corso.
+
+  #### Lezioni
+  - Componenti di un progetto.
+  - Progetti dimostrativi ed esercizi usati in questo corso.
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire i componenti di un progetto.
+  - Mappare un progetto.
+  - Progetti di esempio usati in questo corso.
+
+
+  ### Modulo 2&#58; Muoversi in Microsoft Project
+  In questa lezione, imparerai ad avviare Project 2019 e familiarizzerai con la barra multifunzione, incluse le schede, i gruppi e i comandi. Una solida comprensione di come funziona la barra multifunzione e la capacità di navigare in diverse parti della barra multifunzione ti permetteranno di iniziare bene a usare Microsoft Project 2019.
+
+  #### Lezioni
+  - Iniziare il progetto
+  - La barra multifunzione
+  - La visualizzazione Backstage
+  - Tour della barra degli strumenti di accesso rapido
+  - Formattazione di base
+
+
+  #### Lab &#58; Esercizi
+  - Capire la barra multifunzione
+  - Aprire e salvare un progetto
+  - Inserire le informazioni del progetto
+  - Aggiungere ed eliminare comandi dalla barra degli strumenti di accesso rapido
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Avviare Project 2019.
+  - Lavorare con schede, gruppi e comandi sulla barra multifunzione.
+  - Nascondere la barra multifunzione.
+  - Usare la visualizzazione Backstage.
+  - Inserire informazioni sul progetto.
+  - Personalizzare la barra degli strumenti di accesso rapido.
+  - Usa la formattazione di base in Project 2019.
+
+
+  ### Modulo 3&#58; Calendari
+  Questo modulo spiega come lavorare con i calendari.
+  #### Lezioni
+  - Data di inizio del progetto
+  - Creare il calendario del progetto
+  - Collegare un calendario a un progetto
+  - Formattare la timeline per far corrispondere un calendario personalizzato
+
+  #### Letture aggiuntive
+  Nessuna

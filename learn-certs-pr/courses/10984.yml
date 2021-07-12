@@ -1,0 +1,201 @@
+### YamlMime:Course
+title: Deploying and Managing Office 365 Hybrid Deployments
+metadata:
+  title: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+  description: 'Course 10984-B: Deploying and Managing Office 365 Hybrid Deployments'
+uid: course.10984
+courseNumber: '10984-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrivere gli strumenti di amministrazione e le opzioni di licenza Office 365.
+- skill: Distribuire e configurare la sincronizzazione della directory in una distribuzione Office 365.
+- skill: Pianificare una configurazione ibrida con Exchange Server e Exchange Online.
+- skill: Eseguire la distribuzione di una configurazione ibrida Exchange Server.
+- skill: Descrivere e distribuire Skype for Business e Teams in una distribuzione ibrida.
+- skill: Distribuire SharePoint e OneDrive for Business in un ambiente ibrido.
+- skill: Descrivere e distribuire diversi metodi di autentificazione in una distribuzione ibrida Office 365.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  Questo corso ILT di 3 giorni mira alle esigenze dei professionisti IT che prendono parte ad amministrazione, configurazione e operatività dei servizi Office 365 in ambienti ibridi, dove parte dell'infrastruttura è ospitata in loco. Questo corso include anche la gestione delle identificazioni, l'autentificazione, e le tecnologie supportate per Office 365. Questo corso si focalizza sulle competenze necessarie per amministrare e risolvere problemi di un tenant Office 365, e sui servizi chiave di Office 365 come Exchange Online, SharePoint Online, e Skype for Business, oltre a servizi come Azure Multi-Factor Authentication (MFA), Azure Active Directory Identity Protection, e Azure Active Directory Privileged Identity Management. Tutti questi servizi sono coperti dall'aspetto ibrido. Questo corso fornisce le conoscenze necessarie per sapere come usare i servizi Office 365 per risorse sia cloud che in loco.
+
+  #### Profilo d'Utenza
+  Il pubblico di questo corso comprende professionisti IT e amministratori di sistema che desiderano scoprire come implementare e preservare Office 365 in scenari ibridi, in cui una parte dell'infrastruttura in collaborazione si trova in loco ed è integrata con servizi Office 365. Questi professionisti dovrebbero avere almeno 3 anni di esperienza lavorativa nel proprio campo specifico, e si presuppone una conoscenza pregressa di Exchange Server, SharePoint Server, e Skype for Business Server (per esempio, server Lync). Gli studenti che frequentano questo corso dovrebbero anche avere una comprensione piuttosto  ampia dei servizi di amministrazione di Office 365 in generale, e anche di diverse tecnologie in loco come DNS e AD DS.
+prerequisitesSection: |-
+  Oltre alla propria esperienza professionale, gli studenti che seguono questa formazione dovrebbero già essere in possesso delle seguenti conoscenze tecniche&#58;
+  - Almeno due anni di esperienza nell'amministrazione del sistema operativo Windows Server, compreso Windows Server 2012 o successivi.
+  - Almeno un anno di esperienza nel lavoro con Active Directory Domain Services.
+  - Almeno un anno di esperienza nel lavoro con la risoluzione del nome, compreso Domain Name System (DNS).
+  - Esperienza nel lavoro con i certificati, inclusi i certificati infrastruttura a chiave pubblica (PKI).
+  - Esperienza nel lavoro con Windows PowerShell.
+  - Esperienza nel lavoro con Exchange Server 2013 o successivi, Lync 2013 Server o Skype for Business Server2015, e SharePoint Server 2013 o successivi.
+  - Esperienza nel lavoro con servizi chiave Office 365 come Exchange Online, Skype for Business e SharePoint Online.
+
+  Una comprensione dei seguenti concetti in rapporto a Office 365&#58;
+  - Servizi Microsoft cloud 
+  - Piattaforma Office 365
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione all'amministrazione e alla licenza di Office 365
+  Questo modulo illustra Office 365, i suoi strumenti di amministrazione e le opzioni di licenza.
+  #### Lezioni
+  - Panoramica su Office 365
+  - Amministrazione e delegazione dei ruoli su Office 365 
+  - Configurazione tenant Office 365
+  - Panoramica sulla distribuzione ibrida
+
+
+  #### Laboratorio &#58; Fornire e configurare un tenant Office 365 
+  - Configurare DNS in loco
+  - Configurare un tenant di prova su Office 365 
+  - Esplorare le interfacce admin Microsoft 365 
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Illustrare le componenti e le opzioni di abbonamento/licenza di Microsoft Office 365.
+  - Illustrare i portali amministrativi di Office 365, la gestione di Windows PowerShell, e i ruoli admin.
+  - Fornire e configurare un tenant Office 365, personalizzare i domini e registrare  DNS.
+  - Illustrare le opzioni per una configurazione ibrida su Office 365.
+
+
+  ### Modulo 2&#58; Distribuire e configurare la sincronizzazione della directory 
+  Questo modulo spiega come illustrare e configurare la sincronizzazione della directory in una distribuzione Office 365.
+  #### Lezioni
+  - Sincronizzazione della directory e panoramica sull'autentificazione 
+  - Distribuzione e configurazione Azure AD Connect 
+  - Gestire utente e oggetti di gruppo in un ambiente ibrido Office 365
+
+
+  #### Laboratorio &#58; Amministrare la sincronizzazione della directory, utenti e gruppi in un ambiente ibrido Office 365
+  - Preparare la directory e configurare Azure AD Connect
+  - Gestire Office 365 utenti e gruppi con GUI e Windows PowerShell
+  - Gestire Office 365 politiche delle password e reset autonomo delle password 
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Illustrare la sincronizzazione della directory e l'autentificazione.
+  - Distribuire e configurare Azure AD Connect.
+  - Gestire account utente e gruppo in un ambiente ibrido Microsoft Office 365.
+
+
+  ### Modulo 3&#58; Pianificazione di una distribuzione ibrida Exchange Server 
+  Questo modulo spiega come pianificare una configurazione ibrida con Exchange Server e Exchange Online.
+  #### Lezioni
+  - Panoramica su Exchange Online 
+  - Opzioni di configurazione ibrida Exchange Server e distribuzione delle funzionalità
+  - Servizi Exchange Server nella distribuzione ibrida
+
+
+  #### Laboratorio &#58; Pianificare e progettare l'integrazione tra Exchange Online e Exchange Server 2019
+  - Progettare una distribuzione ibrida Exchange 
+  - Discutere di una soluzione e rivedere il setup di Exchange Online 
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Illustrare Microsoft Exchange Online come parte di Microsoft Office 365.
+  - Illustrare le opzioni di configurazione ibrida di Microsoft Exchange Server e le opzioni di distribuzione.
+  - Illustrare i ruoli di Exchange Server nella distribuzione ibrida.
+
+
+  ### Modulo 4&#58; Distribuzione ibrida Exchange Server 
+  Questo modulo spiega come eseguire la distribuzione di una configurazione ibrida con Exchange Server.
+  #### Lezioni
+  - Usare il Hybrid Configuration Wizard
+  - Gestire e configurare la distribuzione ibrida Exchange 
+  - Implementare funzionalità avanzata per distribuzioni ibride
+  - Configurare la conformità dei messaggi e l'igiene in un ambiente ibrido 
+
+
+  #### Laboratorio &#58; Implementare la distribuzione ibrida di Exchange Server 
+  - Usare il Hybrid Configuration Wizard
+  - Spostare le caselle di posta tra Exchange in loco e Exchange Online
+  - Configurare la conformità dei messaggi e l'igiene in un ambiente ibrido 
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Usare il Hybrid Configuration Wizard per stabilire un ambiente ibrido Exchange.
+  - Configurare una distribuzione ibrida Exchange.
+  - Implementare la distribuzione ibrida di funzionalità avanzate.
+  - Illustrare le funzionalità di conformità per una distribuzione ibrida Exchange.
+
+
+  ### Modulo 5&#58; Skype for Business e Teams su distribuzioni ibride Office 365
+  Questo modulo spiega come distribuire Skype for Business e Teams in una distribuzione ibrida.
+  #### Lezioni
+  - Panoramica su Microsoft Teams
+  - Pianificare e preparare alla distribuzione ibrida di Skype for Business 
+  - Usare la configurazione ibrida Skype for Business con il sistema Cellulare
+  - Configurare l'ambiente ibrido Skype for Business
+
+
+  #### Laboratorio &#58; Implementare la configurazione ibrida di Skype for Business 
+  - Distribuire Skype for Business with Enterprise Voice (pre-lab)
+  - Spostare Utenti su Skype for Business Online
+  - Attivare Office 365 Phone System and Audio Conferencing
+  - Progettare e implementare una configurazione ibrida Skype for Business 
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Spiegare Teams come parte di Office 365.
+  - Preparare alla distribuzione ibrida di Skype for Business.
+  - Configurare l'ambiente ibrido di Skype for Business.
+  - Illustrare opzioni di distribuzione ibrida con Office 365 Phone System.
+
+
+  ### Modulo 6&#58; Distribuzione ibrida di SharePoint e OneDrive for Business 
+  Questo modulo spiega come distribuire SharePoint e OneDrive for Business in ambienti ibridi.
+  #### Lezioni
+  - Panoramica su SharePoint Online
+  - Pianificare una distribuzione ibrida SharePoint 
+  - Distribuire la configurazione ibrida SharePoint 
+  - Configurare i servizi di SharePoint in una configurazione ibrida
+
+
+  #### Laboratorio &#58; Implementare SharePoint e OneDrive for Business in una configurazione ibrida
+  - Progettare e preparare SharePoint Server a una configurazione ibrida
+  - Distribuire servizi SharePoint in una configurazione ibrida
+  - Convalidare la funzionalità dei servizi SharePoint in una configurazione ibrida
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Spiegare SharePoint Online come parte di Office 365.
+  - Pianificare una distribuzione ibrida di SharePoint.
+  - Distribuire SharePoint Server in una configurazione ibrida.
+  - Configurare i servizi SharePoint in una configurazione ibrida.
+
+
+  ### Modulo 7&#58; Distribuire servizi aggiuntivi di Office 365 in una distribuzione ibrida
+  Questo modulo spiega come distribuire Azure MFA, Identity Protection, e Azure Information Protection.
+  #### Lezioni
+  - Implementare Multi-Factor Authentication in uno scenario ibrido
+  - Implementare Azure Information Protection
+  - Implementare Identity Protection e Azure AD Privileged Identity Management
+
+
+  #### Laboratorio &#58; Configurare servizi aggiuntivi di Office 365 in una distribuzione ibrida
+  - Implementare Multi-Factor Authentication
+  - Implementare Azure Information Protection
+  - Implementare Azure AD Privileged Identity Management
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Implementare Multi-Factor Authentication.
+  - Implementare Azure Information Protection.
+  - Implementare Identity Protection e Azure AD Privileged Identity Management.
+
+  ### Modulo 8&#58; Opzioni di autenticazione in distribuzioni ibride
+  Questo modulo illustra come distribuire diversi metodi di autentificazione in una distribuzione ibrida Office 365.
+  #### Lezioni
+  - Distribuire AD FS per SSO in un ambiente ibrido Office 365 
+  - Distribuire autentificazione pass-through per SSO su Office 365
+  - Pianificare opzioni di autentificazione su Office 365
+
+
+  #### Laboratorio &#58; Implementare soluzioni di autentificazione in distribuzioni ibride
+  - Distribuire AD FS per SSO
+  - Distribuire autentificazione pass-through per SSO
+
+  Dopo aver completato questo modulo, sarai in grado di&#58;
+  - Distribuire AD FS per single sign-on (SSO) in un ambiente ibrido Office 365.
+  - Distribuire autentificazione pass-through per SSO.
+  - Pianificare opzioni di autentificazione su Office 365.
