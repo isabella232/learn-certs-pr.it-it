@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+metadata:
+  title: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+  description: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+uid: course.40511
+courseNumber: '40511-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Alla fine di questo workshop, sarai in grado di costruire template per automatizzare infrastrutture cloud e ridurre i processi manuali tendenti all'errore. Oltre a ciò, creerai un template Azure Resource Manager (ARM) per fornire risorse Azure, configurare una fornitura continua con Visual Studio Team Services (VSTS), configurare Application Insights in un'applicazione e creare un progetto Visual Studio Team Services e un repository Git.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Alla fine di questo workshop, sarai in grado di costruire template per automatizzare l'infrastruttura cloud e ridurre i processi manuali tendenti all'errore. Oltre a ciò, creerai un template Azure Resource Manager (ARM) per fornire risorse Azure, configurare una fornitura continua con Azure DevOps, configurare Application Insights in un'applicazione, e creare un progetto Azure DevOps e un repository Git.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per professionisti Cloud Architects e IT esperti in merito alla progettazione di infrastrutture e soluzioni in tecnologie cloud, che desiderano imparare di più su Azure e gli Azure services come descritto nella sezione "sintesi" e "Competenze acquisite". Coloro che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non Microsoft, soddisfare i prerequisiti del corso, e desiderare di praticare al contempo su Azure.
+prerequisitesSection: |-
+  Il contenuto del workshop presume un'esperienza architettonica di livello 300 in merito a infrastrutture e progettazione soluzioni. Suggeriamo agli studenti di soddisfare questo requisito prima di frequentare questo workshop.
+  - Corso Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - Fornitura continua su Azure DevOps
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Progettare una soluzione proof of concept
+  - Presentare la soluzione
+
+  ### Modulo 2&#58; Lab Pratico - Fornitura continua su Azure DevOps
+  #### Lezioni
+  - Creare un template Azure Resource Manager (ARM) che possa fornire l'applicazione web, database SQL 
+  - Creare progetti Azure DevOps e Repository Git 
+  - Creare una pipeline di costruzione Azure DevOps 
+  - Creare una pipeline di rilascio Azure DevOps 
+  -  Attivare una costruzione e il rilascio
+  - Creare un branch e inoltrare una richiesta di pull

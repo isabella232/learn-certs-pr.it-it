@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Internet of Things'
+metadata:
+  title: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+  description: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+uid: course.40505
+courseNumber: '40505-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Alla fine di questo workshop, sarai più in grado di costruire una soluzione IoT che implementa la registrazione del dispositivo con il IoT Hub Device Provisioning Service e la visualizzazione di dati critici con Power BI.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Questo workshop ti guiderà attraverso l'implementazione di una soluzione end-to-end IoT che simula dati ad alta velocità emessi da metri smart e analizzati su Azure. Progetterai un'architettura lambda, filtrando un sotto-set di dati telemetrici per una visualizzazione in tempo reale del percorso critico, e conservando tutti i dati nell'archiviazione a lungo termine del percorso ad accesso sporadico.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per professionisti Cloud Architects e IT esperti in merito alla progettazione di infrastrutture e soluzioni in tecnologie cloud, che desiderano imparare di più su Azure e gli Azure services come descritto nella sezione "sintesi" e "Competenze acquisite". Coloro che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non Microsoft, soddisfare i prerequisiti del corso, e desiderare di praticare al contempo su Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - Internet of Things
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Progettare una soluzione proof of concept
+  - Presentare la soluzione
+
+  ### Modulo 2&#58; Lab Pratico - Internet of Things
+  #### Lezioni
+  - Impostazione dell'ambiente
+  - Fornitura IoT Hub
+  - Completare il Smart Meter Simulator
+  - Elaborazione dati del percorso ad accesso frequente con Stream Analytics
+  - Elaborazione dati del percorso ad accesso sporadico con HDInsight Spark
+  - Riportare disservizi del dispositivo con IoT Hub Operations Monitoring"
+

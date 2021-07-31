@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Microsoft Finance and Operations Core'
+title:  'Microsoft Dynamics 365: Core Finance and Operations'
 metadata:
-  title: 'Course MB-300T00: Microsoft Finance and Operations Core'
-  description: 'Course MB-300T00: Microsoft Finance and Operations Core'
+  title: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
 uid: course.mb-300t00
 courseNumber: 'MB-300T00'
 hoursToComplete: 48
@@ -36,9 +36,7 @@ levels:
 roles:
 - functional-consultant
 products:
-- dynamics
-- dynamics-finance
-- dynamics-finance-operations
+- dynamics-365
 exams:
 - uid: exam.mb-300
 summary: |-
@@ -86,15 +84,15 @@ outlineSection: |-
   - Descrizione dei casi d'uso per le app e i servizi di Power Platform
   - Riepilogo del modulo
   
-  #### Laboratorio&#58; Lavorare con uno spazio di lavoro operativo
+  #### Lab&#58; Lavorare con uno spazio di lavoro operativo
   
-  #### Laboratorio&#58; Preparazione, attivazione e impiego della gestione dei documenti aziendali
+  #### Lab&#58; Preparazione, attivazione e impiego della gestione dei documenti aziendali
   
-  #### Laboratorio&#58; Ricerche e uso dei filtri
+  #### Lab&#58; Ricerche e uso dei filtri
   
-  #### Laboratorio&#58; Creazione di query di ricerca e salvataggio per l'uso futuro
+  #### Lab&#58; Creazione di query di ricerca e salvataggio per l'uso futuro
   
-  #### Laboratorio&#58; Lavorare con i record template
+  #### Lab&#58; Lavorare con i record template
   
   Hai imparato a&#58;
   - Utilizzare le funzionalità più comuni e gli strumenti d'implementazione.
@@ -139,25 +137,25 @@ outlineSection: |-
   - Configurazione delle funzionalità amministrative del sistema
   - Riepilogo del modulo
   
-  #### Laboratorio &#58; Creazione degli utenti e assegnazione dei ruoli di sicurezza 
+  #### Lab &#58; Creazione degli utenti e assegnazione dei ruoli di sicurezza 
   
-  #### Laboratorio &#58; Impostazione della separazione dei compiti
+  #### Lab &#58; Impostazione della separazione dei compiti
   
-  #### Laboratorio &#58; Esecuzione di un report sulla sicurezza e analisi dello stesso
+  #### Lab &#58; Esecuzione di un report sulla sicurezza e analisi dello stesso
   
-  #### Laboratorio &#58; Creazione un flusso di lavoro per le richieste d'acquisto
+  #### Lab &#58; Creazione un flusso di lavoro per le richieste d'acquisto
   
-  #### Laboratorio &#58; Configurazione di una nuova entità giuridica
+  #### Lab &#58; Configurazione di una nuova entità giuridica
   
-  #### Laboratorio &#58; Creazione di un'unità operativa
+  #### Lab &#58; Creazione di un'unità operativa
   
-  #### Laboratorio &#58; Impostazione delle sequenze numeriche
+  #### Lab &#58; Impostazione delle sequenze numeriche
   
-  #### Laboratorio &#58; Creazione di una gerarchia organizzativa e assegnazione dei relativi scopi
+  #### Lab &#58; Creazione di una gerarchia organizzativa e assegnazione dei relativi scopi
   
-  #### Laboratorio &#58; Utilizzare Excel workbook designer
+  #### Lab &#58; Utilizzare Excel workbook designer
   
-  #### Laboratorio &#58; Creazione di un lavoro batch
+  #### Lab &#58; Creazione di un lavoro batch
   
   Hai imparato a&#58;
   - Distinguere tra ruoli, compiti, privilegi e permessi.
@@ -212,11 +210,11 @@ outlineSection: |-
   - Preparazione dei dati per la migrazione per poi effettuarla.
   - Riepilogo del modulo.
   
-  #### Laboratorio &#58; Lavorare con i template nell'area di lavoro per la gestione dei Dati
+  #### Lab &#58; Lavorare con i template nell'area di lavoro per la gestione dei Dati
   
-  #### Laboratorio &#58; Esportazione e importazione dei dati
+  #### Lab &#58; Esportazione e importazione dei dati
   
-  #### Laboratorio &#58; Copia dei dati di configurazione fra entità giuridiche
+  #### Lab &#58; Copia dei dati di configurazione fra entità giuridiche
   
   In questo modulo hai imparato a&#58;
   - Gestire i dati nelle app Dynamics 365 Finance and Operations.

@@ -3,8 +3,6 @@
 - name: Ottieni una certificazione
   expanded: false
   items:
-  - name: Panoramica sul processo di certificazione
-    href: certification-process-overview.md
   - name: Richiedi alloggi
     href: request-accommodations.md
   - name: Registrarsi e programmare un esame
@@ -74,6 +72,8 @@
   - name: Politiche e accordi
     expanded: false
     items:
+    - name: Politica di scadenza certificazioni
+      href: certification-expiration-policy.md
     - name: Exam item challenge process
       href: exam-item-challenge-process.md
     - name: Politica di sicurezza dell'esame

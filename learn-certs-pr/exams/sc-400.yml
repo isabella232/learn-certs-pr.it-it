@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-400
 displayName: SC-400
 summary: |-
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+
   L'Amministratore della Protezione delle Informazioni pianifica e implementa i controlli che soddisfano le esigenze di compliance dell'organizzazione. Questa figura è responsabile di tradurre i requisiti e i controlli di compliance in implementazione tecnica. Coadiuvano gli owner del controllo organizzativo a raggiungere e mantenere la compliance.
   
   Collabora con il personale IT (Information Technology), con gli owner delle applicazioni aziendali, con le risorse umane e gli stakeholder legali per implementare quelle tecnologie che supportino le politiche e i controlli necessari per soddisfare in modo adeguato i requisiti normativi dell'organizzazione. Lavora anche con la leadership della compliance e della sicurezza in qualità di Chief Compliance Officer e Security Officer al fine di valutare l'estensione completa del rischio aziendale associato e collabora allo sviluppo di tali politiche.
@@ -20,6 +22,7 @@ locales:
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Implementare la protezione delle informazioni (35-40%)
 - Implementare la prevenzione della perdita di dati (30-35%)
 - Implementare la governance delle informazioni (25-30%)

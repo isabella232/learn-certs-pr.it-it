@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Network Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Network Engineer Associate'
+  description: Questa certificazione sarà disponibile a luglio 2021. I candidati per la certificazione Azure Network Engineer Associate dovrebbero avere competenze in materia di pianificazione, implementazione e salvaguardia di soluzioni di rete Azure, compresi reti ibride, connettività, routing, sicurezza e accesso privato a servizi Azure.
+uid: certification.azure-network-engineer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  I candidati per la certificazione Azure Network Engineer Associate dovrebbero avere competenze in materia di pianificazione, implementazione e salvaguardia di soluzioni di rete Azure, compresi reti ibride, connettività, routing, sicurezza e accesso privato a servizi Azure.
+  
+  Le responsabilità per questo ruolo comprendono consigliare, pianificare, e implementare soluzioni di rete Azure. I professionisti con questo ruolo gestiscono le soluzioni per garantire prestazioni, resilienza, scalabilità e sicurezza. Distribuiscono soluzioni di rete usando il Portale Azure e altri metodi, tra cui PowerShell, Azure Command-Line Interface (CLI), e template Azure Resource Manager (template ARM).
+  
+  Il Azure Network Engineer lavora con solution architect, amministratori cloud, ingegneri di sicurezza, sviluppatori app, e ingegneri DevOps per fornire soluzioni Azure.
+  
+  I candidati per questa certificazione dovrebbero avere competenze approfondite nell'amministrazione Azure, oltre ad un'esperienza e una conoscenza estensiva di rete, connessioni ibride e sicurezza della rete.
+  
+  <div><font color='red'><br/><strong>Questa certificazione sarà disponibile a metà luglio 2021.</strong></font></div>
+subTitle: Questa certificazione sarà disponibile a luglio 2021. I candidati per la certificazione Azure Network Engineer Associate dovrebbero avere competenze in materia di pianificazione, implementazione e salvaguardia di soluzioni di rete Azure, compresi reti ibride, connettività, routing, sicurezza e accesso privato a servizi Azure.
+levels:
+- intermediate
+skills:
+- Progettare, Implementare, e Gestire Reti Ibride
+- Progettare e Implementare Nuclei di Infrastrutture di Rete
+- Progettare e Implementare Routing 
+- Rendere sicure e Monitorare Reti
+- Progettare e Implementare Accesso Privato a Azure Services
+roles:
+- network-engineer
+type: role-based
+products:
+- azure-ddos-protection
+- azure-dns
+- azure-application-gateway
+- azure-app-service
+- azure-expressroute
+- azure-firewall
+- azure-firewall-manager
+- azure-front-door
+- azure-kubernetes-service
+- azure-load-balancer
+- azure-monitor
+- azure-network-watcher
+- azure-private-link
+- azure-traffic-manager
+- azure-virtual-network
+- azure-virtual-wan
+- azure-vpn-gateway
+- azure-web-application-firewall
+- azure-virtual-network
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
+exams:
+- uid: exam.az-700
+resources:
+- title: Poster delle certificazioni di Azure
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://aka.ms/TrainingCertDeck
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Condividi i badge delle tue certificazioni
+  description: Festeggia i tuoi successi con la tua rete. Richiedi il tuo badge Microsoft Certification e aggiungilo a LinkedIn, al tuo CV e ad altro ancora.
+  href: ../badges.md

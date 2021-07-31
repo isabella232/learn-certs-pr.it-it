@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cloud-native applications'
+metadata:
+  title: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+  description: 'Course 40501-G: Microsoft Cloud Workshop: Cloud-native applications'
+uid: course.40501
+courseNumber: '40501-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Alla fine di questo workshop sarai più in grado di migliorare l'affidabilità e di aumentare la cadenza di rilascio delle tue applicazioni basate su contenitore tramite pratiche DevOps testate a livello di tempo.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In questo workshop, costruirai un proof of concept (POC) che trasformerà un'applicazione PaaS esistente in un'applicazione basata su contenitore. Questo POC fornirà un'app web multiutente che ospita una soluzione che sfrutta Azure Kubernetes Service (AKS), contenitori Docker su nodi Linux, e una migrazione da MongoDB a CosmosDB.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per professionisti Cloud Architects e IT esperti in merito alla progettazione di infrastrutture e soluzioni in tecnologie cloud, che desiderano imparare di più su Azure e gli Azure services come descritto nella sezione "sintesi" e "Competenze acquisite". Coloro che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non Microsoft, soddisfare i prerequisiti del corso, e desiderare di praticare al contempo su Azure.
+prerequisitesSection: |-
+  Il contenuto del workshop presume un'esperienza architettonica di livello 300 in merito a infrastrutture e progettazione soluzioni. Suggeriamo agli studenti di soddisfare questo requisito prima di frequentare questo workshop.
+  - Corso Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - applicazioni native Cloud
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Call to action&#58; Progettare una soluzione proof of concept
+  - Call to action&#58; Presentare la soluzione
+
+  ### Modulo 2&#58; Lab Pratico - applicazioni native Cloud
+  #### Lezioni
+  - Creare e lanciare un'applicazione Docker
+  - Distribuire la soluzione a Azure Kubernetes Service
+  - Scalare l'applicazione e testare HA
+  - Impostare il bilanciamento del carico e la scoperta del servizio (Edizione Infrastruttura)
+  - Lavorare con servizi e traffico di applicazione del routing (Edizione Sviluppatore)

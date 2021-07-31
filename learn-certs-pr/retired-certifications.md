@@ -21,8 +21,6 @@ Le certificazioni che saranno ritirate nei prossimi 12 mesi sono elencate qui di
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Verrà Ritirato il 30 Giugno 2021 |
-| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Verrà Ritirato il 30 Giugno 2021 |
 | [MTA: Database Fundamentals](/learn/certifications/mta-database-fundamentals) | Ritiro il 30 giugno 2022 |
 | [MTA: Windows Server Administration Fundamentals](/learn/certifications/mta-windows-server-administration-fundamentals) | Ritiro il 30 giugno 2022 |
 | [MTA: Security Fundamentals](/learn/certifications/mta-security-fundamentals) | Ritiro il 30 giugno 2022 |
@@ -44,8 +42,11 @@ Le certificazioni rimarranno nella sezione Active del tuo libretto per due anni 
 
 | Role-based                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 30 giugno 2021 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 30 giugno 2021 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31 dicembre 2020 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31 agosto 2020 |
+
 
 | Microsoft Certified Solutions Developer                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |

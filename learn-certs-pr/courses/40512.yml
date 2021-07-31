@@ -1,0 +1,51 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: App Modernization'
+metadata:
+  title: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+  description: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+uid: course.40512
+courseNumber: '40512-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Alla fine di questo workshop, sarai più in grado di progettare un piano di modernizzazione per aziende che intendono spostare più servizi dalla sede al cloud.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In questo workshop, acquisirai una migliore conoscenza dei passi necessari per modernizzare le applicazioni e le infrastrutture in sede sfruttando servizi cloud, aggiungendo un mix di servizi mobili e web, e rendendo sicuro il tutto usando Azure Active Directory.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per professionisti Cloud Architects e IT esperti in merito alla progettazione di infrastrutture e soluzioni in tecnologie cloud, che desiderano imparare di più su Azure e gli Azure services come descritto nella sezione "sintesi" e "Competenze acquisite". Coloro che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non Microsoft, soddisfare i prerequisiti del corso, e desiderare di praticare al contempo su Azure.
+prerequisitesSection: |-
+  Il contenuto del workshop presume un'esperienza architettonica di livello 300 in merito a infrastrutture e progettazione soluzioni. Suggeriamo agli studenti di soddisfare questo requisito prima di frequentare questo workshop.
+  - Corso Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - Modernizzazione App
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Progettare una soluzione proof of concept
+  - Presentare la soluzione
+
+  ### Modulo 2&#58; Lab Pratico - Modernizzazione App
+  #### Lezioni
+  - Migrare il database su Azure SQL Database
+  - Fornire Servizi App 
+  - Identificazione e sicurezza
+  - Caricare PDFs all'archiviazione blob 
+  - Creare API senza server per accedere ai PDFs
+  - Creare un servizio Azure Search
+  - Configurare Key Vault
+  - Configurare e distribuire Contoso Insurance Web API
+  - Configurare e distribuire la web app Contoso Insurance 
+  - Configurare e lanciare l'applicazione precedente per desktop (Windows Forms) 
+  - Configurare e lanciare l'applicazione per dispositivi mobili
+  - Creare un'app Flow per inviare notifiche push
+  - Creare un'app su PowerApps
+  - Aggiungere Azure Function a Azure API Management

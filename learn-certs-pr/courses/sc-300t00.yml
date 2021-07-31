@@ -18,14 +18,9 @@ locales:
 levels:
 - intermediate
 roles:
-- administrator
-- identity-access-admin
 - security-engineer
 products:
 - azure
-- azure-active-directory
-- azure-log-analytics
-- azure-sentinel
 exams:
 - uid: exam.sc-300
 summary: |-
@@ -34,13 +29,13 @@ summary: |-
   #### Profilo d'utenza
   Questo corso è pensato per gli Identity and Access Administrators che prevedono di sostenere l'esame di certificazione associato, o a anche per coloro che svolgono quotidianamente attività amministrative di accesso e identificazione durante il proprio lavoro. Questo corso è utile per gli amministratori o ingegneri che vogliono specializzarsi nel fornire soluzioni di identificazione e sistemi di gestione dell'accesso per soluzioni con base Azure; quindi per coloro che vogliono giocare un ruolo a tutto tondo nella protezione aziendale.
 prerequisitesSection: |-
-  I discenti di successo dovranno essere in possesso delle seguenti conoscenze pregresse&#58;
+  Prima di frequentare questo corso, gli studenti dovrebbero essere in possesso di una comprensione in merito a:
   - Migliori pratiche di sicurezza e requisiti di sicurezza aziendale, come difesa approfondita, accesso con privilegio minimo, responsabilità condivisa e modello zero trust. 
   - Avere familiarità con i concetti di identificazione, come autenticazione, autorizzazione e directory attiva.
   - Avere esperienza nella distribuzione di carichi di lavoro Azure. Questo corso non copre le basi dell'amministrazione Azure, ma il suo contenuto si sviluppa a partire da queste conoscenze aggiungendo delle informazioni specifiche in materia di sicurezza. 
   - Avere esperienza con i sistemi operativi e i linguaggi di scripting Windows e Linux è utile, ma non richiesto. Le esercitazioni del corso potrebbero impiegare PowerShell e CLI.
   
-  <div><strong>Prerequisiti dei corsi (o conoscenza o esperienza pratica equivalente)&#58;</strong></div>
+  Prerequisiti dei corsi (o conoscenza o esperienza pratica equivalente)&#58
   
   Questa formazione online gratuita ti offre l'esperienza di cui hai bisogno per seguire con successo questo corso.
   - [SC-900 parte 1&#58; Illustrare i concetti di sicurezza, conformità e identificazione - Learn | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/)
@@ -78,7 +73,7 @@ outlineSection: |-
   #### Lab &#58; Esplorare le dinamiche di gruppo 
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Distribuire un iniziale Azure AD con impostazioni personalizzate 
+  - Distribuire un Azure AD iniziale con impostazioni personalizzate 
   - Gestire identificazioni interne ed esterne 
   - Implementare una soluzione di identificazione ibrida 
   

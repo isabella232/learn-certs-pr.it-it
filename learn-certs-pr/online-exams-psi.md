@@ -182,11 +182,11 @@ Il tuo ufficio o la tua casa devono soddisfare i seguenti requisiti:
 ### Verifica dell’identità
 
 - Sei tenuto a presentare un i documento identifictivo attuale, rilasciato dall’autorità competente; ad esempio:
-  - Patente.
-  - Passaporto.
-  - Carta d’identità (nazionale/statale/provinciale).
-  - Permesso di soggiorno (green card, permesso di residenza, visto).
-  - l documenti identificativi rilasciati dall’autorità in lingua locale (scritti non in caratteri latini) possono essere accettati solo se emessi nel paese in cui il candidato sta sostenendo l’esame.
+    - Patente.
+    - Passaporto.
+    - Carta d’identità (nazionale/statale/provinciale).
+    - Permesso di soggiorno (green card, permesso di residenza, visto).
+    - ID emesso da governo – Se il ID non fosse in caratteri romani, il nome (o il cognome) deve essere incluso in caratteri romani sul proprio ID.
 - Ti verrà scattata una foto con una webcam e ti verrà chiesto di presentare un documento identificativo con foto al momento del check-in.
 - Il nome riportato sul’documento identificativo rilasciato dall’autorità, che presenti al momento dell’esame, deve corrispondere **esattamente** a quello dei profili Microsoft Certification e PSI.
 - Se stai aggiornando o rinnovando il tuo documento identificativo, ricorda che i moduli di modifica del nome legale, tra cui i moduli di rinnovo dei documenti identificativi, non possono essere accettati come documenti identificativi ai fini degli esami online.

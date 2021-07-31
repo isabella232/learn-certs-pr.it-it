@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -49,9 +42,9 @@ prerequisitesSection: |-
   - Comprensione dei concetti di Directory Attiva, inclusi domini, foreste, e controller di dominio
   
   Se sei nuovo ad Azure e al cloud computing, prendi in considerazione una delle seguenti risorse&#58;
-  - Gratis online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
-  - Corso tenuto da un istruttore&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
-  - Prerequisiti per Azure administrators (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - Gratis online&#58; Azure Fundamentals ([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - Corso tenuto da un istruttore&#58; AZ-900&#58; Azure Fundamentals([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Prerequisiti per Azure administrators ([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Modulo 1&#58; Panoramica su Azure Stack Hub
   In questo modulo scoprirai come Azure Stack Hub è un'estensione di Azure che offre un modo per lanciare app in ambienti on-premises e fornire servizi Azure nel tuo centro dati.
