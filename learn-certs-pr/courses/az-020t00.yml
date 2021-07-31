@@ -16,9 +16,6 @@ roles:
 - developer
 products:
 - azure
-exams:
-- uid: exam.az-203
-- uid: exam.az-204
 summary: |-
   Un corso di tre giorni progettato per insegnare agli sviluppatori AWS (Amazon Web Services) come preparare soluzioni end-to-end in Microsoft Azure. In questo corso costruirai soluzioni per app Web di Azure App Service e funzioni di Azure, utilizzerai l'archiviazione blob o Cosmos DB in soluzioni, implementerai soluzioni cloud sicure che includano autenticazione e autorizzazione degli utenti, implementerai la gestione API e svilupperai soluzioni basate su eventi e messaggi, e monitorerai, risolverai i problemi e ottimizzerai le tue soluzioni di Azure. Imparerai come gli sviluppatori usano i servizi di Azure, con particolare attenzione alle funzionalità e alle attività che differiscono da AWS e cosa significa per te quando sviluppi applicazioni che saranno ospitate usando i servizi di Azure.
 

@@ -7,7 +7,7 @@ uid: exam.dp-201
 displayName: DP-201
 summary: |-
   <div>
-  <div><font color='red'><strong>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, È ORA DISPONIBILE. Potrai sostenere questo esame fino alla sua rimozione, che avverrà il 30 giugno 2021. Nota&#58; L'esame verrà rimosso alle 11&#58;59 PM, CST (fuso orario degli Stati Uniti Centrali).</strong></font><br/><br/></div>
+  <div><font color='red'><strong>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, È ORA DISPONIBILE. Potrai sostenere questo esame fino alla sua rimozione, che avverrà il 31 agosto 2021. Nota: Gli esami vengono rimossi alle 23:59, Central Standard Time.</strong></font><br/><br/></div>
   <div><strong>Il contenuto di questo esame è stato aggiornato il venerdì 31 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
   
@@ -33,7 +33,7 @@ skills:
 - Progettare soluzioni per l’archiviazione dati Azure (40-45%)
 - Progettare soluzioni di elaborazione dati (25-30%)
 - Progettare la sicurezza e conformità dei dati (25-30%)
-retirementDate: 06/30/2021
+retirementDate: 08/31/2021
 roles:
 - data-engineer
 products:

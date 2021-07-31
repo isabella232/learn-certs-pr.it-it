@@ -1,0 +1,78 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure Virtual Desktop Specialty'
+  description: I candidati per la certificazione Azure Virtual Desktop Specialty sono amministratori Microsoft Azure con competenza in materia di pianificazione, fornitura e gestione di esperienze virtuali su desktop e app in remoto, per ogni dispositivo, su Azure.
+uid: certification.azure-virtual-desktop-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  I candidati per la certificazione Azure Virtual Desktop Specialty sono amministratori Microsoft Azure con competenza in materia di pianificazione, fornitura e gestione di esperienze virtuali su desktop e app in remoto, per ogni dispositivo, su Azure.
+  
+  Le responsabilità per questo ruolo comprendono la distribuzione di esperienze virtuali su desktop e app su Azure. I professionisti che ricoprono questo ruolo forniscono app su Windows Virtual Desktop e le ottimizzano in ambienti virtuali multisessione. Per fornire queste esperienze, lavorano a stretto contatto con amministratori e architetti Azure, insieme ad amministratori Microsoft 365.
+  
+  I candidati per questo esame dovrebbero avere esperienza in merito alle tecnologie Azure, tra cui virtualizzazione, rete, identificazione, archiviazione, backup, resilienza e disaster recovery. Dovrebbero capire le tecnologie dell'infrastruttura virtuale su desktop in loco mentre preparano la migrazione su Window Virtual Desktop. Questi professionisti usano il portale Azure e i template Azure Resource Manager per completare tali compiti. Questo ruolo potrebbe richiedere l'uso di PowerShell e Azure Command-Line Interface (CLI) per un'automazione più efficiente.
+  
+  I candidati per questo esame devono avere delle competenze di amministrazione approfondite su Azure.
+subTitle: I candidati per la certificazione Azure Virtual Desktop Specialty sono amministratori Microsoft Azure con competenza in materia di pianificazione, fornitura e gestione di esperienze virtuali su desktop e app in remoto, per ogni dispositivo, su Azure.
+
+levels:
+- intermediate
+skills:
+- Pianificare una Azure Virtual Desktop Architecture 
+- Implementare una Azure Virtual Desktop Infrastructure 
+- Gestire Accesso e Sicurezza
+- Gestire Ambienti e App Utente 
+- Monitorare e Preservare una Azure Virtual Desktop Infrastructure
+roles:
+- administrator
+type: specialty
+products:
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- azure-virtual-machines
+- azure-virtual-machines-windows
+- azure-netapp-files
+- azure-files
+- azure-bastion
+- azure-portal
+- windows-server
+- azure-clis
+- azure-resource-manager
+- azure-rbac
+- azure-policy
+- azure-security-center
+- m365-security-center
+- mem
+- office-onedrive
+- office-teams
+- azure-monitor
+- azure-advisor
+- windows-virtual-desktop
+courses:
+- uid: course.az-140t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
+exams:
+- uid: exam.az-140
+resources:
+- title: Poster delle certificazioni di Azure
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basati sui ruoli e quelle di specialità di Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://aka.ms/TrainingCertDeck
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Condividi i badge delle tue certificazioni
+  description: Festeggia i tuoi successi con la tua rete. Richiedi il tuo badge Microsoft Certification e aggiungilo a LinkedIn, al tuo CV e ad altro ancora.
+  href: ../badges.md

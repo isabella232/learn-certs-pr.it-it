@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-330
 displayName: MB-330
 summary: |-
-  <div>
-  <div><strong>Il contenuto di questo esame verrà aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
 
   I candidati a questo esame analizzano i requisiti aziendali e traducono tali requisiti in processi e soluzioni pienamente realizzate che implementano le migliori pratiche del settore. I candidati sono la risorsa chiave per l'implementazione e la configurazione delle applicazioni per soddisfare i requisiti aziendali.
   <br/>
@@ -26,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame verrà aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
+- Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Implementare la gestione delle informazioni sui prodotti (20-25%)
 - Implementare la gestione delle scorte (15-20%)
 - Implementare e gestire i processi della catena di fornitura (15-20%)

@@ -7,7 +7,7 @@ uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
   <div>
-  <div><strong> QUESTO ESAME VERRÀ RITIRATO IL 30 GIUGNO 2021. Non potrai più ottenere la certificazione dopo questa data. Tutte le certificazioni ottenute prima della data di ritiro continueranno a comparire sulla tua <a href="https://aka.ms/certdashboard">Dashboard delle certificazioni</a>.</strong><br/><br/></div>
+  <div><font color="red"><strong>Questa certificazione è stata rimossa. Per le opzioni attualmente disponibili, fai riferimento a <a href="/learn/certifications/browse/">Sfoglia Certificazioni e pagina Esami</a>. Ogni certificazione acquisita prima del suo ritiro continuerà ad apparire sul tuo libretto sulla <a href="https://aka.ms/certdashboard">Dashboard Certificazioni.</a></strong></font><br/><br/></div>
   </div>
   
   Dimostra di comprendere Microsoft Dynamics 365; intelligenza artificiale; realtà mista; la Power Platform; i concetti di cloud; la sicurezza del cloud; la sicurezza di Dynamics 365; il Common Data Service; la reportistica di Dynamics 365; le integrazioni di Dynamics 365 e l'implementazione del cloud.

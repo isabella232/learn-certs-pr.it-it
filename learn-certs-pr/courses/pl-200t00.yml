@@ -8,7 +8,7 @@ courseNumber: 'PL-200T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Collabora con un'organizzazione per raccogliere requisiti e implementare soluzioni Power Platform
+- skill: Lavorare con un'azienda per cogliere i requisiti e implementare soluzioni Microsoft Power Platform 
 - skill: Crea app model driven, canvas e app portale
 - skill: Crea flussi con Power Automate
 - skill: Progetta un semplice chatbot utilizzando Power Virtual Agents
@@ -19,36 +19,40 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- functional-consultant
 products:
 - power-platform
 exams:
 - uid: exam.pl-200
 summary: |-
-  Power Platform consente alle organizzazioni di automatizzare i processi aziendali, sviluppare le proprie app e connettersi meglio e più velocemente con i clienti. In questo corso, gli studenti impareranno ad eseguire processi di Individuazione, acquisire requisiti, coinvolgere esperti e parti interessate, tradurre requisiti e configurare soluzioni e app Power Platform. Integreranno le loro conoscenze con esperienze di laboratorio pratiche atte a produrre miglioramenti per le app, esperienze utente personalizzate, integrazioni di sistema, conversione di dati, automazioni personalizzate dei processi e visualizzazioni personalizzate. Power Platform comprende quattro prodotti chiave&#58; Power Apps, Power Automate, Power BI e Power Virtual Agents. In questo corso affronteremo queste quattro applicazioni in modo approfondito, con ulteriore attenzione su Microsoft Dataverse (precedentemente Common Data Service), AI Builder, connettori e portali.
+  Microsoft Power Platform permette alle aziende di automatizzare i processi aziendali, sviluppare le proprie ricche esperienze app, e connettersi con i clienti in modo più veloce e complessivamente migliore. In questo corso, gli studenti impareranno a eseguire ricerche, raccolta di requisiti, coinvolgimento di esperti in materia e  parti interessate, traduzione dei requisiti e configurazione di soluzioni e applicazioni Microsoft Power Platform. Approfondiranno le proprie competenze con lab pratici per creare dei miglioramenti delle app, personalizzare l'esperienza utente, integrazioni di sistema, conversioni dati, personalizzare il processo di automazione e personalizzare le viste. Microsoft Power Platform comprende quattro prodotti chiave: Power Apps, Power Automate, Power BI, e Power Virtual Agents. In questo corso, copriremo queste quattro applicazioni in maniera dettagliata, con un focus aggiuntivo su Microsoft Dataverse, AI Builder, connettori e portali.
 
-  #### Profilo dei destinatari
-  Un Power Platform Functional Consultant è responsabile dell'esecuzione del processo di Individuazione, dell'acquisizione dei requisiti, del coinvolgimento di esperti e parti interessate, della traduzione dei requisiti e della configurazione delle soluzioni e delle app Power Platform. Il Functional Consultant implementa componenti di una soluzione che includono miglioramenti dell'applicazione, esperienze utente personalizzate, integrazioni di sistema, conversioni di dati, automazione personalizzate dei processi e visualizzazioni personalizzate.
+  #### Profilo dell'Utenza
+
+  Un Microsoft Power Platform Functional Consultant è responsabile della creazione e configurazione di app, automazioni e soluzioni. Agisce come intermediario tra gli utenti e il team di implementazione. Il functional consultant promuove l'uso di una soluzione in un contesto aziendale. Potrebbe eseguire ricerche, coinvolgere esperti in materia e parti interessate, raccolta di requisiti, e mappare i requisiti per le funzionalità. Implementa le componenti di una soluzione, compresi il miglioramento dell'app, la personalizzazione dell'esperienza utente, l'integrazione di sistemi, la conversione dati, la personalizzazione del processo di automazione, e semplici viste.
 prerequisitesSection: |-
-  - Esperienza come professionista IT o studente
-  - Conoscenza operativa di Power Platform e dei suoi componenti chiave
-  - Conoscenza di Microsoft Dataverse (o modellazione generale dei dati) oltre che dei concetti di security
+  *  Esperienza come professionista o studente IT
+  *  Competenza pratica con Microsoft Power Platform e le sue componenti chiave
+  *  Conoscenza di&nbsp;Microsoft&nbsp;Dataverse (o generale modellazione dati)&nbsp;e concetti di sicurezza
 outlineSection: |-
-  ### Modulo 1&#58; Introduzione a Power Platformr
-  Questo modulo fornirà allo studente informazioni di base su Power Platform e sui suoi 4 componenti chiave&#58; Power Apps, Power Automate, Power BI e Power Virtual Agents.
+  ## Modulo 1: Introduzione a Microsoft Power Platform
+  Questo modulo fornirà agli studenti un background su Microsoft Power Platform e le sue 4 componenti chiave: Power Apps, Power Automate, Power BI, e Power Virtual Agents.
+
   #### Lezioni
-  - Panoramica di Power Platform
-  
-  #### Laboratorio &#58; Valida il Lab Environment
-  
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Identificare i componenti chiave della Power Platform
-  - Descrivere il ruolo di un consulente funzionale
-  
-  
-  ### Modulo 2&#58; Il ruolo del Consulente Funzionale
-  In questo modulo, gli studenti impareranno di più sul ruolo del consulente funzionale e sulle competenze necessarie per implementare con successo una soluzione Power Platform per conto di un'organizzazione.
-  
+  - Panoramica su Microsoft Power Platform 
+
+  #### Lab : Convalidare l'ambiente lab
+
+  ####
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
+  - Identificare le componenti chiave di Microsoft Power Platform
+  - Illustrare il ruolo di un functional consultant
+
+
+  ### Modulo 2: Il ruolo di Functional Consultant
+  In questo modulo gli studenti impareranno di più sul ruolo di functional consultant e sulle competenze necessarie per implementare con successo una soluzione Microsoft Power Platform per un'azienda.
+
   #### Lezioni
   - Panoramica delle competenze del consulente
   - Creazione e convalida della documentazione
@@ -60,8 +64,7 @@ outlineSection: |-
   - Coinvolgere le parti interessate con l'uso di demo
   - Creare diagrammi di relazione fra tabelle (entità)
   - Progettare integrazioni
-  - Interagire con i team di consulenza e organizzazione del cliente
-  
+  - Interagire con i team di consulenza e organizzazione del cliente  
   
   ### Modulo 3&#58; Lavorare con Dataverse
   In questo modulo, gli studenti impareranno a creare un modello di dati in Microsoft Dataverse, con importazione di dati, opzioni di report tabulari e configurazione della sicurezza. Impareranno anche a creare un'AI facile con AI Builder.
@@ -74,18 +77,18 @@ outlineSection: |-
   - Utilizza le opzioni di reportistica tabellare
   - Configurare le impostazioni di sicurezza
   
-  #### Laboratorio &#58; Crea un' app
+  #### Lab &#58; Crea un' app
   
-  #### Laboratorio &#58; Creazione di tabelle e colonne
+  #### Lab &#58; Creazione di tabelle e colonne
   
-  #### Laboratorio &#58; Crea relazioni
+  #### Lab &#58; Crea relazioni
   
-  #### Laboratorio &#58; Opzioni aggiuntive per la tabella
+  #### Lab &#58; Opzioni aggiuntive per la tabella
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Comprendere tabelle, colonne, righe e relazioni fra di esse
   - Configurare un modello di dati su Dataverse
-  - Lavorare in un ambiente all'interno dell'interfaccia di amministrazione di Power Platform
+  - Lavorare in un ambiente nel contesto di un centro di amministrazione Microsoft Power Platform 
   
   
   ### Modulo 4&#58; Crea Power App
@@ -95,19 +98,19 @@ outlineSection: |-
   - Crea app canvas
   - Crea app portale portale
   
-  #### Laboratorio &#58; App designer
+  #### Lab &#58; App designer
   
-  #### Laboratorio &#58; Modifica moduli
+  #### Lab &#58; Modifica moduli
   
-  #### Laboratorio &#58; Modifica visualizzazioni
+  #### Lab &#58; Modifica visualizzazioni
   
-  #### Laboratorio &#58; Crea dashboard
+  #### Lab &#58; Crea dashboard
   
-  #### Laboratorio &#58; Fondamenti per l'app Canvas
+  #### Lab &#58; Fondamenti per l'app Canvas
   
-  #### Laboratorio &#58; Lavora con dati e servizi
+  #### Lab &#58; Lavora con dati e servizi
   
-  #### Laboratorio &#58; User experience
+  #### Lab &#58; User experience
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Connessione ai dati su Power Apps
@@ -122,21 +125,21 @@ outlineSection: |-
   - Costruisci flussi di processi aziendali
   - Crea flussi dell'interfaccia utente
   
-  #### Laboratorio &#58; Crea Utenti
+  #### Lab &#58; Crea Utenti
   
-  #### Laboratorio &#58; Crea un ruolo di sicurezza
+  #### Lab &#58; Crea un ruolo di sicurezza
   
-  #### Laboratorio &#58; Configura una nuova regola aziendale
+  #### Lab &#58; Configura una nuova regola aziendale
   
-  #### Laboratorio &#58; Regole aziendali avanzate
+  #### Lab &#58; Regole aziendali avanzate
   
-  #### Laboratorio &#58; Crea un flusso
+  #### Lab &#58; Crea un flusso
   
-  #### Laboratorio &#58; Crea un flusso di approvazione
+  #### Lab &#58; Crea un flusso di approvazione
   
-  #### Laboratorio &#58; Crea un flusso per un processo aziendale
+  #### Lab &#58; Crea un flusso per un processo aziendale
   
-  #### Laboratorio &#58; Implementa le ramificazioni in un flusso per processi aziendali
+  #### Lab &#58; Implementa le ramificazioni in un flusso per processi aziendali
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Creazione di flussi
@@ -153,7 +156,7 @@ outlineSection: |-
   - Configura entità
   - Testa e pubblica i chatbot
   
-  #### Laboratorio &#58; Crea un chatbot
+  #### Lab &#58; Crea un chatbot
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Creare un chatbot
@@ -170,17 +173,17 @@ outlineSection: |-
   - Crea dashboard
   - Pubblica e condividi con Power BI
   
-  #### Laboratorio &#58; Crea un template Word
+  #### Lab &#58; Crea un template Word
   
-  #### Laboratorio &#58; Crea un template Excel
+  #### Lab &#58; Crea un template Excel
   
-  #### Laboratorio &#58; Individuazione duplicati
+  #### Lab &#58; Individuazione duplicati
   
-  #### Laboratorio &#58; Importazione dati
+  #### Lab &#58; Importazione dati
   
-  #### Laboratorio &#58; Esportazione dati
+  #### Lab &#58; Esportazione dati
   
-  #### Laboratorio &#58; Cancellazione di massa
+  #### Lab &#58; Cancellazione di massa
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Creare visualizzazioni

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
 metadata:
-  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
-  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  description: 'Course MB-320T00-A:Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: course.mb-320t00
 courseNumber: 'MB-320T00-A'
 hoursToComplete: 96
@@ -19,15 +19,14 @@ levels:
 roles:
 - developer
 products:
-- dynamics
-- dynamics-finance-operations
+- dynamics-365
 exams:
 - uid: exam.mb-320
 summary: |-
   Questo corso ha sei moduli e progettato per un'esperienza di apprendimento della durata di 4 giorni. Può essere insegnato di persona e/o virtualmente. Il tuo istruttore ti fornirà l'agenda di questo corso. Il modulo 1 ti introdurrà alla configurazione necessaria per Dynamics 365 Supply Chain Management, Manufacturing. Il Modulo 2 approfondirà la gestione dei diversi tipi di processi di produzione. Il modulo 3 affronterà come implementare la pianificazione generale per la produzione. Il modulo 4 affronterà l'implementazione di diverse funzionalità di produzione. Il modulo 5 si concentrerà sul subappalto per la produzione di prodotti.
   
   #### Profilo dei destinatari
-  Un Dynamics 365 Functional Consultant è responsabile delle scoperte, dell'acquisizione dei requisiti, del coinvolgimento sia di esperti che delle parti interessate nel progetto, della traslazione dei requisit, e della configurazione delle soluzioni e delle app. Il Functional Consultant implementa soluzioni utilizzando funzionalità predefinite, estensioni senza coding e integra applicazioni e servizi.
+  Un Dynamics 365 Finance and Operations Functional Consultant è responsabile dell'esecuzione di ricerca, raccolta di requisiti, coinvolgimento di esperti in materia e parti interessate, traduzione dei requisiti e configurazione di soluzioni e applicazioni. Il Functional Consultant implementa una soluzione usando potenzialità pronte all'uso, estensibilità priva di codici e integrazioni di applicazioni e servizi.
 prerequisitesSection: |-
   - Comprensione di base della gestione delle catene di approvvigionamento e della terminologia relativa alla produzione
   - Comprensione di base delle app Dynamics 365 finance and operation
@@ -72,7 +71,7 @@ outlineSection: |-
   - Esercizio #14&#58; Configurare il consumo di percorso automatico sui lavori di configurazione (bonus)
   - Esercizio #15&#58; Utilizzare l'esecuzione della produzione (bonus)
   
-  #### Laboratorio&#58; Case study 1B Processo di Produzione
+  #### Lab&#58; Case study 1B Processo di Produzione
   - Esercizio #1&#58; Creazione di un elenco di fornitori approvati e impostare il metodo su Warning Only (Bonus)
   - Esercizio #2&#58; Creazione articoli con diversi tipi di produzione
   - Esercizio #3&#58; Creazione e attivazione di una formula utilizzando diversi tipi di prodotti
@@ -99,7 +98,7 @@ outlineSection: |-
   - Esercizio #24&#58; registra un attributo di potenza al ricevimento (bonus)
   - Esercizio #25&#58; creazione di rapporti e bilanciamento degli ordini in batch (bonus)
   
-  #### Laboratorio&#58; Case study 1C Lean Manufacturing
+  #### Lab&#58; Case study 1C Lean Manufacturing
   - Esercizio #1&#58; Creazione di flussi di valore
   - Esercizio #2&#58; Creazione di un nuovo modello di flusso produttivo
   - Esercizio #3&#58; Creare un'attività di processo
@@ -121,7 +120,7 @@ outlineSection: |-
   - Configurazione e gestione della pianificazione generale
   - Pianificazione ed esecuzione di un piano di produzione a capacità 
   
-  #### Laboratorio &#58; Case Study 2 Pianificazione Generale
+  #### Lab &#58; Case Study 2 Pianificazione Generale
   - Esercizio #14&#58; Consolidamento di un ordine pianificato e modifica di un ordine
   - Esercizio #2&#58; Creazione di un gruppo di pianificazione interaziendale e assegnazione di chiavi per l'assegnazione di articoli
   - Esercizio #3&#58; Pianificazione di un programma di produzione a partire dall'esecuzione di una pianificazione generale (Bonus)
@@ -150,7 +149,7 @@ outlineSection: |-
   - Configurazione subappalti
   - Utilizzo del subappalto
   
-  #### Laboratorio&#58; Case study 3 Subappalto
+  #### Lab&#58; Case study 3 Subappalto
   - Esercizio #1&#58; Impostazione delle funzionalità di subappalto
   
   Il completamento del modulo fornirà le capacità necessarie per&#58;

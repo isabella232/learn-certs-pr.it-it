@@ -6,8 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 23 giugno 2021. Scarica il documento delle competenze valutate qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
 
   I candidati a questo esame progettano, sviluppano, proteggono e risolvono i problemi relativi alle soluzioni Power Platform. I candidati implementano componenti della soluzione che comprendono l’aumento delle applicazioni, esperienza dell’utente personalizzata, integrazioni dei sistemi, conversioni dei dati, automazione dei processi personalizzata e visualizzazioni personalizzate.
 
@@ -24,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 23 giugno 2021. Scarica il documento delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati. 
+- Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Creare un progetto tecnico (10-15%)
 - Configurazione di Microsoft Dataverse (15-20%)
 - Creare e configurare Power Apps (15-20%)

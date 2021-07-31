@@ -1,0 +1,39 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Modern Cloud Apps'
+metadata:
+  title: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+  description: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+uid: course.40508
+courseNumber: '40508-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Alla fine di questo workshop, sarai più in grado di distribuire e configurare Azure Web Apps e servizi associati. Oltre a ciò, imparerai a configurare Web Apps per l'autentificazione con Azure AD, strumentare e collaudare l'applicazione con App Insights, e automatizzare servizi di back-end usando Azure Functions e Logic Apps.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In questo workshop, lavorerai in gruppo per implementare una soluzione end-to-end per un e-commerce basato su Azure App Services, Azure Active Directory, e Visual Studio Team Services. Ti assicurerai che la soluzione è conforme PCI, e che vengano applicate le giuste misure di sicurezza per scenari sia in sede che ad accesso pubblico. 
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per professionisti Cloud Architects e IT esperti in merito alla progettazione di infrastrutture e soluzioni in tecnologie cloud, che desiderano imparare di più su Azure e gli Azure services come descritto nella sezione "sintesi" e "Competenze acquisite". Coloro che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non Microsoft, soddisfare i prerequisiti del corso, e desiderare di praticare al contempo su Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - App moderne cloud
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Progettare una soluzione proof of concept
+  - Presentare la soluzione
+
+  ### Modulo 2&#58; Lab Pratico - App moderne cloud
+  #### Lezioni
+  - Distribuzione proof of concept
+  - Identità e sicurezza
+  - Abilitare Azure B2C per sito cliente
+  - Abilitare Telemetry con Application Insights
+  - Automatizzare i processi di backend con Azure Functions e Logic Apps"

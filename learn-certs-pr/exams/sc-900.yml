@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+
   Questo esame è rivolto a coloro che desiderano acquisire familiarità con i fondamenti della sicurezza, della compliance e della gestione delle identità (SCI) all'interno dei servizi Microsoft basati su cloud e correlati.
   
   Si tratta di un pubblico vasto che può includere funzioni aziendali, professionisti IT alla prima esperienza o esperti oppure studenti interessati alle soluzioni Microsoft per la sicurezza, la compliance e la gestione delle identità.
@@ -14,6 +16,7 @@ summary: |-
 subTitle: 'Questo esame misura la tua capacità di descrivere quanto segue: concetti di sicurezza, compliance e identità; funzionalità delle soluzioni Microsoft per la gestione delle identità e degli accessi; funzionalità delle soluzioni Microsoft per la sicurezza e funzionalità delle soluzioni Microsoft per la compliance.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
@@ -33,6 +36,7 @@ locales:
 levels:
 - beginner
 skills:
+- Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Descrivere i concetti di sicurezza, compliance e identità (5-10%)
 - Descrivere le funzionalità delle soluzioni Microsoft per la gestione delle identità e degli accessi (25-30%)
 - Descrivere le funzionalità delle soluzioni Microsoft per la sicurezza (30-35%)

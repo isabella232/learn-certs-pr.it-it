@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 2 giugno 2021. Scarica la descrizione delle competenze valutate qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 2 agosto 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati per questo esame dovrebbero avere competenze in materia di implementazione dei controlli per la sicurezza e della protezione dalle minacce, gestione dell'identificazione e dell'accesso, e protezione di dati, applicazioni e reti.
   
@@ -32,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 2 giugno 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
+- Il contenuto di questo esame sarà aggiornato il 2 agosto 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Gestire le identità e l’accesso (30-35%)
 - Implementare la protezione della piattaforma (15-20%)
 - Gestire le operazioni di sicurezza (25-30%)

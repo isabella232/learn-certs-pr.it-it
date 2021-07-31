@@ -8,11 +8,11 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Illustrare le componenti di Power Platform 
+- skill: Illustrare le componenti Microsoft Power Platform
 - skill: Illustrare Microsoft Dataverse, Connettori e costruttori AI 
 - skill: Descrivere gli scenari cross-cloud su M365, Dynamics 365, Microsoft Azure e servizi di terze parti
-- skill: Identificare i vantaggi e le capacità di Power Platform
-- skill: Identificare le funzionalità di base e i componenti Power Platform rilevanti per l'azienda
+- skill: Identificare i benefici e le potenzialità di Microsoft Power Platform
+- skill: Identificare la funzionalità di base e il valore aziendale delle componenti di Microsoft Power Platform
 - skill: Implementare soluzioni semplici con Power Apps, Power Automate, Power BI e Power Virtual Agents
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -20,33 +20,34 @@ locales:
 levels:
 - beginner
 roles:
-- developer
+- student
 products:
 - power-platform
 exams:
 - uid: exam.pl-900
 summary: |-
-  Scopri il valore aziendale e le potenzialità di Power Platform. Crea semplici Power Apps, connetti dati con Dataverse, costruisci una Power BI Dashboard, automatizza processi con Power Automate, e sviluppa un chatbot con Power Virtual Agents
+  Scopri il valore aziendale e le potenzialità del prodotto di Microsoft Power Platform. Crea semplici Power Apps, connetti dati con Dataverse, costruisci una Dashboard Power BI, automatizza processi con Power Automate, e sviluppa un chatbot con Power Virtual Agents.
 
   #### Profilo dell'audience
   I candidati a questo esame sono utenti che aspirano a migliorare la produttività automatizzando i processi aziendali, analizzando i dati per elaborare informazioni aziendali e agendo in modo più efficace creando semplici app.
 prerequisitesSection: |-
   Non sono richiesti prerequisiti per questo corso
 outlineSection: |-
-  ### Modulo 1&#58; Introduzione a Power Platform
-  Conoscere i componenti di Power Platform, i modi per connettere i dati e come le organizzazioni possono sfruttare questa tecnologia per creare soluzioni aziendali.
-  #### Lezioni
-  - Panoramica di Power Platform
-  - Riepilogo del modulo
+  ### Modulo 1: Introduzione a Microsoft Power Platform
+  Scopri le componenti di Microsoft Power Platform, i modi per connettere i dati e come le aziende possono sfruttare questa tecnologia per creare soluzioni aziendali.
 
-  Dopo aver completato questo modulo, i partecipanti saranno in grado di&#58;
-  - Identificare quando utilizzare le varie applicazioni di Power Platform per creare soluzioni aziendali
-  - Conoscere il valore dell'utilizzo di Power Platform per creare soluzioni aziendali
-  - Conoscere i componenti e le funzionalità di Power Platform
+  #### Lezioni
+  - Panoramica su Microsoft Power Platform
+  - Sintesi del Modulo
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
+  - Identificare quando usare ogni app componente di Microsoft Power Platform per creare una soluzione aziendale
+  - Imparare il valore dell'uso di Microsoft Power Platform per creare soluzioni aziendali
+  - Imparare le componenti e le funzionalità di Microsoft Power Platform
 
 
   ### Modulo 2&#58; Introduzione a Microsoft Dataverse
-  Dataverse ti consente di immergerti nelle soluzioni dati potenti e scalabili nel cloud. Scopri cosa fa funzionare Dataverse e come può lavorare con Power Platform per creare soluzioni aziendali uniche ed efficienti.
+  Dataverse ti consente di addentrarti in soluzioni con data scalabili e potenti nel cloud. Scopri cosa rende Dataverse così utile e come può lavorare con Microsoft Power Platform per creare soluzioni aziendali uniche ed efficienti.
   #### Lezioni
   - Panoramica su Microsoft Dataverse 
   - Sintesi del modulo
@@ -71,18 +72,18 @@ outlineSection: |-
   - Come creare un'app basata su modello
   - Introduzione ai portali di Power Apps
 
-  #### Laboratorio &#58; Come creare un'app con canvas, parte 1
+  #### Lab &#58; Come creare un'app con canvas, parte 1
   - Creare app di Staff con Canvas
   - Completare l'app
 
-  #### Laboratorio &#58; Come creare un'app con canvas, parte 2
+  #### Lab &#58; Come creare un'app con canvas, parte 2
   - Creare app per la sicurezza con Canvas
 
-  #### Laboratorio &#58; Come creare un'app basata su modello
+  #### Lab &#58; Come creare un'app basata su modello
   - Personalizzare visualizzazioni e moduli
   - Creare un'applicazione basata su modello
 
-  #### Laboratorio &#58; Come creare un portale Power Apps
+  #### Lab &#58; Come creare un portale Power Apps
   - Fornire un portale Power Apps
   - Creare una pagina web sul portale
   - Modificare il tema del portale
@@ -99,7 +100,7 @@ outlineSection: |-
   - Panoramica di Power Automate
   - Come realizzare una soluzione automatizzata
 
-  #### Laboratorio &#58; Power Automate
+  #### Lab &#58; Power Automate
   - Creare un flusso di notifiche delle visite
   - Creare flusso sweep di sicurezza
 
@@ -115,7 +116,7 @@ outlineSection: |-
   - Panoramica di Power BI
   - Come realizzare una semplice dashboard
 
-  #### Laboratorio &#58; Come realizzare una semplice dashboard
+  #### Lab &#58; Come realizzare una semplice dashboard
   - Creare report con Power BI
   - Creare dashboard con Power BI
 
@@ -130,7 +131,7 @@ outlineSection: |-
   - Panoramica di Power Virtual Agents
   - Come realizzare un chatbot
 
-  #### Laboratorio &#58; Come realizzare un chatbot di base
+  #### Lab &#58; Come realizzare un chatbot di base
   - Registrarsi a PVA e creare un nuovo bot
   - Creare Argomento
   - Testare Argomento

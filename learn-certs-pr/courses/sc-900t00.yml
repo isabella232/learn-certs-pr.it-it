@@ -18,10 +18,9 @@ locales:
 levels:
 - beginner
 roles:
-- business-user
 - student
 products:
-- m365
+- azure
 exams:
 - uid: exam.sc-900
 summary: |-
@@ -36,33 +35,43 @@ prerequisitesSection: |-
   - Comprensione generale di Microsoft Azure e Microsoft 365.
 outlineSection: |-
   ### Modulo 1&#58; Illustrare i concetti base di sicurezza, conformità e identificazione.
-  Impara i concetti, i principi e le metodologie centrali che sono la base per soluzioni di sicurezza, conformità e identificazione, tra cui Zero-Trust, responsabilità condivisa, i nostri principi di privacy principles, e altro ancora.
+  Scopri i concetti e le metodologie chiave che sono la base per le soluzioni in merito a sicurezza, conformità ed identificazione, tra cui Zero-Trust, responsabilità condivisa, il ruolo dei fornitori di identificazione e altro ancora.
+
   #### Lezioni
-  - Illustrare i concetti e le metodologie in materia di sicurezza.
-  - Illustrare i principi di sicurezza e conformità di Microsoft.
-  
-  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Illustrare i concetti e le metodologie in materia di sicurezza.
-  - Esplorare il Service Trust Portal.
-  - Sapere dovre trovare ed esaminare la documentazione di conformità in Azure.
+
+  *   Illustrare i concetti e le metodologie di sicurezza e conformità
+
+  *   Illustrare i concetti di identificazione
+
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
+
+  *   Illustrare i concetti e le metodologie di sicurezza e conformità
+
+  *   Illustrare i concetti di identificazione
   
   
   ### Modulo 2&#58; Illustrare i concetti e le potenzialità delle soluzioni di accesso e identificazione di Microsoft 
   Scopri i servizi e i principi di identificazione di Azure AD, come rendere sicura l'autentificazione, quali sono le potenzialità di gestione dell'accesso, e anche la gestione e la protezione dell'identificazione.
   #### Lezioni
-  - Illustrare i concetti di identificazione
   - Illustrare i servizi di base e i tipi di identificazione di Azure AD
   - Illustrare le potenzialità di autentificazione di Azure AD
   - Illustrare le potenzialità di gestione dell'accesso di Azure AD
   - Illustrare le potenzialità di gestione e protezione dell'identificazione di Azure AD
+
+  #### Lab : Esplorare Azure Active Directory
+
+  #### Lab : Esplorare l'Autentificazione Azure AD con reset della password autonomo
+
+  #### Lab : Esplorare la gestione dell'accesso su Azure AD con Accesso Condizionato
+
+  #### Lab : Esplorare la gestione dell'identificazione su Azure AD con Gestione delle Identità con Privilegi
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
-  - Illustrare i concetti di identificazione
   - Illustrare i servizi di base e i tipi di identificazione di Azure AD
   - Illustrare le potenzialità di autentificazione di Azure AD
   - Illustrare le potenzialità di gestione dell'accesso di Azure AD
   - Illustrare le potenzialità di gestione e protezione dell'identificazione di Azure AD
-  
   
   ### Modulo 3&#58; Illustrare le potenzialità delle soluzioni di sicurezza Microsoft 
   Scopri le potenzialità di sicurezza di Microsoft. Gli argomenti trattati comprendono le potenzialità di rete e piattaforma di Azure, Azure security management, e Sentinel. Esplorerai la protezione dalle minacce con Microsoft 365 Defender e Microsoft 365 security management, e scoprirai la protezione degli endpoint con Intune.
@@ -73,7 +82,16 @@ outlineSection: |-
   - Illustrare le potenzialità di protezione dalle minacce di Microsoft 365
   - Illustrare le potenzialità di gestione della sicurezza di Microsoft 365
   - Illustrare la sicurezza degli endpoint con Microsoft Intune
-  - Sintesi del modulo
+  
+  #### Lab : Esplorare Microsoft Cloud App Security
+
+  #### Lab : Esplorare  Azure Sentinel
+
+  #### Lab : Esplorare  Azure Security Center
+
+  #### Lab : Esplorare Azure Network Security Groups (NSGs)
+
+  #### Lab : Esplorare il portale Microsoft 365 Defender
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Illustrare le potenzialità di sicurezza di base su Azure
@@ -90,14 +108,24 @@ outlineSection: |-
   - Illustrare le potenzialità di gestione della conformità su Microsoft
   - Illustrare le potenzialità di gestione e protezione informazioni di Microsoft 365
   - Illustrare le potenzialità di rischio interno su Microsoft 365
-  - Illustrare le potenzialità di eDiscovery su Microsoft 365
-  - Illustrare le potenzialità di revisione di Microsoft 365
-  - Illustrare le potenzialità di gestione risorse su Azure
+  - Illustrare eDiscovery e le potenzialità di revisione di Microsoft 365
+  - Illustrare le potenzialità di gestione delle risorse su Azure
+
+  #### Lab : Esplorare la Politica Azure
+
+  #### Lab : Esplorare la Gestione del Rischio Interno su Microsoft 365
+
+  #### Lab : Esplorare il Service Trust Portal
+
+  #### Lab : Esplorare il centro di conformità Microsoft 365 &amp; Gestore della Conformità 
+
+  #### Lab : Esplorare le etichette sensibili su Microsoft 365
+
+  #### Lab : Esplorare la Gestione del Rischio Interno su Microsoft 365
   
   Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
   - Illustrare le potenzialità di gestione della conformità su Microsoft
   - Illustrare le potenzialità di gestione e protezione informazioni di Microsoft 365
   - Illustrare le potenzialità di rischio interno su Microsoft 365
-  - Illustrare le potenzialità di eDiscovery su Microsoft 365
-  - Illustrare le potenzialità di revisione di Microsoft 365
+  - Illustrare eDiscovery e le potenzialità di revisione di Microsoft 365.
   - Illustrare le potenzialità di gestione risorse su Azure

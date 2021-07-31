@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+metadata:
+  title: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+  description: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+uid: course.40513
+courseNumber: '40513-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Alla fine di questo workshop, sarai più in grado di progettare e usare set di disponibilità, Dischi Gestiti, SQL Server Sempre su Gruppi di Disponibilità, e anche progettare principi quando fornisci archiviazione a VMs. Oltre a ciò, imparerai l'uso effettivo di Azure Backup per fornire un recovery point-in-time.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In questo workshop, vedrai come una distribuzione IaaS esistente possa essere riprogettata e aggiornata per rendere conto di resilienza e per una generale disponibilità elevata. Tramite la sessione di whiteboard design e il laboratorio pratico, scoprirai le diverse opzioni di configurazione e i servizi che aiutano a costruire architetture resilienti.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per professionisti Cloud Architects e IT esperti in merito alla progettazione di infrastrutture e soluzioni in tecnologie cloud, che desiderano imparare di più su Azure e gli Azure services come descritto nella sezione "sintesi" e "Competenze acquisite". Coloro che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non Microsoft, soddisfare i prerequisiti del corso, e desiderare di praticare al contempo su Azure.
+prerequisitesSection: |-
+  Il contenuto del workshop presume un'esperienza architettonica di livello 300 in merito a infrastrutture e progettazione soluzioni. Suggeriamo agli studenti di soddisfare questo requisito prima di frequentare questo workshop.
+  - Corso Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Modulo 1&#58; Sessione Whiteboard - Costruire un'Architettura IaaS Resiliente
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Call to action&#58; Progettare una soluzione proof of concept
+  - Call to action&#58; Presentare la soluzione
+
+  ### Modulo 2&#58; Lab Pratico - Costruire un'Architettura IaaS Resiliente
+  #### Lezioni
+  - Preparare la connettività tra regioni
+  - Costruire i DCs per la resilienza
+  - Costruire parti web e SQL per la resilienza
+  - Configurare Backup Gestito dal Server SQL 
+  - Convalidare la resilienza

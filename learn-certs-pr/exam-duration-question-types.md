@@ -20,11 +20,10 @@ Il tempo per l'esame varia in base al tipo di esame da sostenere.
 
 |         | Durata esame*           | Durata seduta*  |
 | ------------- |:-------------:| -----:|
-| Fundamentals esami| 60 minuti | 80 minuti |
-| Associate and expert role-based exams senza lab** | 130 minuti | 150 minuti |
-| Associate and expert role-based exams con lab | 150 minuti | 170 minuti |
+| Fundamentals esami| 45 minuti | 65 minuti |
+| Esami associati ed esperti basati sul ruolo che potrebbero prevedere lab** | 100 minuti | 120 minuti |
+| Esami associati ed esperti basati sul ruolo che potrebbero prevedere lab** | 130 minuti | 150 minuti |
 | Microsoft Technology Associate (MTA) esami forniti tramite canali accademici | 45 minuti | 50 minuti |
-| MTA esami forniti tramite canali commerciali | 45 minuti | 80 minuti |
 | Microsoft Office Specialist (MOS) esami| 50 minuti | 60 minuti |
 
 *La durata degli esami si riferisce alla mole di tempo a tua disposizione per completare l'esame. Il tempo di seduta si riferisce alla mole di tempo destinata all'esame. Include il tempo necessario per rivedere le istruzioni, leggere e accettare un NDA, completare le domande d'esame, e fornire un commento dopo il suo termine (se scegli di farlo).
