@@ -49,7 +49,7 @@ paths:
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 relatedCertifications:
 - related:
-  uid: none
+    uid: none
 resources:
 - title: Viaggio verso la certificazione
   description: Analizzare i passaggi per ottenere la certificazione come Azure AI Engineer Associate e le risorse disponibili per aiutarti nella preparazione.
