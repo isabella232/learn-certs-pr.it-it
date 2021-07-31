@@ -36,7 +36,7 @@ Gli esami Microsoft Certification sono pensati per assicurarsi che i candidati c
 ## Processo di obiezione agli elementi d'esame:
 
 1. Controlla i nostri criteri per accettare e non accettare un'obiezione all'esame.
-2. Compila e invia il [modulo di obiezione degli elementi dell'esame.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)
+2. Compila e invia il [modulo di obiezione degli elementi dell'esame.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u)
 3. Il team Microsoft Certification rivedrà la tua richiesta in merito alla sua completezza. Se incompleta, ti sarà richiesto di fornire più informazioni. Se completa, il team Microsoft Certification passerà alla revisione. Una revisione richiede circa due settimane.
 4. Una volta completata la revisione, sarai informato del risultato.
 

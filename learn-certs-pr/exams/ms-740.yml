@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: 'Troubleshooting Microsoft Teams (beta)'
+metadata:
+  title: 'Exam MS-740: Troubleshooting Microsoft Teams (beta)'
+  description: 'Exam MS-740: Troubleshooting Microsoft Teams (beta)'
+uid: exam.ms-740
+displayName: MS-740
+summary: |-
+  I candidati per questo esame sono ingegneri di supporto responsabili del supporto di ambienti Microsoft Teams, risoluzione di problemi di distribuzione, affinamento delle prestazioni, raccolta e analisi di telemetria e dati di registro, e gestione di ambienti Teams.
+  
+  I candidati dovrebbero avere un contatto significativo con comunicazioni unificate ed esperienza pratica con Microsoft Teams. Oltre a ciò, i candidati dovrebbero avere una conoscenza di rete delle basi di Azure, telefonia, PowerShell, tecnologie di archiviazioni dati, APIs, sicurezza app, autentificazione e autorizzazione, sicurezza, e informazioni di conformità, debugging, affinamento delle prestazioni e monitoraggio.
+  
+  <div><br/><br/><font color='red'><strong>Nota: Il Percorso di Apprendimento per questo esame sarà disponibile il 30 giugno 2021 e l'esame sarà disponibile l'8 luglio 2021.</strong></font></div>
+subTitle: "Questo esame sarà disponibile l'8 luglio 2021. Questo esame valuta la tua abilità nel risolvere i problemi relativi ai seguenti compiti tecnici: problemi vocali su Microsoft Teams; riunioni e eventi live su Microsoft Teams; problemi di federazione; accesso a Microsoft Teams; team e canali; e file."
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4O2rS
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Risolvere problemi vocali su Microsoft Teams (15-20%)
+- Risolvere problemi con riunioni ed eventi live Microsoft Teams (20-25%)
+- Risolvere problemi di federazione (10-15%)
+- Risolvere problemi di accesso a Microsoft Teams (15-20%)
+- Risolvere problemi di team e canali (10-15%)
+- Risolvere problemi con file (15-20%)
+roles:
+- administrator
+products:
+- office-teams
+- office-onedrive
+- office-365
+- ms-graph
+- azure-active-directory
+paths:
+- uid: learn.wwl.troubleshoot-microsoft-365-teams
+relatedCertifications:
+- related:
+    uid: certification.m365-teams-support-engineer-associate
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://aka.ms/TrainingCertDeck
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le probabilità di successo.
+  href: ../deals.md
+- title: Assistenza per gli esami di certificazione
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere un alloggio per il tuo esame.
+  href: ../request-accommodations.md
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi i criteri dell’esame e le domande frequenti.
+  href: ../certification-exam-policies.md

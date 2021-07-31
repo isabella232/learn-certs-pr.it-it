@@ -6,14 +6,11 @@ metadata:
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>QUESTA CERTIFICAZIONE VERRA' RITIRATA IL 30 GIUGNO 2021. Dopo tale data non potrai più conseguire questa certificazione. Tutte le certificazioni conseguite prima delle date del loro ritiro, continueranno a essere visibili sul tuo transcript nel <a href='https://aka.ms/certdashboard'>Pannello delle Certificazioni</a>.</strong></font><br/><br/></div>
-  
-  I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
-  
-  <div><br/><strong>NOTA&#58; il conseguimento delle due seguenti certificazioni è prerequisito per questa certificazione. Questo prerequisito non è elencato di seguito a causa delle limitazioni tecniche del sito.</strong><ul>
-  <li><a href="/learn/certifications/power-platform-functional-consultant-associate"> Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
-  <li><a href="/learn/certifications/power-platform-developer-associate"> Microsoft Certified&#58; Power Platform Developer Associate</a></li>
-  </ul></div>
+  <div>
+  <div><font color="red"><strong>Questa certificazione è stata rimossa. Per le opzioni attualmente disponibili, fai riferimento a <a href="/learn/certifications/browse/">Sfoglia Certificazioni e pagina Esami</a>. Ogni certificazione acquisita prima del suo ritiro continuerà ad apparire sul tuo libretto sulla <a href="https://aka.ms/certdashboard">Dashboard Certificazioni.</a></strong></font><br/><br/></div>
+  </div>
+
+  Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrare nel campo della tecnologia. Le certificazioni MTA riguardano un'ampia gamma di concetti tecnici fondamentali, valutano e convalidano le conoscenze tecniche di base e migliorano la credibilità tecnica. Nota&#58; Gli esami MTA non sono validi per la certificazione MCP e non sono un prerequisito per la certificazione MCSA o MCSD.
 subTitle: I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
 levels:
 - advanced

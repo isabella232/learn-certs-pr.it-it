@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Data Analysis Fundamentals using Excel
+metadata:
+  title: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+  description: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+uid: course.10994
+courseNumber: '10994-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Creare un report Excel 
+- skill: Creare una tabella Excel 
+- skill: Creare Pivot table e Pivot chart
+- skill: Creare una dashboard e analizzare dati
+- skill: Creare Gerarchie
+- skill: Creare un modello di dati Excel e connetterlo a dati esterni
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  Lo scopo principale di questo corso è fornire agli studenti le capacità per aggiungere la possibilità di analisi ai fogli di lavoro Excel e anche le basi per imparare di più sull'analisi più avanzata di dati con Excel o Power BI.
+
+  #### Profilo d'Utenza
+  Questo corso è pensato per tutti coloro che intendono portare le tecnologie di analisi dati su Excel al di là delle formule e desiderano aggiungere opzioni più avanzate come dashboard, gerarchie e relazioni.
+prerequisitesSection: |-
+  Prima di frequentare questo corso, gli studenti devono essere in possesso di&#58;
+  - Conoscenza di base del sistema operativo Microsoft Windows e delle sue funzionalità centrali.
+  - Conoscenza pratica avanzata dei fogli di lavoro Excel, formule comprese.
+outlineSection: |-
+  ### Modulo 1&#58; Report su Excel
+  Questo modulo spiega come creare un report su Excel
+  #### Lezioni
+  - Filtrare e Formattare Dati
+  - Grafici
+
+  #### Lab &#58; Creare un report Excel
+  - Filtrare Dati su Excel
+  - Formattare Dati su Excel 
+  - Creare Grafici su Excel
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Filtrare e formattare dati.
+  - Creare grafici.
+
+  ### Modulo 2&#58; Tabelle Excel 
+  Questo modulo spiega come creare tabelle di dati su Excel
+  #### Lezioni
+  - Tabelle di Dati su Excel 
+  - Sintetizzare i Dati
+
+  #### Lab &#58; Creare una Tabella su Excel
+  - Creare una Tabella su Excel 
+  - Sintetizzare Dati su Excel 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare cosa sono le tabelle Dati su Excel.
+  - Ordinare, filtrare e convalidare dati.
+  - Sintetizzare dati.
+  - Formattare i dati sintetizzati.
+
+  ### Modulo 3&#58; Pivot Tables e Pivot Charts
+  Questo modulo spiega pivot tables e pivot charts e come lavorare con loro.
+  #### Lezioni
+  - Pivot Tables
+  - Pivot Charts
+  - Modificare Pivot Tables e Pivot Charts
+
+  #### Lab &#58; Importare Dati da un File CSV 
+  - Creare una Pivot Table
+  - Creare un Pivot Chart
+  - Modificare Pivot Tables a Pivot Charts
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare le Pivot tables e come crearle.
+  - Illustrare i diversi elementi di un Pivot chart.
+  - Modificare Pivot tables e Pivot charts.
+
+  ### Modulo 4&#58; Dashboards
+  Questo modulo spiega le dashboard Excel, come crearle e il ruolo dell'analisi dati in nelle Excel pivot tables.
+  #### Lezioni
+  - Creare una Dashboard
+  - Analisi Dati nelle Excel Pivot Tables
+
+  #### Lab &#58; Creare una Dashboard
+  - Organizzare Tabelle e Grafici 
+  - Tagliare Dati
+  - Analisi Dati
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere una dashboard.
+  - Filtrare i dati usando uno slicer.
+  - Aggiungere colonne di calcolo a una dashboard.
+  - Trovare anomalie.
+
+  ### Modulo 5&#58; Gerarchie
+  Questo modulo spiega le gerarchie e i dati temporali.
+  #### Lezioni
+  - Gerarchie
+  - Dati Temporali
+
+  #### Lab &#58; Creare Gerarchie
+  - Creare una Gerarchia
+  - Configurare Dati Temporali
+  - Creare un Grafico Temporale Animato
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Descrivere le gerarchie.
+  - Creare livelli all'interno di una gerarchia.
+  - Spiegare perché i dati temporali siano diversi e come lavorare con essi.
+
+  ### Modulo 6&#58; Il Modello Dati di Excel 
+  Questo modulo esplora il modello dati di Excel e i modi per estenderlo.
+  #### Lezioni
+  - Usare un Modello Dati su Excel
+  - Dati Esterni
+
+  #### Lab &#58; Esplorare un Modello Dati su Excel 
+  - Aggiungere Tabelle Multiple
+  - Creare Relazioni
+  - Aggiungere Dati Esterni
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare un Modello Dati Excel e come usarlo.
+  - Importare Dati Esterni ed usarli.
+  - Collegare dati esterni.

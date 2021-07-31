@@ -7,8 +7,7 @@ uid: exam.mb-901
 displayName: MB-901
 summary: |-
   <div>
-  <div><strong> QUESTO ESAME VERRÀ RITIRATO IL 30 GIUGNO 2021. Sono disponibili due esami sostitutivi, MB-910 e MB-920. Per ulteriori informazioni, visita  le pagine dei dettagli d'esame per <a href="/learn/certifications/exams/mb-910">MB-910</a> e <a href="/learn/certifications/exams/mb-920">MB- 920</a>. Nota&#58; L'esame verrà ritirato alle 11:59 PM, CST.</strong><br/><br/></div>
-  <div><strong>Il contenuto di questo esame è stato aggiornato il venerdì 10 luglio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
+  <div><font color="red"><strong>QUESTO ESAME È STATO RIMOSSO IL 30 GIUGNO 2021. Due esami di sostituzione, MB-910 e MB-920, sono ora disponibili. Per più informazioni visita <a href="/learn/certifications/exams/mb-910">MB-910</a> e <a href="/learn/certifications/exams/mb-920">MB-920</a> pagine di dettagli d'esame.</strong></font><br/><br/></div>
   </div>
 
   Questo esame riguarderà il posizionamento e i vantaggi dell'adozione di Dynamics 365.
@@ -18,8 +17,6 @@ summary: |-
   I candidati idonei a questo esame devono avere una conoscenza generale o un’esperienza di lavoro rilevante in un ambiente IT. Devono inoltre avere una conoscenza di base degli scenari di business ed esperienza nel soddisfare i requisiti aziendali, legali e di sicurezza dei progetti IT.
 
   Superando questo esame di certificazione potresti essere idoneo per il credito universitario ACE. Consulta [Crediti universitari ACE per gli esami di certificazione](/learn/certifications/ace-credit-for-certification-exams) per maggiori informazioni.
-
-  <div><strong><br/>Poiché questo esame verrà ritirato il 30 giugno 2021, Microsoft non aggiornerà i riferimenti da "Common Data Service" a "Microsoft Dataverse."</strong></div>
 subTitle: Questo esame misura la capacità di comprendere Microsoft Dynamics 365, l'intelligenza artificiale, la realtà mista, la Power Platform, i concetti di cloud, la sicurezza del cloud, la sicurezza basata sul ruolo in Dynamics 365, il Common Data Service, il framework di gestione dei dati, la reportistica di Dynamics 365, le integrazioni di Dynamics 365 e l'implementazione del cloud.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -31,15 +28,9 @@ locales:
 - fr
 - ko
 - ja
-providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
-- Il contenuto di questo esame è stato aggiornato il venerdì 10 luglio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Identificare i componenti della piattaforma Microsoft per Dynamics 365 (30-35%)
 - Descrivere l'intelligenza artificiale e la realtà mista in Dynamics 365 (10-15%)
 - Descrivere le app basate sul modello (25-30%)

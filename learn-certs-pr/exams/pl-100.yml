@@ -5,8 +5,17 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker'
 uid: exam.pl-100
 displayName: PL-100
-summary: "L'App Maker crea soluzioni per semplificare, automatizzare e trasformare attività e processi per sé stesso e il suo team dove ha una profonda esperienza nel campo della soluzione. Sono specializzati in attività chiave di analista tecnico-commerciale come la modellazione dei dati, la progettazione di base delle UX, l'analisi dei requisiti, l'analisi dei processi, ecc.<br/><br/>\n\nL'App Maker crea e applica processi aziendali, struttura la raccolta digitale di informazioni, migliora l'efficienza delle attività ripetibili e automatizza i processi aziendali. \n\nL'App Maker utilizza gli strumenti di creazione di Power Platform per risolvere i problemi aziendali. Potrebbe avere esperienza con Visual Basic for Applications, tabelle pivot di Excel, team e altri strumenti. Dovrebbe avere una conoscenza di base dei modelli di dati, dell'interfaccia utente e dei processi. L'App Maker è a conoscenza delle capacità e dei limiti degli strumenti disponibili e sa come applicarli.\n\nL'App Maker è autonomo ed è focalizzato sulla soluzione. Potrebbe non avere una preparazione IT formale ma è a suo agio nell'usare la tecnologia per risolvere i problemi aziendali con una mentalità di crescita personale. Conosce le necessità operative e ha una visione del risultato desiderato. Affronta i problemi con strategie graduali e iterative."
-subTitle: 'Questo esame misura la tua capacità nello svolgere le seguenti attività tecniche: progettazione di soluzioni, creazione di soluzioni, analisi di dati e implementazione e gestione di soluzioni.'
+summary: |-
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+
+  L'App Maker crea soluzioni per semplificare, automatizzare e trasformare attività e processi per sé stesso e il suo team dove ha una profonda esperienza nel campo della soluzione. Sono specializzati in attività chiave di analista tecnico-commerciale come la modellazione dei dati, la progettazione di base delle UX, l'analisi dei requisiti, l'analisi dei processi, ecc.<br/><br/>
+  
+  L'App Maker crea e applica processi aziendali, struttura la raccolta digitale di informazioni, migliora l'efficienza delle attività ripetibili e automatizza i processi aziendali. 
+  
+  L'App Maker utilizza gli strumenti di creazione di Power Platform per risolvere i problemi aziendali. Potrebbe avere esperienza con Visual Basic for Applications, tabelle pivot di Excel, team e altri strumenti. Dovrebbe avere una conoscenza di base dei modelli di dati, dell'interfaccia utente e dei processi. L'App Maker è a conoscenza delle capacità e dei limiti degli strumenti disponibili e sa come applicarli.
+  
+  L'App Maker è autonomo ed è focalizzato sulla soluzione. Potrebbe non avere una preparazione IT formale ma è a suo agio nell'usare la tecnologia per risolvere i problemi aziendali con una mentalità di crescita personale. Conosce le necessità operative e ha una visione del risultato desiderato. Affronta i problemi con strategie graduali e iterative.
+subTitle: "Questo esame valuta la tua capacità di espletare i seguenti compiti tecnici: Progettazione di soluzioni, Creazione di soluzioni, Analisi dati, Implementazione e gestione delle soluzioni."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -20,10 +29,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Progettare soluzioni (10-15%)
-- Creare soluzioni (55-60%)
-- Analizzare e visualizzare i dati (5-10%)
-- Implementare e gestire soluzioni (15-20%)
+- Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati. 
+- Progettazione soluzioni (10-15%)
+- Creazione soluzioni (50-55%)
+- Analisi dati (5-10%)
+- Implementazione e gestione soluzioni (15-20%)
 roles:
 - business-analyst
 - business-owner

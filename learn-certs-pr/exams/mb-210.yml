@@ -6,16 +6,14 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div>
-  <div><strong>Il contenuto di questo esame è stato aggiornato il venerdì 2 ottobre 2020. Scarica il documento relativo alle competenze misurate, qui di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati idonei a questo esame sono Dynamics 365 Functional Consultant con esperienza nella vendita. I candidati sono responsabili dell'implementazione di soluzioni che supportano un ciclo di vita delle vendite che funzioni in modo efficiente ed efficace e consenta di raggiungere gli obiettivi di fatturato, le strategie aziendali e gli obiettivi aziendali.
   
   I candidati sono responsabili della configurazione e dell'espansione delle funzionalità principali per i potenziali clienti, i contatti, gli account, le opportunità e le entità di supporto per mappare i processi di vendita in atto presso l'azienda. Identificano le opportunità di usare Power Apps per sviluppare esperienze unificate per tutti i dispositivi, automatizzare l’integrazione delle applicazioni, i flussi dei processi aziendali e altri strumenti di automazione allo scopo di creare un’applicazione che supporti e accelleri l’arrivo di contanti.
   
   I candidati devono possedere una solida conoscenza del business e preferibilmente un'esperienza in prima persona nel mondo delle vendite in uno o più ruoli di vendita.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire la configurazione, gestire le entità di vendita di base e  configurare ulteriori strumenti e servizi.'
+subTitle: 'Questo esame valuta la tua capacità di espletare i seguenti compiti tecnici: Eseguire la configurazione, Gestire le tabelle di vendita centrale, Configurare strumenti e servizi aggiuntivi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
 practiceTestUrl: https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il venerdì 2 ottobre 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Eseguire la configurazione (25-30%)
 - Gestire le principali entità di vendita (50-55%)
 - Configurare strumenti e servizi aggiuntivi (15-20%)

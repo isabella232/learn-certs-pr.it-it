@@ -55,10 +55,10 @@ Per sostenere un esame di certificazione Microsoft, il nome che appare sul tuo p
 
 ### Richieste in lingua inglese
 
-Inoltra la tua richiesta di cambio nome usando [questo modulo.](https://aka.ms/MSCertificationLegalNamechange) Ti sarà richiesto di verificare le informazioni presenti sul tuo profilo di certificazione Microsoft. Attualmente, questo modulo è disponibile soltanto in lingua inglese. Saranno necessarie 24-48 ore lavorative per il cambiamento del nome.
+Inoltra la tua richiesta di cambio usando il [Microsoft Certification Modulo di Richiesta Cambio del Nome](https://aka.ms/MSCertificationLegalNamechange). Ti sarà richiesto di verificare le informazioni presenti nel tuo profilo di certificazione Microsoft. Attualmente, questo modulo è disponibile esclusivamente in lingua Inglese. Saranno necessarie 24-48 ore affinché il nome venga cambiato.
 
 ### Altre lingue oltre l'inglese
-Consulta: [Supporto certificazione](/learn/certifications/help) per un supporto nella gestione del tuo profilo di certificazione in altre lingue che non siano l'inglese.
+Inoltra una richiesta tramite uno dei nostri forum di supporto certificazione moderati. Consulta: [Supporto certificazione](/learn/certifications/help) per ottenere aiuto nella gestione del tuo profilo di certificazione in una lingua che non sia l'Inglese.
 
 ## Per scoprire il numero di identificazione (MCID) del tuo profilo Microsoft Certification 
 

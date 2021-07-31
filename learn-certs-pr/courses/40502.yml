@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Big Data &amp; Visualization'
+metadata:
+  title: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+  description: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+uid: course.40502
+courseNumber: '40502-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Alla fine di questo workshop, sarai più in grado di costruire un modello completo di apprendimento automatico su Azure Databricks per predire se un volo in arrivo sperimenterà un ritardo. Oltre a ciò, imparerai ad archiviare il modello allenato su Azure Machine Learning Model Management, poi a distribuire su contenitori Docker per predizioni scalabili on-demand, usare Azure Data Factory (ADF) per movimenti dati e operazionalizzare punteggi ML, sintetizzare dati con Azure Databricks e Spark SQL, e visualizzare predizioni batch su una mappa usando Power BI.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  In questo workshop, distribuirai una web app che impiega l'Apprendimento Automatico (ML) per predire i ritardi di viaggio visti i dati del ritardo del volo e le condizioni meteo. Pianifica un'operazione di importazione di dati in massa, seguita dalla preparazione, come la pulizia e la manipolazioni dei dati per il test, e allena il tuo modello di Apprendimento Automatico.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per professionisti Cloud Architects e IT esperti in merito alla progettazione di infrastrutture e soluzioni in tecnologie cloud, che desiderano imparare di più su Azure e gli Azure services come descritto nella sezione "sintesi" e "Competenze acquisite". Coloro che seguono questo workshop dovrebbero anche avere esperienza in altre tecnologie cloud non Microsoft, soddisfare i prerequisiti del corso, e desiderare di praticare al contempo su Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - Big data e visualizzazione
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Progettare una soluzione proof of concept
+  - Presentare la soluzione
+
+  ### Modulo 2&#58; Lab Pratico - Big data e visualizzazione
+  #### Lezioni
+  - Costruire un Modello di Apprendimento Automatico
+  - Impostare Azure Data Factory
+  - Distribuire il tuo modello di apprendimento automatico con Azure ML
+  - Sviluppare una pipeline aziendale di dati per il loro movimento
+  - Operazionalizzare il punteggio ML con Azure Databricks e Data Factory
+  - Sintetizzare dati usando Azure Databricks
+  - Visualizzare su Power BI Desktop
+  - Distribuire web app intelligenti
