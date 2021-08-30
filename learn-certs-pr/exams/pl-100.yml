@@ -6,16 +6,12 @@ metadata:
 uid: exam.pl-100
 displayName: PL-100
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che sono stati apportati.</strong></font><br/><br/></div>
 
-  L'App Maker crea soluzioni per semplificare, automatizzare e trasformare attività e processi per sé stesso e il suo team dove ha una profonda esperienza nel campo della soluzione. Sono specializzati in attività chiave di analista tecnico-commerciale come la modellazione dei dati, la progettazione di base delle UX, l'analisi dei requisiti, l'analisi dei processi, ecc.<br/><br/>
+  Il candidato pensa e crea soluzioni per semplificare e automatizzare compiti e processi per se stesso e il proprio team. Capisce i dati con cui lavora, i problemi che deve risolvere, le operazioni necessarie e le esperienze delle app. Il candidato potrebbe non avere una formazione IT ufficiale, ma è a suo agio nell'uso della tecnologia per risolvere problemi aziendali.
   
-  L'App Maker crea e applica processi aziendali, struttura la raccolta digitale di informazioni, migliora l'efficienza delle attività ripetibili e automatizza i processi aziendali. 
-  
-  L'App Maker utilizza gli strumenti di creazione di Power Platform per risolvere i problemi aziendali. Potrebbe avere esperienza con Visual Basic for Applications, tabelle pivot di Excel, team e altri strumenti. Dovrebbe avere una conoscenza di base dei modelli di dati, dell'interfaccia utente e dei processi. L'App Maker è a conoscenza delle capacità e dei limiti degli strumenti disponibili e sa come applicarli.
-  
-  L'App Maker è autonomo ed è focalizzato sulla soluzione. Potrebbe non avere una preparazione IT formale ma è a suo agio nell'usare la tecnologia per risolvere i problemi aziendali con una mentalità di crescita personale. Conosce le necessità operative e ha una visione del risultato desiderato. Affronta i problemi con strategie graduali e iterative.
-subTitle: "Questo esame valuta la tua capacità di espletare i seguenti compiti tecnici: Progettazione di soluzioni, Creazione di soluzioni, Analisi dati, Implementazione e gestione delle soluzioni."
+  Il candidato è in grado di gestirsi autonomamente ed è orientato alla soluzione. Potrebbe connettersi e usare funzionalità di app come app e servizi Microsoft Teams, Microsoft 365 e soluzioni di terze parti. Il candidato desidera capire le potenzialità e le limitazioni degli strumenti disponibili e capisce come metterli in atto. Il candidato è un promotore delle soluzioni Power Platform.
+subTitle: "Questo esame valuta la tua capacità di espletare i seguenti compiti tecnici: progettare soluzioni aziendali; creare soluzioni; e analizzare e visualizzare dati."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,14 +22,14 @@ providers:
   examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=PL-100&provider=psi&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati. 
-- Progettazione soluzioni (10-15%)
-- Creazione soluzioni (50-55%)
-- Analisi dati (5-10%)
-- Implementazione e gestione soluzioni (15-20%)
+- Il contenuto di questo esame è stato aggiornato il 23 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Progettare soluzioni aziendali (35-40%)
+- Creare soluzioni (45-50%)
+- Analizzare e visualizzare dati (15-20%)
 roles:
 - business-analyst
 - business-owner
@@ -93,7 +89,7 @@ relatedCertifications:
 resources:
 - title: Percorso di formazione per ottenere la certificazione
   description: Risorse di formazione consigliate per la preparazione agli esami richiesti e il conseguimento della certificazione.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
 - title: Guida alla formazione e alla certificazione
   description: Consulta tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://aka.ms/TrainingCertDeck

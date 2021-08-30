@@ -6,9 +6,13 @@ metadata:
 uid: exam.dp-203
 displayName: DP-203
 summary: |-
-  Gli ingegneri che lavorano sui dati di Azure integrano, trasformano e consolidano i dati provenienti da vari sistemi di dati strutturati e non strutturati in strutture adatte per creare soluzioni di analisi.
+  I candidati per questo esame dovrebbero avere competenza in materia di integrazione, trasformazione e consolidazione dati da vari sistemi dati strutturati e non strutturati in una struttura che sia idonea alla costruzione di soluzioni analitiche.
   
-  I candidati all'esame DP-203&#58; Data Engineering on Microsoft Azure devono avere una solida conoscenza dei linguaggi di elaborazione dati, come SQL, Python o Scala, e devono comprendere i modelli di elaborazione parallela e architettura dei dati.
+  Gli Azure Data Engineers aiutano le parti interessate a capire i dati attraverso l'esplorazione e costruiscono e preservano delle pipeline di elaborazioni dati sicure e conformi usando diversi strumenti e tecniche. Questi professionisti usano diversi Azure data services e linguaggi per archiviare e produrre dataset puliti e promossi per l'analisi.
+  
+  Gli Azure Data Engineers aiutano anche a garantire che le pipeline di dati e le archiviazioni dati siano altamente efficienti, efficaci, organizzate ed affidabili, a partire da una serie di requisiti e limiti aziendali. Affrontano problemi non previsti con rapidità e minimizzano la perdita dei dati. Progettano, implementano, monitorano e ottimizzano piattaforme dati per soddisfare i bisogni delle pipeline di dati.
+  
+  Un candidato per questo esame deve avere una solida conoscenza dei linguaggi di elaborazione dati come SQL, Python, o Scala, e necessita di capire gli schemi di architettura dati e di elaborazione in parallelo.
 subTitle: "Questo esame misura la capacità di svolgere le seguenti attività tecniche: progettare e implementare l'archiviazione dei dati; progettare e sviluppare l'elaborazione dei dati; progettare e implementare la sicurezza dei dati; monitorare e ottimizzare l'archiviazione e l'elaborazione dei dati."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT

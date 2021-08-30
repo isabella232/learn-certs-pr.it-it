@@ -6,11 +6,15 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Il Developer Azure IoT implementa la configurazione ed esegue i compiti di codifica necessari per creare e provvedere alla manutenzione del cloud e delle porzioni marginali di una soluzione IoT. Oltre a configurare e salvaguardare i dispositivi usando i servizi cloud, l'IoT Developer configura anche i dispositivi fisici. l'IoT Developer è responsabile della manutenzione e della risoluzione dei problemi in merito alla configurazione dei dispositivi durante il loro intero ciclo di vita. 
+  I candidati per questa certificazione dovrebbero avere esperienza in materia di implementazione di configurazione e compiti di codifica per creare e preservare le porzioni cloud ed edge di una soluzione IoT.
   
-  L'IoT Developer implementa le specifiche progettuali per le soluzioni IoT, tra cui la topologia del dispositivo, la connettività, la diagnostica e il monitoraggio, e la sicurezza. L'IoT Developer sviluppa e implementa moduli e configura le reti dei dispositivi per la porzione IoT Edge della soluzione. L'IoT Developer implementa soluzioni progettuali per gestire le pipeline di dati, compreso il monitoraggio e la trasformazione dei dati in relazione all'IoT. L'IoT Developer lavora con Architetti Azure IoT, ingegneri dati e altre parti coinvolte per garantire un'integrazione aziendale di successo.   
+  Le responsabilità per questo ruolo includono la distribuzione di dispositivi fisici, la loro configurazione e manutenzione usando servizi cloud, e salvaguardare e risolvere problemi inerenti alla configurazione durante tutto il ciclo di vita del dispositivo.
   
-  Gli IoT Developer dovrebbero avere una comprensione generale dei tipi di dispositivo e servizi Azure, compresi opzioni di archiviazione dati, analisi dati, elaborazione dati, AI, e altre opzioni Platform-as-a-Service. Gli IoT Developer devono essere in grado di programmare in almeno uno dei linguaggi supportati da Azure IoT SDK.
+  Gli sviluppatori Azure IoT sono responsabili anche dell'implementazione di specifiche progettuali per soluzioni IoT, tra cui topologia del dispositivo, connettività, diagnostica e monitoraggio, e sicurezza. Questi professionisti sviluppano e distribuiscono moduli e configurano reti di dispositivi per la porzione Azure IoT Edge della soluzione. Oltre a ciò, implementano la progettazione di soluzioni per gestire pipeline di dati, tra cui la trasformazione di dati e il monitoraggio per quanto riguarda IoT.
+  
+  Gli sviluppatori Azure IoT lavorano con architetti, ingegneri dati, e altre parti interessate per garantire un'integrazione aziendale di successo, inclusa l'implementazione del servizio Azure Digital Twins.
+  
+  I candidati per questa certificazione dovrebbero possedere una conoscenza generale dei tipi di dispositivo e degli Azure services, tra cui opzioni di archiviazione dati, analisi dati, elaborazione dati, AI, e altre piattaforme come opzioni di servizio (PaaS). Devono essere in grado di programmare in almeno un linguaggio nel kit di sviluppo software Azure IoT supportato (supportato SDK).
 subTitle: Gli Azure IoT Developer sviluppano componenti cloud ed edge di una soluzione Azure IoT.
 levels:
 - intermediate

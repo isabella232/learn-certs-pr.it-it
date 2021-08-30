@@ -10,9 +10,12 @@ summary: |-
     
   I candidati per questo esame dovrebbero avere competenze approfondite nell'amministrazione Azure, oltre ad un'esperienza e una conoscenza estensiva di rete, connessioni ibride e sicurezza della rete.
   
-  <div><font color='red'><br/><strong>Questa certificazione sarà disponibile a metà luglio 2021.</strong></font></div>
-subTitle: 'Questo esame sarà disponibile a luglio 2021. Questo esame valuta la tua abilità nel progettare, implementare, gestire, rendere sicuri e monitorare i seguenti compiti tecnici: Reti Ibride; Nucleo delle Infrastrutture di Rete; Routing; Reti; e Accesso Privato a Servizi  Azure.'
+  <div><br/><font color='red'><strong>Gli esami beta non hanno un punteggio immediato perché stiamo raccogliendo dati sulla qualità delle domande e dell'esame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Scopri di più sul valore e l'importanza degli esami beta.</a></strong></font></div>
+subTitle: 'Questo esame valuta la tua abilità nel progettare, implementare, gestire, rendere sicuri e monitorare i seguenti compiti tecnici: Reti Ibride; Nucleo delle Infrastrutture di Rete; Routing; Reti; e Accesso Privato a Servizi  Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-700&examname=Exam%20AZ-700:%20Designing%20and%20Implementing%20Microsoft%20Azure%20Networking%20Solutions%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-700
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4PaHw
 locales:
 - en
@@ -46,6 +49,10 @@ products:
 - azure-vpn-gateway
 - azure-web-application-firewall
 - azure-virtual-network
+paths:
+- uid: learn.wwl.designing-implementing-microsoft-azure-networking-solutions-az-700
+courses:
+- uid: course.az-700t00
 relatedCertifications:
 - related:
     uid: certification.azure-network-engineer-associate

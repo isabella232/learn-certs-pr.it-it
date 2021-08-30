@@ -14,7 +14,7 @@ ms.prod: non-product-specific
 
 ## Dettagli della politica di riprogrammazione e cancellazione
 
-- <div><font color='red'>Microsoft rinuncerà temporaneamente ai costi di riprogrammazione e cancellazione fintato che cancellerai i tuoi esami entro 24 ore dall'appuntamento programmato.</font></div>
+- <div><font color='red'>Se non ti presenti al tuo appuntamento d'esame, o non riprogrammi o cancelli il tuo appuntamento con almeno 24 ore di anticipo rispetto ad esso, perderai l'intera tassa d'esame.</font></div>
 - Non sarai addebitato se riprogrammi o cancelli un appuntamento d'esame almeno sei giorni lavorativi prima dello stesso.
 - Se cancelli o riprogrammi il tuo esame entro cinque giorni lavorativi dell'orario registrato d'esame, sarà applicata una commissione.
 - Se non ci si presenta all'appuntamento dell'esame o se l'appuntamento non viene modificato né annullato almeno 24 ore prima dell'appuntamento programmato, si perde l'intera tassa dell'esame. I giorni feriali sono dal lunedì al venerdì, senza includere le vacanze.

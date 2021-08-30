@@ -19,12 +19,12 @@ Una volta rimosso un corso, non sarà più disponibile. Il corso non potrà più
 
 ## Corsi rimossi: Formazioni tenute da istruttori
 
-* Rimozione materiale didattico il 30 luglio 2021
+* Rimozione materiali didattici il 31 agosto 2021
 
-    | Numero corso | Versione | Titolo | Lingua | Data di rimozione |
+    | Numero corso | Versione | Titolo | Lingua | Data rimozione |
     | --- | --- | --- | --- | --- |
-    | DP-200T01 | A | Implementing an Azure Data Solution | Inglese | 30/7/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | Inglese | 30/7/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Inglese | 31/08/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Inglese | 31/08/2021 |
 
 * Rimozione materiali didattici il 30 giugno 2021
 
@@ -1063,7 +1063,7 @@ Una volta rimosso un corso, non sarà più disponibile. Il corso non potrà più
 
 * Corsi ritirati il lunedì 18 aprile 2016
 
-    | Numero di corso | Titolo | Lingua | Data di ritiro |
+    | Numero di corso | Versione | Titolo | Lingua | Data di ritiro |
     | --- | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | Giapponese | 18/4/2016
     | 37 | Office 2013 and Office 365 Demonstration Sessions | Spagnolo | 18/4/2016

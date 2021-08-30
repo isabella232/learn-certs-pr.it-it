@@ -7,7 +7,7 @@ uid: exam.mb-320
 displayName: MB-320
 summary: |-
   <div>
-  <div><strong>Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong></font><br/><br/></div>
   </div>
 
   I candidati a questo esame sono Functional Consultants che analizzano i requisiti aziendali e traducono tali requisiti in processi aziendali pienamente realizzati e soluzioni che implementano le migliori pratiche del settore. I candidati sono la risorsa chiave per l'implementazione e la configurazione delle applicazioni per soddisfare i requisiti aziendali.
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
+- Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
 - Configurazione di Dynamics 365 Supply Chain Management e Manufacturing (35-40%)
 - Gestione dei processi di produzione (20-25%)
 - Implementazione della pianificazione generale per la produzione (10-15%)
