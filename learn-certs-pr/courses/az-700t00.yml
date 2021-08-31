@@ -6,6 +6,12 @@ metadata:
 uid: course.az-700t00
 courseNumber: 'AZ-700T00'
 hoursToComplete: 72
+skillsGained:
+- skill: Progettare, implementare e gestire connessioni di rete ibrida
+- skill: Progettare e implementare infrastrutture di rete con nucleo Azure 
+- skill: Progettare e implementare routing e bilanciamento del carico su Azure
+- skill: Rendere sicure e monitorare reti 
+- skill: Progettare e implementare accesso privato ad Azure Services
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -16,6 +22,8 @@ roles:
 - network-engineer
 products:
 - azure
+exams:
+- uid: exam.az-700
 summary: |-
   Questo corso insegna agli Ingegneri di Rete come progettare, implementare e salvaguardare delle soluzioni di rete Azure. Questo corso copre il processo di progettazione, implementazione e gestione del cuore dell'infrastruttura di rete Azure, le connessioni di Rete Ibride, il traffico del bilanciamento del carico, il routing di rete, l'accesso privato ai servizi Azure, la sicurezza di rete e il monitoraggio. Impara come progettare e implementare un'infrastruttura di rete sicura e affidabile su Azure e come stabilire connettività ibrida, routing, accesso privato a servizi Azure, e monitoraggio su Azure.
 
@@ -52,36 +60,33 @@ prerequisitesSection: |-
   *   [AZ-104: Configurare e gestire reti virtuali per amministratori Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
 
 outlineSection: |-
-  ### Modulo 1: Reti Virtuali Azure
+  ### Modulo 1: Introduzione a Azure Virtual Networks
 
   In questo modulo imparerai come progettare e implementare delle risorse di Rete fondamentali su Azure, come reti virtuali, IPs pubblici e privati, DNS, peering di rete virtuale, routing, e Azure Virtual NAT.
 
   #### Lezioni
+  *   Esplorare Azure Virtual Networks
 
-  *   Reti Virtuali Azure 
+  *   Configurare servizi pubblici IP 
 
-  *   Servizi pubblici IP
+  *   Progettare risoluzione del nome per la tua Rete Virtuale 
 
-  *  DNS pubblici e privati
+  *   Abilitare una connettività incrociata VNet con peering
 
-  *   Connettività crociata VNet
+  *   Implementare routing del traffico della rete virtuale 
 
-  *   Routing di Rete Virtuale
-
-  *   Azure Rete virtuale NAT
+  *   Configurare accesso a internet con Azure Virtual NAT
 
 
-  #### Lab : Progettare e implementare una Rete Virtuale su Azure
-
-  ####
-
-  #### Lab : Configurare impostazioni DNS su Azure
+  #### Lab : Esercizio: progettare e implementare una Rete Virtuale su Azure
 
   ####
 
-  #### Lab : Connettere Reti Virtuali con Peering
+  #### Lab : Esercizio: configurare impostazioni DNS su Azure
 
   ####
+
+  #### Lab : Esercizio: connettere due Azure Virtual Networks usando un peering di rete virtuale globale
 
   Dopo aver completato questo modulo, gli studenti saranno in grado di:
 
@@ -103,114 +108,124 @@ outlineSection: |-
   In questo modulo imparerai come progettare e implementare soluzioni di reti virtuali come connessioni VPN Site-to-Site, connessioni VPN Point-to-Site, hub Azure Virtual WAN e WAN Virtuali.
 
   #### Lezioni
+  *   Progettare e implementare Azure VPN Gateway
 
-  *   Connessione VPN site-to-site 
+  *   Connettere reti con connessioni VPN Site-to-site 
 
-  *   Connessioni VPN point-to-Site 
+  *   Connettere dispositivi a reti con connessioni Point-to-site VPN 
 
-  *   Azure Virtuale WAN
+  *   Connettere risorse in remoto usando Azure Virtual WANs
+
+  *   Creare una virtual appliance di rete (NVA) in un hub virtuale
 
 
-  #### Lab : Creare e configurare una porta locale
+  #### Lab : Esercizio: creare una WAN Virtuale usando Azure Portal
 
   ####
 
-  *   Creare e configurare una porta di rete virtuale 
-  *   Creare una WAN virtuale usando il Portale Azure 
+  #### Lab : Esercizio: creare e configurare una porta di rete virtuale 
 
-  Progettare e implementare una connessione VPN site-to-site 
+  ####
 
-  *   Progettare e implementare una connessione VPN point-to-site 
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
 
-  *   Progettare e implementare autentificazione
+  *   Progettare e implementare una connessione VPN site-to-site 
 
-  *   Progettare e implementare Risorse WAN Virtuali Azure
+  *   Progettare e implementare una connessione VPN point-to-site
+
+  *   Progettare e implementare Risorse Azure Virtual WAN 
 
 
   ### Modulo 3: Progettare e implementare Azure ExpressRoute
 
   In questo modulo imparerai come progettare e implementare Azure ExpressRoute, ExpressRoute Global Reach, ExpressRoute FastPath e opzioni ExpressRoute Peering.
 
-  #### Lezioni
+    #### Lezioni
 
-  *   ExpressRoute
+  *   Esplorare Azure ExpressRoute
 
-  *   ExpressRoute Direct
+  *   Progettare una distribuzione ExpressRoute 
 
-  *   ExpressRoute FastPath
+  *   Configurare peering per una distribuzione ExpressRoute 
 
-  *   ExpressRoute Peering
+  *   Connettere un circuito ExpressRoute a un VNet
+
+  *   Connettere geograficamente delle reti disperse con il raggiungimento globale di  ExpressRoute 
+
+  *   Migliorare le prestazioni di percorso dati tra reti con ExpressRoute FastPath
+
+  *   Risolvere problemi di connessione di ExpressRoute 
 
 
-  #### Lab : Creare e configurare ExpressRoute
+  #### Lab : Esercizio: configurare una porta ExpressRoute 
 
   ####
 
-  Progettare e implementare Expressroute
+  #### Lab : Esercizio: fornire un circuito ExpressRoute 
+
+  ####
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
+
+  *   Progettare e implementare Expressroute
 
   *   Progettare e implementare Expressroute Direct
 
   *   Progettare e implementare Expressroute FastPath
 
 
-  ### Modulo 4: Bilanciare il carico del traffico non HTTP(S) su Azure
+  ### Modulo 4: Bilanciamento del carico di traffico non HTTP(S) su Azure
 
   In questo modulo imparerai come progettare e implementare soluzioni di bilanciamento del carico per traffico non HTTP(S) su Azure con Azure Load balancer e Traffic Manager.
 
   #### Lezioni
 
-  *   Consegna del Contenuto e Bilanciamento del Carico
+  *   Esplorare il bilanciamento del carico
 
-  *   Azure Load balancer
+  *   Progettare e implementare Azure load balancer usando Azure portal
 
-  *   Azure Traffic Manager
-
-  *   Monitoraggio Azure
-
-  *   Osservatore di Rete
+  *   Esplorare Azure Traffic Manager
 
 
-  #### Lab : Creare e configurare un bilanciatore pubblico del carico per bilanciare il carico VMs usando il portale Azure
+  #### Lab : Esercizio: creare un profilo Traffic Manager usando Azure portal
 
   ####
 
-  #### Lab : Creare un Profilo Traffic Manager usando il portale Azure
+  #### Lab : Esercizio: creare e configurare un Azure load balancer
 
   ####
 
-  #### Lab : Creare, visualizzare e gestire avvisi metrici nel Monitoraggio Azure 
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
 
-  ####
-
-  Progettare e implementare Azure Laod Balancers
+  *   Progettare e implementare Azure Load Balancers
 
   *   Progettare e implementare Azure Traffic Manager
 
-  *   Monitorare la Rete con il Monitoraggio Azure
 
-  *   Usare l'Osservatore di Rete
-
-
-  ### Modulo 5: Bilanciare il traffico HTTP(S) su Azure
+  ### Modulo 5: Load balancing del traffico HTTP(S) su Azure
 
   In questo modulo imparerai come progettare e implementare soluzioni di bilanciamento del carico per traffico HTTP(S) su Azure con Azure Application gateway e Azure Front Door.
 
   #### Lezioni
 
-  *   Azure Application Gateway
+  *   Progettare Azure application gateway
 
-  *   Azure Front Door
+  *   Configurare Azure application gateway
+
+  *   Progettare e configurare Azure front door
 
 
-  #### Lab : Creare una Porta di Ingresso per un applicazione web altamente disponibile usando il portale Azure 
-
-  ####
-
-  #### Lab : Creare e Configurare un Application Gateway
+  #### Lab : Esercizio: distribuire Azure application gateway
 
   ####
 
-  Progettare e implementare Azure Application Gateway
+  #### Lab : Esercizio: creare una porta frontale per un'applicazione web altamente disponibile
+
+  ####
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
+
+  *   Progettare e implementare Azure Application Gateway
 
   *   Implementare Azure Front Door
 
@@ -218,72 +233,107 @@ outlineSection: |-
 
   In questo modulo imparerai come progettare e implementare soluzioni per la sicurezza di rete come Azure DDoS, Azure Firewalls, Gruppi di Sicurezza di Rete e Firewall per Applicazioni Web.
 
-  #### Lezioni
+    #### Lezioni
 
-  *   Azure DDoS Protection
+  *   Rendere sicure le tue reti virtuali in Azure portal
 
-  *   Azure Firewall
+  *   Distribuire Azure DDoS Protection usando Azure portal
 
-  *   Gruppi di Sicurezza di Rete
+  *   Distribuire Network Security Groups usando  Azure portal
 
-  *   Firewall per Applicazioni Web su Azure Front Door
+  *   Progettare implementare Azure Firewall
+
+  *   Lavorare con Azure Firewall Manager
+
+  *   Implementare un Web Application Firewall su Azure Front Door
 
 
-  #### Lab : Creare una Rete Virtuale con un piano di protezione DDoS
-
-  ####
-
-  #### Lab : Distribuire e Configurare Azure Firewall
-
-  ####
-
-  #### Lab : Creare una politica di Firewall per Applicazione Web su Azure Front Door
+  #### Lab : Esercizio: distribuire e configurare Azure Firewall usando Azure portal
 
   ####
 
-  Configurare e monitorare un piano di protezione Azure DDoS
+  #### Lab : Esercizio: rendere sicuro il tuo hub virtuale usando Azure Firewall Manager
+
+  ####
+
+  #### Lab : Esercizio: configurare DDoS Protection su una rete virtuale usando Azure portal
+
+  ####
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
+
+  *   Configurare e monitorare un piano Azure DDoS protection 
 
   *   Implementare e gestire Azure Firewall
 
-  *   Implementare gruppi di sicurezza di rete
+  *   Implementare gruppi di sicurezza di rete 
 
-  *   Implementare un firewall per applicazioni web (WAF) su Azure Front Door
+  *   Implementare un firewall per web application (WAF) su Azure Front Door
 
 
-  ### Modulo 7: Progettare e implementare accesso privato a Azure Services
+  ### Modulo 7: Progettare e implementare accesso privato ad Azure Services
 
-  In questo modulo imparerai come progettare e implementare l'accesso privato a Azure Services con Azure Private Link, e endpoint di servizio per la rete virtuale.
+  In questo modulo imparerai come progettare e implementare un accesso provato ad Azure Services con Azure Private Link, e endpoint di servizi di reti virtuali.
 
   #### Lezioni
 
-  *   Definire Azure Private Link e endpoints privati
+  *   Definire Private Link Service ed endpoint privati 
 
-  *   Progettare e Configurare Endpoint Privati
-
-  *   Integrare un Private Link con DNS e client in sede
-
-  *   Creare, configurare e fornire accesso a Endpoint di Servizio 
-
-  *   Configurare integrazione VNET per Servizio App
-
-
-  #### Lab : limitare l'accesso di rete a risorse PaaS con endpoint di servizio della rete virtuale
-
-  ####
-
-  #### Lab : creare un endpoint privato Azure
-
-  ####
-
-  Definire la differenza tra Private Link Service ed endpoint privati
-
-  *   Progettare e configurare endpoint privati
-
-  *   Spiegare gli endpoint di servizio per reti virtuali
-
-  *   Progettare e configurare accesso a endpoint di servizio
+  *   Spiegare gli endpoint di servizi di reti virtuali 
 
   *   Integrare Private Link con DNS
 
-  *   Integrare il tuo Servizio App con reti virtuali Azure
+  *   Integrare il tuo App Service con Azure virtual networks
 
+
+  #### Lab : Esercizio: creare un endpoint privato Azure usando Azure PowerShell
+
+  ####
+
+  #### Lab : Esercizio: limitare l'accesso di rete a risorse PaaS con endpoint di servizio di reti virtuali
+
+  ####
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
+
+  *   Spiegare la differenza tra Private Link Service ed endpoint privati
+
+  *   Progettare e configurare endpoint privati
+
+  *   Spiegare gli endpoint di servizio di rete virtuale
+
+  *   Progettare e configurare l'accesso ad endpoint di servizio 
+
+  *   Integrare Private Link con DNS
+
+  *   Integrare il tuo App Service con Azure virtual networks
+
+
+  ### Modulo 8: Progettare e implementare un monitoraggio di rete
+
+  In questo modulo imparerai a progettare e implementare soluzioni di monitoraggio di rete come Azure Monitor e Network watcher.
+
+  #### Lezioni
+
+  *   Monitora le tue reti con Azure Monitor
+
+  *   Monitora le tue reti con Azure Network Watcher
+
+
+  #### Lab : Esercizio: Monitorare una risorsa di bilanciamento del carico usando Azure Monitor
+
+  ####
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di:
+
+  *   Configurare avvisi di salute della rete e di accesso usando Azure Monitor
+
+  *   Creare e configurare un caso Connection Monitor 
+
+  *   Configurare e usare Traffic Analytics
+
+  *   Configurare registri di flusso NSG 
+
+  *   Abilitare e configurare diagnostica degli accessi
+
+  *   Configurare Azure Network Watcher

@@ -11,7 +11,6 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   Se hai questa certificazione che scade entro sei mesi, hai diritto al rinnovo. Dimostra di avere sempre effettuato gli ultimi aggiornamenti di Azure AI superando la valutazione del rinnovo. Puoi anche preparati al rinnovo raccogliendo in modo accurato i moduli di apprendimento.
 skills:
-- Valutazione del testo con i servizi di Azure Cognitive Language
 - Elaborazione e traduzione del discorso con i servizi di Azure Cognitive Speech
 - Elaborazione e classificazione delle immagini con i servizi di Azure Cognitive Vision
 - Elaborazione del linguaggio naturale con i servizi di Azure Cognitive Language

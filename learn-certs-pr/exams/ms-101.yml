@@ -6,11 +6,11 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 29 luglio 2021. Scarica il documento con la valutazione delle competenze per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 29 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati idonei a questo esame sono Microsoft 365 Enterprise Administrator coinvolti nella valutazione, pianificazione, migrazione, installazione e gestione dei servizi Microsoft 365. Eseguono attività di gestione dei tenant di Microsoft 365 per un’azienda, occupandosi tra l’altro di identità, sicurezza, conformità e tecnologie di supporto.
   
-  Hanno una conoscenza professionale dei carichi di lavoro di Microsoft 365 e devono avere lavorato in qualità di amministratore di almeno uno dei carichi di lavoro di Microsoft 365 (Exchange, SharePoint, Skype for Business or Windows as a Service). I candidati devono inoltre avere una conoscenza professionale delle reti, dell’amministrazione dei server e dei concetti di base dell’IT, come DNS, Active Directory e PowerShell.
+  I candidati hanno una conoscenza pratica dei Microsoft 365 workloads e dovrebbero aver ricoperto il ruolo di amministratore perlomeno per distribuzioni Exchange, SharePoint, Teams, Windows 10. I candidati dovrebbero anche essere in possesso di una conoscenza pratica di rete, amministrazione server, e basi IT come DNS, Active Directory, e PowerShell.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare servizi moderni per i dispositivi, implementare la gestione della sicurezza e delle minacce in Microsoft 365 e gestire la governance e la conformità di Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame sarà aggiornato il 29 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
+- Il contenuto di questo esame è stato aggiornato il 29 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
 - Implementare i moderni servizi per dispositivi (40-45%)
 - Implementare la sicurezza e la gestione delle minacce di Microsoft 365 (20-25%)
 - Gestire la governance e la conformità di Microsoft 365 (35-40%)

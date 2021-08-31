@@ -6,14 +6,14 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
-  Gli amministratori di Microsoft Teams configurano, installano e gestiscono i carichi di lavoro di Office 365 per Microsoft Teams focalizzati a promuovere collaborazioni e comunicazioni efficienti ed efficaci nell’ambiente aziendale.
+  I candidati per questo esame sono amministratori Microsoft Teams che gestiscono Microsoft Teams per facilitare una collaborazione e una comunicazione efficiente ed efficace in un ambiente Microsoft 365.
   
-  L’amministratore di Microsoft Teams deve essere in grado di pianificare, installare e gestire chat, app, canali, riunioni, conferenze audio, eventi live e chiamate. Sono inoltre responsabili dell’aggiornamento da Skype for Business a Teams. I candidati a questo esame devono essere in grado di gestire le impostazioni di Teams utilizzando PowerShell. Il Teams Administrator ha una conoscenza fondamentale dei punti d'integrazione con app e servizi come ad esempio SharePoint, OneDrive, Exchange, Azure AD, e Office 365 Groups. Il Teams Administrator sa come integrare app e servizi esterni.
+  I candidati per questo esame devono essere in grado di pianificare, distribuire, configurare e rendere sicuri chat, app, canali, riunioni, conferenze video/audio, eventi live, chiamate su Teams e dispositivi certificati Microsoft Teams. I candidati dovrebbero avere esperienza nell'integrazione di Microsoft Teams con altri carichi di lavoro, tra cui SharePoint, OneDrive, Exchange, Microsoft 365 Groups, Power Platform, e altre app Microsoft, app di terze parti e app personalizzate.
   
-  Collabora anche con i tecnici responsabili della telefonia per integrare le funzionalità voce avanzate in Microsoft Teams. Non sono responsabili della configurazione dei percorsi diretti, della configurazione dei percorsi di chiamata o dell’integrazione della telefonia. Gli amministratori di Microsoft Teams possono lavorare in altri ruoli come amministratori dei carichi di lavoro, occupandosi della sicurezza e della conformità, della messaggistica, del networking, delle identità e dei dispositivi.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: pianificare e configurare un ambiente Microsoft Teams; gestire le chat, chiamate e le riunioni; e gestire i criteri per Teams e app.'
+  Un Amministratore Microsoft Teams collabora anche per altre funzioni, come la rete, la telefonia, le licenze, la sicurezza, la conformità, l'adozione utente, lo sviluppo app e il supporto.
+subTitle: "Questo esame valuta la tua capacità nell'espletamento dei seguenti compiti tecnici: pianificare e configurare un ambiente Microsoft Teams; gestire chat, team, canali e app; gestire chiamate e riunioni; e monitorare e risolvere problemi in un ambiente Microsoft Teams."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,10 +27,11 @@ locales:
 levels:
 - intermediate
 skills:
-- La guida all'esame qui sotto mostra i cambiamenti che saranno apportati il 26 luglio 2021.
-- Pianificare e configurare un ambiente Microsoft Teams (45-50%)
-- Gestire chat, chiamate e riunioni (30-35%)
-- Gestire i criteri per i team e le app (20-25%)
+- Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Pianificare e configurare un ambiente Microsoft Teams (35-40%)
+- Gestire chat, team, canali e app (25-30%)
+- Gestire chiamate e riunioni (15-20%)
+- Monitorare e risolvere problemi in un ambiente Microsoft Teams (10-15%)
 roles:
 - administrator
 products:

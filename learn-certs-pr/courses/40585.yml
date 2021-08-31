@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: AI-led business process automation'
+metadata:
+  title: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+  description: 'Course 40585-G: Microsoft Cloud Workshop: AI-led business process automation'
+uid: course.40585
+courseNumber: '40585-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Progettare una soluzione di automazione per processi aziendale che sfrutti Azure Cognitive Services
+- skill: Implementare una soluzione di automazione per processi aziendali che sfrutti Azure Cognitive Services
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  In questo workshop, imparerai ad automatizzare un processo aziendale end-to-end usando una serie di Azure Cognitive Services. Alla fine di questo workshop  sarai maggiormente in grado di progettare ed implementare una soluzione di automazione per un processo aziendale che sfrutti Azure Cognitive Services.
+
+  #### Profilo d'Utenza
+  Questo workshop è pensato per Cloud Architects e professionisti IT che hanno un'esperienza progettuale nella progettazione di infrastruttura e soluzioni in tecnologie cloud e desiderano imparare di più su Azure e Azure services come descritto nelle sezioni "Sintesi" e "Competenze acquisite". Coloro che frequentano questo workshop dovrebbero anche avere esperienza in altre tecnologie non Microsoft cloud, soddisfare i prerequisiti del corso, e volere allenarsi in parallelo su Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Sessione di Progettazione Whiteboard - Automazione di processi aziendali guidati da AI 
+  #### Lezioni
+  - Rivedere il caso studio cliente
+  - Progettare una soluzione Proof of Concept
+  - Presentare la soluzione
+
+
+  ### Modulo 2&#58; Lab Pratico - Automazione di processi aziendali guidati da AI 
+  #### Lezioni
+  - Estrarre testo e struttura da documenti con Forms Recognizer
+  - Estrarre Health Analytics visitando registri audio 
+  - Usare Azure Cognitive Search per indicizzare e fornire dati 
+  - Costruire report personalizzati PowerBI sui dati relativi alla salute

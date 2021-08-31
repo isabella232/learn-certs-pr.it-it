@@ -14,10 +14,13 @@ ms.prod: non-product-specific
 
 ## Politica generale Microsoft Certification di ripetizione degli esami
 
-
+- Se non si raggiunge il punteggio sufficiente in un esame la prima volta, è necessario attendere 24 ore per sostenere nuovamente l'esame. Dopodiché i candidati possono accedere alla loro [dashboard di certificazione](https://aka.ms/certdashboard) e riprogrammare l'esame.
+- La seconda volta che non si raggiunge il punteggio sufficiente in un esame  è necessario attendere almeno 14 giorni per sostenere l'esame per la terza volta.
+- Viene inoltre imposto un periodo di attesa di 14 giorni tra il terzo e il quarto tentativo e tra il quarto e il quinto tentativo.
 - Un candidato non può sostenere un certo esame più di cinque volte nell'arco di 12 mesi. Questo periodo di 12 mesi inizia dal primo tentativo. Il candidato è idoneo a sostenere nuovamente l'esame per 12 mesi dalla data del primo tentativo. 
 - Per sostenere un certo esame più di cinque volte all'anno, o per rinunciare al tempo tra i vari tentativi, un candidato deve aver sperimentato uno degli errori elencati qui sotto e richiedere un'eccezione a Microsoft.
 - Non puoi ripetere un esame che hai già passato a meno che la tua certificazione non sia scaduta. 
+- Devi pagare per sostenere nuovamente l'esame.
 
 ## Trasmettere la richiesta per un'eccezione in merito alla ripetizione dell'esame 
 

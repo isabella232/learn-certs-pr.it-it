@@ -12,7 +12,7 @@ skillsGained:
 - skill: Come implementare governance, sicurezza e conformità per i Microsoft Teams
 - skill: Come preparare un ambiente di organizzazione per un'installazione di Microsoft Teams
 - skill: Come distribuire e gestire i team
-- skill: Modi per gestire la collaborazione in Microsoft Teams
+- skill: Come gestire la collaborazione e l'esperienza comunicativa su Microsoft Teams
 - skill: Tecniche per gestire e risolvere i problemi di comunicazione in Microsoft Teams
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -23,104 +23,128 @@ roles:
 - administrator
 products:
 - m365
-- azure-active-directory
-- office-365
 exams:
 - uid: exam.ms-700
 summary: |-
-  Il corso Managing Microsoft Teams è progettato per le persone che aspirano al ruolo di amministratore di Microsoft 365 Teams.
-  Gli amministratori dei Microsoft Teams configurano, distibuiscono e gestiscono i carichi di lavoro di Office 365 per i Microsoft Teams che si occupano principalmente di rendere la collaborazione e le comunicazioni a livello aziendale più efficienti ed efficaci.
-  Questo corso copre sei elementi centrali&#58; panoramica di Microsoft Teams, implementazione di governance, sicurezza e conformità per Microsoft Teams, preparazione dell'ambiente per un'installazione di Microsoft Teams, installazione e gestione di team, gestione della collaborazione e gestione della comunicazione in Microsoft Teams.
-  Nella panoramica di Microsoft Teams otterrai una panoramica di Microsoft Teams inclusa l'architettura di Teams e i relativi carichi di lavoro di Office 365. Ti verrà fornita una panoramica della sicurezza e della conformità in Microsoft Teams e infine una panoramica su come gestire Microsoft Teams.
-  Nell'implementazione di governance, sicurezza e conformità per Microsoft Teams, pianificherai e configurerai la governance per i gruppi di Office 365, inclusi i criteri di scadenza e denominazione. Quindi implementerai la sicurezza configurando l'accesso condizionale, MFA o Threat Management per i Microsoft Teams. Infine, implementerai la conformità per i team utilizzando le DLP policies, i casi di eDiscovery o le politiche di supervisione.
-  Nel preparare l'ambiente per un'installazione di Microsoft Teams, pianifichi un aggiornamento da Skype for Business a Microsoft Teams valutando i percorsi di aggiornamento con modalità di coesistenza e aggiornamento gestendo le migrazioni delle riunioni e configurando la coesistenza e le impostazioni di aggiornamento. Quindi pianifichi e configuri le impostazioni di rete per Microsoft Teams e infine installerai e gestirai gli endpoint di Microsoft Teams.
-  Durante l'installazione e la gestione dei team, imparerai come creare e gestire i team, gestire l'appartenenza e l'accesso sia per utenti interni che esterni.
-  Nella gestione della collaborazione in Microsoft Teams, gestirai esperienze di chat e collaborazione come le impostazioni del team o i criteri di creazione del canale privato. Infine, gestirai le impostazioni per le app Teams come criteri di configurazione delle app, App, bot e connettori in Microsoft Teams o pubblicherai un'app personalizzata in Microsoft Teams.
-  Questo corso si conclude con la gestione della comunicazione in Microsoft Teams. Imparerai come gestire le esperienze di eventi e riunioni dal vivo, gestire i numeri di telefono o il sistema telefonico per Microsoft Teams e infine come risolvere i problemi audio, video e client.
+  In questo corso, imparerai vari strumenti di gestione e funzionalità di sicurezza e conformità di Teams, i requisiti di rete per distribuzioni Teams e anche diverse impostazioni e politiche per gestire la collaborazione e l'esperienza di comunicazione su Teams. Scoprirai l'architettura di Teams. Nello specifico, scoprirai l'integrazione tra Microsoft Teams e vari flussi di lavoro e servizi su Microsoft 365. Imparerai le funzionalità di sicurezza e conformità per Teams, comprendendo accesso condizionale, MFA, Minacce, avvisi, politiche DLP, eDiscovery, e politiche di barriera informativa. Imparerai anche come preparare l'ambiente per una distribuzione Microsoft Teams, tra cui l'aggiornamento da Skype for Business a Microsoft Teams, impostazioni di rete, e gestione degli endpoint Microsoft Teams. Infine, imparerai come creare e gestire team e come gestire l'adesione, comprendendo utenti interni ed esterni. Scoprirai poi le diverse impostazioni e politiche per gestire la collaborazione e l'esperienza comunicativa su Microsoft Teams.
 
-  #### Profilo dei destinatari
-  Gli studenti di questo corso sono interessati a Microsoft Teams o al superamento dell'esame di certificazione Microsoft Teams Administrator Associate.
+  #### Profilo d'Utenza
+
+  Gli studenti di questo corso sono interessati a Microsoft Teams o intendono passare l'esame di certificazione Microsoft Teams Administrator Associate. Un amministratore Microsoft Teams pianifica, distribuisce, configura e gestisce Microsoft Teams per concentrarsi su una collaborazione e comunicazione efficiente ed efficace in un ambiente Microsoft 365. Un amministratore Microsoft Teams deve essere in grado di pianificare, distribuire e gestire team, chat, app, canali, riunioni, conferenze video/audio, eventi live, chiamate e dispositivi certificati Teams. Un amministratore Microsoft Teams ha esperienza nell'integrazione di Microsoft Teams con SharePoint, OneDrive, Exchange, Microsoft 365 Groups, e altre app personalizzate di terze parti Microsoft. Un amministratore Microsoft Teams capisce e collabora in merito ad altri carichi di lavoro e ruoli, come Rete, Voce, Identificazione, Accesso, Dispositivi, Licenze, Sicurezza, Conformità, gestione Informazioni, e Adozione Utente.
 prerequisitesSection: |-
   - Una conoscenza approfondita del un'esperienza funzionale di base con i servizi Microsoft 365.
   - Una conoscenza approfondita delle pratiche IT generali, incluso l'utilizzo di PowerShell.
 outlineSection: |-
-  ### Modulo 1&#58; Microsoft Teams Overview
-  Nella panoramica di Microsoft Teams otterrai una panoramica di Microsoft Teams inclusa l'architettura di Teams e i relativi carichi di lavoro di Office 365. Ti verrà fornita una panoramica della sicurezza e della conformità in Microsoft Teams e infine una panoramica su come gestire Microsoft Teams.
+  ### Modulo 1: Avvio alla gestione con Microsoft Teams
+
+  In questo modulo vedrai una panoramica di Microsoft Teams che comprende l'architettura di Teams e i relativi carichi di lavoro Microsoft 365. Scoprirai anche gli strumenti di gestione per Teams e come gestire il ciclo di vita di Teams.
+
   #### Lezioni
-  - Panoramica di Microsoft Teams
-  - Panoramica della sicurezza e della conformità in Microsoft Teams
-  - Panoramica sulla gestione di Microsoft Teams
+
+  *   Esplorare Microsoft Teams
+
+  *   Distribuire e gestire Microsoft Teams
+
+  *   Implementare la governance e la gestione del ciclo di vita per Microsoft Teams
 
 
-  #### Lab &#58; Gestisci i ruoli e crea team
-  - Prepara ruoli e licenze del team
-  - Crea un nuovo team
+  #### Lab : Gestire Microsoft Teams
 
+  ####
+  *   Preparare ruoli del team e licenze
+  *   Esplorare strumenti di gestione di Teams
+  *   Creare gruppi e team 
+  *   Implementare la governance e la gestione del ciclo di vita per Microsoft Teams
 
-  ### Modulo 2&#58; Implementare governance, sicurezza e conformità di Microsoft Teams
-  Nell'implementazione di governance, sicurezza e conformità per Microsoft Teams, pianificherai e configurerai la governance per i gruppi di Office 365, inclusi i criteri di scadenza e denominazione. Quindi implementerai la sicurezza configurando l'accesso condizionale, MFA o Threat Management per i Microsoft Teams. Infine, implementerai la conformità per i team utilizzando le DLP policies, i casi di eDiscovery o le politiche di supervisione.
+  ### Modulo 2: Implementare sicurezza e conformità per Microsoft Teams
+
+  In questo modulo, imparerai come gestire l'accesso da utenti esterni da diversi centri di amministrazione su Microsoft 365, e cosa offrono sicurezza e conformità per proteggere l'ambiente Teams, tra cui accesso condizionale, MFA, Gestione Minacce per Microsoft Teams, politiche DLP, casi eDiscovery, e conformità della comunicazione.
+
   #### Lezioni
-  - Implementazione della governance e della gestione del ciclo di vita per i Microsoft Teams
-  - Implementazione della sicurezza peri Microsoft Teams
-  - Implementazione della conformità per i Microsoft Teams
+
+  *   Gestire accesso per utenti esterni 
+
+  *   Implementare la sicurezza per Microsoft Teams
+
+  *   Implementare la conformità per Microsoft Teams
 
 
-  #### Lab &#58; Configura sicurezza e conformità per team e contenuti
-  - Implementazione della governance e della gestione del ciclo di vita per i Microsoft Teams
-  - Implementazione della sicurezza peri Microsoft Teams
-  - Implementazione della conformità per i Microsoft Teams
+  #### Lab : Configurare sicurezza e conformità per Microsoft Teams
 
+  ####
+  *   Gestire accesso ospite per Microsoft Teams
+  *   Implementare la sicurezza per Microsoft Teams
+  *   Implementare la conformità per Microsoft Teams
 
-  ### Modulo 3&#58; Preparare l'ambiente per una distribuzione di Microsoft Teams
-  Nel preparare l'ambiente per un'installazione di Microsoft Teams, pianifichi un aggiornamento da Skype for Business a Microsoft Teams valutando i percorsi di aggiornamento con modalità di coesistenza e aggiornamento gestendo le migrazioni delle riunioni e configurando la coesistenza e le impostazioni di aggiornamento. Quindi pianifichi e configuri le impostazioni di rete per Microsoft Teams e infine installerai e gestirai gli endpoint di Microsoft Teams.
+  ### Modulo 3: Preparare l'ambiente per una distribuzione Microsoft Teams 
+
+  In questo modulo, imparerai i diversi percorsi di aggiornamento per far coesistere e aggiornare le modalità per la Transizione da Skype for Business a Microsoft Teams. Imparerai anche come pianificare e configurare impostazioni di rete per Microsoft Teams.
+
   #### Lezioni
-  - Eseguire l'upgrade da Skype for Business a Microsoft Teams
-  -Installazione e configurazione delle impostazioni di rete per Microsoft Teams
-  - Installare e gestire gli endpoint di Microsoft Teams
+
+  *   Transizione da Skype for Business a Microsoft Teams
+
+  *   Pianificare e configurare impostazioni di rete per Microsoft Teams.
 
 
-  #### Lab &#58; Preparazione dell'ambiente per i team
-  - Calcolo delle funzionalità di rete
-  - Valutazione dei profili di configurazione
-  - Fornire risorse di squadra
+  #### Lab : Pianificare e configurare impostazioni di rete per Microsoft Teams
 
+  ####
+  *   Calcolare potenzialità della rete
+     
+  ### Modulo 4: Gestire chat, team, canali e app su Microsoft Teams
 
-  ### Modulo 4&#58; Distribuire e gestire i team
-  Durante l'installazione e la gestione dei team, imparerai come creare e gestire i team, gestire l'appartenenza e l'accesso sia per utenti interni che esterni.
+  In questo modulo, imparerai come creare e gestire team e adesione da diversi approcci, come gestire l'esperienza di collaborazione sia per chat che canali. e come gestire app per Microsoft Teams.
+
   #### Lezioni
-  - Creazione e gestione di team
-  - Gestione delle membership
-  - Gestione dell'accesso per utenti esterni
+
+  *   Creare e gestire team
+
+  *   Gestire l'esperienza di collaborazione per chat e canali
+
+  *   Gestire app per Microsoft Teams
 
 
-  #### Lab &#58; Gestire i team
-  - Gestione delle risorse del team
-  - Gestione della condivisione e l'accesso
+  #### Lab : Gestire team e impostazioni di collaborazione per Teams
 
+  ####
+  *   Gestire risorse del team 
+  *   Configurare politiche di canali e messaggistica 
+  *   Gestire impostazioni app 
+  *   Testare le impostazioni di politica configurate
 
-  ### Modulo 5&#58; Gestisci la collaborazione in Microsoft Teams
-  Nella gestione della collaborazione in Microsoft Teams, gestirai esperienze di chat e collaborazione come le impostazioni del team o i criteri di creazione del canale privato. Infine, gestirai le impostazioni per le app Teams come criteri di configurazione delle app, App, bot e connettori in Microsoft Teams o pubblicherai un'app personalizzata in Microsoft Teams.
+  ### Modulo 5: Gestire riunioni ed eventi virtuali su Microsoft Teams
+
+  In questo modulo, imparerai come gestire riunioni ed eventi virtuali con diverse politiche e impostazioni- Imparerai anche a distribuire dispositivi Teams, compreso Teams Room.
+
   #### Lezioni
-  - Gestione delle esperienze di chat e collaborazione
-  - Gestione delle impostazioni per le app Teams
+
+  *   Gestire riunioni ed eventi virtuali 
+
+  *   Configurare e gestire dispositivi Microsoft Teams 
 
 
-  #### Lab &#58; Modifica delle impostazioni di collaborazione per i team
-  - Configurazione dei criteri di canale e messaggio
-  - Gestione delle impostazioni dell'app per il team
+  #### Lab : Gestire riunioni con Teams 
 
+  ####
+  *   Gestire riunioni ed eventi virtuali
+  *   Distribuire profili dispositivo Teams 
 
-  ### Modulo 6&#58; Gestire la comunicazione in Microsoft Teams
-  Questo corso si conclude con la gestione della comunicazione in Microsoft Teams. Imparerai come gestire le esperienze di eventi e riunioni dal vivo, gestire i numeri di telefono o il sistema telefonico per Microsoft Teams e infine come risolvere i problemi audio, video e client.
+  ### Modulo 6: Gestire le chiamate su Microsoft Teams
+
+  In questo modulo, imparerai come gestire numeri di cellulare e Sistemi di Telefonia per chiamate su Microsoft Teams e come risolvere problemi audio, video e client. 
+
   #### Lezioni
-  - Gestione di esperienze di eventi e incontri dal vivo
-  - Gestione dei numeri di telefono
-  - Gestione del sistema telefonico per i Microsoft Teams
-  - Problemi audio, video e client con risoluzione dei problemi
+
+  *   Gestire numeri di telefono 
+
+  *   Gestire Sistemi di Telefonia per Microsoft Teams
+
+  *   Risolvere problemi audio, video e client 
 
 
-  #### Lab &#58; Modifica delle impostazioni di comunicazione per i team
-  - Configurare i criteri di riunione
-  - Gestione del sistema telefonico per i Microsoft Teams
-  - Risoluzione dei problemi relativi a audio, video e client
+  #### Lab : Gestire chiamate su Microsoft Teams
 
+  ####
+  *   Impostare un Piano Chiamate (Opzionale)
+  *   Gestire sistemi di telefonia per Microsoft Teams
