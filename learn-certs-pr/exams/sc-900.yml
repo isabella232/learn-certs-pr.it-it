@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
 
   Questo esame è rivolto a coloro che desiderano acquisire familiarità con i fondamenti della sicurezza, della compliance e della gestione delle identità (SCI) all'interno dei servizi Microsoft basati su cloud e correlati.
   
@@ -27,19 +27,22 @@ locales:
 - ja
 - zh-cn
 - ko
-- nl
 - fr
 - es
 - pt-br
 - ru
 - ar-sa
+- id-id
+- de
+- zh-tw
+- it
 levels:
 - beginner
 skills:
-- Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
-- Descrivere i concetti di sicurezza, compliance e identità (5-10%)
-- Descrivere le funzionalità delle soluzioni Microsoft per la gestione delle identità e degli accessi (25-30%)
-- Descrivere le funzionalità delle soluzioni Microsoft per la sicurezza (30-35%)
+- Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Descrivere i concetti di sicurezza, compliance e identità (10-15%)
+- Descrivere le funzionalità delle soluzioni Microsoft per la gestione delle identità e degli accessi (30-35%)
+- Descrivere le funzionalità delle soluzioni Microsoft per la sicurezza (35-40%)
 - Descrivere le funzionalità delle soluzioni Microsoft per la compliance (25-30%)
 roles:
 - business-user

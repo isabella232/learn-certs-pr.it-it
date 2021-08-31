@@ -2,16 +2,14 @@
 title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
-  description: Questo esame sarà disponibile intorno all'8 luglio 2021. I candidati per questo esame sono ingegneri di supporto che agiscono in ambienti Microsoft Teams, risolvono problemi di distribuzione, affinano le prestazioni, raccolgono e analizzano telemetria e registri dati, e gestiscono ambienti Teams.
+  description: I candidati per questo esame sono ingegneri di supporto che agiscono in ambienti Microsoft Teams, risolvono problemi di distribuzione, affinano le prestazioni, raccolgono e analizzano telemetria e registri dati, e gestiscono ambienti Teams.
 uid: certification.m365-teams-support-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   I candidati per questo esame sono ingegneri di supporto che agiscono in ambienti Microsoft Teams, risolvono problemi di distribuzione, affinano le prestazioni, raccolgono e analizzano telemetria e registri dati, e gestiscono ambienti Teams.
   
   I candidati dovrebbero avere un contatto significativo con comunicazioni unificate ed esperienza pratica con Microsoft Teams. Oltre a ciò, i candidati dovrebbero avere una conoscenza di rete delle basi di Azure, telefonia, PowerShell, tecnologie di archiviazioni dati, APIs, sicurezza app, autentificazione e autorizzazione, sicurezza, e informazioni di conformità, debugging, affinamento delle prestazioni e monitoraggio.
-  
-  <div><br/><br/><font color='red'><strong>Nota: Il Percorso di Apprendimento per questo esame sarà disponibile il 30 giugno 2021 e l'esame sarà disponibile l'8 luglio 2021.</strong></font></div>"
-subTitle: Questo esame sarà disponibile intorno all'8 luglio 2021. I candidati per questo esame sono ingegneri di supporto che agiscono in ambienti Microsoft Teams, risolvono problemi di distribuzione, affinano le prestazioni, raccolgono e analizzano telemetria e registri dati, e gestiscono ambienti Teams.
+subTitle: I candidati per questo esame sono ingegneri di supporto che agiscono in ambienti Microsoft Teams, risolvono problemi di distribuzione, affinano le prestazioni, raccolgono e analizzano telemetria e registri dati, e gestiscono ambienti Teams.
 levels:
 - intermediate
 skills:

@@ -2,20 +2,22 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Gli amministratori dei Microsoft Teams configurano, distibuiscono e gestiscono i carichi di lavoro di Office 365 per i Microsoft Teams che si occupano principalmente di rendere la collaborazione e le comunicazioni a livello aziendale più efficienti ed efficaci.
+  description: I candidati per questo esame sono amministratori Microsoft Teams che gestiscono Microsoft Teams per agevolare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
 uid: certification.m365-teams-administrator-associate
+certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Gli amministratori dei Microsoft Teams configurano, distibuiscono e gestiscono i carichi di lavoro di Office 365 per i Microsoft Teams che si occupano principalmente di rendere la collaborazione e le comunicazioni a livello aziendale più efficienti ed efficaci.
-
-  Gli amministratori dei Microsoft Teams essere in grado di pianificare, distribuire e gestire le&#58; chat, le app, i canali, le riunioni, le audioconferenze, gli eventi live e le chiamate di Teams.
-subTitle: Gli amministratori dei Microsoft Teams configurano, distibuiscono e gestiscono i carichi di lavoro di Office 365 per i Microsoft Teams che si occupano principalmente di rendere la collaborazione e le comunicazioni a livello aziendale più efficienti ed efficaci.
+  I candidati per questo esame sono amministratori Microsoft Teams che gestiscono Microsoft Teams per agevolare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
+  
+  I candidati per questo esame devono essere in grado di pianificare, distribuire, configurare e rendere sicuri chat, app, canali, riunioni, conferenze video/audio, eventi live, chiamate su Teams e dispositivi certificati Microsoft Teams.
+subTitle: I candidati per questo esame sono amministratori Microsoft Teams che gestiscono Microsoft Teams per agevolare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
 levels:
 - intermediate
 skills:
-- Pianificare e configurare un ambiente Microsoft Teams
-- Gestire chat, chiamate e riunioni
-- Gestire i criteri per i team e le app
+- Pianificare e configurare un ambiente Microsoft Teams 
+- Gestire chat, team, canali e app 
+- Gestire chiamate e riunioni 
+- Monitorare e risolvere problemi di un ambiente Microsoft Teams 
 roles:
 - administrator
 type: role-based

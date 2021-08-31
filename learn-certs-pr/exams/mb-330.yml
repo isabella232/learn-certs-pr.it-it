@@ -6,30 +6,31 @@ metadata:
 uid: exam.mb-330
 displayName: MB-330
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
 
   I candidati a questo esame analizzano i requisiti aziendali e traducono tali requisiti in processi e soluzioni pienamente realizzate che implementano le migliori pratiche del settore. I candidati sono la risorsa chiave per l'implementazione e la configurazione delle applicazioni per soddisfare i requisiti aziendali.
   <br/>
 
-  I candidati a questo esame hanno una conoscenza fondamentale delle operazioni di contabilità e delle operazioni finanziarie delle imprese, del servizio clienti, dell'assistenza sul campo, della produzione, della vendita al dettaglio e dei concetti di gestione della catena di fornitura. In genere sono specializzati in uno o più set di funzionalità delle app Finance and Operations, tra cui finanza, produzione e gestione della catena di fornitura.
+  I candidati per questo esame sono in possesso di una comprensione fondamentale dei principi di contabilità e delle operazioni finanziarie in contesto aziendale, servizio clienti, servizio su campo, produzione, rivendita e concetti di gestione della catena di fornitura. Tipicamente si specializzano in uno o più set di funzioni di app di Finanza e Operazioni che includono finanza, produzione e gestione della catena di fornitura. 
 
   Devono avere una certa conoscenza delle prassi di gestione della catena di approvvigionamento, tra cui approvvigionamento, commercio, logistica, gestione dei magazzini e gestione dei trasporti.
-subTitle: "Questo esame misura la tua capacità di svolgere le seguenti attività: implementare la gestione delle informazioni sul prodotto; implementare la gestione dell'inventario; implementare e gestire i processi della catena di fornitura; implementare la gestione del magazzino e dei trasporti; e implementare la pianificazione generale."
+subTitle: "Questo esame valuta la tua capacità di espletare i seguenti compiti tecnici: implementare la gestione di informazioni sul prodotto; implementare la gestione dell'inventario; implementare e gestire i processi di catena di fornitura; implementare la gestione del magazzino e dei trasporti; e implementare l'ottimizzazione della pianificazione."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 26 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
-- Implementare la gestione delle informazioni sui prodotti (20-25%)
-- Implementare la gestione delle scorte (15-20%)
-- Implementare e gestire i processi della catena di fornitura (15-20%)
-- Implementare la gestione dei magazzini e dei trasporti; eseguire i processi aziendali (20-25%)
-- Implementazione dei piani generali (15-20%)
+- Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Implementano la gestione delle informazioni sul prodotto (25-30%)
+- Implementare la gestione dell'Inventario (15-20%)
+- Implementazione e gestione dei processi della Catena di Fornitura (15-20%)
+- Implementazione e gestione del magazzino e la gestione dei trasporti (20-25%)
+- Implementare l'Ottimizzazione della Pianificazione (15-20%)
 roles:
 - functional-consultant
 products:

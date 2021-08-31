@@ -6,13 +6,13 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che sono stati apportati.</strong></font><br/><br/></div>
   
-  I candidati idonei a questo esame sono Dynamics 365 Functional Consultant con esperienza nella vendita. I candidati sono responsabili dell'implementazione di soluzioni che supportano un ciclo di vita delle vendite che funzioni in modo efficiente ed efficace e consenta di raggiungere gli obiettivi di fatturato, le strategie aziendali e gli obiettivi aziendali.
+  I candidati per questo esame sono consulenti funzionali Microsoft Dynamics 365 con esperienza di vendita. I candidati sono responsabili dell'implementazione di soluzioni che supportano un ciclo di vita di vendita così che possa essere lanciata efficientemente ed efficacemente per soddisfare gli obiettivi di ricavo, le strategie aziendali e gli obiettivi della compagnia.
   
-  I candidati sono responsabili della configurazione e dell'espansione delle funzionalità principali per i potenziali clienti, i contatti, gli account, le opportunità e le entità di supporto per mappare i processi di vendita in atto presso l'azienda. Identificano le opportunità di usare Power Apps per sviluppare esperienze unificate per tutti i dispositivi, automatizzare l’integrazione delle applicazioni, i flussi dei processi aziendali e altri strumenti di automazione allo scopo di creare un’applicazione che supporti e accelleri l’arrivo di contanti.
-  
-  I candidati devono possedere una solida conoscenza del business e preferibilmente un'esperienza in prima persona nel mondo delle vendite in uno o più ruoli di vendita.
+  I candidati sono anche responsabili della configurazione e dell'espansione delle funzionalità chiave di lead, contatti, conti, opportunità e del supporto di entità per mappare i processi di vendita in atto nell'azienda. Identificano le opportunità per usare Power Apps e sviluppare esperienze unificate per tutti i dispositivi, Power Automate per integrazioni tra app, flussi di elaborazione aziendali, e altri strumenti di automazione per costruire un'applicazione che supporta ed accelera il percorso “verso il cash”.
+
+  I candidati devono avere una solida conoscenza aziendale e dovrebbero essere in possesso di un'esperienza in prima persona in uno o più ruoli di vendita.
 subTitle: 'Questo esame valuta la tua capacità di espletare i seguenti compiti tecnici: Eseguire la configurazione, Gestire le tabelle di vendita centrale, Configurare strumenti e servizi aggiuntivi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
@@ -20,10 +20,11 @@ practiceTestUrl: https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-mic
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 23 luglio 2021. Scarica il documento con le competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
+- Il contenuto di questo esame è stato aggiornato il 23 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
 - Eseguire la configurazione (25-30%)
 - Gestire le principali entità di vendita (50-55%)
 - Configurare strumenti e servizi aggiuntivi (15-20%)

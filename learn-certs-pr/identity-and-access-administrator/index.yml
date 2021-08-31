@@ -11,7 +11,7 @@ summary: |-
   L'Amministratore di Identità e Accessi può essere un singolo individuo o un membro di un team più esteso. Chi ricopre questo ruolo collabora con molte altre figure dell'organizzazione per gestore progetti strategici sulle identità al fine di modernizzare le soluzioni per le identità, implementare soluzioni ibride di identità e implementare la governance dell'identità.
 subTitle: L'Amministratore di Identità e Accessi Microsoft progetta, implementa e gestisce i sistemi di gestione dell'identità e degli accessi di un'organizzazione utilizzando Azure AD. Gestisce attività quali fornire autenticazioni sicure e accessi autorizzati alle applicazioni aziendali.
 levels:
-- advanced
+- intermediate
 skills:
 - Implementare una soluzione di gestione delle identità
 - Implementare una soluzione di autenticazione e gestione degli accessi

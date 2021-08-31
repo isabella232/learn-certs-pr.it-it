@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-310
 displayName: MB-310
 summary: |-
-  <div>
-  <div><strong>Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 27 agosto 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati a questo esame sono Functional Consultants che analizzano i requisiti aziendali e traducono tali requisiti in processi aziendali pienamente realizzati e soluzioni che implementano le migliori pratiche del settore. I candidati sono la risorsa chiave per l'implementazione e la configurazione delle applicazioni per soddisfare i requisiti aziendali.
   <br/>
@@ -22,7 +20,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 16 ottobre 2020. Scarica il documento sulle competenze esaminate per vedere cosa è cambiato.
+- Il contenuto di questo esame sarà aggiornato il 27 agosto 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che saranno apportati.
 - Impostazione e configurazione della gestione finanziaria (50-55%)
 - Implementazione e gestione della contabilità per i fornitori e le spese (10-15%)
 - Implementazione della contabilità per i clienti, crediti, incassi e calcolo dei ricavi (20-25%)
