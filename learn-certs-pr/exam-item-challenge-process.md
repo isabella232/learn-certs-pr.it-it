@@ -31,7 +31,7 @@ Gli esami Microsoft Certification sono pensati per assicurarsi che i candidati c
 - Le contestazioni non vengono inviate tramite questo processo.
 - Obiezioni sulle metodologie di punteggio (ad esempio, Il grafico a barre non rappresenta il mio punteggio effettivo).
 - Obiezioni relative al formato dell'esame (standard, ordinamento, adattivo).
-- Contestazioni ad esami beta; se possiedi ulteriori feedback su un esame beta che non sei riuscito a fornire durante la fase dei commenti, invia il tuo feedback a [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Sfidare gli esami beta. Visto che gli esami beta sono intesi per identificare problemi tramite psicometria e analisi dei commenti dei candidati, le domande cambiano spesso. Se un elemento è cambiato sostanzialmente, non sarà calcolato nel punteggio.
 
 ## Processo di obiezione agli elementi d'esame:
 

@@ -6,15 +6,17 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 9 agosto 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 9 agosto 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
+  </div>
   
-  I candidati a questo esame analizzano i requisiti aziendali e traducono tali requisiti in processi e soluzioni pienamente realizzate che implementano le migliori pratiche del settore. I candidati sono la risorsa chiave per l'implementazione e la configurazione delle applicazioni per soddisfare i requisiti aziendali.
+  I consulenti (funzionali e tecnici) raccolgono e analizzano i requisiti aziendali e trasformano tali requisiti in processi e soluzioni aziendali completi che implementano le migliori pratiche. I candidati sono una risorsa chiave nella implementazione e configurazione di applicazioni per soddisfare i requisiti aziendali.
   <br/>
-  
-  I candidati comprendono le caratteristiche e le capacità comuni delle app Finance and Operations e come configurarle e utilizzarle. Dovrebbero anche essere consapevoli di come le app Finance and Operations si integrano con sistemi e strumenti esterni, incluso Power Platform. Il candidato gestisce attivamente i cicli di vita delle applicazioni utilizzando Lifecycle Services (LCS) e altri strumenti e piattaforme Microsoft.
-  
-  I candidati a questo esame in genere sono specializzati in una o più funzionalità delle app Finance and Operations, tra cui finanza, produzione e gestione della catena di fornitura.
-subTitle: 'Questo esame misura la tua capacità di svolgere le seguenti attività: utilizzare funzionalità e strumenti di implementazione comuni; configurare sicurezza, processi e opzioni; gestire i dati finanziari e operativi; e convalidare e supportare la soluzione.'
+
+  I consulenti dovrebbero essere in grado di implementare le funzionalità e componenti centrali di app Dynamics 365 Finance and Operations. Dovrebbero anche essere consapevoli di come le app Dynamics 365 Finance and Operations si integrano con sistemi e strumenti esterni, come Power Platform. Il consulente usa Lifecycle Services (LCS), Azure DevOps, e altri strumenti e piattaforme Microsoft per facilitare il processo di gestione del ciclo di vita dell'applicazione (ALM).
+
+  I consulenti perseguono una formazione continua leggendo le note di rilascio dei prodotti, rivedendone i piani di azione, partecipando a conferenze, o continuando ad apprendere qualcosa di nuovo usando Microsoft Learn, Microsoft Docs, formazioni tenute da istruttore, blog, e community di utenti. Dovrebbero anche cercare di ottenere certificazioni basate sul ruolo e valutazioni per assicurarsi un riconoscimento delle proprie conoscenze.
+subTitle: 'Questo esame valuta la tua capacità di espletare i seguenti compiti tecnici: illustrare app di finanza e operazioni, estendere app usando tecnologie Microsoft Power Platform; configurare funzioni e flussi di lavoro amministrativi; gestire dati di Finance and Operation; e convalidare e supportare la soluzione.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,11 +27,11 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il 9 agosto 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che saranno apportati.
-- Uso delle funzionalità e degli strumenti di implementazione più comuni (15-20%)
-- Configurazione dei livelli di sicurezza, dei processi e delle varie opzioni30-35%)
-- Gestione dei dati di Finance and Operations (25-30%)
-- Convalidare e supportare la soluzione (15-20%)
+- Il contenuto di questo esame è stato aggiornato il 9 agosto 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
+- Illustrare app di finanza e operazioni, estendere app usando tecnologie Microsoft Power Platform (20–25%)
+- Configurare funzioni e flussi di lavoro amministrativi (30–35%)
+- Gestire dati di finanza e operazioni (25-30%)
+- Convalidare e supportare soluzioni (20-25%)
 roles:
 - functional-consultant
 products:

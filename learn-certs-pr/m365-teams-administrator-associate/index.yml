@@ -2,15 +2,15 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: I candidati per questo esame sono amministratori Microsoft Teams che gestiscono Microsoft Teams per agevolare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
+  description: Gli amministratori Microsoft Teams gestiscono Microsoft Teams per facilitare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
 uid: certification.m365-teams-administrator-associate
 certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  I candidati per questo esame sono amministratori Microsoft Teams che gestiscono Microsoft Teams per agevolare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
+  I candidati per questa certificazione sono amministratori Microsoft Teams che gestiscono Microsoft Teams per facilitare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
   
-  I candidati per questo esame devono essere in grado di pianificare, distribuire, configurare e rendere sicuri chat, app, canali, riunioni, conferenze video/audio, eventi live, chiamate su Teams e dispositivi certificati Microsoft Teams.
-subTitle: I candidati per questo esame sono amministratori Microsoft Teams che gestiscono Microsoft Teams per agevolare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
+  I candidati per questa certificazione devono essere in grado di pianificare, distribuire, configurare e rendere sicuri chat, app, canali, riunioni, conferenze audio/video, eventi live, chiamate su Teams e dispositivi certificati Microsoft Teams.
+subTitle: Gli amministratori Microsoft Teams gestiscono Microsoft Teams per facilitare una collaborazione efficiente ed efficace in un ambiente Microsoft 365.
 levels:
 - intermediate
 skills:
@@ -27,8 +27,10 @@ products:
 courses:
 - uid: course.ms-700t00
 paths:
-- uid: learn-m365.m365-manage-team-collaboration
-- uid: learn-m365.m365-teams-upgrade
+- uid: learn.wwl.get-started-managing-microsoft-teams
+- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+- uid: learn.wwl.manage-meetings-calling-microsoft-teams
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnv
 exams:
 - uid: exam.ms-700

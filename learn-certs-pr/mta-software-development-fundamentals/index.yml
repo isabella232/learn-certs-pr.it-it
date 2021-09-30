@@ -13,12 +13,18 @@ subTitle: "Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrar
 levels:
 - beginner
 skills:
-- nessuna
+- Comprendere la manutenzione dei server 
+- Comprendere la programmazione orientata agli oggetti 
+- Comprendere lo sviluppo di software a livello generale 
+- Comprendere Web Applications 
+- Comprendere le applicazioni desktop 
+- Comprendere i database 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdXK
 exams:
 - uid: exam.98-361
 resources:

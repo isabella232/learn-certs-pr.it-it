@@ -13,12 +13,17 @@ subTitle: "Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrar
 levels:
 - beginner
 skills:
-- nessuna
+- Comprendere i fondamenti di Java
+- Lavorare con i tipi di dati, variabili ed espressioni 
+- Implementare il controllo di flusso 
+- Eseguire la programmazione orientata agli oggetti 
+- Compilare ed eseguire il debug del codice 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolS
 exams:
 - uid: exam.98-388
 resources:

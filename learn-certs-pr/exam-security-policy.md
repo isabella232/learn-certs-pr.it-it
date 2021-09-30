@@ -22,7 +22,7 @@ Il Microsoft Certification Program richiede che i candidati accettino i termini 
 
 ## Sicurezza dei centri di test 
 
-Lo staff dei centri di test è dotato di politiche di sicurezza che devono essere rafforzate per acquisire e mantenere lo status di centro di test. Delle ispezioni regolari permettono di assicurarsi che ogni centro di test salvaguardi la sicurezza delineata da Microsoft e dal fornitore dell'esame. Oltre a ciò, gli esaminatori dei centri di test sono autorizzati a prendere misure immediate contro i candidati che violano le regole del centro. Se hai delle preoccupazioni in merito alla sicurezza della tua esperienza d'esame, manda una mail a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Lo staff dei centri di test è dotato di una politica di sicurezza che deve essere rafforzata per acquisire e mantenere lo status di centro di test. Le ispezioni regolari garantiscono che ogni centro di test applichi le norme di sicurezza delineate da Microsoft e il fornitore dell'esame. Oltre a ciò, gli esaminatori dei centri di test sono autorizzati a prendere misure immediate nei confronti dei candidati che violano le regole previste. Se hai una preoccupazione in merito alla sicurezza della tua esperienza d'esame, completa questo [modulo](https://aka.ms/wwlcertsecurity).
 
 Per garantire la sicurezza degli esami Microsoft Certification, gli amministratori dei centri di test si assicurano che l'identificazione fornita sia adeguata e verificano che corrisponda con ID della persona che è venuta a dare l'esame; camminano tramite l'area di test a cadenza regolare; mantengono dei divisori tra le stazioni di test; rimuovono bigliettini, dispositivi elettronici e altri materiali non autorizzati, e prevengono la rimozione del contenuto di un esame in ogni forma o modalità. Oltre a ciò, gli amministratori dei centri di test e gli esaminatori non possono fornire alcun aiuto in rapporto a qualsiasi domanda d'esame. Possono aiutare a risolvere problemi tecnici, ma non possono assistere i candidati nella comprensione o nella risposta ad una qualsiasi domanda d'esame.
 
@@ -30,7 +30,7 @@ Microsoft potrebbe sospendere ogni esame presso un centro di test in cui si sosp
 
 ### Processi di appello di un centro di test
 
-I proprietari dei centri di test possono appellarsi alla chiusura di un sito trasmettendo l'appello a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+I proprietari dei centri di test possono appellarsi alla chiusura di un sito completando questo [modulo](https://aka.ms/wwlcertsecurity).
 
 ## Test fuori dal proprio paese
 
@@ -81,7 +81,7 @@ Esempi di comportamenti scorretti, uso indebito, e frode, includono, ma non si l
 
 ## Processo d'appello del candidato
 
-I candidati possono fare appello a fronte della loro squalifica trasferendo una richiesta di appello a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+I candidati possono appellarsi alla loro estromissione completando questo [modulo](https://aka.ms/wwlcertsecurity).
 
 Un candidato può appellarsi alla squalifica per aver falsificato un report di punteggio inoltrando il report originale (no scansioni o copie elettroniche) a:
 
@@ -97,6 +97,6 @@ Un'attività fraudolente è un'attività qualsiasi che permetta a un candidato n
 
 Il test con proxy si verifica quando qualcuno sostiene un esame per un altro candidato. Alcune compagnie offrono proxy testing, garantendo che passerai l'esame senza doverlo sostenere personalmente. Questo è un esempio di attività fraudolenta. 
 
-Un brain dump è una fonte, come un sito web, che contiene contenuti di esami di certificazioni che sono stati ottenuti in maniera fraudolenta con lo scopo di condividerli o venderli a candidati d'esame. Il contenuto incluso nei brain dump è esattamente lo stesso, o sostanzialmente simile, agli elementi presenti sull'esame. Visto che il contenuto dell'esame è stato ottenuto in maniera illegale, l'uso di questo genere di materiale per prepararsi per un esame, o durante esso, rappresenta un comportamento scorretto. I fornitori di brain dump sono in violazione con i diritti di proprietà intellettuale di Microsoft e dei nondisclosure agreement. Se pensi di aver scoperto un sito brain dump con contenuti Microsoft, per favore informaci inviando una email a  [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Un brain dump è una fonte, come un sito web, che contiene contenuti di un esame di certificazione che sono stati ottenuti in maniera fraudolenta con l'intenzione di condividerli o venderli ad altri candidati. Il contenuto incluso nel brain dump è esattamente lo stesso, o sostanzialmente simile, agli elementi presenti in sede di esame. Visto che il contenuto d'esame è stato ottenuto in maniera illecita, l'uso di questo tipo di materiale per prepararsi a un esame, o durante di esso, costituisce una violazione. I fornitori di brain dump sono in violazione con i diritti di proprietà intellettuale di Microsoft e i nondisclosure agreements. Se pensi di aver scoperto un sito brain dump con contenuti Microsoft, completa questo [modulo](https://aka.ms/wwlcertsecurity).
 
 I report di punteggio falsificati sono report che Microsoft sostiene non essere autentici, ingannevoli o fraudolenti in qualsiasi modo. Se Microsoft determina che un candidato ha falsificato un report di punteggio, il candidato non sarà ritenuto idoneo a sostenere ogni futuro esame Microsoft e la propria certificazione potrebbe essere revocata.

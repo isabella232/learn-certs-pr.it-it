@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati idonei a questo esame sono sviluppatori di Microsoft 365 che progettano, creano, testano e aggiornano le applicazioni e le soluzioni ottimizzate per la produttività e per le necessità di collaborazione delle aziende che utilizzano la piattaforma Microsoft 365.
   
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Implementare Microsoft Identity (20-25%)
 - Creazione di App con Microsoft Graph (15-20%)
 - Estensione e Personalizzazione SharePoint (15-20%)

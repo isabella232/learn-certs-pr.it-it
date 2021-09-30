@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 23 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che sono stati apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
 
   Il Security Analyst delle Operations Microsoft collabora con gli altri membri dell'organizzazione per proteggere i sistemi informatici dell'organizzazione. Il loro obiettivo congiunto è ridurre il rischio organizzativo ponendo rapidamente rimedio agli attacchi in corso nell'ambiente, fornendo consulenza sui miglioramenti alle pratiche di protezione dalle minacce e riportando agli stakeholder appropriati le eventuali violazioni delle politiche organizzative.
   
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 23 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Mitigare le minacce utilizzando Microsoft 365 Defender (25-30%)
 - Mitiga le minacce utilizzando Azure Defender (25-30%)
 - Mitiga le minacce utilizzando Azure Sentinel (40-45%)

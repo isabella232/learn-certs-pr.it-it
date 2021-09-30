@@ -25,14 +25,15 @@ subTitle: 'I consulenti funzionali di Finance di Dynamics 365 unificano i dati f
 levels:
 - intermediate
 skills:
-- Usare le funzionalità comuni e gli strumenti di implementazione
-- Configuare la sicurezza, i processi e le opzioni
-- Gestione dei dati di Finance and Operations
-- Convalidare e fornire assistenza per la soluzione
-- Impostare e configurare la gestione finanziaria
-- Implementazione e gestione della contabilità e le spese per i fornitori
-- Implementazione della contabilità per i clienti, crediti, incassi e ricavi
-- Gestione budget e asset fissi
+- Illustrare app di finanza ed operazioni, ed estendere app usando tecnologie Microsoft Power Platform 
+- Configurare funzionalità e flussi di lavoro amministrativi 
+- Gestire dati di finanza ed operazioni 
+- Convalidare e supportare soluzioni 
+- Impostare e configurare gestione finanziaria 
+- Implementare account ricevibili, crediti, collezioni e ricognizione delle entrate
+- Implementare e gestire account conti passivi e spese
+- Gestire budget 
+- Gestire capitale fisso
 roles:
 - functional-consultant
 type: role-based

@@ -7,15 +7,19 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  I candidati per questo esame analizzano i requisiti aziendali e li traducono in soluzioni e processi aziendali compiuti che implementano le migliori pratiche dell'azienda. I candidati giocano un ruolo di primo piano nell'implementazione e configurazione di applicazioni per soddisfare i requisiti aziendali.
+  I candidati per questa certificazione analizzano i requisiti aziendali e trasformano tali requisiti in processi e soluzioni aziendali completi che implementano le migliori pratiche. I candidati sono una risorsa chiave nella implementazione e configurazione di applicazioni per soddisfare i requisiti aziendali.
   
-  I candidati per questo esame sono in possesso di una comprensione fondamentale dei principi di contabilità e delle operazioni finanziarie in contesto aziendale, servizio clienti, servizio su campo, produzione, rivendita e concetti di gestione della catena di fornitura. Tipicamente si specializzano in uno o più set di funzioni di app di Finanza e Operazioni che includono finanza, produzione e gestione della catena di fornitura. 
+  I candidati per questa certificazione possiedono una conoscenza fondamentale dei principi di contabilità e delle operazioni finanziarie di un'azienda, servizio clienti, servizio su campo, produzione, rivendita, e concetti di gestione della catena di approvvigionamento. Solitamente si specializzano in uno o più set di funzioni di app di Finanza e Operazioni, come finanza, produzione e gestione della catena di approvvigionamento. 
   
   I candidati devono avere una certa conoscenza delle pratiche di gestione della catena di fornitura, tra cui l'acquisizione, il commercio, la logistica, la gestione del magazzino e del trasporto.
 subTitle: 'I consulenti di Supply Chain Management di Dynamics 365 ottimizzano la contabilizzazione dei costi, la gestione delle scorte, la pianificazione del libro mastro e gestiscono il magazzino per i loro clienti.'
 levels:
 - intermediate
 skills:
+- Illustrare app di finanza ed operazioni, ed estendere app usando tecnologie Microsoft Power Platform 
+- Configurare funzionalità e flussi di lavoro amministrativi 
+- Gestire dati di finanza ed operazioni 
+- Convalidare e supportare soluzioni 
 - Implementano la gestione delle informazioni sul prodotto
 - Implementare la gestione dell'Inventario 
 - Implementazione e gestione dei processi della Catena di Fornitura

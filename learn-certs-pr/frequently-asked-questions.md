@@ -50,10 +50,8 @@ I commenti relativi ai corsi di formazione Microsoft con istruttore possono esse
 **Come faccio a inviare un commento relativo a una domanda o un'esperienza dell'esame?**
 
 - Se sei preoccupato della precisione tecnica di un certo elemento, consulta: [Processo di contestazione elementi di esame](/learn/certifications/exam-item-challenge-process).
-
 - Per riportare una preoccupazione circa un centro di test o difficoltà tecniche incontrate durante il tuo esame, contatta il servizio clienti del giusto fornitore d'esame.
-
-- Per riportare una preoccupazione di sicurezza, contatta [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+- Per riportare una preoccupazione in termini di sicurezza, compila questo [modulo](https://aka.ms/wwlcertsecurity).
 - Per offrire altri tipi di feedback, contatta [supporto certificazione.](https://aka.ms/mcpforum)
 
 ## Aspetti specifici degli esami

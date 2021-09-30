@@ -6,9 +6,7 @@ metadata:
 uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>L'ESAME DP-203</a> SOSTITUISCE GLI ESAMI DP-200 E DP-201. DP-200 e DP-201 saranno rimossi il 31 agosto 2021.</strong></font><br/><br/></div>
-  
+summary: |-  
   Un candidato per la certificazione Azure Data Engineer Associate deve avere esperienza in materia di integrazione, trasformazione e consolidamento dei dati da vari sistemi di dati strutturati e non strutturati in strutture idonee per la creazione di soluzioni di analisi.
   
   Le responsabilità di tale figura includono fornire supporto agli altri stakeholder per comprendere i dati attraverso l'esplorazione, la creazione e il mantenimento di pipeline di elaborazione dati sicure e conformi utilizzando molteplici strumenti e tecniche. Questa figura professionale utilizza vari servizi dati e linguaggi di Azure per archiviare e rendere disponibili set di dati puliti e migliorati per l'analisi successiva.
@@ -16,11 +14,6 @@ summary: |-
   Un Azure Data Engineer aiuta anche a garantire che le pipeline di dati e gli archivi dati funzionino sempre ad alte prestazioni e si mantengano efficienti, organizzati e affidabili, in base a una serie specifica di requisiti e vincoli aziendali. La figura professionale in questione deve saper affrontare rapidamente problemi imprevisti e ridurre al minimo i rischi di perdita di dati. Un Azure Data Engineer progetta, implementa, monitora e ottimizza anche le piattaforme dati per soddisfare le esigenze della pipeline di dati.
   
   Un candidato per questa certificazione deve avere una conoscenza approfondita dei linguaggi di elaborazione dati, come SQL, Python o Scala, e deve comprendere i modelli di elaborazione parallela e di architettura dei dati.
-  
-  <div><br/><strong>Otterrai questa certificazione se completerai una delle seguenti opzioni&#58;</strong><br/>
-  <ul>
-  <li>Passa <a href="/learn/certifications/exams/dp-200">DP-200</a> e <a href="/learn/certifications/exams/dp-201">DP-201</a> (rimozione il 31 agosto 2021) <strong>o</strong></li>
-  <li>Superamento di <a href="/learn/certifications/exams/dp-203">DP-203</a> (rilasciato in versione beta il 23 Febbraio 2021)</li></ul></div>
 subTitle: Gli ingegneri che si occupano dei Darti di Azure integrano, trasformano e consolidano i dati provenienti da vari sistemi di dati strutturati e non strutturati in strutture adatte alla creazione di soluzioni di analisi.
 levels:
 - intermediate
