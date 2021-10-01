@@ -10,7 +10,6 @@ summary: |-
   
   Devi avere familiarità con le metodologie per il ciclo di sviluppo software, l'integrità dei dati, e il rispetto per la sicurezza dei dati. Inoltre, devi avere esperienza e conoscenza approfondita nell'uso di strutture sottostanti, strutture dati, e oggetti associati a soluzioni di finanza e operazioni su Dynamics 365 che forniscono le funzionalità ai vertici della categoria.
 
-  
   Se hai bisogno di maturare più esperienza prima di provare ad acquisire questa certificazione, ecco alcuni suggerimenti&#58;
   - Lavora come sviluppatore su una o più app di finanza e operazioni su Dynamics 365.
   - Offri il tuo aiuto per sviluppare un progetto.
@@ -21,10 +20,10 @@ subTitle: Gli sviluppatori che utilizzano le app Finance and Operations di Micro
 levels:
 - intermediate
 skills:
-- Usare le funzionalità comuni e gli strumenti di implementazione
-- Configuare la sicurezza, i processi e le opzioni
-- Gestione dei dati Finance and Operations
-- Convalidare e fornire assistenza per la soluzione
+- Illustrare app di finanza ed operazioni, ed estendere app usando tecnologie Microsoft Power Platform 
+- Configurare funzionalità e flussi di lavoro amministrativi 
+- Gestire dati di finanza ed operazioni 
+- Convalidare e supportare soluzioni 
 - Pianificare la progettazione dell'architettura e della soluzione
 - Applicare gli strumenti di sviluppo
 - Progettare e sviluppare elementi AOT

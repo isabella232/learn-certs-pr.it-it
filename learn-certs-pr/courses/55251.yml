@@ -1,0 +1,181 @@
+### YamlMime:Course
+title: SharePoint 2016 Site Owner Training
+metadata:
+  title: 'Course 55251-A: SharePoint 2016 Site Owner Training'
+  description: 'Course 55251-A: SharePoint 2016 Site Owner Training'
+uid: course.55251
+courseNumber: '55251-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Esplorare un Sito Team di SharePoint 2016.
+- skill: Creare e modificare contenuti di pagine web.
+- skill: Creare colonne tipi di contenuto sul sito. 
+- skill: Integrare applicazioni Office con SharePoint 2016.
+- skill: Gestire permessi di base per risorse SharePoint 2016.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Questo corso di due giorni tenuto da istruttore per Proprietari Siti SharePoint 2016 è pensato per proprietari/gestori di sito che sono nuovi al lavoro in ambienti SharePoint 2016.
+
+  #### Profilo d'Utenza
+  Questo corso è pensato esclusivamente per gli utenti nuovi a SharePoint 2016.
+outlineSection: |-
+  ### Modulo 1&#58; Lavorare con i Siti 
+  Tutto il contenuto SharePoint ha un accesso tramite un sito. Un sito SharePoint è il recipiente di liste e librerie e fornisce un punto di partenza per un'amministrazione di base. Il contenuto, le liste, le librerie e l'aspetto e le impressioni di base inizialmente determinati dal Template del Sito usato per la sua creazione.
+  
+  #### Lezioni
+  - Template Siti
+  - Creare Siti
+  - Creare un Sito Team
+  - Esplorare il Sito 
+  - Gestire la Navigazione sul Sito
+
+
+  #### Lab &#58; Creare Siti Team 
+
+  #### Lab &#58; Creare uno Spazio di Lavoro per Riunioni 
+
+  #### Lab &#58; Creare un Sito Blog 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire cosa sono i Template Sito.
+  - Capire i diversi tipi di Template Sito che sono già pronti all'uso con diverse versioni di SharePoint.
+  - Creare un nuovo sito usando Template Siti.
+  - Creare un Progetto sito.
+  - Creare un sito Team.
+  - Creare un sito Community.
+  - Creare un sito Blog.
+  - Gestire i siti elencati nella Barra Top Link.
+
+
+  ### Modulo 2&#58; Contenuto della Pagina 
+  SharePoint offre un paio di modi per aggiungere contenuti alle pagine di un sito. L'ultima tecnologia e quella implementata dal template Sito Team avviene tramite pagine stile wiki. Un altro metodo che fa parte di SharePoint dall'inizio prevede l'uso di pagine Web Parts e Web Part. Entrambe le tecniche sono simili in termini di risultato che può essere creato, e sia pagine Web Part che wiki condividono la possibilità di aggiungervi Web Parts.
+
+  #### Lezioni
+  - Pagine Libreria Wiki 
+  - Modificare la Home Page del Sito Team
+  - Pagine Web Part 
+  - Creare una Pagina Web Part 
+  - Lavorare con Web Parts
+  - Aggiungere Web Parts alle Pagine
+
+
+  #### Lab &#58; Lavorare con Pagine Wiki 
+
+  #### Lab &#58; Lavorare con Pagine Web Part e Web Parts
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire cosa sono le pagine wiki.
+  - Capire cosa sono pagine Web Part e Web Parts.
+  - Aggiungere contenuti alla Home Page Sito Team.
+  - Cambiare il layout della Home Page Sito Team.
+  - Creare una pagina Web Part.
+  - Creare una libreria con pagine wiki.
+  - Aggiungere Web Parts.
+  - Gestire Web Parts.
+
+
+  ### Modulo 3&#58; Libreria Moduli
+  Una libreria SharePoint Forms è una libreria speciale pensata per archiviare formulari Microsoft InfoPath. Microsoft InfoPath comprende uno strumento di progettazione per creare graficamente dei moduli con un vasto assortimento di campi e controlli. InfoPath Designer può quindi essere usato per pubblicare i moduli che progetti per il rendering su SharePoint in forma di template pagine web per librerie Moduli. Al tempo della stesura, Microsoft ha affermato che InfoPath sarebbe stato rimosso. Per SharePoint 2016 hanno lasciato il supporto per lo strumento, ma non c'è una versione 2016 degli strumenti clienti. Ciò implica che puoi ancora usarlo su SharePoint 2016, ma per creare moduli personalizzati dovrai usare lo strumento InfoPath 2013 Designer. Resta possibile che una futura versione di SharePoint non supporterà più InfoPath forms del tutto. Per questo motivo la copertura di questo capitolo del corso è opzionale.
+  
+  #### Lezioni
+  - Creare una Libreria Moduli
+  - Creare InfoPath Forms
+  - Creare un Modulo con Microsoft InfoPath Designer
+  - Pubblicare InfoPath Forms su SharePoint
+  - Pubblicare un InfoPath Form Personalizzato
+
+
+  #### Lab &#58; Creare e Pubblicare InfoPath Forms
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire cosa sia una Libreria Moduli.
+  - Creare una Libreria Moduli.
+  - Usare InfoPath Designer per progettare un template modulo di base.
+  - Pubblicare un template modulo InfoPath Designer in una Libreria Moduli.
+  - Progettare cambi di template moduli come colonne libreria.
+  - Create casi di documenti in una Libreria Moduli.
+
+
+  ### Modulo 4&#58; Colonne e Tipi di Contenuto sul Sito 
+  Un metodo di personalizzare SharePoint in un modo che può essere riutilizzato su tutto il sito, la collezione di siti, o un'intera fattoria, prevede la creazione di Colonne e Tipi di Contenuti. Le Colonne Sito sono l'elemento più semplice; sono essenziali come una lista e le colonne di una libreria, tranne per il fatto che le crei al livello del sito e che possono essere usate su tutto il sito e ogni sito figlio. I Tipi di Contenuto sono una Combinazione di Colonne Sito e anche impostazioni ed informazioni addizionali, come template documenti e flussi di lavoro. I Tipi di Contenuti, una volta creati, possono essere collegati a liste e librerie.  
+
+  #### Lezioni
+  - Galleria Colonne Sito 
+  - Esplorare la Galleria Colonne Sito 
+  - Creare Colonne Sito 
+  - Create Colonne Sito Personalizzate
+  - Aggiungere Colonne Sito a una Lista
+  - Galleria Tipi di Contenuti 
+  - Esplorare la Galleria Tipi di Contenuti 
+  - Creare Tipi di Contenuti 
+  - Come Creare e Usare Tipi di Contenuti 
+
+
+  #### Lab &#58; Creare e Lavorare con Tipi di Contenuto 
+
+  #### Lab &#58; Aggiungere un Tipo di Contenuto a una Libreria
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire Colonne Sito.
+  - Capire i Tipi di Contenuto.
+  - Creare Colonne Sito.
+  - Creare Tipi di Contenuto.
+  - Creare un template documento per Tipi di Contenuto.
+  - Assegnare Tipi di Contenuto a una lista o una libreria.
+  - Creare nuovi elementi in base a Tipi di Contenuto personalizzati.
+
+
+  ### Modulo 5&#58; Gestire Permessi su SharePoint Site 
+  I permessi su un sito SharePoint sono assegnati al momento della creazione di un sito. Di default, i permessi assegnati alla radice di una collezione sito sono ereditati dai siti figli. In ogni momento, l'eredità dei permessi può essere disattivata per un sito, una lista, una libreria, o anche a livello degli elementi di una lista o libreria. I permessi stessi possono essere assegnati a gruppi SharePoint, utenti individuali, o gruppi creati al di fuori di SharePoint come gruppi Windows.
+
+  #### Lezioni
+  - Gruppi SharePoint 
+  - Assegnare Permessi 
+  - Livelli di Permessi
+  - Eredità dei Permessi Ereditati per Gruppi SharePoint
+
+
+  #### Lab &#58; Lavorare con Permessi SharePoint 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire gruppi SharePoint.
+  - Creare gruppi SharePoint.
+  - Assegnare permessi su SharePoint.
+  - Visualizzare livelli di permessioni.
+  - Gestire eredità permessi al livello del sito.
+  - Gestire eredità permessi al livello di liste o librerie.
+  - Gestire eredità permessi al livello degli elementi.
+
+
+  ### Modulo 6&#58; Partecipare alle Community Utente
+  SharePoint offre ai suoi utenti un posto ideale per la collaborazione in forma di siti personali. L'esperienza e la funzionalità sono molto simili ai siti social molto utilizzati come Facebook e LinkedIn. La principale differenza è che sono controllati dalla SharePoint Farm e l'esposizione è solitamente limitata alle reti interne.
+
+  #### Lezioni
+  - Configurare Profili Utenti e I Miei Siti
+  - Feed
+  - Feed delle Persone 
+  - Feed Documenti 
+  - Feed Siti
+  - Feed Tag
+  - Gestione Siti Personali
+
+
+  #### Lab &#58; Gestire e Visualizzare Informazioni e Contenuti Personali 
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Modificare un profilo personale.
+  - Gestire feed.
+  - Aggiungere feed di altre persone.
+  - Aggiungere feed documenti.
+  - Aggiungere feed siti.
+  - Seguire tag.
+  - Archiviare contenuti personali.

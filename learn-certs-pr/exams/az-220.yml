@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati per questo esame dovrebbero avere competenze in materia di implementazione di configurazione e di attività di codifica necessarie per creare e preservare le porzioni cloud e edge di una soluzione IoT.
   
@@ -19,12 +19,20 @@ scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=A
 locales:
 - en
 - ja
-- zh-cn
 - ko
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-cn
+- it
+- de
+- zh-tw
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Configurare le soluzioni di infrastruttura IoT (10-15%)
 - Effettuare il provisioning e gestire i dispositivi (15-20%)
 - Implementare IoT Edge (15-20%)

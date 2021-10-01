@@ -13,7 +13,22 @@ subTitle: Dimostra la tua completa padronanza delle competenze principali su Win
 levels:
 - intermediate
 skills:
-- none
+- Installare i server Windows in ambienti host e di calcolo
+- Implementare soluzioni di archiviazione 
+- Implementare Hyper-V
+- Implementare i contenitori di Windows 
+- Implementare l'elevata disponibilità 
+- Gestire e monitorare gli ambienti server 
+- Implementare il DNS (Domain Name System) 
+- Implementare DHCP e IPAM 
+- Implementare soluzioni di connettività di rete e accesso remoto 
+- Implementare soluzioni per la rete principale e distribuita 
+- Implementare un'infrastruttura di rete avanzata 
+- Installare e configurare i servizi di dominio Active Directory (AD DS) 
+- Gestire e mantenere AD DS
+- Creare e gestire Criteri di gruppo 
+- Implementare Servizi certificati Active Directory (AD CS) 
+- Implementare Federazione delle identità e soluzioni di accesso 
 roles:
 - administrator
 type: mcsa
@@ -23,6 +38,7 @@ courses:
 - uid: course.20740
 - uid: course.20741
 - uid: course.20742
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMC
 exams:
 - uid: exam.70-740
 - uid: exam.70-741

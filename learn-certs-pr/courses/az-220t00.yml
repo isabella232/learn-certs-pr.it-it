@@ -23,6 +23,9 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 roles:
@@ -44,7 +47,7 @@ prerequisitesSection: |-
   - Esperienza nello sviluppo di software&#58; L'esperienza nello sviluppo di software è un prerequisito per questo corso, ma non è richiesto alcun linguaggio software specifico e non è necessario che l'esperienza sia di livello professionale.
   - Esperienza nell'elaborazione dei dati&#58; E' consigliata, ma non obbligatoria, la comprensione generale dello storage e dell'elaborazione dati.
   - Corso Gratuito online; Fondamenti di Azure (https&#58;//docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-  - Corso tenuto da docente; Fondamenti di Azure (https&#58;//docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
+  - Corso tenuto da docente; Fondamenti di Azure (https&#58;//docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### Modulo 1&#58; Introduzione a IoT e ai servizi IoT di Azure
   In questo modulo, i partecipanti inizieranno analizzando le considerazioni aziendali per diverse implementazioni IoT ed esaminando il modo in cui l'architettura di riferimento IoT di Azure supporta le soluzioni IoT. Questo modulo fornisce inoltre ai partecipanti una panoramica dei servizi di Azure comunemente usati in una soluzione IoT e un'introduzione al portale Azure.

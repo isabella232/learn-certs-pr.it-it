@@ -1,0 +1,115 @@
+### YamlMime:Course
+title: 'Microsoft Security Workshop: Enterprise Security Fundamentals'
+metadata:
+  title: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+  description: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+uid: course.40551
+courseNumber: '40551-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Illustrare l'attuale panorama in termini di sicurezza informatica 
+- skill: Illustrare l'assunzione di una filosofia di compromessi 
+- skill: Identificare i fattori che contribuiscono al costo di una violazione 
+- skill: Distinguere tra responsabilità dei team rossi e dei team blu 
+- skill: Identificare i tipici obiettivi di attacchi informatici 
+- skill: Illustrare una kill chain portata avanti da team rossi 
+- skill: Illustrare lo scopo, gli obiettivi e le attività kill chain negli esercizi con team blu e rosso 
+- skill: Illustrare i modi che limitano come un hacker può compromettere gli account senza privilegio 
+- skill: Illustrare i metodi usati per limitare il movimento laterale
+- skill: Illustrare come il monitoraggio telemetrico possa essere usato per individuare gli attacchi
+- skill: Spiegare il concetto della triade di Confidenzialità, Integrità e Disponibilità (CIA) 
+- skill: Illustrare le attività principali che dovrebbero essere incluse nella preparazione aziendale 
+- skill: Identificare i principi fondamentali nello sviluppo e salvaguardia delle politiche 
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  Questo workshop di 1 giorno tenuto da istruttore fornisce delle informazioni sulle pratiche di sicurezza per migliorare la posizione di un'azienda. Questo workshop esamina il concetto di team Rosso e team Blu, dove un gruppo di professionisti di sicurezza (il team rosso) attacca alcune componenti dell'infrastruttura di sicurezza di una azienda, e l'altro gruppo (il team blu) la difende da tale attacco. Entrambi i team lavoreranno per rafforzare le difese aziendali. Visto che l'obiettivo di entrambi i team è aiutare l'azienda ad ottenere un livello più elevato di sicurezza, il settore della sicurezza chiama questa funzione il team Viola.
+
+  Questo workshop fa parte di un'ampia serie di Workshop offerti da Microsoft sulle pratiche della Sicurezza. Anche se non è richiesto che tu abbia completato uno degli altri corsi della serie di Workshop sulla Sicurezza prima di frequentare questo workshop, è altamente consigliato iniziare con questo workshop della serie: Microsoft Security Workshop&#58; Enterprise Security Fundamentals.
+
+  #### Profilo d'Utenza
+  Questo workshop di 1 giorno è pensato per Professionisti IT che necessitano di una comprensione più approfondita della Sicurezza Windows e desiderano aumentare il proprio livello di conoscenza. Questo corso fornisce anche un background sulla sicurezza informatica necessario per altri corsi sulla sicurezza di questa serie.
+prerequisitesSection: |-
+  Oltre alla propria esperienza professionale, gli studenti che desiderano frequentare questa formazione devono essere in possesso delle seguenti conoscenze tecniche&#58;
+  - L'attuale ecosistema in campo di sicurezza informatica
+  - Analisi di hacking su reti e computer 
+  - Basi della Gestione del Rischio 
+outlineSection: |-
+  ### Modulo 1&#58; Capire il panorama della sicurezza informatica 
+  In questo modulo, scoprirai l'attuale panorama della sicurezza informatica e imparerai come adottare la filosofia del compromesso, come limitare la capacità dell'hacker di muoversi lateralmente tra sistemi informativi e come limitare la sua capacità di prevaricare i privilegi all'interno di quei sistemi.
+  L'attuale panorama in termini di sicurezza informatica è vasto ed è praticamente impossibile per chiunque comprenderne l'ampiezza. Ci sono, tuttavia, alcuni aspetti di quel panorama a cui coloro che sono interessati alle basi fondamentali della sicurezza aziendale dovrebbero prestare attenzione.
+  
+  #### Lezioni
+  - Attuale Panorama della Sicurezza Aziendale
+  - Assumere Filosofia del Compromesso 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare l'attuale panorama in termini di sicurezza informatica.
+  - Illustrare l'Assunzione della Filosofia del Compromesso.
+  - Identificare i fattori che contribuiscono al costo di una violazione.
+
+
+  ### Modulo 2&#58; Team Rosso&#58; Penetrazione, Movimento Laterale, Escalation ed Estrazione
+  Gli esercizi che prevedono team blu contro team rosso riguardano la simulazione di un attacco che mira il sistema informatico di un'azienda. Il sistema rosso simula e, in alcuni casi, esegue dei passi proof of concept nell'attacco contro i sistemi IT dell'azienda. Il team blu simula la risposta a quell'attacco. 
+  Questo approccio avversario non solo consente di identificare le vulnerabilità in termini di sicurezza nella configurazione dei sistemi IT di un'azienda, ma permette anche ai membri della sicurezza informatica aziendale come individuare e rispondere a tali attacchi. 
+  In questo modulo imparerai la Pratica di approccio Team Rosso vs Team Blu per individuare e rispondere alle minacce di sicurezza. 
+  
+  #### Lezioni
+  - Esercizi Team Rosso versus Team Blu
+  - L'Obiettivo dell'Hacker 
+  - Kill Chain del Team Rosso 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Distinguere le responsabilità di team rosso e team blu. 
+  - Identificare i tipici obiettivi degli attacchi informatici. 
+  - Illustrare una kill chain portata avanti dal team rosso.
+
+
+  ### Modulo 3&#58; Individuazione, Indagine, Risposta e Mitigazione del Team Blu
+  In questo modulo scoprirai i ruoli e gli obiettivi del Team Blu negli esercizi di attacco. Imparerai la struttura di un attacco contro un obiettivo (Kill Chain) e i modi per limitare la compromissione degli account senza privilegio da parte degli hacker. Imparerai anche i metodi usati per limitare il movimento laterale che prevengono l'uso di un sistema compromesso per attaccare altri sistemi, e anche come il monitoraggio telemetrico viene usato per individuare gli attacchi.
+  
+  #### Lezioni
+  - Il Team Blu
+  - Kill Chain del Team Blu 
+  - Limitare l'Escalation del Privilegio 
+  - Limitare il Movimento Laterale 
+  - Individuazione dell'Attacco
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - illustrare ruolo, obiettivi e attività della kill chain del Team Blu negli esercizi contro il team rosso.
+  - Illustrare la struttura di un attacco contro un obiettivo (Kill Chain).
+  - Illustrare  modi per limitare la compromissione degli account senza privilegio da parte degli hacker.
+  - Illustrare i metodi usati per limitare il movimento laterale.
+  - Illustrare come il monitoraggio telemetrico viene usato per individuare gli attacchi.
+
+
+  ### Modulo 4&#58; Preparazione Aziendale
+  Ci sono diverse preparazioni continue che un'azienda può intraprendere per migliorare il proprio approccio complessivo alla sicurezza delle proprie informazioni. In questo modulo daremo un'occhiata più da vicino ad alcune di esse. Imparerai un modello concettuale per pensare alla sicurezza delle informazioni e come approcciarsi alla loro sicurezza e prepararsi adeguatamente, comprendendo come assicurarsi che la propria azienda abbia un approccio deliberato alla sicurezza delle informazioni.
+  
+  #### Lezioni
+  - La Triade CIA 
+  - Preparazioni Aziendali 
+  - Sviluppo e Salvaguardia delle Politiche 
+
+
+  #### Lab &#58; Progettare una strategia del Team Blu 
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Spiegare il concetto della triade di Confidenzialità, Integrità e Disponibilità (CIA).
+  - Illustrare le attività principali che dovrebbero essere incluse nella preparazione aziendale. 
+  - Identificare i principi fondamentali nello sviluppo e salvaguardia delle politiche.
+  
+  Dopo aver completato questo lab, gli studenti saranno in grado di&#58;
+  - Progettare un approccio di alto livello per mitigare le minacce 
+  - Consigliare strumenti e metodi per facilitare il rintracciamento delle origini di attacchi informatici 
+  - Fornire passi di alto livello per uno sforzo di ripristino 
+  - Consigliare metodi per prevenire attacchi informatici 
+  - Illustrare sfide di regolazione che seguono exploit di malware

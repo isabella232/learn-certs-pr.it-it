@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div>
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 28 maggio 2021. Scarica la descrizione della competenze valutate qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
 
   I candidati per questo esame dovrebbero essere ingegneri o architetti con vasta esperienza e conoscenza in merito all'ambiente di sistema SAP e agli standard aziendali specifici per la migrazione iniziale o l'integrazione e l'operatività a lungo termine di una soluzione SAP su Microsoft Azure.
   
@@ -28,10 +26,18 @@ locales:
 - ja
 - zh-cn
 - ko
+- fr
+- de
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame è stato aggiornato il 28 maggio 2021. Scarica la descrizione della competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Eseguire la migrazione dei carichi di lavoro SAP in Azure (25–30%)
 - Progettare e Implementare un'Infrastruttura per Supportare Carichi di Lavoro SAP (25–30%)
 - Progettare e Implementare High Availability e Disaster Recovery (HA/DR) (20–25%)

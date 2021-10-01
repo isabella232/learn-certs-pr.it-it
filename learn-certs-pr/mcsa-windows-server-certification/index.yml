@@ -13,7 +13,24 @@ subTitle: Dimostra la tua completa padronanza delle competenze principali su Win
 levels:
 - intermediate
 skills:
-- none
+- Installare e configurare server (15-20%)
+- Configurare ruoli e funzionalità dei server (15-20%)
+- Configurare Hyper-V (15-20%)
+- Distribuire e configurare i servizi di rete di base (15-20%)
+- Installare e amministrare Active Directory (15-20%)
+- Creare e gestire i Criteri di gruppo (15-20%)
+- Distribuire, gestire ed eseguire la manutenzione dei server
+- Configurare servizi di stampa e file
+- Configurare servizi e accessi di rete
+- Configurare Server Infrastructure dei criteri di rete
+- Configurare e gestire Active Directory
+- Configurare e gestire i Criteri di gruppo
+- Configurare e gestire la disponibilità elevata
+- Configurare soluzioni per la gestione di file e dell'archiviazione
+- Implementare Business Continuity e Disaster Recovery
+- Configurare i servizi di rete
+- Configurare l'infrastruttura di Active Directory
+- Configurare le soluzioni di accesso e protezione delle informazioni
 roles:
 - administrator
 type: mcsa
@@ -23,6 +40,7 @@ courses:
 - uid: course.20410
 - uid: course.20411
 - uid: course.20412
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomH
 exams:
 - uid: exam.70-410
 - uid: exam.70-411

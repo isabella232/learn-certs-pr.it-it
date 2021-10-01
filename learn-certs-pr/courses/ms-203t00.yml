@@ -28,7 +28,7 @@ levels:
 roles:
 - administrator
 products:
-- m365
+- azure
 exams:
 - uid: exam.ms-203
 summary: |-
@@ -95,11 +95,11 @@ outlineSection: |-
 
 
   ### Modulo 3&#58; Gestire la protezione attiva dei messaggi
-  In questo modulo imparerai le funzionalità e le caratteristiche di Microsoft Exchange Online Protection (EOP). Imparerai anche a pianificare l'instradamento della messaggistica per questo servizio, che fornisce criteri anti-malware e anti-spam che proteggono la tua azienda da spam e malware e dalle violazioni delle policy di messaggistica. Esaminerai la protezione anti-malware e anti-spam fornita da Exchange Server e Protezione in linea ed anche come configurare filtri malware e SPAM, criteri e impostazioni per garantire la protezione degli utenti. Concluderai il modulo esaminando l'Advanced Threat Protection (ATP) e scoprirai come estende la protezione fornita dall'EOP filtrando gli attacchi mirati che potrebbero passare attraverso la linea di difesa dell'EOP, comprese le minacce avanzate come gli attacchi zero-day negli allegati e-mail e nei documenti di Office e la protezione al momento del clic contro URL dannosi. Imparerai come Microsoft 365 ATP protegge gli utenti dalle minacce avanzate attraverso funzioni come allegati e collegamenti sicuri, e come genera rapporti che forniscono agli amministratori informazioni sugli attacchi mirati ai loro tenant tramite e-mail.
+  In questo modulo scoprirai le funzionalità e caratteristiche di Microsoft Exchange Online Protection (EOP). Imparerai anche come pianificare il routing dei messaggi per questo servizio, che fornisce politiche anti malware e anti spam che proteggeranno la tua azienda da violazioni della politica di messaggistica. Rivedrai poi la protezione anti malware e spam fornita da Exchange Server e Online Protection, e imparerai come configurare filtri SPAM e malware, politiche e impostazioni per offrire protezione ai tuoi utenti. Concluderai il modulo esaminando Defender per Office 365 e come estende la protezione fornita da EOP filtrando gli attacchi mirati che potrebbero oltrepassare la linea di difesa di EOP, comprendendo le minacce avanzate come attacchi zero-day in allegati email e documenti, oltre a una protezione nel raggio di un click da URLs sospetti. Imparerai come Defender for Office 365 protegge gli utenti da minacce avanzate con funzionalità quali allegati sicuri e collegamenti sicuri, e come genera dei report che forniscono agli amministratori delle informazioni utili sugli attacchi mirati ai propri tenant tramite email.
   #### Lezioni
   - Pianificazione della protezione attiva dei messaggi
   - Gestione dei criteri anti-malware e anti-spam
-  - Gestione della protezione avanzata dalle minacce
+  - Gestire Protezione da Minacce Avanzate con Defender for Office 365
 
 
   #### Lab&#58; Gestione della protezione attiva dei messaggi
@@ -114,10 +114,11 @@ outlineSection: |-
   - Utilizzo di funzionalità aggiuntive per il filtraggio e la quarantena dello spam in uscita.
   - Implementazione di funzionalità di protezione contro phishing e spoofing.
   - Creazione di regole di trasporto per requisiti personalizzati.
-  - Descrizione delle funzionalità di Advanced Threat Protection.
+  - Illustrare le funzionalità di Microsoft Defender for Office 365.
   - Descrizione della protezione fornita dai criteri Safe Attachment e Safe Links.
   - Comprensione delle funzionalità di spoof intelligence.
   - Conoscenza di come funzionano i criteri anti-phishing ATP.
+  - Capire come usare l'Analizzatore di Configurazione 
 
 
   ### Modulo 4&#58; Gestire la conformità
@@ -161,7 +162,7 @@ outlineSection: |-
   - Configurazione dei criteri per i carichi di lavoro e le limitazioni.
   - Configurazione delle configurazioni delle quote.
   - Configurazione di Exchange Server e integrazione di Skype for Business.
-  - Implementazione dei componenti aggiuntivi di Office 365.
+  - Distribuire App Integrate Office 365 
   - Descrizione di una panoramica delle funzionalità di condivisione delle deleghe federate di Exchange.
   - Descrizione dei componenti di condivisione federati.
   - Descrizione delle considerazioni per la progettazione e l'implementazione di trust federativi e certificati.
@@ -229,7 +230,7 @@ outlineSection: |-
   - Descrizione dei diversi oggetti destinatari in Exchange.
   - Descrizione delle cassette postali delle risorse.
   - Descrizione delle cassette postali condivisione.
-  - Descrizione delle casette postali collegate e delle cassette postali del sito.
+  - Illustrare caselle di posta collegate 
   - Descrizione dei gruppi.
   - Creazione e gestione delle impostazioni delle cassette postali.
   - Creazione e gestione delle casette postali Risorse e Condivise.
@@ -291,7 +292,7 @@ outlineSection: |-
 
 
   ### Modulo 11&#58; Esecuzione delle migrazione delle cassette postali
-  Questo modulo esamina le opzioni disponibili per la migrazione della posta elettronica a Exchange Online, ad esempio l'esecuzione di una migrazione o l'utilizzo di FastTrack per spostare le cassette postali dai server di posta esistenti a Exchange Online. Questo modulo riepiloga le opzioni di migrazione e coesistenza e consiglia quando utilizzare quale opzione. Il modulo esamina quindi i requisiti per l'esecuzione di una migrazione IMAP, le opzioni di migrazione disponibili e i passaggi da eseguire durante una migrazione. Il modulo esamina poi come pianificare ed eseguire sia una migrazione completa che gestita. Vengono confrontati ciascuno di questi due approcci di migrazione e vengono fornite informazioni sui requisiti, le attività di pianificazione e il processo di migrazione per ciascuna opzione. Il modulo si conclude esaminando importanti attività di migrazione aggiuntive, come la migrazione di un file PST e le considerazioni per la migrazione di una cartella pubblica. 
+  Questo modulo esamina le opzioni disponibili per migrare le email su Exchange Online, come eseguire una migrazione o usare FastTrack per spostare caselle di posta dai tuoi server email esistenti a Exchange Online. Questo modulo sintetizza le opzioni di migrazione e di coesistenza e consiglia quando usare le prime e quando le altre. Il modulo poi esamina i requisiti necessari per eseguire una migrazione IMAP, quali sono le opzioni di migrazione disponibili, e i passi che vengono intrapresi durante tale operazione. Il modulo verterà poi su come pianificare ed eseguire sia un cutover che una migrazione graduale. Confronterà questi due approcci di migrazione, così imparerai quali sono i requisiti, le attività da pianificare, e il processo di migrazione per ognuno di essi. Il modulo si conclude esaminando altre importanti attività di migrazione, come la migrazione cross-tenant, la migrazione di un file PST e altre considerazioni per la migrazione di una Cartella Pubblica. 
   #### Lezioni
   - Pianificazione della migrazione delle cassette postali
   - Esecuzione della migrazione delle cassette postali
@@ -307,6 +308,7 @@ outlineSection: |-
   - Esecuzione di una migrazione e spostamento delle casette postali con una migrazione completa o a fasi.
   - Importazione di file PST nelle cassette postali di Exchange Online.
   - Migrazione di cartelle pubbliche a Exchange Online.
+  - Eseguire una Migrazione Cross-Tenant 
 
 
   ### Modulo 12&#58; Distribuzione e risoluzione dei problemi di un ambiente ibrido

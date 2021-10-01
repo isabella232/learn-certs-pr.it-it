@@ -13,12 +13,15 @@ subTitle: "Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrar
 levels:
 - beginner
 skills:
-- nessuna
+- Comprendere delle infrastrutture di rete
+- Comprendere dell’hardware di rete
+- Comprendere dei protocolli e dei servizi 
 roles:
 - administrator
 type: mta
 products:
 - windows-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLo
 exams:
 - uid: exam.98-366
 resources:
