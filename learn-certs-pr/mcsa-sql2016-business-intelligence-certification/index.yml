@@ -13,7 +13,13 @@ subTitle: Questa certificazione ti permette di convalidare le tue competenze nei
 levels:
 - intermediate
 skills:
-- none
+- Progettare, implementare e gestire un data warehouse
+- Estrarre, trasformare e caricare i dati 
+- Creare soluzioni per la qualità dei dati 
+- Progettare un modello semantico di Business Intelligence (BI) multidimensionale
+- Progettare un modello semantico BI tabulare 
+- Sviluppare query usando espressioni MDX (Multidimensional Expressions) e DAX (Data Analysis Expressions) 
+- Configurare e gestire SQL Server Analysis Services (SSAS) 
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20767
 - uid: course.20768
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYZ
 exams:
 - uid: exam.70-767
 - uid: exam.70-768

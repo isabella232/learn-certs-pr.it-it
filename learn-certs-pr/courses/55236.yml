@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Writing Reports with Report Builder and SSRS Level 3
+metadata:
+  title: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+  description: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+uid: course.55236
+courseNumber: '55236-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Usare forme per creare viste di report personalizzate e migliori 
+- skill: Capire l'uso della programmazione Visual Basic nei report SSRS.
+- skill: Usare e supportare la codifica Visual Basic nello sforzo di report SSRS.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  In questo corso di 1 giorno, gli studenti continueranno ad apprendere sulla scrittura dei report con Microsoft® SQL Server® Report Builder e SSRS. Il focus di questo corso è la promozione di viste di report personalizzate e migliori e l'uso della programmazione Visual Basic nel report SSRS. Il supporto della programmazione Visual Basic è un requisito comune nel panorama attuale dei report, e questo corso presenta le informazioni di cui avrai bisogno per discussioni di gruppo, fogli di lavoro, pratiche, dimostrazioni e attività laboratoriali. Report Builder è disponibile per tutte le versioni supportate di Microsoft SQL Server.
+
+  #### Profilo d'Utenza
+  Il pubblico principale per questo corso è rappresentato da utenti con esperienza con Report Builder e SSRS. Il pubblico secondario è costituito da autori di report con esperienza Report Designer (SSRS). I partecipanti al corso potrebbero essere analisti aziendali, analisti programmatori, analisti dati, amministratori di database o professionisti IT. 
+prerequisitesSection: |-
+  Prima di frequentare questo corso, gli studenti devono avere o sapere&#58;
+  - Familiarità con Windows.
+  - Creare ed esplorare cartelle.
+  - Aprire programmi.
+  - Manipolare windows.
+  - Copiare, incollare e formattare testo.
+  - Salvare file.
+  - Course 55128&#58; Writing Reports with Report Builder and SSRS Level 2
+  - Microsoft® Office Access 2013&#58; Level 1 o esperienza equivalente nei concetti di base relativi ai database.
+outlineSection: |-
+  ### Modulo 1&#58; Creare Visualizzazioni Migliorate 
+  Questo modulo introduce tecniche di formattazione report che creano visualizzazioni migliorate usando forme, rettangoli, immagini e regioni dati. Per supportare visualizzazioni di report migliorate e personalizzate, questo corso necessita di una revisione di proprietà specifiche che supportano il controllo degli elementi mostrati in un report. 
+  
+  #### Lezioni
+  - L'Importanza delle Forme nei Report
+  - Visualizzazioni Migliorate Usando il Rettangolo 
+  - Controllare la Visualizzazione degli Elementi del Report 
+  - Creare Tiles in un Tablix
+
+
+  #### Lab &#58; Creare Visualizzazioni Migliorate 
+  - Creare Tiles in un Report con Rettangoli
+  - Creare Tiles in un Tablix con Caselle di Testo
+  - Creare Visualizzazioni Migliorate con Tiles Caselle di Testo, Tiles Tablix e Tablixes
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare funzionalità chiave, usi e approcci all'uso delle forme nella rendicontazione. 
+  - Avere una comprensione più approfondita dello strumento rettangolo. 
+  - Manipolare le proprietà di elementi del report che hanno un impatto sulla visualizzazione degli stessi. 
+  - Trasformare regioni dati mostrando tiles invece che caselle di testo. 
+
+
+  ### Modulo 2&#58; Visual Basic
+  Questo modulo offre un'introduzione al linguaggio di programmazione Microsoft Visual Basic. L'obiettivo di questo modulo è rendere significativo il linguaggio di programmazione con il suo uso per i non programmatori. Questo modulo impiega il libro del corso, fogli di calcolo, discussioni di gruppo e recensioni non solo per introdurre la programmazione Visual Basic, ma anche per capire cosa stia facendo il codice.
+  
+  #### Lezioni
+  - Il Linguaggio di Programmazione Visual Basic 
+  - Componenti del Linguaggio Visual Basic 
+  - Strutture e Procedure Decisionali 
+
+
+  #### Lab &#58; Lavorare con Visual Basic
+  - Convertire Espressioni in Procedure Visual Basic 
+  - Lavorare con Tipi di Valore in Report
+  - Lavorare con Tipi di Referenze in Report
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare le funzioni chiave di Visual Basic.
+  - Illustrare gli elementi del linguaggio Visual Basic.
+  - Riconoscere affermazioni Visual Basic e il loro scopo. 
+  - Usare la struttura decisione per applicare una logica al flusso di lavoro. 
+  - Convertire logica aziendali in codici Visual Basic.
+
+
+  ### Modulo 3&#58; Usare Visual Basic nei Report SSRS 
+  Gli scrittori di report possono trarre vantaggio dal linguaggio Visual Basic in tre modi diversi nell'applicazione Report Builder. Se il linguaggio di programmazione Visual Basic era incorporato nella progettazione o è stato ereditato da report esistenti, gli scrittori di report devono essere consapevoli di come le funzionalità possono essere applicate per raggiungere gli obiettivi di rendicontazione. Visual Basic è il linguaggio richiesto per Report Builder.
+  
+  #### Lezioni
+  - Visual Basic in Report SSRS 
+  - Chiamare il codice Visual Basic dal Report
+  - Usare codice esterno Visual Basic in un Report
+
+
+  #### Lab &#58; Usare Visual Basic nei Report
+  - Usare la Logica Condizionale con Valori Letterali, Campi e Elementi del Report 
+  - Creare un Report usando Visual Basic
+  - Aggiornare un Report per Usare un Codice Esterno 
+  - Risolvere Errori di Visual Basic in un Report
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Illustrare le funzionalità chiave e gli usi di Visual Basic nelle soluzioni di rendicontazione SSRS.
+  - Riconoscere le tre implementazioni del codice Visual Basic disponibili in un report.
+  - Creare variabili, costanti, espressioni e procedure Visual Basic.
+  - Collegare e usare un assemblaggio esterno con codice personalizzato in un report. 
+  - Risolvere errori di Visual Basic in un report.

@@ -19,6 +19,10 @@ subTitle: "I Consulenti Funzionali di Dynamics 365 Commerce configurano e utiliz
 levels:
 - intermediate
 skills:
+- Illustrare app di finanza ed operazioni, ed estendere app usando tecnologie Microsoft Power Platform 
+- Configurare funzionalità e flussi di lavoro amministrativi 
+- Gestire dati di finanza ed operazioni 
+- Convalidare e supportare soluzioni 
 - Configurare gli Headquarter in Dynamics 365 Commerce
 - Configurare prodotti, prezzi, sconti, programmi fedeltà e affiliazioni
 - Gestire i punti vendita (POS) in Dynamics 365 Commerce
@@ -54,6 +58,9 @@ resources:
 - title: Poster di certificazione
   description: Scoprire una panoramica che include certificazioni di base, basate su ruoli e specialistiche per Dynamics 365 e Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Percorso verso la certificazione 
+  description: Esplora i passi per ottenere la certificazione e le risorse disponibili per aiutarti nella preparazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWJJ8C
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://aka.ms/TrainingCertDeck

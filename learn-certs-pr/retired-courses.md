@@ -19,6 +19,21 @@ Una volta rimosso un corso, non sarà più disponibile. Il corso non potrà più
 
 ## Corsi rimossi: Formazioni tenute da istruttori
 
+* Rimozione materiale didattico il 29 ottobre 2021
+
+    | Numero corso | Versione | Titolo| Lingua| Data di rimozione |
+    | --- | --- | --- | --- | --- |
+    | 10997 | D | Office 365 Administration and Troubleshooting | Inglese | 29/10/2021 |
+
+* Rimozione materiale didattico il 30 settembre 2021
+
+    | Numero corso | Versione | Titolo| Lingua| Data di rimozione |
+    | --- | --- | --- | --- | --- |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | Inglese | 30/09/2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | Inglese | 30/09/2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | Inglese | 30/09/2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | Inglese | 30/09/2021 |
+
 * Rimozione materiali didattici il 31 agosto 2021
 
     | Numero corso | Versione | Titolo | Lingua | Data rimozione |

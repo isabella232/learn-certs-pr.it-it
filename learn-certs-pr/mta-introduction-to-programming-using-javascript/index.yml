@@ -13,12 +13,17 @@ subTitle: "Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrar
 levels:
 - beginner
 skills:
-- nessuna
+- Programma con Operatori JavaScript, Metodi e Parole Chiave 
+- Programma con variabili, tipi di dati e funzioni
+- Implementa e Analizza Decisioni e Cicli 
+- Interagisci con il Documento Oggetto Modello 
+- Interagisci con i moduli HTML 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLz
 exams:
 - uid: exam.98-382
 resources:

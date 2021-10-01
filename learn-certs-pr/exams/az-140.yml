@@ -6,6 +6,8 @@ metadata:
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+
   I candidati per questo esame sono amministratori con competenza in materia in merito a pianificazione, fornitura e gestione delle esperienze virtuali su desktop e app in remoto, per ogni dispositivo, su Azure.
   
   Le responsabilità per questo ruolo comprendono la distribuzione di esperienze virtuali su desktop e app su Azure. I professionisti in questo ruolo forniscono delle applicazioni su Azure Virtual Desktop e le ottimizzano in modo che siano eseguite in ambienti virtuali multisessione. Per fornire queste esperienze, lavorano a stretto contatto con amministratori e architetti Azure, insieme a Microsoft 365 Administrators.
@@ -19,10 +21,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFS
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- 'NOTA: I punti a seguire relativi alle competenze valutate non sono pensati per illustrare come le valutiamo. Questa lista NON è da intendersi definitiva o esaustiva.'
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Pianificare una Azure Virtual Desktop Architecture (10-15%)
 - Implementare una Azure Virtual Desktop Infrastructure (25-30%)
 - Gestire Accesso e Sicurezza (10-15%)

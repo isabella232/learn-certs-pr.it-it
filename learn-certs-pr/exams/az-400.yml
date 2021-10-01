@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 25 maggio 2021. Scarica la descrizione della competenze valutate qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 29 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati a questo esame devono avere esperienza in materia lavorando con persone, processi e tecnologie per fornire continuamente valore aziendale.
   
@@ -26,7 +26,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame è stato aggiornato il 25 maggio 2021. Scarica la descrizione della competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
+- Il contenuto di questo esame sarà aggiornato il 29 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Sviluppare una strategia di strumentazione (5-10%)
 - Sviluppare una strategia di Site Reliability Engineering (SRE) (5-10%)
 - Sviluppare un piano di sicurezza e conformità (10-15%)

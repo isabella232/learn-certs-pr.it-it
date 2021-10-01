@@ -6,10 +6,14 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 25 maggio 2021. Scarica la descrizione della competenze valutate qui sotto per prendere visione dei cambiamenti apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati a questo esame devono avere esperienza in materia di implementazione, gestione e monitoraggio dell'ambiente Microsoft Azure di un'organizzazione.
   
+  Le responsabilità di questo ruolo comprendono implementazione, gestione e monitoraggio identificazione, governance, archiviazione, calcolo, e reti virtuali in un ambiente cloud, e anche fornitura, ridimensionamento, monitoraggio, e regolazione risorse, quando necessario.
+  
+  Un amministratore Azure fa spesso parte di un team più ampio dedicato all'implementazione dell'infrastruttura cloud di un'azienda.
+
   Un candidato a questo esame deve avere almeno sei mesi di esperienza pratica nell'amministrazione di Azure, oltre a una solida conoscenza dei principali servizi di Azure, dei carichi di lavoro di Azure, della sicurezza e della governance. Inoltre, per questo ruolo si deve avere esperienza nell'uso dei modelli PowerShell, di Azure CLI, del portale di Azure e di Azure Resource Manager.
   
   Superando questo esame di certificazione potresti essere idoneo per il credito universitario ACE. Consulta [Crediti universitari ACE per gli esami di certificazione](/learn/certifications/ace-credit-for-certification-exams) per maggiori informazioni.
@@ -29,10 +33,11 @@ locales:
 - ja
 - fr
 - es
+- de
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 25 maggio 2021. Scarica la descrizione della competenze d'esame qui sotto per prendere visione dei cambiamenti apportati.
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Gestire le identità e la governance Azure (15-20%)
 - Implementare e gestire l'archiviazione (15-20%)
 - Distribuire e gestire le risorse di calcolo Azure (20-25%)

@@ -13,12 +13,16 @@ subTitle: "Le certificazioni MTA sono un ottimo punto di partenza se vuoi entrar
 levels:
 - beginner
 skills:
-- nessuna
+- Comprendi i strati di sicurezza
+- Comprendere la protezione del sistema operativo
+- Comprendere la protezione di rete
+- Comprendere i software di protezione 
 roles:
 - administrator
 type: mta
 products:
 - windows-server
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolL
 exams:
 - uid: exam.98-367
 resources:

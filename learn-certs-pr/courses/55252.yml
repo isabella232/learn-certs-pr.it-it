@@ -1,0 +1,173 @@
+### YamlMime:Course
+title: Introduction to SharePoint 2016
+metadata:
+  title: 'Course 55252-A: Introduction to SharePoint 2016'
+  description: 'Course 55252-A: Introduction to SharePoint 2016'
+uid: course.55252
+courseNumber: '55252-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Esplorare un Sito Team SharePoint 2016.
+- skill: Creare liste SharePoint.
+- skill: Personalizzare liste SharePoint.
+- skill: Creare librerie SharePoint.
+- skill: Gestire versioni di documenti della libreria.
+- skill: Creare liste e viste libreria SharePoint.
+- skill: Integrare app Office Outlook e Excel con SharePoint 2016.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Questo corso di un giorno tenuto da istruttore è per gli utenti finali che lavorano in un ambiente SharePoint 2016. Si tratta di una versione più breve del nostro corso completo SharePoint End User ed è pensato per le persone nuove all'uso di SharePoint che non saranno responsabili della gestione di un sito SharePoint.
+
+  #### Profilo d'Utenza
+  Questo corso è pensato esclusivamente per gli utenti nuovi a SharePoint.
+outlineSection: |-
+  ### Modulo 1&#58; Introduzione a SharePoint 2016 
+  SharePoint 2016 è fondamentalmente uno strumento di collaborazione. Il suo scopo primario è facilitare agli utenti la ricerca e la condivisione di informazioni, e a tale scopo ci sono moltissimi funzionalità integrate. La funzionalità del sistema libreria di SharePoint può fornire un'alternativa superiore ai tradizionali server di file. Le liste SharePoint possono essere un'alternativa facile da progettare e da usare per condividere fogli di calcolo o tabelle database più formali. Sia le liste che le librerie possono essere personalizzate ed estese per aspetto e funzionalità promossi, ad esempio con calendari e bacheche di discussione. La collaborazione può avvenire tramite un'interfaccia web e in alcuni casi tramite l'integrazione con app Microsoft Office.
+
+  #### Lezioni
+  - Versioni di SharePoint 
+  - Layout del Sito Team e Navigazione 
+  - Layout
+  - Navigazione
+
+
+  #### Lab &#58; Navigazione del Sito Team
+  
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Conoscere le versioni di SharePoint.
+  - Capire la gerarchia del sito SharePoint.
+  - Capire il layout del Sito Team.
+  - Navigare il Sito Team.
+
+
+  ### Modulo 2&#58; Basi delle Liste su SharePoint 
+  Le liste sono un elemento di base fondamentale su SharePoint che forniscono un modo per gli utenti di archiviare e visualizzare dati. SharePoint offre fin da subito dei template predefiniti di liste che sono facili da usare. Le liste possono essere ulteriormente personalizzate aggiungendo colonne per archiviare ogni tipo di informazione. In più, le colonne delle liste possono essere convalidate e collegate ad altre liste. Le liste sono un elemento molto flessibile e potente di SharePoint.
+
+  #### Lezioni
+  - Creare App Usando Template delle Liste
+  - Creare Liste
+  - Creare Liste Usando Template Liste 
+  - Colonne delle Liste 
+  - Creare Colonne delle Liste
+  - Convalidare le Colonne
+  - Convalidare una Colonna di una Lista
+
+
+  #### Lab &#58; Lavorare con Liste di Siti Team 
+
+  #### Lab &#58; Creare Liste e Colonne Personalizzate
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire i Template delle Liste.
+  - Lavorare con liste di default in un Sito Team.
+  - Creare una nuova lista da un Template Liste.
+  - Creare una lista personalizzata. 
+  - Aggiungere colonne a una lista.
+  - Controllare e convalidare input in campi delle liste.
+  - Collegare dati da liste separate.
+
+
+  ### Modulo 3&#58; Basi delle Librerie
+  Le librerie SharePoint condividono le stesse caratteristiche delle liste SharePoint come colonne, viste, e convalida, per citare qualche esempio. Cosa differenzia le librerie SharePoint è il fatto che ogni elemento presenta un documento sottostante. Quindi, oltre ai dati archiviati nelle colonne delle librerie, il documento archivia i propri dati in base al proprio tipo. Visto che i dati extra che possono essere archiviati nelle colonne possono essere usati per filtrare e funzioni di ricerca, le librerie sono considerate un ottimo sostituto dei più tradizionali server di file. Le librerie sono, come le liste, uno degli elementi basilari di un sito SharePoint.
+
+  #### Lezioni
+  - Template di Librerie
+  - Creare Librerie 
+  - Creare una Libreria di Documenti e Aggiungere Colonne 
+  - Creare una Risorsa Libreria 
+  - Gestire Documenti e Controllo delle Versioni 
+  - Controllare Documenti 
+  - Cancellare e Ripristinare Documenti
+  - Controllo delle Versioni
+
+
+  #### Lab &#58; Lavorare con Librerie del Sito Team 
+
+  #### Lab &#58; Creare Librerie
+
+  #### Lab &#58; Controllo delle Versioni di un Documento 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare nuove librerie usando template.
+  - Lavorare con diverse librerie in un Sito Team di default.
+  - Aggiungere colonne a una libreria.
+  - Controllare documenti per modifiche.
+  - Cancellare e ripristinare documenti da librerie documenti.
+  - Abilitare il controllo delle versioni su una libreria.
+  - Riportare un documento di una libreria a una versione precedente.
+
+
+  ### Modulo 4&#58; Lavorare con Liste e Viste della Libreria 
+  Le viste forniscono un sistema flessibile per mostrare liste e dati di una libreria SharePoint in un modo facile da leggere e da usare. Ogni lista e libreria SharePoint piò avere diverse viste ed essere configurata, ed alcune liste e template libreria presentano viste speciali preconfigurate. Le viste possono essere definite per un uso condiviso o personale.
+
+  #### Lezioni
+  - Viste di Default
+  - Esplorare le Viste di Default 
+  - Viste Personalizzate
+  - Come Creare una Vista Personalizzata
+
+
+  #### Lab &#58; Lavorare con le Viste 
+
+  #### Lab &#58; Creare Viste Pubbliche e Personali 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Usare viste di default integrate in liste e librerie.
+  - Creare viste personali.
+  - Creare viste condivise.
+  - Configurare viste.
+  - Impostare la vista di default per una lista o libreria.
+
+
+  ### Modulo 5&#58; Integrazione Office
+  Una delle funzionalità apprezzabili di SharePoint è la sua capacità di integrazione con app Microsoft Office. Proprio come ogni applicativo Office offre un certo livello di integrazione con SharePoint che può essere semplice, come l'uso di fogli di calcolo per creare una nuova lista, oppure più completa, come un'integrazione di Outlook. Alcune funzioni di integrazione promuovono cosa è disponibile online tramite un browser, mentre altre consentono l'accesso a contenuti SharePoint offline come un ambiente computer mobile. Questo modulo comprende una serie di passi guidati ed esercizi per mostrare come ogni applicazione Office possa essere integrata con SharePoint. Nota che questo modulo esplora l'integrazione con Office installato localmente su macchinari connessi a SharePoint. Office Online Server è una versione con base browser di Office che ti consente di creare e modificare documenti office. Con SharePoint 2016 Office Online Server può essere integrato ed è considerato un elemento essenziale per molte installazioni SharePoint. Detto ciò, è un prodotto separato da SharePoint e per questo non è coperto in questa parte del corso.
+
+  #### Lezioni
+  - Integrazione Excel 
+  - Integrazione Outlook 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Creare una lista da un foglio di calcolo Excel.
+  - Aggiornare la vista di un foglio di calcolo di una lista dati SharePoint.
+  - Creare un avviso. 
+  - Abbonarsi e visualizzare un feed RSS da una lista SharePoint.
+  - Fare una copia di una libreria su Outlook.
+  - Usare la vista Datasheet.
+  - Aprire e modificare una lista su Access.
+
+
+  ### Modulo 6&#58; Lavorare con i Siti
+  Tutti i contenuti SharePoint sono accessibili tramite un sito. Un sito SharePoint è il recipiente di liste e librerie e fornisce un punto di partenza per un'amministrazione di base. Il contenuto, le liste, le librerie e l'aspetto e le impressioni di base di un sono inizialmente determinati dal Template del Sito usato per la sua creazione.
+
+  #### Lezioni
+  - Template Siti
+  - Creare Siti
+  - Creare un Sito Team
+  - Esplorare il Sito 
+  - Gestire la Navigazione sul Sito
+
+
+  #### Lab &#58; Creare Siti Team 
+
+  #### Lab &#58; Creare uno Spazio di Lavoro per Riunioni 
+
+  #### Lab &#58; Creare un Sito Blog 
+
+  Dopo aver completato questo modulo, gli studenti saranno in grado di&#58;
+  - Capire cosa sono i Template Sito.
+  - Capire i diversi tipi di Template Sito che sono già pronti all'uso con diverse versioni di SharePoint.
+  - Creare un nuovo sito usando Template Siti.
+  - Creare un Progetto sito.
+  - Creare un sito Team.
+  - Creare un sito Community.
+  - Creare un sito Blog.
+  - Gestire i siti elencati nella Barra Top Link.

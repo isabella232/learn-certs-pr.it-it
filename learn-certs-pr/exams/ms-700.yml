@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
   
   I candidati per questo esame sono amministratori Microsoft Teams che gestiscono Microsoft Teams per facilitare una collaborazione e una comunicazione efficiente ed efficace in un ambiente Microsoft 365.
   
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 26 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Pianificare e configurare un ambiente Microsoft Teams (35-40%)
 - Gestire chat, team, canali e app (25-30%)
 - Gestire chiamate e riunioni (15-20%)
@@ -40,8 +40,10 @@ products:
 courses:
 - uid: course.ms-700t00
 paths:
-- uid: learn-m365.m365-manage-team-collaboration
-- uid: learn-m365.m365-teams-upgrade
+- uid: learn.wwl.get-started-managing-microsoft-teams
+- uid: learn.wwl.prepare-environment-for-microsoft-teams-deployment
+- uid: learn.wwl.manage-chat-teams-channels-apps-microsoft-teams
+- uid: learn.wwl.manage-meetings-calling-microsoft-teams
 relatedCertifications:
 - related:
     uid: certification.m365-teams-administrator-associate

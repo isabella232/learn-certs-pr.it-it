@@ -1,0 +1,25 @@
+### YamlMime:CertificationRenewal
+title: 'Rinnovo per Microsoft 365 Certified: Developer Associate'
+metadata:
+  title: 'Rinnovo per Microsoft 365 Certified: Developer Associate'
+  description: 'Se hai questa certificazione con scadenza tra sei mesi, sei idoneo al rinnovo.'
+uid: renewal.m365-developer-associate
+certificationUid: certification.m365-developer-associate
+assessmentId: 9036b9d3-e5e5-4d23-b08f-f8c1694a48da
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se hai questa certificazione con scadenza tra sei mesi, sei idoneo al rinnovo. Mostra che sei al passo con gli ultimi aggiornamenti Microsoft 365 passando la valutazione per il rinnovo. Puoi anche prepararti al rinnovo con la collezione apposita di moduli di apprendimento.
+skills:
+- Raccogliere Input su Microsoft Teams Con Moduli Attività 
+- Creare esperienze web incorporate con schede per Microsoft Teams
+- Microsoft Teams – Usare l'endpoint teamwork Microsoft Graph endpoint
+- Microsoft Teams – Autentificazione e Single Sign-on
+- Creare bot conversazionali interattivi per Microsoft Teams
+examsPassed:
+- ms-600
+studyGuideDescription: 'Usa questa collezione di moduli di apprendimento per aiutarti nella preparazione di Microsoft 365 Certified: Developer Associate renewal assessment.'
+resources:
+- title: Informazioni sul rinnovo della certificazione
+  summary: Comprensione del processo e requisiti per rinnovare le certificazioni online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

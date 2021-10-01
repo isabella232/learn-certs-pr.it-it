@@ -13,7 +13,17 @@ subTitle: Questa certificazione dimostra le tue competenze relative all'implemen
 levels:
 - intermediate
 skills:
-- none
+- Gestire il flusso del programma 
+- Creare e utilizzare i tipi 
+- Eseguire il debugging delle applicazioni e implementare la sicurezza 
+- Implementare l'accesso ai dati 
+- Sviluppare il layout di una pagina XAML per un'interfaccia utente adattiva 
+- Implementare la navigazione sulle pagine e gli eventi del ciclo di vita 
+- Implementare l'accesso ai dati e il data binding 
+- Implementare il rilevamento delle funzionalità per la codifica adattiva 
+- Gestire l'input utente e le interazioni utente personalizzate 
+- Gestire l'autenticazione e gestione delle identità 
+- Implementare notifiche, attività in background e componenti riutilizzabili 
 roles:
 - administrator
 type: mcsa
@@ -21,6 +31,7 @@ products:
 - vs
 courses:
 - uid: course.20483
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMD
 exams:
 - uid: exam.70-483
 - uid: exam.70-357

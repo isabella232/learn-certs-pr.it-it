@@ -6,7 +6,7 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div><font color='red'><strong>Il contenuto di questo esame è stato aggiornato il 29 luglio 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica il documento con la valutazione delle competenze qui sotto per prendere visione dei cambiamenti che saranno apportati.</strong></font><br/><br/></div>
 
   I Data Analyst consentono alle aziende di massimizzare il valore del loro patrimonio di dati utilizzando Microsoft Power BI. In qualità di esperti in materia, i Data Analyst sono responsabili della progettazione e della costruzione di modelli di dati scalabili, della pulizia e della trasformazione dei dati e dell'abilitazione di capacità analitiche avanzate che forniscono un valore aziendale significativo grazie a visualizzazioni dati facili da comprendere. I Data Analyst collaborano anche con i principali stakeholder a livello verticale per fornire informazioni rilevanti sulla base dei requisiti di business identificati.
   <br/>
@@ -26,10 +26,13 @@ locales:
 - zh-cn
 - ko
 - ja
+- fr
+- de
+- es
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 29 luglio 2021. Scarica la descrizione delle competenze d'esame per prendere visione dei cambiamenti che sono stati apportati.
+- Il contenuto di questo esame sarà aggiornato il 24 settembre 2021. Scarica la descrizione delle competenze d'esame qui sotto per prendere visione dei cambiamenti che saranno apportati.
 - Preparare i dati (20-25%)
 - Modellare i dati (25-30%)
 - Visualizzare i dati (20-25%)

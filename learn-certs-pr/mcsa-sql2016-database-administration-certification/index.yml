@@ -13,7 +13,13 @@ subTitle: Questa certificazione convalida le tue competenze relative ad attivit�
 levels:
 - intermediate
 skills:
-- none
+- Configurare l'accesso e il controllo dei dati 
+- Gestire il backup e il ripristino dei database
+- Gestire e monitorare le istanze di SQL Server
+- Gestire l’elevata disponibilità e il ripristino di emergenza 
+- Implementare SQL in Azure 
+- Gestire database e istanze 
+- Gestisci archiviazione 
 roles:
 - database-administrator
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20764
 - uid: course.20765
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlME
 exams:
 - uid: exam.70-764
 - uid: exam.70-765

@@ -12,7 +12,6 @@ summary: |-
   Se hai questa certificazione e scade tra sei mesi, sei idoneo per richiederne il rinnovo. Dimostra di esserti tenuto aggiornato sugli ultimi aggiornamenti di Azure Machine Learning superando l’esame di rinnovo. Puoi anche prepararti al rinnovo usando la raccolta selezionata di moduli di formazione.
 skills:
 - Introduzione ad Azure Machine Learning SDK
-- Formazione di un modello di apprendimento automatico con Azure Machine Learning
 - Attività con i dati in Azure Machine Learning
 - Utilizzo del Calcolo in Azure Machine Learning
 - Coordinamento dell’apprendimento automatico con pipeline
