@@ -2,12 +2,12 @@
 title: "Riprogrammazione dell'esame e politica di cancellazione | Microsoft Docs"
 description: "Riprogrammazione dell'esame e politica di cancellazione" 
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/11/2020
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # Riprogrammazione dell'esame e politica di cancellazione
