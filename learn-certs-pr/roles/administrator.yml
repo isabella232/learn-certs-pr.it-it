@@ -1,9 +1,9 @@
 ### YamlMime:Role 
-title: Administrator 
+title: Administrator
 metadata: 
-  title: Administrator 
+  title: Administrator
   description: Gli amministratori implementano, monitorano e aggiornano le soluzioni di Microsoft, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.
-uid: role.administrator 
+uid: role.administrator
 summary: | 
   Gli amministratori implementano, monitorano e aggiornano le soluzioni di Microsoft, tra cui i servizi principali relativi all’elaborazione, l’archiviazione, la rete e la sicurezza.
 subTitle: Gli amministratori implementano, monitorano e aggiornano le soluzioni di Microsoft.
